@@ -1,0 +1,1510 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.500
+Dzień dobry, witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry.
+
+00:00:05.500 --> 00:00:09.200
+Dzień dobry, witam Państwa. Remigiusza też witam.
+
+00:00:09.200 --> 00:00:11.800
+Masz bardzo grobowy głos. Coś się stało?
+
+00:00:11.800 --> 00:00:19.300
+Jest tak wcześnie rano, że jest 12.15.
+
+00:00:19.300 --> 00:00:25.300
+No tak, to bardzo, jak na nas to jest dosyć wczesna godzina, a to dlatego, że Borys wymywa, wybywa.
+
+00:00:25.300 --> 00:00:26.800
+Wybywam do lasu.
+
+00:00:26.800 --> 00:00:27.600
+Do lasu?
+
+00:00:27.600 --> 00:00:28.600
+Do lasu, no.
+
+00:00:28.600 --> 00:00:31.300
+Uważaj na kleszcza.
+
+00:00:31.300 --> 00:00:38.700
+Mam taki preparat bardzo, bardzo dobry, ale też uważam i się potem z żoną badamy, czy nie ma nim kleszcza.
+
+00:00:38.700 --> 00:00:42.200
+Tak, oczywiście.
+
+00:00:42.200 --> 00:00:44.000
+Boty YouTube'a czekają na nas na każdym kroku.
+
+00:00:44.000 --> 00:00:47.800
+Jesteśmy w tym wieku, że możemy się bawić w lekarza. Moja żona jest lekarzem też czasami, więc...
+
+00:00:47.800 --> 00:00:52.500
+Proszę Cię. Nie, to wyobraźnia mi podpowiada straszne rzeczy. Nie chciałem tego widzieć.
+
+00:00:52.500 --> 00:00:58.900
+Chciałbym też zauważyć, że mam tą samą koszulkę, co w zeszłym tygodniu i się tego nie wstydzę.
+
+00:00:58.900 --> 00:01:03.800
+To bardzo dobrze, bardzo dobrze, bo jesteś ekologiczny, oszczędzasz wodę, nie ma co przesadzać z praniem.
+
+00:01:03.800 --> 00:01:09.200
+Dobrze, panie Borysie, o czym będziemy rozmawiali dzisiaj? Czy to jest łatwy temat, czy to jest taki skomplikowany?
+
+00:01:09.200 --> 00:01:12.000
+Czy ludzie będą bardzo się zdenerwowali w komentarzach?
+
+00:01:12.000 --> 00:01:21.800
+Ludzie bardzo, bo ja zauważyłem, że to jest ten temat, gdzie nie potrzebujesz żadnej dodatkowej wiedzy poza przeczytaniem tytułu.
+
+00:01:21.800 --> 00:01:29.400
+Żeby wyrazić swoją opinię i to się dzieje. Ja patrzę, jak ten świat płonie i tak mówię, what the fuck, co tu się dzieje?
+
+00:01:29.400 --> 00:01:36.700
+Ale zanim przejdziemy do tych cudownych Oscarów i nowych zasad. Remigiuszu, co u Ciebie?
+
+00:01:36.700 --> 00:01:42.000
+A wiesz co, wszystko w porządku, bez jakichś tam wielkich szaleństw. Nie wiem, czy o tym opowiadałem.
+
+00:01:42.000 --> 00:01:45.000
+Miałem okazję pograć w tego Immortal Fenyx Rising, ale to już wam mówię.
+
+00:01:45.000 --> 00:01:47.700
+No, opowiadałeś, ale nie mówiłeś za bardzo o wrażeniach.
+
+00:01:47.700 --> 00:01:55.100
+No, jest okej, całkiem spoko. Taka raczej gra przeznaczona teoretycznie. Cholera, to bym musiał dłużej się zastanawiać nad tym.
+
+00:01:55.100 --> 00:02:01.900
+Bawiłem się nie najgorzej, ale mam wrażenie, że ona jest taka bardziej dla fanów Zeldy, a ja fanem Zeldy wielkim nie jestem.
+
+00:02:01.900 --> 00:02:02.900
+Takie są opinie.
+
+00:02:02.900 --> 00:02:09.000
+Raczej nie jestem docelowym odbiorcą. No, ale jest fajne, ale nie chcę też przesadzać z zachwytami.
+
+00:02:09.000 --> 00:02:21.000
+No, ja raczej nie mam wątpliwości. Ten zespół, który to robi, to są jakieś hardkory, więc liczę, że to będzie dobry tytuł.
+
+00:02:21.000 --> 00:02:35.200
+A jak już pytasz, co u mnie, to zasmarciłem się trochę, czyli kupiłem sobie cztery inteligentne gniazdka do domu i podpiąłem w paru różnych celach.
+
+00:02:35.200 --> 00:02:43.200
+Czyli pierwsze podpiąłem do Raspberry Pi, do radia, które mam, żeby to jakby zautomatyzować.
+
+00:02:43.200 --> 00:02:44.200
+A czekaj, musisz mi powiedzieć, co to znaczy?
+
+00:02:44.200 --> 00:02:52.200
+Smart Gniazdko, to jest taki jakby, kurde, nie wiem, wszystkie zużyte, więc nie mogę ci pokazać.
+
+00:02:52.200 --> 00:02:53.200
+One się zużywają?
+
+00:02:53.200 --> 00:03:00.200
+Nie, w sensie używam je, są w gniazdkach. Czyli wsadzasz taki dynks do gniazdka i do tego dynksa wstawiasz kabel,
+
+00:03:00.200 --> 00:03:13.200
+czyli to jest taka przelotka, która jest podłączona do sieci i ona steruje i potrafi to wyłączyć, włączyć, mierzy wszystkie parametry, czyli jaki jest pobór prądu i tak dalej.
+
+00:03:13.200 --> 00:03:27.200
+Możesz też sobie to w pewien sposób zinteligencić, czyli na przykład robisz sobie coś takiego przy ekspresie do kawy i ustawiasz, że od dziewiątej on ma się odpalić i robić ci kawę.
+
+00:03:27.200 --> 00:03:37.200
+To jest takie uproszczenie, ale to nie działa tak dobrze z rzeczami, które nie są smart.
+
+00:03:37.200 --> 00:03:48.200
+Dobrze mi to działa z klimatyzacją, czyli na smartfonie odpalam sobie włącz klimatyzacji i ta klimatyzacja po prostu odpala się, zaczyna działać, ale nie mogę sterować tym.
+
+00:03:48.200 --> 00:03:49.200
+Rozumiem.
+
+00:03:49.200 --> 00:04:00.200
+Za to na przykład mam lampkę nocną, uznałem, że to jest świetny pomysł, że będę sobie ze smartfona włączał lampkę, ale nie mogę jej w taki normalny sposób tym przyciskiem.
+
+00:04:00.200 --> 00:04:02.200
+Tak, bo masz prąd odłączający.
+
+00:04:02.200 --> 00:04:14.200
+Tak, dokładnie, albo na szczęście te gniazdka mają swoje przyciski, więc mogę to fizycznie włączyć, wyłączyć, ale na przykład też zrobiłem błąd, taki logiczny super,
+
+00:04:14.200 --> 00:04:24.200
+że podpiąłem pod komputer i to jest w ogóle podpiąłem tylko po to, żeby sobie mierzyć ile on miesięcznie mi zjada prądu, ile mnie ten komputer będzie kosztować.
+
+00:04:24.200 --> 00:04:26.200
+Przeraziłem się po pierwszym dniu.
+
+00:04:26.200 --> 00:04:27.200
+Tak?
+
+00:04:27.200 --> 00:04:38.200
+Tak, ale słuchajcie, zrobię taki raport w ogóle albo na grupie za miesiąc będzie, tylko chcę, żeby pełny miesiąc, pełne tam 30 dni było, ile to kosztuje,
+
+00:04:38.200 --> 00:04:52.200
+ja podpiąłem listwę, na której jest komputer, konsola, dwa monitory i router, ale najśmieszniejsze jest to, że jak to wyłączę, to router przestaje działać i nie mogę sterować tymi gniazdkami, więc nie mogę włączyć.
+
+00:04:52.200 --> 00:05:07.200
+To taki typowy logiczny błąd, straszliwy, muszę to zmienić szybko, ale powiem Ci, że komputer chyba trochę zabiera mi mój prądu.
+
+00:05:07.200 --> 00:05:18.200
+Zobaczymy, ile to jest konkretnych pieniędzy, zastanawiam się, czy to nie jest nawet około 50 złotych miesięcznie. Te wszystkie dziady, które tu mam.
+
+00:05:18.200 --> 00:05:22.200
+W skali wydatków domowych to nie jest chyba taka kwota aż…
+
+00:05:22.200 --> 00:05:36.200
+Jedna trzecia za prąd? Nawet więcej? Chociaż wiesz, myślę, że lodówka dużo zabiera, jakaś tam płyta indukcyjna, piekarnik, te chleby też robię, więc…
+
+00:05:36.200 --> 00:05:39.200
+No ale tak czy inaczej, dobra inicjatywa, warto wiedzieć.
+
+00:05:39.200 --> 00:05:49.200
+Tak, bo sprawdzę, podzielę się z Wami. Oczywiście kupiłem na przecenie, na PePerze była super okazja, na Amazonie to zamówiłem i sprawnie.
+
+00:05:49.200 --> 00:06:04.200
+Wszystko jeszcze, to są takie gniazdka przeszłościowe, one łączą się z wszystkimi asystentami, czyli z Apple Home, Google Home, Siri, asystentami wszystkimi dowolnymi, więc jestem zadowolony, bo było tanio.
+
+00:06:04.200 --> 00:06:13.200
+No dobrze, zatem panie Borysie, co tam w tych Oskarach? Ty opowiedz o tych wstępnych informacjach, bo dużo lepiej to wszystko kojarzysz.
+
+00:06:13.200 --> 00:06:29.200
+Proszę Państwa, Amerykańska Akademia Sztuki i Wiedzy Filmowej, podkreślam, jest to prywatna inicjatywa branży filmowej amerykańskiej, zapowiedziała wprowadzenie zmian w wymogach dla kategorii najlepszy film.
+
+00:06:29.200 --> 00:06:44.200
+Te zmiany będą wprowadzane stopniowo, zaczną obowiązywać za 4 lata bodajże, na 2023-2024 albo coś takiego.
+
+00:06:44.200 --> 00:06:57.200
+Te standardy różnorodności mają za zadanie zwiększenie reprezentacji poniższych grup i ja te grupy teraz powiem, żeby potem przy każdym tym nie powtarzać.
+
+00:06:57.200 --> 00:07:09.200
+Kobiety, osoby LGBTQ+, osoby z upośledzeniem umysłowym lub fizycznym, lub osoby niesłyszące lub niedosłyszące, osoby z grupy rasowej lub etnicznej,
+
+00:07:09.200 --> 00:07:32.200
+czyli np. Azjaci, Latynosi, Czarni, rdzenni Amerykanie czy rdzenni mieszkańcy Alaski, mieszkańcy Bliskiego Wschodu Afryki Północnej, rdzenni mieszkańcy Hawajów lub innych wysp Pacyfiku lub inna niedostatecznie reprezentatywna rasa lub grupa etniczna.
+
+00:07:32.200 --> 00:07:45.200
+Pośród tych wskazań, oczywiście ja traktuję to dosyć poważnie, natomiast pojawiło się takie pytanie, czy np. przygłuchy Azjata bez nogi się liczy jako jeden, czy jako trzech przedstawicieli?
+
+00:07:45.200 --> 00:07:48.200
+Czy trzy kategorie obejmuje, czy tylko jedno?
+
+00:07:48.200 --> 00:07:52.200
+No nie wiem, nie ma takich dokładnych wytwór.
+
+00:07:52.200 --> 00:07:54.200
+Widzę, że ci mój żarcik nie rozwalił doskonały.
+
+00:07:54.200 --> 00:08:12.200
+Dobrze, dobrze, dobrze, idźmy dalej.
+
+00:08:12.200 --> 00:08:15.200
+Nie chciałbyś być taki popularny jak Marcin Dubiel?
+
+00:08:15.200 --> 00:08:18.200
+Nie specjalnie, dziękuję bardzo.
+
+00:08:18.200 --> 00:08:25.200
+Nie wiem jak mam to nazwać, co się wydarzyło w naszym kraju.
+
+00:08:25.200 --> 00:08:33.200
+Nasz kraj jest bardzo blisko związany z Oscarami. Co roku 3-4 filmy z naszego kraju są kandydatami.
+
+00:08:33.200 --> 00:08:50.200
+Ironizujesz, ale Polska jest w topce. Ostatnio to jest jednym z wiodących krajów jeżeli chodzi o nominacje i Oscary, to nawet o tym mówiliśmy, więc jak najbardziej nas to może obchodzić.
+
+00:08:50.200 --> 00:09:04.200
+Przy czym nie powinno do końca, ponieważ te wszystkie wytyczne nie dotyczą filmów nieamerykańskich, czyli nawet jeżeli byłby taki film...
+
+00:09:04.200 --> 00:09:10.200
+Mamy przykład Parasyjta, który wygrał w zeszłym roku. Parasyjta to nie obowiązuje.
+
+00:09:10.200 --> 00:09:12.200
+Mimo, że się łapie w tych kategoriach.
+
+00:09:12.200 --> 00:09:22.200
+Mimo, że się łapie w kategorii, bo to dotyczy tylko kategorii najlepszy film, to też warto znać. Mimo tego, że Parasyjta się łapie, to jego te wytyczne nie dotyczą.
+
+00:09:22.200 --> 00:09:34.200
+Internet się zesrał. Chyba myślę, że to jest najlepsza definicja tego, co się stało. Oburzenia nie było końca.
+
+00:09:34.200 --> 00:09:48.200
+Ja muszę przyznać, że nie do końca wiedziałem, co o tym myśleć. W związku z tym, że samym Oscarom nie przywiązuję specjalnie uwagi do samych Oscarów,
+
+00:09:48.200 --> 00:09:54.200
+to do wszelkich kontrowersji, które się wokół Oscarów wydarzają, też nie wzbudzają we mnie jakichś wielkich emocji.
+
+00:09:54.200 --> 00:10:05.200
+Myślę sobie, że z jednej strony powinienem być oburzony, ale z drugiej strony mnie to nie dotyka. Potem trafiłem na wpis Tomasza Raczka, który mnie trochę zaskoczył.
+
+00:10:05.200 --> 00:10:13.200
+On jest po tej stronie spektrum, która jest dosyć negatywnie nastawiona do zmiany w Oscarach.
+
+00:10:13.200 --> 00:10:16.200
+Pozwolisz, że ja go tutaj przytoczę? Czy to jest za wcześnie?
+
+00:10:16.200 --> 00:10:25.200
+Tomasz Raczek napisał tak, że nowe zasady przyznawania Oscarów są moim zdaniem absurdalne. Poprawność polityczna, parytety, dbanie o jolściową obecność kobiet,
+
+00:10:25.200 --> 00:10:32.200
+przedstawicieli środowiska LGBT czy posiadaczy skóry w kolorze innym niż biały w ekipach produkujących filmy to coś na kształt kodeksu heisa.
+
+00:10:32.200 --> 00:10:36.200
+Musimy mówić, czym kodeks heisa? To jest taki stary kodeks, który tam wiele rzeczy ograniczał.
+
+00:10:36.200 --> 00:10:38.200
+Określam przykład długość całowania się.
+
+00:10:38.200 --> 00:10:43.200
+Tak jest. On dotyczył też obecności kobiet na ekranie chyba i tak dalej.
+
+00:10:43.200 --> 00:10:57.200
+Kodeks heisa to jest taka stricte cenzura. Bardzo konkretne wyznaczniki, które ingerują w konkretny aspekt filmu, czyli to co widzicie na ekranie.
+
+00:10:57.200 --> 00:11:03.200
+Tymczasem w sztuce nie ma miejsca dla równości ani sprawiedliwości. Talentów takie zasady się nie imają.
+
+00:11:03.200 --> 00:11:13.200
+Liczyć się powinna tylko unikalna jakość, wyznosząca się ponad poprawność. Jakość będąca wyzwaniem dla codzienności. Akademio, nie rób proszę z Oscarów związków zawodowych.
+
+00:11:13.200 --> 00:11:19.200
+Tak napisał Tomasz Raczek. Natomiast jeżeli chodzi o większość głosów, z którymi ja się spotkałem,
+
+00:11:19.200 --> 00:11:26.200
+gdzieś w tej mojej bańce informacyjnej, za którą naprawdę ciężko się przebić, przez którą ciężko się przebić, bo człowiek jest niestety otoczony tymi rzeczami,
+
+00:11:26.200 --> 00:11:38.200
+to takie są głosy raczej neutralne i takie, które raczej tą opinię przejawiają, że nie, to nic złego się nie stało, w zasadzie nie ma to wielkiego zasięgu.
+
+00:11:38.200 --> 00:11:50.200
+Zresztą większość filmów i tak już spełnia te wymagania samodzielnie, bez tych Oscarowych wyznaczników, więc może to nie jest żaden problem.
+
+00:11:50.200 --> 00:11:56.200
+Powiedziałbym, że Tomasz Raczek jest najbardziej spośród głosów, które trafiły do mnie, najbardziej konserwatywny.
+
+00:11:56.200 --> 00:12:02.200
+Ja nawet to zbadałem, te wszystkie rzeczy i posiedziałem sobie, ale to może później o tym powiem.
+
+00:12:02.200 --> 00:12:11.200
+Na razie, jako że ja od lat słyszę, że Oscary nikogo, że nikt się nie interesuje tymi Oscarami, nikt nie ogląda, na nic to nie wpływa.
+
+00:12:11.200 --> 00:12:23.200
+To mnie na przykład zaskoczyło, że tak oburzenie duże z rzeczą, którą jeszcze pół roku temu, kiedy była ta gala, to słyszałem, że nie, to nie ma sensu, Oscary, w ogóle dziadostwo, nikogo to nie interesuje.
+
+00:12:23.200 --> 00:12:31.200
+Ile Remig oglądałeś filmów, które były nominowane do najlepszego filmu z poprzedniego roku?
+
+00:12:31.200 --> 00:12:34.200
+Nie mam zielonego pojęcia, bo w ogóle nie obserwowałem tej wartości.
+
+00:12:34.200 --> 00:12:37.200
+Ford vs Ferrari?
+
+00:12:37.200 --> 00:12:38.200
+Oglądałem.
+
+00:12:38.200 --> 00:12:39.200
+Irlandczyk?
+
+00:12:39.200 --> 00:12:40.200
+Oglądałem.
+
+00:12:40.200 --> 00:12:41.200
+Jojo Rabbit?
+
+00:12:41.200 --> 00:12:42.200
+Nie.
+
+00:12:42.200 --> 00:12:43.200
+Joker?
+
+00:12:43.200 --> 00:12:44.200
+Oglądałem.
+
+00:12:44.200 --> 00:12:45.200
+Małe kobietki?
+
+00:12:45.200 --> 00:12:46.200
+Nie.
+
+00:12:46.200 --> 00:12:47.200
+Historia małżeńska?
+
+00:12:47.200 --> 00:12:48.200
+Oglądałem.
+
+00:12:48.200 --> 00:12:49.200
+1917?
+
+00:12:49.200 --> 00:12:50.200
+Jak najbardziej oglądałem.
+
+00:12:50.200 --> 00:12:52.200
+Pewnego razu w Hollywood?
+
+00:12:52.200 --> 00:12:53.200
+Oglądałem.
+
+00:12:53.200 --> 00:12:54.200
+Parasite?
+
+00:12:54.200 --> 00:12:55.200
+O nie.
+
+00:12:55.200 --> 00:12:56.200
+O, nie oglądałeś Parasite, ja to polecam.
+
+00:12:56.200 --> 00:12:57.200
+Nie, nie.
+
+00:12:57.200 --> 00:13:14.200
+Wszystkie te filmy spełniają, nawet 1917. Jest historia dwóch typów, jest jakaś mikro rola kobieca, tam w pewnym momencie spełnia to.
+
+00:13:14.200 --> 00:13:18.200
+Bez problemu, w ogóle, wchodzę na IMDB i ja to widzę już, że spełnia.
+
+00:13:18.200 --> 00:13:20.200
+Tak, tak.
+
+00:13:20.200 --> 00:13:30.200
+Ale Joker, w ogóle ktoś bardzo często, to jest dla mnie niezwykle zabawne, muszę przyznać, ponieważ ja chyba zupełnie inaczej odebrałem ten film niż wiele osób.
+
+00:13:30.200 --> 00:13:43.200
+Wiele osób pisało, że Joker nie spełnia, bo jest o białym facecie. No dobra, ale ten typ jest chory psychicznie. Po drugie, spotyka się z czarnoskórą dziewczyną.
+
+00:13:43.200 --> 00:13:52.200
+Więc tu już jakby jest załatwione. No ale prześledźmy sobie może, zanim sobie porozmawiamy, czy to wpływa, czy nie wpływa, te nowe zasady.
+
+00:13:52.200 --> 00:13:56.200
+Są cztery standardy, które zostały wprowadzone.
+
+00:13:56.200 --> 00:13:59.200
+Nie chcemy państwa zanudzać, ale...
+
+00:13:59.200 --> 00:14:01.200
+Ale to musimy, wydaje mi się, że musimy trochę powiedzieć.
+
+00:14:01.200 --> 00:14:14.200
+Cztery zasady, z których, żeby mieć szansę na branie udziału, bo to jeszcze zależy od jakości filmu, no to trzeba dwa spełniać.
+
+00:14:14.200 --> 00:14:22.200
+Przypominam, że zasadę tworzy Akademia, czyli twórcy filmowi.
+
+00:14:22.200 --> 00:14:34.200
+Tam nie ma dziennikarzy, tam są twórcy filmowi. Oskar jest nagrodą branżową. Podkreślam, to branża sama o sobie stanowi.
+
+00:14:34.200 --> 00:14:49.200
+No i standard A to jest reprezentacja na ekranie, temat i narracja, czyli w tych mniejszościach musi być główni lub ważni aktorzy drugoplanowi, ogólna obsada i co najmniej 30% w ogólnej obsadzie.
+
+00:14:49.200 --> 00:14:59.200
+To jakby, wiesz, czy na przykład 30% kobiet albo 20% kobiet, a 10% reszty.
+
+00:14:59.200 --> 00:15:01.200
+To nie są trudne rzeczy.
+
+00:15:01.200 --> 00:15:08.200
+Albo główny wątek i temat filmu i z tych wszystkich podpunktów tylko jeden wystarczy, że będzie spełniony.
+
+00:15:08.200 --> 00:15:12.200
+Standard B to jest zespół kreatywny i projektowy.
+
+00:15:12.200 --> 00:15:19.200
+I też żeby go osiągnąć wystarczy jedno z tych poniższych punktów, czyli kierownictwo zespołu kreatywnego i szefowie działu.
+
+00:15:19.200 --> 00:15:30.200
+Przy czym szefowie działu to jest na przykład, takie proste tłumaczenie to fryzjerzy, ale hairdresser to trochę tam inaczej niby jest,
+
+00:15:30.200 --> 00:15:38.200
+ale charakteryzatorzy, montażyści, dekoratorzy, scenografowie.
+
+00:15:38.200 --> 00:15:44.200
+Mógłbym powiedzieć scenografki, montażystki, bo na przykład w Hollywood bardzo dużo jest montażystek.
+
+00:15:44.200 --> 00:15:50.200
+Jak popatrzycie sobie, warto w ogóle sprawdzać te filmy na IMDB.
+
+00:15:50.200 --> 00:15:53.200
+Tam zwykle jest pełna obsada, pełno nazwisk.
+
+00:15:53.200 --> 00:16:00.200
+Zobaczycie, że te wszystkie działy, na przykład charakteryzatorskie są bardzo zdominowane przez kobiety.
+
+00:16:00.200 --> 00:16:10.200
+Trochę gorzej wygląda to jeżeli chodzi o reżyserów czy scenarzystów, bo to są głównie męskie zawody powiedzmy.
+
+00:16:10.200 --> 00:16:17.200
+Ale już na przykład tych producentek, tych takich mniej ważnych sporo jest.
+
+00:16:17.200 --> 00:16:24.200
+Dekorator, to są rzeczy, które są przez kobiety w jakiś sposób zdominowane.
+
+00:16:24.200 --> 00:16:42.200
+Albo inne kluczowe role, czyli na przykład gaffer, script supervisor, czyli na przykład ogólny skład ekipy.
+
+00:16:42.200 --> 00:16:49.200
+Czyli jeżeli masz w ekipie produkującej film, a powiedzmy średnio w Hollywood jest chyba 300 osób produkuje film,
+
+00:16:49.200 --> 00:16:52.200
+jeżeli tam masz 30% kobiet, to jest okej.
+
+00:16:52.200 --> 00:16:57.200
+No i standard C, dostęp do przemysłu i możliwości rozwoju zawodowego.
+
+00:16:57.200 --> 00:17:10.200
+I tutaj musi spełniać oba, czyli muszą być płatne praktyki i staże, czyli staże w ważnych działach.
+
+00:17:10.200 --> 00:17:27.200
+Czyli na przykład produkcja, rozwój, te działy takie fizyczne, postprodukcja, muzyka, efekty wizualne, biznes development, dystrybucja, marketing, reklama.
+
+00:17:27.200 --> 00:17:37.200
+I tam muszą być te staże, a w mniejszych studiach mają być tylko dwóch praktykantów, dwóch stażystów muszą mieć w jakichkolwiek działach.
+
+00:17:37.200 --> 00:17:51.200
+Muszę powiedzieć, że ta kategoria C mi się bardzo podoba, że ona jest w ramach produkcji filmu i wprowadzenia nowych ludzi do tej branży super fajną rzeczą.
+
+00:17:51.200 --> 00:17:57.200
+Mieliśmy ostatnio taką rozmowę, nie będę mówił jakiej ona firmy dotyczyła, ale to jak żeśmy się spotkali z Adamem z Matura Topzdura.
+
+00:17:57.200 --> 00:18:06.200
+Rozmawialiśmy o tym, że bardzo dużo takich korporacji, które są mniej więcej w takiej branży kreatywnej, zatrudnia stażystów nie płacąc im w ogóle.
+
+00:18:06.200 --> 00:18:13.200
+Na przykład przez rok trzymają takich stażystów, ponieważ im po pierwsze zależy na doświadczeniu tym stażystom, po drugie to ich pasjonuje,
+
+00:18:13.200 --> 00:18:18.200
+wiedzą, że się rozwijają, więc firmy, korporacje wykorzystują ten fakt i nie płacą im pieniędzy.
+
+00:18:18.200 --> 00:18:28.200
+I założę się, że w Hollywood muszą być takie praktyki wykorzystywane dosyć często, bo to jest w ogóle taka branża, która jest bardzo mocno związana z niezwykłą przyszłością,
+
+00:18:28.200 --> 00:18:33.200
+z jakąś pasją i ten standard mi się bardzo podoba, on jest niezwykle sensowny.
+
+00:18:33.200 --> 00:18:45.200
+Ja też powiem, że brakuje mi tutaj dla mnie też ważnego elementu, że w ogóle osoby o bardzo niskich zarobkach albo biedne nie zostały z biednych rodzin,
+
+00:18:45.200 --> 00:18:51.200
+co w Polsce jest standardem, że masz stypendium, jeżeli jesteś z biednej rodziny.
+
+00:18:51.200 --> 00:19:05.200
+To jest normalne, nikt tego nie kwestionuje. Jeżeli jesteś dobry, jeżeli masz dobre wyniki w nauce, to jakoś trzeba ci pomóc, bo inaczej nie stać ci po prostu na życie w akademiku czy coś takiego.
+
+00:19:05.200 --> 00:19:29.200
+Możliwości szkoleniowe i rozwój umiejętności, to jest dotyczące ekipy, czyli firma produkująca czy dystrybuująca oferuje szkolenie, możliwości pracy w celu rozwijania właśnie tych umiejętności w tych niedostatecznie reprezentowanych grupach.
+
+00:19:29.200 --> 00:19:47.200
+Standard D, czyli rozwój widowni, tak to można nazwać, audience development, tam jest tylko jedno kryterium, czyli reprezentacja w marketingu, reklamie i dystrybucji.
+
+00:19:47.200 --> 00:20:08.200
+Czyli wytwórnia posiada kilku kierowników z niedostatecznych grup, przypomnijmy sobie, to nie jest tak, że jest jeden kierownik, bo na przykład przy filmach, gdzie jest, nie wiem, w wielu filmach dyrektorów kreatywnych jest dziesięciu.
+
+00:20:08.200 --> 00:20:22.200
+Więc powiedzmy, że to nie jest tak, że to zabierze komuś coś i o tym też będziemy rozmawiać. I tyle tak naprawdę. To jest wszystko.
+
+00:20:22.200 --> 00:20:43.200
+Ja powiem szczerze, że jak ja to przeczytałem na jakimś polskim portalu, potem szedłem sobie na stronę Oskarów, przeczytałem to wszystko i doszedłem do takiego wniosku, że to jest bujda, że to jest ściema.
+
+00:20:43.200 --> 00:20:53.200
+Bo przejdźmy teraz do takiego tematu, czy to wpływa na nas, na filmy, na Oscary, na cokolwiek, że to jest ściema.
+
+00:20:53.200 --> 00:20:54.200
+Akademii Filmowej?
+
+00:20:54.200 --> 00:20:55.200
+Tak.
+
+00:20:55.200 --> 00:20:56.200
+Że oni udają, że się przejmują?
+
+00:20:56.200 --> 00:20:57.200
+Tak.
+
+00:20:57.200 --> 00:21:09.200
+Że to jest działanie fasadowe. Ponieważ zacząłem sobie, mówię tak, zastanawiam się, co trzeba zmienić, żeby filmy, które do tej pory brały w tym wyścigu udział,
+
+00:21:09.200 --> 00:21:17.200
+bo powiedzmy sobie też szczerze, żeby wziąć w wyścigu o Oscary udział, to nie ma znaczenia jaki film zrobiłeś.
+
+00:21:17.200 --> 00:21:24.200
+Nie ma to żadnego znaczenia. Serio. By Oscara dostał zakochany Szekspir.
+
+00:21:24.200 --> 00:21:34.200
+Tam jest marketing, promocja, lobbowanie. Musisz mieć kupę hajsu, żeby twój film był w ogóle brany pod uwagę.
+
+00:21:34.200 --> 00:21:45.200
+Ty musisz dotrzeć do tych ludzi, a to kosztuje. Polecam film o aferze z Harvey'em Weinsteinem.
+
+00:21:45.200 --> 00:21:46.200
+Weinstein.
+
+00:21:46.200 --> 00:21:53.200
+Weinstein. Zawsze tak po polsku bardzo to mówię. Boże, jak to się... Nietykalny chyba to się tak nazywało? Nietykalny, tak.
+
+00:21:53.200 --> 00:22:01.200
+Jest na Cinemania do obejrzenia. Ja go oglądałem na American Film Festival. Pokazuje pewne reguły, jak to działa.
+
+00:22:01.200 --> 00:22:14.200
+I ja uważam, że to po prostu nic nie zmienia. Sprawdziłem to i jedyna rzecz, którą zrobią wszystkie studia, wszystkie duże studia,
+
+00:22:14.200 --> 00:22:24.200
+bo dla nich to jest jakieś takie pierdnięcie. Może źle zabrzmi. Zatrudnienie kilku osób na stażach to jest jakiś...
+
+00:22:24.200 --> 00:22:32.200
+No tak, to nie jest wydatek, który już w skali produkcji filmowej. Już sobie załatwiają jedną rzecz.
+
+00:22:32.200 --> 00:22:40.200
+Tak, tak. To jest prawda. Zresztą parę jest list w internecie, gdzie się przedstawia ostatnich kandydatów do Oscarów
+
+00:22:40.200 --> 00:22:45.200
+i praktycznie wszystkie filmy spełniają te zasady, które są wyznaczone przez Akademię Filmową.
+
+00:22:45.200 --> 00:22:50.200
+Jedyny problem tego to nie jest to, że się pojawiły te zasady, tylko że one się pojawiły publicznie.
+
+00:22:50.200 --> 00:22:55.200
+Jest to dyskusja publiczna na ten temat i to wzbudza kontrowersje, bo nie chodzi o to, w jaki sposób to wpłynie na filmy,
+
+00:22:55.200 --> 00:23:00.200
+tylko chodzi bardziej o to, w jaki sposób publiczność będzie postrzegała filmy.
+
+00:23:00.200 --> 00:23:04.200
+A coraz częściej już teraz ludzie doszukują się tam przeróżnych poprawności w tych filmach.
+
+00:23:04.200 --> 00:23:08.200
+Nawet kiedy ich tam nie ma, to zauważają rzeczy i skupiają na nich uwagę.
+
+00:23:08.200 --> 00:23:15.200
+I to jest jakby w ramach tych artystycznych dokonań, jakimi filmy są, to ta dyskusja zupełnie jest niepotrzebna.
+
+00:23:15.200 --> 00:23:21.200
+Czyli filmy stały się częścią trochę tych takich politycznych przepychanek, które teoretycznie dotyczą poprawności politycznej,
+
+00:23:21.200 --> 00:23:25.200
+ale tak naprawdę gdzieś tam sięgają znacznie głębiej w politykę.
+
+00:23:25.200 --> 00:23:33.200
+Tak. Też kolejna rzecz, że zmienił się świat i Oscary oczywiście są wielką nagrodą,
+
+00:23:33.200 --> 00:23:39.200
+najważniejszą, najbardziej prestiżową. Chociaż może wydaje mi się, że w branży filmowej na przykład Cannes
+
+00:23:39.200 --> 00:23:51.200
+jest bardziej taką artystyczną, ale nie mają wpływu aż taką wielką,
+
+00:23:51.200 --> 00:23:55.200
+nie mają takiego wielkiego wpływu na promocję twojego filmu w kinach, a tam się zarabia.
+
+00:23:55.200 --> 00:24:01.200
+Oczywiście teraz mamy pandemię, mamy inny świat, ale filmy zarabiają w kinach.
+
+00:24:01.200 --> 00:24:08.200
+I pewnie za rok wrócisz wszystko mniej więcej do normy, oby mam nadzieję, to to wszystko wróci na swoje tory.
+
+00:24:08.200 --> 00:24:19.200
+Oscary są już po tym. Rzadko się zdarza. To jest tak, że często dystrybutorzy w Polsce nie biorą filmów,
+
+00:24:19.200 --> 00:24:26.200
+których nie wiedzą do końca, nie biorą ich w normalnym czasie dystrybucji, czyli na przykład w październiku,
+
+00:24:26.200 --> 00:24:32.200
+ale jest nominacja i od stycznia wchodzą do polskich kin z takim opóźnieniem.
+
+00:24:32.200 --> 00:24:38.200
+No bo to wtedy jakby ta nominacja w jakiś sposób zachęca ludzi do chodzenia do kin,
+
+00:24:38.200 --> 00:24:43.200
+ale też już o tym rozmawialiśmy, że nie ma to aż takiego wielkiego znaczenia.
+
+00:24:43.200 --> 00:24:49.200
+To jest ważne dla aktorów, dla reżyserów, bo zawsze aktor, reżyser czy ktokolwiek z Oscarem,
+
+00:24:49.200 --> 00:24:56.200
+jeżeli weźmiesz go do swojej produkcji, to możesz na plakat nakleić tą statuetkę.
+
+00:24:56.200 --> 00:25:06.200
+I pytanie jest takie, czy Netflix potrzebuje regulacji, aby do większości swoich seriali
+
+00:25:06.200 --> 00:25:10.200
+dodawać wątki osób mało reprezentatywnych?
+
+00:25:10.200 --> 00:25:16.200
+No nie, nie, nie. Netflix sobie doskonale z tym radzi. Ja myślę, że tam jest taki sposób myślenia
+
+00:25:16.200 --> 00:25:23.200
+o tej pełnej reprezentacji wszelakich mniejszości, to już dawno jest istotne w produkcji,
+
+00:25:23.200 --> 00:25:27.200
+więc nie sądzę, żeby Netflix potrzebował dodatkowych wytycznych.
+
+00:25:27.200 --> 00:25:30.200
+A czy Marvel potrzebuje Oscara?
+
+00:25:30.200 --> 00:25:32.200
+No coś tam dostał Oscar.
+
+00:25:32.200 --> 00:25:34.200
+Dostałem często za techniczne przecież.
+
+00:25:34.200 --> 00:25:37.200
+Tak, ale nie, nie potrzebują. Oczywiście, że nie potrzebują.
+
+00:25:37.200 --> 00:25:43.200
+To jest jakby dyskusja trochę jakby z jednej strony możemy rozmawiać o tym,
+
+00:25:43.200 --> 00:25:51.200
+czy te nowe przepisy, zasady wpłyną w jakikolwiek sposób na filmy i czy one były potrzebne.
+
+00:25:51.200 --> 00:25:59.200
+Natomiast jakby bardziej się zastanawiam, że one wprowadziły filmy w takie tory,
+
+00:25:59.200 --> 00:26:01.200
+po których wolałbym, żeby filmy nie jeździły.
+
+00:26:01.200 --> 00:26:05.200
+To znaczy jakby rozumiem, że te wszystkie rzeczy, to co żeś powiedział wcześniej,
+
+00:26:05.200 --> 00:26:09.200
+że to jest fasada, że to w ogóle właściwie nie ma znaczenia, że te standardy już dawno są spełniane
+
+00:26:09.200 --> 00:26:13.200
+i nikt z tego powodu nie robi wielkiego halo. Natomiast fakt, że one zostały opisane,
+
+00:26:13.200 --> 00:26:19.200
+wskazane, że zostały wyznaczone tory trochę zawężają ścieżkę, po którą może się ten pociąg filmowy poruszać.
+
+00:26:19.200 --> 00:26:20.200
+Czemu?
+
+00:26:20.200 --> 00:26:24.200
+Nawet nie chodzi o jakość produkcyjną, bo ona z perspektywy twórców nie ma znaczenia.
+
+00:26:24.200 --> 00:26:27.200
+To żeśmy już też mówili, że te wszystkie filmy się i tak kwalifikują.
+
+00:26:27.200 --> 00:26:30.200
+Czekaj, czekaj. Czemu zawężają tą ścieżkę?
+
+00:26:30.200 --> 00:26:34.200
+Ponieważ perspektywa widza ma bardzo duże znaczenie dla odbioru filmu
+
+00:26:34.200 --> 00:26:38.200
+i perspektywa taka globalna też ma znaczenie i to jak ludzie odbierają filmy,
+
+00:26:38.200 --> 00:26:47.200
+bo nie da się nie wpływać na artystów. Odbiór widzów i taki globalny odbiór widzów,
+
+00:26:47.200 --> 00:26:53.200
+zwłaszcza w sytuacji takiej, kiedy są pewne narzucone kontrowersyjne zasady,
+
+00:26:53.200 --> 00:26:58.200
+ma duże znaczenie także na twórczość artystów. W sensie takim, że jakby rozumiem,
+
+00:26:58.200 --> 00:27:01.200
+że te wszystkie zasady niczego nie zmieniają w samej produkcji filmu.
+
+00:27:01.200 --> 00:27:05.200
+Natomiast bardzo dużo zmieniają w odbiorze widzów i ci widzowie oczywiście mogą być
+
+00:27:05.200 --> 00:27:10.200
+czasami zmanipulowani i myśleć bardziej po jednej stronie, po drugiej stronie,
+
+00:27:10.200 --> 00:27:14.200
+ale oni będą reagowali na te zmiany, które tu się pojawiają.
+
+00:27:14.200 --> 00:27:20.200
+Mamy taką sytuację, że jakiś film dostaje Oscara i jest grupa widzów,
+
+00:27:20.200 --> 00:27:24.200
+która uważa, że ten film nie dostał Oscara dlatego, że zasłużył sobie artystycznie na to,
+
+00:27:24.200 --> 00:27:26.200
+tylko dlatego, że spełnił te konkretne standardy.
+
+00:27:26.200 --> 00:27:31.200
+Na przykład było więcej w obsadzie osób czarnoskórych albo byli przedstawiciele LGBT
+
+00:27:31.200 --> 00:27:36.200
+i ludzie, którym się ten film niespecjalnie spodobał, mogą wyciągać taki wniosek.
+
+00:27:36.200 --> 00:27:40.200
+Przestaje się toczyć dyskusja na temat tego, czy film jest dobry, czy jest zły,
+
+00:27:40.200 --> 00:27:46.200
+tylko zaczyna się toczyć dyskusja na temat tego, czy sukcesem tego filmu
+
+00:27:46.200 --> 00:27:49.200
+jest obecność mniejszości na ekranie.
+
+00:27:49.200 --> 00:27:53.200
+No dobrze, ale ty mówisz o czymś, co się realnie dzieje od kilku lat.
+
+00:27:53.200 --> 00:27:55.200
+Tak, oczywiście, że tak, ale do momentu...
+
+00:27:55.200 --> 00:28:00.200
+Czyli jeżeli coś się dzieje od kilku lat, jeżeli te zasady są i tak,
+
+00:28:00.200 --> 00:28:04.200
+ponieważ społeczność się zmienia i ta moralność się zmienia
+
+00:28:04.200 --> 00:28:10.200
+i ta równość jest także w procesie jakiejś ewolucji,
+
+00:28:10.200 --> 00:28:12.200
+to po co to ubierać w jakieś zapisy?
+
+00:28:12.200 --> 00:28:14.200
+Znaczy, jaki sens jest?
+
+00:28:14.200 --> 00:28:16.200
+No, żeby być fair.
+
+00:28:16.200 --> 00:28:21.200
+Znaczy, Akademia mówi tak, my chcemy, żeby nasz rynek,
+
+00:28:21.200 --> 00:28:24.200
+bo oni mówią o swoim rynku, o Hollywood, nie mówią o polskim,
+
+00:28:24.200 --> 00:28:27.200
+nie mówią o francuskim, japońskim, mówią o swoim rynku.
+
+00:28:27.200 --> 00:28:36.200
+My, bo wiesz, co mnie trochę rozwala? Takie argumenty, że te zasady
+
+00:28:36.200 --> 00:28:45.200
+wprowadzą pewne... że mężczyźni biali będą pomijani.
+
+00:28:45.200 --> 00:28:46.200
+Aha.
+
+00:28:46.200 --> 00:28:52.200
+Znaczy, że jest pewna... brakuje mi teraz takiego słowa pięknego, że...
+
+00:28:52.200 --> 00:28:53.200
+Boże.
+
+00:28:53.200 --> 00:28:54.200
+Dyskryminowani będą?
+
+00:28:54.200 --> 00:29:00.200
+Także będą dyskryminowani i wydaje mi się, że ja wnioskuję z tych wypowiedzi,
+
+00:29:00.200 --> 00:29:07.200
+że obecnie nikt nie jest dyskryminowany i musimy sobie odpowiedzieć na to pytanie.
+
+00:29:07.200 --> 00:29:11.200
+Czy teraz jest okej? Czy to, co się dzieje teraz jest okej?
+
+00:29:11.200 --> 00:29:17.200
+I powiem szczerze, ja, dla mnie teraz jest okej,
+
+00:29:17.200 --> 00:29:22.200
+bo ja mam większe szanse w branży filmowej.
+
+00:29:22.200 --> 00:29:25.200
+Ale na przykład kobiety mają mniejsze.
+
+00:29:25.200 --> 00:29:27.200
+Bo to już jesteś przedstawicielem jakiejś...
+
+00:29:27.200 --> 00:29:33.200
+Ja jestem przedstawicielem białego mężczyzny heteroseksualnego.
+
+00:29:33.200 --> 00:29:36.200
+Nie pasuje w żaden ten...
+
+00:29:36.200 --> 00:29:41.200
+Nie, to działa trochę w inną stronę. Pamiętam taki żarcik, który Jamie Fox powiedział
+
+00:29:41.200 --> 00:29:48.200
+na spotkaniu w takim programie Comedians in Cars Getting Coffee.
+
+00:29:48.200 --> 00:29:54.200
+To jest Jerego Seinfelda, przypomniałem sobie. Powiedział, że on się bardzo cieszy z tej dyskryminacji w Hollywood,
+
+00:29:54.200 --> 00:29:57.200
+ponieważ dzięki temu jest mniej czarnoskórych aktorów i on ma dużo większe szanse na to,
+
+00:29:57.200 --> 00:30:00.200
+żeby się załapać do roli. I oczywiście mówił to w ramach żartu.
+
+00:30:00.200 --> 00:30:04.200
+I oczywiście, że obśmiewał tą dyskryminację, która tam niewątpliwie ma miejsce.
+
+00:30:04.200 --> 00:30:07.200
+No bo skoro on twierdzi, że mu łatwiej znaleźć rolę, ponieważ jest mniej aktorów,
+
+00:30:07.200 --> 00:30:10.200
+no to faktycznie jest mniej aktorów i nie jest to przypadkowe.
+
+00:30:10.200 --> 00:30:19.200
+W związku z tym, że Hollywood zatrudnia więcej białych mężczyzn,
+
+00:30:19.200 --> 00:30:23.200
+wcale nie oznacza, że białym mężczyźniom łatwiej się załapać. Jest więcej kandydatów po prostu.
+
+00:30:23.200 --> 00:30:31.200
+Trochę tak, ale też wydaje mi się, że mówienie o tym, że teraz biali będą dyskryminowani,
+
+00:30:31.200 --> 00:30:35.200
+to jest takie pomijanie tego, że obecnie...
+
+00:30:35.200 --> 00:30:38.200
+Wszyscy byli dyskryminowani gdzieś po drodze.
+
+00:30:38.200 --> 00:30:42.200
+Ale czekaj, wiesz co? Rozumiem, jaka logika stoi za tą obawą.
+
+00:30:42.200 --> 00:30:47.200
+To jest taka logika, która raczej trafna nie jest, ale ona wynika z takiej myśli,
+
+00:30:47.200 --> 00:30:52.200
+że przyjmijmy sobie, że ekipa filmowa zatrudnia ludzi do ekipy
+
+00:30:52.200 --> 00:30:56.200
+i mają do wyboru, powiedzmy, nie idźmy w kolory,
+
+00:30:56.200 --> 00:31:00.200
+skóry powiedzmy, że mają do wyboru albo geja, albo faceta, który jest hetero. Obaj biali.
+
+00:31:00.200 --> 00:31:05.200
+I ludzie z tej ekipy mówią, okej, no dobra, w zasadzie i tak zawsze spełniamy wszystkie standardy,
+
+00:31:05.200 --> 00:31:09.200
+więc to nie jest problem, ale tak, żeby dla świętego spokoju,
+
+00:31:09.200 --> 00:31:14.200
+to zawsze plus jeden do tego standardu i weźmiemy tego, który ma inną orientację seksualną,
+
+00:31:14.200 --> 00:31:20.200
+bo się wpisuje w te... Nie musimy o tym myśleć, bo przecież zawsze te standardy są obowiązujące,
+
+00:31:20.200 --> 00:31:24.200
+u nas zawsze były, no ale teraz eliminujemy sobie taki problem,
+
+00:31:24.200 --> 00:31:28.200
+że ewentualnie potem ktoś przy Oskarach powie, hej, zaraz, tutaj wam brakuje jakiś tam procent.
+
+00:31:28.200 --> 00:31:33.200
+Więc to jest ta logika, która ludziom przyświeca,
+
+00:31:33.200 --> 00:31:35.200
+kiedy mówią, że biali będą dyskryminowani.
+
+00:31:35.200 --> 00:31:37.200
+Ja się z tobą zgadzam, ale jeżeli...
+
+00:31:37.200 --> 00:31:40.200
+Ja tu mam tę logikę, nie znaczy, że ją podzielam.
+
+00:31:40.200 --> 00:31:49.200
+Ja to rozumiem, bo to mówi, że ty możesz być, ty biały mężczyzna możesz być dyskryminowany.
+
+00:31:49.200 --> 00:31:58.200
+I ja to oczywiście rozumiem, przy czym obecnie jest jakaś dyskryminacja i z tym to walczy,
+
+00:31:58.200 --> 00:32:03.200
+bo ja nie powiedziałem, że to są ruchy fasadowe tylko po to, żeby tam sobie coś wymyślić,
+
+00:32:03.200 --> 00:32:11.200
+ale ja starałem się zrozumieć, jak to wyglądało i jak wyglądał proces tworzenia tych wytycznych.
+
+00:32:11.200 --> 00:32:15.200
+I wydaje mi się, że po prostu zebrali się jacyś...
+
+00:32:15.200 --> 00:32:21.200
+Sorry, ale jeżeli mówimy o filmach, które nominowane są do najlepszego filmu,
+
+00:32:21.200 --> 00:32:27.200
+to to są srodzy producenci. Ci producenci to są jak cyborcy.
+
+00:32:27.200 --> 00:32:29.200
+Oni nie mają uczuć.
+
+00:32:29.200 --> 00:32:31.200
+To są socjopaci.
+
+00:32:31.200 --> 00:32:35.200
+I oni myślą tak, słuchajcie, mamy trochę problemów obecnie.
+
+00:32:35.200 --> 00:32:41.200
+Czyli mamy ruch MeToo, który wyszedł z Hollywood, chciałbym przypomnieć.
+
+00:32:41.200 --> 00:32:42.200
+Tak jest.
+
+00:32:42.200 --> 00:32:48.200
+Mamy ruch Oscar So White i to jest straszny problem z tym.
+
+00:32:48.200 --> 00:32:59.200
+Mamy tą Natalię Portman, która protestuje i mówi o tym, że kobiety są super dyskryminowane,
+
+00:32:59.200 --> 00:33:05.200
+że tam jeden film w historii Hollywood zrobiła kobieta, gdzie budżet był koło 100 milionów,
+
+00:33:05.200 --> 00:33:12.200
+gdzie było pięć nominacji do najlepszej reżyserki w prawie stuletniej historii Oscarów.
+
+00:33:12.200 --> 00:33:23.200
+Jeżeli oni mają takie problemy i to teraz wrze, wszystko to wrze, były z pełno zamieszek.
+
+00:33:23.200 --> 00:33:31.200
+Ludzie czują, że jest jakaś dysproporcja, ona jest niesprawiedliwa i się wkurzają.
+
+00:33:31.200 --> 00:33:39.200
+Już nie będziemy się wgłębiać w to, ale naiwnością byłoby powiedzenie, że nie ma tych problemów.
+
+00:33:39.200 --> 00:33:49.200
+Więc ci goście wiedzą to, czują to na karku, bo ich kolega Harvey siedzi nie bez powodu.
+
+00:33:49.200 --> 00:33:56.200
+My nie chcemy siedzieć, nie chcemy, żeby nas wyrżnęli z tych wielomilionowych posadek.
+
+00:33:56.200 --> 00:34:05.200
+Więc my teraz bierzemy statystyki z naszych filmów i robimy takie zasady, żebyśmy nic nie musieli zmieniać.
+
+00:34:05.200 --> 00:34:11.200
+Nic, ale żeby ludzie myśleli, że my dajemy teraz szansę.
+
+00:34:11.200 --> 00:34:26.200
+Jedyne jakie jest poświęcenie, wydaje mi się, to są te staże, które rocznie kosztują na osobę jakieś 50 tysięcy dolarów.
+
+00:34:26.200 --> 00:34:43.200
+I to mówimy o wielkich studiach, tylko o tych ogromnych studiach. Cała ta lista nic nie zmienia, wręcz jeszcze bardziej okopuje,
+
+00:34:43.200 --> 00:34:52.200
+bo ci ludzie są ogarnięci totalnie, oni zjedli zęby na tym biznesie, są twardzi zawodnicy.
+
+00:34:52.200 --> 00:35:04.200
+Oni zrobili to perfekcyjnie. Teraz wszyscy uważają, że Hollywood to jest jakieś lewackie gniazdo i tam po prostu będziemy tylko filmy o gejach oglądać.
+
+00:35:04.200 --> 00:35:11.200
+Nic się nie zmieni. Jeżeli chcesz mieć Oscara za najlepszy film, to musisz poruszyć tak ważny problem.
+
+00:35:11.200 --> 00:35:16.200
+I tak musisz. Takie filmy dostają.
+
+00:35:16.200 --> 00:35:28.200
+To jest prawda. My się tu zgadzamy tak naprawdę w tym, co myślimy. Ja to widzę tak, że z jednej strony to jest tak, że te fasadowe działania,
+
+00:35:28.200 --> 00:35:36.200
+o których ty mówisz, ja się z tym absolutnie zgadzam, to jest tylko wpisanie na oficjalną listę tego, co i tak się przestrzegało, czyli żaden koszt.
+
+00:35:36.200 --> 00:35:46.200
+Jedynym kosztem jest ta wizja albo to, w jaki sposób ludzie zaczynają postrzegać filmy.
+
+00:35:46.200 --> 00:35:52.200
+Coraz bardziej przez pryzmat tych właśnie ograniczeń, które są zupełnie nieistotne w samym filmie.
+
+00:35:52.200 --> 00:35:58.200
+Bardzo duży wpływ ma na widownię. Ta widownia się dzieli, ta widownia się kłóci.
+
+00:35:58.200 --> 00:36:06.200
+To jest takie internetowe oburzenie. Nikt po miesiącu nie będzie o tym pamiętał. Z BAFTA było to samo.
+
+00:36:06.200 --> 00:36:12.200
+Ile? 3-4 lata temu BAFTA wprowadziła takie same wyznaczniki. Coś się zmieniło?
+
+00:36:12.200 --> 00:36:22.200
+Nie, nie, nie. Masz rację. Trochę bliżej memu sercu jest historia The Last of Us 2, gdzie byłem święcie przekonany,
+
+00:36:22.200 --> 00:36:32.200
+że te kontrowersje związane ze spoilerami i potem z samą treścią gry wpłyną bardzo mocno i na sprzedaż, i na to, w jaki sposób będą ludzie podchodzili do rozgrywki.
+
+00:36:32.200 --> 00:36:40.200
+A potem się okazało, że sprzedało się nieźle, a co ciekawsze gra pobiła jakiś rekord, jeżeli chodzi o ilość ukończonych gier.
+
+00:36:40.200 --> 00:36:52.200
+Więc faktycznie jest tak, że to oburzenie internetowe, czasami zasadne, czasami bezzasadne, jest takie chwilowe i jest tak bardzo ograniczone.
+
+00:36:52.200 --> 00:36:59.200
+Ten internet wydaje mi się, że on wrze, natomiast świat ma to w głębokim poważaniu, zwłaszcza po miesiącu.
+
+00:36:59.200 --> 00:37:11.200
+Ja nawet nie byłem zainteresowany. Przeczytałem te wytyczne, tak jak mówiłem i stwierdziłem, że tam nie ma w ogóle tematu.
+
+00:37:11.200 --> 00:37:25.200
+Ale jak zobaczyłem post na naszej grupie i tam obecnie jest 347 komentarzy u nas na grupie, jakiś rekord chyba.
+
+00:37:25.200 --> 00:37:35.200
+W 95% jest jakiś, nie chcę żyć już na tej planecie, co tu się stało?
+
+00:37:35.200 --> 00:37:50.200
+Nic się nie stało. Grupa socjopatów na wysokich stanowiskach, którzy zarabiają jakieś gigantyczne pieniądze, wykorzystała pewną presję społeczną do tego, żeby umocnić swoje stanowiska.
+
+00:37:50.200 --> 00:37:55.200
+To jest w ogóle mistrzostwo świata, co oni zrobili, muszę przyznać.
+
+00:37:55.200 --> 00:38:08.200
+Musimy postrzegać, te grupy społeczne, które walczą w internecie, to kiedyś było social justice warriors, bardzo aktywni, a dzisiaj jest anty-social justice warriors, to są tacy sami jak ci liści z drugiej strony.
+
+00:38:08.200 --> 00:38:15.200
+I oni też się przejmują pierdołami. To jest właśnie taki problem, że stworzyć jakieś zagadnienie, które jest kontrowersyjne,
+
+00:38:15.200 --> 00:38:23.200
+budować te kontrowersje w różnych profilach społecznościowych i potem w ramach tego prowadzić jakąś politykę, która tylko służy i wyłącznie tobie, jeżeli jesteś na wysokim stanowisku.
+
+00:38:23.200 --> 00:38:36.200
+I te grupy ludzi się wykorzystuje strasznie. Ja też nie jestem tak daleki od tego, też ulegam emocjom, też czasami na pierwszy rzut oka popatrzę na sprawę pozornie i wydaje mi się, że się dzieją rzeczy niepokojące,
+
+00:38:36.200 --> 00:38:46.200
+ale faktem jest, że to niczego nie zmienia w samej branży, tylko ludzi kłóci, dzieli ludzi na te podgrupy, więc nie dajmy się tak...
+
+00:38:46.200 --> 00:39:01.200
+Tak, ja uważam, że rzecz, która coś by zmieniła, bo ja uważam, że potrzebna jest zmiana, że są zbyt skostniałe, tam jest dużo zmian, bo te Oscary coraz bardziej tracą na oglądalności, coraz mniejsze znaczenie mają.
+
+00:39:01.200 --> 00:39:15.200
+Ja bym przede wszystkim zmienił system, to w jaki sposób, może nie dobiera się, ale ile jest się w Akademii, bo w tym momencie jest tam chyba 7 tysięcy osób.
+
+00:39:15.200 --> 00:39:28.200
+Po badaniach z 2012 roku, które zrobił Los Angeles Times, bo tam było na 5 tysiącach członków Akademii, to było zrobione badanie, więc srogie strasznie,
+
+00:39:28.200 --> 00:39:40.200
+bo wyszło, że 94% Akademii to biali, 77% to mężczyźni, a poniżej 50 lat ma tylko 14%.
+
+00:39:40.200 --> 00:39:42.200
+Tak, to są stare białe dziady.
+
+00:39:42.200 --> 00:39:45.200
+Tak, średnia wieku 62 lata, średnia wieku.
+
+00:39:45.200 --> 00:39:49.200
+To są ludzie, którzy byli wychowani w trochę innych...
+
+00:39:49.200 --> 00:40:01.200
+Tylko 33% jej członków to są byli zwycięzcy lub nominowani do Oscara, resztę to jest branża.
+
+00:40:01.200 --> 00:40:10.200
+Wystarczyłoby wprowadzić pewne wykopywanie tych, którzy już nie pracują w branży.
+
+00:40:10.200 --> 00:40:15.200
+Takie, że 5 lat nie zrobiłeś filmu żadnego, no sorry, to już nie jesteś na bieżąco.
+
+00:40:15.200 --> 00:40:22.200
+Tak, tak, to jest bardzo trafna uwaga, też trzeba uważać, żeby tej grupy, ja tak trochę zażartowałem z tymi białymi staruchami,
+
+00:40:22.200 --> 00:40:27.200
+ale też trzeba uważać, żeby ich jakoś nie dyskryminować strasznie, ale jeżeli mają się pojawić jakieś zmiany,
+
+00:40:27.200 --> 00:40:33.200
+to nie w kwestii wymyślania zasad w oparciu o które filmy i tak działają już od lat,
+
+00:40:33.200 --> 00:40:39.200
+bo społeczność się sama reguluje i ta moralność się zmienia jakby bardzo elastycznie i płynnie,
+
+00:40:39.200 --> 00:40:45.200
+natomiast zmieniać właśnie tą akademię, ale to już są zmiany wewnątrz i tam już trochę ciężko się paluchem grzebie,
+
+00:40:45.200 --> 00:40:48.200
+bo lepiej pogrzebać tak w tych na nie społecznościowych.
+
+00:40:48.200 --> 00:40:58.200
+Nie wywalisz tych, którzy są super bogaci i na przykład super dużo jakby sponsorują tą akademię,
+
+00:40:58.200 --> 00:41:02.200
+więc to są takie problemy, ale to są ich na szczęście problemy.
+
+00:41:02.200 --> 00:41:09.200
+Ja też wrócę tutaj do tego, co Raczek napisał, bo mnie to trochę zmartwiło, powiem szczerze.
+
+00:41:09.200 --> 00:41:15.200
+Znaczy wiesz co, ja myślę jakby te argumenty, które gdzieś tutaj przedstawiałem z mojego punktu widzenia,
+
+00:41:15.200 --> 00:41:20.200
+to wydaje mi się, że to mogą być trochę takie raczkowe też, ale nie chciałbym się tutaj podpisywać,
+
+00:41:20.200 --> 00:41:27.200
+znaczy nie chciałbym jego podpisywać pod swoim zdaniem, ale wydaje mi się, że raczej ta obawa, którą on dostrzega,
+
+00:41:27.200 --> 00:41:32.200
+dotyczy tego, w jaki sposób ludzie będą postrzegali filmy, że zaczną, że coraz bardziej, to już mamy taką tendencję,
+
+00:41:32.200 --> 00:41:37.200
+że coraz bardziej każdy serial na Netflixie, każdy film na Netflixie, każdy film kinowy zaczynają ludzie,
+
+00:41:37.200 --> 00:41:42.200
+są grupy ludzi, którzy postrzegają przez pryzmat tego, że o tam osób czarnoskórych było za dużo,
+
+00:41:42.200 --> 00:41:50.200
+albo tam znowu o mniejszości gadają, czemu w każdym filmie o tym, że to bardzo mocno polaryzuje widownię,
+
+00:41:50.200 --> 00:41:56.200
+takie zasady i to może wpłynąć na tą, bo to co mówiłem na początku, że artyści, którzy robią filmy,
+
+00:41:56.200 --> 00:42:02.200
+jeżeli mówimy o artystach, bo to też jest biznes i często to jest rzemiosło, ale są też artyści, którzy jakby są,
+
+00:42:02.200 --> 00:42:09.200
+podejrzewam, że są wyczuleni na tego typu reakcje publiczności i to może wpłynąć na ich przyszłe filmy.
+
+00:42:09.200 --> 00:42:14.200
+Nie sama Akademia i te zasady, ale to w jaki sposób widownia reaguje na te zasady.
+
+00:42:14.200 --> 00:42:24.200
+Wiesz, decyzja o tym, czy jakiś film będzie pchany do Oscarów czy nie, są podejmowane w dwóch momentach.
+
+00:42:24.200 --> 00:42:28.200
+Pierwszy to jest na etapie przeczytania scenariusza przez producenta.
+
+00:42:28.200 --> 00:42:36.200
+Jeżeli on czuje, że tam są takie tematy, które mogą wzruszyć, poruszyć, które są lubiane przez Akademię,
+
+00:42:36.200 --> 00:42:46.200
+no to wtedy na przykład zwiększa się trochę budżet, zatrudnia się lepszych aktorów, jakby wiesz, robi się takie rzeczy.
+
+00:42:46.200 --> 00:42:53.200
+Potem, dopiero jak już jest odebrany film, a film jest odbierany na kilka sposobów,
+
+00:42:53.200 --> 00:43:00.200
+jest takie, że producent odbiera, a wcześniej jeszcze są takie badania fokusowe,
+
+00:43:00.200 --> 00:43:10.200
+że bada się na publicę film jeszcze nie zamknięty, żeby pozmieniać odpowiednie rzeczy ze względu na to, jak publika zareaguje.
+
+00:43:10.200 --> 00:43:17.200
+No i dopiero wtedy, jak już mamy to dzieło, to zaczyna się walka o Oscary.
+
+00:43:17.200 --> 00:43:28.200
+Oczywiście pewnie znajdzie się jakaś grupa osób, która jest w branży tylko po to, żeby dostać Oscara,
+
+00:43:28.200 --> 00:43:38.200
+ale wydaje mi się, że to jest bardzo, bardzo mała grupa i proces produkcji filmu jest tak skomplikowany, tak trudny,
+
+00:43:38.200 --> 00:43:49.200
+że wydaje mi się znikome, że reżyser czy scenarzysta robi to tylko po to, żeby dostać Oscara.
+
+00:43:49.200 --> 00:43:52.200
+Trochę mnie źle zrozumiałeś, rozumiem to, co mówisz.
+
+00:43:52.200 --> 00:44:01.200
+Chodzi mi o to, że ten wpływ na artystę nie do końca, jakby artysta nie reaguje świadomie na to, czego oczekuje publiczność,
+
+00:44:01.200 --> 00:44:05.200
+że on podejmuje decyzję, ok, musimy robić taki i taki film, żeby mieć większą szansę na Oscara,
+
+00:44:05.200 --> 00:44:09.200
+tylko że to są takie wpływy totalnie podświadome.
+
+00:44:09.200 --> 00:44:17.200
+Każdy ma to, jeżeli robisz rzeczy, które się podobają ludziom dookoła i oni wykazują entuzjazm i popierają to,
+
+00:44:17.200 --> 00:44:19.200
+to chcesz ich robić więcej.
+
+00:44:19.200 --> 00:44:25.200
+W związku z tym, że wprowadzane są zasady, które bardzo mocno dzielą widownię i jedna grupa może być większa,
+
+00:44:25.200 --> 00:44:31.200
+druga może być mniejsza, to będziesz czuł taką potrzebę zdobywania akceptacji tej większej grupy.
+
+00:44:31.200 --> 00:44:35.200
+Mam wrażenie, że ta większa grupa, która się w internecie będzie wypowiadała na temat filmów,
+
+00:44:35.200 --> 00:44:39.200
+i ona jest chyba dominująca jednak, to będzie mówiła negatywnie na temat tych zasad,
+
+00:44:39.200 --> 00:44:44.200
+mimo że one od dawna są i są przestrzegane, ale przynajmniej nie zostały spisane na papierze.
+
+00:44:44.200 --> 00:44:47.200
+Wiesz co, ja nie wiem.
+
+00:44:47.200 --> 00:44:52.200
+Powiem ci szczerze, że Oscary to jest taki… Najpierw sobie zobaczysz film.
+
+00:44:52.200 --> 00:44:58.200
+Jak film ci się bardzo spodoba, to potem będziesz mu kibicował, niezależnie w jakim wyścigu on będzie startował.
+
+00:44:58.200 --> 00:45:02.200
+Czy to będzie Cannes, czy to będzie Sundance, czy to będzie cokolwiek.
+
+00:45:02.200 --> 00:45:06.200
+Sam mówisz, że Oscary mają taki wpływ, że potem oglądalność rośnie.
+
+00:45:06.200 --> 00:45:16.200
+Nie, właśnie ja mówię, że to ma znikomy, że Oscary już są po tym najważniejszym etapie dla filmu, czyli po kinach.
+
+00:45:16.200 --> 00:45:27.200
+Więc oczywiście z większą chęcią bierzesz osoby nagradzane Oscarami, bo możesz sobie klepnąć tego Oscara na plakat.
+
+00:45:27.200 --> 00:45:37.200
+Myślę, że to działa jeszcze, że to jest jakaś tam zachęta, ale ona jest coraz mniejsza.
+
+00:45:37.200 --> 00:45:45.200
+To, czy te zasady zostały wprowadzone, czy nie, nie zmienia faktu, że Oscary tracą na wartości.
+
+00:45:45.200 --> 00:45:52.200
+Tak, to prawda, ale to do jednego się zgadzamy, że te zmiany i te zapisy są niepotrzebne.
+
+00:45:52.200 --> 00:45:57.200
+Nie mówisz tego wprost, ale wydaje mi się, że...
+
+00:45:57.200 --> 00:46:06.200
+Wiesz co, uważam, że jest problem, że ten problem widać wszędzie.
+
+00:46:06.200 --> 00:46:15.200
+Nieważne jakie sobie weźmiesz dane, czy jakie informacje z tego Hollywood, widać, że mają problem z kobietami, z mniejszościami.
+
+00:46:15.200 --> 00:46:20.200
+Mają bardzo duży problem, ale te zasady nic nie zmieniają.
+
+00:46:20.200 --> 00:46:31.200
+Ja uważam, że branża, jeżeli chciałaby coś zmienić, to pewnie są inne metody na to, żeby to zmienić.
+
+00:46:31.200 --> 00:46:38.200
+Tak jak mówię, nawet zmiana tych zasad członkostwa by bardzo dużo zmieniła.
+
+00:46:38.200 --> 00:46:51.200
+W szczególności, że jeżeli popatrzymy na rynek polski, a na rynek amerykański, to u nas jest na przykład bardzo dużo świetnych reżyserek,
+
+00:46:51.200 --> 00:46:58.200
+które robią spore filmy i na całym świecie są nagradzane na festiwalach.
+
+00:46:58.200 --> 00:47:08.200
+A w Stanach jednak jest ten dyktat mężczyzn, bo aż tak bardzo się nie różnimy.
+
+00:47:08.200 --> 00:47:13.200
+Nie ma u nas 90% kobiet, a 10% mężczyzn. Ten podział jest mniej więcej po równo.
+
+00:47:13.200 --> 00:47:21.200
+Raczej trochę więcej jest kobiet na świecie, więc to są jakieś problemy, ale ja uważam, że takie...
+
+00:47:21.200 --> 00:47:30.200
+Ja nie jestem miłośnikiem parytetów, chociaż wiem, że w wielu kwestiach mogą one działać, ale nie zawsze wiemy z góry, gdzie będą działać.
+
+00:47:30.200 --> 00:47:41.200
+Tak, tak. Zresztą wiesz, niewątpliwie to, że pewna grupa jest procentowo częściej widoczna w jakiejś branży,
+
+00:47:41.200 --> 00:47:50.200
+wcale nie od razu musi oznaczać, że ta branża ma problem, bo przecież są różne branże i tam te procentowe zestawienia kobiet i mężczyzn są bardzo zróżnicowane.
+
+00:47:50.200 --> 00:47:52.200
+Może w przypadku filmów jest to problem.
+
+00:47:52.200 --> 00:48:01.200
+Jest to problem i wiele osób... Znaczy wiesz, jeżeli osoby z wewnątrz mówią, że to jest problem, jeżeli masz filmy dokumentalne o tym, że to jest problem...
+
+00:48:01.200 --> 00:48:04.200
+Okej, okej. Coś to chyba jest na rzecz, tak mi się wydaje.
+
+00:48:04.200 --> 00:48:15.200
+Bezpieczniej jest zakładać, że faktycznie coś tam się dzieje, co mogłoby miejsca nie mieć, natomiast ja mam taką wiarę, że to się samo reguluje.
+
+00:48:15.200 --> 00:48:22.200
+Że zapotrzebowania społeczne, to co mówiłem, zapotrzebowania społeczne zmieniają... Wiesz, cały czas obracamy się wokół tego tematu,
+
+00:48:22.200 --> 00:48:31.200
+że skoro te zasady i tak są spełniane i te filmy są nagradzane, ponieważ też akademia filmowa dostrzega, że te zasady są istotne,
+
+00:48:31.200 --> 00:48:41.200
+co zresztą potwierdza tutaj, robiąc z nich formalny dokument, no to nie ma absolutnie żadnej potrzeby, żeby wprowadzać wymuszenie tego.
+
+00:48:41.200 --> 00:48:48.200
+To już się samo gdzieś tam reguluje, że ludzie zmieniają swój punkt widzenia, widownia zmieniają się zapotrzebowania,
+
+00:48:48.200 --> 00:48:52.200
+kino się dopasowuje do tego, co ludzie chcą oglądać.
+
+00:48:52.200 --> 00:48:58.200
+Ja rozumiem, że walczy się ciągle z tym.
+
+00:48:58.200 --> 00:49:11.200
+Nie, nie, nie. Chodzi mi o to, że ja nie wierzę do końca... Wiesz, to tak jak masz wolny rynek i wtedy konsument jest królem,
+
+00:49:11.200 --> 00:49:20.200
+no ale co wtedy, kiedy masz zmowę cenową na przykład, na Krupówkach czy gdzieś tam. Wszyscy mają takie same ceny na te badziewie.
+
+00:49:20.200 --> 00:49:29.200
+No to nie masz wyboru. To nie ma to wpływu, czy ludzie chcą kupić taniej czy drożej.
+
+00:49:29.200 --> 00:49:36.200
+Ktoś tam sobie dogadał się z kimś i wydaje mi się, że tutaj też na tym to polega, że przynajmniej...
+
+00:49:36.200 --> 00:49:44.200
+Bo tam pojawiają nam się takie problemy, o których nie powiedzieliśmy, a w sumie powinniśmy powiedzieć,
+
+00:49:44.200 --> 00:49:53.200
+czyli na przykład trzeba będzie zrobić oficjalną kartotekę osób LGBT pracujących przy filmach.
+
+00:49:53.200 --> 00:50:05.200
+Albo na przykład będą wymuszane coming-outy. Chociaż wydaje mi się, że to nie będzie, bo tak jak mówię,
+
+00:50:05.200 --> 00:50:11.200
+te wszystkie reguły już są spełnione przez wszystkie duże studia, a małe studia to sobie poradzą,
+
+00:50:11.200 --> 00:50:16.200
+bo to też widać, że to nie jest dla nich też obciążające. Po drugie, jeszcze jedna rzecz.
+
+00:50:16.200 --> 00:50:24.200
+Przy zgłaszaniu filmu w tym roku, ci którzy będą zgłaszać, będą wypełniać ankiety dotyczące tych reguł
+
+00:50:24.200 --> 00:50:27.200
+i najprawdopodobniej one jeszcze będą zmieniane.
+
+00:50:27.200 --> 00:50:34.200
+No właśnie, to o czym właściwie trochę mówimy, to ten cały dokument jest trochę PR-owy
+
+00:50:34.200 --> 00:50:41.200
+i on w zasadzie może być tylko po to, żeby wywołać jakieś zburzenie i w zasadzie trochę odsunąć od Akademii Filmowej
+
+00:50:41.200 --> 00:50:43.200
+podejrzenia o to, że ona ma jakieś tam…
+
+00:50:43.200 --> 00:50:48.200
+Tak, odsunąć podejrzenia. To jest dupochron moim zdaniem, taki klasyczny.
+
+00:50:48.200 --> 00:50:55.200
+Natomiast w teorii niczego on nie może zmienić i w teorii już dawno te zasady są spełniane.
+
+00:50:55.200 --> 00:51:01.200
+Więc to jest taka rzecz, która ma trochę namieszać w social mediach i nic wielkiego się z tym nie dzieje.
+
+00:51:01.200 --> 00:51:12.200
+Chociaż jakby cały czas mam to w głowie, że to jest bardzo niewłaściwe użycie tego typu problemów społecznych
+
+00:51:12.200 --> 00:51:18.200
+do tego, żeby sobie ochronić dupę, że się wykorzystuje po prostu sytuację społeczną po to, żeby umocnić swoje pozycje
+
+00:51:18.200 --> 00:51:23.200
+i to jest tylko po to, zresztą cały czas o tym mówimy, że to jest tylko po to, że to nikomu nie ma pomóc.
+
+00:51:23.200 --> 00:51:26.200
+Jeżeli pomaga, to przez przypadek, bo to i tak nie ma dużego znaczenia.
+
+00:51:26.200 --> 00:51:31.200
+To jest tylko po to, żeby tych gości, którzy tam sobie siedzą w tych Oscarach od wielu, wielu lat,
+
+00:51:31.200 --> 00:51:39.200
+żeby siedzieli dalej, żeby nikt im dupy nie zawracał. Więc nie ma się co buntować przeciwko samym filmom.
+
+00:51:39.200 --> 00:51:42.200
+Pytanie, czy w Stanach też jest takie oburzenie na to?
+
+00:51:42.200 --> 00:51:47.200
+Wiesz co, ja też miałem z tym problem, bo po pierwsze polskie artykuły, które mi się wyświetlały,
+
+00:51:47.200 --> 00:51:54.200
+były bardzo wyważone w tej materii. Mówiąc z reguły, wnioski z tych artykułów były takie, że nic się nie zmienia.
+
+00:51:54.200 --> 00:51:59.200
+Natomiast jak za każdym razem, kiedy zagraniczne sobie rzeczy obserwuję, mam tego swojego fida,
+
+00:51:59.200 --> 00:52:05.200
+to nic na ten temat w ogóle nie widziałem, kompletnie. A mój fid obejmuje zagadnienia filmowe.
+
+00:52:05.200 --> 00:52:11.200
+Artykuł to też taki był, że nic. Za to ja znalazłem w Polsce taki artykuł,
+
+00:52:11.200 --> 00:52:20.200
+który całkowicie pominął to, że tylko dwa z tych czterech trzeba spełnić wymogów.
+
+00:52:20.200 --> 00:52:24.200
+I tam w komentarzach to był hardcore.
+
+00:52:24.200 --> 00:52:27.200
+Polacy bardzo się przejmują tymi kwestiami.
+
+00:52:27.200 --> 00:52:32.200
+My jesteśmy bardzo wrażliwym narodem, dlatego mamy tylu świetnych artystów, tyle świetnych reżyserów.
+
+00:52:32.200 --> 00:52:39.200
+Ja na przykład cieszę się, że mamy tak doskonałą reprezentację kobiet w filmie, jako Polska.
+
+00:52:39.200 --> 00:52:44.200
+No widzisz, ja nawet tak nie obserwuję tego na tyle blisko, by sobie zdawać z tego sprawę.
+
+00:52:44.200 --> 00:52:46.200
+Więc to dobra wiadomość.
+
+00:52:46.200 --> 00:52:52.200
+Dobra wiadomość. Czy my coś jeszcze tutaj mamy do obgadania? Chyba nie.
+
+00:52:52.200 --> 00:52:55.200
+Pogadaliśmy chyba wystarczająco dużo na ten temat.
+
+00:52:55.200 --> 00:53:01.200
+Dokładnie. Więc do wszystkich, którzy są strasznie oburzeni, przeczytajcie to sobie.
+
+00:53:01.200 --> 00:53:17.200
+Wejdźcie sobie na IMDB, zobaczcie jakie są obsady, kto jest kim i zobaczycie, że to jest ściema.
+
+00:53:17.200 --> 00:53:20.200
+To jest dupo ochron tylko te zasady.
+
+00:53:20.200 --> 00:53:26.200
+A my pewnie też damy jakiś clickbaitowy tytułek, nie?
+
+00:53:26.200 --> 00:53:28.200
+Postaram się delikatnie.
+
+00:53:28.200 --> 00:53:30.200
+Może tak.
+
+00:53:30.200 --> 00:53:35.200
+Zawsze mam taką silną potrzebę, żeby się zwracać do osób oburzonych, żeby się trochę wyluzowały,
+
+00:53:35.200 --> 00:53:41.200
+ale prawda jest też taka, że ludzie się oburzają często, bo lubią i nawet jak już jestem oburzony na coś,
+
+00:53:41.200 --> 00:53:45.200
+to nawet nie badam tematu za bardzo, żeby moje oburzenie czasami nie opadło,
+
+00:53:45.200 --> 00:53:51.200
+bo to jednak ja mam taki kniew i mam taką misję, żeby jednak ten świat był lepszy niż to, co tam jest.
+
+00:53:51.200 --> 00:53:56.200
+Więc nie chcę badać czasami, żeby się nie okazało, że mogę racji nie mieć albo moje oburzenie nie jest uzasadnione.
+
+00:53:56.200 --> 00:54:05.200
+Ja też powiem jeszcze jedną rzecz. Jestem bardzo wielkim przeciwnikiem jakiejkolwiek cenzury w sztuce i gdziekolwiek indziej.
+
+00:54:05.200 --> 00:54:11.200
+Ja też byłem jedną z tych osób, która broniła hatred.
+
+00:54:11.200 --> 00:54:13.200
+To gra taka, co się strzelało w ludzi.
+
+00:54:13.200 --> 00:54:25.200
+Bardzo brutalna gra, ale jako że twórcy to są artyści, pozdro Jarek, to mają prawo do tego.
+
+00:54:25.200 --> 00:54:30.200
+Mają po prostu prawo. Nie można zagłuszać artystów i tyle.
+
+00:54:30.200 --> 00:54:37.200
+I o jakim temacie chcesz sobie opowiedzieć, to zrób to. Potem ludzie to zweryfikują.
+
+00:54:37.200 --> 00:54:42.200
+Ale potem, nie wcześniej, bo wcześniej to jest cenzura. Jestem dużym przeciwnikiem tego.
+
+00:54:42.200 --> 00:54:47.200
+Jak najbardziej. Pozdrawiamy Państwa bardzo serdecznie. Z pytaniem? Czy to już było pytanie?
+
+00:54:47.200 --> 00:55:01.200
+Napiszcie w komentarzu. Ja się zastanawiam, ile będzie komentarzy, bo wydaje mi się, że większość komentarzy, która się pojawiła była przed przeczytaniem jakiegokolwiek tekstu.
+
+00:55:01.200 --> 00:55:08.200
+To jest to, co mówimy o oburzeniu. Oburzenie jest fajne. Fajnie się czuje człowiek, że ma takie poczucie, że robi coś ważnego i sprawiedliwego.
+
+00:55:08.200 --> 00:55:18.200
+Ja zastanawiam się, czy ktoś zrobi taki szpagat, że udowodni rzeczywiście, że jakiś film byłby niemożliwy do realizacji, powiedzmy z ostatnich dziesięciu lat.
+
+00:55:18.200 --> 00:55:27.200
+Bo ja chyba nie znalazłem takiego filmu, a już od razu mówię, że tamtego Gladiatora też chyba sprawdzałem i tam też mi wyszło, żeby spełniał zasady.
+
+00:55:27.200 --> 00:55:43.200
+Bo tak jak mówię, tak zasady są zbudowane, że jeżeli masz monodramat z jednym typem, który gada w pokoju przez półtorej godziny, to też to przejdzie. Białym podkreślam.
+
+00:55:43.200 --> 00:55:52.200
+Wniosek chyba jest taki, że trzeba się mocno nagimnastykować, żeby nie spełnić tych zasad. Dużo trudniej jest tych zasad nie spełnić niż je spełnić.
+
+00:55:52.200 --> 00:55:57.200
+No i pozdrawiamy Państwa z tymi zacnymi myślami. Do zobaczenia następnym razem.
+
+00:55:57.200 --> 00:55:58.200
+Trzymajcie się.
+
+00:55:58.200 --> 00:56:22.200
+Cześć, cześć.
+

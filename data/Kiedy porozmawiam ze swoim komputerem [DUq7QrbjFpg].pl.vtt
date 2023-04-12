@@ -1,0 +1,4174 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:07.000
+Proszę Państwa, witamy bardzo, bardzo serdecznie w podcaście Rock i Borys z gościem. Dzień dobry Panowie.
+
+00:00:07.000 --> 00:00:09.000
+Dzień dobry. Cześć wszystkim.
+
+00:00:09.000 --> 00:00:16.000
+Musimy się, wiesz, musimy się tak ogarnąć, kto, kiedy, co mówi, bo Ty zacząłeś odcinek, ja się tutaj jeszcze tak kokoszę.
+
+00:00:16.000 --> 00:00:18.000
+Ja, że cichutko siedziałem.
+
+00:00:18.000 --> 00:00:23.000
+No bo to jest taki mamy flow naturalny, to nie trzeba się jakoś strasznie przystosować.
+
+00:00:23.000 --> 00:00:30.000
+Proszę Państwa, naszym gościem dzisiaj jest Jan Adryański, Sou Shibo. Dobrze powiedziałem? Zastanawiał się, jak go będę przedstawiał.
+
+00:00:30.000 --> 00:00:31.000
+Dzień dobry, Jasiu.
+
+00:00:31.000 --> 00:00:35.000
+Tak, dzień dobry. Dzień dobry Wam i dzień dobry słuchaczom.
+
+00:00:35.000 --> 00:00:36.000
+Dzień dobry, Borys.
+
+00:00:36.000 --> 00:00:43.000
+Janek, słuchaj, my się znamy od lat, ale może być tak, że część widzów Cię nie zna, jakaś minimalna.
+
+00:00:43.000 --> 00:00:44.000
+Może tak być.
+
+00:00:44.000 --> 00:00:52.000
+Więc jakbyś mógł powiedzieć, co robisz, czym się zajmujesz jako człowiek renesansu. Chwilę to potrwa, a ja zamknę szafę.
+
+00:00:52.000 --> 00:00:57.000
+Nie, no to myślę, że to będzie już krótka opowieść.
+
+00:00:57.000 --> 00:01:00.000
+Może na początku, skąd się znamy?
+
+00:01:00.000 --> 00:01:05.000
+Znamy się ogólnie z YouTube'a. Jestem YouTuberem, więc z Rokiem się poznaliśmy.
+
+00:01:05.000 --> 00:01:13.000
+No a Borys, wiadomo, to jest twórca filmowy znany na świecie, więc gdzieś tam też po drodze żeśmy się spotkali.
+
+00:01:13.000 --> 00:01:15.000
+Ta znajomość już chyba rok, nie wiem ile...
+
+00:01:15.000 --> 00:01:19.000
+Dobro, 8 lat? Może nawet więcej.
+
+00:01:19.000 --> 00:01:26.000
+Jeśli chodzi o moją dalszą karierę, to pracuję w firmie NVIDIA jako PR Manager.
+
+00:01:26.000 --> 00:01:30.000
+Teraz podstawowe pytanie, czy zapłaciłeś nam za ten odcinek?
+
+00:01:30.000 --> 00:01:31.000
+Nie.
+
+00:01:31.000 --> 00:01:33.000
+No właśnie, niestety.
+
+00:01:33.000 --> 00:01:37.000
+PR nie ma budżetów.
+
+00:01:37.000 --> 00:01:40.000
+Proszę Państwa, to nie jest odcinek sponsorowany.
+
+00:01:40.000 --> 00:01:46.000
+Ale słuchajcie, jako że powiedzieliśmy sobie tutaj, że to nie jest odcinek sponsorowany, to zaczynamy od konkretów.
+
+00:01:46.000 --> 00:01:52.000
+Gdzie jest dostępność 3080 czy 3060? Ja się pytam. W imieniu wszystkich.
+
+00:01:52.000 --> 00:01:57.000
+No dobra, to jest trudny temat, ale postaram się szybko odpowiedzieć.
+
+00:01:57.000 --> 00:02:03.000
+To znaczy, karty są. Nie mogę powiedzieć, że są dostępne, ale są.
+
+00:02:03.000 --> 00:02:06.000
+U YouTuberów, czyli na przykład u nas.
+
+00:02:06.000 --> 00:02:13.000
+Karty są. Problem, znaczy problem. Myśmy się powinni cieszyć tutaj w NVIDII.
+
+00:02:13.000 --> 00:02:22.000
+Popyt jest bardzo duży. To znaczy nagle, z uwagi na to, co się dzieje na świecie, wszyscy stwierdzili, że może sobie pograją w jakieś gry.
+
+00:02:22.000 --> 00:02:25.000
+Może sobie zagrydlą komputery.
+
+00:02:25.000 --> 00:02:30.000
+Plus oczywiście doszła taki temat trochę mniej przyjemny, czyli kopaczy kryptowalut.
+
+00:02:30.000 --> 00:02:34.000
+Czyli osób, które po prostu wykorzystują karty do kopania kryptowalut.
+
+00:02:34.000 --> 00:02:41.000
+No i to się razem kumuluje i powoduje, że nawet mimo tego, że tych kart jest naprawdę dużo do sklepów dostarczanych,
+
+00:02:41.000 --> 00:02:43.000
+to one od razu są wykupywane.
+
+00:02:43.000 --> 00:02:50.000
+W części sklepów są już kolejki długie porobione, więc nawet jak coś przyjdzie, to od razu po prostu trafia do klientów.
+
+00:02:50.000 --> 00:02:56.000
+Ale chcesz mi powiedzieć, że dostępność jest mniej więcej taka, jak była przy poprzedniej generacji?
+
+00:02:56.000 --> 00:03:03.000
+Wiesz co, który dzisiaj mamy, 28, będzie jak leci odcinek, za kilka dni pojawi się ankieta Steam,
+
+00:03:03.000 --> 00:03:08.000
+w której widać, jakie są procenty, jak się zmienia procent użytkowników danych kart.
+
+00:03:08.000 --> 00:03:14.000
+I jak ostatnio sprawdzałem, to był miesiąc temu, teraz nie pamiętam, czy 30,70 czy 30,80,
+
+00:03:14.000 --> 00:03:21.000
+miała już połowę tego, co karta, która jest na rynku 3 lata, czyli 20,80 TI.
+
+00:03:21.000 --> 00:03:26.000
+Czyli praktycznie w 3 miesiące zrobiła 3 lata.
+
+00:03:26.000 --> 00:03:29.000
+No może nie 3 lata, tylko te półtorej roku.
+
+00:03:29.000 --> 00:03:32.000
+No i trafiają do graczy.
+
+00:03:32.000 --> 00:03:39.000
+Powiedz mi, orientujesz się, jeżeli chodzi o produkcję, to znaczy ile kart trafiło, bo rozumiem, że ludzie kupują to straszliwie.
+
+00:03:39.000 --> 00:03:47.000
+I to jest prawda, że pewnie z tego powodu, że są zamknięci w domach, to szukają na siłę okazji do dobrej rozrywki.
+
+00:03:47.000 --> 00:03:54.000
+Natomiast jeżeli chodzi o produkcję, to ta nowa edycja na podobnym poziomie, czy więcej było wyprodukowanych tych kart?
+
+00:03:54.000 --> 00:04:04.000
+Plotki mówią, że są problemy z produkcją, ale to nie jest tak, że ich jest mniej produkowanych niż poprzedniej generacji.
+
+00:04:04.000 --> 00:04:12.000
+Tylko tutaj akurat chodzi o to, że nie można zwiększyć tej liczby tych kart.
+
+00:04:12.000 --> 00:04:17.000
+Czyli nagle mamy dwa razy więcej graczy, przydałoby się dwa razy więcej kart wyprodukować.
+
+00:04:17.000 --> 00:04:25.000
+Plus jeszcze ci górnicy pewnie też coś by tam chcieli i po prostu oni polują na wszystko, co się w sklepach pojawia.
+
+00:04:25.000 --> 00:04:29.000
+No i żeby to zaspokoić, nie da się fabryki dobudować, prawda?
+
+00:04:29.000 --> 00:04:38.000
+A to też nie chodzi tylko o to, co my produkujemy, czyli same te czipy, te rdzenie tych kart, ale o całą resztę.
+
+00:04:38.000 --> 00:04:41.000
+Różnych komponentów brakuje.
+
+00:04:41.000 --> 00:04:51.000
+Chyba dzisiaj albo wczoraj czytałem plotkę, że jedna firma ma problemy z opakowaniami, że nie są w stanie na produkty po prostu zdobyć opakowań, a nie mogą ich gołych wysyłać.
+
+00:04:51.000 --> 00:04:58.000
+Panie, teraz jest ogólnie wielki problem dla praktycznie wszystkich dostawców, ponieważ kontenerów brakuje.
+
+00:04:58.000 --> 00:05:00.000
+A, to o tym nie słyszałem.
+
+00:05:00.000 --> 00:05:10.000
+Kiedyś było tak, że jak coś zamawiasz sobie z Chin w kontenerze, to ten kontener cię kosztował 2000 dolarów ekstra do przesyłki, a teraz chyba z 10.
+
+00:05:10.000 --> 00:05:13.000
+No to brzmi jak duży problem.
+
+00:05:13.000 --> 00:05:14.000
+No i to się wszystko nakłada.
+
+00:05:14.000 --> 00:05:19.000
+Jak to się wszystko skumuluje, to się kończy tak, jak się kończy.
+
+00:05:19.000 --> 00:05:21.000
+Ale wiem, że karty można kupić.
+
+00:05:21.000 --> 00:05:27.000
+To nie jest tak, że ich zupełnie nie ma, to znaczy są sklepy, w których nie ma tych preorderów.
+
+00:05:27.000 --> 00:05:34.000
+I w takim sklepie jak karta do niego wpadnie, to jest szansa, żeby ją tam sobie w Polsce kupić.
+
+00:05:34.000 --> 00:05:36.000
+Szczególnie 30-70 karty.
+
+00:05:36.000 --> 00:05:38.000
+Ja tam sobie śledziłem, jak to wygląda.
+
+00:05:38.000 --> 00:05:46.000
+I ta dostępność rzeczywiście jakaś tam jest, ale po pierwsze jest bardzo mała, po drugie te ceny.
+
+00:05:46.000 --> 00:05:48.000
+No teraz ceny poszły w górach.
+
+00:05:48.000 --> 00:05:53.000
+To jest taka sytuacja też, że na przykład podobnie jest z PlayStation.
+
+00:05:53.000 --> 00:06:04.000
+Nawet jak jest jakaś mała pula, nawet kilkaset albo kilkadziesiąt sztuk wchodzi do sklepów, to sklepy nie będą sprzedawały tego w normalnej cenie,
+
+00:06:04.000 --> 00:06:11.000
+tylko od razu ładują do jakiegoś bundla, telewizor, trzy gry, żeby na wszystkim zarobić.
+
+00:06:11.000 --> 00:06:25.000
+Ludzie by chcieli na przykład, żeby ktoś nakazał sklepom, żeby sprzedawali za konkretną cenę, ale trzeba mieć świadomość, że to nie są dozwolone praktyki na rynku.
+
+00:06:25.000 --> 00:06:32.000
+I nie można takich rzeczy robić, żeby ustalać sobie ceny i to jeszcze między sklepami wszystkimi, to jak z mowa cenowa.
+
+00:06:32.000 --> 00:06:46.000
+To co ja kojarzę, to Sony tam pilnuje tej ceny, żeby jak wystawisz samą konsolę, to żeby jednak ta cena była trzymana i to chyba nawet jest w umowach dystrybucyjnych.
+
+00:06:46.000 --> 00:06:50.000
+Tak, ale jednocześnie ktoś się może mógłby z tego wyłamać.
+
+00:06:50.000 --> 00:06:53.000
+No mógłby, jak media, markt.
+
+00:06:53.000 --> 00:07:02.000
+A oni na przykład nie mogą odmówić, to nie można tak zrobić, że możesz komuś odmówić dostaw. To jest ta rzecz.
+
+00:07:02.000 --> 00:07:05.000
+Nie może firma powiedzieć, tobie nie będziemy sprzedawać.
+
+00:07:05.000 --> 00:07:12.000
+To tak jakbyś poszedł do sklepu i by ci pan powiedział, a panu dziś nie sprzedajemy, rok dostaje kartę, a pan Borys nie dostanie żadnej.
+
+00:07:12.000 --> 00:07:26.000
+Powiem ci tak, może to jest nielegalne, ale tak się dzieje, że te sklepy, które potrafiły się wyłamać albo podbić jakąś cenę, to tracą nagle.
+
+00:07:26.000 --> 00:07:29.000
+Nie ma dla nich dostępności albo jest jakaś bardzo, bardzo...
+
+00:07:29.000 --> 00:07:46.000
+Wiesz co, jest to na pewno niekorzystne na dłuższą metę, bo dużo dostają też, mi się wydaje, tak właśnie PR-owo, no bo okej, zarobią trochę więcej na każdej sztuce, ale ludzie widzą to, co oni robią.
+
+00:07:46.000 --> 00:07:48.000
+Jest takie ssanie ręką, że...
+
+00:07:48.000 --> 00:07:50.000
+Mówisz, że zapomną.
+
+00:07:50.000 --> 00:08:01.000
+Chciałem powiedzieć, panowie, że to wygląda na to, że największym problemem jest jednak to, że graczy przybyło w zastraszającym tempie i to jest podstawa tych oczywiście problemów produkcyjnych,
+
+00:08:01.000 --> 00:08:09.000
+problemów związanych z tymi kopaczami kryptowalut, ale tak naprawdę jest bardzo, bardzo, bardzo dużo graczy i trudno się dziwić, że te fabryki nie wyrabiają.
+
+00:08:09.000 --> 00:08:14.000
+Ale to jest taki w zasadzie pozytywny problem, jakby patrzeć na to tak ogólnie i tak z perspektywy.
+
+00:08:14.000 --> 00:08:22.000
+Zobaczymy jak będzie, no bo graczy przybyło, bo jest w wielu częściach cały czas lockdown albo są jakieś obostrzenia i ludzie nie...
+
+00:08:22.000 --> 00:08:34.000
+No jakby granie w gry z kolegami, kod tam czy PUBG, ja wróciłem ostro do PUBG teraz, to jest fajna rozrywka, no tak naprawdę jedna z niewielu.
+
+00:08:34.000 --> 00:08:41.000
+Możesz się umówić ze znajomymi na Zoomie i napić się wódeczki, no ale nie smakuje tak dobrze.
+
+00:08:41.000 --> 00:08:44.000
+Poza tym nie wiadomo kto to polewa.
+
+00:08:44.000 --> 00:08:50.000
+Właśnie, sobie polewać, albo żonę cały czas wołać, no panie.
+
+00:08:50.000 --> 00:09:00.000
+No dobrze, dobrze, no to rynek nam się rozwija, ale kart rozumiem nie będzie ubywało dalej, że będą trafiały z powrotem na rynek i że będziemy mieli w co grać inaczym.
+
+00:09:00.000 --> 00:09:12.000
+Tak, no ja jestem przekonany, że każdy kto chce kupić kartę to ją w końcu dostanie, no i mamy w przyszłym miesiącu premierę kart 3060.
+
+00:09:12.000 --> 00:09:14.000
+No to chyba rynek najbardziej czeka.
+
+00:09:14.000 --> 00:09:22.000
+A premiera to jest zawsze okazja żeby kupić, no bo tych kart na premierę jest, one gdzieś tam prawda trafiają do tych sklepów, ich jest więcej.
+
+00:09:22.000 --> 00:09:28.000
+Tak jak co tydzień nowa partia by wchodziła, no to te partie są mniejsze, to na premierę zawsze tych sztuk jest więcej.
+
+00:09:28.000 --> 00:09:35.000
+Więc jak ktoś celuje w nowy sprzęt to powinien się zainteresować.
+
+00:09:35.000 --> 00:09:36.000
+Cisza.
+
+00:09:36.000 --> 00:09:40.000
+W ogóle przez ostatnie 15 minut próbowałem się wbić w waszą rozmowę.
+
+00:09:40.000 --> 00:09:41.000
+Jedziesz teraz.
+
+00:09:41.000 --> 00:09:45.000
+15 przesadziłem, 12 nie, no teraz to już wyczertaliście wszystkie tematy jakie miałem.
+
+00:09:45.000 --> 00:09:47.000
+Cały działa odcinek, tak?
+
+00:09:47.000 --> 00:09:52.000
+Widzę, że tu jest bardzo ładnie rozpisany plan, więc z wielką przyjemnością posłucham.
+
+00:09:52.000 --> 00:09:54.000
+Ja nie mam żadnego planu, czy mnie coś ominęło?
+
+00:09:54.000 --> 00:09:55.000
+Tak, to mój plan.
+
+00:09:55.000 --> 00:09:58.000
+Czy to jest takie obgadywanie?
+
+00:09:58.000 --> 00:10:00.000
+Ja myślałem, że Tyrzej Siaciowi wysłał plan, żeby on wiedział.
+
+00:10:00.000 --> 00:10:02.000
+Nie, wczoraj z nim przegadałem.
+
+00:10:02.000 --> 00:10:07.000
+Słuchajcie, nie, no bo chcielibyśmy, żeby w tym odcinku trochę porozmawiać sobie o technologiach.
+
+00:10:07.000 --> 00:10:14.000
+Wydaje mi się, że w tym momencie taką najgorętszą rzeczą jest DLSS.
+
+00:10:14.000 --> 00:10:18.000
+Właściwie nie jest to takie oczywiste, ale opowiadaj, zaraz ci powiem czemu to nie jest oczywiste.
+
+00:10:18.000 --> 00:10:23.000
+Właśnie to jest dobre pytanie, czyli Borys uważa, że DLSS to jest temat.
+
+00:10:23.000 --> 00:10:26.000
+Tak, to jest super temat. Dla mnie to jest w ogóle najbardziej taka atrakcyjna...
+
+00:10:26.000 --> 00:10:28.000
+A mogę się ciebie zapytać, gdzie ty widzisz ten temat?
+
+00:10:28.000 --> 00:10:34.000
+To znaczy, czy to jest temat gdzieś wśród znajomych, gdzieś słyszałeś, czy po prostu widzisz w artykułach?
+
+00:10:34.000 --> 00:10:42.000
+Tak, ale wiesz co, od czerwca chyba, czy od lipca, mówi się dużo o tym, że Nintendo zatrudnia specjalistów od DLSS.
+
+00:10:42.000 --> 00:10:52.000
+Każdy, kto ma kartę z RTX-em i z DLSS-em, jak wyłączy sobie tego DLSS-a i zostawi RTX-a, to widzi tę różnicę.
+
+00:10:52.000 --> 00:11:04.000
+Ja też zastanawiam się, tak na głos, nie wiem czy to jest mądre, czy nie, jakie zastosowanie DLSS może mieć w graniu w chmurze.
+
+00:11:04.000 --> 00:11:12.000
+Jakie może mieć zastosowanie na przykład w telewizorach, albo właśnie w nowym Switchu.
+
+00:11:12.000 --> 00:11:20.000
+Dzisiaj też się pojawiło, dzisiaj czy wczoraj, jakieś takie informacje miały się pojawić nowe o Super Switchu.
+
+00:11:20.000 --> 00:11:25.000
+To było pytanie do nas obu, ja nie wiem czy to zauważyłeś.
+
+00:11:25.000 --> 00:11:34.000
+Ja też chciałbym coś powiedzieć w tej sprawie, oczywiście DLSS mnie bardzo fascynuje, natomiast wydaje mi się, że po pierwsze marketingowo
+
+00:11:34.000 --> 00:11:43.000
+RTX jest takim skrótem, który wszyscy gracze rozpoznają i wiedzą mniej więcej o co chodzi, natomiast DLSS to jest taka technologia, która…
+
+00:11:43.000 --> 00:11:50.000
+DLSS, dobrze mówiłeś.
+
+00:11:50.000 --> 00:11:51.000
+O nie, to Borys napisał w notatkach źle, ja to teraz tak przeczytam.
+
+00:11:51.000 --> 00:11:52.000
+Ale powiedział dobrze.
+
+00:11:52.000 --> 00:11:55.000
+Tak, właśnie widzę, że w tytule mam źle.
+
+00:11:55.000 --> 00:12:04.000
+No więc to jest taka technologia dla ludzi, którzy już trochę te technologie ogarniają, trochę zgłębili temat, bo ona jest zdecydowanie moim zdaniem
+
+00:12:04.000 --> 00:12:10.000
+nie tyle atrakcyjniejsza wizualnie, co wydajnościowo. I też jest tak, my żeśmy się ostatnio z Jasiem spotkali we Wrocławiu,
+
+00:12:10.000 --> 00:12:17.000
+bo były jeszcze takie letnie czasy, kiedy kwarantanna nie była taka ostra i lokale były zamknięte, mieli okazję burgerka sobie zjeść tutaj we Wrocławiu.
+
+00:12:17.000 --> 00:12:18.000
+Tak było.
+
+00:12:18.000 --> 00:12:25.000
+I ja przyznam, że do tych wakacji to tak za bardzo tej technologii nie ogarniałem dopiero podczas tego posiłku, żeś mi powiedział na czym to polega
+
+00:12:25.000 --> 00:12:31.000
+i od tego momentu się bardzo mocno zajawiłem. Ja oczywiście bardzo uważnie śledziłem RTX-a i uważałem, że to jest ciekawa technologia,
+
+00:12:31.000 --> 00:12:39.000
+która oczywiście wpływa potwornie na wydajność, w sensie negatywnym, chociaż już pewnie teraz mniej. Natomiast ten DLSS, dobrze mówię teraz.
+
+00:12:39.000 --> 00:12:40.000
+Tak, bardzo dobrze.
+
+00:12:40.000 --> 00:12:47.000
+Do końca życia już nie będę pamiętał, jak to wymówić przez te notatki. No to jest coś, co mnie absolutnie zachwyciło.
+
+00:12:47.000 --> 00:12:55.000
+To jest to, co śledzę teraz ja również, czyli tak jak Borys podobnie przy tej technologii obstaje.
+
+00:12:55.000 --> 00:13:01.000
+Natomiast uważam, że jeżeli chodzi o rynek, to RTX ma dużo większe znaczenie, w sensie jest dużo bardziej rozpoznawalny.
+
+00:13:01.000 --> 00:13:04.000
+Zresztą karty mają dopisek RTX, nie bez powodu.
+
+00:13:04.000 --> 00:13:14.000
+Obydwie technologie w parze się dopełniają, ale nie powiedzieliśmy co to jest DLSS.
+
+00:13:14.000 --> 00:13:15.000
+Tak jest, opowiadamy.
+
+00:13:15.000 --> 00:13:18.000
+Jeszcze nie wspomnieliśmy.
+
+00:13:18.000 --> 00:13:29.000
+To tak prostym językiem to jest po prostu taki trochę upscaling, supersampling, deep learning supersampling,
+
+00:13:29.000 --> 00:13:38.000
+czyli pozwala on nam zwiększyć rozdzielczość obrazu przy pomocy uczenia maszynowego, sieci neuronowych.
+
+00:13:38.000 --> 00:13:41.000
+To jest taka definicja.
+
+00:13:41.000 --> 00:13:45.000
+Okej, to może powiedzmy jak to działa. Będzie prościej.
+
+00:13:45.000 --> 00:13:55.000
+Chcemy sobie odpalić grę w 4K, czyli fajna, duża, ładna rozdzielczość, dużo pikseli, ale nasz komputer nie domaga.
+
+00:13:55.000 --> 00:14:05.000
+Jeśli uruchomimy DLSS, to on w zależności od trybu potrafi obraz z takiej jakości HD zwiększyć do tego 4K.
+
+00:14:05.000 --> 00:14:12.000
+I nie robi tego w taki klasyczny sposób, że gdzieś tam sobie dodaje piksele na ślepo,
+
+00:14:12.000 --> 00:14:17.000
+albo jakimiś oczywiście algorytmami, które tam już były takie techniki upscalingu dostępne.
+
+00:14:17.000 --> 00:14:27.000
+Tylko tutaj załadowano, bardzo mądry komputer, zdjęciami takich gier w niższej i wyższej rozdzielczości.
+
+00:14:27.000 --> 00:14:31.000
+I on się nauczył, jak dany obraz powinien wyglądać.
+
+00:14:31.000 --> 00:14:33.000
+Jak generować brakujące piksele.
+
+00:14:33.000 --> 00:14:39.000
+Tak, i teraz wiele osób się pyta, no dobra, ale w jaki sposób ten obraz, który idzie z mniejszej rozdzielczości,
+
+00:14:39.000 --> 00:14:43.000
+jest zrobiony do większej, w jaki sposób on może mieć więcej danych,
+
+00:14:43.000 --> 00:14:49.000
+czyli być na przykład bardziej dokładnym, bo są też takie przypadki, że ludzie patrzą i mówią,
+
+00:14:49.000 --> 00:14:51.000
+kurczę, tu jest więcej szczegółów.
+
+00:14:51.000 --> 00:14:58.000
+Oczywiście on nie bierze jednego obrazka, tylko jako, że gra jest filmem, klatki lecą,
+
+00:14:58.000 --> 00:15:04.000
+to on jest w stanie porównywać klatki między sobą i wie, co było w poprzednich klatkach.
+
+00:15:04.000 --> 00:15:09.000
+Wie, co generuje, więc jest w stanie ten obraz bardziej sobie ustabilizować.
+
+00:15:09.000 --> 00:15:15.000
+I to powoduje, że on jest ostrzejszy, że czasem krawędzie, które gdzieś tam by nam się,
+
+00:15:15.000 --> 00:15:19.000
+na przykład, nie wiem, jakiś drut energetyczny, kabel energetyczny,
+
+00:15:19.000 --> 00:15:23.000
+gdzieś może być taki poprzerywany w normalnym upscalingu,
+
+00:15:23.000 --> 00:15:27.000
+tutaj zostanie do takiej prostej linii uzupełnionych.
+
+00:15:27.000 --> 00:15:30.000
+Więc tak to powinno działać.
+
+00:15:30.000 --> 00:15:36.000
+Ja jeszcze pozwolę sobie uprosić to jeszcze bardziej, bo też jakby ten temat jest mi niezwykle bliski.
+
+00:15:36.000 --> 00:15:41.000
+Chodzi mniej więcej o to, że sztuczna inteligencja jest odpowiedzialna za to,
+
+00:15:41.000 --> 00:15:46.000
+żeby dorabiać te dodatkowe piksele, tych, których brakuje przy renderowaniu obrazu.
+
+00:15:46.000 --> 00:15:50.000
+I to, co też mnie urzekło, jak opowiadałeś mi o tym pół roku temu,
+
+00:15:50.000 --> 00:15:55.000
+to obecność, to właśnie takie trzy procesy są wykonywane na tych nowych RTX-ach.
+
+00:15:55.000 --> 00:15:59.000
+I to jest właśnie technologia odpowiedzialna za RTX, to jest jedna,
+
+00:15:59.000 --> 00:16:02.000
+czyli za te odbicia, za te światła.
+
+00:16:02.000 --> 00:16:06.000
+Druga to jest Tegra, to się nazywa?
+
+00:16:06.000 --> 00:16:08.000
+Tensory.
+
+00:16:08.000 --> 00:16:14.000
+I tensory odpowiadają za te procesy sztucznej inteligencji, które dorzucają te brakujące klatki.
+
+00:16:14.000 --> 00:16:16.000
+I jeszcze trzecia technologia, jaka jest?
+
+00:16:16.000 --> 00:16:19.000
+Wiesz co, mamy jakąś trzecią.
+
+00:16:19.000 --> 00:16:22.000
+Mamy dużo, ale nie wiem, o którą Ci chodzi.
+
+00:16:22.000 --> 00:16:27.000
+Są rdzenie RT, czyli właśnie odpowiedzialne za ray tracing,
+
+00:16:27.000 --> 00:16:33.000
+czyli jakby fizyczne, taki element karty, który to oblicza i przyspiesza te obliczenia.
+
+00:16:33.000 --> 00:16:38.000
+Rdzenie tensor, te, o których wspomniałeś, które właśnie odpowiadają za DLSS.
+
+00:16:38.000 --> 00:16:42.000
+Odszumianie też później tego obrazu i tak dalej.
+
+00:16:42.000 --> 00:16:45.000
+No i później już są takie zwykłe rdzenie od rasteryzacji.
+
+00:16:45.000 --> 00:16:48.000
+No to może o tych myślałem jako o trzecich, ale to dobra.
+
+00:16:48.000 --> 00:16:51.000
+To może jeszcze coś przypomnę, a może coś pomyliłem,
+
+00:16:51.000 --> 00:16:54.000
+ale byłem prawie pewien, że dosyć wiernie pamiętam Twoją historię.
+
+00:16:54.000 --> 00:16:55.000
+No dobra.
+
+00:16:55.000 --> 00:17:03.000
+Ale słuchaj, czekaj, bo tak jak jest osobny jakby chipset od ray tracingu,
+
+00:17:03.000 --> 00:17:09.000
+to DLSS może być realizowany przez różne procesory, czy nie?
+
+00:17:09.000 --> 00:17:11.000
+Znaczy to jest tak.
+
+00:17:11.000 --> 00:17:16.000
+Są części wydzielone na czipie na te rdzenie, tak, odpowiednie.
+
+00:17:16.000 --> 00:17:21.000
+I teraz tak, prędzej, jeśli chodzi o to, co jest teraz dostępne,
+
+00:17:21.000 --> 00:17:25.000
+to jesteś w stanie ray tracing odpalić bez rdzeni RT.
+
+00:17:25.000 --> 00:17:28.000
+W kilku klatkach na sekundę zamiast kilkudziesięciu, ale jesteś w stanie.
+
+00:17:28.000 --> 00:17:34.000
+Czyli możesz sobie, każdy kto ma kartę GTX, wchodzi sobie do na przykład
+
+00:17:34.000 --> 00:17:38.000
+jakiegoś tam, nie wiem, Battlefielda, czy Controla
+
+00:17:38.000 --> 00:17:40.000
+i jest w stanie odpalić sobie ray tracing.
+
+00:17:40.000 --> 00:17:43.000
+To musi być oczywiście przez twórców gry uruchomione,
+
+00:17:43.000 --> 00:17:47.000
+bo gra rozpoznaje jaka karta jest, albo jest taka opcja, albo nie,
+
+00:17:47.000 --> 00:17:48.000
+ale można to sprawdzić.
+
+00:17:48.000 --> 00:17:54.000
+Tylko tak jak mówię, to tak obciąża kartę bez tych dedykowanych rdzeni.
+
+00:17:54.000 --> 00:17:56.000
+Nawet dziesięciokrotnie niższa wydajność.
+
+00:17:56.000 --> 00:17:59.000
+Ale to przy RT, a przy DLSS?
+
+00:17:59.000 --> 00:18:02.000
+Przy RT, ale przy DLSS musisz mieć te rdzenie.
+
+00:18:02.000 --> 00:18:03.000
+Musisz mieć rdzenie.
+
+00:18:03.000 --> 00:18:05.000
+Czyli musisz mieć RTX.
+
+00:18:05.000 --> 00:18:12.000
+Okej, a czy ty kojarzysz, czy ktoś zbadał, czy DLSS jest bardzo prądożerny?
+
+00:18:12.000 --> 00:18:15.000
+A to już zmierzam w konkretnym kierunku.
+
+00:18:15.000 --> 00:18:20.000
+Było to sprawdzane i to może być w drugą stronę.
+
+00:18:20.000 --> 00:18:24.000
+To znaczy, jak odpalisz DLSS, wyobraź sobie, że masz teraz laptopa
+
+00:18:24.000 --> 00:18:29.000
+i grasz w 60 klatkach, ale chciałbyś zaoszczędzić baterię.
+
+00:18:29.000 --> 00:18:33.000
+Więc uruchamiasz DLSS i dalej grasz w 60 klatkach,
+
+00:18:33.000 --> 00:18:36.000
+ale tak naprawdę renderujesz o wiele mniej ich,
+
+00:18:36.000 --> 00:18:42.000
+więc karta mniej pracuje, a te tensory nie obciążają tej karty tak mocno.
+
+00:18:42.000 --> 00:18:46.000
+Czyli mamy potwierdzenie, w nowym Switchu DLSS, tak?
+
+00:18:46.000 --> 00:18:55.000
+Wiesz co, Switch, ja się zajmuję GeForcem, a Switch to jest Tegra,
+
+00:18:55.000 --> 00:19:01.000
+czyli jest też tam NVIDIA w środku, ale Shield TV to jest takie urządzenie,
+
+00:19:01.000 --> 00:19:04.000
+nie wiem czy rok ma, zna.
+
+00:19:04.000 --> 00:19:08.000
+Shield TV to jest taka przystawka do telewizora i tam jest Tegra.
+
+00:19:08.000 --> 00:19:16.000
+I jest upscaling AI do 4K na najnowszych Shieldach z 2019.
+
+00:19:16.000 --> 00:19:21.000
+O, na przykład możesz sobie Netflixa odpalić i ten, nie wiem jak to jest
+
+00:19:21.000 --> 00:19:24.000
+dokładnie z aplikacjami, na pewno działa na Netflixie i zgaduje pewnie,
+
+00:19:24.000 --> 00:19:26.000
+że na tych najpopularniejszych.
+
+00:19:26.000 --> 00:19:30.000
+Ej, dobra, czyli na przykład, jeżeli ja mam tego Shielda
+
+00:19:30.000 --> 00:19:34.000
+i odpalę sobie tam GeForce Now, powiedzmy Cyberpunka,
+
+00:19:34.000 --> 00:19:39.000
+to mogę zaoszczędzić na transferze i on może transferować obraz serwera.
+
+00:19:39.000 --> 00:19:42.000
+Nie do końca, bo to jest do apki podpięte.
+
+00:19:42.000 --> 00:19:44.000
+To jest do apki podpięte.
+
+00:19:44.000 --> 00:19:48.000
+Trzeba też rozróżnić to, co się dzieje w czasie rzeczywistym,
+
+00:19:48.000 --> 00:19:51.000
+od tego co, no Netflix to nie jest czas rzeczywisty.
+
+00:19:51.000 --> 00:19:55.000
+Mamy czas na to, żeby sobie jakiś upscaling zrobić,
+
+00:19:55.000 --> 00:19:58.000
+a jak grasz, to już musisz mieć te 60 klatek.
+
+00:19:58.000 --> 00:20:02.000
+I to też właściwie jest ważna rzecz, jeśli ktoś się zastanawia
+
+00:20:02.000 --> 00:20:06.000
+nad DLSS-em, jak to działa, że są pewne limity,
+
+00:20:06.000 --> 00:20:09.000
+to znaczy te sorry nie są w stanie w pewnym momencie przerobić
+
+00:20:09.000 --> 00:20:13.000
+pewnej ilości klatek, już cię nie wspomogą dalej.
+
+00:20:13.000 --> 00:20:17.000
+Czyli jeśli natywnie w grze masz na przykład 200 FPS-ów
+
+00:20:17.000 --> 00:20:21.000
+w jakiejś strzelance, to uruchamiając DLSS możesz nie mieć już
+
+00:20:21.000 --> 00:20:25.000
+więcej niż te 200, bo to jakby sama karta generuje tyle klatek,
+
+00:20:25.000 --> 00:20:27.000
+że te sorry nie pomogą.
+
+00:20:27.000 --> 00:20:31.000
+Ale jeśli grasz na przykład w Cyberpunka 4K z raytracingiem
+
+00:20:31.000 --> 00:20:36.000
+i miałbyś mieć tych FPS-ów 30, to DLSS się idealnie sprawdzi
+
+00:20:36.000 --> 00:20:39.000
+i z tych 30 spokojnie sobie zrobi na przykład 60.
+
+00:20:39.000 --> 00:20:41.000
+No widzisz, ja mam dokładnie taką sytuację,
+
+00:20:41.000 --> 00:20:46.000
+bo dzisiaj testowałem sobie, tylko że ja w 1440 gram
+
+00:20:46.000 --> 00:20:53.000
+i jak mam odpalony raytracing i DLSS, to jest 60 klatek,
+
+00:20:53.000 --> 00:20:56.000
+a czasem tam spada, ale jak mam wyłączony DLSS,
+
+00:20:56.000 --> 00:20:59.000
+to jest 30 klatek od razu.
+
+00:20:59.000 --> 00:21:01.000
+Jeszcze zależy na jakim trybie.
+
+00:21:01.000 --> 00:21:03.000
+Jednej rzeczy, żeśmy nie dopowiedzieli takiej,
+
+00:21:03.000 --> 00:21:05.000
+pewnie to wynika z naszej rozmowy,
+
+00:21:05.000 --> 00:21:08.000
+ale tak, żeby to jakby klarownie opisać.
+
+00:21:08.000 --> 00:21:11.000
+RTX poprawia jakość obrazu kosztem wydajności,
+
+00:21:11.000 --> 00:21:14.000
+natomiast DLSS poprawia wydajność zdecydowanie.
+
+00:21:14.000 --> 00:21:16.000
+I to są takie technologie, które się trochę kompensują.
+
+00:21:16.000 --> 00:21:21.000
+To znaczy DLSS kompensuje RTX-a, czyli odpalenie RTX-a spowoduje,
+
+00:21:21.000 --> 00:21:24.000
+że ilość klatek wam spadnie, DLSS może ten proces odwrócić.
+
+00:21:24.000 --> 00:21:27.000
+I teraz ja mam w ogóle wrażenie, że te technologie związane
+
+00:21:27.000 --> 00:21:31.000
+z tym supersamplingiem są na tyle zaawansowane,
+
+00:21:31.000 --> 00:21:35.000
+że więcej się zyskuje niż tracąc na RTX-ie.
+
+00:21:35.000 --> 00:21:38.000
+Czyli jakby sumarycznie i tak się korzyść jakąś tam odnosi.
+
+00:21:38.000 --> 00:21:40.000
+Jakość obrazu jest lepsza i wydajność jest lepsza.
+
+00:21:40.000 --> 00:21:42.000
+Uważasz, że to powinny być na przykład połączone opcje?
+
+00:21:42.000 --> 00:21:45.000
+Byłoby dla ciebie łatwiej, gdybyś po prostu włączał RTX
+
+00:21:45.000 --> 00:21:49.000
+i od razu by się DLSS na przykład w tej najwyższej jakości włączało?
+
+00:21:49.000 --> 00:21:51.000
+Myślę, że to byłoby ciekawe rozwiązanie.
+
+00:21:51.000 --> 00:21:53.000
+Ja pamiętam jeszcze przed naszą rozmową,
+
+00:21:53.000 --> 00:21:55.000
+kiedy widziałem DLSS, to nie wiedziałem do czego to służy.
+
+00:21:55.000 --> 00:22:02.000
+I często tego nie włączałem, dlatego że jak czegoś nie widzę wizualnie,
+
+00:22:02.000 --> 00:22:04.000
+to nie ruszam, bo nie mam takiego poczucia,
+
+00:22:04.000 --> 00:22:07.000
+że potrzebuję wszystkie opcje na full powłączać na karcie graficznej,
+
+00:22:07.000 --> 00:22:09.000
+nawet jak mam supermocną.
+
+00:22:09.000 --> 00:22:11.000
+Więc tego nie uruchamiałem.
+
+00:22:11.000 --> 00:22:13.000
+Dopiero potem, jak Grzegorz mi powiedział,
+
+00:22:13.000 --> 00:22:15.000
+to zacząłem się tym posługiwać,
+
+00:22:15.000 --> 00:22:19.000
+więc ja też gdzieś tam nie byłem zaangażowany w technologię tak bardzo.
+
+00:22:19.000 --> 00:22:22.000
+Ale to byłoby niegłupie rozwiązanie faktycznie.
+
+00:22:22.000 --> 00:22:25.000
+Być może pośród opcji RTX'a przydałaby się taka,
+
+00:22:25.000 --> 00:22:27.000
+która by łączyła RTX'a z DLSS,
+
+00:22:27.000 --> 00:22:29.000
+żeby człowiek za dużo nie musiał myśleć.
+
+00:22:29.000 --> 00:22:33.000
+Wiecie co, po to jest PC Master Race, żeby sobie tam wszystko...
+
+00:22:33.000 --> 00:22:35.000
+Oczywiście, że tak.
+
+00:22:35.000 --> 00:22:40.000
+Ja mam takie wrażenie, bo pracuję z dziennikarzami, z influencerami
+
+00:22:40.000 --> 00:22:44.000
+i szczególnie jak ktoś pierwszy raz ma styczność,
+
+00:22:44.000 --> 00:22:48.000
+to nie do końca, jak nie rozumie tego,
+
+00:22:48.000 --> 00:22:53.000
+na przykład, że z niższych rozdzielczości się ten obraz skaluje,
+
+00:22:53.000 --> 00:22:55.000
+to nie rozumie tych trybów wydajności,
+
+00:22:55.000 --> 00:22:58.000
+że jest jakość, performance, wydajność.
+
+00:22:58.000 --> 00:23:01.000
+I czasem można na przykład w internecie znaleźć informację,
+
+00:23:01.000 --> 00:23:03.000
+że ktoś tam grał w Call of Duty,
+
+00:23:03.000 --> 00:23:06.000
+włączył i obraz mu strasznie wyglądał.
+
+00:23:06.000 --> 00:23:08.000
+I ja mam takie dziwne wrażenie,
+
+00:23:08.000 --> 00:23:10.000
+jak pierwszy raz włączyłem Call of Duty i włączyłem DLSS,
+
+00:23:10.000 --> 00:23:12.000
+to on się ustawił w tryb chyba performance,
+
+00:23:12.000 --> 00:23:16.000
+czyli ten taki, który z cztery razy niższej rozdzielczości,
+
+00:23:16.000 --> 00:23:19.000
+powiedzmy trzy razy niższy, zaczyna upscalować ten obraz.
+
+00:23:19.000 --> 00:23:23.000
+No to siłą rzeczy wiadomo, że on traci na tej jakości.
+
+00:23:23.000 --> 00:23:27.000
+Zyskuje się bardzo dużo FPS-ów, a on traci.
+
+00:23:27.000 --> 00:23:30.000
+I w Cyberpunku na przykład jest tryb auto
+
+00:23:30.000 --> 00:23:33.000
+i on już jest tak zrobiony, że nie.
+
+00:23:33.000 --> 00:23:36.000
+To nie jest jakiś tryb dodatkowy.
+
+00:23:36.000 --> 00:23:42.000
+Auto po prostu wybiera jeden z trybów tych pozostałych,
+
+00:23:42.000 --> 00:23:45.000
+tylko już dostosowany do rozdzielczości.
+
+00:23:45.000 --> 00:23:49.000
+Więc nie musimy się zastanawiać.
+
+00:23:49.000 --> 00:23:52.000
+Nie musimy się zastanawiać, czy chcemy wydajność,
+
+00:23:52.000 --> 00:23:57.000
+czy ten tryb auto wie, w jakiej rozdzielczości gra jest uruchomiona
+
+00:23:57.000 --> 00:24:00.000
+i on sobie sam wybierze tą jakość.
+
+00:24:00.000 --> 00:24:05.000
+Ja dużo dzisiaj sobie siedziałem nad tym i szukałem różnic.
+
+00:24:05.000 --> 00:24:09.000
+Właśnie w Cyberpunku wydaje mi się, że to jest bardzo dobry benchmark do tego,
+
+00:24:09.000 --> 00:24:13.000
+bo jest zoptymalizowany dość umiarkowanie, że tak powiem.
+
+00:24:13.000 --> 00:24:16.000
+I naprawdę są takie miejsca,
+
+00:24:16.000 --> 00:24:18.000
+to słynne, nie wiem, czy wy kojarzycie,
+
+00:24:18.000 --> 00:24:20.000
+ty Remik, kojarzysz Zagłębie Gliczy?
+
+00:24:20.000 --> 00:24:26.000
+Takie miejsce koło takiego mostu, gdzie samochody zawsze wiszą w powietrzu.
+
+00:24:26.000 --> 00:24:28.000
+A nie, ja nie, ja w ogóle wiesz.
+
+00:24:28.000 --> 00:24:29.000
+Ja go nie napotkałem też.
+
+00:24:29.000 --> 00:24:35.000
+A to jest takie miejsce, gdzie nie ma tam żadnej misji,
+
+00:24:35.000 --> 00:24:39.000
+więc tam stoi policja z wywalonym i zgliczowanym samochodem
+
+00:24:39.000 --> 00:24:41.000
+i nad nią jest kilka samochodów.
+
+00:24:41.000 --> 00:24:44.000
+I praktycznie każdy to ma, Zagłębie Gliczy.
+
+00:24:44.000 --> 00:24:47.000
+I tam zawsze mi framerate spada,
+
+00:24:47.000 --> 00:24:51.000
+więc ja tam sobie jadę i sprawdzam sobie ten DLSS.
+
+00:24:51.000 --> 00:24:57.000
+I powiem wam tak, ja realnie nie widzę różnicy.
+
+00:24:57.000 --> 00:25:00.000
+Co dobrze świadczy o DLSSie.
+
+00:25:00.000 --> 00:25:03.000
+Tak, bardzo dobrze, bo to jest...
+
+00:25:03.000 --> 00:25:05.000
+Jest tam może jakaś różnica,
+
+00:25:05.000 --> 00:25:09.000
+ale to nie jest taka różnica, że tu wygląda lepiej, a tu wygląda gorzej.
+
+00:25:09.000 --> 00:25:14.000
+Raczej to jest taka różnica, tu wygląda inaczej, a tutaj trochę inaczej.
+
+00:25:14.000 --> 00:25:15.000
+No to jest...
+
+00:25:15.000 --> 00:25:16.000
+Dokładnie tak jest.
+
+00:25:16.000 --> 00:25:19.000
+Dla mnie to jest bajka, dlatego ja mówię, że...
+
+00:25:19.000 --> 00:25:20.000
+Tak jak...
+
+00:25:20.000 --> 00:25:24.000
+Okej, odpaliłem sobie pierwszy raz Minecrafta w RTX, nowa gra.
+
+00:25:24.000 --> 00:25:26.000
+No zachwycony byłem, nie będę ukrywał.
+
+00:25:26.000 --> 00:25:30.000
+Świetnie to wygląda, mimo że to jest śmieszna gierka, nie?
+
+00:25:30.000 --> 00:25:33.000
+I Cyberpunk bez RTX-a dużo gorzej wygląda.
+
+00:25:33.000 --> 00:25:34.000
+Dużo gorzej.
+
+00:25:34.000 --> 00:25:36.000
+Tak samo Watch Dogs.
+
+00:25:36.000 --> 00:25:40.000
+Teraz sobie kupiłem specjalnie znowu abonament, żeby te Watch Dogs-y ograć,
+
+00:25:40.000 --> 00:25:43.000
+zresztą też pod ten odcinek.
+
+00:25:43.000 --> 00:25:47.000
+I to miasto świetnie wygląda, ale jak wyłączy się RTX-a,
+
+00:25:47.000 --> 00:25:50.000
+to już to tak...
+
+00:25:50.000 --> 00:25:51.000
+Nie ma takiej frajdy.
+
+00:25:51.000 --> 00:25:53.000
+To chyba jest też kwestia przyzwyczajenia.
+
+00:25:53.000 --> 00:25:56.000
+Jednak jak odpalisz RTX-a i trochę na nim pograsz,
+
+00:25:56.000 --> 00:25:58.000
+to zaczynasz, wiesz, bo to jest taki...
+
+00:25:58.000 --> 00:26:00.000
+Przeszkadzać ci jak nie ma.
+
+00:26:00.000 --> 00:26:02.000
+No, bo to jest taki rodzaj oświetlenia...
+
+00:26:02.000 --> 00:26:03.000
+Z 120 FPS-ami, nie?
+
+00:26:03.000 --> 00:26:07.000
+To jest taki rodzaj oświetlenia i odbić, który jest bardzo realistyczny.
+
+00:26:07.000 --> 00:26:10.000
+I dopóki go nie zobaczyłeś na ekranie, to w ogóle nie czułeś takiej potrzeby,
+
+00:26:10.000 --> 00:26:14.000
+bo te wszystkie sztuczki, z których deweloperzy korzystali,
+
+00:26:14.000 --> 00:26:15.000
+wystarczały zupełnie, nie?
+
+00:26:15.000 --> 00:26:17.000
+Ale moment, w którym zobaczysz, jak może być,
+
+00:26:17.000 --> 00:26:20.000
+i to potem pozbawisz tego, pozbędziesz,
+
+00:26:20.000 --> 00:26:22.000
+no to jest dużo gorszy.
+
+00:26:22.000 --> 00:26:27.000
+A powiedz mi, bo te dwie technologie, RTX i DLSS,
+
+00:26:27.000 --> 00:26:29.000
+która jest właściwie teraz priorytetem?
+
+00:26:29.000 --> 00:26:32.000
+Bo ten DLSS jest chyba trochę nowszą technologią?
+
+00:26:32.000 --> 00:26:34.000
+Znaczy, wiesz co, tu...
+
+00:26:34.000 --> 00:26:38.000
+Bo dwójka wyszła jakiś czas temu i tam była duża rewolucja DLSS-ów.
+
+00:26:38.000 --> 00:26:42.000
+Tak, teraz, no pierwszy, powiedzmy, że ten pierwszy DLSS, który wyszedł,
+
+00:26:42.000 --> 00:26:46.000
+no tam on był, lepiej działał niż upscaling typowy,
+
+00:26:46.000 --> 00:26:48.000
+ale dużo mu brakowało.
+
+00:26:48.000 --> 00:26:49.000
+Ale widać było, tak, no.
+
+00:26:49.000 --> 00:26:50.000
+Dużo mu brakowało.
+
+00:26:50.000 --> 00:26:54.000
+To nie było jeszcze to, co Nvidia chciała graczom dać.
+
+00:26:54.000 --> 00:27:00.000
+I później był taki przejściowy, przejściowa próba przy kontrolu,
+
+00:27:00.000 --> 00:27:06.000
+gdzie to było takie trochę mieszane podejście.
+
+00:27:06.000 --> 00:27:09.000
+To znaczy, to był już algorytm gotowy,
+
+00:27:09.000 --> 00:27:14.000
+takie jakby DLSS, ale już przez ludzi trochę przerobione,
+
+00:27:14.000 --> 00:27:17.000
+to 1.0 i ono wyglądało bardzo ładnie
+
+00:27:17.000 --> 00:27:19.000
+i nie wymagało na przykład tensorów.
+
+00:27:19.000 --> 00:27:21.000
+Czyli nie potrzebowałeś tych drdzeni.
+
+00:27:21.000 --> 00:27:26.000
+Dlatego na Switchu ten był kontrol streamowany.
+
+00:27:26.000 --> 00:27:30.000
+No i strasznie trudno się to implementuje,
+
+00:27:30.000 --> 00:27:34.000
+a to musi być tak, że po prostu deweloper to uruchamia.
+
+00:27:34.000 --> 00:27:37.000
+Wiadomo, że trochę tam pracy musi wykonać,
+
+00:27:37.000 --> 00:27:40.000
+ale żeby to powinno działać, a nie, że grupa inżynierów z Nvidii
+
+00:27:40.000 --> 00:27:42.000
+musi siedzieć nad grą i kombinować.
+
+00:27:42.000 --> 00:27:45.000
+Tak, więc ten DLSS 2.0 w końcu się pojawił
+
+00:27:45.000 --> 00:27:46.000
+i on już taki jest.
+
+00:27:46.000 --> 00:27:49.000
+To znaczy, po pierwsze, jest dostępny dla deweloperów.
+
+00:27:49.000 --> 00:27:53.000
+Kiedyś trzeba się było zgłaszać do firmy i, że tak powiem,
+
+00:27:53.000 --> 00:27:57.000
+rozmawiać z Nvidią, czy tutaj implementacja może być.
+
+00:27:57.000 --> 00:28:03.000
+Głównie dlatego, że po prostu ktoś musi pracować z takim studiem,
+
+00:28:03.000 --> 00:28:06.000
+powiedzieć, o co chodzi, jak to wygląda.
+
+00:28:06.000 --> 00:28:09.000
+Dokumentacja musi być zrobiona na jakimś tam wczesnym etapie.
+
+00:28:09.000 --> 00:28:12.000
+To jeszcze nie było przygotowane, więc to nie było ogólnie dostępne.
+
+00:28:12.000 --> 00:28:14.000
+Teraz już jest.
+
+00:28:14.000 --> 00:28:16.000
+Można spokojnie implementować.
+
+00:28:16.000 --> 00:28:18.000
+Tutaj nie powiem, jakie z silnikami.
+
+00:28:18.000 --> 00:28:20.000
+Czy mają wbudowane?
+
+00:28:20.000 --> 00:28:23.000
+Borys, może ty kojarzysz?
+
+00:28:23.000 --> 00:28:26.000
+DLSS, wiesz co, nie mam zielonego pojęcia.
+
+00:28:26.000 --> 00:28:34.000
+Na pewno RT jest, ale wydaje mi się, że DLSS też już jest w silnik wbudowany.
+
+00:28:34.000 --> 00:28:37.000
+Ja powiem ci, nie wiem, ale powiedzmy sobie też szczerze,
+
+00:28:37.000 --> 00:28:41.000
+ile jest gier, które realnie potrzebują DLSS-a?
+
+00:28:41.000 --> 00:28:44.000
+To nie jest 50% gier, tylko to są AAA.
+
+00:28:44.000 --> 00:28:48.000
+Nie no, wiadomo.
+
+00:28:48.000 --> 00:28:53.000
+Jeśli chodzi o samą ilość gier, bo taki rok pytał o priorytety,
+
+00:28:53.000 --> 00:28:57.000
+jeśli chodzi o sam efekt, to na pewno gier z DLSS-em będzie więcej.
+
+00:28:57.000 --> 00:29:01.000
+Zostały teraz zapowiedziane kolejne tytuły.
+
+00:29:01.000 --> 00:29:03.000
+A jak to jest?
+
+00:29:03.000 --> 00:29:09.000
+Pierwsza wersja DLSS-a była tak, że ona osobno uczyła się,
+
+00:29:09.000 --> 00:29:13.000
+jak ma wyglądać obraz dla każdej gry,
+
+00:29:13.000 --> 00:29:19.000
+a druga stanowa jest taka, że ona jakby się uczy w ogóle gier.
+
+00:29:19.000 --> 00:29:23.000
+Tak, bo to już trzeba bardziej wejść w tą sztuczną inteligencję
+
+00:29:23.000 --> 00:29:27.000
+i to, jak się te sieci uczą.
+
+00:29:27.000 --> 00:29:30.000
+I jak załadujesz, ile danych możesz załadować,
+
+00:29:30.000 --> 00:29:37.000
+ile tych zdjęć, to są takie w 16K jakości screeny
+
+00:29:37.000 --> 00:29:40.000
+porównywane na przykład do Full HD.
+
+00:29:40.000 --> 00:29:43.000
+To trzeba po prostu narobić tych...
+
+00:29:43.000 --> 00:29:46.000
+Ktoś to musi fizycznie narobić tych screenów w grach
+
+00:29:46.000 --> 00:29:48.000
+i wrzucić do tego komputera.
+
+00:29:48.000 --> 00:29:50.000
+Sztuczna inteligencja i ona się uczy, jak świat wygląda.
+
+00:29:50.000 --> 00:29:54.000
+Tak, tylko że na początku to wiadomo, były te pierwsze gry,
+
+00:29:54.000 --> 00:29:57.000
+które przy starcie nowej architektury, gdy była premiera,
+
+00:29:57.000 --> 00:30:00.000
+to były pokazywane.
+
+00:30:00.000 --> 00:30:02.000
+Pierwszy tam był chyba Battlefield, prawda?
+
+00:30:02.000 --> 00:30:07.000
+Piątka. To w ogóle była pierwsza gra, w której pojawił się
+
+00:30:07.000 --> 00:30:12.000
+DLSS i Metro.
+
+00:30:12.000 --> 00:30:15.000
+No i wtedy to jeszcze było właśnie tak robione
+
+00:30:15.000 --> 00:30:18.000
+bardziej ręcznie, że tak powiem.
+
+00:30:18.000 --> 00:30:22.000
+Tak to wygląda, że to było po prostu pod konkretną grę.
+
+00:30:22.000 --> 00:30:25.000
+Teraz już jest ta sieć nauczona.
+
+00:30:25.000 --> 00:30:28.000
+Ja jestem przekonany, patrząc na to, co się dzieje
+
+00:30:28.000 --> 00:30:32.000
+w dziedzinie sztucznej inteligencji, że ją się jak najbardziej
+
+00:30:32.000 --> 00:30:35.000
+da jeszcze więcej nauczyć, jeszcze bardziej.
+
+00:30:35.000 --> 00:30:38.000
+Tylko musi ten postęp. Ten postęp jest bardzo szybki.
+
+00:30:38.000 --> 00:30:42.000
+Więc co mi się bardzo podoba, że te rdzenie Tensor są w tych kartach,
+
+00:30:42.000 --> 00:30:45.000
+więc one się jeszcze mogą przydać do wielu rzeczy.
+
+00:30:45.000 --> 00:30:53.000
+I tak jak wspominałeś, że może teraz tylko te AAA je potrzebują,
+
+00:30:53.000 --> 00:30:57.000
+chociaż nie zawsze, bo przecież nie każdy ma 3080 w komputerze.
+
+00:30:57.000 --> 00:31:01.000
+Niektórzy mają jeszcze na przykład 2060.
+
+00:31:01.000 --> 00:31:05.000
+I przy tych właśnie nowych grach te osoby myślę, że będą bardzo ucieszone,
+
+00:31:05.000 --> 00:31:08.000
+bo po prostu z tego DLSS będą mogli skorzystać.
+
+00:31:08.000 --> 00:31:11.000
+I mimo, że karta już będzie miała kilka lat,
+
+00:31:11.000 --> 00:31:16.000
+to jeszcze trochę tej mocy sobie tutaj odbiorą tej technologii.
+
+00:31:16.000 --> 00:31:19.000
+Pozwólcie mi na chwilę trochę odbić od tematyki gier,
+
+00:31:19.000 --> 00:31:21.000
+jeżeli nic nie macie przeciwko.
+
+00:31:21.000 --> 00:31:22.000
+O samochodach.
+
+00:31:22.000 --> 00:31:25.000
+No właśnie, chciałem się zapytać jeszcze te Tensory.
+
+00:31:25.000 --> 00:31:28.000
+W jakich technologiach jeszcze NVIDIA wykorzystuje?
+
+00:31:28.000 --> 00:31:30.000
+Do czego są projektowane?
+
+00:31:30.000 --> 00:31:32.000
+O kurcze, wiesz co?
+
+00:31:32.000 --> 00:31:35.000
+Ja to raczej o tych GeForce'owych mogę mówić.
+
+00:31:35.000 --> 00:31:37.000
+Masz zakaz czy nie?
+
+00:31:37.000 --> 00:31:40.000
+Nie, wiesz co, nie wnikałem w to.
+
+00:31:40.000 --> 00:31:43.000
+Nie wiem, czy one się wtedy już będą Tensorami nazywać.
+
+00:31:43.000 --> 00:31:48.000
+Moim zdaniem tak, bo sam Tensor to jest po prostu taki rdzeń,
+
+00:31:48.000 --> 00:31:52.000
+który potrafi operacje na macierzach bardzo szybko liczyć.
+
+00:31:52.000 --> 00:31:58.000
+Mieliśmy taką animację, że się takie kwadraciki się dodają.
+
+00:31:58.000 --> 00:32:02.000
+I normalnie jest to liczone tak plus, plus, plus, plus,
+
+00:32:02.000 --> 00:32:04.000
+coś się tam oblicza, prawda?
+
+00:32:04.000 --> 00:32:07.000
+A Tensor jest w stanie zrobić na przykład 100 takich obliczeń
+
+00:32:07.000 --> 00:32:09.000
+na raz i od razu wynik.
+
+00:32:09.000 --> 00:32:10.000
+Rozumiesz?
+
+00:32:10.000 --> 00:32:13.000
+To jest taki rdzeń, który po prostu te obliczenia robi bardzo szybko.
+
+00:32:13.000 --> 00:32:16.000
+Więc zgaduję, że we wszystkim innym,
+
+00:32:16.000 --> 00:32:21.000
+gdzie się wykorzystuje te sieci,
+
+00:32:21.000 --> 00:32:26.000
+to takie Tensory czy jakaś ich forma będzie wykorzystywana.
+
+00:32:26.000 --> 00:32:28.000
+Ale tak jak mówię, ja siedzę w GeForce'ach,
+
+00:32:28.000 --> 00:32:30.000
+w kartach dla konsumentów,
+
+00:32:30.000 --> 00:32:36.000
+więc nie mam pojęcia jak to wygląda w bardziej profesjonalnych.
+
+00:32:36.000 --> 00:32:40.000
+Przy czym na przykład te takie,
+
+00:32:40.000 --> 00:32:45.000
+wiem, że mieliśmy premierę tych takich kart A6,
+
+00:32:45.000 --> 00:32:48.000
+jak to było, z dopiskiem A na początku
+
+00:32:48.000 --> 00:32:52.000
+i to są właśnie do centrów danych
+
+00:32:52.000 --> 00:32:54.000
+i one mają tych Tensorów więcej.
+
+00:32:54.000 --> 00:32:57.000
+Więc chyba wszędzie to się tak samo jako Tensor nazywa,
+
+00:32:57.000 --> 00:33:00.000
+ale to po prostu robi obliczenia matematyczne.
+
+00:33:00.000 --> 00:33:04.000
+Pytam cię o to, bo to też gdzieś tam na jakimś etapie była dla mnie niespodzianka,
+
+00:33:04.000 --> 00:33:06.000
+że NVIDIA zajmuje się całą masą innych rzeczy,
+
+00:33:06.000 --> 00:33:08.000
+nie tylko związanych z produkcją kart graficznych.
+
+00:33:08.000 --> 00:33:12.000
+Jakby dla nas z perspektywy, z perspektywy graczy
+
+00:33:12.000 --> 00:33:15.000
+to jest tylko przez ten pryzmat postrzegamy NVIDIE.
+
+00:33:15.000 --> 00:33:18.000
+Jakby próbujecie, bo Borys wspomniał o samochodach
+
+00:33:18.000 --> 00:33:21.000
+i wiemy, że technologie NVIDIE są wykorzystywane w samochodach
+
+00:33:21.000 --> 00:33:26.000
+i też nie chcecie pytać o jakieś super szczegółowe rzeczy,
+
+00:33:26.000 --> 00:33:29.000
+ale co jeszcze NVIDIA robi oprócz tego?
+
+00:33:29.000 --> 00:33:33.000
+Wiesz co, no to mamy te technologie w samochodach.
+
+00:33:33.000 --> 00:33:38.000
+Trzeba pamiętać, że my robimy, jak to się mówi, full stack,
+
+00:33:38.000 --> 00:33:44.000
+czyli i robimy sam rdzeń i jest do tego oprogramowanie
+
+00:33:44.000 --> 00:33:49.000
+i są pakiety SDK i jakby to jest wszystko obudowane tym softwarem.
+
+00:33:49.000 --> 00:33:53.000
+Czyli to my nie dostarczamy tylko samego czipu, a firmy całą resztę,
+
+00:33:53.000 --> 00:33:57.000
+tylko właśnie inwestowany jest czas inżynierów w to,
+
+00:33:57.000 --> 00:34:00.000
+żeby cały pakiet był.
+
+00:34:00.000 --> 00:34:02.000
+Więc powiedzmy, jak jesteśmy w samochodach,
+
+00:34:02.000 --> 00:34:06.000
+to oczywiście robimy, to się Pegasusy nazywa?
+
+00:34:06.000 --> 00:34:11.000
+Zabijcie mnie, nie pamiętam dokładnie, bo tych czipów jest dużo.
+
+00:34:11.000 --> 00:34:12.000
+Jakie jest teraz?
+
+00:34:12.000 --> 00:34:15.000
+Mi się wydaje, że Pegasus coś tam.
+
+00:34:15.000 --> 00:34:19.000
+To ten szpiegowski.
+
+00:34:19.000 --> 00:34:24.000
+Więc to tam sobie producent auta montuje w samochodzie,
+
+00:34:24.000 --> 00:34:32.000
+teraz było chyba, że w Mercedes, na przykład w tych najwyższych latach.
+
+00:34:32.000 --> 00:34:35.000
+Chciałem powiedzieć, że to ma jakby całym samochodem sterować,
+
+00:34:35.000 --> 00:34:37.000
+czyli to jest czip, który jakby cały układ.
+
+00:34:37.000 --> 00:34:40.000
+Autonomiczny do autonomicznych samochodów.
+
+00:34:40.000 --> 00:34:47.000
+Z Boszem jest też Nvidia to robi, to są też układy, które są jakby na Tegrze,
+
+00:34:47.000 --> 00:34:51.000
+tylko takiej zmienionej trochę, z tego co pamiętam,
+
+00:34:51.000 --> 00:34:56.000
+to się tam jak od jakiegoś imienia nazywało ta Tegra.
+
+00:34:56.000 --> 00:34:58.000
+Xavier chyba, nie?
+
+00:34:58.000 --> 00:35:01.000
+A, Xavier, rzeczywiście jest Xavier.
+
+00:35:01.000 --> 00:35:06.000
+I Nvidia Drive Pegasus, rzeczywiście jest coś takiego, patrzę teraz.
+
+00:35:06.000 --> 00:35:09.000
+Jest Jetson, Jetson Nano.
+
+00:35:09.000 --> 00:35:16.000
+To są takie mniejsze układy, które można, tak jak jest Raspberry Pi,
+
+00:35:16.000 --> 00:35:20.000
+czyli taki mały komputerek, na którym można coś zainstalować.
+
+00:35:20.000 --> 00:35:23.000
+Kosztuje to, nie wiem, 150 złotych czy 200.
+
+00:35:23.000 --> 00:35:27.000
+Można sobie tam jakiś smart home zrobić.
+
+00:35:27.000 --> 00:35:29.000
+Tak samo Jetson Nano, to też jest taki mały układzik.
+
+00:35:29.000 --> 00:35:35.000
+Robią na tym ludzie jakieś roboty, kamery podpinają i się bawią,
+
+00:35:35.000 --> 00:35:38.000
+chociaż można to oczywiście wsadzić na przykład w drona.
+
+00:35:38.000 --> 00:35:42.000
+I dzięki tym właśnie układom, które tam są Nvidia,
+
+00:35:42.000 --> 00:35:45.000
+bardzo szybko na przykład rozpoznają obraz.
+
+00:35:45.000 --> 00:35:48.000
+Taki dron jest w stanie te wszystkie operacje,
+
+00:35:48.000 --> 00:35:50.000
+na przykład znalezienia trasy.
+
+00:35:50.000 --> 00:35:56.000
+Czy myślisz, że tam DLSS może się przydać?
+
+00:35:56.000 --> 00:35:58.000
+Czy w dronie może się przydać?
+
+00:35:58.000 --> 00:36:01.000
+No nie, w tych Tegrach, w tych wszystkich, wiesz, self-driving.
+
+00:36:01.000 --> 00:36:03.000
+W tych switchach.
+
+00:36:03.000 --> 00:36:06.000
+Do tego dojdę zaraz spokojnie.
+
+00:36:06.000 --> 00:36:10.000
+Tam to chyba w drugą stronę idzie, bo tam się obraz otrzymuje.
+
+00:36:10.000 --> 00:36:14.000
+One nie generują obrazu same.
+
+00:36:14.000 --> 00:36:17.000
+Więc to jest trochę na odwrót.
+
+00:36:17.000 --> 00:36:20.000
+Ale to cały czas mówimy o tensorach.
+
+00:36:20.000 --> 00:36:23.000
+Tensory są odpowiedzialne za DLSS.
+
+00:36:23.000 --> 00:36:25.000
+Ja już nie wiem o czym mówimy.
+
+00:36:25.000 --> 00:36:27.000
+Ja ciągnę go za język.
+
+00:36:27.000 --> 00:36:29.000
+O bardzo skomplikowanych obliczeniach.
+
+00:36:29.000 --> 00:36:32.000
+Tak, bardzo skomplikowanych, słuchajcie.
+
+00:36:32.000 --> 00:36:35.000
+Nvidia jest firmą, która zajmuje się właśnie obliczeniami.
+
+00:36:35.000 --> 00:36:37.000
+Bardzo skomplikowanymi.
+
+00:36:37.000 --> 00:36:41.000
+Tak, na przykład jak odpalasz GeForce Now i odpalasz se tam Cyberpunka,
+
+00:36:41.000 --> 00:36:43.000
+to dostajesz obliczenia w sumie.
+
+00:36:43.000 --> 00:36:49.000
+Słuchajcie, do czego ja tutaj piję tak naprawdę?
+
+00:36:49.000 --> 00:36:51.000
+Piję do tego switcha nowego.
+
+00:36:51.000 --> 00:36:54.000
+Ponieważ po pierwsze, to jest bardzo ciekawe zagadnienie.
+
+00:36:54.000 --> 00:36:56.000
+To jest zagadnienie, które od pół roku już tam rozgrzewa.
+
+00:36:56.000 --> 00:37:00.000
+Ja wiem oczywiście, że w Polsce ten switch nie jest taki popularny.
+
+00:37:00.000 --> 00:37:02.000
+Ja nie mam switcha.
+
+00:37:02.000 --> 00:37:04.000
+Ale cały czas myślę, żeby sobie kupić.
+
+00:37:04.000 --> 00:37:06.000
+Nie mogę się zdecydować w końcu.
+
+00:37:06.000 --> 00:37:08.000
+Mogę ci pożyczyć, bo ja nie używam.
+
+00:37:08.000 --> 00:37:10.000
+O, to jest dobre.
+
+00:37:10.000 --> 00:37:11.000
+Wyślij mi paczkomatem.
+
+00:37:11.000 --> 00:37:13.000
+To jest dobra opcja, jak będziesz przy okazji.
+
+00:37:13.000 --> 00:37:16.000
+To jest dobra opcja.
+
+00:37:16.000 --> 00:37:24.000
+Nintendo od jakiegoś czasu zatrudnia inżynierów.
+
+00:37:24.000 --> 00:37:31.000
+Przy tych ofertach pracy jest informacja, że to są inżynierowie od DSLL.
+
+00:37:31.000 --> 00:37:35.000
+Nintendo pracuje na Tegrze.
+
+00:37:35.000 --> 00:37:40.000
+Pojawiły się plotki, że może nowy układ Tegry, który będzie w nowym switchu,
+
+00:37:40.000 --> 00:37:43.000
+czy on będzie się nazywał Super Switch czy Switch Pro,
+
+00:37:43.000 --> 00:37:46.000
+będzie miał tego DSLL-a.
+
+00:37:46.000 --> 00:37:48.000
+DLSS-a.
+
+00:37:48.000 --> 00:37:50.000
+Nie, to jest niesamowite.
+
+00:37:50.000 --> 00:37:51.000
+Kto wymyślił tą naczynę?
+
+00:37:51.000 --> 00:37:53.000
+Ok, rozumiem, że to jest skrót.
+
+00:37:53.000 --> 00:37:54.000
+DLSS-a.
+
+00:37:54.000 --> 00:37:57.000
+Było wszystko dobrze, dopóki ty nie pomyliłeś w notatkach.
+
+00:37:57.000 --> 00:38:01.000
+Ale ja tu widzę, patrzę na moje dotatki i co drugi jest źle napisane.
+
+00:38:01.000 --> 00:38:04.000
+Ale to jest moja dyslekcja.
+
+00:38:04.000 --> 00:38:09.000
+No i chodzi o to, że może ten nowy Switch, dzięki tej technologii,
+
+00:38:09.000 --> 00:38:16.000
+będzie taką maszyną, że będzie tam można odpalać gry z dużych konsol.
+
+00:38:16.000 --> 00:38:18.000
+Czy z dużych PC-a.
+
+00:38:18.000 --> 00:38:22.000
+Wiesz co, jest na switchu na przykład Control.
+
+00:38:22.000 --> 00:38:25.000
+Tylko, że on jest w streamingu realizowany.
+
+00:38:25.000 --> 00:38:27.000
+No tak, to się nie liczy trochę.
+
+00:38:27.000 --> 00:38:28.000
+To ja nie wiedziałem.
+
+00:38:28.000 --> 00:38:29.000
+Ale jest.
+
+00:38:29.000 --> 00:38:31.000
+Odysseya też jest na switchu, też w streamingu.
+
+00:38:31.000 --> 00:38:34.000
+Znaczy, ale w streamingu i kto go streamuje, Nintendo?
+
+00:38:34.000 --> 00:38:36.000
+Tak, oni mają swoje serwery do tego.
+
+00:38:36.000 --> 00:38:39.000
+Jeśli chodzi o usługi online, to oni tam podobno nie byli najlepsi.
+
+00:38:39.000 --> 00:38:41.000
+Nie, no myślę, że ktoś dla nich to realizuje.
+
+00:38:41.000 --> 00:38:44.000
+Nie wiem nawet, czy nie wy czasem tego realizujecie dla nich.
+
+00:38:44.000 --> 00:38:47.000
+Wiesz co, myślę, że to by pasowało.
+
+00:38:47.000 --> 00:38:50.000
+Po drugie, switchów ile się sprzedało już?
+
+00:38:50.000 --> 00:38:52.000
+Nie wiem, z 70 milionów?
+
+00:38:52.000 --> 00:38:53.000
+Gigantycznej ilości.
+
+00:38:53.000 --> 00:38:55.000
+Nie wiem, teraz strzelam, bo oczywiście nie pamiętam,
+
+00:38:55.000 --> 00:38:57.000
+ale już dawno przegonili Xboksa.
+
+00:38:57.000 --> 00:38:59.000
+To jest jakaś potężna marka.
+
+00:38:59.000 --> 00:39:05.000
+Są oczywiście plotki, że może ten Switch Pro czy tam coś,
+
+00:39:05.000 --> 00:39:07.000
+to będzie nowa stacja dockująca.
+
+00:39:07.000 --> 00:39:09.000
+To by było super, ja w to nie wierzę do końca,
+
+00:39:09.000 --> 00:39:13.000
+bo dla mnie to jest trochę tak jak z GTA 6.
+
+00:39:13.000 --> 00:39:17.000
+Jak ci się sprzedaje to GTA 5, cały czas przez tyle lat,
+
+00:39:17.000 --> 00:39:20.000
+to nie myślisz o tym, żeby to ubić i zrobić nową część,
+
+00:39:20.000 --> 00:39:22.000
+tylko czerpiesz z tego ile można.
+
+00:39:22.000 --> 00:39:27.000
+Więc jeżeli oni mają teraz sprzęt, który naprawdę jest tani w produkcji,
+
+00:39:27.000 --> 00:39:30.000
+zarabiają na sprzęcie, zarabiają na grach,
+
+00:39:30.000 --> 00:39:34.000
+no to pewnie ten nowy Switch to może za dwa lata
+
+00:39:34.000 --> 00:39:37.000
+i tu by się zgadzało, że wtedy wychodzi nowa ta gra.
+
+00:39:37.000 --> 00:39:41.000
+Jest powiedzmy, może już wcześniej wyjdzie sobie gdzieś i ją przetestują,
+
+00:39:41.000 --> 00:39:43.000
+bo Nintendo raczej nie jest znane z tego,
+
+00:39:43.000 --> 00:39:47.000
+że w ich sprzętach są premiery chipsetów.
+
+00:39:47.000 --> 00:39:51.000
+To nie jest, to nie pchają technologicznie rynek do przodu.
+
+00:39:51.000 --> 00:39:53.000
+Przynajmniej sprzętowo.
+
+00:39:53.000 --> 00:39:57.000
+No i wtedy mamy takiego Switcha, który ma tą technologię
+
+00:39:57.000 --> 00:40:01.000
+i mamy po prostu jakąś super rewolucję.
+
+00:40:01.000 --> 00:40:04.000
+Ja też się zastanawiam nad takimi rzeczami
+
+00:40:04.000 --> 00:40:06.000
+i ja wiem, że to jest trochę abstrakcyjne
+
+00:40:06.000 --> 00:40:08.000
+i dzisiaj miałem rozmowę z moimi kolegami,
+
+00:40:08.000 --> 00:40:10.000
+pozdrawiam serdecznie,
+
+00:40:10.000 --> 00:40:12.000
+że na przykład taka technologia jak DSLL
+
+00:40:12.000 --> 00:40:16.000
+mogłaby znaleźć miejsce w telewizorach.
+
+00:40:16.000 --> 00:40:21.000
+DLSS, ale tak, to prawda.
+
+00:40:21.000 --> 00:40:23.000
+Czyli mówisz o tym upscalingu AI, który już jest na Shield'ie?
+
+00:40:23.000 --> 00:40:28.000
+No tak, to co powiedzieć, że to może wspomagać Cloud Gaming.
+
+00:40:28.000 --> 00:40:33.000
+Marzenia się wspominają, jeśli tych Shielda uruchomimy.
+
+00:40:33.000 --> 00:40:39.000
+Wiesz, mówię o takich rzeczach, że oczywiście ja mówię z perspektywy laika,
+
+00:40:39.000 --> 00:40:44.000
+więc część mojego myślenia może być,
+
+00:40:44.000 --> 00:40:47.000
+jakbym porozmawiał z jakimś inżynierem, od razu zabita.
+
+00:40:47.000 --> 00:40:49.000
+Mówię, nie, tego się nie da, tamtego się nie da,
+
+00:40:49.000 --> 00:40:51.000
+ale ja mówię też z perspektywy kilku lat.
+
+00:40:51.000 --> 00:40:55.000
+Też mam pewne przemyślenia w tej sprawie.
+
+00:40:55.000 --> 00:40:57.000
+Widzę, w którą stronę zmierzasz,
+
+00:40:57.000 --> 00:41:00.000
+to faktycznie może być jakaś konkurencja dla Cloud Gamingu,
+
+00:41:00.000 --> 00:41:03.000
+bo jeżeli uda się stworzyć takie chipsety,
+
+00:41:03.000 --> 00:41:05.000
+które będą oferowały dobrą jakość grafiki
+
+00:41:05.000 --> 00:41:07.000
+bez jakiejś dużej wydajności,
+
+00:41:07.000 --> 00:41:09.000
+to można by to montować w telewizorach,
+
+00:41:09.000 --> 00:41:11.000
+tak jak w Nvidia Shield,
+
+00:41:11.000 --> 00:41:14.000
+ja nawet nie wiedziałem, że tam są akurat te technologie.
+
+00:41:14.000 --> 00:41:17.000
+Natomiast jeżeli chodzi o Nintendo Pro,
+
+00:41:17.000 --> 00:41:19.000
+to zaczynam się zastanawiać,
+
+00:41:19.000 --> 00:41:21.000
+oczywiście z tą stacją dokującą to ma dużo sensu,
+
+00:41:21.000 --> 00:41:23.000
+ta obecna stacja dokująca, zdaje się,
+
+00:41:23.000 --> 00:41:25.000
+poprawia trochę wydajność konsoli,
+
+00:41:25.000 --> 00:41:28.000
+bo są inne rozdzielczości, kiedy się ogląda na ekraniku,
+
+00:41:28.000 --> 00:41:30.000
+a kiedy się spotyka do telewizora.
+
+00:41:30.000 --> 00:41:34.000
+Powiedzcie mi, bo ja nie jestem biegły w kwestii Switcha,
+
+00:41:34.000 --> 00:41:36.000
+czy to chodzi o to, że tak jak się laptop podłącza
+
+00:41:36.000 --> 00:41:38.000
+i on wchodzi w tryb boost,
+
+00:41:38.000 --> 00:41:41.000
+bo ma już zahimania dzieci, czy coś jeszcze?
+
+00:41:41.000 --> 00:41:44.000
+Tak, tak, nic chyba w tej stacji dokującej nie ma więcej.
+
+00:41:44.000 --> 00:41:47.000
+Natomiast to, co wydaje mi się bardzo sensowne
+
+00:41:47.000 --> 00:41:49.000
+i oczywiście wcale nie musi być prawdą,
+
+00:41:49.000 --> 00:41:51.000
+ale jakaś logika za tym stoi,
+
+00:41:51.000 --> 00:41:55.000
+to jest taka ścieżka, którą poszły te konsole nowej generacji,
+
+00:41:55.000 --> 00:41:57.000
+że one jednak oferują kompatybilność wsteczną
+
+00:41:57.000 --> 00:42:00.000
+i są taką ulepszoną wersją tej poprzedniej generacji,
+
+00:42:00.000 --> 00:42:03.000
+więc zakładam, że jeżeli Nintendo bardzo dba o tych klientów,
+
+00:42:03.000 --> 00:42:06.000
+którzy kupili już poprzednią, tą aktualną konsolę,
+
+00:42:06.000 --> 00:42:08.000
+czyli Switcha, jest ich ponad 70 milionów,
+
+00:42:08.000 --> 00:42:11.000
+no to nie będą chcieli ich stracić albo zmuszać do zmiany,
+
+00:42:11.000 --> 00:42:14.000
+więc jest wielce prawdopodobne, że pójdą tą samą ścieżką
+
+00:42:14.000 --> 00:42:18.000
+i zaoferują konsolę, na której będzie można grać
+
+00:42:18.000 --> 00:42:20.000
+w dużo lepszej jakości i wydajności,
+
+00:42:20.000 --> 00:42:23.000
+natomiast te gry nadal będą chodziły na starej generacji,
+
+00:42:23.000 --> 00:42:25.000
+więc to jest taki jakby upgrade,
+
+00:42:25.000 --> 00:42:27.000
+na który ludzie będą mogli się zdecydować
+
+00:42:27.000 --> 00:42:29.000
+dlatego, że chcą, a nie dlatego, że muszą,
+
+00:42:29.000 --> 00:42:34.000
+ale zważywszy na to gigantyczne zainteresowanie konsolami nowej generacji,
+
+00:42:34.000 --> 00:42:37.000
+to podejrzewam, że ten ewentualny Switch Pro, albo Switch 2,
+
+00:42:37.000 --> 00:42:40.000
+albo cokolwiek, to też się sprzedawać będzie w straszliwych ilościach.
+
+00:42:40.000 --> 00:42:43.000
+Dzisiaj chyba nie ma co martwić o sprzedaż
+
+00:42:43.000 --> 00:42:48.000
+i jeżeli Nintendo o tym myśli, to myślę, że obawy są bezpodstawne.
+
+00:42:48.000 --> 00:42:51.000
+Znaczy są dowody na to, że obawy o sprzedaż sprzętu gamingowego
+
+00:42:51.000 --> 00:42:52.000
+są totalnie bezpodstawne.
+
+00:42:52.000 --> 00:42:54.000
+Teraz chyba wszystko się sprzeda, jak tylko,
+
+00:42:54.000 --> 00:42:56.000
+co tylko nowego się pojawi, to się sprzeda.
+
+00:42:56.000 --> 00:42:59.000
+Z drugiej strony, jak patrzysz sobie na wyniki, jak się sprzeda,
+
+00:42:59.000 --> 00:43:02.000
+oczywiście Japonia to nie jest może najbardziej…
+
+00:43:02.000 --> 00:43:07.000
+Rynek, który można przełożyć na jakiekolwiek inne rynki,
+
+00:43:07.000 --> 00:43:10.000
+no ale tam Switch dominuje wszystko po prostu.
+
+00:43:10.000 --> 00:43:11.000
+Tak, to prawda.
+
+00:43:11.000 --> 00:43:15.000
+Tam PlayStation 4 to się jakieś śladowe ilości po prostu sprzedają,
+
+00:43:15.000 --> 00:43:18.000
+czwórka Xbox to już w ogóle nie istnieje tam zupełnie.
+
+00:43:18.000 --> 00:43:22.000
+Piątka też się słabo sprzedała w Japonii, bo mało było sztuk zresztą.
+
+00:43:22.000 --> 00:43:28.000
+Ale zobacz, jak są raporty cotygodniowe ze sprzedaży konsol w Japonii,
+
+00:43:28.000 --> 00:43:31.000
+to tam zawsze jest PlayStation 5.
+
+00:43:31.000 --> 00:43:34.000
+To nie jest tak, że tam zupełnie nie ma tego i się nie sprzedaje.
+
+00:43:34.000 --> 00:43:35.000
+No to jest też kolebka, nie?
+
+00:43:35.000 --> 00:43:37.000
+Trochę trudno, żeby się to nie sprzedawało,
+
+00:43:37.000 --> 00:43:39.000
+ale sprzedaje się na pewno gorzej niż mogłoby.
+
+00:43:39.000 --> 00:43:42.000
+No nie no, ale tam jakby żenująco się sprzedaje.
+
+00:43:42.000 --> 00:43:43.000
+Japońscy gracze protestują.
+
+00:43:43.000 --> 00:43:46.000
+Tam chyba doszło do jakiegoś takiego delikatnego bojkotu
+
+00:43:46.000 --> 00:43:50.000
+w związku z tym, że tych konsol jest mniej na tym rynku japońskim
+
+00:43:50.000 --> 00:43:51.000
+niż się spodziewano.
+
+00:43:51.000 --> 00:43:53.000
+To Japończycy mają takie poczucie, Japońscy gracze,
+
+00:43:53.000 --> 00:43:55.000
+że Sony już ich za bardzo nie lubi.
+
+00:43:55.000 --> 00:43:56.000
+Nie wiadomo czemu.
+
+00:43:56.000 --> 00:43:58.000
+To kupują Switcha bardzo sensownie.
+
+00:43:58.000 --> 00:44:02.000
+No właśnie, no i dlatego tamten Switch tak sobie doskonale radzi.
+
+00:44:02.000 --> 00:44:04.000
+No i jedna, i o jednej rzeczy wspomnę.
+
+00:44:04.000 --> 00:44:05.000
+Okej.
+
+00:44:05.000 --> 00:44:09.000
+Boris, bo masz bardzo takie przemyślenia, które są logiczne.
+
+00:44:09.000 --> 00:44:10.000
+Dziękuję, za to słyszę.
+
+00:44:10.000 --> 00:44:14.000
+I o jednej rzeczy musisz pamiętać, jeśli chodzi o DLSS,
+
+00:44:14.000 --> 00:44:18.000
+że on musi być w grach implementowany, tak?
+
+00:44:18.000 --> 00:44:24.000
+To znaczy gra jakby, ten DLSS, powiedzmy,
+
+00:44:24.000 --> 00:44:28.000
+więc mu musi wiedzieć, co jest nakładką, co jest menu,
+
+00:44:28.000 --> 00:44:31.000
+co jest jakimś tam efektem cząsteczkowym,
+
+00:44:31.000 --> 00:44:33.000
+a co jest teksturą i całą resztą.
+
+00:44:33.000 --> 00:44:36.000
+Wiesz, w streamingu się to średnio sprawdzi po prostu.
+
+00:44:36.000 --> 00:44:40.000
+Jako wspomaganie streamingu, że odbierasz sygnał.
+
+00:44:40.000 --> 00:44:41.000
+Ale jednocześnie wiesz...
+
+00:44:41.000 --> 00:44:43.000
+Chociaż z drugiej strony...
+
+00:44:43.000 --> 00:44:45.000
+Już chyba wchodzimy w inżynierę inwestora.
+
+00:44:45.000 --> 00:44:47.000
+Powiem ci tak, ostatecznie powinno to działać.
+
+00:44:47.000 --> 00:44:51.000
+To znaczy, gdybyś miał układ, który jest w stanie to tak szybko policzyć,
+
+00:44:51.000 --> 00:44:53.000
+a to nie chodzi tylko o zwiększenie jego mocy,
+
+00:44:53.000 --> 00:44:55.000
+tylko też opracowanie modelu sieci,
+
+00:44:55.000 --> 00:44:58.000
+bo czasem nie trzeba zwiększać mocy obliczeniowej,
+
+00:44:58.000 --> 00:45:00.000
+tylko trzeba sieć tak zrobić,
+
+00:45:00.000 --> 00:45:04.000
+żeby ona była po prostu prostsza do przeliczeń tych wszystkich.
+
+00:45:04.000 --> 00:45:09.000
+Więc jeśli jesteśmy w stanie sobie tego Netflixa subscalować, prawda?
+
+00:45:09.000 --> 00:45:11.000
+I pewnie tam jest jakieś opóźnienie,
+
+00:45:11.000 --> 00:45:14.000
+bo to najprawdopodobniej chodzi o to opóźnienie, tak?
+
+00:45:14.000 --> 00:45:17.000
+Czyli że to chwilę trwa, 100 milisekund,
+
+00:45:17.000 --> 00:45:19.000
+to już może być problem, jeśli gramy, prawda?
+
+00:45:19.000 --> 00:45:25.000
+Szczególnie, jeśli dodamy do tego jeszcze cały streaming.
+
+00:45:25.000 --> 00:45:28.000
+Ale patrzymy w przyszłość.
+
+00:45:28.000 --> 00:45:30.000
+Sam powiedziałeś, czemu nie?
+
+00:45:30.000 --> 00:45:32.000
+Za kilka lat.
+
+00:45:32.000 --> 00:45:34.000
+Bardziej wydajna sieć, bardziej wydajny ship
+
+00:45:34.000 --> 00:45:36.000
+i jak najbardziej z samego obrazu.
+
+00:45:36.000 --> 00:45:41.000
+Nie wiem, czy słyszeliście o tym, jak NVIDIA zrobiła Pac-Mana
+
+00:45:41.000 --> 00:45:45.000
+bez napisania linijki kodu.
+
+00:45:45.000 --> 00:45:51.000
+To znaczy sieć była karmiona, patrzyła na grę Pac-Mana
+
+00:45:51.000 --> 00:45:56.000
+i później ją sobie narysowała, taką działającą.
+
+00:45:56.000 --> 00:46:01.000
+Czyli to jest ten deep learning w pewnej okazałości.
+
+00:46:01.000 --> 00:46:06.000
+Ona się nauczyła po prostu na podstawie tego, co widzi.
+
+00:46:06.000 --> 00:46:09.000
+Nauczyła się, że jak ty klikasz w prawo,
+
+00:46:09.000 --> 00:46:12.000
+to znaczy, że ta postać idzie w prawo.
+
+00:46:12.000 --> 00:46:14.000
+A jak coś tam zjesz, to możesz duszki zaatakować.
+
+00:46:14.000 --> 00:46:16.000
+Jak duszek cię dotknie, to giniesz.
+
+00:46:16.000 --> 00:46:21.000
+A plansza ma konkretny rozmiar, kształt i kolory.
+
+00:46:21.000 --> 00:46:23.000
+No to ciekawe.
+
+00:46:23.000 --> 00:46:26.000
+Przechodzimy do takiego science fiction, gdzie mówisz
+
+00:46:26.000 --> 00:46:29.000
+a teraz komputerze, zrób mi taką, śmaką i owaką grę
+
+00:46:29.000 --> 00:46:31.000
+i poczekasz trzy dni i już wypadniesz.
+
+00:46:31.000 --> 00:46:33.000
+A nie jest tak, że możesz powiedzieć do komputera,
+
+00:46:33.000 --> 00:46:41.000
+że chcesz na przykład, żeby ci zrobił stronę internetową,
+
+00:46:41.000 --> 00:46:45.000
+która na przykład na samym środku ma zdjęcie Borysa.
+
+00:46:45.000 --> 00:46:49.000
+Po prawej stronie u góry jakąś tam ikonkę z linkiem do takiej strony.
+
+00:46:49.000 --> 00:46:53.000
+I to normalnie piszesz do takiej sieci.
+
+00:46:53.000 --> 00:46:57.000
+I ona generuje tą stronę biegu.
+
+00:46:57.000 --> 00:47:00.000
+I nagle piszesz tło ma być czarne.
+
+00:47:00.000 --> 00:47:02.000
+I ci się tło zmienia na czarne.
+
+00:47:02.000 --> 00:47:07.000
+Czyli jest zamiana tego języka mówionego, ludzkiego,
+
+00:47:07.000 --> 00:47:12.000
+pisanego w tym miejscu, na już język programowania.
+
+00:47:12.000 --> 00:47:15.000
+To jest kolejna sprawa, o którą chciałem cię wypytać.
+
+00:47:15.000 --> 00:47:16.000
+Czyli o sztuczną inteligencję.
+
+00:47:16.000 --> 00:47:19.000
+Trochę żeśmy poruszali te tematy.
+
+00:47:19.000 --> 00:47:23.000
+Cały czas mówimy o tym deep learningu, a mówimy o algorytmach.
+
+00:47:23.000 --> 00:47:26.000
+Nie odnosimy się do tych procesów jako do sztucznej inteligencji.
+
+00:47:26.000 --> 00:47:28.000
+Rzadko chyba takich pojęć się używa.
+
+00:47:28.000 --> 00:47:31.000
+Tu chyba jest tak, bo jest część osób, która mówi,
+
+00:47:31.000 --> 00:47:33.000
+że to nie jest sztuczna inteligencja.
+
+00:47:33.000 --> 00:47:35.000
+No wiadomo, że to nie jest prawdziwa sztuczna inteligencja.
+
+00:47:35.000 --> 00:47:39.000
+Ale łatwiej to chyba powiedzieć AI, SI, sztuczna inteligencja.
+
+00:47:39.000 --> 00:47:45.000
+Wydaje mi się, że może inżynierowie to jakoś inaczej później już nazywają.
+
+00:47:45.000 --> 00:47:49.000
+Pytam o to dlatego, że zakładam, że inżynierom nie chodzi
+
+00:47:49.000 --> 00:47:52.000
+o stworzenie sztucznej inteligencji niezależnej i świadomej.
+
+00:47:52.000 --> 00:47:58.000
+Tylko chodzi im o zbudowanie takich bardzo zaawansowanych algorytmów,
+
+00:47:58.000 --> 00:48:00.000
+które wiele rzeczy robią za nas, rozpoznają głos
+
+00:48:00.000 --> 00:48:02.000
+i na podstawie głosu mogą udzielać jakichś informacji
+
+00:48:02.000 --> 00:48:05.000
+czy jakieś funkcje wykonywać.
+
+00:48:05.000 --> 00:48:09.000
+Co to są? Wchodzimy w tematy filozoficzne.
+
+00:48:09.000 --> 00:48:12.000
+Co inżynier chce zrobić?
+
+00:48:12.000 --> 00:48:16.000
+Wydaje mi się, że niektórzy mają taki cel,
+
+00:48:16.000 --> 00:48:21.000
+żeby te wszystkie rzeczy, które się staramy zrobić,
+
+00:48:21.000 --> 00:48:25.000
+czyli mamy na przykład, że sieć robi DLSS, upskilluje obraz.
+
+00:48:25.000 --> 00:48:28.000
+Mamy sieć, która na przykład usuwa szumy.
+
+00:48:28.000 --> 00:48:30.000
+Mamy sieć, która rozpoznaje koty.
+
+00:48:30.000 --> 00:48:33.000
+Żeby to wszystko połączyć
+
+00:48:33.000 --> 00:48:36.000
+i nagle mieć taką trochę taką sieć,
+
+00:48:36.000 --> 00:48:39.000
+z którą jesteś w stanie się porozumieć.
+
+00:48:39.000 --> 00:48:42.000
+No bo tak jak wam podałem przykład tego pisania strony.
+
+00:48:42.000 --> 00:48:44.000
+Jak już możesz się porozumieć z tą siecią,
+
+00:48:44.000 --> 00:48:46.000
+to test Turinga trzeba wykonać i już.
+
+00:48:46.000 --> 00:48:49.000
+Już wiemy, czy mamy sztuczną inteligencję czy nie.
+
+00:48:49.000 --> 00:48:51.000
+To jest ciekawe.
+
+00:48:51.000 --> 00:48:56.000
+Czy z szeregu działających niezależnie algorytmów
+
+00:48:56.000 --> 00:48:58.000
+po połączeniu powstanie świadomość?
+
+00:48:58.000 --> 00:49:00.000
+Ale to masz rację, to są już filozoficzne tematy.
+
+00:49:00.000 --> 00:49:01.000
+Może nie ma sensu, żeby się...
+
+00:49:01.000 --> 00:49:02.000
+Ale łączone są.
+
+00:49:02.000 --> 00:49:04.000
+Łączone są jak najbardziej na zasadzie takiej,
+
+00:49:04.000 --> 00:49:07.000
+że na przykład zamiast pisać możemy mówić.
+
+00:49:07.000 --> 00:49:10.000
+To jest przekładzane na tekst przez inną sieć.
+
+00:49:10.000 --> 00:49:12.000
+Później jest to przez inną rozpoznawane.
+
+00:49:12.000 --> 00:49:16.000
+Do tego jeszcze sobie możemy dołożyć jakąś wirtualną twarz,
+
+00:49:16.000 --> 00:49:19.000
+która syntezuje dźwięk.
+
+00:49:19.000 --> 00:49:23.000
+I jeszcze ten dopasuje ruch twarzy i ust do tego dźwięku.
+
+00:49:23.000 --> 00:49:26.000
+I takie kombinacje są robione.
+
+00:49:26.000 --> 00:49:29.000
+Ja to robię codziennie, bo gadam sobie z głośnikiem, więc jakby...
+
+00:49:29.000 --> 00:49:32.000
+Słyszeliście o Nvidia Maxin?
+
+00:49:32.000 --> 00:49:33.000
+Pewnie tak, ale...
+
+00:49:33.000 --> 00:49:35.000
+To jest jakieś zboczeństwo, wyczuwam to.
+
+00:49:35.000 --> 00:49:37.000
+Nie, to jest...
+
+00:49:37.000 --> 00:49:40.000
+Bo teraz jest bardzo dużo wideokonferencji, prawda?
+
+00:49:40.000 --> 00:49:43.000
+No i się okazuje, że one mocno obciążają sieć.
+
+00:49:43.000 --> 00:49:47.000
+Więc teraz wyobraźcie sobie, że łącząc się na przykład teraz,
+
+00:49:47.000 --> 00:49:49.000
+jak się tu gdzieś łączymy,
+
+00:49:49.000 --> 00:49:53.000
+Rockowi jest robione zdjęcie przez taką sieć
+
+00:49:53.000 --> 00:49:56.000
+i tylko określamy, gdzie ma usta.
+
+00:49:56.000 --> 00:49:57.000
+Charakterystyczne punkty ciała.
+
+00:49:57.000 --> 00:49:59.000
+Charakterystyczne punkty.
+
+00:49:59.000 --> 00:50:03.000
+I jedyne co przesyłamy, to tą informację do drugiego komputera,
+
+00:50:03.000 --> 00:50:05.000
+a drugi komputer na podstawie tego...
+
+00:50:05.000 --> 00:50:07.000
+Poczekaj, poczekaj, bo poszedłeś na skróty.
+
+00:50:07.000 --> 00:50:09.000
+Przesyłamy do drugiego komputera
+
+00:50:09.000 --> 00:50:11.000
+informacje na temat zmiany położenia tych punktów,
+
+00:50:11.000 --> 00:50:12.000
+które są charakterystyczne.
+
+00:50:12.000 --> 00:50:13.000
+Dokładnie.
+
+00:50:13.000 --> 00:50:14.000
+Znaczy nie, nie, nie.
+
+00:50:14.000 --> 00:50:15.000
+Nie?
+
+00:50:15.000 --> 00:50:16.000
+Nie, nie, nie.
+
+00:50:16.000 --> 00:50:18.000
+Do komputera przesyłasz dźwięk.
+
+00:50:18.000 --> 00:50:21.000
+I on na podstawie tego dźwięku dopasuje ci ruch ust.
+
+00:50:21.000 --> 00:50:23.000
+Jeśli ty się będziesz ruszał,
+
+00:50:23.000 --> 00:50:25.000
+to jest jeszcze druga sprawa,
+
+00:50:25.000 --> 00:50:28.000
+że samo położenie punktów oczu i tak dalej,
+
+00:50:28.000 --> 00:50:29.000
+no to on też to prześle.
+
+00:50:29.000 --> 00:50:31.000
+Ale już na podstawie samego dźwięku
+
+00:50:31.000 --> 00:50:33.000
+byłby w stanie sobie na przykład
+
+00:50:33.000 --> 00:50:34.000
+ruch twoich ust generować.
+
+00:50:34.000 --> 00:50:36.000
+Ja chcę tak realizować podcast jakiś.
+
+00:50:36.000 --> 00:50:38.000
+Ja sobie dziś o tym myślałem,
+
+00:50:38.000 --> 00:50:40.000
+bo czasem mam w pracy tak dużo konferencji,
+
+00:50:40.000 --> 00:50:42.000
+że chciałbym na przykład, żebym sobie ustawił,
+
+00:50:42.000 --> 00:50:44.000
+że smile.
+
+00:50:44.000 --> 00:50:46.000
+Ja na przykład sobie siedzę taki,
+
+00:50:46.000 --> 00:50:50.000
+a moja twarz przekazywana do innych użytkowników
+
+00:50:50.000 --> 00:50:51.000
+sobie uśmiecha.
+
+00:50:51.000 --> 00:50:53.000
+Właśnie widzę jak to robię,
+
+00:50:53.000 --> 00:50:55.000
+jaka jest oszczędność.
+
+00:50:55.000 --> 00:50:57.000
+Bo sobie puściłem oczywiście na YouTubie.
+
+00:50:57.000 --> 00:50:58.000
+Co to jest?
+
+00:50:58.000 --> 00:51:00.000
+Super to wygląda rzeczywiście.
+
+00:51:00.000 --> 00:51:02.000
+To wygląda jak deepfake'i po prostu.
+
+00:51:02.000 --> 00:51:04.000
+Tylko z twoją twarzą jakby.
+
+00:51:04.000 --> 00:51:05.000
+To brzmi najgorzej.
+
+00:51:05.000 --> 00:51:07.000
+To jest deepfake z twoją twarzą.
+
+00:51:07.000 --> 00:51:10.000
+Chcę uciekać od razu od tego.
+
+00:51:10.000 --> 00:51:12.000
+Nie, nie, to jest niesamowita technologia.
+
+00:51:12.000 --> 00:51:14.000
+To żałuję, że więcej żeśmy o tym nie opowiadali.
+
+00:51:14.000 --> 00:51:15.000
+Ale słuchajcie,
+
+00:51:15.000 --> 00:51:18.000
+bo ja bym chciał jeszcze o tych rzeczach właśnie
+
+00:51:18.000 --> 00:51:21.000
+usprawnieniowych dla streamerów
+
+00:51:21.000 --> 00:51:23.000
+czy w ogóle dla telekonferencji.
+
+00:51:23.000 --> 00:51:25.000
+Czyli ten odszumiacz live,
+
+00:51:25.000 --> 00:51:27.000
+bo to też jest bardzo ciekawa rzecz.
+
+00:51:27.000 --> 00:51:28.000
+Tak, bo Rok się pytał przecież,
+
+00:51:28.000 --> 00:51:29.000
+a ja nie odpowiedziałem.
+
+00:51:29.000 --> 00:51:31.000
+Jakie jeszcze rzeczy robimy?
+
+00:51:31.000 --> 00:51:32.000
+No właśnie.
+
+00:51:32.000 --> 00:51:34.000
+A właśnie w gamingowych robimy jeszcze takie rzeczy,
+
+00:51:34.000 --> 00:51:36.000
+które powiedziałaś, że dla streamerów,
+
+00:51:36.000 --> 00:51:37.000
+ale ogólnie dla osób,
+
+00:51:37.000 --> 00:51:38.000
+które używają mikrofonu
+
+00:51:38.000 --> 00:51:41.000
+i z kimś się komunikują.
+
+00:51:41.000 --> 00:51:43.000
+Mam pokazać mój mały diaz.
+
+00:51:43.000 --> 00:51:46.000
+Pokaż to, bo my ci nie wierzyliśmy.
+
+00:51:46.000 --> 00:51:49.000
+No więc po pierwsze,
+
+00:51:49.000 --> 00:51:50.000
+to ciągle działa w tle.
+
+00:51:50.000 --> 00:51:52.000
+Kiedy rozmawiamy ze sobą.
+
+00:51:52.000 --> 00:51:53.000
+Mamy to ciągle uruchomione.
+
+00:51:53.000 --> 00:51:54.000
+I to się nazywa,
+
+00:51:54.000 --> 00:51:56.000
+czekaj, bo ja to mam zainstalowane w ogóle.
+
+00:51:56.000 --> 00:51:57.000
+Nvidia Broadcast.
+
+00:51:57.000 --> 00:51:58.000
+Nvidia Broadcast i testowałem to sobie.
+
+00:51:58.000 --> 00:52:01.000
+Co ciekawe, działa również na kartach GTX,
+
+00:52:01.000 --> 00:52:03.000
+jeśli chodzi o mikrofon sam.
+
+00:52:03.000 --> 00:52:07.000
+Czyli odszumianie mikrofonu działa teraz też na kartach GTX.
+
+00:52:07.000 --> 00:52:08.000
+Można uruchomić.
+
+00:52:08.000 --> 00:52:09.000
+Ale bo to nie jest tylko,
+
+00:52:09.000 --> 00:52:10.000
+poczekaj chwilę,
+
+00:52:10.000 --> 00:52:13.000
+bo to nie jest tylko odszumianie mikrofonu,
+
+00:52:13.000 --> 00:52:15.000
+ale odszumianie też tego dźwięku,
+
+00:52:15.000 --> 00:52:17.000
+który my dostajemy.
+
+00:52:17.000 --> 00:52:20.000
+Tak, można sobie to tak ustawić.
+
+00:52:20.000 --> 00:52:22.000
+A ja teraz sobie stukam łyżką.
+
+00:52:22.000 --> 00:52:23.000
+Rok wcześniej mówił,
+
+00:52:23.000 --> 00:52:26.000
+że kubek gumowy albo ja nie stukam.
+
+00:52:26.000 --> 00:52:28.000
+A teraz ja słyszę trochę.
+
+00:52:28.000 --> 00:52:30.000
+No bo wiesz, powiem ci,
+
+00:52:30.000 --> 00:52:31.000
+są pewne granice.
+
+00:52:31.000 --> 00:52:34.000
+Ja to wyłączę teraz.
+
+00:52:34.000 --> 00:52:36.000
+No i wiesz, jak ja robię coś takiego,
+
+00:52:36.000 --> 00:52:39.000
+to trudno, żeby nie było tego słychać.
+
+00:52:39.000 --> 00:52:42.000
+Albo wrzucam łyżkę i słychać coś takiego.
+
+00:52:42.000 --> 00:52:45.000
+Ale jak już sobie to włączę z powrotem,
+
+00:52:45.000 --> 00:52:48.000
+wiesz, to jest tak naprawdę ekstremalna sytuacja, nie?
+
+00:52:48.000 --> 00:52:50.000
+No tak, bo to rzeczywiście bardzo głośne jest.
+
+00:52:50.000 --> 00:52:51.000
+Łyżką stukasz, tak.
+
+00:52:51.000 --> 00:52:54.000
+Ale może być dziecko gdzieś biegające w tle,
+
+00:52:54.000 --> 00:52:56.000
+a my musimy być w konferencji.
+
+00:52:56.000 --> 00:52:58.000
+No i ta sieć się nauczyła,
+
+00:52:58.000 --> 00:53:00.000
+czym jest mowa,
+
+00:53:00.000 --> 00:53:01.000
+co to są słowa,
+
+00:53:01.000 --> 00:53:03.000
+które rzeczy powinna przekazywać.
+
+00:53:03.000 --> 00:53:05.000
+To może być czasem dziwne,
+
+00:53:05.000 --> 00:53:06.000
+bo na przykład,
+
+00:53:06.000 --> 00:53:07.000
+ja nie wiem,
+
+00:53:07.000 --> 00:53:08.000
+nie wiem czy mi się uda,
+
+00:53:08.000 --> 00:53:10.000
+ale czy klasznięcie na przykład...
+
+00:53:10.000 --> 00:53:11.000
+Nie, też nie słychać.
+
+00:53:11.000 --> 00:53:12.000
+No właśnie.
+
+00:53:12.000 --> 00:53:13.000
+Tak, to ja też klaszczę.
+
+00:53:13.000 --> 00:53:14.000
+No i teraz wyobraźcie sobie,
+
+00:53:14.000 --> 00:53:16.000
+że chcecie na przykład...
+
+00:53:16.000 --> 00:53:18.000
+jesteście bardzo rozemocjonowani
+
+00:53:18.000 --> 00:53:21.000
+i chcecie uderzyć w stół i go uszkodzić.
+
+00:53:21.000 --> 00:53:22.000
+I nikt tego nie słyszy, nie?
+
+00:53:22.000 --> 00:53:23.000
+Ja na przykład stukam,
+
+00:53:23.000 --> 00:53:24.000
+no może tam coś słychać,
+
+00:53:24.000 --> 00:53:25.000
+bo to się wszystko porusza.
+
+00:53:25.000 --> 00:53:26.000
+Nie, nie, nie słychać.
+
+00:53:26.000 --> 00:53:27.000
+Nie?
+
+00:53:27.000 --> 00:53:29.000
+Jeszcze raz zrobię.
+
+00:53:29.000 --> 00:53:30.000
+O, teraz trochę było.
+
+00:53:30.000 --> 00:53:31.000
+Ale nie martw się, Janek.
+
+00:53:31.000 --> 00:53:33.000
+Ja pod wszystkie te rzeczy,
+
+00:53:33.000 --> 00:53:34.000
+które ty pokazywałeś,
+
+00:53:34.000 --> 00:53:35.000
+podłożę dźwięk.
+
+00:53:35.000 --> 00:53:37.000
+Podłożę dźwięk.
+
+00:53:37.000 --> 00:53:40.000
+I to w ogóle jak pierwszy raz się pokazało,
+
+00:53:40.000 --> 00:53:43.000
+no to był trochę szok dla ludzi,
+
+00:53:43.000 --> 00:53:44.000
+że to tak potrafi działać,
+
+00:53:44.000 --> 00:53:46.000
+bo są filmy, gdzie ludzie włączają odkurzacz,
+
+00:53:46.000 --> 00:53:47.000
+trąbkę, coś tam.
+
+00:53:47.000 --> 00:53:49.000
+I oczywiście ten dźwięk się zniekształca,
+
+00:53:49.000 --> 00:53:51.000
+ale w życiu byś nie powiedział,
+
+00:53:51.000 --> 00:53:52.000
+co na przykład,
+
+00:53:52.000 --> 00:53:54.000
+co powoduje hałas.
+
+00:53:54.000 --> 00:53:55.000
+Ale...
+
+00:53:55.000 --> 00:53:56.000
+A już...
+
+00:53:56.000 --> 00:53:58.000
+Powiem ci, że to jest fajne,
+
+00:53:58.000 --> 00:53:59.000
+bo po pierwsze,
+
+00:53:59.000 --> 00:54:02.000
+niektórzy nie mogą pracować w lato
+
+00:54:02.000 --> 00:54:03.000
+bez klimy, bez wiatraka,
+
+00:54:03.000 --> 00:54:05.000
+bo jest po prostu bardzo gorąco.
+
+00:54:05.000 --> 00:54:07.000
+No i to przeszkadza bardzo mocno.
+
+00:54:07.000 --> 00:54:08.000
+Po drugie,
+
+00:54:08.000 --> 00:54:10.000
+no rzeczywiście masz, ktoś gada ci w tle,
+
+00:54:10.000 --> 00:54:12.000
+gdzieś jakieś dzieci się bawią,
+
+00:54:12.000 --> 00:54:13.000
+remont, wiesz.
+
+00:54:13.000 --> 00:54:15.000
+A teraz wszyscy siedzą na,
+
+00:54:15.000 --> 00:54:17.000
+no w domach i pracują
+
+00:54:17.000 --> 00:54:19.000
+i jakieś cały czas kon w kole są,
+
+00:54:19.000 --> 00:54:20.000
+więc to jest bardzo fajna,
+
+00:54:20.000 --> 00:54:21.000
+fajna rzecz.
+
+00:54:21.000 --> 00:54:22.000
+No to jest fajna opcja.
+
+00:54:22.000 --> 00:54:23.000
+Tak jak mówię, działa na GTX-ach,
+
+00:54:23.000 --> 00:54:25.000
+więc Nvidia Broadcast można pobrać,
+
+00:54:25.000 --> 00:54:26.000
+spróbować.
+
+00:54:26.000 --> 00:54:27.000
+Jest jeszcze druga opcja,
+
+00:54:27.000 --> 00:54:28.000
+bardzo fajna,
+
+00:54:28.000 --> 00:54:30.000
+czyli wirtualny greenscreen.
+
+00:54:30.000 --> 00:54:32.000
+Czyli nie musimy już kupować greenscreena.
+
+00:54:32.000 --> 00:54:33.000
+Bo czekaj, bo czekaj,
+
+00:54:33.000 --> 00:54:34.000
+poczekaj Sołbo,
+
+00:54:34.000 --> 00:54:35.000
+to jest jeszcze...
+
+00:54:35.000 --> 00:54:36.000
+Chętnie pogadam o tym,
+
+00:54:36.000 --> 00:54:37.000
+o czym teraz mówisz,
+
+00:54:37.000 --> 00:54:39.000
+ale chciałbym jeszcze sięgnąć trochę,
+
+00:54:39.000 --> 00:54:41.000
+bo zawsze się kręcimy wokół tego gamingu
+
+00:54:41.000 --> 00:54:42.000
+i to jest spoko
+
+00:54:42.000 --> 00:54:44.000
+i to mi zawsze pasuje też.
+
+00:54:44.000 --> 00:54:46.000
+Ale zastanawiam się,
+
+00:54:46.000 --> 00:54:47.000
+ta rzecz związana z audio.
+
+00:54:47.000 --> 00:54:48.000
+Powiedziałaś tam,
+
+00:54:48.000 --> 00:54:50.000
+że technologia nauczyła się
+
+00:54:50.000 --> 00:54:51.000
+rozumieć czym jest mowa,
+
+00:54:51.000 --> 00:54:52.000
+w sensie rozpoznawać kiedy mówisz,
+
+00:54:52.000 --> 00:54:54.000
+a kiedy są jakieś inne dźwięki.
+
+00:54:54.000 --> 00:54:55.000
+Czy to może być taki wstęp
+
+00:54:55.000 --> 00:54:57.000
+do tłumaczenia na żywo?
+
+00:54:57.000 --> 00:54:58.000
+Czyli wiesz,
+
+00:54:58.000 --> 00:55:00.000
+kiedy ja mówię przez mikrofon po polsku,
+
+00:55:00.000 --> 00:55:02.000
+to z drugiej strony
+
+00:55:02.000 --> 00:55:04.000
+komputer cię dotłumaczy na język angielski?
+
+00:55:04.000 --> 00:55:05.000
+Jak najbardziej.
+
+00:55:05.000 --> 00:55:06.000
+Mamy takie coś.
+
+00:55:06.000 --> 00:55:08.000
+Mamy taką łezkę.
+
+00:55:08.000 --> 00:55:09.000
+Nie pamiętam,
+
+00:55:09.000 --> 00:55:10.000
+jak się ta technologia nazywa,
+
+00:55:10.000 --> 00:55:12.000
+bo to znów jest jakby poza G-Force.
+
+00:55:12.000 --> 00:55:14.000
+Ale to Google już ma to
+
+00:55:14.000 --> 00:55:15.000
+w tych swoich słuchawkach.
+
+00:55:15.000 --> 00:55:16.000
+Tak.
+
+00:55:16.000 --> 00:55:18.000
+Największy problem jest taki,
+
+00:55:18.000 --> 00:55:19.000
+żeby to się działo
+
+00:55:19.000 --> 00:55:20.000
+w czasie rzeczywistym,
+
+00:55:20.000 --> 00:55:22.000
+żeby nie było tego opóźnienia,
+
+00:55:22.000 --> 00:55:24.000
+bo wtedy ta rozmowa jest już...
+
+00:55:24.000 --> 00:55:27.000
+No nie jest taka naturalna.
+
+00:55:27.000 --> 00:55:29.000
+Powiedzmy dzwonimy do call center
+
+00:55:29.000 --> 00:55:32.000
+i o ile taka sztuczna inteligencja
+
+00:55:32.000 --> 00:55:33.000
+w call center byłaby w stanie
+
+00:55:33.000 --> 00:55:34.000
+nas obsłużyć,
+
+00:55:34.000 --> 00:55:36.000
+to rozmowa z czymś,
+
+00:55:36.000 --> 00:55:37.000
+co się musi sekundę zastanowić
+
+00:55:37.000 --> 00:55:39.000
+nad odpowiedzią,
+
+00:55:39.000 --> 00:55:41.000
+zrobi się taka mało naturalna.
+
+00:55:41.000 --> 00:55:43.000
+No i tu też NVIDIA
+
+00:55:43.000 --> 00:55:45.000
+dzięki tym swoim rozwiązaniem
+
+00:55:45.000 --> 00:55:46.000
+jest w stanie to przyspieszyć
+
+00:55:46.000 --> 00:55:49.000
+już do takich prędkości,
+
+00:55:49.000 --> 00:55:51.000
+żeby to naprawdę naturalnie brzmiało.
+
+00:55:51.000 --> 00:55:52.000
+No, że to jest taka latencja typu
+
+00:55:52.000 --> 00:55:54.000
+jak z kimś gadasz przez Skype'a.
+
+00:55:54.000 --> 00:55:55.000
+Dokładnie.
+
+00:55:55.000 --> 00:55:56.000
+Ale to też...
+
+00:55:56.000 --> 00:55:57.000
+Ja myślę, że tutaj
+
+00:55:57.000 --> 00:55:59.000
+inny poziom komplikacji jest taki,
+
+00:55:59.000 --> 00:56:01.000
+bo przecież czasami trzeba
+
+00:56:01.000 --> 00:56:02.000
+całe zdanie wysłuchać,
+
+00:56:02.000 --> 00:56:04.000
+by przetłumaczyć to na konkretny język.
+
+00:56:04.000 --> 00:56:06.000
+Trochę to nie da się tłumaczyć
+
+00:56:06.000 --> 00:56:07.000
+wyrazu po wyrazie,
+
+00:56:07.000 --> 00:56:08.000
+litery po literce,
+
+00:56:08.000 --> 00:56:09.000
+więc to później nie może być.
+
+00:56:09.000 --> 00:56:11.000
+Ale są w stanie te sieci już wiedzieć
+
+00:56:11.000 --> 00:56:12.000
+o czym rozmawiasz,
+
+00:56:12.000 --> 00:56:14.000
+z kontekstu, rozumienie.
+
+00:56:14.000 --> 00:56:15.000
+Śledzą cię,
+
+00:56:15.000 --> 00:56:16.000
+Facebooka twojego patrzą,
+
+00:56:16.000 --> 00:56:18.000
+wszystko wiedzą o tobie Remi.
+
+00:56:18.000 --> 00:56:19.000
+Jakby to co chcesz powiedzieć,
+
+00:56:19.000 --> 00:56:21.000
+co kupić to...
+
+00:56:21.000 --> 00:56:22.000
+To się strasznie rozwija, nie?
+
+00:56:22.000 --> 00:56:23.000
+Idziesz do sklepu
+
+00:56:23.000 --> 00:56:24.000
+i chcesz kupić pomidory
+
+00:56:24.000 --> 00:56:26.000
+i kupujesz iPada, no.
+
+00:56:26.000 --> 00:56:27.000
+Tak jest.
+
+00:56:27.000 --> 00:56:29.000
+Ja to śledzę sobie gdzieś tam.
+
+00:56:29.000 --> 00:56:31.000
+Już bardziej tak hobbystycznie.
+
+00:56:31.000 --> 00:56:33.000
+Dzieje się.
+
+00:56:33.000 --> 00:56:35.000
+Nawet czasem nie mamy świadomości.
+
+00:56:35.000 --> 00:56:37.000
+Są w ogóle jeszcze różne inne rzeczy,
+
+00:56:37.000 --> 00:56:40.000
+do których taki temat jest potrzebny.
+
+00:56:40.000 --> 00:56:42.000
+Na przykład do zarządzania siecią,
+
+00:56:42.000 --> 00:56:44.000
+połączeniami 5G.
+
+00:56:44.000 --> 00:56:46.000
+Bez tych rozwiązań
+
+00:56:46.000 --> 00:56:48.000
+nie będzie 5G prawdziwego,
+
+00:56:48.000 --> 00:56:50.000
+bo tam jest za dużo danych
+
+00:56:50.000 --> 00:56:51.000
+i tego się już nie da
+
+00:56:51.000 --> 00:56:53.000
+tak normalnie ogarnąć.
+
+00:56:53.000 --> 00:56:55.000
+Opowiadaj o tych green screenach,
+
+00:56:55.000 --> 00:56:57.000
+bo to też jest ciekawe.
+
+00:56:57.000 --> 00:56:58.000
+O green screenach.
+
+00:56:58.000 --> 00:57:00.000
+Ale wy nie będziecie mnie widzieć na tym,
+
+00:57:00.000 --> 00:57:02.000
+a ja sobie go włączę teraz.
+
+00:57:02.000 --> 00:57:03.000
+No to my będziemy na nagraniu.
+
+00:57:03.000 --> 00:57:05.000
+Ja niestety nie mam przy komputerze
+
+00:57:05.000 --> 00:57:07.000
+do streamowania karty z RTX-em
+
+00:57:07.000 --> 00:57:09.000
+i nie jestem w stanie tego sprawdzić
+
+00:57:09.000 --> 00:57:10.000
+do tej pory.
+
+00:57:10.000 --> 00:57:11.000
+Muszę sobie wymienić ten komputer.
+
+00:57:11.000 --> 00:57:12.000
+Mam starą kartę.
+
+00:57:12.000 --> 00:57:14.000
+Ja sobie już teraz włączyłem, więc...
+
+00:57:14.000 --> 00:57:15.000
+Świetnie to wygląda.
+
+00:57:15.000 --> 00:57:17.000
+Oczami wyobraźni to widzę.
+
+00:57:17.000 --> 00:57:19.000
+Ale widzisz to tak samo jak słuchacze,
+
+00:57:19.000 --> 00:57:21.000
+bo słuchacze nie będą też widzieć.
+
+00:57:21.000 --> 00:57:23.000
+Ale polega to na tym,
+
+00:57:23.000 --> 00:57:25.000
+że zaczyna nam to
+
+00:57:26.000 --> 00:57:28.000
+wycinać
+
+00:57:28.000 --> 00:57:29.000
+tło.
+
+00:57:29.000 --> 00:57:30.000
+Ja tu kilka takich scen przełączyłem,
+
+00:57:30.000 --> 00:57:32.000
+bo oczywiście jak są...
+
+00:57:32.000 --> 00:57:34.000
+Jak ludzie pokazują tą technologię,
+
+00:57:34.000 --> 00:57:36.000
+zazwyczaj pokazują
+
+00:57:36.000 --> 00:57:38.000
+wielką twarz na cały ekran.
+
+00:57:38.000 --> 00:57:40.000
+Wycinają i mówią no tutaj coś...
+
+00:57:40.000 --> 00:57:42.000
+No nie jest to takie doskonałe.
+
+00:57:42.000 --> 00:57:43.000
+Nie jest.
+
+00:57:43.000 --> 00:57:44.000
+Ale powiedzmy tak.
+
+00:57:44.000 --> 00:57:46.000
+To jest za darmo po pierwsze,
+
+00:57:46.000 --> 00:57:47.000
+bo to jest do karty.
+
+00:57:47.000 --> 00:57:49.000
+Nie trzeba za to płacić dodatkowo.
+
+00:57:49.000 --> 00:57:50.000
+A to przez OBS działa?
+
+00:57:50.000 --> 00:57:51.000
+Czy jak to działa?
+
+00:57:51.000 --> 00:57:53.000
+To działa tak, że obraz z kamery
+
+00:57:53.000 --> 00:57:55.000
+wpuszczasz do broadcasta,
+
+00:57:55.000 --> 00:57:57.000
+a przejmujesz z broadcasta obraz
+
+00:57:57.000 --> 00:57:58.000
+od OBS.
+
+00:57:58.000 --> 00:58:00.000
+Czyli to jest taki jakby przejściowy program
+
+00:58:00.000 --> 00:58:01.000
+po drodze.
+
+00:58:01.000 --> 00:58:03.000
+Jak mi urząd celny odda mój grabber...
+
+00:58:05.000 --> 00:58:06.000
+Tak.
+
+00:58:06.000 --> 00:58:07.000
+I właśnie główną zaletą jest to,
+
+00:58:07.000 --> 00:58:09.000
+że jakby dodatkowo za to nie płacisz.
+
+00:58:09.000 --> 00:58:10.000
+Fajny feature.
+
+00:58:10.000 --> 00:58:12.000
+A jakość moim zdaniem,
+
+00:58:12.000 --> 00:58:13.000
+no mam nadzieję, że na YouTubie
+
+00:58:13.000 --> 00:58:14.000
+to będzie widać.
+
+00:58:14.000 --> 00:58:15.000
+Ładnie jest.
+
+00:58:15.000 --> 00:58:16.000
+Jest jak najbardziej przyzwoita.
+
+00:58:16.000 --> 00:58:17.000
+Szczególnie jak nie jesteś w stanie
+
+00:58:17.000 --> 00:58:18.000
+tego green screena,
+
+00:58:18.000 --> 00:58:20.000
+albo po prostu nie masz go
+
+00:58:20.000 --> 00:58:23.000
+albo na laptopie
+
+00:58:23.000 --> 00:58:25.000
+gdzieś możesz siedzieć w terenie
+
+00:58:25.000 --> 00:58:26.000
+i również to uruchomić.
+
+00:58:26.000 --> 00:58:28.000
+Czyli nie trzeba teraz
+
+00:58:28.000 --> 00:58:31.000
+do porannych konferencji z szefem
+
+00:58:31.000 --> 00:58:32.000
+sprzątać pokoju.
+
+00:58:32.000 --> 00:58:33.000
+Proste.
+
+00:58:33.000 --> 00:58:34.000
+Czy tam do elekcji.
+
+00:58:34.000 --> 00:58:35.000
+Nie trzeba.
+
+00:58:35.000 --> 00:58:36.000
+Dużo osób powie,
+
+00:58:36.000 --> 00:58:37.000
+ale ja mam coś takiego
+
+00:58:37.000 --> 00:58:38.000
+w jakimś teamsach.
+
+00:58:38.000 --> 00:58:40.000
+Wymazywanie tła czy coś.
+
+00:58:40.000 --> 00:58:43.000
+Ale nie możesz takiej jakości kamery
+
+00:58:43.000 --> 00:58:44.000
+zastosować.
+
+00:58:44.000 --> 00:58:46.000
+Nie możesz jej mieć tak płynnej,
+
+00:58:46.000 --> 00:58:49.000
+bo to dość mocno obciąża komputer.
+
+00:58:49.000 --> 00:58:52.000
+To nie jest taka jakość.
+
+00:58:52.000 --> 00:58:53.000
+Na rok telekonferencje
+
+00:58:53.000 --> 00:58:55.000
+w niskim bitrate się nada,
+
+00:58:55.000 --> 00:58:56.000
+ale jak już byś chciał mieć
+
+00:58:56.000 --> 00:58:58.000
+coś lepszej jakości,
+
+00:58:58.000 --> 00:59:00.000
+czyli na przykład streamowanie
+
+00:59:00.000 --> 00:59:02.000
+czy nagrywanie jakiś filmów,
+
+00:59:02.000 --> 00:59:04.000
+to rozwiązanie,
+
+00:59:04.000 --> 00:59:05.000
+które mamy w NVIDIA Broadcast
+
+00:59:05.000 --> 00:59:06.000
+się naprawdę przydaje.
+
+00:59:06.000 --> 00:59:07.000
+Tutaj już te tensory są potrzebne,
+
+00:59:07.000 --> 00:59:09.000
+więc to tylko na RTX.
+
+00:59:09.000 --> 00:59:10.000
+A powiedz mi Janek,
+
+00:59:10.000 --> 00:59:11.000
+a ja mam tak,
+
+00:59:11.000 --> 00:59:13.000
+że dyszę strasznie do mikrofonu.
+
+00:59:13.000 --> 00:59:15.000
+To też jakby zniweluję.
+
+00:59:15.000 --> 00:59:17.000
+Wiesz co, ja mogę podyszeć trochę.
+
+00:59:17.000 --> 00:59:19.000
+No dajesz.
+
+00:59:19.000 --> 00:59:21.000
+Słyszymy.
+
+00:59:21.000 --> 00:59:22.000
+No to słychać dyszenie.
+
+00:59:22.000 --> 00:59:23.000
+Państwo na pewno się cieszą,
+
+00:59:23.000 --> 00:59:24.000
+że tego nie widzą.
+
+00:59:24.000 --> 00:59:27.000
+Według sztucznej inteligencji
+
+00:59:27.000 --> 00:59:29.000
+dyszenie jest też mową.
+
+00:59:29.000 --> 00:59:30.000
+Wiesz co,
+
+00:59:30.000 --> 00:59:32.000
+bo jedna rzecz na przykład
+
+00:59:32.000 --> 00:59:35.000
+była w pierwszej wersji Broadcasta,
+
+00:59:35.000 --> 00:59:37.000
+bo to oczywiście jest usprawniane.
+
+00:59:37.000 --> 00:59:38.000
+Nawet jest tam,
+
+00:59:38.000 --> 00:59:40.000
+sama kamera jest w wersji beta
+
+00:59:40.000 --> 00:59:41.000
+i tam prosimy,
+
+00:59:41.000 --> 00:59:42.000
+żeby jak ktoś ma ochotę,
+
+00:59:42.000 --> 00:59:45.000
+to może wysłać swoje nagranie.
+
+00:59:45.000 --> 00:59:47.000
+I ono może zostać dodane
+
+00:59:47.000 --> 00:59:49.000
+do takiej później nauczania tej sieci.
+
+00:59:49.000 --> 00:59:50.000
+Ona się na przykład nauczy,
+
+00:59:50.000 --> 00:59:51.000
+no bo powiedzmy,
+
+00:59:51.000 --> 00:59:52.000
+ja wyglądam tak,
+
+00:59:52.000 --> 00:59:54.000
+wy wyglądacie,
+
+00:59:54.000 --> 00:59:55.000
+powiedziałbym, że całkiem podobnie.
+
+00:59:55.000 --> 00:59:56.000
+No tak.
+
+00:59:56.000 --> 00:59:58.000
+Ale ktoś może mieć na przykład i rokeza,
+
+00:59:58.000 --> 00:59:59.000
+albo jakieś takie,
+
+00:59:59.000 --> 01:00:00.000
+nie wiem, włosy,
+
+01:00:00.000 --> 01:00:01.000
+wiesz,
+
+01:00:01.000 --> 01:00:02.000
+zielone.
+
+01:00:02.000 --> 01:00:03.000
+Albo w ogóle włosy,
+
+01:00:03.000 --> 01:00:06.000
+ja bym poprosił.
+
+01:00:06.000 --> 01:00:07.000
+I ta sieć się powinna
+
+01:00:07.000 --> 01:00:09.000
+tego też nauczyć.
+
+01:00:09.000 --> 01:00:12.000
+Kiedyś na początku wycinała krzesło,
+
+01:00:12.000 --> 01:00:14.000
+a teraz mi już krzesła nie wycina,
+
+01:00:14.000 --> 01:00:15.000
+więc krzesło zostaje.
+
+01:00:15.000 --> 01:00:16.000
+To dobrze, czy źle?
+
+01:00:16.000 --> 01:00:17.000
+To dobrze,
+
+01:00:17.000 --> 01:00:18.000
+bo wydaje mi się,
+
+01:00:18.000 --> 01:00:19.000
+że jakbym nie chciał mieć krzesła,
+
+01:00:19.000 --> 01:00:20.000
+to bym sobie,
+
+01:00:20.000 --> 01:00:21.000
+to tak nienaturalnie jest nagle,
+
+01:00:21.000 --> 01:00:22.000
+że,
+
+01:00:22.000 --> 01:00:23.000
+zwłaszcza, że ja jestem,
+
+01:00:23.000 --> 01:00:24.000
+wiesz, mam włosy czarne,
+
+01:00:24.000 --> 01:00:25.000
+to ten,
+
+01:00:25.000 --> 01:00:27.000
+to nie jest takie już doskonałe.
+
+01:00:27.000 --> 01:00:30.000
+A to współpracuje z takimi kamerami
+
+01:00:30.000 --> 01:00:32.000
+dwuobiektowymi,
+
+01:00:32.000 --> 01:00:35.000
+takimi 3D?
+
+01:00:35.000 --> 01:00:36.000
+O Jezu,
+
+01:00:36.000 --> 01:00:37.000
+nie mam pojęcia.
+
+01:00:37.000 --> 01:00:38.000
+Bo ja mam takiego Razera,
+
+01:00:38.000 --> 01:00:41.000
+ale on tylko na procesorach Intela.
+
+01:00:41.000 --> 01:00:42.000
+A, że masz dwa obiektywy,
+
+01:00:42.000 --> 01:00:44.000
+żeby móc ostrość z przodu i z tyłu
+
+01:00:44.000 --> 01:00:45.000
+rozmyć i ten?
+
+01:00:45.000 --> 01:00:46.000
+Bo oni robili takie...
+
+01:00:46.000 --> 01:00:47.000
+A czemu nie?
+
+01:00:47.000 --> 01:00:48.000
+Powinno działać.
+
+01:00:48.000 --> 01:00:49.000
+Nie, właśnie, bo ta kamera,
+
+01:00:49.000 --> 01:00:50.000
+coś jest nie tak,
+
+01:00:50.000 --> 01:00:51.000
+bo ona jest jakaś taka,
+
+01:00:51.000 --> 01:00:54.000
+że niby to oni swoją technologię robili,
+
+01:00:54.000 --> 01:00:56.000
+ale chyba ją porzucili już
+
+01:00:56.000 --> 01:00:58.000
+i ona,
+
+01:00:58.000 --> 01:01:03.000
+to 3D działa tylko z procesorami Intela.
+
+01:01:03.000 --> 01:01:04.000
+To jakby bez sensu.
+
+01:01:04.000 --> 01:01:06.000
+Znaczy może coś takiego być, no.
+
+01:01:06.000 --> 01:01:07.000
+Może coś takiego być.
+
+01:01:07.000 --> 01:01:09.000
+Chciałem o tym mikrofonie powiedzieć
+
+01:01:09.000 --> 01:01:10.000
+i o tym właśnie,
+
+01:01:10.000 --> 01:01:13.000
+żeby na przykład to moje dyszenie było słychać.
+
+01:01:13.000 --> 01:01:14.000
+Kiedyś było tak,
+
+01:01:14.000 --> 01:01:16.000
+że potrafiło na przykład takie dziwne,
+
+01:01:16.000 --> 01:01:18.000
+typu wiesz,
+
+01:01:18.000 --> 01:01:19.000
+zastanawiałeś się nad czymś
+
+01:01:19.000 --> 01:01:20.000
+i ci nagle to wycięło.
+
+01:01:20.000 --> 01:01:22.000
+O, to brzydko rzeczywiście.
+
+01:01:22.000 --> 01:01:24.000
+I to już było takie nie do końca.
+
+01:01:24.000 --> 01:01:26.000
+Jest też suwak siły tego odszumiania,
+
+01:01:26.000 --> 01:01:29.000
+to znaczy można go zwiększyć, zmniejszyć.
+
+01:01:29.000 --> 01:01:31.000
+A co najważniejsze,
+
+01:01:31.000 --> 01:01:33.000
+to nie chodzi tylko o nasz program
+
+01:01:33.000 --> 01:01:34.000
+NVIDIA Broadcast,
+
+01:01:34.000 --> 01:01:36.000
+tylko jest do tego cały pakiet
+
+01:01:36.000 --> 01:01:38.000
+dla deweloperów
+
+01:01:38.000 --> 01:01:41.000
+i można to sobie dodawać do swoich pluginów,
+
+01:01:41.000 --> 01:01:43.000
+do swoich aplikacji.
+
+01:01:43.000 --> 01:01:45.000
+Właśnie, ale teraz do widzów wszystkich,
+
+01:01:45.000 --> 01:01:47.000
+bo wszyscy tutaj,
+
+01:01:47.000 --> 01:01:49.000
+jak komuś na przykład nie spodoba się,
+
+01:01:49.000 --> 01:01:51.000
+że ja mówię często,
+
+01:01:51.000 --> 01:01:54.000
+to może spróbować tym suwakiem,
+
+01:01:54.000 --> 01:01:55.000
+bo tak jak mówiłem,
+
+01:01:55.000 --> 01:01:57.000
+to nie tylko odszumia mikrofon,
+
+01:01:57.000 --> 01:02:00.000
+ale odszumia też to, co słyszymy.
+
+01:02:00.000 --> 01:02:01.000
+Czy to...
+
+01:02:01.000 --> 01:02:02.000
+No właśnie, pytanie.
+
+01:02:02.000 --> 01:02:04.000
+Nie słychać, jak teraz robię.
+
+01:02:04.000 --> 01:02:06.000
+Słychać, słychać, no.
+
+01:02:06.000 --> 01:02:08.000
+Ale moim zdaniem,
+
+01:02:08.000 --> 01:02:10.000
+gdyby ktoś jakby ten problem
+
+01:02:10.000 --> 01:02:12.000
+sobie wziął na tapet,
+
+01:02:12.000 --> 01:02:15.000
+to spokojnie jest w stanie dodać,
+
+01:02:15.000 --> 01:02:16.000
+wiesz, opcję typu
+
+01:02:16.000 --> 01:02:18.000
+Y, nie chcemy.
+
+01:02:18.000 --> 01:02:19.000
+Trzeba taką sieć nauczyć.
+
+01:02:19.000 --> 01:02:21.000
+Ale to Y też jest częścią wielu wyrazów,
+
+01:02:21.000 --> 01:02:24.000
+więc to myślę, że to jest zrobienie.
+
+01:02:24.000 --> 01:02:26.000
+Ale wiesz, jakbyś miał opcję...
+
+01:02:26.000 --> 01:02:28.000
+Ja powiem ci, że
+
+01:02:28.000 --> 01:02:30.000
+mógłbym się założyć,
+
+01:02:30.000 --> 01:02:32.000
+że któreś oprogramowanie do obróbki audio
+
+01:02:32.000 --> 01:02:34.000
+już coś takiego ma.
+
+01:02:34.000 --> 01:02:36.000
+Pewnie próbowano to robić jeszcze bez sieci,
+
+01:02:36.000 --> 01:02:37.000
+a założyć się,
+
+01:02:37.000 --> 01:02:40.000
+że już to na jakichś takich właśnie sieciach neuronowych,
+
+01:02:40.000 --> 01:02:41.000
+w takim AI,
+
+01:02:41.000 --> 01:02:43.000
+to jest rozwiązane do obróbki audio.
+
+01:02:43.000 --> 01:02:44.000
+Jestem przekonany, bo to jest...
+
+01:02:44.000 --> 01:02:45.000
+Proszę Państwa,
+
+01:02:45.000 --> 01:02:46.000
+to już zamykamy temat.
+
+01:02:46.000 --> 01:02:48.000
+Kurde, te ostatnie tematy, powiem,
+
+01:02:48.000 --> 01:02:49.000
+że mnie zainteresowały bardzo.
+
+01:02:49.000 --> 01:02:51.000
+Chciałem ci oddać głos właśnie.
+
+01:02:51.000 --> 01:02:52.000
+Remigiusz.
+
+01:02:52.000 --> 01:02:54.000
+Proszę Państwa, teraz Remigiusz.
+
+01:02:54.000 --> 01:02:56.000
+Wiesz co, mówisz, że te technologie
+
+01:02:56.000 --> 01:02:58.000
+bardzo szybko się rozwijają.
+
+01:02:58.000 --> 01:02:59.000
+I to się da zauważyć.
+
+01:02:59.000 --> 01:03:01.000
+Szczególnie te związane z algorytmami
+
+01:03:01.000 --> 01:03:02.000
+i ze sztuczną inteligencją.
+
+01:03:02.000 --> 01:03:03.000
+Jak myślisz, ile potrzeba lat,
+
+01:03:03.000 --> 01:03:07.000
+żeby to spełniało wszystkie założone funkcje?
+
+01:03:07.000 --> 01:03:08.000
+To znaczy takie,
+
+01:03:08.000 --> 01:03:10.000
+że możemy spokojnie się komunikować,
+
+01:03:10.000 --> 01:03:11.000
+rozmawiać z komputerem,
+
+01:03:11.000 --> 01:03:12.000
+wydawać mu polecenia,
+
+01:03:12.000 --> 01:03:13.000
+on je rozpoznaje.
+
+01:03:13.000 --> 01:03:15.000
+Czy to jest bardzo odległa przyszłość,
+
+01:03:15.000 --> 01:03:17.000
+czy niespecjalnie?
+
+01:03:17.000 --> 01:03:18.000
+Wiesz co,
+
+01:03:18.000 --> 01:03:21.000
+znaczy trzeba sobie zadać pytanie,
+
+01:03:21.000 --> 01:03:22.000
+czy chodzi nam o to,
+
+01:03:22.000 --> 01:03:23.000
+czy ta technologia jest,
+
+01:03:23.000 --> 01:03:25.000
+czy ona jest dostępna dla ciebie
+
+01:03:25.000 --> 01:03:27.000
+i czy jest dostępna na przykład w komputerze,
+
+01:03:27.000 --> 01:03:28.000
+czy w telefonie.
+
+01:03:28.000 --> 01:03:29.000
+Bo to są bardzo różne rzeczy.
+
+01:03:29.000 --> 01:03:30.000
+Wiesz co...
+
+01:03:30.000 --> 01:03:33.000
+To znaczy technologia już jest.
+
+01:03:33.000 --> 01:03:36.000
+Jeśli Google przeznaczyłby,
+
+01:03:36.000 --> 01:03:38.000
+czy Nvidia,
+
+01:03:38.000 --> 01:03:42.000
+na rozmowę z tobą takie centrum danych,
+
+01:03:42.000 --> 01:03:44.000
+takie swoje serwery,
+
+01:03:44.000 --> 01:03:46.000
+to one by były w stanie
+
+01:03:46.000 --> 01:03:48.000
+to ładnie wszystko sobie obrabiać
+
+01:03:48.000 --> 01:03:52.000
+i z tobą w miarę pewnie płynnie rozmawiać.
+
+01:03:52.000 --> 01:03:53.000
+Problem polega na tym,
+
+01:03:53.000 --> 01:03:57.000
+że takiej mocy nikt nie przeznaczy ci za darmo.
+
+01:03:57.000 --> 01:03:58.000
+No właśnie, bo to jednak wymaga
+
+01:03:58.000 --> 01:03:59.000
+bardzo dużych centrów danych.
+
+01:03:59.000 --> 01:04:00.000
+Ty to musisz mieć w telefonie.
+
+01:04:00.000 --> 01:04:02.000
+I teraz jest pytanie,
+
+01:04:02.000 --> 01:04:04.000
+czy ty to będziesz miał w telefonie
+
+01:04:04.000 --> 01:04:08.000
+u siebie obliczane w swoim telefonie?
+
+01:04:08.000 --> 01:04:11.000
+Czy będziesz to miał obliczane na przykład na serwerze?
+
+01:04:11.000 --> 01:04:14.000
+A żeby to mieć obliczane na serwerze
+
+01:04:14.000 --> 01:04:16.000
+i mieć opóźnienie ciągle takie,
+
+01:04:16.000 --> 01:04:18.000
+żeby to brzmiało jak rozmowa,
+
+01:04:18.000 --> 01:04:20.000
+to już musisz mieć właśnie takie rozwiązania
+
+01:04:20.000 --> 01:04:21.000
+jak 5G na przykład.
+
+01:04:21.000 --> 01:04:27.000
+Dlatego to 5G ma odmienić trochę świat.
+
+01:04:27.000 --> 01:04:32.000
+Na razie jest tak,
+
+01:04:32.000 --> 01:04:34.000
+że wszystkie asystenty polegają na tym,
+
+01:04:34.000 --> 01:04:37.000
+że lokalnie jest głos zamieniany na tekst
+
+01:04:37.000 --> 01:04:39.000
+i wysyłany na serwer jako tekst.
+
+01:04:39.000 --> 01:04:41.000
+No to tak to wygląda.
+
+01:04:41.000 --> 01:04:42.000
+Oczywiście on się uczy cały czas.
+
+01:04:42.000 --> 01:04:44.000
+Nagrywa, analizuje to co mówimy
+
+01:04:44.000 --> 01:04:46.000
+i uczy się naszego głosu,
+
+01:04:46.000 --> 01:04:49.000
+że potem jeżeli będzie inwazja na Polskę,
+
+01:04:49.000 --> 01:04:52.000
+to ci z asystentami będą rozpoznani jako nasi.
+
+01:04:52.000 --> 01:04:54.000
+Zależy jaki asystent wybierzecie sobie,
+
+01:04:54.000 --> 01:04:57.000
+czy Siri, czy Amazona,
+
+01:04:57.000 --> 01:05:00.000
+a ci bez asystentów będą jako obcy
+
+01:05:00.000 --> 01:05:05.000
+rozpoznani przez drony i roboty.
+
+01:05:05.000 --> 01:05:07.000
+Chyba, że Chiny nas zaatakują,
+
+01:05:07.000 --> 01:05:10.000
+to ci z robotami sprzątającymi to nasi.
+
+01:05:10.000 --> 01:05:12.000
+Ja mam taki jeden już.
+
+01:05:12.000 --> 01:05:13.000
+No ale dobra.
+
+01:05:13.000 --> 01:05:15.000
+Czy to zamyka nasze tematy dzisiaj?
+
+01:05:15.000 --> 01:05:18.000
+Myślę, że zamyka nas.
+
+01:05:18.000 --> 01:05:22.000
+Jakie mamy pytania do widzów?
+
+01:05:22.000 --> 01:05:29.000
+Ile już czekacie na nową kartę Nvidia?
+
+01:05:29.000 --> 01:05:31.000
+Nie może właśnie o przyszłość się zapytajmy,
+
+01:05:31.000 --> 01:05:35.000
+ale tą dalszą.
+
+01:05:35.000 --> 01:05:37.000
+Nie stajesz przy swoim pytaniu?
+
+01:05:37.000 --> 01:05:39.000
+Ja zostaję, bo to wiesz.
+
+01:05:39.000 --> 01:05:42.000
+Ja oczywiście się trochę śmieję,
+
+01:05:42.000 --> 01:05:44.000
+bo mam sprzydziały od MSI,
+
+01:05:44.000 --> 01:05:48.000
+ale tam trochę się ludzie frustrują.
+
+01:05:48.000 --> 01:05:52.000
+Ale też wiesz, jeżeli rzeczywiście tak jest,
+
+01:05:52.000 --> 01:05:56.000
+że tych kart było tyle co zawsze,
+
+01:05:56.000 --> 01:05:59.000
+a nikt nie jest w stanie przewidzieć,
+
+01:05:59.000 --> 01:06:01.000
+bo produkcja jest dużo, dużo wcześniej.
+
+01:06:01.000 --> 01:06:02.000
+Nikt nie jest w stanie przewidzieć,
+
+01:06:02.000 --> 01:06:03.000
+że nagle będzie lockdown
+
+01:06:03.000 --> 01:06:04.000
+i nagle wszyscy będą grali.
+
+01:06:04.000 --> 01:06:06.000
+Nawet jakbyś to przewidział,
+
+01:06:06.000 --> 01:06:08.000
+to idziesz do więzienia od razu.
+
+01:06:08.000 --> 01:06:10.000
+To nie jest tak, że możesz nagle zapłacić
+
+01:06:10.000 --> 01:06:12.000
+i zatrudnić więcej ludzi na przykład.
+
+01:06:12.000 --> 01:06:13.000
+To się nie skaluje,
+
+01:06:13.000 --> 01:06:15.000
+nie da się fabryki skalować.
+
+01:06:15.000 --> 01:06:17.000
+A tych fabryk, które robią te czipy,
+
+01:06:17.000 --> 01:06:19.000
+nie ma po prostu na świecie tak dużo.
+
+01:06:19.000 --> 01:06:21.000
+Z pamięciami jest problem.
+
+01:06:21.000 --> 01:06:24.000
+Tam przecież słyszy się,
+
+01:06:24.000 --> 01:06:26.000
+że produkcyjne są problemy,
+
+01:06:26.000 --> 01:06:27.000
+bo nie dla wszystkich starczają
+
+01:06:27.000 --> 01:06:29.000
+odpowiednio szybkie pamięci.
+
+01:06:29.000 --> 01:06:32.000
+A w grafice musisz mieć super szybkie.
+
+01:06:32.000 --> 01:06:34.000
+Nie? No dobra, nie wiem.
+
+01:06:34.000 --> 01:06:36.000
+Musisz mieć, musisz mieć.
+
+01:06:36.000 --> 01:06:37.000
+Jeszcze wracając na sekundkę do tego pytania.
+
+01:06:37.000 --> 01:06:39.000
+Ja pozostawiam Państwa z tym pytaniem,
+
+01:06:39.000 --> 01:06:41.000
+które zadałem Jasiowi,
+
+01:06:41.000 --> 01:06:43.000
+czyli jak szybko będziemy się komunikować
+
+01:06:43.000 --> 01:06:46.000
+w sposób wygodny i totalnie komfortowy,
+
+01:06:46.000 --> 01:06:48.000
+naturalny, z komputerem
+
+01:06:48.000 --> 01:06:50.000
+i wydawać mu polecenia w ogóle.
+
+01:06:50.000 --> 01:06:52.000
+No i to chyba zamyka nasze opowieści.
+
+01:06:52.000 --> 01:06:54.000
+Zamyka nasze, tak.
+
+01:06:54.000 --> 01:06:55.000
+Janku, bardzo Ci dziękujemy,
+
+01:06:55.000 --> 01:06:57.000
+że chciało Ci się z nami tyle gadać.
+
+01:06:57.000 --> 01:06:59.000
+W ogóle dawno się nie widzieliśmy.
+
+01:06:59.000 --> 01:07:01.000
+Szkoda, że nie na żywo.
+
+01:07:01.000 --> 01:07:02.000
+Szkoda, że nie na żywo,
+
+01:07:02.000 --> 01:07:04.000
+bo daleko tam do Wrocławia nie mamy.
+
+01:07:04.000 --> 01:07:08.000
+No właśnie, więc zapraszam Cię na pizzę do mnie,
+
+01:07:08.000 --> 01:07:10.000
+jak już będziesz zaszczepiony oczywiście.
+
+01:07:10.000 --> 01:07:12.000
+O, to wszyscy na pizzę do Ciebie idą.
+
+01:07:12.000 --> 01:07:13.000
+Coś czuję.
+
+01:07:13.000 --> 01:07:14.000
+No Ciebie też zapraszam.
+
+01:07:14.000 --> 01:07:16.000
+Jak wszystkich zapraszam na każdym odcinku,
+
+01:07:16.000 --> 01:07:17.000
+to to będzie wielka impreza.
+
+01:07:17.000 --> 01:07:19.000
+Nie, pierwszego Ciebie zaprosiłem.
+
+01:07:19.000 --> 01:07:21.000
+Więc na razie nas jest trzech
+
+01:07:21.000 --> 01:07:24.000
+i masz, Janku, pozdrowienia od mojej żony oczywiście.
+
+01:07:24.000 --> 01:07:27.000
+No to pozdrawiamy Państwa bardzo serdecznie.
+
+01:07:27.000 --> 01:07:29.000
+Dziękujemy za rozmowę.
+
+01:07:29.000 --> 01:07:30.000
+Trzymajcie się.
+
+01:07:30.000 --> 01:07:50.000
+Dzięki, cześć.
+

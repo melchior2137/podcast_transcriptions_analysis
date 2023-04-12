@@ -1,0 +1,4195 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:06.400
+Dzień dobry, witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:06.400 --> 00:00:15.400
+Dzień dobry, Remigiuszu. Witam cię serdecznie. Państwa jeszcze bardziej serdecznie i jeszcze bardziej, bez sensu. Dzień dobry.
+
+00:00:15.400 --> 00:00:18.800
+Jak tam? Co tam u Ciebie? Wszystko dobrze? Zdrowie?
+
+00:00:18.800 --> 00:00:38.200
+Wszystko dobrze. Wszystko dobrze. Zdrowie poprawne. I co Ci mam powiedzieć? Pytasz się, co mnie słychać. No to odpowiadam Ci, że dużo jest gier do ogrania.
+
+00:00:38.200 --> 00:00:40.400
+Jest, jest, Panie kochany. O tak.
+
+00:00:40.400 --> 00:00:45.800
+I dzisiaj będziemy sobie rozmawiać oczywiście o Ragnaroku. Nie wiem, czy znasz taką grę.
+
+00:00:45.800 --> 00:00:48.400
+Tak, znam, znam.
+
+00:00:48.400 --> 00:00:59.000
+Ale też dzisiaj, czyli z perspektywy Państwa, wczoraj wyszła taka gra jak Floodland od znanego, lubionego polskiego studia Wille Monarch.
+
+00:00:59.000 --> 00:01:01.000
+Wile Monarch chyba, nie?
+
+00:01:01.000 --> 00:01:06.200
+Wille Monarch. To jest polska, nie? Jakby to tak, nie?
+
+00:01:06.200 --> 00:01:09.800
+Wille Monarchę? To Wile Monarchę trzeba by było powiedzieć.
+
+00:01:09.800 --> 00:01:19.600
+Nie, nie, bo ja nie wiem, jak oni się nazywają, ale tak, Wille Monarch i też wypuścili tego cudownego Floodlanda. Nie wiem, czy cudownego, bo jeszcze nie widziałem.
+
+00:01:19.600 --> 00:01:29.800
+Ja już grałem, grałem też przed... To jest takie zarządzanie plemieniem, wioską taką małą w świecie post-apo.
+
+00:01:29.800 --> 00:01:38.200
+Bardzo ładnie ta gra wygląda i na pewno sobie będę ogrywał. Wyszedł też Pentiment, na którego czekam od bardzo dawna.
+
+00:01:38.200 --> 00:01:44.600
+I który pewnie, mam nadzieję, że znajdę czas, żeby go ograć.
+
+00:01:44.600 --> 00:01:56.800
+No i Somerville wyszło, tak? Somerville to się tak nazywa od jednego z twórców Limbo i Inside, więc też bardzo czekam.
+
+00:01:56.800 --> 00:02:03.200
+Ma dosyć takie niejednoznaczne opinie.
+
+00:02:03.200 --> 00:02:05.600
+A Pentiment podobnież bardzo dobry.
+
+00:02:05.600 --> 00:02:11.200
+No żeś mi podebrał tematy. Ja Pentimenta też już sobie ściągnąłem, w Game Passie jest, także polecam Państwu rzucić okiem.
+
+00:02:11.200 --> 00:02:20.600
+Pograłem chwilę i mówię, o kurde, taki jest poziom opowieści i narracji, że zostawiłem sobie to na streama, żeby na streamie pograć w tego Pentimenta,
+
+00:02:20.600 --> 00:02:29.800
+bo naprawdę zapowiada się. Zacznie z polskiej wersji językowej. Napisy, bo chyba tam nie ma w ogóle dubbingów jakichkolwiek, więc napisy są.
+
+00:02:29.800 --> 00:02:36.800
+I tak wygląda bardzo dobrze, ja będę to ogrywał jutro, znaczy z Państwa perspektywy zaraz dzisiaj, pewnie rano. Także zapraszam.
+
+00:02:36.800 --> 00:02:45.800
+Pewnie tak. A to ja od razu zapraszam Państwa. Ja mam zawsze, jak wychodzi podcast, no zawsze, prawie zawsze, o 11 mam stream.
+
+00:02:45.800 --> 00:02:56.800
+Zapraszam na Twitcha, link jest w opisie. Zapraszam. Zrobiłem taki trik Remigiuszu, że dodałem na stałe, w opisie mają Państwo wszystkie socjale nasze,
+
+00:02:56.800 --> 00:03:08.800
+dodałem tam znacznik autopromocja, więc już jest na zawsze, nie trzeba się tym przejmować, ponieważ oznaczenie jest trwałe, przynajmniej tak mam wrażenie.
+
+00:03:08.800 --> 00:03:20.800
+Ale muszę sprostować, proszę Państwa, bo w podcaście, który nagrywaliśmy w Techlandzie padły słowa, że Game Dev School już nie istnieje.
+
+00:03:20.800 --> 00:03:31.800
+Game Dev School to jest taka słynna polska kurs robienia gier, w której nawet wykład miał słynny Remigiusz Maciaszek.
+
+00:03:31.800 --> 00:03:34.800
+To prawda? Pamiętasz to?
+
+00:03:34.800 --> 00:03:36.800
+Tak, potwierdzam, pamiętam.
+
+00:03:36.800 --> 00:03:41.800
+I okazało się, że to nie jest prawda i że to kurs miał tylko małą przerwę.
+
+00:03:41.800 --> 00:03:45.800
+Myślałem, że to nie jest prawda, że wykładał pan Remigiusz.
+
+00:03:45.800 --> 00:03:51.800
+Kiedyś tak, teraz to już nieprawda. No i kurs miał małą przerwę i wrócił i to jest oczywiście kurs roczny.
+
+00:03:51.800 --> 00:04:03.800
+Ja Wam oczywiście w ramach rekompensaty dla Celarka polecam, bo to krzywdzące było, że powiedziałem, że nie istnieje, chociaż były przesłanki.
+
+00:04:03.800 --> 00:04:09.800
+I jest otwarte, można się rejestrować, jak jesteście zainteresowani robieniem gier.
+
+00:04:09.800 --> 00:04:18.800
+To już tak, nie płacą mi za to, żeby nie było wątpliwości, ale ja dużo czasu spędziłem na tym kursie, bo tam Maciek Miosik był dyrektorem programowym kiedyś.
+
+00:04:18.800 --> 00:04:21.800
+Ja tam, jak do niego jeździłem, to często tam bywałem.
+
+00:04:21.800 --> 00:04:33.800
+No i to jest porządny, porządny, chwalony kurs i co najważniejsze, bardzo wielu absolwentów jest w gamedevie i to na różnych stanowiskach i w bardzo różnych firmach.
+
+00:04:33.800 --> 00:04:42.800
+Jak jesteście zainteresowani karierą w gamedevie, myślę, że to jest bardzo dobry kierunek, do 25 listopada można się rejestrować.
+
+00:04:42.800 --> 00:04:44.800
+Link macie w opisie.
+
+00:04:44.800 --> 00:04:47.800
+Tak, polecamy i zachęcamy.
+
+00:04:47.800 --> 00:04:53.800
+A ja dzisiaj miałem grać tego Pentimenta i potem ktoś mi powiedział, ej, a wiesz, że już można grać Smogiem w World of Warcraft.
+
+00:04:53.800 --> 00:04:58.800
+Ja mówię, dobra, to sprawdzę, stworzę sobie postać i tak po trzech godzinach się okazało, że już muszę zamykać streama.
+
+00:04:58.800 --> 00:05:03.800
+Dobrze się bawiłem, dobrze się bawiłem, ale z rzeczy sprzętowych muszę się poskarżyć.
+
+00:05:03.800 --> 00:05:12.800
+Ja używam takiej myszki, która się nazywa Razer, chyba Molten, ona ma takie 12 guzików z boku, jest taka bardzo charakterystyczna
+
+00:05:12.800 --> 00:05:19.800
+i używam tych myszek już z 8 czy 9 lat, bo po prostu się tak bardzo do nich przyzwyczaiłem, zwłaszcza w grach MMO i bardzo sobie chwalę,
+
+00:05:19.800 --> 00:05:24.800
+ale w myszce, którą już miałem ze 3 lata teraz, prawy przycisk myszki przestał działać.
+
+00:05:24.800 --> 00:05:33.800
+To znaczy, jak klikniesz, to nie zawsze trzyma tego kliknięcia, więc puszcza, naciska jeszcze raz, mimo że masz wciśnięte i mówię,
+
+00:05:33.800 --> 00:05:39.800
+dobra, no to na szczęście zawsze kupuję dwie, bo miałem zapas, mówię, to wyciągnę, nówka, piękna, w ogóle bez śladu używania
+
+00:05:39.800 --> 00:05:44.800
+i używam tej nowej i się okazało, że i prawy, i lewy tak samo są skopane, że po prostu nie trzymają.
+
+00:05:44.800 --> 00:05:48.800
+Mówię, kurde, jak mnie ta firma tak mogła zawieść strasznie.
+
+00:05:48.800 --> 00:05:50.800
+Rozebrać, przeczyścić.
+
+00:05:50.800 --> 00:05:52.800
+Ale nową myszkę już trzeba rozbierać i przeczyszczać.
+
+00:05:52.800 --> 00:05:54.800
+A była w oryginalnym opakowaniu, tam zamknięta?
+
+00:05:54.800 --> 00:06:03.800
+Tak, tak, zamknięta sterynnie, no więc będę musiał się rozejrzeć za nowym, a ja strasznie uwielbiam, to jest jedna z mniejszych myszek, która na kółku,
+
+00:06:03.800 --> 00:06:09.800
+oprócz tego, że góra, dół i wciśnięcie w głąb, ma jeszcze w prawo i lewo i to jest super dla mnie rzecz
+
+00:06:09.800 --> 00:06:13.800
+i chyba są jakieś takie myszki LG, które mają też taką funkcjonalność.
+
+00:06:13.800 --> 00:06:14.800
+LG?
+
+00:06:14.800 --> 00:06:16.800
+Albo Logitech.
+
+00:06:16.800 --> 00:06:17.800
+Logitech?
+
+00:06:17.800 --> 00:06:26.800
+Tak, Logitech, mylą mi się często nazwy, więc chyba sobie sięgnę, ktoś mi tam polecą i przetestuję.
+
+00:06:26.800 --> 00:06:34.800
+Więc jestem zawiedziony strasznie, to nigdy te myszki tutaj, tej Razera mnie do tej pory nie zawiodły, a tutaj, proszę, taka smutna niespodzianka.
+
+00:06:34.800 --> 00:06:41.800
+I sam sobie kupiłem je, żeby wszystko było jasne, więc to nie jest tak, że ktoś mi dał i ja teraz narzekam jeszcze darowanemu koniowi w zęby.
+
+00:06:41.800 --> 00:06:45.800
+Jak kupiłeś, to można narzekać, jak ci dali za darmo, to tak średnio, nie?
+
+00:06:45.800 --> 00:06:51.800
+Tak, to prawda. Nie mam pojęcia, jakie są zasady moralne w takiej sytuacji.
+
+00:06:51.800 --> 00:06:57.800
+Moralne zasady są takie, żeby być najlepiej szczerym, mi się wydaje.
+
+00:06:57.800 --> 00:07:11.800
+Dadzą za darmo, zepsuje się, to co? Jaka jest wartość jakiejś bzdurnej myszki czy czegoś w kontekście relacji twórcy z widzem?
+
+00:07:11.800 --> 00:07:15.800
+Oczywiście, nie musisz mnie poczuć amoralności, absolutnie jestem pozbawiony.
+
+00:07:15.800 --> 00:07:23.800
+Więc znasz się na tym najlepiej, bardzo się z tego powodu cieszę.
+
+00:07:23.800 --> 00:07:42.800
+Wykonałem Remigiuszu kroki, aby sytuacja z Ragnarokiem się nie powtarzała i żebyśmy mieli od Sony wcześniejszy dostęp do, taki recenzencki dostęp do gier.
+
+00:07:42.800 --> 00:07:47.800
+Miałem dzisiaj rozmowę telefoniczną z PlayStation Polska.
+
+00:07:47.800 --> 00:07:53.800
+Jesteś czarujący, na pewno ich przekonałeś.
+
+00:07:53.800 --> 00:07:59.800
+Powiedzieli, że może się uda.
+
+00:07:59.800 --> 00:08:04.800
+Czy w ogóle rozmawiamy, czy wy wiecie, co my robimy?
+
+00:08:04.800 --> 00:08:07.800
+Podobnież tak, ale zobaczymy.
+
+00:08:07.800 --> 00:08:21.800
+Następna gra, duża od Sony, to jest najprawdopodobniej Spiderman 2, więc wtedy się przekonamy, czy Sony nas potraktowało poważnie, czy nas poważnie nie potraktowało.
+
+00:08:21.800 --> 00:08:24.800
+A ja jeszcze jedną rzecz, jeszcze jedno sprostowanie.
+
+00:08:24.800 --> 00:08:37.800
+Proszę Państwa, w odcinku, gdzie omawialiśmy tego Marvela ostatniego, Black Panther Wakanda Forever, ja się śmiałem z tej sceny, gdzie tam spływają z skafandrem, a potem bez tego skafandra wypływają.
+
+00:08:37.800 --> 00:08:45.800
+Dużo osób napisało w komentarzu, że to jest przecież już wyżej postawione miejsce i już można bez skafandra wypłynąć.
+
+00:08:45.800 --> 00:08:54.800
+Nie wiem, ja tego tak nie odebrałem, ale zrobię, jak będzie już na Disney Plusie, sprawdzę sobie dokładnie.
+
+00:08:54.800 --> 00:09:01.800
+W tym momencie posypuję głowę popiołem, że jeżeli to źle zinterpretowałem, czy pomyliłem się, to mówię o tym, że się pomyliłem.
+
+00:09:01.800 --> 00:09:08.800
+Niewiele to zmienia w mojej ocenie tego filmu, ale dla pewności mówię.
+
+00:09:08.800 --> 00:09:10.800
+Czy ty wiesz, o jakiej scenie ja mówię?
+
+00:09:10.800 --> 00:09:16.800
+Zaczynam się zastanawiać skąd, bo my widzowie filmów Marvela lubimy się oszukiwać bardzo mocno, ale chyba tutaj mają widzowie rację.
+
+00:09:16.800 --> 00:09:28.800
+Faktycznie to było pierwsze miejsce, do którego więźniowie zostali sprowadzeni, a dopiero potem przy użyciu skafandra gdzieś tam głębiej zeszli, więc to ma jakiś sens fabularny.
+
+00:09:28.800 --> 00:09:35.800
+Możliwe, że tak było. Nie wiem, znaczy uznaję, że macie rację, żeby nie było żadnych wątpliwości.
+
+00:09:35.800 --> 00:09:41.800
+Mój błąd, źle to zinterpretowałem. To są skomplikowane filmy.
+
+00:09:41.800 --> 00:09:45.800
+Taki prosty mój umysł, nie wyłapuje takich niuansów.
+
+00:09:45.800 --> 00:09:53.800
+Ale też był jedno, że ten mój żart typu wychodzi baba z wody i jest sucha.
+
+00:09:53.800 --> 00:09:56.800
+Jeden z widzów napisał, że przecież to był sen.
+
+00:09:56.800 --> 00:10:06.800
+I przypomniało mi się, że to był argument przy 365 dniach. Głupoty scenariusza.
+
+00:10:06.800 --> 00:10:10.800
+Autorka książki mówiła, że przecież to jest sen, to tam się wszystko może zdarzyć.
+
+00:10:10.800 --> 00:10:16.800
+Ja mówię tak, no dobra, okej, niech będzie. Ten argument dla mnie jest memem już.
+
+00:10:16.800 --> 00:10:28.800
+I to chyba wszystko z mojej strony. Nie! Proszę Państwa, taka książka, wbrew regułom gry.
+
+00:10:28.800 --> 00:10:33.800
+Dzisiaj dostałem pocztą taką książkę, mimo że jej nie zamawiałem.
+
+00:10:33.800 --> 00:10:38.800
+I nie wiem, czy Kosman tutaj zrobił mi taki ładny prezent, czy się pomylił,
+
+00:10:38.800 --> 00:10:43.800
+bo do tej pory wszystkie jego książki zamawiałem i po prostu z automatu mogło to pójść.
+
+00:10:43.800 --> 00:10:52.800
+Marcin, daj znać, nie zapłaciłem Ci, to Ci zapłacę. Książka kosztuje ile? 54,99. Okładkowa cena.
+
+00:10:52.800 --> 00:10:57.800
+Ale chciałem sobie tą książkę, tylko czekałem na e-booka, bo kupuję u Marcina,
+
+00:10:57.800 --> 00:11:03.800
+czyli w OpenBecie, wszystkie książki, a potem kupuję jeszcze raz na e-booku
+
+00:11:03.800 --> 00:11:11.800
+i czytam dopiero na e-booku, bo jakoś tak mi lepiej Kindle'a nosić ze sobą niż książkę.
+
+00:11:11.800 --> 00:11:13.800
+Sentyment do papieru.
+
+00:11:13.800 --> 00:11:17.800
+Właśnie nie mam do końca sentymentu do papieru. Kupuję, bo wspieram,
+
+00:11:17.800 --> 00:11:26.800
+bo uważam, że dobrze, że ktoś wydaje polskie wersje książek dotyczących branży gier.
+
+00:11:26.800 --> 00:11:29.800
+No to pochwalam takie wspieranie, to zawsze miło jest na pewno.
+
+00:11:29.800 --> 00:11:37.800
+Chciałem jeszcze jedną rzecz powiedzieć, a propos PlayStation i ich bardzo intensywnego doboru osób,
+
+00:11:37.800 --> 00:11:42.800
+którym przysłane są kopie wcześniej. Otóż w dniu premiery God of War,
+
+00:11:42.800 --> 00:11:46.800
+oczywiście pojawiły się gameplaye, ja też tam zaraz swoje wrzucałem.
+
+00:11:46.800 --> 00:11:49.800
+Miałem dostęp do gry dzień wcześniej, więc coś tam ponagrywałem,
+
+00:11:49.800 --> 00:11:52.800
+miałem trochę materiałów do przodu, ale przez pierwsze parę dni,
+
+00:11:52.800 --> 00:11:55.800
+nie wiem czy to się zmieniło teraz, jak wpisałem sobie God of War na YouTubie,
+
+00:11:55.800 --> 00:12:00.800
+to wyskakiwały tak absolutnie przespoilerowane okładki i tytuły filmów,
+
+00:12:00.800 --> 00:12:04.800
+to znaczy ci wszyscy tacy zaufani musieli ponagrywać te materiały wcześniej
+
+00:12:04.800 --> 00:12:10.800
+i tam są ważne elementy fabuły. Jak wpiszesz sobie God of War,
+
+00:12:10.800 --> 00:12:15.800
+to ci wyskoczy kilka takich okładek i takich tytułów, które ci zdradzają wszystko,
+
+00:12:15.800 --> 00:12:19.800
+co jest najważniejsze w tej grze. To jest masakra. Ten poziom spoilerowania,
+
+00:12:19.800 --> 00:12:22.800
+jaki się wydarzył w przypadku God of War, to jeszcze nigdy wcześniej nie miałem
+
+00:12:22.800 --> 00:12:27.800
+z czymś takim do czynienia, więc ten filtr, który PlayStation stosuje wobec swoich twórców,
+
+00:12:27.800 --> 00:12:31.800
+którym podrzucają wcześniej gry, jest trochę niesprawny.
+
+00:12:31.800 --> 00:12:35.800
+Albo ludzie w ogóle nie mają żadnych absolutnie skropołów w rzucaniu materiałów.
+
+00:12:35.800 --> 00:12:40.800
+Ale to mówisz o takich większych twórcach, no bo też w Polsce przynajmniej była taka sytuacja,
+
+00:12:40.800 --> 00:12:46.800
+że sklepy za wcześnie wysłały kopie i ludzie tacy po prostu ktoś tam sobie kupił,
+
+00:12:46.800 --> 00:12:51.800
+dostał wcześniej i grali na Twitchu już wcześniej, przed tym takim embargo
+
+00:12:51.800 --> 00:12:55.800
+dla streamerów już były, no bo ludzie dostali po prostu kopie.
+
+00:12:55.800 --> 00:12:59.800
+Takich sytuacji oczywiście nie da się nad nimi mieć żadnej kontroli.
+
+00:12:59.800 --> 00:13:03.800
+Ja to bardziej mówię z uwagą do ludzi, którzy wrzucają filmy.
+
+00:13:03.800 --> 00:13:07.800
+W Polsce to się chyba nie zdarzyło. To raczej zagraniczne filmy.
+
+00:13:07.800 --> 00:13:12.800
+Tak absurdalne spoilery. Wiesz, to nawet jak ktoś tam ogląda Let's Play,
+
+00:13:12.800 --> 00:13:15.800
+no to wie, że zobaczy kawałek gry i to nie jest dla niego żadna niespodzianka.
+
+00:13:15.800 --> 00:13:18.800
+Natomiast wpisujesz zupełnie niewinnie, bo chcesz sobie zobaczyć trailer
+
+00:13:18.800 --> 00:13:21.800
+albo chcesz sobie zobaczyć datę premiery gdzieś wpisujesz na YouTubie
+
+00:13:21.800 --> 00:13:25.800
+i ci wyskakują ci filmy, które są jakby totalnie rujnują ważne elementy fabuły.
+
+00:13:25.800 --> 00:13:29.800
+I to tak, wiesz, niepodważalnie. To widać na okładce, co się dzieje
+
+00:13:29.800 --> 00:13:32.800
+bardzo wyraźnie i widać w tytule, co się wydarzy za chwilę.
+
+00:13:32.800 --> 00:13:35.800
+Więc to są takie, wiesz, takie trzyminutowe scenki.
+
+00:13:35.800 --> 00:13:42.800
+A powiedz mi, uważasz, że to działa? Znaczy w sensie, że to ma lepsze wyświetlenia?
+
+00:13:42.800 --> 00:13:47.800
+Są takie jakieś rzeczy właśnie spoilerowe? Bo jak tak, to wrzucamy.
+
+00:13:47.800 --> 00:13:50.800
+Nie, no nie. Oczywiście, że nie wrzucamy, ale no najwyraźniej działa.
+
+00:13:50.800 --> 00:13:54.800
+Po pierwsze ludzie by tego nie robili. Wiesz, to jest taki rodzaj materiału,
+
+00:13:54.800 --> 00:13:59.800
+który bardzo dobrze się ogląda i fantastycznie się nadaje ileś tam lat po premierze gry.
+
+00:13:59.800 --> 00:14:02.800
+I bo to ludzie lubią wracać do takich ważnych scen.
+
+00:14:02.800 --> 00:14:05.800
+Ja czasami, są takie kanały na YouTubie, które się specjalizują
+
+00:14:05.800 --> 00:14:09.800
+w wycinaniu ciekawych fragmentów filmu. Na przykład, wiesz, jakaś tam scena,
+
+00:14:09.800 --> 00:14:12.800
+jak coś się dzieje. Ja czasami jak film lubiłem, a nie mam ochoty
+
+00:14:12.800 --> 00:14:14.800
+albo okazji do niego wrócić, to mówię, a przypomnę sobie tą scenę,
+
+00:14:14.800 --> 00:14:19.800
+bo była fajnie zagrana. I wydaje mi się, że ta sama tendencja jest w przypadku gier
+
+00:14:19.800 --> 00:14:22.800
+i ludzie wrzucają te filmy jak najwcześniej, żeby one się już dobrze spozycjonowały
+
+00:14:22.800 --> 00:14:26.800
+w Google'ach i jak kiedyś będzie ktoś tego szukał, to mu się wyświetli
+
+00:14:26.800 --> 00:14:29.800
+i dlatego te sceny są takie. Wiesz, no to jest strategia pewnego rodzaju,
+
+00:14:29.800 --> 00:14:35.800
+ale jeżeli ktoś jest miłośnikiem gier, to myślę, że to taki nie do końca fajnie,
+
+00:14:35.800 --> 00:14:39.800
+że to się dzieje już teraz. Zresztą, wiesz, no co ja tam mogę powiedzieć.
+
+00:14:39.800 --> 00:14:42.800
+Z perspektywy wielu osób fakt, że ja wrzucam przejście całej gry,
+
+00:14:42.800 --> 00:14:46.800
+może nie od razu, ale tam po jakimś czasie, to też jest krzywdzące dla gry.
+
+00:14:46.800 --> 00:14:51.800
+I tyle, więc ja byłbym hipokrytą, gdybym jakoś super mocno krytykował,
+
+00:14:51.800 --> 00:14:54.800
+ale uważam, że to jest takie... Znaczy, mi się to przydarzyło
+
+00:14:54.800 --> 00:15:00.800
+i jakoś tak się nieswojo z tym czułem. Boże drogi, jak ja coś wrzucam,
+
+00:15:00.800 --> 00:15:03.800
+to jest tylko odcinek 24, nic nie widać, nic nie wiadomo.
+
+00:15:03.800 --> 00:15:08.800
+Nikt przynajmniej nikogo nie wezmie z zaskoczenia, no i może to mnie jakoś, wiesz...
+
+00:15:08.800 --> 00:15:12.800
+Chciałbym zauważyć, że interpretacja co jest spoilerem, a co nie jest spoilerem
+
+00:15:12.800 --> 00:15:16.800
+jest bardzo szeroka, a sami się złapaliśmy w naszej grupie, że był oskarżenie,
+
+00:15:16.800 --> 00:15:26.800
+że ocena na metakrytiku jest spoilerem. Więc ja akurat bardzo spokojnie podchodzę.
+
+00:15:26.800 --> 00:15:30.800
+Ja się w ogóle nie boję spoilerów, ani do filmów, ani do gier.
+
+00:15:30.800 --> 00:15:38.800
+Lubię rozmawiać o fabule, wręcz... No tylko też szanuję to, że ktoś nie lubi.
+
+00:15:38.800 --> 00:15:44.800
+My będziemy dzisiaj w odcinku o Gowie starali się jak najbardziej unikać spoilerów
+
+00:15:44.800 --> 00:15:48.800
+i to z jedynki, i to z dwójki. Ale nie jesteś w stanie przewidzieć,
+
+00:15:48.800 --> 00:15:52.800
+co dla kogo będzie spoilerem.
+
+00:15:52.800 --> 00:15:56.800
+Wiesz, że ja mam też luźne podejście do spoilerów.
+
+00:15:56.800 --> 00:16:02.800
+I rozumiem, że też dzieła gamingowe, często też filmy, zwłaszcza takie widowiskowe,
+
+00:16:02.800 --> 00:16:05.800
+które ja lubię oglądać, a które wielkiej wartości intelektualnej nie mają,
+
+00:16:05.800 --> 00:16:08.800
+no to tam spoiler niewiele ci popsuje. Natomiast w przypadku takiej akurat gry,
+
+00:16:08.800 --> 00:16:13.800
+gdzie fabuła jest dosyć istotna i te zmiany, i zachowanie bohaterów względem siebie
+
+00:16:13.800 --> 00:16:17.800
+jest dosyć istotne, zwłaszcza na początku, z czego ono wynika, jak ono się może zmienić.
+
+00:16:17.800 --> 00:16:23.800
+Kiedy już się o tym dowiadujesz na samym starcie, to trochę masz tak popsutą zabawę.
+
+00:16:23.800 --> 00:16:28.800
+I rzecz polega na tym, że to jest... Kiedy wchodzisz na YouTube'a i wiesz,
+
+00:16:28.800 --> 00:16:31.800
+w co się bakujesz, w jaki kanał wchodzisz, wiesz, że będziesz oglądał Let's Play,
+
+00:16:31.800 --> 00:16:35.800
+że tam jest fabuła zdradzana, to możesz podjąć jakąś sensowną decyzję.
+
+00:16:35.800 --> 00:16:38.800
+Natomiast jak wpiszesz taką niewinną frazę jak God of War i od razu na dzień dobry
+
+00:16:38.800 --> 00:16:43.800
+dostajesz 20 takich ciężkich spoilerów, no to trochę niefajnie i to raczej jest nieprzyjemne.
+
+00:16:43.800 --> 00:16:47.800
+Mi się przytrafiły takie rzeczy. Ja co prawda mam kawał gry za sobą,
+
+00:16:47.800 --> 00:16:50.800
+ale pomyślałem sobie, Jezu, jakby ktoś tak... Wiesz, to jest tak, że czasami ludzie
+
+00:16:50.800 --> 00:16:53.800
+mi piszą komentarze, kurde, obejrzałbym rok u ciebie ten Let's Play,
+
+00:16:53.800 --> 00:16:56.800
+bo fajnie to nagrywasz, ale chciałbym sam przejść, nie?
+
+00:16:56.800 --> 00:17:00.800
+I myślę sobie, Boże drogi, no to ty uważaj, bo tam jak już wszedłeś u mnie
+
+00:17:00.800 --> 00:17:04.800
+na jakiś jeden film, żeby to napisać, to jest szansa, że inny ci się pojawi nawet,
+
+00:17:04.800 --> 00:17:09.800
+w propozycjach, który jest takim spoilerem, że głowa mała, nie?
+
+00:17:09.800 --> 00:17:13.800
+Więc jak ludzie uważają na to, żeby unikać, to potem i tak się im może przytrafić,
+
+00:17:13.800 --> 00:17:19.800
+więc to takie jest. Mam taką niechęć wobec tego, ale to jakby żadna tragedia
+
+00:17:19.800 --> 00:17:22.800
+się nie dzieje oczywiście. To nie jest tak, że ja będę się łzami zalewał,
+
+00:17:22.800 --> 00:17:26.800
+szaty rozrywał, pisał do Google'a czy coś.
+
+00:17:26.800 --> 00:17:32.800
+Niestety spoilery to jest problem... To nie jest społeczny problem
+
+00:17:32.800 --> 00:17:36.800
+wszystkich, tylko to jest problem jednostek i to one sobie powinny
+
+00:17:36.800 --> 00:17:40.800
+załatwiać ten problem, a nie zrzucać odpowiedzialność na innych.
+
+00:17:40.800 --> 00:17:43.800
+Tak jak wspominałem, u nas raczej nie będzie żadnych spoilerów.
+
+00:17:43.800 --> 00:17:47.800
+Będziemy się starać, żeby nie zepsuć wam tej zabawy,
+
+00:17:47.800 --> 00:17:52.800
+chociaż sam uważam, że nawet największy spoiler tutaj nie zepsuje zabawy.
+
+00:17:52.800 --> 00:17:55.800
+Więc co? Może zaczniemy sobie już rozmawiać.
+
+00:17:55.800 --> 00:17:58.800
+Czy ja jestem gotowy jeszcze na tę rozmowę? Czekaj, niech pomyślę.
+
+00:17:58.800 --> 00:18:02.800
+Aha, jeszcze chciałbym o jednej rzeczy, żeby państwo wiedzieli, że my się orientujemy
+
+00:18:02.800 --> 00:18:06.800
+co się dzieje w naszym kraju, to wiemy, że się przydarzyła nieprzyjemna sytuacja
+
+00:18:06.800 --> 00:18:08.800
+albo właściwie tragedia tam na wschodzie.
+
+00:18:08.800 --> 00:18:16.800
+Ja już myślałem, że my będziemy jedynymi twórcami, którzy o tym nie będą mówić.
+
+00:18:16.800 --> 00:18:20.800
+Ja już spalone, bo ja dzisiaj zrobiłem vloga
+
+00:18:20.800 --> 00:18:28.800
+Rakiet 2, Wiedźmin 3, więc ja już wykorzystałem ten temat na maksa, jak tylko mogłem.
+
+00:18:28.800 --> 00:18:31.800
+Chciałem tylko, no masz rację, może nie powinniśmy o tym wspominać,
+
+00:18:31.800 --> 00:18:33.800
+ale tak, żeby państwo wiedzieli, że my się orientujemy,
+
+00:18:33.800 --> 00:18:36.800
+bo ktoś zaraz powie, czy gracie sobie w jakieś Kratosy,
+
+00:18:36.800 --> 00:18:40.800
+a tam bombardują Polaków, czy coś.
+
+00:18:40.800 --> 00:18:44.800
+No to czemu mam nie grać w Kratosa? Nie rozumiem.
+
+00:18:44.800 --> 00:18:56.800
+Komentarze w internecie czasami są głupie.
+
+00:18:56.800 --> 00:19:00.800
+Ja się nie odnoszę do ludzi, którzy piszą głupie komentarze,
+
+00:19:00.800 --> 00:19:03.800
+ale np. do takich, którzy się bardzo przejmują tą sytuacją
+
+00:19:03.800 --> 00:19:06.800
+i lepiej się czują, kiedy wiedzą, że ktoś inny się przejmuje.
+
+00:19:06.800 --> 00:19:09.800
+Moja rodzina np. się wczoraj przejmowała bardzo i pomyślałem,
+
+00:19:09.800 --> 00:19:12.800
+że im powspółczuję i że też się trochę wczuję i powiem, że tak,
+
+00:19:12.800 --> 00:19:15.800
+że to jest problem, zwłaszcza dla ludzi, którzy tam mieszkają,
+
+00:19:15.800 --> 00:19:17.800
+ale wy się nie przejmujcie.
+
+00:19:17.800 --> 00:19:23.800
+Wszystkim, którzy się przejmują, polecam nasz podcast z Krzyśkiem Lisem,
+
+00:19:23.800 --> 00:19:29.800
+gdzie np. rozmawiamy o tym, jak się przygotować do sytuacji krytycznych
+
+00:19:29.800 --> 00:19:33.800
+i dzięki tym przygotowaniom np. mniej można się przejmować.
+
+00:19:33.800 --> 00:19:37.800
+Inaczej wygląda sytuacja, kiedy przychodzi jakaś ekstremalna sytuacja
+
+00:19:37.800 --> 00:19:42.800
+i ty wiesz jak się zachować, konkretnie co masz robić,
+
+00:19:42.800 --> 00:19:46.800
+np. gdzie uciec z rodziną, albo jak ją bronić,
+
+00:19:46.800 --> 00:19:52.800
+albo nie musisz biec do sklepu, bo masz zapas jedzenia i papieru toaletowego,
+
+00:19:52.800 --> 00:19:55.800
+a inaczej jak jesteś nieprzygotowany i się boisz o swoją przyszłość,
+
+00:19:55.800 --> 00:19:57.800
+no bo jesteś nieprzygotowany.
+
+00:19:57.800 --> 00:20:00.800
+Tak jest, tak. Proszę być przygotowanym.
+
+00:20:00.800 --> 00:20:02.800
+Więc tak, lepiej się przygotowywać.
+
+00:20:02.800 --> 00:20:05.800
+God of War Ragnarok, proszę państwa, to najnowsza gra
+
+00:20:05.800 --> 00:20:10.800
+od Santa Monica Studio i największa premiera PlayStation tego roku.
+
+00:20:10.800 --> 00:20:17.800
+Następca GoWa z 2018 jest też końcem cyklu nordyckiego
+
+00:20:17.800 --> 00:20:20.800
+i piątą główną, z tego co pamiętam, odsłoną cyklu.
+
+00:20:20.800 --> 00:20:24.800
+Popatrzyłem sobie na Wikipedii, to wszystkie łącznie z dodatkami,
+
+00:20:24.800 --> 00:20:30.800
+tam już jest 15 tytułów i jest to bezpośrednia kontynuacja tej gry z 2018,
+
+00:20:30.800 --> 00:20:36.800
+więc my też postaramy się nie mówić w ogóle o fabule tej i poprzedniej gry,
+
+00:20:36.800 --> 00:20:42.800
+no bo wiem, że wielu naszych widzów jest wrażliwa na punkcie spoilerów,
+
+00:20:42.800 --> 00:20:46.800
+a my też nie wiemy do końca, co jest spoilerem, co jest niespoilerem.
+
+00:20:46.800 --> 00:20:53.800
+Tutaj opiera się na takim ogólnym celu ta gra, czyli uratowania świata.
+
+00:20:53.800 --> 00:20:59.800
+W tle mamy wątek dorastania i wątek straty, który jest bardzo też mocny,
+
+00:20:59.800 --> 00:21:03.800
+przemierzamy sobie nordyckie światy, poznajemy dużo innych bohaterów,
+
+00:21:03.800 --> 00:21:07.800
+zabijamy setki potworów i rozwiązujemy mnóstwo zagadek.
+
+00:21:07.800 --> 00:21:13.800
+Ja grałem w grę na normalu, na PlayStation 5, mam jakieś 18 godzin,
+
+00:21:13.800 --> 00:21:21.800
+tak mi pokazuje save w ogóle, ale w playach mi pokazuje, że mam 25 godzin.
+
+00:21:21.800 --> 00:21:24.800
+Nie wiem, z czego ta różnica jest, ale nie wiem.
+
+00:21:24.800 --> 00:21:31.800
+Grałem w 60 klatkach, kod od gry otrzymałem po premierze od PlayStation Polska.
+
+00:21:31.800 --> 00:21:36.800
+To u mnie końcówka brzmi dokładnie tak samo, z tą różnicą, że mam ponad 28 godzin,
+
+00:21:36.800 --> 00:21:41.800
+ale w plikach, które zapisuje sobie rozgrywka, jest faktycznie trochę więcej tych godzin,
+
+00:21:41.800 --> 00:21:50.800
+więc tam jest jakieś, inaczej to jest liczone, może jak giniesz i potem robisz jeszcze raz kawałek contentu.
+
+00:21:50.800 --> 00:21:54.800
+Miałem dużo takich walk z ciężkimi bossami, które musiałem powtarzać parę razy,
+
+00:21:54.800 --> 00:21:58.800
+więc być może to się jakoś nie zliczyło.
+
+00:21:58.800 --> 00:22:04.800
+Pogadamy sobie o wielu rzeczach i pewnie na dzień dobry wywołasz mnie do odpowiedzi,
+
+00:22:04.800 --> 00:22:05.800
+jak to miewasz w zwyczaju.
+
+00:22:05.800 --> 00:22:08.800
+Ja mogę jeszcze jedną rzecz na początku.
+
+00:22:08.800 --> 00:22:15.800
+Ja bardzo chciałbym pochwalić twórców za ogromne, kompleksowe wsparcie tej gry
+
+00:22:15.800 --> 00:22:17.800
+dla osób z niepełnosprawnościami.
+
+00:22:17.800 --> 00:22:21.800
+I muszę przyznać, że The Last of Us też miało takie,
+
+00:22:21.800 --> 00:22:24.800
+że tam osoby niewidome mogą grać praktycznie w tą grę.
+
+00:22:24.800 --> 00:22:30.800
+Wielkie brawa, tak się to powinno robić i mam nadzieję,
+
+00:22:30.800 --> 00:22:36.800
+że takie podejście do graczy z niepełnosprawnościami będzie standardem.
+
+00:22:36.800 --> 00:22:40.800
+Tak, tak, to prawda, to jest zdecydowanie godne uwagi.
+
+00:22:40.800 --> 00:22:44.800
+Ja właściwie nawet jedną z opcji sobie włączyłem, bo nie lubię strasznie szybko klikać w klawisz,
+
+00:22:44.800 --> 00:22:48.800
+więc mam przytrzymanie i to jest takie jedyne ułatwienie, na które sobie pozwoliłem,
+
+00:22:48.800 --> 00:22:53.800
+bo też grałem na normalu, też grałem na PS5 i też dostałem kluczyk
+
+00:22:53.800 --> 00:22:56.800
+i też bardzo dziękuję za ten kluczyk troszkę przed premierą, bo tam chyba jeden dzień,
+
+00:22:56.800 --> 00:22:59.800
+więc mogłem sobie pograć odrobinę wcześniej.
+
+00:22:59.800 --> 00:23:05.800
+I takie mam smutne refleksje przechodząc tę grę i zbliżając się do końca.
+
+00:23:05.800 --> 00:23:11.800
+Trudno mi powiedzieć, kiedy ja dostanę następną grę tej jakości,
+
+00:23:11.800 --> 00:23:16.800
+która ma do zaoferowania taką historię, jest na tyle kompletna i sprawi mi tyle frajdy.
+
+00:23:16.800 --> 00:23:20.800
+To jest takie frajdy z jednej strony gameplayowej, z drugiej strony emocjonalnej.
+
+00:23:20.800 --> 00:23:24.800
+To jest dobrze opowiedziana historia z ciekawie zbudowanym światem,
+
+00:23:24.800 --> 00:23:27.800
+z fajnymi interakcjami między postaciami.
+
+00:23:27.800 --> 00:23:31.800
+Można, wiesz, gra to jest zawsze taki świat, w który chciałbyś uwierzyć jak najbardziej.
+
+00:23:31.800 --> 00:23:34.800
+Im bardziej w niego uwierzysz, tym lepiej się bawisz. Ja tak mam.
+
+00:23:34.800 --> 00:23:38.800
+I ten świat pozwala w siebie uwierzyć, pozwala się wczuć w tę postacię.
+
+00:23:38.800 --> 00:23:41.800
+I sprawił mi dużo, dużo frajdy.
+
+00:23:41.800 --> 00:23:46.800
+I tak, wiesz, jak patrzę sobie na tę grę, która na pewno się świetnie sprzeda i swoje zarobi,
+
+00:23:46.800 --> 00:23:50.800
+ale potem patrzę na takiego Diablo Immortal i myślę sobie, Boże drogi,
+
+00:23:50.800 --> 00:23:56.800
+czy w najbliższych latach ludziom, którzy robią gry w ogóle będzie się opłacało robić gry takie ambitne
+
+00:23:56.800 --> 00:24:01.800
+z taką opowieścią, gdy można, wiesz, walnąć gowa na przykład nowego na mobilkę
+
+00:24:01.800 --> 00:24:04.800
+i zarobić trzy razy więcej w trzy razy szybciej.
+
+00:24:04.800 --> 00:24:08.800
+Poczekaj chwilę, to ja odniosę się tutaj do ciebie, bo pamiętaj o tym, że...
+
+00:24:08.800 --> 00:24:12.800
+Chcesz mój smutek rozwiać, chcesz moje rozwiegości i co trochę rozwiać.
+
+00:24:12.800 --> 00:24:18.800
+Po pierwsze, mobilki to jest bardzo trudny rynek i to nie jest tak, że robisz sobie mobilkę i tam zarabiasz od razu miliony.
+
+00:24:18.800 --> 00:24:23.800
+Ale zaraz, jak masz markę silną, taką jak na przykład Diablo albo taką jak God of War.
+
+00:24:23.800 --> 00:24:30.800
+Myślę, że znajdziemy jakieś mocne marki, które są na mobilkach i tam jakoś nie zarobiły miliardów.
+
+00:24:30.800 --> 00:24:39.800
+Przypomnę ci o Elden Ringu, który się sprzedał niesamowicie, głównie grą singlową bez żadnych mikropłatności.
+
+00:24:39.800 --> 00:24:46.800
+20 milionów pod koniec roku jest prognozowana sprzedaż, w tej chwili 18 milionów sztuk.
+
+00:24:46.800 --> 00:24:54.800
+Rozmawialiśmy przy tym podcaście o Elden Ringu, że ja uważam, że nie ma co się marcić.
+
+00:24:54.800 --> 00:25:00.800
+Ono jest też taką firmą, która dała nam Spidermana, The Last of Us, Uncharted.
+
+00:25:00.800 --> 00:25:13.800
+To są gry, oczywiście w niektórych jest opcja multi, ale to są gry single player, rozgrywka filmowa.
+
+00:25:13.800 --> 00:25:21.800
+To jest doświadczenie dla jednego gracza, którego ja oczywiście szukam, bo interesują mnie takie gry.
+
+00:25:21.800 --> 00:25:29.800
+Ja się o to nie martwię i wiem też, że jak patrzymy na zapowiedzi, to będziemy dostawać regularnie takie gry.
+
+00:25:29.800 --> 00:25:39.800
+Za pół roku dodatek, to znaczy za pół roku to ja nie wiem, stawiam, że pewnie w czerwcu będzie dodatek do Cyberpunka.
+
+00:25:39.800 --> 00:25:44.800
+Będziemy mieli Diablo 4, oczywiście to jest w dużej mierze multi gra,
+
+00:25:44.800 --> 00:25:54.800
+mam nadzieję, że nie będzie taka inwazyjna, jeżeli chodzi o jakieś tam niemiłe zagrywki.
+
+00:25:54.800 --> 00:25:57.800
+Ja się nie boję, dużo fajnych gier powstaje.
+
+00:25:57.800 --> 00:26:03.800
+Tak, to w obliczu tej radości, którą żeś mi teraz dostarczył, którą też gdzieś tam z tyłu głowy mam,
+
+00:26:03.800 --> 00:26:07.800
+to chciałem powiedzieć też, że nawet, że tak, to jest prawda, że może niepotrzebnie się martwię.
+
+00:26:07.800 --> 00:26:14.800
+Trochę, trochę, trochę owszem, ale też mam takie poczucie, że nawet wśród tych gier najwyższej kategorii
+
+00:26:14.800 --> 00:26:19.800
+God of War króluje pod wieloma względami, jeżeli chodzi o jakość opowiadanej historii,
+
+00:26:19.800 --> 00:26:24.800
+ale chyba trzeba jasno przyznać, że Cyberpunk także trzyma ten poziom,
+
+00:26:24.800 --> 00:26:28.800
+przynajmniej jeżeli chodzi o opowiadaną historię, więc chyba nawet się nie ma co martwić.
+
+00:26:28.800 --> 00:26:35.800
+Pół roku to można poczekać na kolejną taką opowieść, ale to moje rozterki i moje refleksje wynikają raczej z tego,
+
+00:26:35.800 --> 00:26:40.800
+że zbliżam się do zakończenia tej gry i wiem, że za tydzień albo góra, półtora,
+
+00:26:40.800 --> 00:26:43.800
+to już będzie ta gra tylko dla mnie wspomnieniem, bardzo dobrym zresztą,
+
+00:26:43.800 --> 00:26:50.800
+ale takie historie to chciałbym przeżywać częściej, no ale to nie może być tak cudownie w kwestii gier.
+
+00:26:50.800 --> 00:26:54.800
+Dostajemy różne, różne rzeczy, takie perełki się zdarzają raz na jakiś czas,
+
+00:26:54.800 --> 00:26:58.800
+a to niewątpliwie jest perełka dla mnie, to jest absolutnie cudowna gra
+
+00:26:58.800 --> 00:27:08.800
+i chyba najlepsza, w jaką grałem w ciągu ostatnich, no od czasu Cyberpunka, to chyba jest najlepsza gra, w jaką grałem, więc tak.
+
+00:27:08.800 --> 00:27:14.800
+Ciekawe, ciekawe. Ja mam na końcu, bo mam trochę pretensji do tej gry, muszę przyznać.
+
+00:27:14.800 --> 00:27:17.800
+Bardzo chętnie podyskutuję z tą tematu.
+
+00:27:17.800 --> 00:27:25.800
+Ale może zacznijmy od tego, co mi się podobało. Podobało mi się to, że można grać sobie i Kratosem i Atreusem.
+
+00:27:25.800 --> 00:27:29.800
+Uwaga, dla mnie to była duża niespodzianka.
+
+00:27:29.800 --> 00:27:31.800
+Czy to w zwiastunach było?
+
+00:27:31.800 --> 00:27:32.800
+Tak, tak, wiem.
+
+00:27:32.800 --> 00:27:35.800
+Jak mogła być niespodzianka, jak oglądałeś zwiastuny?
+
+00:27:35.800 --> 00:27:41.800
+Bo ja, wiesz, jak się fokusuję, jak wchodzę do gry, że nic nie widziałem, nic nie słyszałem.
+
+00:27:41.800 --> 00:27:43.800
+Nie, dla mnie to była niespodzianka.
+
+00:27:43.800 --> 00:27:47.800
+Niespodzianka dla mnie była, że Kratos nie mówi boy co 5 minut.
+
+00:27:47.800 --> 00:27:51.800
+Wiesz co, ja nie jestem do końca pewny, czy się z tobą zgodzę z tym, że to było na gameplayach.
+
+00:27:51.800 --> 00:27:57.800
+Ja jestem prawie pewien, że owszem było widać Atreusa w tle, ale on jakby był taką postacią, pokazywany był jako postać towarzysząca.
+
+00:27:57.800 --> 00:28:06.800
+Może masz rację, bo tutaj jakby, jeżeli nie trafiłem na takie trailery, to dobrze dla mnie.
+
+00:28:06.800 --> 00:28:10.800
+Bo dla mnie to było zaskoczenie i takie bardzo pozytywne, bo nagle gameplay się zmienił.
+
+00:28:10.800 --> 00:28:15.800
+Z takiego ciężkiego, powolnego, w taki super dynamiczny i szybki, Atreus dostarczył zupełnie nowych wrażeń.
+
+00:28:15.800 --> 00:28:19.800
+Więc to był kolejny plus dla mnie i cieszyłem się, że to się wydarzyło.
+
+00:28:19.800 --> 00:28:25.800
+Z Atreusem się grało fantastycznie, znaczy on też jest uproszczony w rozwoju, bo to jest jakiś...
+
+00:28:25.800 --> 00:28:34.800
+Później o tym powiem trochę, nie mamy jakichś takich buildów dla niego, raczej jest taki prosty rozwój,
+
+00:28:34.800 --> 00:28:40.800
+ale bardzo fajnie się strzela z tego łuku, no gameplay na bardzo wysokim poziomie.
+
+00:28:40.800 --> 00:28:46.800
+Ta walka trafiła mnie, ja wiem, że część osób narzeka, że za dużo jest tego Atreusa.
+
+00:28:46.800 --> 00:28:49.800
+Dla mnie to było takie przełamanie, znaczy jeszcze nie skończyłem gry, wiadomo,
+
+00:28:49.800 --> 00:28:57.800
+ale takie przełamanie, które urozmaica i nawet jak wracałem potem do Kratosa,
+
+00:28:57.800 --> 00:29:06.800
+to trochę mi brakowało tego, ale to jest super, że ta perspektywa się zmienia trochę.
+
+00:29:06.800 --> 00:29:13.800
+Ja się zgadzam z tobą, w ogóle ja mam takie wrażenie, bo ja grałem pierwszą część God of Wara,
+
+00:29:13.800 --> 00:29:21.800
+Miałem takie poczucie absolutnej władzy na polu bitwy posługując się Kratosem,
+
+00:29:21.800 --> 00:29:28.800
+że tam robiłem rzeczy cudowne i łatwo mi to przychodziło i bez problemu wyprowadzałem najbardziej skomplikowane ciosy.
+
+00:29:28.800 --> 00:29:35.800
+Natomiast tutaj mam jakiś problem, w sensie z mojej perspektywy jest dużo trudniej to co jest do przyjęcia,
+
+00:29:35.800 --> 00:29:41.800
+ale też znacznie trudniej jest mi się przyzwyczaić do tych wszystkich ciosów, które wyprowadza Kratos
+
+00:29:41.800 --> 00:29:43.800
+i zdarza mi się pomylić, gdzieś tam zapomnieć, pogubić.
+
+00:29:43.800 --> 00:29:49.800
+To może być też kwestia tego, że ja może już trochę, wiadomo, każdy się starzeje, ta zręczność jest mniejsza,
+
+00:29:49.800 --> 00:29:55.800
+ale miałem takie poczucie, że nie mogę tych umiejętności przerobić na instynkt,
+
+00:29:55.800 --> 00:30:00.800
+że cały czas mi się zdarza pomylić, są takie momenty, że się zatrzymuję i pomyślałem sobie
+
+00:30:00.800 --> 00:30:05.800
+kurde, chyba ten próg wejścia jest odrobinę wyższy przy Kratosie niż było to poprzednio
+
+00:30:05.800 --> 00:30:11.800
+i wydaje mi się, że ten system też jest trochę bardziej skomplikowany, co ma swoje zalety i najważniejsze
+
+00:30:11.800 --> 00:30:16.800
+wydaje mi się, że jest mniej trochę walk, żeby się przetrenować, żeby móc doświadczyć tych wszystkich
+
+00:30:16.800 --> 00:30:20.800
+albo po prostu to jest kwestia już wieku i już tak sobie doskonale nie radzę,
+
+00:30:20.800 --> 00:30:24.800
+natomiast w przypadku Atreusa nie miałem takich problemów, kiedy się jego łapie w ręce
+
+00:30:24.800 --> 00:30:28.800
+to ma się poczucie naprawdę takiej szybkiej, dynamicznej, nie mylisz się,
+
+00:30:28.800 --> 00:30:31.800
+robisz wszystkie rzeczy bardzo, bardzo intuicyjnie, przy Kratosie tego nie ma,
+
+00:30:31.800 --> 00:30:36.800
+ale ja też sobie to tak tłumaczę fabularnie, że to jest już żołnierz po przejściach,
+
+00:30:36.800 --> 00:30:40.800
+że on już może też nie jest taki szybki, sprawny i dynamiczny jak Atreus
+
+00:30:40.800 --> 00:30:44.800
+i on musi się trochę zastanowić, musi trochę włożyć siły więcej w te ciosy
+
+00:30:44.800 --> 00:30:48.800
+i to nie jest dla mnie aż takie płynne, ale też sprawia mi dużo przyjemności oczywiście
+
+00:30:48.800 --> 00:30:53.800
+i zgadzam się z tobą, że przejście na Atreusa okazjonalnie tak odświeża trochę to wrażenie
+
+00:30:53.800 --> 00:30:56.800
+i jest to przełamanie, o którym wspomniałeś, zgadzam się z tym jak najbardziej.
+
+00:30:56.800 --> 00:31:01.800
+W ogóle jakby walka jest bardzo podobna do tego, która była w poprzedniej części.
+
+00:31:01.800 --> 00:31:06.800
+Wydaje mi się, że jest trochę bardziej wymagająca.
+
+00:31:06.800 --> 00:31:07.800
+Tak, zgadzam się.
+
+00:31:07.800 --> 00:31:11.800
+Ale też jest satysfakcjonująca, ja się dobrze bawiłem.
+
+00:31:11.800 --> 00:31:15.800
+Walka z bossami też jest trochę podobna jak w jedynce.
+
+00:31:15.800 --> 00:31:19.800
+Mamy to oczywiście ich słabe punkty, trzeba je w jakiś sposób wykorzystać,
+
+00:31:19.800 --> 00:31:24.800
+czasami to jest strzał, czasami tarcza, czasami pomocnik musi strzelić
+
+00:31:24.800 --> 00:31:33.800
+albo musimy sprowokować jakieś zachowanie i wtedy temu bossowi się pojawia jakiś taki słabszy punkt.
+
+00:31:33.800 --> 00:31:43.800
+Ogólnie to jest, ja mam takie wrażenie, że tutaj dużo bardziej czerpali z nowoczesnych gier Mario w tytule.
+
+00:31:43.800 --> 00:31:46.800
+Tego nie mogę potwierdzić niestety.
+
+00:31:46.800 --> 00:31:51.800
+Ja cały czas cię naciskam, żebyś sobie chociaż tą Odyseję przeszedł.
+
+00:31:51.800 --> 00:31:56.800
+I też tak jak w Mario mamy wariacje przeciwników i też bardzo dobrze jest to zrobione.
+
+00:31:56.800 --> 00:32:01.800
+Że ten mix, że to jest tak, że poznajemy jednego przeciwnika, walczymy sobie z nim.
+
+00:32:01.800 --> 00:32:06.800
+Oczywiście cały czas są też inne mobki.
+
+00:32:06.800 --> 00:32:09.800
+No i potem ten w jakiś sposób remiks.
+
+00:32:09.800 --> 00:32:16.800
+Nawet tam są takie sytuacje, że niektórzy przeciwnicy wchodzą w interakcję z innymi.
+
+00:32:16.800 --> 00:32:23.800
+Jest taki, który sprawia, że inne mobki nie mogą być zabite, więc najpierw musisz jego zabić.
+
+00:32:23.800 --> 00:32:30.800
+Są takie duchy, które wchodzą w inne postacie i one są mocniejsze, więc fajnie to jest zrobione.
+
+00:32:30.800 --> 00:32:38.800
+Mi się to podoba, że nie mnoży się tych takich funkcji, tylko potrafi się je w kreatywny sposób wykorzystać.
+
+00:32:38.800 --> 00:32:41.800
+Remiksując je tak naprawdę z tym, co już mamy.
+
+00:32:41.800 --> 00:32:45.800
+No ale światy składają się głównie z korytarzowych lokacji.
+
+00:32:45.800 --> 00:32:48.800
+Chyba mamy cztery takie pseudo otwarte tereny.
+
+00:32:48.800 --> 00:32:50.800
+Nie mówimy tu o otwartym świecie.
+
+00:32:50.800 --> 00:32:56.800
+Mamy takie pseudo otwarte tereny, mamy takie huby z ludźmi i ze sklepami,
+
+00:32:56.800 --> 00:33:00.800
+albo tylko ze sklepami, gdzie możemy sobie odpocząć.
+
+00:33:00.800 --> 00:33:03.800
+To jest takie strasznie mocno oldschoolowe, muszę przyznać.
+
+00:33:03.800 --> 00:33:10.800
+Dawno nie grałem w taką grę, która by była AAA-em i rzeczywiście wracamy do wioski,
+
+00:33:10.800 --> 00:33:19.800
+żeby tam sprzedać rzeczy i zaktualizować sobie, uprząż, zbroję sobie poprawić.
+
+00:33:19.800 --> 00:33:23.800
+Mówisz o kowalach, którzy podróżują z nami, oni w dosyć magiczny sposób się przemieszczają.
+
+00:33:23.800 --> 00:33:27.800
+Przez chwilę myślałem, że mówisz, że tam jest jakieś miasto, w którym możesz chodzić po sklepikach.
+
+00:33:27.800 --> 00:33:28.800
+Ja nie przypominam sobie.
+
+00:33:28.800 --> 00:33:33.800
+Masz takie miejsce, gdzie jest kowal i też są postacie, z którymi możesz rozmawiać.
+
+00:33:33.800 --> 00:33:40.800
+Tak, tak, w porządku. Chociaż to też jakoś mi to umyka. Wiem, że z kowalem można wchodzić w interakcję,
+
+00:33:40.800 --> 00:33:44.800
+on też ma rzeczy do powiedzenia i robi fajne rzeczy. W ogóle jak już mówisz o tym sprzęcie,
+
+00:33:44.800 --> 00:33:52.800
+który jest, to muszę powiedzieć, że bardzo w bogaty sposób można wyposażenie Kratosa modyfikować.
+
+00:33:52.800 --> 00:33:57.800
+Zresztą naszych postaci towarzyszących także. I to mnóstwo frajdy zrobiło.
+
+00:33:57.800 --> 00:34:05.800
+W związku z tym, że to jest tak, że oręż, wasz pancerz składa się z trzech części i można te części tak z jednej strony
+
+00:34:05.800 --> 00:34:10.800
+fajnie mieć tą kompozycję, że jednorodną, bo ten pancerz wtedy ma swój klimat, ale z drugiej strony
+
+00:34:10.800 --> 00:34:14.800
+mieszając tymi częściami można uzyskać dodatkowe efekty, które sprawiają, że trochę walka się zmienia
+
+00:34:14.800 --> 00:34:20.800
+i można grać odrobinę odważniej. Mój ulubiony sprzęt to jest taki, który kiedy stracę życie zupełnie,
+
+00:34:20.800 --> 00:34:27.800
+to czerpię energię życiową z furii, więc furii w zasadzie używam tylko jako dodatkowego paska życia,
+
+00:34:27.800 --> 00:34:32.800
+ale w związku z tym, że moje życie takie zwyczajne jest praktycznie na zero, to mogę używać specjalnych amuletów,
+
+00:34:32.800 --> 00:34:38.800
+które zwiększają moje obrażenia, kiedy moje życie jest na niskim poziomie i to zmienia zupełnie sposób prowadzenia walki.
+
+00:34:38.800 --> 00:34:43.800
+Nie boicie się otrzymywać obrażeń, bo one wpływają pozytywnie na to, jakie obrażenia wy zadajecie
+
+00:34:43.800 --> 00:34:49.800
+i takich kombinacji podejrzewam, że jest dużo, dużo więcej. Są takie pancerze, które powodują, że się leczycie
+
+00:34:49.800 --> 00:34:55.800
+i takie, które ten efekt leczenia zwiększają, więc możecie sobie w taką stronę zagrać, jeżeli macie ochotę
+
+00:34:55.800 --> 00:34:58.800
+i tych kombinacji musi być więcej i one są ciekawe.
+
+00:34:58.800 --> 00:35:03.800
+Ja to czuję, mimo że ja się tym jakoś specjalnie nie zajmuję, ale widzę, że tam jest miejsce na to,
+
+00:35:03.800 --> 00:35:09.800
+że ludzie będą sobie robić konkretne buildy pod różny sposób gry i to jest super, że to jest zrobione.
+
+00:35:09.800 --> 00:35:14.800
+Ja mam trochę pretensje, że ten interfejs, nie chcę powiedzieć, że jest jakoś specjalnie skomplikowany,
+
+00:35:14.800 --> 00:35:17.800
+ale on nie jest intuicyjny.
+
+00:35:17.800 --> 00:35:22.800
+Ja, wiesz co, mogę się z tobą zgodzić, bo faktycznie on sprawia wrażenie skomplikowanego,
+
+00:35:22.800 --> 00:35:28.800
+natomiast ja uwielbiam takie mechaniki i dłubię sobie w tym, więc dla mnie po jakimś czasie on się zrobił intuicyjny,
+
+00:35:28.800 --> 00:35:34.800
+ale to jest tak, że faktycznie nie wchodzisz w niego i od razu mówisz wszystko, co gdzie jest, wręcz przeciwnie, trochę nie wiesz, co gdzie jest.
+
+00:35:34.800 --> 00:35:38.800
+Tam też system umiejętności został bardzo, bardzo rozwinięty, bo nie tylko macie umiejętności,
+
+00:35:38.800 --> 00:35:43.800
+ale te umiejętności także rozwijacie używając ich. To są takie tak zwane umiejętności skillowe,
+
+00:35:43.800 --> 00:35:48.800
+które kiedyś skillówki się nazywały te gry, że musicie jakieś umiejętności użyć np. 75 razy
+
+00:35:48.800 --> 00:35:52.800
+i potem otwiera wam się jakiś taki slot, który pozwala jeszcze zmodyfikować tę umiejętność,
+
+00:35:52.800 --> 00:35:59.800
+więc to jest rozległa droga przez to wszystko i ja jestem prawie pewien, że samo przejście gry to jest oczywiście przyjemność sama w sobie,
+
+00:35:59.800 --> 00:36:03.800
+bo to jest fabuła i historia, natomiast te endgame'owe zabawy, one mogą być tam rozległe
+
+00:36:03.800 --> 00:36:08.800
+i ciekaw jestem, na ile deweloperzy się jeszcze w to zaangażują, bo tam wiele fajnych mechanik można zrobić,
+
+00:36:08.800 --> 00:36:14.800
+właśnie nie tylko można kombinować ekwipunkiem, ale także można kombinować dodatkami do tego ekwipunku,
+
+00:36:14.800 --> 00:36:19.800
+umiejętnościami, jakie efekty dane umiejętności wywołują, więc tam jest ogromne pole do popisu.
+
+00:36:19.800 --> 00:36:24.800
+Powiedziałbym, że rozległość tego systemu kompletnie nie jest uzasadniona przez opowieść,
+
+00:36:24.800 --> 00:36:28.800
+ale daje dodatkową frajdę, jeżeli ktoś się lubi w te rzeczy bawić, to naprawdę ma cześć.
+
+00:36:28.800 --> 00:36:32.800
+Znaczy wiesz, my też graliśmy na normalu, myślę, że to na tych wyższych poziomach trudności,
+
+00:36:32.800 --> 00:36:39.800
+pozdrawiam wązia, może się okazać niezbędne, że ten build musisz mieć tak skonstruowany,
+
+00:36:39.800 --> 00:36:42.800
+bo inaczej będzie ciężko.
+
+00:36:42.800 --> 00:36:46.800
+No niestety te wyższe poziomy trudności to nie dowożą moim zdaniem,
+
+00:36:46.800 --> 00:36:50.800
+bo tam został zrobiony ten sam manewr, który w poprzedniej części gry miał miejsce,
+
+00:36:50.800 --> 00:36:54.800
+czyli Kratos zadaje mniej obrażeń, przeciwnicy zadają więcej.
+
+00:36:54.800 --> 00:36:58.800
+I to w taki sposób bardzo, bardzo drastyczny, więc w pewnym momencie jesteś zupełnie papierowy,
+
+00:36:58.800 --> 00:37:02.800
+a twoi przeciwnicy to tytanie i musisz unikać ciosów jak w Dark Soulsie.
+
+00:37:02.800 --> 00:37:07.800
+A tymczasem to zawsze mi się Kratos kojarzył z takim bykiem, który tam może przyjąć trochę na klatę.
+
+00:37:07.800 --> 00:37:10.800
+Więc nie jestem do końca fanem tych poziomów trudności w God of War,
+
+00:37:10.800 --> 00:37:14.800
+ale muszę przyznać, że ten normalny wyważony naprawdę jest wyważony.
+
+00:37:14.800 --> 00:37:21.800
+On potrafi dać popalić. Zresztą oglądałem jeszcze przed premierą pokazy dziennikarzy z IGN-u,
+
+00:37:21.800 --> 00:37:24.800
+którzy mieli strasznie, ja się strasznie cieszyłem jak patrzyłem na ich tamboje,
+
+00:37:24.800 --> 00:37:28.800
+mieli dużo, dużo problemów, żeby to ogarnąć na tym normalu.
+
+00:37:28.800 --> 00:37:33.800
+I tak mówili, że no nie radzę sobie tutaj, nie radzę. Ale to dobrze, to jak potem pokonam,
+
+00:37:33.800 --> 00:37:38.800
+to jaka to radość. Mówię, no to jasne, jasne. Też mam takie teksty, jak sobie nie radzę.
+
+00:37:38.800 --> 00:37:45.800
+Muszę przyznać, że mam wrażenie, że trochę bardziej wymagająca jest ta wersja.
+
+00:37:45.800 --> 00:37:51.800
+Mimo, że grałem na normalu i jedynkę i teraz tą drugą część, tak to nazwijmy,
+
+00:37:51.800 --> 00:37:59.800
+to wydaje mi się, że ta walka jest tutaj wymagająca, jest chyba trochę ciekawsza,
+
+00:37:59.800 --> 00:38:06.800
+ale za to dużo więcej poza walką jest tych zagadek środowiskowych.
+
+00:38:06.800 --> 00:38:08.800
+Och, panie kochany.
+
+00:38:08.800 --> 00:38:12.800
+Fabularnych i tych takich znajdźkowych. Dużo, bardzo dużo tego jest.
+
+00:38:12.800 --> 00:38:19.800
+W ogóle jest taki schemat w tej grze, ja na końcu powiem do czego się doczepiam jeszcze,
+
+00:38:19.800 --> 00:38:23.800
+a to jest jedna z tych rzeczy, że mamy taki, bierzemy misję jakby,
+
+00:38:23.800 --> 00:38:30.800
+idziemy korytarzem, zabijamy wrogów, mamy misję, mamy tą zagadkę środowiskową,
+
+00:38:30.800 --> 00:38:35.800
+potem idziemy korytarzem, zabijamy wrogów, dochodzimy do areny, gdzie mamy bossa
+
+00:38:35.800 --> 00:38:39.800
+i cały czas się to w taki sposób kręci.
+
+00:38:39.800 --> 00:38:44.800
+To jest chyba to, o czym nam opowiadał ostatnio Piotrek z Techlandu
+
+00:38:44.800 --> 00:38:47.800
+i bardzo Państwa serdecznie zapraszam do tej rozmowy,
+
+00:38:47.800 --> 00:38:52.800
+bo ja też lubię tworzyć tą korytarzową rozgrywkę w ramach otwartego świata.
+
+00:38:52.800 --> 00:38:57.800
+W teorii God of War nie jest w namacalny sposób otwartym światem,
+
+00:38:57.800 --> 00:39:00.800
+ale tak naprawdę mamy taki pozór tego, bo stajemy przed drzwiami,
+
+00:39:00.800 --> 00:39:03.800
+drzwi nas prowadzą do różnych krain, to jest ta pewna otwartość
+
+00:39:03.800 --> 00:39:08.800
+i bezpośrednio dostajemy się do rejonów, które są właśnie w taki korytarzowy sposób skonstruowany.
+
+00:39:08.800 --> 00:39:11.800
+Więc naprawdę można uwierzyć, że ten świat ma dużo więcej do zaoferowania
+
+00:39:11.800 --> 00:39:15.800
+niż tylko widać na pierwszy rzut oka, ale jesteśmy przyzwyczajeni do tej liniowości,
+
+00:39:15.800 --> 00:39:19.800
+nawet ta liniowość jest tak fajnie ozdobiona jakimiś eksploracyjnymi rzeczami,
+
+00:39:19.800 --> 00:39:23.800
+zagadki środowiskowe są całkiem spoko, chociaż czasami jest ich za dużo.
+
+00:39:23.800 --> 00:39:28.800
+Ja w ogóle dla mnie te zagadki to jest super urozmaicenie,
+
+00:39:28.800 --> 00:39:34.800
+znaczy ja się bardzo dobrze bawiłem tam waląc, obracając te dźwigi
+
+00:39:34.800 --> 00:39:38.800
+czy szukając tego dzbana z runą, żeby otworzyć.
+
+00:39:38.800 --> 00:39:46.800
+Dużo lepiej się bawiłem niż przy tej wcześniejszej grze, tylko to włożę no po prostu.
+
+00:39:46.800 --> 00:39:51.800
+I bardzo dużo frajdy mi to dawało.
+
+00:39:51.800 --> 00:39:57.800
+Ja tutaj mam odrobinę inną opinię, to znaczy ja lubię te zagadki środowiskowe,
+
+00:39:57.800 --> 00:40:00.800
+chociaż wolałbym mieć więcej walk na przykład, bo ja potrzebuję trochę czasu,
+
+00:40:00.800 --> 00:40:02.800
+żeby się wdrożyć, żeby się poczuć mocny.
+
+00:40:02.800 --> 00:40:04.800
+No tu jest mniej walk zdecydowanie.
+
+00:40:04.800 --> 00:40:06.800
+Tak, tu jest mniej walk, jest więcej tych zagadek środowiskowych.
+
+00:40:06.800 --> 00:40:10.800
+I o ile Svartalfheim, czyli ta kraina krasnoludów,
+
+00:40:10.800 --> 00:40:13.800
+oferowała zagadki środowiskowe, które mają dużo sensu,
+
+00:40:13.800 --> 00:40:18.800
+bo ta cała tam ich architektura i zakłada, że tam działanie różnych przyrządów,
+
+00:40:18.800 --> 00:40:20.800
+operowanie wodą i tak dalej.
+
+00:40:20.800 --> 00:40:23.800
+Tam jest dużo fajnych rozmów na temat tej technologii krasnoludzkiej.
+
+00:40:23.800 --> 00:40:27.800
+I jakby rozumiem, że tam żeby zablokować przepływ wody,
+
+00:40:27.800 --> 00:40:31.800
+to muszę tutaj użyć topora i ta woda płynie inną stroną,
+
+00:40:31.800 --> 00:40:32.800
+to wszystko ma ręce i nogi.
+
+00:40:32.800 --> 00:40:34.800
+Tak, te młyny, koła, to było super zrobione.
+
+00:40:34.800 --> 00:40:38.800
+To jest super w ogóle i czułem, bo też mam trochę frajdy.
+
+00:40:38.800 --> 00:40:41.800
+Natomiast jak już trafiłem do tego Alfheimu, czyli Krainy Elfów,
+
+00:40:41.800 --> 00:40:45.800
+gdzie masz jakieś takie żyły napęczniałe, które musisz przycinać toporem
+
+00:40:45.800 --> 00:40:48.800
+i to jest okej, ale jakby wiesz, że cała konstrukcja,
+
+00:40:48.800 --> 00:40:50.800
+która tam się znajduje wewnątrz tego budynku,
+
+00:40:50.800 --> 00:40:54.800
+służy tylko temu, żeby rozwiązać te zagadki środowiskowe,
+
+00:40:54.800 --> 00:40:57.800
+że te lustra są umieszczone tak, żeby można było rozwiązać zagadkę.
+
+00:40:57.800 --> 00:41:00.800
+I o ile w krainie krasnoludów miało to sens technologiczny,
+
+00:41:00.800 --> 00:41:03.800
+o tyle w tej krainie Alfheimu trochę mnie wywalało z imersji.
+
+00:41:03.800 --> 00:41:05.800
+No nie wierzę, jak te elfy otwierają drzwi,
+
+00:41:05.800 --> 00:41:08.800
+za każdym razem muszą wazić toporem pod odpowiednim kątem.
+
+00:41:08.800 --> 00:41:12.800
+W tej całej grze nie ma otwartych drzwi, tylko do domu Kratosa są.
+
+00:41:12.800 --> 00:41:15.800
+Jedyną tak, to wszystkie są za zagadkami.
+
+00:41:15.800 --> 00:41:17.800
+Co jest zabawne.
+
+00:41:17.800 --> 00:41:19.800
+Więc w Alfheimie miałem tego trochę za dużo,
+
+00:41:19.800 --> 00:41:22.800
+bo to jest też tak, że przeciwnicy w tej grze,
+
+00:41:22.800 --> 00:41:25.800
+to jest poziom trudności wzrusy.
+
+00:41:25.800 --> 00:41:27.800
+Nie dlatego, że trudniej się walczy,
+
+00:41:27.800 --> 00:41:29.800
+bo być może nawet też do pewnego stopnia,
+
+00:41:29.800 --> 00:41:32.800
+ale przede wszystkim do tego, że jest wielu przeciwników,
+
+00:41:32.800 --> 00:41:34.800
+oni mają różne taktyki, potrafią się atakować naraz.
+
+00:41:34.800 --> 00:41:37.800
+I jest taka sytuacja, że np. jednego przeciwnika
+
+00:41:37.800 --> 00:41:40.800
+uderzasz tarczą, odpychając go, ale w tym czasie
+
+00:41:40.800 --> 00:41:43.800
+przechodzi przez twoją animację cios innego przeciwnika,
+
+00:41:43.800 --> 00:41:44.800
+pozbawiając się zdrowia.
+
+00:41:44.800 --> 00:41:46.800
+Więc musi być poziom trudności wzrósł,
+
+00:41:46.800 --> 00:41:48.800
+dlatego że musisz być przygotowany na to,
+
+00:41:48.800 --> 00:41:50.800
+że ktoś może cię w plecy zaatakować
+
+00:41:50.800 --> 00:41:53.800
+i nie ma ciosu, który cię zabezpiecza przed obrażeniami z innej strony.
+
+00:41:53.800 --> 00:41:55.800
+Więc to jest do pewnego stopnia ciekawe,
+
+00:41:55.800 --> 00:41:57.800
+ale jest pewnego rodzaju utrudnienie
+
+00:41:57.800 --> 00:42:00.800
+i możesz sobie z tym poradzić, jeżeli walczysz, walczysz, walczysz
+
+00:42:00.800 --> 00:42:02.800
+i w końcu zaczynasz łapać ten schemat,
+
+00:42:02.800 --> 00:42:05.800
+a tam niestety, Alfheim, masz walkę z przeciwnikami,
+
+00:42:05.800 --> 00:42:07.800
+a potem rozwiązujesz zagadkę środowiskową.
+
+00:42:07.800 --> 00:42:08.800
+I się wspinasz jeszcze.
+
+00:42:08.800 --> 00:42:10.800
+I tak się wspinasz, potem znowu masz walkę
+
+00:42:10.800 --> 00:42:12.800
+i znowu już skostniały jesteś w tej walce.
+
+00:42:12.800 --> 00:42:14.800
+Więc takie miałem poczucie, że mówię,
+
+00:42:14.800 --> 00:42:16.800
+o Jezus Maria, bo zabijam te elfy za te drzwi,
+
+00:42:16.800 --> 00:42:20.800
+co oni tam skonstruowali w tym swoim pieprzonym świątynistej swojej.
+
+00:42:20.800 --> 00:42:24.800
+Więc byłem zły grając, ale i tak dawało mi to frajdę,
+
+00:42:24.800 --> 00:42:26.800
+bo to jest ciekawe, to jakby gameplayowo jest interesujące,
+
+00:42:26.800 --> 00:42:27.800
+rozwiązywanie tych zagadek.
+
+00:42:27.800 --> 00:42:30.800
+Ja jeszcze podczas walki też miałem problem,
+
+00:42:30.800 --> 00:42:36.800
+że po pierwsze potrafiła mi się kilka razy zblokować postać
+
+00:42:36.800 --> 00:42:39.800
+podczas walki z bossem, że tam dobiegasz,
+
+00:42:39.800 --> 00:42:41.800
+on cię tak przepycha gdzieś i tak trudno w ogóle,
+
+00:42:41.800 --> 00:42:43.800
+nie masz gdzie uciec.
+
+00:42:43.800 --> 00:42:46.800
+No i jest problem z kamerą, właściwie problem z kamerą,
+
+00:42:46.800 --> 00:42:49.800
+kiedy blokujesz kamerę na przeciwniku
+
+00:42:49.800 --> 00:42:52.800
+i to trochę bardziej przeszkadza niż pomaga.
+
+00:42:52.800 --> 00:42:54.800
+Ja w pewnym momencie zrezygnowałem z tego
+
+00:42:54.800 --> 00:42:59.800
+i już nie blokuję tej kamery.
+
+00:42:59.800 --> 00:43:04.800
+Ale powiem ci tak, podobają mi się też bardzo,
+
+00:43:04.800 --> 00:43:09.800
+mimo tego, że mamy ten schemat misji,
+
+00:43:09.800 --> 00:43:12.800
+bardzo często powtarzający się, bardzo często,
+
+00:43:12.800 --> 00:43:17.800
+że tam właśnie walka, wspinanie, zagadka, arena,
+
+00:43:17.800 --> 00:43:23.800
+to bardzo mi się podobają te takie może nie przerywniki,
+
+00:43:23.800 --> 00:43:28.800
+ale takie filmowe misje, które się tam nagle zdarzają,
+
+00:43:28.800 --> 00:43:33.800
+jedziesz sobie wagonikiem i musisz, to są proste rzeczy,
+
+00:43:33.800 --> 00:43:35.800
+quick time eventy to są trochę,
+
+00:43:35.800 --> 00:43:38.800
+ale podoba mi się, że jest takie przełamanie,
+
+00:43:38.800 --> 00:43:44.800
+że oni pozwalają sobie na urozmaicenie gameplayu
+
+00:43:44.800 --> 00:43:47.800
+w taki niebanalny sposób.
+
+00:43:47.800 --> 00:43:51.800
+Tak, zgadzam się, to jest jakby mnogość rzeczy,
+
+00:43:51.800 --> 00:43:53.800
+które się robi w trakcie gameplayu
+
+00:43:53.800 --> 00:43:56.800
+i zróżnicowanie tych rzeczy zdecydowanie daje odpocząć jedno od drugiego.
+
+00:43:56.800 --> 00:43:59.800
+Ja mówię, ja mam silną potrzebę, żeby tych walk było więcej,
+
+00:43:59.800 --> 00:44:02.800
+ale nie każdy te walki lubi, więc to nie jest tak,
+
+00:44:02.800 --> 00:44:04.800
+że ta gra musi być pode mnie koniecznie zrobiona.
+
+00:44:04.800 --> 00:44:07.800
+Ale oprócz tego, że te misje gameplayowo są ciekawe,
+
+00:44:07.800 --> 00:44:13.800
+to niezwykle sympatyczne, to może źle, niezwykle przyjemne
+
+00:44:13.800 --> 00:44:15.800
+są rozmowy między bohaterami,
+
+00:44:15.800 --> 00:44:18.800
+które się przydarzają w przeróżnych momentach
+
+00:44:18.800 --> 00:44:20.800
+i opowiadają historie sensowne,
+
+00:44:20.800 --> 00:44:22.800
+które mają związek z fabułą,
+
+00:44:22.800 --> 00:44:24.800
+które opowiadają albo jakiś kawałek historii świata
+
+00:44:24.800 --> 00:44:26.800
+i za każdym razem słucha się tego ciekawie.
+
+00:44:26.800 --> 00:44:28.800
+Tam nie ma jakichś takich nudnych rozmów,
+
+00:44:28.800 --> 00:44:29.800
+które chcesz przerywać.
+
+00:44:29.800 --> 00:44:32.800
+I jeszcze jestem pod ogromnym wrażeniem tego całego systemu,
+
+00:44:32.800 --> 00:44:35.800
+że kiedy słyszymy jakąś historię opowiadaną
+
+00:44:35.800 --> 00:44:39.800
+na przykład między Atreusem a Mimirem
+
+00:44:39.800 --> 00:44:42.800
+i nagle dojeżdżamy sobie z zaprzęgiem do jakiejś lokacji,
+
+00:44:42.800 --> 00:44:46.800
+Kratos schodzi i mówi, dobra, wystarczy, teraz się skupcie.
+
+00:44:46.800 --> 00:44:48.800
+I rozmowa się przerywa w jakimś miejscu
+
+00:44:48.800 --> 00:44:51.800
+i potem wracając na ten zaprzęg albo przy jakiejś innej okazji,
+
+00:44:51.800 --> 00:44:52.800
+oni wracają dokładnie do tego momentu,
+
+00:44:52.800 --> 00:44:54.800
+w którym ten dialog został przerwany.
+
+00:44:54.800 --> 00:44:57.800
+Więc ta baza, która operuje tymi dialogami,
+
+00:44:57.800 --> 00:44:59.800
+ona bierze pod uwagę, że to może być przerwane
+
+00:44:59.800 --> 00:45:00.800
+w specyficzny sposób.
+
+00:45:00.800 --> 00:45:03.800
+Potem musi być wznowione w każdym możliwym momencie
+
+00:45:03.800 --> 00:45:05.800
+i robi to bardzo skutecznie i bardzo dobrze
+
+00:45:05.800 --> 00:45:08.800
+i to daje takie poczucie faktycznie uczestniczenia
+
+00:45:08.800 --> 00:45:09.800
+w naturalnej rozmowie,
+
+00:45:09.800 --> 00:45:11.800
+która od czasu do czasu musi być przerwana.
+
+00:45:11.800 --> 00:45:13.800
+Ja czytałem o tym,
+
+00:45:13.800 --> 00:45:15.800
+to jest taki system prowokowania dialogów,
+
+00:45:15.800 --> 00:45:16.800
+coś takiego to się nazywa.
+
+00:45:16.800 --> 00:45:20.800
+Czytałem o tym artykuł i to po prostu dobrze działa.
+
+00:45:20.800 --> 00:45:24.800
+Oczywiście mieliśmy coś trochę, nawet nie,
+
+00:45:24.800 --> 00:45:26.800
+bo w Red Dead Redemption było tak,
+
+00:45:26.800 --> 00:45:28.800
+że tak misje były skonstruowane,
+
+00:45:28.800 --> 00:45:30.800
+że ten dialog musiał trwać tyle,
+
+00:45:30.800 --> 00:45:31.800
+ile dojazd do misji,
+
+00:45:31.800 --> 00:45:34.800
+a tutaj gra wyczuwa,
+
+00:45:34.800 --> 00:45:39.800
+że przez chwilę nic nas nie będzie rozpraszać.
+
+00:45:39.800 --> 00:45:41.800
+My sobie albo rozwiązujemy zagadkę
+
+00:45:41.800 --> 00:45:44.800
+albo po prostu idziemy gdzieś
+
+00:45:44.800 --> 00:45:48.800
+i właśnie prowokuje te rozmowy między bohaterami
+
+00:45:48.800 --> 00:45:50.800
+i muszę przyznać i zgodzić się z tobą,
+
+00:45:50.800 --> 00:45:53.800
+że te dialogi są świetne.
+
+00:45:53.800 --> 00:45:57.800
+Są naturalne, postacie stają się bardziej żywe,
+
+00:45:57.800 --> 00:46:00.800
+jest sporo smutku w tych dialogach,
+
+00:46:00.800 --> 00:46:02.800
+przemyśleń, emocji,
+
+00:46:02.800 --> 00:46:04.800
+ale też nie brakuje humoru.
+
+00:46:04.800 --> 00:46:06.800
+Nawet jak mamy ekspozycję w tych dialogach,
+
+00:46:06.800 --> 00:46:08.800
+to nie jest ona taka chamska.
+
+00:46:08.800 --> 00:46:13.800
+Zawsze w jakiś sposób ociera się o emocje bohaterów.
+
+00:46:13.800 --> 00:46:15.800
+Bohaterowie nie mówią nam,
+
+00:46:15.800 --> 00:46:17.800
+kiedyś robiłem to i to,
+
+00:46:17.800 --> 00:46:19.800
+a to jest to i to,
+
+00:46:19.800 --> 00:46:20.800
+a widziałeś to i to,
+
+00:46:20.800 --> 00:46:23.800
+tylko zawsze to jest jakieś takie intymne,
+
+00:46:23.800 --> 00:46:26.800
+nawet bym powiedział.
+
+00:46:26.800 --> 00:46:29.800
+Dla mnie to były najciekawsze momenty,
+
+00:46:29.800 --> 00:46:30.800
+te dialogi.
+
+00:46:30.800 --> 00:46:32.800
+One są świetnie napisane.
+
+00:46:32.800 --> 00:46:34.800
+Ja czuję, że to o coś chodzi,
+
+00:46:34.800 --> 00:46:36.800
+że oni po coś rozmawiają,
+
+00:46:36.800 --> 00:46:38.800
+że to nie są jakieś takie opisy rzeczy,
+
+00:46:38.800 --> 00:46:41.800
+tylko właśnie ta ekspozycja w dialogach.
+
+00:46:41.800 --> 00:46:43.800
+Tutaj to jest zrobione bardzo dobrze.
+
+00:46:43.800 --> 00:46:45.800
+Nawet jak Atreus gada tam z Krukiem,
+
+00:46:45.800 --> 00:46:47.800
+który mu nie odpowiada,
+
+00:46:47.800 --> 00:46:49.800
+to ma też swój urok.
+
+00:46:49.800 --> 00:46:52.800
+Zresztą w tych dialogach jest świetnie,
+
+00:46:52.800 --> 00:46:53.800
+bo to też mamy w cutscenkach,
+
+00:46:53.800 --> 00:46:55.800
+który jest bardzo dużo w tej grze.
+
+00:46:55.800 --> 00:46:56.800
+Bardzo dużo.
+
+00:46:56.800 --> 00:46:57.800
+Ja tego nie lubię za bardzo,
+
+00:46:57.800 --> 00:46:59.800
+ale tutaj jest bardzo dużo.
+
+00:46:59.800 --> 00:47:04.800
+Ten wątek relacji syna z ojcem,
+
+00:47:04.800 --> 00:47:07.800
+przez to, że on powraca w dialogach,
+
+00:47:07.800 --> 00:47:09.800
+jest pogłębiany w tych dialogach,
+
+00:47:09.800 --> 00:47:12.800
+bohaterowie mówią o pewnych powodach
+
+00:47:12.800 --> 00:47:14.800
+swoich zachowań.
+
+00:47:14.800 --> 00:47:16.800
+To jest bardzo szczere.
+
+00:47:16.800 --> 00:47:18.800
+To oddanie buntu nastolatka,
+
+00:47:18.800 --> 00:47:20.800
+upartości ojca.
+
+00:47:20.800 --> 00:47:26.800
+Tam jest taki naprawdę nieźle przedstawiony moment,
+
+00:47:26.800 --> 00:47:30.800
+kiedy dziecko twoje zamienia się w mężczyznę,
+
+00:47:30.800 --> 00:47:33.800
+a ty dalej chcesz go traktować jako dziecko.
+
+00:47:33.800 --> 00:47:36.800
+I właśnie z tego niezrozumienia,
+
+00:47:36.800 --> 00:47:42.800
+z tego się tworzy bardzo dobry konflikt.
+
+00:47:42.800 --> 00:47:46.800
+I muszę przyznać, że jestem trochę w szoku,
+
+00:47:46.800 --> 00:47:50.800
+że tak dobrze, bo tam są dwa wątki,
+
+00:47:50.800 --> 00:47:51.800
+które są moim zdaniem,
+
+00:47:51.800 --> 00:47:53.800
+tak jak główna oś fabuły,
+
+00:47:53.800 --> 00:47:57.800
+sorry, jest klasyczną, porządną grą.
+
+00:47:57.800 --> 00:48:01.800
+Tak ten wątek ojcowski w dwóch wymiarach,
+
+00:48:01.800 --> 00:48:07.800
+bo tam jest o wyfrunięciu z gniazda,
+
+00:48:07.800 --> 00:48:10.800
+czyli o tym, że dorasta twój syn
+
+00:48:10.800 --> 00:48:16.800
+i o stracie są bardzo dobrze zrobione
+
+00:48:16.800 --> 00:48:21.800
+i muszę przyznać, że to jest taka rzecz,
+
+00:48:21.800 --> 00:48:24.800
+którą zapamiętam.
+
+00:48:24.800 --> 00:48:26.800
+Tam jest ten wątek Frey też,
+
+00:48:26.800 --> 00:48:28.800
+gdzie jest wątek straty i zemsty
+
+00:48:28.800 --> 00:48:30.800
+i podobnie jak ta relacja z ojcem,
+
+00:48:30.800 --> 00:48:33.800
+no i też część nieuchronności losu.
+
+00:48:33.800 --> 00:48:38.800
+Jest to takie na najwyższym poziomie, absolutnie.
+
+00:48:38.800 --> 00:48:39.800
+Tak, ja się zgadzam.
+
+00:48:39.800 --> 00:48:40.800
+To jest jeszcze jednej rzeczy,
+
+00:48:40.800 --> 00:48:42.800
+które chciałem Państwu opowiedzieć,
+
+00:48:42.800 --> 00:48:44.800
+że jakby to, o czym mówi Borys,
+
+00:48:44.800 --> 00:48:46.800
+to następuje wraz z rozwojem fabuły.
+
+00:48:46.800 --> 00:48:48.800
+Jeżeli wydarzają się jakieś konkretne rzeczy,
+
+00:48:48.800 --> 00:48:50.800
+to nagle w tej materii pojawiają się
+
+00:48:50.800 --> 00:48:52.800
+także jakieś dodatkowe dialogi.
+
+00:48:52.800 --> 00:48:53.800
+Jeżeli Kratos zachowa się
+
+00:48:53.800 --> 00:48:55.800
+w jakiś konkretny sposób wobec Atreusa,
+
+00:48:55.800 --> 00:48:57.800
+to nagle pojawiają się rozmowy innych postaci,
+
+00:48:57.800 --> 00:48:59.800
+czy na pewno dobrze postępuje,
+
+00:48:59.800 --> 00:49:01.800
+dlaczego tak postępujesz.
+
+00:49:01.800 --> 00:49:02.800
+I to jest właśnie to,
+
+00:49:02.800 --> 00:49:04.800
+jest głęboko wyczuwalny sens tych rozmów
+
+00:49:04.800 --> 00:49:06.800
+i że te rozmowy mają wpływ na bohatera,
+
+00:49:06.800 --> 00:49:08.800
+że on się zastanawia trochę nad sobą,
+
+00:49:08.800 --> 00:49:09.800
+że czasami mówi,
+
+00:49:09.800 --> 00:49:10.800
+dobra, nie chcę o tym gadać,
+
+00:49:10.800 --> 00:49:12.800
+a za chwilę coś odpowie,
+
+00:49:12.800 --> 00:49:13.800
+albo że robię to, co muszę,
+
+00:49:13.800 --> 00:49:15.800
+bo taki jestem i tak będę postępować,
+
+00:49:15.800 --> 00:49:16.800
+będę robić wszystko,
+
+00:49:16.800 --> 00:49:18.800
+żeby chronić tego dzieciaka.
+
+00:49:18.800 --> 00:49:20.800
+I te dialogi nie dotyczą tylko Kratosa i Atreusa,
+
+00:49:20.800 --> 00:49:21.800
+ale także innych postaci,
+
+00:49:21.800 --> 00:49:23.800
+które się tam pojawiają.
+
+00:49:23.800 --> 00:49:25.800
+I przy okazji to jakby w formie dialogu
+
+00:49:25.800 --> 00:49:27.800
+to jest skonstruowane dobrze jako opowieść,
+
+00:49:27.800 --> 00:49:30.800
+ale także animacje na to bardzo dobrze odpowiadają.
+
+00:49:30.800 --> 00:49:31.800
+Są takie sytuacje,
+
+00:49:31.800 --> 00:49:33.800
+że wyprzedza nas postać towarzysząca,
+
+00:49:33.800 --> 00:49:35.800
+odwraca się do nas przodem
+
+00:49:35.800 --> 00:49:37.800
+i normalnie cofając się,
+
+00:49:37.800 --> 00:49:39.800
+biegnąc w taki naturalny sposób do tyłu,
+
+00:49:39.800 --> 00:49:41.800
+opowiada dalej tę historię.
+
+00:49:41.800 --> 00:49:44.800
+To wszystko wygląda tak super autentycznie.
+
+00:49:44.800 --> 00:49:45.800
+To jest też tak,
+
+00:49:45.800 --> 00:49:47.800
+że ludzie ze studia,
+
+00:49:47.800 --> 00:49:49.800
+z Santa Monica Studios,
+
+00:49:49.800 --> 00:49:51.800
+to są ludzie odpowiedzialni za tę grę,
+
+00:49:51.800 --> 00:49:53.800
+oni gdzieś tam na jakimś pisie chyba,
+
+00:49:53.800 --> 00:49:54.800
+deweloperskim,
+
+00:49:54.800 --> 00:49:56.800
+albo może na jakimś vlogu takim oglądałem,
+
+00:49:56.800 --> 00:49:58.800
+ale oni współpracowali też z ludźmi z Naughty Dog,
+
+00:49:58.800 --> 00:49:59.800
+żeby dowiedzieć się,
+
+00:49:59.800 --> 00:50:01.800
+jak zrobić dobrą postać towarzyszącą,
+
+00:50:01.800 --> 00:50:02.800
+która nie przeszkadza,
+
+00:50:02.800 --> 00:50:04.800
+która jakby wzbogaca jakąś historię.
+
+00:50:04.800 --> 00:50:05.800
+I wydaje mi się,
+
+00:50:05.800 --> 00:50:07.800
+że te kontakty też są pogłębiane właśnie
+
+00:50:07.800 --> 00:50:08.800
+w kwestii tych dialogów,
+
+00:50:08.800 --> 00:50:10.800
+bo ja pierwszy raz z takim dialogiem,
+
+00:50:10.800 --> 00:50:11.800
+jak ty go nazwałeś,
+
+00:50:11.800 --> 00:50:12.800
+to są prowokowane dialogi?
+
+00:50:12.800 --> 00:50:13.800
+Tak, prowokowane.
+
+00:50:13.800 --> 00:50:15.800
+Tak, że masz moment,
+
+00:50:15.800 --> 00:50:17.800
+że on się może wydarzyć,
+
+00:50:17.800 --> 00:50:20.800
+że gra wie co jest przed tobą,
+
+00:50:20.800 --> 00:50:21.800
+i jak jest miejsce,
+
+00:50:21.800 --> 00:50:22.800
+to odpala dialog.
+
+00:50:22.800 --> 00:50:25.800
+No, więc pierwszy raz z czymś takim się spotkałem
+
+00:50:25.800 --> 00:50:26.800
+przy Uncharted 4,
+
+00:50:26.800 --> 00:50:27.800
+jest taka misja,
+
+00:50:27.800 --> 00:50:28.800
+gdzie jeździmy po Afryce samochodem,
+
+00:50:28.800 --> 00:50:29.800
+jeepem,
+
+00:50:29.800 --> 00:50:30.800
+i tam jest trochę otwartego świata,
+
+00:50:30.800 --> 00:50:32.800
+i jest trochę więcej okazji do tych dialogów,
+
+00:50:32.800 --> 00:50:34.800
+i tam też właśnie pojawiły się tego typu rozmowy,
+
+00:50:34.800 --> 00:50:35.800
+które były przerywane,
+
+00:50:35.800 --> 00:50:36.800
+kiedy się wydarzyła akcja,
+
+00:50:36.800 --> 00:50:39.800
+i potem powracały do tego samego punktu.
+
+00:50:39.800 --> 00:50:40.800
+Więc wydaje mi się,
+
+00:50:40.800 --> 00:50:42.800
+że tutaj to wynika z jakiejś współpracy
+
+00:50:42.800 --> 00:50:43.800
+między tymi studiami,
+
+00:50:43.800 --> 00:50:44.800
+i to jest dobra współpraca,
+
+00:50:44.800 --> 00:50:45.800
+żeby wszystko było jasne,
+
+00:50:45.800 --> 00:50:46.800
+bo tam jeden mógłby się doszukiwać,
+
+00:50:46.800 --> 00:50:48.800
+że kopiują, czy coś,
+
+00:50:48.800 --> 00:50:49.800
+ale to jest tak świetne rozwiązanie,
+
+00:50:49.800 --> 00:50:50.800
+i tutaj w God of War
+
+00:50:50.800 --> 00:50:52.800
+jest tak fantastycznie zaimplementowane,
+
+00:50:52.800 --> 00:50:55.800
+że myślę, że też Naughty Dog mogą się czegoś nauczyć z tego,
+
+00:50:55.800 --> 00:50:57.800
+mimo że też są mistrzami w tego typu rzeczach.
+
+00:50:57.800 --> 00:50:58.800
+Bardzo dużo takich dialogów.
+
+00:50:58.800 --> 00:51:03.800
+Zresztą, kurczę, dla mnie też jest coś takiego,
+
+00:51:03.800 --> 00:51:05.800
+co mnie zachwyciło wręcz,
+
+00:51:05.800 --> 00:51:11.800
+to to, jak Kratos robi coś z synem,
+
+00:51:11.800 --> 00:51:13.800
+i ta relacja ich jest taka szorska,
+
+00:51:13.800 --> 00:51:15.800
+tam jest mój ulubiony tekst,
+
+00:51:15.800 --> 00:51:17.800
+to jest ojcze,
+
+00:51:17.800 --> 00:51:19.800
+czy zabijanie w samoobronie jest zawsze okej,
+
+00:51:19.800 --> 00:51:21.800
+a Kratos mówi tak.
+
+00:51:21.800 --> 00:51:23.800
+Dużo, podyskutujmy o tym.
+
+00:51:23.800 --> 00:51:26.800
+Jakby koniec rozmowy,
+
+00:51:26.800 --> 00:51:34.800
+i to czuć, że on ma to wychowanie Spartaty,
+
+00:51:34.800 --> 00:51:37.800
+i o tym parę razy często mówi,
+
+00:51:37.800 --> 00:51:38.800
+że tam mieszkał w jeziorze.
+
+00:51:38.800 --> 00:51:47.800
+Ale potem, jak o tej samej sytuacji rozmawia z Freją,
+
+00:51:47.800 --> 00:51:52.800
+to jest, wow, to jest jakby prawdziwa postać nagle się zrobiła,
+
+00:51:52.800 --> 00:51:57.800
+z tej takiej cyfrowej, z cyfrowego mordercy.
+
+00:51:57.800 --> 00:52:01.800
+Nagle mamy taką żywą, dobrze napisaną postać.
+
+00:52:01.800 --> 00:52:03.800
+To jest zdumiewające,
+
+00:52:03.800 --> 00:52:06.800
+że wiadomo, jaki był początek Kratosa.
+
+00:52:06.800 --> 00:52:08.800
+To była niezwykle brutalna gra akcji,
+
+00:52:08.800 --> 00:52:11.800
+w której motyw przewodni był czysty,
+
+00:52:11.800 --> 00:52:12.800
+prosty, zrozumiany,
+
+00:52:12.800 --> 00:52:14.800
+oparty na brutalności i agresji.
+
+00:52:14.800 --> 00:52:16.800
+I tak im się udało pogłębić,
+
+00:52:16.800 --> 00:52:18.800
+tę postać na przestrzeni dwóch gier,
+
+00:52:18.800 --> 00:52:20.800
+że my zaczynamy go doskonale rozumieć.
+
+00:52:20.800 --> 00:52:22.800
+To znaczy, nawet jeżeli nasze postawy życiowe
+
+00:52:22.800 --> 00:52:24.800
+z oczywistych powodów są zupełnie inne,
+
+00:52:24.800 --> 00:52:26.800
+to rozumiemy, że to wynika z jego wychowania,
+
+00:52:26.800 --> 00:52:27.800
+że to wynika ze Sparty,
+
+00:52:27.800 --> 00:52:29.800
+to wynika z jego relacji z żoną.
+
+00:52:29.800 --> 00:52:32.800
+Tam niezwykle jest dużo rozmów opartych o to,
+
+00:52:32.800 --> 00:52:35.800
+co też jego żona mogła od niego chcieć,
+
+00:52:35.800 --> 00:52:37.800
+ale mu nie powiedziała wprost.
+
+00:52:37.800 --> 00:52:39.800
+Dużo osób próbuje mu z zewnątrz powiedzieć,
+
+00:52:39.800 --> 00:52:41.800
+że słuchaj, może twoja żona chciała tego,
+
+00:52:41.800 --> 00:52:42.800
+może twoja żona chciała tego,
+
+00:52:42.800 --> 00:52:43.800
+może mama chciała tego,
+
+00:52:43.800 --> 00:52:44.800
+mówi mały Atreus.
+
+00:52:44.800 --> 00:52:47.800
+A Kratos mówi nie, jakby chciała, to by powiedziała.
+
+00:52:47.800 --> 00:52:50.800
+Jest dużo takiego zastanawiania się,
+
+00:52:50.800 --> 00:52:52.800
+co ta żona, która już odeszła.
+
+00:52:52.800 --> 00:52:54.800
+Dla mnie to też jest niezwykle ciekawa historia,
+
+00:52:54.800 --> 00:52:56.800
+bo my tej żony w zasadzie nie poznajemy.
+
+00:52:56.800 --> 00:52:58.800
+Ona się pojawia tam oczywiście
+
+00:52:58.800 --> 00:52:59.800
+w jakichś takich wspomnieniach,
+
+00:52:59.800 --> 00:53:00.800
+czy w jakichś snach,
+
+00:53:00.800 --> 00:53:02.800
+ale nie znamy, nie znamy tej historii.
+
+00:53:02.800 --> 00:53:04.800
+Nie wiemy, co się stało od momentu,
+
+00:53:04.800 --> 00:53:06.800
+w którym Kratos pojawił się
+
+00:53:06.800 --> 00:53:09.800
+w tych takich klimatach nordyckich.
+
+00:53:09.800 --> 00:53:11.800
+Zostajemy w 2018 roku postawieni
+
+00:53:11.800 --> 00:53:13.800
+przed jakimś faktem dokonanym.
+
+00:53:13.800 --> 00:53:15.800
+Jest żona, która zmarła
+
+00:53:15.800 --> 00:53:18.800
+i jest syn, którym trzeba się zająć.
+
+00:53:18.800 --> 00:53:20.800
+I te historie,
+
+00:53:20.800 --> 00:53:22.800
+ona jakby pozostaje dla nas
+
+00:53:22.800 --> 00:53:23.800
+trochę bez odpowiedzi,
+
+00:53:23.800 --> 00:53:24.800
+co tam się wydarzyło,
+
+00:53:24.800 --> 00:53:27.800
+ale te relacje są bardzo jasno wskazane.
+
+00:53:27.800 --> 00:53:29.800
+Ta relacja z żoną jest niezwykle ciekawa.
+
+00:53:29.800 --> 00:53:33.800
+Więc naprawdę te dialogi
+
+00:53:33.800 --> 00:53:34.800
+mają ogromne pole do popisu
+
+00:53:34.800 --> 00:53:36.800
+i dobrze te postacie pogłębiają
+
+00:53:36.800 --> 00:53:37.800
+i dobrze dopowiadają historię,
+
+00:53:37.800 --> 00:53:38.800
+której my nie znamy.
+
+00:53:38.800 --> 00:53:41.800
+Więc ja jestem pod ogromnym wrażeniem tego,
+
+00:53:41.800 --> 00:53:43.800
+ponieważ po raz kolejny powtarzam,
+
+00:53:43.800 --> 00:53:45.800
+God of War wyszedł z zupełnie innych korzeni.
+
+00:53:45.800 --> 00:53:47.800
+Przekształcił się właściwie,
+
+00:53:47.800 --> 00:53:49.800
+mutował, ewoluował w coś zupełnie innego
+
+00:53:49.800 --> 00:53:51.800
+i w tym czymś zupełnie innym
+
+00:53:51.800 --> 00:53:53.800
+jest jeszcze lepszy niż kiedykolwiek wcześniej był.
+
+00:53:53.800 --> 00:53:55.800
+I to mi się niezwykle mocno podoba.
+
+00:53:55.800 --> 00:53:57.800
+To jest niesamowita ewolucja
+
+00:53:57.800 --> 00:53:58.800
+nie tylko gry, ale całego studia
+
+00:53:58.800 --> 00:54:00.800
+i sposobu myślenia o grach.
+
+00:54:00.800 --> 00:54:02.800
+To robi na mnie ogromne wrażenie.
+
+00:54:02.800 --> 00:54:03.800
+Tak.
+
+00:54:03.800 --> 00:54:05.800
+Grafika.
+
+00:54:05.800 --> 00:54:07.800
+Ponieważ graliśmy na PlayStation 5,
+
+00:54:07.800 --> 00:54:08.800
+to będziemy o tej grafice mówić.
+
+00:54:08.800 --> 00:54:10.800
+Ogólnie jest bardzo dobra.
+
+00:54:10.800 --> 00:54:12.800
+W ogóle gra chodzi świetnie.
+
+00:54:12.800 --> 00:54:14.800
+Stabilne 60 klatek.
+
+00:54:14.800 --> 00:54:17.800
+Nic tam mi nie chrupnęło przez całą grę.
+
+00:54:17.800 --> 00:54:19.800
+Zawsze to chodziło super płynnie.
+
+00:54:19.800 --> 00:54:23.800
+To jak masz takie stabilne 60 to czuć.
+
+00:54:23.800 --> 00:54:25.800
+Ja mam jakieś takie pretensje,
+
+00:54:25.800 --> 00:54:27.800
+że ta grafika jest czasami nierówna.
+
+00:54:27.800 --> 00:54:30.800
+Czasami są takie bardzo niskiej jakości tekstury.
+
+00:54:30.800 --> 00:54:34.800
+Trawa wygląda tak średnio,
+
+00:54:34.800 --> 00:54:36.800
+ale lokacje są pełne detali,
+
+00:54:36.800 --> 00:54:38.800
+pięknie dopracowane.
+
+00:54:38.800 --> 00:54:40.800
+Ja się jeszcze mogę przyczepić
+
+00:54:40.800 --> 00:54:42.800
+do modeli bohaterów pobocznych.
+
+00:54:42.800 --> 00:54:44.800
+Na samym początku gry
+
+00:54:44.800 --> 00:54:46.800
+spotykamy taką postać kobiecą,
+
+00:54:46.800 --> 00:54:48.800
+że ja po prostu nie mogę mówić,
+
+00:54:48.800 --> 00:54:50.800
+że to tak źle wygląda.
+
+00:54:50.800 --> 00:54:52.800
+To jest dziwne.
+
+00:54:52.800 --> 00:54:54.800
+Te krasnoludy spoko,
+
+00:54:54.800 --> 00:54:56.800
+ale jak kogoś tak z boku spotykamy,
+
+00:54:56.800 --> 00:55:00.800
+to tak to dziwnie słabo jest zrobione.
+
+00:55:00.800 --> 00:55:02.800
+W sumie nie wiem dlaczego,
+
+00:55:02.800 --> 00:55:04.800
+bo jednak praktycznie większość gier
+
+00:55:04.800 --> 00:55:06.800
+od Sony
+
+00:55:06.800 --> 00:55:08.800
+to postacie ma niesamowite.
+
+00:55:08.800 --> 00:55:10.800
+Zresztą Kratos tutaj
+
+00:55:10.800 --> 00:55:12.800
+fantastycznie wygląda.
+
+00:55:12.800 --> 00:55:14.800
+Za to na przykład
+
+00:55:14.800 --> 00:55:16.800
+czuć, że to nie jest nowogeneracyjna gra,
+
+00:55:16.800 --> 00:55:18.800
+bo odbicia, w ogóle nie ma raytracingu.
+
+00:55:18.800 --> 00:55:20.800
+Odbicia są bardzo niskiej jakości.
+
+00:55:20.800 --> 00:55:22.800
+Jak się przypatrzysz tego,
+
+00:55:22.800 --> 00:55:24.800
+jak tam w kałuży czy w wodzie coś wygląda,
+
+00:55:24.800 --> 00:55:26.800
+no to słabiutko to wygląda.
+
+00:55:26.800 --> 00:55:28.800
+Słabiutko.
+
+00:55:28.800 --> 00:55:30.800
+Tak, to nie jest dla spostrzegawczych nadmiernie.
+
+00:55:30.800 --> 00:55:32.800
+Ja nie widziałem nic w ogóle tam.
+
+00:55:32.800 --> 00:55:34.800
+Ja mówię, kurde co? Odbicia nie ma?
+
+00:55:34.800 --> 00:55:36.800
+No jest.
+
+00:55:36.800 --> 00:55:38.800
+No jest odbicie,
+
+00:55:38.800 --> 00:55:40.800
+albo na przykład jak masz wodę
+
+00:55:40.800 --> 00:55:42.800
+i to jest... Boże jak się to nazywa?
+
+00:55:42.800 --> 00:55:44.800
+Zawsze zapominam jak się to nazywa.
+
+00:55:44.800 --> 00:55:46.800
+O raytracingu mówisz?
+
+00:55:46.800 --> 00:55:48.800
+Nie, nie, nie.
+
+00:55:48.800 --> 00:55:50.800
+To jest taki CubeMap
+
+00:55:50.800 --> 00:55:52.800
+i ten system, który odbija to,
+
+00:55:52.800 --> 00:55:54.800
+co widać w kamerze.
+
+00:55:54.800 --> 00:55:56.800
+Jest taki margines po prostu
+
+00:55:56.800 --> 00:55:58.800
+dwucentymetrowy na ekranie,
+
+00:55:58.800 --> 00:56:00.800
+gdzie nie ma tego odbicia.
+
+00:56:00.800 --> 00:56:02.800
+Wiem, że to jest taka technologia,
+
+00:56:02.800 --> 00:56:04.800
+ale mogliby trochę bardziej
+
+00:56:04.800 --> 00:56:06.800
+zrobić pod
+
+00:56:06.800 --> 00:56:08.800
+playaka piątkę.
+
+00:56:08.800 --> 00:56:10.800
+Ja sobie jeszcze odpaliłem
+
+00:56:10.800 --> 00:56:12.800
+God of War'a tego poprzedniego
+
+00:56:12.800 --> 00:56:14.800
+z 2018 roku
+
+00:56:14.800 --> 00:56:16.800
+i nie sądziłem, że jest tak duży przeskok.
+
+00:56:16.800 --> 00:56:18.800
+Jednak go dużo lepiej pamiętałem.
+
+00:56:18.800 --> 00:56:20.800
+Jest duży przeskok, naprawdę.
+
+00:56:20.800 --> 00:56:22.800
+I to jeszcze ta wersja.
+
+00:56:22.800 --> 00:56:24.800
+Mi się wydawało, że identyczny jest.
+
+00:56:24.800 --> 00:56:26.800
+Nie, jest ogromny.
+
+00:56:26.800 --> 00:56:28.800
+To jest siła wyobraźni.
+
+00:56:28.800 --> 00:56:30.800
+Bo też mi się wydawało,
+
+00:56:30.800 --> 00:56:32.800
+że to jest DLC.
+
+00:56:32.800 --> 00:56:34.800
+Nie, jest duża różnica.
+
+00:56:34.800 --> 00:56:36.800
+W grafice jest bardzo duża różnica
+
+00:56:36.800 --> 00:56:38.800
+i to polecam sprawdzić.
+
+00:56:38.800 --> 00:56:42.800
+Oczywiście jest dużo takich informacji
+
+00:56:42.800 --> 00:56:44.800
+o tym,
+
+00:56:44.800 --> 00:56:46.800
+że to jest takie DLC.
+
+00:56:46.800 --> 00:56:48.800
+Nie do końca.
+
+00:56:48.800 --> 00:56:50.800
+Prawda jest taka.
+
+00:56:50.800 --> 00:56:52.800
+Jak wam się nie podobała
+
+00:56:52.800 --> 00:56:54.800
+pierwsza część God of War'a
+
+00:56:54.800 --> 00:56:56.800
+tego z 2018 roku,
+
+00:56:56.800 --> 00:56:58.800
+to wątpię, żeby ta wam się spodobała.
+
+00:56:58.800 --> 00:57:00.800
+Po drugie, fabularnie
+
+00:57:00.800 --> 00:57:02.800
+raczej trzeba znać tę pierwszą część.
+
+00:57:02.800 --> 00:57:04.800
+Mimo, że jest tam...
+
+00:57:06.800 --> 00:57:08.800
+Gra ma...
+
+00:57:08.800 --> 00:57:10.800
+Jak odpalacie Ragnaroka,
+
+00:57:10.800 --> 00:57:12.800
+to jest opcja przypomnieć,
+
+00:57:12.800 --> 00:57:14.800
+co było w jedynce.
+
+00:57:14.800 --> 00:57:16.800
+Tak pobieżnie to przypomina.
+
+00:57:16.800 --> 00:57:18.800
+Ale powiedzmy sobie szczerze,
+
+00:57:18.800 --> 00:57:20.800
+to trzeba znać, bo to jest bezpośrednia
+
+00:57:20.800 --> 00:57:22.800
+kontynuacja.
+
+00:57:22.800 --> 00:57:24.800
+Ale tym, którym się nie spodobało,
+
+00:57:24.800 --> 00:57:26.800
+to to też się nie spodoba,
+
+00:57:26.800 --> 00:57:28.800
+bo dostajecie tego samego więcej
+
+00:57:28.800 --> 00:57:30.800
+trochę w innych proporcjach.
+
+00:57:30.800 --> 00:57:32.800
+Tak, zgadza się.
+
+00:57:32.800 --> 00:57:34.800
+Próbuję się zastanowić,
+
+00:57:34.800 --> 00:57:36.800
+co się mogło nie podobać w God of War.
+
+00:57:36.800 --> 00:57:38.800
+Dla mnie to są arcydzieła tak naprawdę.
+
+00:57:38.800 --> 00:57:40.800
+Oczywiście to jest bardzo indywidualna kwestia.
+
+00:57:40.800 --> 00:57:42.800
+Każdy może myśleć inaczej.
+
+00:57:42.800 --> 00:57:44.800
+Jeżeli cokolwiek sprawiało wam problemy
+
+00:57:44.800 --> 00:57:46.800
+w pierwszej części i niemożliwiało przejścia,
+
+00:57:46.800 --> 00:57:48.800
+to God of War 2,
+
+00:57:48.800 --> 00:57:50.800
+czyli właściwie ten God of War Ragnarok,
+
+00:57:50.800 --> 00:57:52.800
+ma tyle opcji ułatwienia
+
+00:57:52.800 --> 00:57:54.800
+rozgrywki,
+
+00:57:54.800 --> 00:57:56.800
+że nawet poziomy trudności można sobie poustawiać.
+
+00:57:56.800 --> 00:57:58.800
+Chociaż one chyba nie ułatwiają rozwiązywania
+
+00:57:58.800 --> 00:58:00.800
+zadań środowiskowych. Ja nie wiem, jak to
+
+00:58:00.800 --> 00:58:02.800
+tam działać powinno.
+
+00:58:02.800 --> 00:58:04.800
+Remigiusz, jak pytasz się, co mogło
+
+00:58:04.800 --> 00:58:06.800
+że nie pasować, ja mam tu całą litanię rzeczy,
+
+00:58:06.800 --> 00:58:08.800
+które mi w tej grze nie pasowały,
+
+00:58:08.800 --> 00:58:10.800
+ale już uprzedzam
+
+00:58:10.800 --> 00:58:12.800
+wszystkich
+
+00:58:12.800 --> 00:58:14.800
+fanatyków
+
+00:58:14.800 --> 00:58:16.800
+PlayStation, że gra mi się bardzo podobała.
+
+00:58:16.800 --> 00:58:18.800
+Ja polecam, uważam, że to jest jedna z lepszych gier tego roku.
+
+00:58:18.800 --> 00:58:20.800
+Jak do tej pory tego nie poznali,
+
+00:58:20.800 --> 00:58:22.800
+to już nic nie uzasadni.
+
+00:58:22.800 --> 00:58:24.800
+Z telefonu nie musisz mówić.
+
+00:58:24.800 --> 00:58:26.800
+Jedną rzecz jeszcze chciałem powiedzieć, bo powiedziałeś o tych
+
+00:58:26.800 --> 00:58:28.800
+rzeczach graficznych, ja też mam swoje
+
+00:58:28.800 --> 00:58:30.800
+spostrzeżenia. Ja po pierwsze
+
+00:58:30.800 --> 00:58:32.800
+nie przyglądam się tak dokładnie, więc
+
+00:58:32.800 --> 00:58:34.800
+właściwie jestem takim typem gracza,
+
+00:58:34.800 --> 00:58:36.800
+dla którego robi się gry. To znaczy
+
+00:58:36.800 --> 00:58:38.800
+nie wnikam w szczegóły, patrzę ogółami
+
+00:58:38.800 --> 00:58:40.800
+i w tej i takiej perspektywie gra wygląda wyśmienicie,
+
+00:58:40.800 --> 00:58:42.800
+ale zgadzam się, że
+
+00:58:42.800 --> 00:58:44.800
+czasami bliższe obiekty
+
+00:58:44.800 --> 00:58:46.800
+są zbudowane na takich teksturach,
+
+00:58:46.800 --> 00:58:48.800
+które sugerowałyby obiekty
+
+00:58:48.800 --> 00:58:50.800
+odrobinę dalej położone.
+
+00:58:50.800 --> 00:58:52.800
+Widać tą niedoskonałość
+
+00:58:52.800 --> 00:58:54.800
+tekstur i muszę powiedzieć, że
+
+00:58:54.800 --> 00:58:56.800
+to, co jest w bardzo dalekim planie,
+
+00:58:56.800 --> 00:58:58.800
+czasami wygląda
+
+00:58:58.800 --> 00:59:00.800
+dużo gorzej niż cała reszta gry.
+
+00:59:00.800 --> 00:59:02.800
+Jak patrzysz tak sobie
+
+00:59:02.800 --> 00:59:03.800
+po horyzont...
+
+00:59:03.800 --> 00:59:05.800
+Jest ileś tam takich scen, gdzie
+
+00:59:05.800 --> 00:59:07.800
+są panoramy i to tam widać, że
+
+00:59:07.800 --> 00:59:09.800
+jest takie low poly trochę.
+
+00:59:09.800 --> 00:59:11.800
+Jest trochę. Rozumiem, że to
+
+00:59:11.800 --> 00:59:13.800
+był wybór między tym a optymalizacją
+
+00:59:13.800 --> 00:59:15.800
+i cieszę się, że wybrali optymalizację.
+
+00:59:15.800 --> 00:59:17.800
+Ja też, absolutnie.
+
+00:59:17.800 --> 00:59:19.800
+Ale tak, to jest
+
+00:59:19.800 --> 00:59:21.800
+akurat coś, co zauważyłem patrząc
+
+00:59:21.800 --> 00:59:22.800
+tylko tak po wierzchu.
+
+00:59:22.800 --> 00:59:24.800
+Ale są takie momenty,
+
+00:59:24.800 --> 00:59:26.800
+gdzie ewidentnie mogli
+
+00:59:26.800 --> 00:59:28.800
+przełożyć całą praktycznie moc
+
+00:59:28.800 --> 00:59:30.800
+na tekstury
+
+00:59:30.800 --> 00:59:32.800
+i jest taka sekwencja, gdzie
+
+00:59:32.800 --> 00:59:34.800
+chłopak się wspina na tak, nie powiem gdzie,
+
+00:59:34.800 --> 00:59:36.800
+na wysoką ścianę
+
+00:59:36.800 --> 00:59:37.800
+i to wygląda super tam.
+
+00:59:37.800 --> 00:59:39.800
+Znaczy naprawdę te skały, to wszystko
+
+00:59:39.800 --> 00:59:41.800
+tam widać, że to nie jest skomplikowane,
+
+00:59:41.800 --> 00:59:43.800
+ale to zrobiło na mnie
+
+00:59:43.800 --> 00:59:45.800
+bardzo, bardzo duże
+
+00:59:45.800 --> 00:59:47.800
+wrażenie.
+
+00:59:47.800 --> 00:59:49.800
+Problemy.
+
+00:59:49.800 --> 00:59:51.800
+Proszę cię bardzo. Bo ja nie miałem żadnych.
+
+00:59:51.800 --> 00:59:53.800
+No to ja powiem tak. Sama miłość.
+
+00:59:53.800 --> 00:59:55.800
+Ja spisywałem sobie po kolei.
+
+00:59:55.800 --> 00:59:57.800
+No i przede wszystkim ja miałem takie dziwne blokowanie
+
+00:59:57.800 --> 00:59:59.800
+się przy obiektach. Nie można przejść
+
+00:59:59.800 --> 01:00:01.800
+obok rzeczy, które
+
+01:00:01.800 --> 01:00:03.800
+twórcy nie przewidzieli, że
+
+01:00:03.800 --> 01:00:05.800
+można przejść. Na samym początku
+
+01:00:05.800 --> 01:00:07.800
+są takie dwie tarcze,
+
+01:00:07.800 --> 01:00:09.800
+gdzie sobie tam trenują.
+
+01:00:09.800 --> 01:00:11.800
+Takie miejsce do trenowania
+
+01:00:11.800 --> 01:00:13.800
+dla chłopaków naszych.
+
+01:00:13.800 --> 01:00:15.800
+No i tam może się zmieścić, ale on nie przejdzie,
+
+01:00:15.800 --> 01:00:17.800
+no bo to nieprzewidziane.
+
+01:00:17.800 --> 01:00:19.800
+Tak samo jak nie można
+
+01:00:19.800 --> 01:00:21.800
+przejść przez część
+
+01:00:21.800 --> 01:00:23.800
+takich płotków.
+
+01:00:23.800 --> 01:00:25.800
+Kurde, jakby jest Bóg
+
+01:00:25.800 --> 01:00:27.800
+wojny w jednej
+
+01:00:27.800 --> 01:00:29.800
+lokacji 5 minut
+
+01:00:29.800 --> 01:00:31.800
+temu, podnosi głazy, rozwala
+
+01:00:31.800 --> 01:00:33.800
+drzewa, a tutaj jest płotek
+
+01:00:33.800 --> 01:00:35.800
+i ja nie mogę przez niego przejść.
+
+01:00:35.800 --> 01:00:37.800
+To jest ból serca straszny.
+
+01:00:37.800 --> 01:00:39.800
+Strasznie, bo nie spotkałem takiej lokacji.
+
+01:00:39.800 --> 01:00:41.800
+No tak, to wspominałeś też przy
+
+01:00:41.800 --> 01:00:43.800
+Plague Tale Requiem, że takie rzeczy się zdarzają.
+
+01:00:43.800 --> 01:00:45.800
+I przy kodzie nowym.
+
+01:00:45.800 --> 01:00:47.800
+Z mojej perspektywy
+
+01:00:47.800 --> 01:00:49.800
+i to chyba kurde deweloperzy powinni wiedzieć,
+
+01:00:49.800 --> 01:00:51.800
+że jeżeli tworzą ścianę nie do przejścia,
+
+01:00:51.800 --> 01:00:53.800
+to niech ona ma uzasadnienie
+
+01:00:53.800 --> 01:00:55.800
+logiczne w świecie tej gry.
+
+01:00:55.800 --> 01:00:57.800
+Bo kiedyś tam są
+
+01:00:57.800 --> 01:00:59.800
+płotki albo jakiś stragan.
+
+01:01:01.800 --> 01:01:03.800
+Ja oczywiście rozumiem, bo ktoś może powiedzieć
+
+01:01:03.800 --> 01:01:05.800
+od zawsze tak było w tej serii,
+
+01:01:05.800 --> 01:01:07.800
+no ale
+
+01:01:07.800 --> 01:01:09.800
+od zawsze też była,
+
+01:01:09.800 --> 01:01:11.800
+nie wiem, nie przekraczali na starych
+
+01:01:11.800 --> 01:01:13.800
+konsolach 720p.
+
+01:01:13.800 --> 01:01:15.800
+Zmienia się to.
+
+01:01:15.800 --> 01:01:17.800
+Ja uważam, że powinni
+
+01:01:17.800 --> 01:01:19.800
+nie dawać
+
+01:01:19.800 --> 01:01:21.800
+szansy na to,
+
+01:01:21.800 --> 01:01:23.800
+żeby wychodzić z tej mersji.
+
+01:01:23.800 --> 01:01:25.800
+Przecież jestem bogiem wojny.
+
+01:01:25.800 --> 01:01:27.800
+Nie mogę przejść przez
+
+01:01:27.800 --> 01:01:29.800
+płotek z drewna?
+
+01:01:29.800 --> 01:01:31.800
+Przed chwilą rozwaliłem armię
+
+01:01:31.800 --> 01:01:33.800
+jakichś dziadów kamiennym
+
+01:01:33.800 --> 01:01:35.800
+głazem.
+
+01:01:35.800 --> 01:01:37.800
+Mnie to irytuje.
+
+01:01:37.800 --> 01:01:39.800
+Mnie to irytuje w grach,
+
+01:01:39.800 --> 01:01:41.800
+bo wiem, że można to rozwiązać
+
+01:01:41.800 --> 01:01:43.800
+lepiej. Można wymyśleć,
+
+01:01:43.800 --> 01:01:45.800
+można, prosta rzecz, idziemy w magię.
+
+01:01:45.800 --> 01:01:47.800
+Magiczna bariera, nie przejdziesz.
+
+01:01:47.800 --> 01:01:49.800
+Tak, tak.
+
+01:01:49.800 --> 01:01:51.800
+Chodzi o to, żeby świat był spójny, zgadza się.
+
+01:01:51.800 --> 01:01:53.800
+Tak.
+
+01:01:53.800 --> 01:01:55.800
+Trochę miałem problemów
+
+01:01:55.800 --> 01:01:57.800
+z animacjami. Ja od razu
+
+01:01:57.800 --> 01:01:59.800
+mówię, ja grałem po premierze.
+
+01:01:59.800 --> 01:02:01.800
+Po premierze, więc nie miałem,
+
+01:02:01.800 --> 01:02:03.800
+już byłem po day one patchu.
+
+01:02:03.800 --> 01:02:05.800
+Kratos
+
+01:02:05.800 --> 01:02:07.800
+często musi, żeby odpalić
+
+01:02:07.800 --> 01:02:09.800
+akcję, to on musi
+
+01:02:09.800 --> 01:02:11.800
+krok w tył. Czasami przesuwa się
+
+01:02:11.800 --> 01:02:13.800
+tak
+
+01:02:13.800 --> 01:02:15.800
+mechanicznie wręcz.
+
+01:02:15.800 --> 01:02:17.800
+To tak samo jest
+
+01:02:17.800 --> 01:02:19.800
+ze skakaniem przez przeszkody, że
+
+01:02:19.800 --> 01:02:21.800
+on robi taki ruch, że to nie jest naturalny
+
+01:02:21.800 --> 01:02:23.800
+skok, tylko tak jakby leciał trochę,
+
+01:02:23.800 --> 01:02:25.800
+bo ze złego miejsca wystartowaliśmy.
+
+01:02:25.800 --> 01:02:27.800
+Właściwie to nie chodzi o animacje,
+
+01:02:27.800 --> 01:02:29.800
+tylko chodzi o łączenie tych animacji.
+
+01:02:29.800 --> 01:02:31.800
+To jest takie, powiem szczerze,
+
+01:02:31.800 --> 01:02:33.800
+kurczę,
+
+01:02:33.800 --> 01:02:35.800
+spodziewałem się,
+
+01:02:35.800 --> 01:02:37.800
+że to będzie rozwiązane, że to
+
+01:02:37.800 --> 01:02:39.800
+popracują nad tym, mieli dużo, dużo czasu.
+
+01:02:39.800 --> 01:02:41.800
+Tego, to
+
+01:02:41.800 --> 01:02:43.800
+powiem ci, jeżeli już
+
+01:02:43.800 --> 01:02:45.800
+skończyłeś ten wątek, to ja bym chciał dorzucić swoje,
+
+01:02:45.800 --> 01:02:47.800
+bo nie wiem, czy cię przerywam w połowie, czy...
+
+01:02:47.800 --> 01:02:49.800
+Jeszcze nie ma nawet początku.
+
+01:02:49.800 --> 01:02:51.800
+Nie, nie, ale chodzi mi o ten wątek akurat
+
+01:02:51.800 --> 01:02:53.800
+z animacjami, więc
+
+01:02:53.800 --> 01:02:55.800
+nie zwróciłem uwagi, żeby się to zdarzało
+
+01:02:55.800 --> 01:02:57.800
+na obiektach, przez które się przemieszczałem.
+
+01:02:57.800 --> 01:02:59.800
+Być może właśnie to jest jedna z tych rzeczy, których nie dostrzegam,
+
+01:02:59.800 --> 01:03:01.800
+bo nie chcę. Natomiast zdarza mi się,
+
+01:03:01.800 --> 01:03:03.800
+że podejdę do obiektu i nagle znika
+
+01:03:03.800 --> 01:03:05.800
+ten przycisk interakcji. Muszę się cofnąć
+
+01:03:05.800 --> 01:03:07.800
+i żeby jeszcze raz, żeby znaleźć ten punkt interakcji,
+
+01:03:07.800 --> 01:03:09.800
+że to pole interakcji powinno być szersze.
+
+01:03:09.800 --> 01:03:11.800
+Teraz, kiedy to mówisz, to zakładam,
+
+01:03:11.800 --> 01:03:13.800
+że oni doprecyzowali
+
+01:03:13.800 --> 01:03:15.800
+to pole interakcji,
+
+01:03:15.800 --> 01:03:17.800
+żeby uniknąć tych
+
+01:03:17.800 --> 01:03:19.800
+zwichrowań animacji,
+
+01:03:19.800 --> 01:03:21.800
+które mogłyby nastąpić. Więc
+
+01:03:21.800 --> 01:03:23.800
+z tego to może wynikać. Ale faktycznie, to jest bardzo upierdliwe.
+
+01:03:23.800 --> 01:03:25.800
+Ja bym chciał, żeby pole interakcji było większe.
+
+01:03:25.800 --> 01:03:27.800
+Że za blisko podejdziesz do skrzyni
+
+01:03:27.800 --> 01:03:29.800
+albo do czegoś i ten przycisk
+
+01:03:29.800 --> 01:03:31.800
+znika i musisz się cofać.
+
+01:03:31.800 --> 01:03:33.800
+Oczywiście było trochę. Mam to na punkcie
+
+01:03:33.800 --> 01:03:35.800
+następnym. Kolejna rzecz
+
+01:03:35.800 --> 01:03:37.800
+to jest
+
+01:03:37.800 --> 01:03:39.800
+konstrukcja.
+
+01:03:39.800 --> 01:03:41.800
+Mówiłem o konstrukcji leveli, że to jest
+
+01:03:41.800 --> 01:03:43.800
+schematyczne bardzo. Takie rzeczy
+
+01:03:43.800 --> 01:03:45.800
+na przykład zjeżdżasz windą, nie jesteś w stanie
+
+01:03:45.800 --> 01:03:47.800
+z niej wyjść.
+
+01:03:47.800 --> 01:03:49.800
+Bariera po prostu jest. Nie możesz
+
+01:03:49.800 --> 01:03:51.800
+zejść sobie, mimo że nie ma płotka, nie ma nic.
+
+01:03:51.800 --> 01:03:53.800
+Musisz poczekać, aż to zjedzie do
+
+01:03:53.800 --> 01:03:55.800
+samego dołu. To jest takie jak
+
+01:03:55.800 --> 01:03:57.800
+na grę w 2022 roku.
+
+01:03:57.800 --> 01:03:59.800
+Muszę przyznać, że powinniśmy
+
+01:03:59.800 --> 01:04:01.800
+mieć trochę więcej
+
+01:04:01.800 --> 01:04:03.800
+luzu w takich rzeczach.
+
+01:04:03.800 --> 01:04:05.800
+Bo ja po prostu stoję
+
+01:04:05.800 --> 01:04:07.800
+i naduszam przycisk,
+
+01:04:07.800 --> 01:04:09.800
+żeby iść, a muszę poczekać, aż to
+
+01:04:09.800 --> 01:04:11.800
+tak do levelu zero.
+
+01:04:11.800 --> 01:04:13.800
+Jakby zjechało, to by cwaniaki skakiwały z góry
+
+01:04:13.800 --> 01:04:15.800
+i wchodziły pod windę, żeby zobaczyć, co się stanie.
+
+01:04:15.800 --> 01:04:17.800
+Ile by trzeba było tam programować i robić rzeczy,
+
+01:04:17.800 --> 01:04:19.800
+żeby to...
+
+01:04:19.800 --> 01:04:21.800
+Zgniotłamie winda. Boga wojny.
+
+01:04:21.800 --> 01:04:23.800
+Wystarczy, że windy wszystkie
+
+01:04:23.800 --> 01:04:25.800
+nie miałyby, wiesz, byłyby
+
+01:04:25.800 --> 01:04:27.800
+jakimś takim natłoku.
+
+01:04:27.800 --> 01:04:29.800
+Wyjeżdżałyby, byłyby zamknięte.
+
+01:04:29.800 --> 01:04:31.800
+Gry to i twórcy to rozwiązywali.
+
+01:04:31.800 --> 01:04:33.800
+Naprawdę.
+
+01:04:33.800 --> 01:04:35.800
+Jasne, jasne. Nie widziałem, ale spoko.
+
+01:04:35.800 --> 01:04:37.800
+Jeden z większych problemów
+
+01:04:37.800 --> 01:04:39.800
+to jest to,
+
+01:04:39.800 --> 01:04:41.800
+że bardzo dużo
+
+01:04:41.800 --> 01:04:43.800
+fajnej akcji
+
+01:04:43.800 --> 01:04:45.800
+dzieje się bez kontroli gracze.
+
+01:04:45.800 --> 01:04:47.800
+I nie mówię o takich cutscenkach,
+
+01:04:47.800 --> 01:04:49.800
+że tam chodzą i gadają,
+
+01:04:49.800 --> 01:04:51.800
+tylko mówię o takich, że
+
+01:04:51.800 --> 01:04:53.800
+my z kimś walczymy i ta ostatnia akcja
+
+01:04:53.800 --> 01:04:55.800
+to nawet nie jest quick time event,
+
+01:04:55.800 --> 01:04:57.800
+tylko po prostu Kratos przychodzi
+
+01:04:57.800 --> 01:04:59.800
+i rozwala, robi komba, pięć
+
+01:04:59.800 --> 01:05:01.800
+i my na to patrzymy sobie.
+
+01:05:01.800 --> 01:05:03.800
+Chłopie, zrobiłeś to za mnie.
+
+01:05:03.800 --> 01:05:05.800
+Ja to lubię.
+
+01:05:05.800 --> 01:05:07.800
+Ale ci wystawkę zrobiłem.
+
+01:05:07.800 --> 01:05:09.800
+Teraz jesteś jak Lewandowski
+
+01:05:09.800 --> 01:05:11.800
+a ci kurde zrobiłem akcję.
+
+01:05:11.800 --> 01:05:13.800
+Ja tego nie lubię.
+
+01:05:13.800 --> 01:05:15.800
+Ja to lubię, lubię. Odłożyć kontroler.
+
+01:05:15.800 --> 01:05:17.800
+Teraz Kratos, pokaż co potrafisz.
+
+01:05:17.800 --> 01:05:19.800
+Nie lubię, jak mi zabierają
+
+01:05:19.800 --> 01:05:21.800
+kontrolę w grze.
+
+01:05:21.800 --> 01:05:23.800
+No dalej, mimo tego, że
+
+01:05:23.800 --> 01:05:25.800
+jest lepiej niż poprzednio, to dalej
+
+01:05:25.800 --> 01:05:27.800
+powtarzają się te finishery,
+
+01:05:27.800 --> 01:05:29.800
+ale jest lepiej.
+
+01:05:29.800 --> 01:05:31.800
+Jest lepiej, ale bardzo.
+
+01:05:31.800 --> 01:05:33.800
+Są takie levele, gdzie ja tych finisherów
+
+01:05:33.800 --> 01:05:35.800
+co chwilę mam ten sam finisher.
+
+01:05:35.800 --> 01:05:37.800
+I mówiłem o tym już
+
+01:05:37.800 --> 01:05:39.800
+dawno, jak rozmawialiśmy trochę
+
+01:05:39.800 --> 01:05:41.800
+o tym, co powinno być zmienione.
+
+01:05:41.800 --> 01:05:43.800
+Mówiłem, że fajnie, gdyby rzeczywiście
+
+01:05:43.800 --> 01:05:45.800
+było dużo ich.
+
+01:05:45.800 --> 01:05:47.800
+Jest lepiej, ale...
+
+01:05:47.800 --> 01:05:49.800
+Kolejny zarzut. Gra cały
+
+01:05:49.800 --> 01:05:51.800
+czas nam mówi, co mamy robić.
+
+01:05:51.800 --> 01:05:53.800
+I...
+
+01:05:53.800 --> 01:05:55.800
+Atreus mówi,
+
+01:05:55.800 --> 01:05:57.800
+ej, zobacz tu, dotknij tam.
+
+01:05:57.800 --> 01:05:59.800
+Tu chyba to trzeba przestawić.
+
+01:05:59.800 --> 01:06:01.800
+Czasami może jest to upierdliwe, ale to fajne.
+
+01:06:01.800 --> 01:06:03.800
+Ja tak, jak pokazuję palcem, ej, widzę coś tam,
+
+01:06:03.800 --> 01:06:05.800
+nie? I stoję i mówię, o cholera,
+
+01:06:05.800 --> 01:06:07.800
+chyba tam trzeba spojrzeć.
+
+01:06:07.800 --> 01:06:09.800
+To nie są trudne zagadki.
+
+01:06:09.800 --> 01:06:11.800
+Takie nakierowywanie...
+
+01:06:11.800 --> 01:06:13.800
+średnie. Po drugie,
+
+01:06:13.800 --> 01:06:15.800
+wszystkie praktycznie...
+
+01:06:15.800 --> 01:06:17.800
+Nie wszystkie miejsc. Większość miejsc
+
+01:06:17.800 --> 01:06:19.800
+jest oznaczona takimi białymi
+
+01:06:19.800 --> 01:06:21.800
+śladami.
+
+01:06:21.800 --> 01:06:23.800
+Ja czułem się trochę...
+
+01:06:23.800 --> 01:06:25.800
+Ej, gro, daj mi trochę
+
+01:06:25.800 --> 01:06:27.800
+poszukać tutaj rozwiązania.
+
+01:06:27.800 --> 01:06:29.800
+Tam, gdzie mogę wejść,
+
+01:06:29.800 --> 01:06:31.800
+to wszędzie są te białe praktycznie...
+
+01:06:31.800 --> 01:06:33.800
+Znaczy nie wszędzie, bo są te ukryte miejsca, gdzie
+
+01:06:33.800 --> 01:06:35.800
+nie ma tych białych śladów i można tam
+
+01:06:35.800 --> 01:06:37.800
+wejść. Tam są jakieś czasami znajdźki.
+
+01:06:37.800 --> 01:06:39.800
+O tych białych śladach mówisz o znakach runicznych,
+
+01:06:39.800 --> 01:06:41.800
+które są na obiektach.
+
+01:06:41.800 --> 01:06:43.800
+Możemy przeskoczyć i możemy na nie
+
+01:06:43.800 --> 01:06:45.800
+wejść albo możemy wejść z nimi w interakcję.
+
+01:06:45.800 --> 01:06:47.800
+I to jest bardzo Tomb Raider
+
+01:06:47.800 --> 01:06:49.800
+tam 5-8 lat temu.
+
+01:06:49.800 --> 01:06:51.800
+Wiesz co, okej, okej.
+
+01:06:51.800 --> 01:06:53.800
+To znaczy, po pierwsze,
+
+01:06:53.800 --> 01:06:55.800
+podobają mi się te znaczniki, że one tam są. One nie zawsze
+
+01:06:55.800 --> 01:06:57.800
+są białe, są w różnych kolorach, w zależności od tego
+
+01:06:57.800 --> 01:06:59.800
+jaka tam tekstura jest pod spodem.
+
+01:06:59.800 --> 01:07:01.800
+Natomiast muszę przyznać, że te akcje, kiedy
+
+01:07:01.800 --> 01:07:03.800
+towarzysze pokazują nam,
+
+01:07:03.800 --> 01:07:05.800
+gdzie mamy iść, to ja je tak trochę
+
+01:07:05.800 --> 01:07:07.800
+traktuję, że oni się spieszą w tym kierunku, że oni
+
+01:07:07.800 --> 01:07:09.800
+mają jakiś swój własny cel. I to
+
+01:07:09.800 --> 01:07:11.800
+na przykład, kiedy spotykamy
+
+01:07:11.800 --> 01:07:13.800
+Tyra, co spoilerem nie jest, bo Tyr
+
+01:07:13.800 --> 01:07:15.800
+to faktycznie był w tym
+
+01:07:15.800 --> 01:07:17.800
+trailerze, to jest parę
+
+01:07:17.800 --> 01:07:19.800
+takich rozmów, że Tyr mówi, ej słuchaj, musimy
+
+01:07:19.800 --> 01:07:21.800
+iść tutaj, a tymczasem Mimir
+
+01:07:21.800 --> 01:07:23.800
+mówi, ej poczekaj, bo Kratos lubi
+
+01:07:23.800 --> 01:07:25.800
+zbierać skarby. I to jest
+
+01:07:25.800 --> 01:07:27.800
+wiesz, i to jest coś takiego, że ja idę eksplorować coś,
+
+01:07:27.800 --> 01:07:29.800
+Tyr mnie popędza, a Mimir
+
+01:07:29.800 --> 01:07:31.800
+mnie usprawiedliwia.
+
+01:07:31.800 --> 01:07:33.800
+I takich parę
+
+01:07:33.800 --> 01:07:35.800
+rzeczy się zdarza i potem jak ja już grałem, to
+
+01:07:35.800 --> 01:07:37.800
+też sam odpowiadałem, jak mi przyszedł
+
+01:07:37.800 --> 01:07:39.800
+Atreus. Mówi, tu musimy iść tam.
+
+01:07:39.800 --> 01:07:41.800
+Spokojnie, tatuś idzie po skrzynkę.
+
+01:07:41.800 --> 01:07:43.800
+Czy coś ten deser.
+
+01:07:43.800 --> 01:07:45.800
+Wychodzimy, a on mówi często,
+
+01:07:45.800 --> 01:07:47.800
+ej, tu jeszcze zostawiłeś jakiś skarb.
+
+01:07:47.800 --> 01:07:49.800
+Aha, to tego nie zwróciłem
+
+01:07:49.800 --> 01:07:51.800
+uwagi, bo ja nie zostawiam skarbów.
+
+01:07:51.800 --> 01:07:53.800
+Ja no żartuję,
+
+01:07:53.800 --> 01:07:55.800
+oczywiście, że są rzeczy, które
+
+01:07:55.800 --> 01:07:57.800
+robię, ja pewnie, że tak.
+
+01:07:57.800 --> 01:07:59.800
+Kolejna rzecz to taka średnia woda, muszę przyznać,
+
+01:07:59.800 --> 01:08:01.800
+chociaż dużo lepsza niż w tej poprzedniej części,
+
+01:08:01.800 --> 01:08:03.800
+ale te interakcje z wodą takie,
+
+01:08:03.800 --> 01:08:05.800
+no okej, pływamy
+
+01:08:05.800 --> 01:08:07.800
+sobie też spoko, czy tam
+
+01:08:07.800 --> 01:08:09.800
+inne rzeczy robimy z wodą,
+
+01:08:09.800 --> 01:08:11.800
+ale coś wrzucimy do tej wody,
+
+01:08:11.800 --> 01:08:13.800
+jak się jej przybliżymy,
+
+01:08:13.800 --> 01:08:15.800
+to ona jest taka...
+
+01:08:15.800 --> 01:08:17.800
+Ja nic nie wrzucam do niej.
+
+01:08:17.800 --> 01:08:19.800
+Miałem
+
+01:08:19.800 --> 01:08:21.800
+standardowy problem w grach
+
+01:08:21.800 --> 01:08:23.800
+Sony, znaczy standardowy, może nie standardowy,
+
+01:08:23.800 --> 01:08:25.800
+ale w GovZone z Tsushima miałem to samo.
+
+01:08:25.800 --> 01:08:27.800
+Jak zabijasz wrogów na schodach,
+
+01:08:27.800 --> 01:08:29.800
+to oni się praktycznie zawsze zapadają.
+
+01:08:29.800 --> 01:08:31.800
+Są jakieś takie glicze z tymi schodami.
+
+01:08:31.800 --> 01:08:33.800
+To ciężko jest zrobić
+
+01:08:33.800 --> 01:08:35.800
+na pewno.
+
+01:08:35.800 --> 01:08:37.800
+Jest to udowodnione przez wielokrotne
+
+01:08:37.800 --> 01:08:39.800
+błędy, że tak się zdarza. Ja miałem
+
+01:08:39.800 --> 01:08:41.800
+na przykład finishery na innym poziomie,
+
+01:08:41.800 --> 01:08:43.800
+niż był przeciwnik. On tam umierał,
+
+01:08:43.800 --> 01:08:45.800
+rozrywany był na kawałki.
+
+01:08:45.800 --> 01:08:47.800
+Nie wiem,
+
+01:08:47.800 --> 01:08:49.800
+czy mnie pokonasz, ja wypadłem za mapę.
+
+01:08:49.800 --> 01:08:51.800
+O nie, to mi się nie zdarzyło.
+
+01:08:51.800 --> 01:08:53.800
+Wrzuciłem na Twittera oczywiście
+
+01:08:53.800 --> 01:08:55.800
+filmik na PlayStation.
+
+01:08:55.800 --> 01:08:57.800
+Masz powód, dlaczego my nie jesteśmy na białej liście
+
+01:08:57.800 --> 01:08:59.800
+w PlayStation.
+
+01:08:59.800 --> 01:09:01.800
+To ostatnie 15 minut, to jest ten powód.
+
+01:09:01.800 --> 01:09:03.800
+Więc
+
+01:09:03.800 --> 01:09:05.800
+i tyle. Powiem szczerze,
+
+01:09:05.800 --> 01:09:07.800
+jakichś takich błędów
+
+01:09:07.800 --> 01:09:09.800
+miałem minimalną ilość.
+
+01:09:09.800 --> 01:09:11.800
+Minimalną.
+
+01:09:11.800 --> 01:09:13.800
+No to raz wypadłem, to musiałem
+
+01:09:13.800 --> 01:09:15.800
+zrestartować level. Ja też
+
+01:09:15.800 --> 01:09:17.800
+słyszałem, że kilku osobom
+
+01:09:17.800 --> 01:09:19.800
+się dzieje tak, że
+
+01:09:19.800 --> 01:09:21.800
+blokuje im się
+
+01:09:21.800 --> 01:09:23.800
+misja. Ja tak nie miałem
+
+01:09:23.800 --> 01:09:25.800
+zupełnie. Nigdy nie miałem.
+
+01:09:25.800 --> 01:09:27.800
+Stan techniczny gry uważam za
+
+01:09:27.800 --> 01:09:29.800
+bardzo, bardzo dobry.
+
+01:09:29.800 --> 01:09:31.800
+No i tutaj musimy sobie
+
+01:09:31.800 --> 01:09:33.800
+odpowiedzieć na pytanie, czy
+
+01:09:33.800 --> 01:09:35.800
+kontynuacja
+
+01:09:35.800 --> 01:09:37.800
+tak dobrej, tak ważnej
+
+01:09:37.800 --> 01:09:39.800
+gry jak God of War,
+
+01:09:39.800 --> 01:09:41.800
+to musi być czymś więcej, czy wystarczy, że
+
+01:09:41.800 --> 01:09:43.800
+jest tym, czym jest?
+
+01:09:43.800 --> 01:09:45.800
+Wiesz co, dużo dyskusji pojawiało
+
+01:09:45.800 --> 01:09:47.800
+na ten temat. Cały czas złośliwcy piszą,
+
+01:09:47.800 --> 01:09:49.800
+że to nie jest niepełna gra, bo zbyt
+
+01:09:49.800 --> 01:09:51.800
+przypomina wersję z
+
+01:09:51.800 --> 01:09:53.800
+2018 roku. Ale
+
+01:09:53.800 --> 01:09:55.800
+powiedziałbym, że dla mnie to jest
+
+01:09:55.800 --> 01:09:57.800
+absolutnie kompletna gra. Dużo czasu przy niej spędziłem.
+
+01:09:57.800 --> 01:09:59.800
+Można przy niej spędzić naprawdę powyżej
+
+01:09:59.800 --> 01:10:01.800
+50 godzin. I to jest
+
+01:10:01.800 --> 01:10:03.800
+fantastyczne doświadczenie, bardzo wzbogacone.
+
+01:10:03.800 --> 01:10:05.800
+To jest oczywiście kwintesencja
+
+01:10:05.800 --> 01:10:07.800
+tych pomysłów, które zostały stworzone w 2018
+
+01:10:07.800 --> 01:10:09.800
+roku, rozszerzona o nowe rzeczy.
+
+01:10:09.800 --> 01:10:11.800
+Ale no tak, to jest gra,
+
+01:10:11.800 --> 01:10:13.800
+którą żeśmy znali już wtedy.
+
+01:10:13.800 --> 01:10:15.800
+Jeżeli ktoś patrzy tylko i wyłącznie
+
+01:10:15.800 --> 01:10:17.800
+w kontekście podobieństw, to
+
+01:10:17.800 --> 01:10:19.800
+może się ślić na tego typu rzeczy.
+
+01:10:19.800 --> 01:10:21.800
+Ale jakby, gdyby
+
+01:10:21.800 --> 01:10:23.800
+ta gra funkcjonowała bez poprzedniczki,
+
+01:10:23.800 --> 01:10:25.800
+to byłaby uważana za kompletną produkcję
+
+01:10:25.800 --> 01:10:27.800
+i nikt nie miałby absolutnie żadnych zastrzeżeń, czy to jest
+
+01:10:27.800 --> 01:10:29.800
+kompletna gra. I patrząc
+
+01:10:29.800 --> 01:10:31.800
+w ten sposób, można jasno powiedzieć, że
+
+01:10:31.800 --> 01:10:33.800
+absolutnie jest to kompletna,
+
+01:10:33.800 --> 01:10:35.800
+osobna gra, która po prostu opowiada
+
+01:10:35.800 --> 01:10:37.800
+podobną historię albo kontynuację tej historii.
+
+01:10:37.800 --> 01:10:39.800
+Jako samodzielna gra
+
+01:10:39.800 --> 01:10:41.800
+ta jakby spełnia potrzeby.
+
+01:10:41.800 --> 01:10:43.800
+Nie, nie, absolutnie.
+
+01:10:43.800 --> 01:10:45.800
+Ja myślę, że to jest epicka. Ja powiem Ci tak,
+
+01:10:45.800 --> 01:10:47.800
+no mi się nie podoba trochę, że to, co ja uznawałem
+
+01:10:47.800 --> 01:10:49.800
+za błąd albo problem,
+
+01:10:49.800 --> 01:10:51.800
+no to twórcy pewnych rzeczy
+
+01:10:51.800 --> 01:10:53.800
+nie naprawili. To nie tylko ja, jakby
+
+01:10:53.800 --> 01:10:55.800
+to dużo
+
+01:10:55.800 --> 01:10:57.800
+było takich rzeczy. Ja mam
+
+01:10:57.800 --> 01:10:59.800
+problem jednak trochę z archaicznością
+
+01:10:59.800 --> 01:11:01.800
+tego gameplaya, tego, że
+
+01:11:01.800 --> 01:11:03.800
+jesteśmy w tych takich, że
+
+01:11:03.800 --> 01:11:05.800
+takie gry to się robiło dawno temu.
+
+01:11:05.800 --> 01:11:07.800
+I oczywiście ta sama walka
+
+01:11:07.800 --> 01:11:09.800
+jest spoko, ale to dużo
+
+01:11:09.800 --> 01:11:11.800
+konstrukcja tych
+
+01:11:11.800 --> 01:11:13.800
+światów, to, że
+
+01:11:13.800 --> 01:11:15.800
+to jest tak korytarzowe, mimo,
+
+01:11:15.800 --> 01:11:17.800
+że Horizon pokazał,
+
+01:11:17.800 --> 01:11:19.800
+że można zrobić na najwyższym poziomie
+
+01:11:19.800 --> 01:11:21.800
+grafikę i mieć ten otwarty świat
+
+01:11:21.800 --> 01:11:23.800
+i to wygląda bajecznie,
+
+01:11:23.800 --> 01:11:25.800
+to trochę ja czułem, może
+
+01:11:25.800 --> 01:11:27.800
+przez tego Forbidden West,
+
+01:11:27.800 --> 01:11:29.800
+bo mi się graficznie
+
+01:11:29.800 --> 01:11:31.800
+i gameplayowo bardzo podobała ta gra,
+
+01:11:31.800 --> 01:11:33.800
+fabularnie mi się nie podobała,
+
+01:11:33.800 --> 01:11:35.800
+no to tutaj
+
+01:11:35.800 --> 01:11:37.800
+po tej grze trochę,
+
+01:11:37.800 --> 01:11:39.800
+trochę czuję, że ona jest zacofana jednak technologicznie
+
+01:11:39.800 --> 01:11:41.800
+i jest jedna rzecz,
+
+01:11:41.800 --> 01:11:43.800
+którą chciałem bardzo
+
+01:11:43.800 --> 01:11:45.800
+i którą mi nie dali, czyli
+
+01:11:45.800 --> 01:11:47.800
+nie ma takich epickich
+
+01:11:47.800 --> 01:11:49.800
+walk z ogromnymi bossami,
+
+01:11:49.800 --> 01:11:51.800
+gdzie co jakiś czas
+
+01:11:51.800 --> 01:11:53.800
+trochę się zmieniał gameplay
+
+01:11:53.800 --> 01:11:55.800
+i różne rzeczy się tam z nimi robiły, jak w poprzednich częściach.
+
+01:11:55.800 --> 01:11:57.800
+Czy biłeś babcię?
+
+01:11:57.800 --> 01:11:59.800
+Co? Czy babcię biłeś?
+
+01:11:59.800 --> 01:12:01.800
+Tak, no tam
+
+01:12:01.800 --> 01:12:03.800
+wypadłem właśnie poza mapę.
+
+01:12:03.800 --> 01:12:05.800
+Okej.
+
+01:12:05.800 --> 01:12:07.800
+Ale to jest
+
+01:12:07.800 --> 01:12:09.800
+walka z babcią?
+
+01:12:09.800 --> 01:12:11.800
+Już nie opowiadajmy więcej, bo już nie chcę.
+
+01:12:11.800 --> 01:12:13.800
+Mario Odyssey.
+
+01:12:13.800 --> 01:12:15.800
+Więc
+
+01:12:15.800 --> 01:12:17.800
+no bo głównie
+
+01:12:17.800 --> 01:12:19.800
+większość tych bossów to jest jednak
+
+01:12:19.800 --> 01:12:21.800
+takie jak w Soulsach, że mamy arenę
+
+01:12:21.800 --> 01:12:23.800
+i ten
+
+01:12:23.800 --> 01:12:25.800
+czasami jest trochę większy, czasami
+
+01:12:25.800 --> 01:12:27.800
+ma inną teksturę, ale ogólnie bardzo podobnie
+
+01:12:27.800 --> 01:12:29.800
+się z nimi walczy. Trochę mi
+
+01:12:29.800 --> 01:12:31.800
+brakuje takich, że mamy tam
+
+01:12:31.800 --> 01:12:33.800
+wspinanie się na olbrzymanie.
+
+01:12:33.800 --> 01:12:35.800
+Może to jest faktycznie kwestia technologii,
+
+01:12:35.800 --> 01:12:37.800
+bo zgadzam się, że Horizon Forbidden West
+
+01:12:37.800 --> 01:12:39.800
+jest majstersztykiem, jeżeli chodzi o grafikę,
+
+01:12:39.800 --> 01:12:41.800
+optymalizację, to świetnie wygląda
+
+01:12:41.800 --> 01:12:43.800
+i lepiej wygląda, zwłaszcza w takich dłuższych
+
+01:12:45.800 --> 01:12:47.800
+Jezu, muszę iść do dzieci swoich.
+
+01:12:47.800 --> 01:12:49.800
+Dobrze, kończymy już.
+
+01:12:49.800 --> 01:12:51.800
+Czy ty się pożegnasz z państwem?
+
+01:12:51.800 --> 01:12:53.800
+Jezus Maria, dziecko mi zostało samo w domu,
+
+01:12:53.800 --> 01:12:55.800
+więc moja żona pojechała
+
+01:12:55.800 --> 01:12:56.800
+coś tam załatwiać.
+
+01:12:56.800 --> 01:12:58.800
+Ty myślisz, że ktoś jest obcy w domu?
+
+01:12:58.800 --> 01:13:00.800
+Nie, raczej się kłóci jedno dziecko z drugim
+
+01:13:00.800 --> 01:13:02.800
+i już weszło.
+
+01:13:02.800 --> 01:13:04.800
+Nie wiem, ale mam już teraz, wiesz,
+
+01:13:04.800 --> 01:13:06.800
+się uruchomiły te.
+
+01:13:06.800 --> 01:13:08.800
+Ja realnie skończyłem Remigiuszu,
+
+01:13:08.800 --> 01:13:10.800
+więc możemy się pożegnać z widzami.
+
+01:13:10.800 --> 01:13:12.800
+Już jest bardzo długi podcast.
+
+01:13:12.800 --> 01:13:14.800
+Tak, pozdrawiamy państwa bardzo serdecznie.
+
+01:13:14.800 --> 01:13:16.800
+Idę ratować dzieci.
+
+01:13:16.800 --> 01:13:18.800
+Jak prawdziwy Kratos.
+
+01:13:18.800 --> 01:13:20.800
+Tak.
+
+01:13:20.800 --> 01:13:22.800
+Oczywiście do państwa mamy
+
+01:13:22.800 --> 01:13:24.800
+standardowo pytanie,
+
+01:13:24.800 --> 01:13:26.800
+czy jeżeli graliście,
+
+01:13:26.800 --> 01:13:28.800
+to co sądzicie o nowym God of Warze?
+
+01:13:28.800 --> 01:13:30.800
+Bo stawiam, że część z was, duża część grała.
+
+01:13:30.800 --> 01:13:32.800
+Jak wrażenia? Czy wam się podobało?
+
+01:13:32.800 --> 01:13:34.800
+Może ktoś się zawiódł? Ja bym z chęcią poczytał
+
+01:13:34.800 --> 01:13:36.800
+takie konkrety.
+
+01:13:36.800 --> 01:13:38.800
+Jasne. Ja pozdrawiamy państwa bardzo serdecznie
+
+01:13:38.800 --> 01:13:40.800
+i przepraszam, że być może
+
+01:13:40.800 --> 01:13:42.800
+przyspieszyłem trochę tę końcówkę.
+
+01:13:42.800 --> 01:13:44.800
+Do zobaczenia. Trzymajcie się.
+
+01:13:44.800 --> 01:13:50.800
+Cześć.
+

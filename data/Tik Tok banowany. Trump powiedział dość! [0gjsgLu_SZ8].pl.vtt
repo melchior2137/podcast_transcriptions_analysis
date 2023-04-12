@@ -1,0 +1,2317 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.900
+Dzień dobry, witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Ja jestem Rock, dzień dobry.
+
+00:00:05.900 --> 00:00:07.900
+Dzień dobry, ja jestem Borys.
+
+00:00:07.900 --> 00:00:16.600
+Proszę Państwa, będziemy dzisiaj rozmawiali o strasznych dramatach młodzieży amerykańskiej, czyli blokadzie TikToka przez pana prezydenta Trumpa.
+
+00:00:16.600 --> 00:00:20.600
+Ale zanim oczywiście pogadamy, to zapytam, co tam u Ciebie ciekawego?
+
+00:00:20.600 --> 00:00:21.600
+Dużo.
+
+00:00:21.600 --> 00:00:23.600
+O kurde, no to proszę.
+
+00:00:23.600 --> 00:00:31.600
+Nie, to mam parę rzeczy. Pierwsza rzecz to jest taka, że zacząłem regularnie słuchać radia Nowy Świat.
+
+00:00:31.600 --> 00:00:33.600
+O proszę, jak się sprawdza?
+
+00:00:33.600 --> 00:00:37.600
+Całkiem nieźle. Muzyka trochę...
+
+00:00:37.600 --> 00:00:39.600
+Jak w Trójce, no cóż.
+
+00:00:39.600 --> 00:00:58.600
+Ale ma jakąś taką atmosferę to radio takiego, że w kuchni zrobiłem sobie takie radio na Raspberry Pi Zero, że po prostu Raspberry Pi Zero dostaje prąd i odtwarza radio Nowy Świat, nic więcej nie robi.
+
+00:00:58.600 --> 00:01:08.600
+To jest bardzo proste, super, ekstra energooszczędne, podłączone mam to do jakichś głośników i fajnie się to sprawdza, więc jestem zadowolony.
+
+00:01:08.600 --> 00:01:28.600
+Będę w ogóle jeszcze na Raspberry Pi robił dwa takie małe projekty, taki głośnik multimedialny i będę przerabiał wzmacniacz, taki amplituner właściwie do tego, żeby był takim multimedialnym amplitunerem i był takim odbiorcą strumienia Spotify'a i tam innych wszystkich takich rzeczy.
+
+00:01:28.600 --> 00:01:34.600
+Więc jeszcze będę się trochę bał, to są proste rzeczy, powiem szczerze, ja to bardziej konfiguruję to niż tam coś robię.
+
+00:01:34.600 --> 00:01:41.600
+Słucham co mówisz, tam puszczam jednym uchem, wypuszczam drugim, bo to i tak nie załapie.
+
+00:01:41.600 --> 00:01:58.600
+Więc trochę się wkręciłem, kupiłem sobie już trzy malinki, Raspberry Pi to jest taki minikomputer jakby ktoś się wiedział, malutki i bardzo tani, to Raspberry Pi Zero kosztuje 80 zł, wersja W od razu z Wi-Fi, więc fajnie.
+
+00:01:58.600 --> 00:02:04.600
+To jest taka rzecz, która trochę jestem z siebie dumny, że tak sobie wymyśliłem i zrobiłem.
+
+00:02:04.600 --> 00:02:06.600
+Prawie jak struganie łyżki.
+
+00:02:06.600 --> 00:02:07.600
+Tak.
+
+00:02:07.600 --> 00:02:09.600
+Ale nie do końca.
+
+00:02:09.600 --> 00:02:16.600
+Struganiu więcej było, bo to takie bardziej jak składanie Lego to jest, tam coś wymyślisz, składasz i okej.
+
+00:02:16.600 --> 00:02:30.600
+Jeszcze X-Cloud będzie w Polsce, dzisiejsza informacja, właściwie wczoraj X-Cloud będzie w Polsce od dnia premiery, niespodziewana wiadomość, trochę byłem zaskoczony.
+
+00:02:30.600 --> 00:02:36.600
+Może porozmawiamy to przy okazji konferencji Sony.
+
+00:02:36.600 --> 00:02:46.600
+No być może, chociaż mam taką obawę a propos tej konferencji, to zapomniałem ci powiedzieć wcześniej, mam taką obawę, że tam nie będzie o czym rozmawiać, że to będzie takie state of play, takie typowe, czyli w zasadzie.
+
+00:02:46.600 --> 00:02:48.600
+Coś znajdziemy, coś znajdziemy.
+
+00:02:48.600 --> 00:02:50.600
+No dobrze, dobrze, dobrze.
+
+00:02:50.600 --> 00:02:53.600
+No i chyba w sumie tyle, u mnie Remington, co u ciebie?
+
+00:02:53.600 --> 00:03:06.600
+Też fajne rzeczy, to znaczy po pierwsze odnosząc się trochę do tego co powiedziałeś, to ja muszę sobie przede wszystkim zamontować jakieś głośniki takie na bluetooth bezprzewodowe w dużym pokoju, żeby więcej słuchać radia albo w ogóle muzyki.
+
+00:03:06.600 --> 00:03:10.600
+Bo nie słucham nic, ale głównie dlatego, że nie mam gdzie tego odtwarzać, a na słuchawkach nie będę przechodził po domu.
+
+00:03:10.600 --> 00:03:14.600
+A masz jakiś taki chociaż stary system stereo, coś takiego masz?
+
+00:03:14.600 --> 00:03:30.600
+Nie, w ogóle nic, nic, a nic, totalnie nic. Ja byłem przyzwyczajony zawsze do słuchania muzyki na słuchawkach. Moja żona lubi muzykę, to nie jest tak, nie mogę powiedzieć, żeby nie, ale nie szuka za wszelką cenę okazji, żeby muzyki posłuchać.
+
+00:03:30.600 --> 00:03:47.600
+Więc ja przyzwyczaiłem się do tego, że słucham sam i muszę to wprowadzić koniecznie, bo dzieci mi rosną, a dzieci trzeba edukować muzycznie, bo nie wiadomo co tam potem będą słuchać. Więc tutaj muszę przekazać swoje zainteresowania koniecznie, a najlepiej to zrobić słuchając głośno muzyki nawet jak ktoś nie chce słuchać.
+
+00:03:47.600 --> 00:03:49.600
+Dokładnie, dokładnie.
+
+00:03:49.600 --> 00:03:53.600
+Więc taki mam plan, to jest ważne. A druga, pamiętasz nasz lokal, w którym robiliśmy podcast?
+
+00:03:53.600 --> 00:03:57.600
+Jak to pamiętam, co znaczy?
+
+00:03:57.600 --> 00:04:09.600
+Widziałem, że niebogu się pojawiło na twojej twarzy, na mojej też się pojawiło jak usłyszałem dzisiejszą wiadomość. Otóż dostałem maila z numerem telefonu i z informacją, panie cieknie mi woda w garażu po ścianie z pańskiego lokalu.
+
+00:04:09.600 --> 00:04:12.600
+A to już było. To już kiedyś była taka akcja.
+
+00:04:12.600 --> 00:04:13.600
+Poważnie?
+
+00:04:13.600 --> 00:04:15.600
+Tak, to mówiłeś, znaczy ty mi to mówiłeś.
+
+00:04:15.600 --> 00:04:16.600
+Nie.
+
+00:04:16.600 --> 00:04:18.600
+To jest jakaś awaria była?
+
+00:04:18.600 --> 00:04:30.600
+Nie mam zielonego pojęcia. Mówię, kurde, dobra, albo by żeśmy nie... Mówię, Borys pewnie nie spuścił wody albo... Nie, nie mam pojęcia co tam może cię... Może ktoś wody nie zakręcił tam, a może po prostu jakaś rura pękła.
+
+00:04:30.600 --> 00:04:34.600
+Ty chcesz mi powiedzieć, że jeszcze tam nie byłeś?
+
+00:04:34.600 --> 00:04:45.600
+No nie, no przecież wiesz, będę jechał jutro, nie? Nie podejrzewam, że to jakaś rura, wiesz, że to jakaś rura. To nie tam, że panie na ulicę cieknie z pańskiego lokalu, wylewają się litry wody.
+
+00:04:45.600 --> 00:04:51.600
+Tak na wysokości metra przez drzwi, przez dziurkę od klucza, wiesz, woda.
+
+00:04:51.600 --> 00:04:53.600
+Wyjdę na tą akwarium.
+
+00:04:53.600 --> 00:04:58.600
+Ja tak sobie zastanawiam, co tam były za moje rzeczy? Czapki. Nie, wysoko były, dobra.
+
+00:04:58.600 --> 00:05:00.600
+No wysoko, to tam raczej nic ci nie grozi.
+
+00:05:00.600 --> 00:05:01.600
+Miser mikrofony.
+
+00:05:01.600 --> 00:05:05.600
+Podejrzewam, że jakaś rura, no rura jakaś mogła pęknąć.
+
+00:05:05.600 --> 00:05:06.600
+No kurde.
+
+00:05:06.600 --> 00:05:07.600
+No, więc...
+
+00:05:07.600 --> 00:05:10.600
+Może ja tam też jutro podjadę, żeby od razu, wiesz.
+
+00:05:10.600 --> 00:05:15.600
+Ja nie wiem, o której ja będę godzinie, ale masz klucz, to możesz się przyjrzeć też zawsze, jak będziesz gdzieś przy okazji.
+
+00:05:15.600 --> 00:05:16.600
+No i to tyle, to tyle.
+
+00:05:16.600 --> 00:05:19.600
+Ja nie będę, to specjalnie, jakby zacząłem się martwić.
+
+00:05:19.600 --> 00:05:22.600
+Mieliśmy tam wracać, czy będzie gdzie wracać?
+
+00:05:22.600 --> 00:05:23.600
+No, chyba będzie.
+
+00:05:23.600 --> 00:05:29.600
+To jest odpowiedź na pytanie tych wszystkich, którzy pytają się, kiedy wrócimy do studia? Jak wyschnie?
+
+00:05:29.600 --> 00:05:43.600
+Właśnie, a jeszcze jedna rzecz, wróciłem do oglądania tego serialu The Expense, super serial, seriale zawsze go darzyłem ogromną sympatią, ale to jest też trudny serial i musiałem zacząć oglądanie ponownie wracając do drugiego sezonu,
+
+00:05:43.600 --> 00:05:47.600
+bo tam jest dużo ciekawych wątków i łatwo się pogubić.
+
+00:05:47.600 --> 00:05:53.600
+To jest taka jedna połączona historia i zacząłem oglądać gdzieś tam kiedyś trzeci sezon i mówię, kurde, w ogóle nie pamiętam, co było w drugim.
+
+00:05:53.600 --> 00:05:59.600
+Więc skończyłem oglądać drugi i teraz się zabieram z tą nową zdobytą wiedzą za trzeci. Polecam gorąco The Expense.
+
+00:05:59.600 --> 00:06:01.600
+A to wszystkie na Amazonie są z sezony?
+
+00:06:01.600 --> 00:06:04.600
+Tak, cztery są bodajże, mam nadzieję, że cztery.
+
+00:06:04.600 --> 00:06:12.600
+No ja miałem już jedno podejście, odbiłem się bardzo mocno, ale kurde, nie wiem, no jakby, może spróbuję jeszcze raz.
+
+00:06:12.600 --> 00:06:19.600
+Na razie kończę The Office, już jestem na ostatnim sezonie, tam na chyba, nie wiem, 17 odcinku, więc zaraz to się skończy.
+
+00:06:19.600 --> 00:06:31.600
+Dobrze, bo dwa ostatnie sezony lekko straciły na jakości, ale też oglądam ostatni, najnowszy sezon Last Chance You,
+
+00:06:31.600 --> 00:06:42.600
+który dzieje się w Oakland, Remigiuszu Drogi i dużo znajomych miejscówek z San Francisco i z Oakland jest można rozpoznać.
+
+00:06:42.600 --> 00:06:51.600
+Zaraz, gdzieś ostatnio oglądałem, aha, Tytanów oglądałem, Tytani dzieją się w San Francisco, jest tam parę ujęć na miejsca, które zapamiętałem,
+
+00:06:51.600 --> 00:06:58.600
+bo Tytanów też sobie obejrzałem, a wracając trochę do tego, The Expense to jest jednak taki serial, który, to jest taki Mass Effect serialowy,
+
+00:06:58.600 --> 00:07:05.600
+nie było chyba drugiego serialu, który byłby zbliżony tak bardzo do tej gry, to też z tego powodu darzę go dużą sympatią.
+
+00:07:05.600 --> 00:07:15.600
+To muszę postanawiam oficjalnie jeszcze raz spróbować, może tym razem zostanę na dłużej.
+
+00:07:15.600 --> 00:07:22.600
+A powiem Ci, że to skojarzenie z Mass Effect to nie wynika tylko i wyłącznie z tego, w jaki sposób ta historia jest opowiadana,
+
+00:07:22.600 --> 00:07:28.600
+że mamy do czynienia z jakąś ekipą, która podróżuje na statku i tam są różne relacje między nimi i to jest super fajne,
+
+00:07:28.600 --> 00:07:37.600
+ale też jakby wygląd tego takiego przeciwnika, który gdzieś tam spotykamy, ten nasz wróg, na którego polujemy, nie chcę spoilerować za bardzo.
+
+00:07:37.600 --> 00:07:39.600
+Jest niebieski i bezpłciowy.
+
+00:07:39.600 --> 00:07:48.600
+I totalnie, nie no, to nawiązanie do dzisiejszych czasów, ale chciałem powiedzieć, że strasznie przypomina te pierwsze potwory z Mass Effect z pierwszej części,
+
+00:07:48.600 --> 00:08:00.600
+które napotykamy po lądowaniu na pierwszej planecie, więc tutaj po raz kolejny jest to uzasadnione podobieństwo.
+
+00:08:00.600 --> 00:08:02.600
+Podobieństwo, to jest dobry wyraz.
+
+00:08:02.600 --> 00:08:04.600
+Wybrnąłeś w ostatniej chwili.
+
+00:08:04.600 --> 00:08:11.600
+No dobrze, to co? To opowiadaj o tych Amerykaninach, co oni tam blokują rozrywkę dla młodzieży.
+
+00:08:11.600 --> 00:08:20.600
+Proszę Państwa, Donald Trump i administracja Trumpa też oświadczyła, że rozważa wprowadzenie banana TikToka na terenie USA,
+
+00:08:20.600 --> 00:08:32.600
+twierdząc, że nielegalnie gromadzi dane użytkowników i że jako to jest chińska firma, no to realnie to stanowi zagrożenie dla bezpieczeństwa narodowego.
+
+00:08:32.600 --> 00:08:49.600
+Związane jest to oczywiście z tymi nowymi dowodami, które wyszły tam pod koniec czerwca. Związane były to też z premierą bety iOS 14 oraz z taką analizą wstecznej inżynierii.
+
+00:08:49.600 --> 00:09:01.600
+O tym będziemy też chwilkę mówić, ale też zaraz po tym oświadczeniu pojawiła się opcja wykupu TikToka przez jednego z gigantów technologicznych.
+
+00:09:01.600 --> 00:09:10.600
+A mianowicie Microsoft, chociaż plotki mówią, że nie tylko MS jest zainteresowany tym zakupem.
+
+00:09:10.600 --> 00:09:19.600
+Ale zanim sobie porozmawiamy tutaj o tych wszystkich ważnych sprawach, chyba czym jest TikTok, to nie muszę mówić?
+
+00:09:19.600 --> 00:09:35.600
+Można w dwóch słowach powiedzieć, że to jest aplikacja społecznościowa, która być może jest przeznaczona do młodszych odbiorców, która oferuje też takie bardzo zgrabne, krótkie, interesujące czasami mniej lub bardziej filmiki.
+
+00:09:35.600 --> 00:09:43.600
+Bardzo zgrabne i interesujące? Nie sądziłem, że powiesz filmiki.
+
+00:09:43.600 --> 00:09:57.600
+Tak, to jest aplikacja, gdzie tworzy się i wysyła i ogląda takie krótkie, piętnastosekundowe filmiki, bardzo często związane z jakąś muzyką albo z jakąś modą konkretną.
+
+00:09:57.600 --> 00:10:02.600
+Chciałem powiedzieć, że warto sobie zainstalować i sprawdzić, ale nie powiem tego.
+
+00:10:02.600 --> 00:10:14.600
+Trochę mi się zmieniło od ostatniego czasu, kiedy rozmawialiśmy o TikToku, ale popatrzmy na liczby, żeby dowiedzieć się jaką wagę ma, czym tak naprawdę jest TikTok dla społeczeństwa.
+
+00:10:14.600 --> 00:10:26.600
+TikTok jest przede wszystkim dostępny w 150 krajach, ma ponad miliard użytkowników i został pobrany ponad 175 milionów razy w samych Stanach Zjednoczonych.
+
+00:10:26.600 --> 00:10:36.600
+TikTok ma 800 milionów aktywnych użytkowników miesięcznie. Porównując do Instagrama, Instagram ma trochę ponad miliard.
+
+00:10:36.600 --> 00:10:42.600
+Zwróćcie uwagę, ile lat ma Instagram i ile starszy Instagram po pierwsze.
+
+00:10:42.600 --> 00:10:54.600
+W pierwszym kwartale 2020 aplikacja miała 315 milionów pobrań, co jest najprawdopodobniej najlepszym kwartałem w historii wszystkich aplikacji ever.
+
+00:10:54.600 --> 00:11:02.600
+500 milionów pochodziło z Indii, 180 milionów z Chin i 130 milionów z USA.
+
+00:11:02.600 --> 00:11:10.600
+Szacuje się, że obecna liczba miesięcznych aktywnych użytkowników TikToka w USA wynosi 70 milionów.
+
+00:11:10.600 --> 00:11:24.600
+Tylko dla przypomnienia powiem, że w Stanach mieszka około 330 milionów ludzi, więc jest to skala nieporównywalna z niczym innym, jeżeli weźmiemy pod uwagę czas ekspansji.
+
+00:11:24.600 --> 00:11:34.600
+Wszystkie ważne współczynniki marketingowe TikToka sprawiają, że totalnie odsadza konkurencję,
+
+00:11:34.600 --> 00:11:44.600
+współczynnik zaangażowania, że nie są blokowane filmy tworzone przez marki,
+
+00:11:44.600 --> 00:11:52.600
+że możesz w dość prosty sposób, odpowiednio rozumiejąc daną modę czy dany trend,
+
+00:11:52.600 --> 00:11:57.600
+wybić się ze swoim filmem, ze swoim przekazem marketingowym.
+
+00:11:57.600 --> 00:12:01.600
+Sprawia, że prawie każda marka już ma tam prężny kanał.
+
+00:12:01.600 --> 00:12:13.600
+Jeżeli ktoś myśli poważnie o karierze celebryty, to musi tam być, bo to jest najbardziej trendujący obecnie portal.
+
+00:12:13.600 --> 00:12:32.600
+Też warto powiedzieć na czym zarabia TikTok, bo TikTok oferuje miejsce reklamowe u siebie, czyli możesz tam reklamować w postaci też trochę takich TikToków, ale z odnośnikiem do zakupu sprzętu.
+
+00:12:32.600 --> 00:12:38.600
+No i pobiera procent od donate'ów, które są wysyłane dla twórców podczas live'ów.
+
+00:12:38.600 --> 00:12:45.600
+No i oczywiście ta rzecz, która jest nieoficjalna, czyli sprzedaje komunistom info, gdzie byłeś wczoraj wieczorem.
+
+00:12:45.600 --> 00:12:50.600
+I prawdopodobnie za to akurat kasy nie dostaje, bo musi.
+
+00:12:50.600 --> 00:13:03.600
+Jest to interesująca niewątpliwie inicjatywa i jest duże zapotrzebowanie na taki serwis, który oferuje filmiki tego rodzaju, które się bardzo szybko przetrawia.
+
+00:13:03.600 --> 00:13:20.600
+Zastanawiam się, co się wydarzyło, że gdzieś tam po drodze taki serwis, który się nazywał Vine, że ten serwis upadł, bo nie był rentowny i nagle na jego miejscu powstaje gigant, który oferuje praktycznie to samo.
+
+00:13:20.600 --> 00:13:27.600
+I sobie radzą wyśmienicie i zapotrzebowanie jest ogromne i trudno to porównać z czymkolwiek innym.
+
+00:13:27.600 --> 00:13:36.600
+Wydaje mi się, że Vine był po prostu boomerski i żaden trzynastolatek nie chciał tam wrzucać swoich materiałów.
+
+00:13:36.600 --> 00:13:44.600
+Tak mi się wydaje. Dlaczego nasza klasa nie podbiła świata?
+
+00:13:44.600 --> 00:13:49.600
+Odpowiedź na to pytanie jest prosta. Przyszła konkurencja, która zaoferowała lepiej i więcej.
+
+00:13:49.600 --> 00:13:53.600
+W przypadku Vine nie było tej konkurencji. To była jedyna usługa tego rodzaju na rynku.
+
+00:13:53.600 --> 00:14:01.600
+Oczywiście tam się pojawiały Instagramy, Instastories i tak dalej. Facebook też gdzieś tam, chyba to nawet później mają te swoje stories.
+
+00:14:01.600 --> 00:14:13.600
+Natomiast przez jakiś czas, od momentu kiedy Vine zniknął do momentu pojawienia się TikToka, właśnie Musical.ly, a potem TikToka, to była pustka na rynku i wydawało się, że ta potrzeba w ogóle nie ma takiej potrzeby.
+
+00:14:13.600 --> 00:14:23.600
+Mam taką teorię, którą wrzucam właśnie w takie sytuacje, czyli każdy pokolenie ma swój czas, masz swoją aplikację.
+
+00:14:23.600 --> 00:14:31.600
+Po prostu nie chcesz być tam, gdzie twoja stara na Facebooku czy na Instagramie. Tam są twoi rodzice, no przecież siara będzie.
+
+00:14:31.600 --> 00:14:37.600
+Tato, przestań mi komentować posty, naprawdę, ogarnij się. Tato!
+
+00:14:37.600 --> 00:14:49.600
+Wiesz, może dlatego, a Vine był wtedy młody. Młody był Facebook, młody był Instagram, Twitter.
+
+00:14:49.600 --> 00:14:55.600
+Może też urządzeń nie było takich sprawnych do odtwarzania tego wszystkiego, do przesyłania danych tego rodzaju.
+
+00:14:55.600 --> 00:15:00.600
+Na pewno nie była ta skala, ale już też bym nie przesadzał. Były telefony.
+
+00:15:00.600 --> 00:15:09.600
+Były oczywiście, ja nie mówię, że tam nie było internetu. Myślę, że to z 6 lat co najmniej temu.
+
+00:15:09.600 --> 00:15:12.600
+2013 pierwsze wydanie.
+
+00:15:12.600 --> 00:15:21.600
+O kurde, no to jednak tak czy inaczej uważam, że dziwnie się stało, że Vine nie przeszedł, a TikTok tak świetnie się sprzedaje.
+
+00:15:21.600 --> 00:15:29.600
+Pewnie to się wiąże też z samymi zasadami działania serwisu. TikTok musi mieć coś lepszego i tyle. Może ma nazwę lepszą nawet.
+
+00:15:29.600 --> 00:15:39.600
+Vine miał 6 sekund, a tutaj jest 15. Zupełnie inaczej to wyglądało. Nie wiem, może po prostu to jest ta różnica.
+
+00:15:39.600 --> 00:15:45.600
+Nie zmienia to faktu, że to się cieszy ogromnym zainteresowaniem.
+
+00:15:45.600 --> 00:15:51.600
+Tylko oczywiście powstaje, bo to już jesteśmy ustali. Jest dużo ludzi, dużo ludzi chce tego używać i świetnie się z tym bawią.
+
+00:15:51.600 --> 00:15:52.600
+Ty używasz?
+
+00:15:52.600 --> 00:15:56.600
+Nie, to nie jest, ja jestem boomerem, to nie jest dla mnie zabawka.
+
+00:15:56.600 --> 00:16:01.600
+Może syn ci po prostu pokaże, jak się obsługuje.
+
+00:16:01.600 --> 00:16:09.600
+Nie, nie, to pewnie bym się nauczył, ale mój syn też w ogóle, ani jego koledzy z klasy, bo pytałem o to parę razy, w ogóle ich TikTak nie interesuje.
+
+00:16:09.600 --> 00:16:16.600
+Jest więcej dziewczyn niż chłopców na TikToku. Czytałem te badania, taka była informacja.
+
+00:16:16.600 --> 00:16:23.600
+Może to jest taki rodzaj aplikacji, której dziewczyny bardziej będzie interesował, więc trudno mi powiedzieć.
+
+00:16:23.600 --> 00:16:33.600
+No ale tak czy inaczej narobili trochę tam zamieszania, bo to, że ta aplikacja pozyskuje pewne dane, to nie jest tylko i wyłącznie plotka i takie typowe zachowanie każdej aplikacji.
+
+00:16:33.600 --> 00:16:43.600
+No bo wiadomo, że w zasadzie, gdyby się zastanowić, to nawet można by powiedzieć, że algorytm na YouTubie pobiera dane, na podstawie których potem ci oferuje filmy, więc robi coś, co nie każdemu musi pasować.
+
+00:16:43.600 --> 00:16:46.600
+Natomiast pobór danych ze strony TikToka jest ogromny.
+
+00:16:46.600 --> 00:17:00.600
+Pamiętam, że pierwsze informacje, jakie się pojawiły, właściwie były skupione przede wszystkim na tym, że to nie jest to, że TikTok pobiera jakieś dane, tylko to są jakieś błędy starych systemów, błędy Androida, błędy iOSa.
+
+00:17:00.600 --> 00:17:10.600
+W ogóle była pierwsza afera związana z tym, że TikTok był już jakiś czas temu złapany na to, że przechwytywał dane schowane w schowku.
+
+00:17:10.600 --> 00:17:20.600
+No i oni się tłumaczyli, że to był problem starego SDK Google Ads i powiedzieli, że to naprawią, że to w ogóle jest jakby nie ich wina.
+
+00:17:20.600 --> 00:17:21.600
+Tak, tak, tak.
+
+00:17:21.600 --> 00:17:28.600
+No ale teraz to się wszystko zmieniło. Zmieniło się w związku z tym, że wyszła beta iOS 14.
+
+00:17:28.600 --> 00:17:39.600
+Beta, która bardzo dużo, znaczy w ogóle ten system bardzo dużo zmienia w kwestii prywatności, w kwestii jakby zarządzania tymi prawami wszystkich aplikacji.
+
+00:17:39.600 --> 00:17:43.600
+I też iOS 14 informuje praktycznie nas o wszystkim.
+
+00:17:43.600 --> 00:17:54.600
+I wybuchło to jakoś 24 czerwca, gdzie Jeremy Burge pokazał na Twitterze taki filmik i napisał,
+
+00:17:54.600 --> 00:18:01.600
+okej, więc TikTok pobiera zawartość mojego schowka co jedno albo co trzy naciśnięcia klawiszy.
+
+00:18:01.600 --> 00:18:12.600
+A iOS 14 donosi o tym w nowym powiadomieniu. I tam rzeczywiście widać po prostu, że on pisze jakąś...
+
+00:18:12.600 --> 00:18:16.600
+Co ciekawe, on pisał na Instagramie, nie w TikToku.
+
+00:18:16.600 --> 00:18:17.600
+Tak, tak, tak.
+
+00:18:17.600 --> 00:18:29.600
+Czyli pisał na Instagramie, a TikTok cały czas tutaj te rzeczy sobie tam próbował się dostać do schowka i kopiował co chwilę dane ze schowka.
+
+00:18:29.600 --> 00:18:33.600
+Czy to jest zachowanie okej? Chyba nie.
+
+00:18:33.600 --> 00:18:39.600
+No ale też jak na to patrzę, to zastanawiam się, czy to czasami po prostu nie jest...
+
+00:18:39.600 --> 00:18:46.600
+Wiesz, bo można oczywiście zakładać, że to jest działanie z premedytacją i że TikTok od początku taki miał cel,
+
+00:18:46.600 --> 00:18:52.600
+ale z drugiej strony to takie dosyć bardzo proste i bardzo siermiężne metody na pobieranie danych,
+
+00:18:52.600 --> 00:18:56.600
+które są też bardzo łatwe do sprawdzenia, co też ten filmik zresztą wyraźnie udowadnia.
+
+00:18:56.600 --> 00:19:01.600
+Więc zastanawiam się, czy to nie jest po prostu jakaś niedoróbka aplikacji albo chodzenie na skróty.
+
+00:19:01.600 --> 00:19:05.600
+Wiesz co, wydaje mi się, że to jest jako, że drugi raz ich złapano na tym.
+
+00:19:05.600 --> 00:19:17.600
+Drugi raz to widocznie ten schowek to jest takie miejsce, gdzie dosyć łatwo i w jakiś sposób nie informując użytkownika
+
+00:19:17.600 --> 00:19:21.600
+o tym można te informacje ze schowka po prostu sobie dostać.
+
+00:19:21.600 --> 00:19:24.600
+No to schowek jest newralgiczny.
+
+00:19:24.600 --> 00:19:33.600
+Ja mam takie wrażenie. Po drugie dużo operacji, wklejasz opis na przykład na TikToka, czy kopiujesz jakieś wideo.
+
+00:19:33.600 --> 00:19:38.600
+No to różne rzeczy potrzebne w aplikacji mogą się pojawić w tym schowku,
+
+00:19:38.600 --> 00:19:44.600
+więc może być też tak, że po prostu aplikacja do poprawnego działania potrzebuje dostępu do schowka.
+
+00:19:44.600 --> 00:19:56.600
+Z czegoś w jabłku, gdzie ten schowek jest taki bardzo rozbudowany i to po prostu jest integralna część systemu.
+
+00:19:56.600 --> 00:20:03.600
+Okej, to akurat można z czystym sumieniem powiedzieć, że TikTok pobiera dane, których być może nie powinien.
+
+00:20:03.600 --> 00:20:10.600
+Natomiast teraz warto by się zastanowić, czy to są dane, które mogą być sensowne z takiego szpiegowskiego punktu widzenia.
+
+00:20:10.600 --> 00:20:17.600
+Ale zaraz, zanim o tym powiemy, to może warto byłoby dać słowo drugiej stronie, czyli co TikTok na to odpowiedział.
+
+00:20:17.600 --> 00:20:21.600
+A dobrze, ale to mówiliśmy, że tam się bronili troszkę.
+
+00:20:21.600 --> 00:20:32.600
+Nie, nie, bo to za pierwszym razem się bronili, że to SDK Google Ads, a teraz powiedzieli, że to jest problem związany z filtrem anty-spamowym.
+
+00:20:32.600 --> 00:20:41.600
+To jest taki filtr, który wyszukuje użytkownika kopiującego ten sam komentarz na wiele różnych kont na tym samym urządzeniu.
+
+00:20:41.600 --> 00:20:46.600
+I oni potwierdzili, że to rzeczywiście było to i usunęli tą funkcję.
+
+00:20:46.600 --> 00:20:59.600
+Jako, że zostali drugi raz na tym złapani, to trochę im nie ufam, ponieważ pojawiło się jeszcze jedno oskarżenie.
+
+00:20:59.600 --> 00:21:07.600
+Według informacji uzyskanych właśnie z inżynierii wstecznej, tylko to było bodajże aplikacja z kwietnia.
+
+00:21:07.600 --> 00:21:18.600
+TikTok pobiera takie dane, jak dane dotyczące telefonu, czyli numer seryjny, podzespoły, RAM, ilość wolnego miejsca,
+
+00:21:18.600 --> 00:21:31.600
+dokładna lista zainstalowanych aplikacji, w tym te aplikacje, które zostały odinstalowane, wszystkie informacje dotyczące sieci, czyli IP, MAC,
+
+00:21:31.600 --> 00:21:49.600
+nazwa sieci Wi-Fi, MAC adres routera, czy twoje urządzenie ma ruta, czy jailbreak. Niektóre wersje miały też aktywne tak zwane pingowanie GPS,
+
+00:21:49.600 --> 00:22:03.600
+czyli co tam powiedzmy 30 sekund aplikacja zapisywa twoje położenie GPS i też aplikacja stawiała lokalny serwer proxy dla transkodowania plików.
+
+00:22:03.600 --> 00:22:05.600
+Teraz to czytam, bo do końca tego nie rozumiem.
+
+00:22:05.600 --> 00:22:16.600
+Choć badacz twierdzi, że można w prosty sposób wykorzystać go do bardziej niecnych celów, czyli jakby to było dużo bardziej skomplikowane.
+
+00:22:16.600 --> 00:22:23.600
+I teraz chciałbym bardzo ważną rzecz powiedzieć. To nie jest tak, że TikTok to robi, a inne aplikacje tego nie robią.
+
+00:22:23.600 --> 00:22:32.600
+Możemy się kłócić o to, która aplikacja jest zła, która pobiera nam jakieś dane, których my nie chcemy.
+
+00:22:32.600 --> 00:22:46.600
+Beta iOS'a też ludzie pokazywali, że na przykład Instagram korzysta z kamery w momencie, kiedy my po prostu przeglądamy sobie Instagrama, kiedy nie korzystamy z tej kamery.
+
+00:22:46.600 --> 00:22:50.600
+To jest w ogóle ciekawe, jest podejrzenie takie i podobnie TikTok też to robi.
+
+00:22:50.600 --> 00:23:03.600
+Podejrzenie jest takie, że aplikacje jakby skanują nasz wyraz twarzy, żeby dopisać wrażenie do danej treści.
+
+00:23:03.600 --> 00:23:10.600
+Czyli oglądasz jakiegoś TikToka, czy oglądasz jakiegoś posta na Instagramie, czy się cieszysz, czy masz w ogóle jakieś emocje.
+
+00:23:10.600 --> 00:23:13.600
+To jest do sprzedawania reklam wszystko.
+
+00:23:13.600 --> 00:23:23.600
+Przez chwilę myślałem, że już w internecie działa jakiś rozbudowany AI i próbuje poznać nasze emocje, żeby lepiej zrozumieć człowieka i szybciej go rozwalić.
+
+00:23:23.600 --> 00:23:28.600
+Trochę tak, ale trochę żeby zarobić pieniądze, a nie żeby go rozwalić.
+
+00:23:28.600 --> 00:23:43.600
+Co ciekawe, pamiętajcie, jeżeli ktoś wam się na Instagramie bardzo podoba, albo na TikToku, wiecie o czym mówię. Powstrzymajcie.
+
+00:23:43.600 --> 00:23:55.600
+Oczywiście rozumiem, że każdy chce mieć tam swoją prywatność, ale moment, w którym zaczynamy korzystać z telefonu komórkowego, korzystać z social mediów,
+
+00:23:55.600 --> 00:23:59.600
+to już jest taki moment, że musimy być świadomi, że trochę rezygnujemy z tej prywatności.
+
+00:23:59.600 --> 00:24:04.600
+Jeżeli komuś będzie bardzo zależało, żeby się przebić do naszych urządzeń, do naszych kamer, to to po prostu zrobi.
+
+00:24:04.600 --> 00:24:08.600
+Nie ma tam takich zabezpieczeń, których się nie da ominąć, ale to jesteśmy tego świadomi.
+
+00:24:08.600 --> 00:24:15.600
+Ja zastanawiam się, jakby wracając do tego pytania wcześniejszego, czy te wszystkie rzeczy, które robi TikTok i robią inne aplikacje…
+
+00:24:15.600 --> 00:24:26.600
+Jeszcze powiem tak, to zostały tam, przepraszam, że ci przyszedłem na przerwę, ale aplikacje Reddita, LinkedIna, Instagrama, AliExpressa, M-Banku też.
+
+00:24:26.600 --> 00:24:32.600
+Myślę, że jak wyjdzie ten iOS 14, to będzie po prostu bomba.
+
+00:24:32.600 --> 00:24:46.600
+No dobra, więc moje pytanie jest takie, czy to szpiegostwo, które się dokonuje, jest szpiegostwem takim, które skupia się przede wszystkim na sprawdzeniu naszych potrzeb i dostarczaniu nam,
+
+00:24:46.600 --> 00:24:51.600
+zaspokajaniu tych potrzeb, żeby zarobić większą kasę i żeby więcej ludzi czasu spędzali na tym TikToku czy na innej aplikacji,
+
+00:24:51.600 --> 00:24:56.600
+czy być może jest to szpiegostwo takie międzynarodowe, gospodarcze, może tam są jakieś informacje.
+
+00:24:56.600 --> 00:25:06.600
+Próbuję sobie zastanowić, ważne pytanie było dla mnie takie, załóżmy, że to jest w jakiś sposób przez rząd chiński wykorzystywane,
+
+00:25:06.600 --> 00:25:17.600
+że to są dane, które są im potrzebne, to zastanawiam się do czego, w sensie jakie dane pobrane z TikToka na temat użytkowników mogą się przydać Chińczykom i do czego.
+
+00:25:17.600 --> 00:25:29.600
+Tam też chciałbym powiedzieć, że to nie tylko chodzi o to, że oni zbierają te dane, ale jakby mogą na przykład sterować tym telefonem.
+
+00:25:29.600 --> 00:25:32.600
+Ja tego do końca nie rozumiem.
+
+00:25:32.600 --> 00:25:34.600
+No dobra, czyli to w drugą stronę może zadziałać.
+
+00:25:34.600 --> 00:25:38.600
+Może działać, ale do czego to może być wykorzystywane?
+
+00:25:38.600 --> 00:25:49.600
+No to wiesz, u nas prezydent ma TikTok, w ogóle nie chciałem teraz zapytać oficjalnie, kancelarię prezydenta, mam tam trochę znajomych.
+
+00:25:49.600 --> 00:25:55.600
+Czy TikTok jest zainstalowany na telefonie naszego prezydenta?
+
+00:25:55.600 --> 00:25:57.600
+W sensie takim urzędowym telefonie?
+
+00:25:57.600 --> 00:26:01.600
+Albo prywatnym, może mieć dwa, stać go chyba.
+
+00:26:01.600 --> 00:26:09.600
+To jest takie zastanawiam, czy to tam ktoś, bo tam jednego TikToka chyba puścił, nie?
+
+00:26:09.600 --> 00:26:18.600
+No ale pytanie, czy to jest zainstalowane tam, czy to był jakiś telefon od marketingu, jak to wygląda, czy ten telefon często jest w pobliżu prezydenta?
+
+00:26:18.600 --> 00:26:29.600
+Uważam, że istnieje pewna obawa o bezpieczeństwo narodowe, jeżeli na przykład prezydent jest szpiegowany przez taką aplikację.
+
+00:26:29.600 --> 00:26:34.600
+Tak, to jest duży problem, bo nigdy nie wiadomo, co prezydent kopiuje do schowka, nie? To są jego prywatne sprawy oczywiście.
+
+00:26:34.600 --> 00:26:44.600
+Ja śledzę prezydenta na TikToku i tam czasami były ciekawe parę lat temu rozmowy z pewnym leśnym, nie pamiętam.
+
+00:26:44.600 --> 00:26:52.600
+Pamiętam, ale to wiesz, prezydent też człowiek, może mieć różne zainteresowania i absolutnie nie będę tego oceniał,
+
+00:26:52.600 --> 00:26:58.600
+natomiast jak te zainteresowania gdzieś się ujawnią w rękach chińskiego dygnitarza, no to może być krucho, nie?
+
+00:26:58.600 --> 00:27:00.600
+Ale czemu chińskiego?
+
+00:27:00.600 --> 00:27:02.600
+No i kogokolwiek.
+
+00:27:02.600 --> 00:27:08.600
+Właśnie, bo to są takie dane, które będą pewnie wystawione na sprzedaż i kupi je na przykład pod...
+
+00:27:08.600 --> 00:27:10.600
+Nie żartuję, nie żartuję, naprawdę.
+
+00:27:10.600 --> 00:27:12.600
+Nie, nie, nie, masz rację, oczywiście, oczywiście.
+
+00:27:12.600 --> 00:27:19.600
+Oczywiście, my tutaj... Kolejna rzecz. Mieliśmy taki odcinek, gdzie rozmawialiśmy o takim...
+
+00:27:19.600 --> 00:27:24.600
+To był serial, czy to był film dokumentalny Netflixa o Cambridge Analytica?
+
+00:27:24.600 --> 00:27:28.600
+To był chyba dokument jeden, taki albo długi, albo kilkuodcinkowy, ale dokument jeden.
+
+00:27:28.600 --> 00:27:31.600
+Wyobraź sobie, jak można wpływać na wybory.
+
+00:27:31.600 --> 00:27:40.600
+Oczywiście, że tak, tak, to jest świetne narzędzie. Zresztą, chociaż przy ostatnich wyborach to bardziej Rosjan oskarżano w ingerencji niż Chińczyków,
+
+00:27:40.600 --> 00:27:43.600
+ale to jedno z drugim się może łączyć, bo to dane są na sprzedaż, jak mówisz.
+
+00:27:43.600 --> 00:27:48.600
+No właśnie, może być tak, że masz te dane, masz bardzo dokładne dane o ludziach,
+
+00:27:48.600 --> 00:27:54.600
+więc możesz tak skonstruować przekaz wyborczy oraz zaadresować go bardzo precyzyjnie,
+
+00:27:54.600 --> 00:27:59.600
+żeby poszedł w ten bardzo, bardzo czuły punkt każdego obywatela.
+
+00:27:59.600 --> 00:28:07.600
+To jest indywidualnie wręcz robione, więc ta skuteczność jest niezwykle, niezwykle wysoka.
+
+00:28:07.600 --> 00:28:11.600
+No, ale to jest coś, co jest... Właściwie od tej afery z Cambridge Analytica,
+
+00:28:11.600 --> 00:28:15.600
+to stwierdzono, że social media są newralgiczne w tym sensie,
+
+00:28:15.600 --> 00:28:19.600
+że bardzo łatwo określić zainteresowania ludzi, bardzo łatwo skierować do nich przekaz.
+
+00:28:19.600 --> 00:28:25.600
+Taka już jest chyba specyfika ludzkiej natury, że lubimy rzeczy, które lubimy,
+
+00:28:25.600 --> 00:28:29.600
+w tym sensie, że lubimy słuchać rzeczy, które nam pasują i takie nam są podsuwane,
+
+00:28:29.600 --> 00:28:32.600
+bo te wszystkie aplikacje rozumieją.
+
+00:28:32.600 --> 00:28:38.600
+Bo z jednej strony mamy ten rynek reklamy, który chce nam sprzedać jak najwięcej i zarobić na tym,
+
+00:28:38.600 --> 00:28:44.600
+ale z drugiej strony władza, polityka dokładnie tymi samymi zasadami się kieruje.
+
+00:28:44.600 --> 00:28:50.600
+Już chyba, żeśmy dawno wyszli z takiego stanu mentalnego, gdzie wydaje nam się,
+
+00:28:50.600 --> 00:28:55.600
+że o naszych decyzjach politycznych, nie wiem, decyduje rzetelna wiedza.
+
+00:28:55.600 --> 00:28:57.600
+Sami decydujemy.
+
+00:28:57.600 --> 00:29:00.600
+No, że sami... Ale wiesz, to są po prostu sympatie, antypatie,
+
+00:29:00.600 --> 00:29:03.600
+gdzieś tam głęboko zakorzenione w naszej świadomości.
+
+00:29:03.600 --> 00:29:08.600
+I to nie jest jakaś tajemnicza, psychologiczna wiedza magiczna na temat tego, co lubimy.
+
+00:29:08.600 --> 00:29:11.600
+Wszystko można nam sprzedać, jeżeli się odpowiednio drzwi otworzy.
+
+00:29:11.600 --> 00:29:14.600
+I te aplikacje to wykorzystują. To jest właściwie takie globalne zagrożenie.
+
+00:29:14.600 --> 00:29:17.600
+Oczywiście TikTok najwyraźniej pobiera dużo tych danych,
+
+00:29:17.600 --> 00:29:20.600
+ale uważam, że to zagrożenie jest znacznie szersze.
+
+00:29:20.600 --> 00:29:22.600
+I ono dotyczy w ogóle social mediów.
+
+00:29:22.600 --> 00:29:26.600
+I to jest pewnie coś, z czym będziemy sobie się zmagać przez najbliższe kilkudziesięciolecie.
+
+00:29:26.600 --> 00:29:34.600
+Ja się zgadzam, ale po to mamy te wszystkie procedury krajów demokratycznych związane z wolnościami,
+
+00:29:34.600 --> 00:29:37.600
+żeby nikt tego nie wykorzystywał.
+
+00:29:37.600 --> 00:29:43.600
+To jest ochrona też w pewien sposób demokracji, ochrona naszej prywatności.
+
+00:29:43.600 --> 00:29:50.600
+Czyli nie może być tak, że bez twojej wiedzy są zbierane o tobie informacje,
+
+00:29:50.600 --> 00:29:53.600
+które potem w bezwzględny sposób są wykorzystywane na to,
+
+00:29:53.600 --> 00:29:55.600
+żeby wpłynąć na ciebie w jakikolwiek sposób.
+
+00:29:55.600 --> 00:29:58.600
+Czy chcesz kupić rajtuzy, czy chcesz głosować na Dudę.
+
+00:29:58.600 --> 00:30:00.600
+Tak, tak, to prawda.
+
+00:30:00.600 --> 00:30:03.600
+Ale to też jest bardzo dobra dyskusja.
+
+00:30:03.600 --> 00:30:08.600
+Ona jest znacznie szersza niż tylko TikTok, bo dotyczy wszelkiego rodzaju algorytmów.
+
+00:30:08.600 --> 00:30:13.600
+Czy YouTube, dopasowując treść do naszych zapotrzebowań, nie przekracza pewnych granic?
+
+00:30:13.600 --> 00:30:16.600
+Ja mam takie poczucie, że trochę przekracza.
+
+00:30:16.600 --> 00:30:21.600
+Pewnie z punktu widzenia YouTubera to mam tam jakieś zastrzeżenia co do tego systemu.
+
+00:30:21.600 --> 00:30:27.600
+Natomiast z punktu widzenia użytkownika YouTube'a też mam trochę zastrzeżeń,
+
+00:30:27.600 --> 00:30:30.600
+że każdy człowiek ma jakieś słabości.
+
+00:30:30.600 --> 00:30:33.600
+Ty, ja, wszyscy nasi widzowie mają jakieś słabości.
+
+00:30:33.600 --> 00:30:37.600
+I te systemy są skonstruowane w ten sposób, że wykorzystują te słabości,
+
+00:30:37.600 --> 00:30:39.600
+by marnować nasz czas.
+
+00:30:39.600 --> 00:30:41.600
+Że w pewnym momencie tracisz trochę kontrolę.
+
+00:30:41.600 --> 00:30:46.600
+Nawet jeżeli jesteś rozważny w miarę i prowadzisz sensowne życie,
+
+00:30:46.600 --> 00:30:48.600
+to też możesz wpaść w tę pułapkę.
+
+00:30:48.600 --> 00:30:51.600
+I te wszystkie systemy są skonstruowane po to, żeby marnować twój czas,
+
+00:30:51.600 --> 00:30:53.600
+żeby złożyć go jak najwięcej.
+
+00:30:53.600 --> 00:30:54.600
+Tak, ja się dokładnie zgadzam.
+
+00:30:54.600 --> 00:30:56.600
+Ja słyszałem taką historię, że ty opanowany siedziałeś na streamie
+
+00:30:56.600 --> 00:30:59.600
+i nagle wyświetliło ci się zdjęcie Nutelli.
+
+00:30:59.600 --> 00:31:05.600
+Nie, ja mam, wiesz, za każdym razem jak wyświetlam jakąś stronę na streamie,
+
+00:31:05.600 --> 00:31:08.600
+to zaraz obok 50 reklam KFC.
+
+00:31:08.600 --> 00:31:11.600
+Ja mówię, no kurde, no nie dadzą spokoju człowiekowi.
+
+00:31:11.600 --> 00:31:15.600
+To ja mam same, teraz to ja mam same po prostu tylko ekraniki do Raspberry Pi.
+
+00:31:15.600 --> 00:31:17.600
+Nic więcej mi się nie da.
+
+00:31:17.600 --> 00:31:19.600
+Tak jest. Także rozpoznali.
+
+00:31:19.600 --> 00:31:20.600
+To już kupiłem.
+
+00:31:20.600 --> 00:31:25.600
+Ale wiesz, w ogóle bardzo często o tych reklamach i o tym dopasowaniu
+
+00:31:25.600 --> 00:31:29.600
+się mówi w kategorii żartu, ale to się niezwykle często przydarzają takie historie,
+
+00:31:29.600 --> 00:31:34.600
+że ja tam rozmawiałem o czymś z żoną i na przestrzeni najbliższego tygodnia
+
+00:31:34.600 --> 00:31:37.600
+masa reklam dotyczących tego tematu i nagle człowiek sobie uświadamia,
+
+00:31:37.600 --> 00:31:41.600
+no bez jaj, ktoś to jakoś zarejestrował, ktoś to musiał gdzieś jakoś...
+
+00:31:41.600 --> 00:31:46.600
+Wiesz, rozmawiałeś z żoną, potem wpisywałeś w Google jakieś rzeczy typu
+
+00:31:46.600 --> 00:31:47.600
+jak zrozumieć kobietę.
+
+00:31:47.600 --> 00:31:49.600
+Tak, to pewnie takie jest najprostsze wytłumaczenie,
+
+00:31:49.600 --> 00:31:53.600
+ale ja lubię trochę tą teorię spiskową, że jednak algorytmy lubią nas posłuchać.
+
+00:31:53.600 --> 00:31:57.600
+Tak, jakby... Znaczy nie wiem, czy one tak po polsku już dobrze rozumieją.
+
+00:31:57.600 --> 00:32:03.600
+No jak powiesz na przykład Metallica albo powiesz, nie wiem, wakacje nad morzem...
+
+00:32:03.600 --> 00:32:04.600
+To zrozumieją.
+
+00:32:04.600 --> 00:32:07.600
+To zrozumieją coś tam, bo to takie tematy zwykłe.
+
+00:32:07.600 --> 00:32:11.600
+A propos jesteśmy w wakacjach nad morzem, no to też jest taki...
+
+00:32:11.600 --> 00:32:15.600
+Te dane mogą bardzo mocno też wpłynąć na gospodarkę,
+
+00:32:15.600 --> 00:32:22.600
+czyli podsłuchując odpowiednich ludzi, Chiny opierają się teraz na handlu.
+
+00:32:22.600 --> 00:32:28.600
+Więc dla nich to jest ekstremalnie ważne, więc to też może być...
+
+00:32:28.600 --> 00:32:32.600
+Wracając już do tego pytania, co za problem, że ktoś nas szpieguje.
+
+00:32:32.600 --> 00:32:34.600
+W końcu ja nic nielegalnego nie robię.
+
+00:32:34.600 --> 00:32:41.600
+Ale może być to wykorzystane, na przykład jeżeli okaże się,
+
+00:32:41.600 --> 00:32:48.600
+że Polska chce kupić jakieś ogromne ilości powiedzmy...
+
+00:32:48.600 --> 00:32:51.600
+Zostańmy przy rajtuzach.
+
+00:32:51.600 --> 00:32:53.600
+Myślałem, że papieru talentowego, bo to może...
+
+00:32:53.600 --> 00:33:00.600
+Na przykład premier wymyślił, że na Dzień Kobiet każda kobieta w Polsce dostanie rajtki.
+
+00:33:00.600 --> 00:33:02.600
+To taki bonus.
+
+00:33:02.600 --> 00:33:03.600
+Mamy dobre czasy.
+
+00:33:03.600 --> 00:33:08.600
+Dokładnie. Ja czuję, że tak będzie, że ten pomysł nie przepadnie w internecie.
+
+00:33:08.600 --> 00:33:12.600
+No więc dobra, powiedzmy, tam jest kobiet takich, które noszą rajtki,
+
+00:33:12.600 --> 00:33:16.600
+10 milionów w Polsce, jest zlecenie, trzeba kupić.
+
+00:33:16.600 --> 00:33:21.600
+No i Chiny wiedzą to pierwsze, no i już jakby mają najlepszą ofertę.
+
+00:33:21.600 --> 00:33:26.600
+Bangladesz tam odpada, Stany Zjednoczone to nie ma co, Afryka to nawet się nie dowiedzieli.
+
+00:33:26.600 --> 00:33:29.600
+I oni już wiedzą, kogo na przykład przekupić, żeby zdobyć tego deala,
+
+00:33:29.600 --> 00:33:32.600
+z kim gadać, co tu ogarnąć.
+
+00:33:32.600 --> 00:33:37.600
+Wiadomo, że polscy urzędnicy są nieprzekupywalni, dobre słowo to było, więc może się nie uda.
+
+00:33:37.600 --> 00:33:41.600
+To jest złe słowo, ale rozumiem, co chciałeś powiedzieć.
+
+00:33:41.600 --> 00:33:46.600
+Te informacje, nie tylko moje, no bo co?
+
+00:33:46.600 --> 00:33:51.600
+Co się kto dowie, co ja wpisuję na przykład na tym Instagramie?
+
+00:33:51.600 --> 00:33:54.600
+No ja tam nawet nic nie wpisuję.
+
+00:33:54.600 --> 00:33:59.600
+Czyli to jest takie bardzo szpiegostwo gospodarcze, które nie jest tam skupione na konkretnym kraju.
+
+00:33:59.600 --> 00:34:02.600
+To jest po prostu wiedza, która pozwala robić pieniądze.
+
+00:34:02.600 --> 00:34:07.600
+I to też jest zawsze takie, jakby moralność robienia pieniędzy to jest bardzo dyskusyjna kwestia.
+
+00:34:07.600 --> 00:34:11.600
+To znaczy, jakby za każdym razem, kiedy mówimy o dużych korporacjach
+
+00:34:11.600 --> 00:34:15.600
+i one się próbują w sposób PR-owy zachowywać niezwykle poprawnie,
+
+00:34:15.600 --> 00:34:18.600
+to wszyscy mówią wobec jaj, przecież wiadomo, że im chodzi tylko o kasę
+
+00:34:18.600 --> 00:34:21.600
+i robią wszystko po to, żeby zarabiać więcej.
+
+00:34:21.600 --> 00:34:29.600
+I trochę usprawiedliwiamy to, że w kwestii biznesu wszystkie są dopuszczone ruchy.
+
+00:34:29.600 --> 00:34:37.600
+Natomiast też mam takie poczucie, że jeżeli chodzi o Chińczyków, to wydaje mi się,
+
+00:34:37.600 --> 00:34:39.600
+że wszystkie kraje mają mniej więcej ten sam pomysł.
+
+00:34:39.600 --> 00:34:43.600
+Wszystkie kraje, które chcą znaczyć coś w gospodarce, chcą te dane pozyskiwać,
+
+00:34:43.600 --> 00:34:45.600
+chcą je mieć, bo one są przydatne.
+
+00:34:45.600 --> 00:34:46.600
+To trudno się oprzeć.
+
+00:34:46.600 --> 00:34:50.600
+Jeżeli masz narzędzia do pobierania tych danych, one pozwalają ci robić większe pieniądze, to spoko.
+
+00:34:50.600 --> 00:34:54.600
+W sensie to chcemy, tylko żeby nikt o tym nie wiedział.
+
+00:34:54.600 --> 00:34:59.600
+A Chińczycy są pod tym względem chyba bardziej, ja wiem, bezwzględni.
+
+00:34:59.600 --> 00:35:03.600
+To oni są gotowi przesuwać te granice dużo dalej niż inne kraje.
+
+00:35:03.600 --> 00:35:05.600
+Oni po prostu nie mają tych granic.
+
+00:35:05.600 --> 00:35:13.600
+Powiedzmy sobie szczerze, bo my jako bardziej czy mniej demokratyczne państwa
+
+00:35:13.600 --> 00:35:18.600
+w pewien sposób umówiliśmy się na coś.
+
+00:35:18.600 --> 00:35:22.600
+Na to, że mamy wybory, na to, że mamy taki ustrój, a nie inny,
+
+00:35:22.600 --> 00:35:25.600
+na pewne wolnościowe rzeczy, na podatki.
+
+00:35:25.600 --> 00:35:27.600
+To jest jakaś społeczna umowa.
+
+00:35:27.600 --> 00:35:29.600
+I my się z tym zgadzamy, nie zgadzamy.
+
+00:35:29.600 --> 00:35:34.600
+Potem wybory to wiesz, weryfikują albo nie weryfikują.
+
+00:35:34.600 --> 00:35:37.600
+A tutaj nie ma tej weryfikacji.
+
+00:35:37.600 --> 00:35:44.600
+Znaczy Chińczycy żyją w państwie komunistycznym, nie demokratycznym.
+
+00:35:44.600 --> 00:35:48.600
+Bogatym, jeszcze nie aż tak bogatym pewnie jakby chcieli,
+
+00:35:48.600 --> 00:35:51.600
+z bardzo rozwijającą się klasą średnią,
+
+00:35:51.600 --> 00:35:53.600
+ale cały czas to nie jest wolny kraj.
+
+00:35:53.600 --> 00:35:57.600
+I te swobody obywatelskie są minimalne.
+
+00:35:57.600 --> 00:36:02.600
+Więc oni po prostu stosują wydaje mi się te same techniki,
+
+00:36:02.600 --> 00:36:06.600
+tylko że ukryte w stosunku do swoich, znaczy do nas ukryte,
+
+00:36:06.600 --> 00:36:09.600
+a do swoich już jawne.
+
+00:36:09.600 --> 00:36:15.600
+No bo ta inwigilacja obywatela jest w bardzo dużym stopniu w Chinach zrobiona.
+
+00:36:15.600 --> 00:36:17.600
+Okej, to jest jakby ważne pytanie.
+
+00:36:17.600 --> 00:36:22.600
+Znaczy wiemy, że taki proceder ma miejsce,
+
+00:36:22.600 --> 00:36:25.600
+że te firmy szukają sposobu na to, żeby dostać się do naszych danych.
+
+00:36:25.600 --> 00:36:30.600
+No i pytanie jest takie, czy to jest coś, co powinno zostać zakazane,
+
+00:36:30.600 --> 00:36:33.600
+jakby od podstaw uznane za złe.
+
+00:36:33.600 --> 00:36:36.600
+I jakby ja odpowiadam na pytanie, że też ja uważam, że to jest coś złego
+
+00:36:36.600 --> 00:36:38.600
+i że to nie powinno mieć miejsca.
+
+00:36:38.600 --> 00:36:41.600
+No ale z drugiej strony zastanawiam się, kurde, jeżeli zakażemy,
+
+00:36:41.600 --> 00:36:44.600
+to ci uczciwi, którzy będą chcieli przestrzegać tych zasad,
+
+00:36:44.600 --> 00:36:47.600
+to niestety odpadną w tym wyścigu, a zostaną tylko ci,
+
+00:36:47.600 --> 00:36:50.600
+którzy potrafią to zrobić w sposób totalnie niejawny.
+
+00:36:50.600 --> 00:36:53.600
+Potrafią ukryć jak najlepiej ten proceder.
+
+00:36:53.600 --> 00:36:55.600
+Okej, ale nie żyjemy w próżni.
+
+00:36:55.600 --> 00:37:01.600
+Znaczy, zobacz, ja zastanawiam się, bo dla mnie najciekawsze w tym wszystkim
+
+00:37:01.600 --> 00:37:07.600
+jest to, że ta sprawa wypłynęła dzięki nowemu systemowi Apple'a,
+
+00:37:07.600 --> 00:37:09.600
+który się skupia na bezpieczeństwie.
+
+00:37:09.600 --> 00:37:12.600
+Okej, i teraz ja jestem przed zakupem telefonu.
+
+00:37:12.600 --> 00:37:15.600
+Rok temu zostawiłem w Uberze.
+
+00:37:15.600 --> 00:37:16.600
+Minęła mi już kara.
+
+00:37:16.600 --> 00:37:19.600
+Już zastanawiam się, co sobie tutaj kupić.
+
+00:37:19.600 --> 00:37:23.600
+Jak już mówiłem kiedyś, nie chcę wydawać dużej ilości pieniędzy na...
+
+00:37:23.600 --> 00:37:26.600
+Kupiłbym sobie tam nowego Samsunga czy coś,
+
+00:37:26.600 --> 00:37:30.600
+ale mnie to mierdzi, że mam 4 tysiące wydać.
+
+00:37:30.600 --> 00:37:35.600
+No ale w tym momencie, kiedy Apple daje mi taką ofertę,
+
+00:37:35.600 --> 00:37:38.600
+mówi tak, no to ja tutaj przetestuję te wszystkie za ciebie.
+
+00:37:38.600 --> 00:37:41.600
+Ja ci powiem dokładnie, kto cię szpieguje.
+
+00:37:41.600 --> 00:37:43.600
+To jest atrakcyjne dla mnie.
+
+00:37:43.600 --> 00:37:47.600
+I być może ludzie zagłosują portfelami i wybiorą to bezpieczeństwo.
+
+00:37:47.600 --> 00:37:52.600
+To jest bezpieczeństwo takie, że zamiast TikToka, AliExpressu,
+
+00:37:52.600 --> 00:37:57.600
+Instagrama, Facebooka, będzie nas tylko śledził Apple.
+
+00:37:57.600 --> 00:38:00.600
+To jest w ogóle bardzo ciekawa myśl.
+
+00:38:00.600 --> 00:38:02.600
+Też bym się na chwilę chciał zatrzymać przy tym,
+
+00:38:02.600 --> 00:38:05.600
+bo to jest kwestia tego, co jest biznesem dla jakiej firmy.
+
+00:38:05.600 --> 00:38:09.600
+Bo z jednej strony oczywiście ten argument, który ty teraz podałeś,
+
+00:38:09.600 --> 00:38:11.600
+że mówicie, że Apple taki dobry, że nas zabezpiecza,
+
+00:38:11.600 --> 00:38:13.600
+przecież sami nas tak samo szpiegują.
+
+00:38:13.600 --> 00:38:15.600
+I to jest coś, na co jestem gotów się zgodzić
+
+00:38:15.600 --> 00:38:18.600
+i rozumiem skąd ta myśl.
+
+00:38:18.600 --> 00:38:21.600
+Ale z drugiej strony przychodzi coś innego,
+
+00:38:21.600 --> 00:38:23.600
+że Apple to może być taka firma,
+
+00:38:23.600 --> 00:38:27.600
+która dużo lepiej zarobi na tym, że was zabezpieczy,
+
+00:38:27.600 --> 00:38:30.600
+niż na tym, że ukradnie wasze dane.
+
+00:38:30.600 --> 00:38:33.600
+I to pojawia się taki model, który zaczyna mieć sens.
+
+00:38:33.600 --> 00:38:35.600
+Bo to jest coś, co do nas przemawia.
+
+00:38:35.600 --> 00:38:39.600
+Jeżeli oni z zabezpieczania mnie zarabiają wystarczające pieniądze,
+
+00:38:39.600 --> 00:38:42.600
+to nie mam powodu, żeby ich podejrzewać, że mnie próbują okraść,
+
+00:38:42.600 --> 00:38:45.600
+bo konsekwencje tego okradania mogą być fatalne.
+
+00:38:45.600 --> 00:38:48.600
+Więc może tam jest taki ruch,
+
+00:38:48.600 --> 00:38:51.600
+że to się Apple'owi opłaca po prostu zabezpieczać użytkownika.
+
+00:38:51.600 --> 00:38:55.600
+Oczywiście trochę naiwnością byłoby w to wierzyć,
+
+00:38:55.600 --> 00:38:57.600
+że będzie to czysto,
+
+00:38:57.600 --> 00:39:00.600
+w szczególności, że Apple był wielokrotnie łapany
+
+00:39:00.600 --> 00:39:05.600
+na wykorzystywaniu tych informacji o swoich użytkownikach,
+
+00:39:05.600 --> 00:39:11.600
+które po prostu mógł korzystać.
+
+00:39:11.600 --> 00:39:14.600
+Ale podoba mi się to, że rynek reaguje.
+
+00:39:14.600 --> 00:39:18.600
+Znaczy, że jest problem ze śledzeniem danych,
+
+00:39:18.600 --> 00:39:21.600
+jest problem z wykorzystywaniem tych danych,
+
+00:39:21.600 --> 00:39:23.600
+ze śledzeniem użytkowników,
+
+00:39:23.600 --> 00:39:26.600
+z tym, że nikt tego tak naprawdę porządnie nie kontroluje.
+
+00:39:26.600 --> 00:39:29.600
+Bo tak jak mówiliśmy, LinkedIn też ma problem.
+
+00:39:29.600 --> 00:39:33.600
+To jest Microsoft'u aplikacja,
+
+00:39:33.600 --> 00:39:36.600
+serwis społecznościowy dla branży.
+
+00:39:36.600 --> 00:39:38.600
+Jeszcze później będziemy się z tego śmiać trochę.
+
+00:39:38.600 --> 00:39:42.600
+Ale wszyscy naginają, bo mogą,
+
+00:39:42.600 --> 00:39:44.600
+bo nikt ich za rękę nie złapał.
+
+00:39:44.600 --> 00:39:47.600
+I nagle wychodzi Apple i mówi,
+
+00:39:47.600 --> 00:39:50.600
+no to my to zrobimy.
+
+00:39:50.600 --> 00:39:52.600
+Tak jest. U nas możemy tylko my.
+
+00:39:52.600 --> 00:39:57.600
+No i zobacz, że przez to Trump banuje TikToka
+
+00:39:57.600 --> 00:40:01.600
+największy, najbardziej trendujący,
+
+00:40:01.600 --> 00:40:04.600
+najbardziej rosnący i najbardziej popularny wśród młodzieży
+
+00:40:04.600 --> 00:40:06.600
+serwis społecznościowy,
+
+00:40:06.600 --> 00:40:09.600
+bo Apple wydał aktualizację swojego iOS-a.
+
+00:40:09.600 --> 00:40:11.600
+To jest powód prawdziwy.
+
+00:40:11.600 --> 00:40:14.600
+Wydaje mi się, że tam jest dłuższa historia.
+
+00:40:14.600 --> 00:40:16.600
+Jest oczywiście dłuższa historia.
+
+00:40:16.600 --> 00:40:18.600
+Stany, Chiny.
+
+00:40:18.600 --> 00:40:21.600
+Mamy dzisiaj 5 sierpnia.
+
+00:40:21.600 --> 00:40:23.600
+Na jakim etapie jesteśmy,
+
+00:40:23.600 --> 00:40:25.600
+jeżeli chodzi o banowanie tego TikToka?
+
+00:40:25.600 --> 00:40:28.600
+No takim, że Trump zapowiedział.
+
+00:40:28.600 --> 00:40:31.600
+Pojawiła się od razu taka sytuacja,
+
+00:40:31.600 --> 00:40:33.600
+że może zamiast go zbanować,
+
+00:40:33.600 --> 00:40:37.600
+to niech go wykupi jakaś amerykańska firma.
+
+00:40:37.600 --> 00:40:40.600
+Zgłosił i potwierdził się Microsoft.
+
+00:40:40.600 --> 00:40:43.600
+Co ciekawe, praktycznie od razu
+
+00:40:43.600 --> 00:40:47.600
+skoczyły o parę procent akcje Microsoftu.
+
+00:40:47.600 --> 00:40:49.600
+Nie dziwię się.
+
+00:40:49.600 --> 00:40:52.600
+Napisali na blogu takie coś,
+
+00:40:52.600 --> 00:40:55.600
+że firma w pełni docenia wagę obaw prezydenta.
+
+00:40:55.600 --> 00:40:58.600
+Zobowiązuje się też do nabycia TikToka
+
+00:40:58.600 --> 00:41:01.600
+z zastrzeżeniem pełnego przeglądu bezpieczeństwa
+
+00:41:01.600 --> 00:41:04.600
+i zapewnienia odpowiednich korzyści ekonomicznych
+
+00:41:04.600 --> 00:41:07.600
+Stanom Zjednoczonym, w tym Departamentowi Skarbu.
+
+00:41:07.600 --> 00:41:10.600
+Szybko przystąpimy do rozmów
+
+00:41:10.600 --> 00:41:13.600
+z właścicielami aplikacji TikTok firmą Bydens.
+
+00:41:13.600 --> 00:41:16.600
+Dojdzie do tego w ciągu kilku tygodni.
+
+00:41:16.600 --> 00:41:20.600
+Nie później niż do 15 września 2020 roku.
+
+00:41:20.600 --> 00:41:23.600
+To jest ciekawy ruch.
+
+00:41:23.600 --> 00:41:26.600
+Dosyć oczywisty w zasadzie.
+
+00:41:26.600 --> 00:41:29.600
+Microsoft też musi pilnować,
+
+00:41:29.600 --> 00:41:32.600
+żeby nie doszło do takiej sytuacji,
+
+00:41:32.600 --> 00:41:35.600
+że oni wydadzą grube miliardy na to,
+
+00:41:35.600 --> 00:41:38.600
+bo to jest aplikacja, która ma swoją wartość.
+
+00:41:38.600 --> 00:41:41.600
+A potem nagle Trump powie,
+
+00:41:41.600 --> 00:41:44.600
+a w zasadzie banujemy i tak.
+
+00:41:44.600 --> 00:41:47.600
+Wtedy nie ma podstaw do zbanowania.
+
+00:41:47.600 --> 00:41:50.600
+To będzie się toczyło przy obecności Białego Domu.
+
+00:41:50.600 --> 00:41:53.600
+Do pewnego stopnia pewnie.
+
+00:41:53.600 --> 00:41:56.600
+Dla Microsoftu to jest nienajgorsza inwestycja,
+
+00:41:56.600 --> 00:41:59.600
+bo oni w kwestii tych aplikacji
+
+00:41:59.600 --> 00:42:02.600
+i całego mobilnego rynku
+
+00:42:02.600 --> 00:42:05.600
+to chyba nie radzą sobie wybitnie.
+
+00:42:05.600 --> 00:42:08.600
+Mają LinkedIn,
+
+00:42:08.600 --> 00:42:11.600
+czyli absolutnie dominujący serwis społecznościowy
+
+00:42:11.600 --> 00:42:14.600
+dla biznesu.
+
+00:42:14.600 --> 00:42:17.600
+Oni też go kupili jakiś czas temu
+
+00:42:17.600 --> 00:42:20.600
+i też były takie zdania,
+
+00:42:20.600 --> 00:42:23.600
+że nie wiadomo po co, strata pieniędzy,
+
+00:42:23.600 --> 00:42:26.600
+ale jakby rozkręcili to.
+
+00:42:26.600 --> 00:42:29.600
+To jest absolutnie znaczący portal obecnie.
+
+00:42:29.600 --> 00:42:32.600
+Ja bardzo lubię przeglądać profile
+
+00:42:32.600 --> 00:42:35.600
+moich starych znajomych z Corpo.
+
+00:42:35.600 --> 00:42:38.600
+To są inni ludzie. Ja ich znam dobrze,
+
+00:42:38.600 --> 00:42:41.600
+ale jak patrzę na ich zdjęcia zawsze w garniturach,
+
+00:42:41.600 --> 00:42:44.600
+ręce na ten.
+
+00:42:44.600 --> 00:42:47.600
+Ta poza biznesowa jest cudowna.
+
+00:42:47.600 --> 00:42:50.600
+Kocham. Reksiu, o tobie mówię,
+
+00:42:50.600 --> 00:42:53.600
+żebym nie miał wątpliwości.
+
+00:42:53.600 --> 00:42:56.600
+Uwielbiam. To jest takie moje guilty pleasure.
+
+00:42:56.600 --> 00:42:59.600
+To jest taki Instagram dla biznesu.
+
+00:42:59.600 --> 00:43:02.600
+Totalnie. Tak się lansujesz tylko.
+
+00:43:02.600 --> 00:43:05.600
+Jeśli wejdziesz między wrony to jest dokładnie to.
+
+00:43:05.600 --> 00:43:08.600
+Dobrze, dobrze.
+
+00:43:08.600 --> 00:43:11.600
+Taką historią Microsoftu wydaje mi się trochę analogiczną
+
+00:43:11.600 --> 00:43:14.600
+do tego zakupu TikToka.
+
+00:43:14.600 --> 00:43:17.600
+To jest Minecraft.
+
+00:43:17.600 --> 00:43:20.600
+Też kupują coś bardzo dużego
+
+00:43:20.600 --> 00:43:23.600
+za bardzo dużo pieniędzy,
+
+00:43:23.600 --> 00:43:26.600
+chociaż wydaje mi się, że TikTok,
+
+00:43:26.600 --> 00:43:29.600
+bo Minecraft jednak się opłacił Microsoftowi.
+
+00:43:29.600 --> 00:43:32.600
+Wiele osób uważało, że to już jest stara granica.
+
+00:43:32.600 --> 00:43:35.600
+Szaleją, szaleją.
+
+00:43:35.600 --> 00:43:38.600
+TikTok to jest ekstremalnie popularny portal,
+
+00:43:38.600 --> 00:43:41.600
+który rośnie
+
+00:43:41.600 --> 00:43:44.600
+i będzie zarabiał jeszcze ogromne pieniądze.
+
+00:43:44.600 --> 00:43:47.600
+Ale podejrzewam, że to będą znacznie większe pieniądze
+
+00:43:47.600 --> 00:43:50.600
+niż w przypadku Minecrafta było.
+
+00:43:50.600 --> 00:43:53.600
+Ostatnio jak przeglądałem listę
+
+00:43:53.600 --> 00:43:56.600
+najbogatszych marek...
+
+00:43:56.600 --> 00:43:59.600
+Jeszcze raz to powiedziałeś? Pieniądze? Mniejsze?
+
+00:43:59.600 --> 00:44:02.600
+Większe. Może się przejęzyczyłem,
+
+00:44:02.600 --> 00:44:05.600
+ale nie wiem.
+
+00:44:05.600 --> 00:44:08.600
+Wyleciało mi z głowy to teraz.
+
+00:44:08.600 --> 00:44:11.600
+Chciałem powiedzieć, że dużo będą musieli
+
+00:44:11.600 --> 00:44:14.600
+więcej wydać na to.
+
+00:44:14.600 --> 00:44:17.600
+Bo jak przeglądałem listę najbogatszych marek,
+
+00:44:17.600 --> 00:44:20.600
+to TikTok się tam całkiem niedawno pojawił.
+
+00:44:20.600 --> 00:44:23.600
+Bardzo szybko, o tym już mówili,
+
+00:44:23.600 --> 00:44:26.600
+że bardzo mocno idzie w górę,
+
+00:44:26.600 --> 00:44:29.600
+więc tam pewnie będzie gruba kasa,
+
+00:44:29.600 --> 00:44:32.600
+bo tam są miliardy dolarów.
+
+00:44:32.600 --> 00:44:35.600
+Czy to są kwoty rzędu z 50 miliardów dolarów?
+
+00:44:35.600 --> 00:44:38.600
+Czy to już przesadziłem totalnie?
+
+00:44:38.600 --> 00:44:41.600
+Nie pamiętam.
+
+00:44:41.600 --> 00:44:44.600
+Coś obija mi się po głowie,
+
+00:44:44.600 --> 00:44:47.600
+ale chyba to jest zdecydowanie za grubo.
+
+00:44:47.600 --> 00:44:50.600
+No więc Microsoft się tam zaangażuje
+
+00:44:50.600 --> 00:44:53.600
+w tych młodzieżowych funkcjonalnościach.
+
+00:44:53.600 --> 00:44:56.600
+2,5 miliarda.
+
+00:44:56.600 --> 00:44:59.600
+Bo mówisz o Minecrafcie?
+
+00:44:59.600 --> 00:45:02.600
+Musiałbym potem jeszcze sprawdzić,
+
+00:45:02.600 --> 00:45:05.600
+ile ten TikTok jest wart.
+
+00:45:05.600 --> 00:45:08.600
+Teraz podobno o połowę stracił
+
+00:45:08.600 --> 00:45:11.600
+z oczywistych powodów.
+
+00:45:11.600 --> 00:45:14.600
+Przyjmijmy, że Microsoft próbuje
+
+00:45:14.600 --> 00:45:17.600
+gdzieś tam zafunkcjonować na tym rynku
+
+00:45:17.600 --> 00:45:20.600
+młodzieżowym, rozrywkowym po raz kolejny.
+
+00:45:20.600 --> 00:45:23.600
+I ma to sens niewątpliwie z ich perspektywy.
+
+00:45:23.600 --> 00:45:26.600
+I już badając sprawę TikToka,
+
+00:45:26.600 --> 00:45:29.600
+tak się angażujemy bardzo mocno w to,
+
+00:45:29.600 --> 00:45:32.600
+jakie dane mogą pobierać, jakie nie.
+
+00:45:32.600 --> 00:45:35.600
+Zaczyna się dyskusja na ten temat.
+
+00:45:35.600 --> 00:45:38.600
+Zastanawiam się, czy ten algorytm,
+
+00:45:38.600 --> 00:45:41.600
+który dobiera dane do naszych zapotrzebowań,
+
+00:45:41.600 --> 00:45:44.600
+jest też moralny.
+
+00:45:44.600 --> 00:45:47.600
+Czy etyczny jest?
+
+00:45:47.600 --> 00:45:50.600
+Bo to jest coś, na co żeśmy się zgodzili,
+
+00:45:50.600 --> 00:45:53.600
+ale czy to powinno mieć miejsce,
+
+00:45:53.600 --> 00:45:56.600
+czy idąc dalej za tym blokowaniem TikToka,
+
+00:45:56.600 --> 00:45:59.600
+powinniśmy też być za tym,
+
+00:45:59.600 --> 00:46:02.600
+żeby zablokować te funkcjonalności,
+
+00:46:02.600 --> 00:46:05.600
+które teoretycznie mają nam ułatwiać życie?
+
+00:46:05.600 --> 00:46:08.600
+Czy pobieranie jakichkolwiek danych na nasz temat,
+
+00:46:08.600 --> 00:46:11.600
+by nam dobrać treści, jest zasadne?
+
+00:46:11.600 --> 00:46:14.600
+Myślę, że to powinno być w jakiś sposób...
+
+00:46:14.600 --> 00:46:17.600
+My musimy wyrażać zgodę
+
+00:46:17.600 --> 00:46:20.600
+i mieć świadomość, na co wyrażamy.
+
+00:46:20.600 --> 00:46:23.600
+Musi być jasna taka sytuacja.
+
+00:46:23.600 --> 00:46:26.600
+Po pierwsze. Po drugie.
+
+00:46:26.600 --> 00:46:29.600
+Firmy nie powinny zbierać od nas informacji,
+
+00:46:29.600 --> 00:46:32.600
+których nie potrzebują.
+
+00:46:32.600 --> 00:46:35.600
+Wydaje nam się, że nie potrzebują.
+
+00:46:35.600 --> 00:46:38.600
+Ja uważam, że zbieranie informacji użytkowników
+
+00:46:38.600 --> 00:46:41.600
+to jest minimum informacji.
+
+00:46:41.600 --> 00:46:44.600
+To jest ważne.
+
+00:46:44.600 --> 00:46:47.600
+To, co firma potrzebuje, a czego nie,
+
+00:46:47.600 --> 00:46:50.600
+to kto o tym będzie decydował?
+
+00:46:50.600 --> 00:46:53.600
+Ale to nie wiesz o tym, bo firma potrzebuje jak najwięcej danych,
+
+00:46:53.600 --> 00:46:56.600
+bo dzisiaj może nic z tego nie wyciągniesz,
+
+00:46:56.600 --> 00:46:59.600
+ale jutro z twojego grymasu twarzy już wyciągniemy,
+
+00:46:59.600 --> 00:47:02.600
+czy jesteś zainteresowany zakupem i czego.
+
+00:47:02.600 --> 00:47:05.600
+Więc nie wiesz tak naprawdę,
+
+00:47:05.600 --> 00:47:08.600
+jakie dane ci są potrzebne do tego,
+
+00:47:08.600 --> 00:47:11.600
+żeby sfinalizować sprzedaż,
+
+00:47:11.600 --> 00:47:14.600
+a im więcej zbierzesz, tym wrzucisz to
+
+00:47:14.600 --> 00:47:17.600
+Big Data i jakieś algorytmy
+
+00:47:17.600 --> 00:47:20.600
+i to ci wszystko obliczy.
+
+00:47:20.600 --> 00:47:23.600
+Czy w ogóle jest taka porcja danych,
+
+00:47:23.600 --> 00:47:26.600
+która jest uzasadniona?
+
+00:47:26.600 --> 00:47:29.600
+Może w ogóle nie powinny?
+
+00:47:29.600 --> 00:47:32.600
+Nie wiem, czy to jest do nas pytanie.
+
+00:47:32.600 --> 00:47:35.600
+My na pewno nie odpowiemy.
+
+00:47:35.600 --> 00:47:38.600
+Pytam też z tą świadomością,
+
+00:47:38.600 --> 00:47:41.600
+czy będzie miał coś do powiedzenia w tej sprawie.
+
+00:47:41.600 --> 00:47:44.600
+Oczywiście idąc już w ekstremum,
+
+00:47:44.600 --> 00:47:47.600
+na bazie tego, o czym żeśmy rozmawiali,
+
+00:47:47.600 --> 00:47:50.600
+to mam takie poczucie, że pobieranie jakichkolwiek danych
+
+00:47:50.600 --> 00:47:53.600
+i wykorzystywanie jakichkolwiek informacji na nasz temat
+
+00:47:53.600 --> 00:47:56.600
+i naszych zainteresowań, to już jest nadużycie.
+
+00:47:56.600 --> 00:47:59.600
+Chyba, że w serwisie w bardzo jasny sposób jest zaznaczone,
+
+00:47:59.600 --> 00:48:02.600
+że pobieramy takie i takie dane,
+
+00:48:02.600 --> 00:48:05.600
+żeby określić twoje zainteresowania,
+
+00:48:05.600 --> 00:48:08.600
+i byłoby ok, gdyby taka informacja do mnie trafiała.
+
+00:48:08.600 --> 00:48:11.600
+Bo mnie te algorytmy irytują,
+
+00:48:11.600 --> 00:48:14.600
+bo jak mówię, kradną mi czas.
+
+00:48:14.600 --> 00:48:17.600
+Dla mnie to jest taka rzecz, że na razie,
+
+00:48:17.600 --> 00:48:20.600
+nawet jak ja się zgadzam na jakieś ciasteczka
+
+00:48:20.600 --> 00:48:23.600
+czy jakieś spersonalizowane reklamy,
+
+00:48:23.600 --> 00:48:26.600
+to ja i tak dostaję kupę.
+
+00:48:26.600 --> 00:48:29.600
+Po tym, jak coś sobie kupię,
+
+00:48:29.600 --> 00:48:32.600
+teraz kupiłem sobie dysk WD,
+
+00:48:32.600 --> 00:48:35.600
+taki MyBook 8TB.
+
+00:48:35.600 --> 00:48:38.600
+Szukałem tych dysków, przebierałem,
+
+00:48:38.600 --> 00:48:41.600
+zastanawiałem się, który.
+
+00:48:41.600 --> 00:48:44.600
+Spędziło mi to tydzień i w końcu kupiłem sobie ten dysk.
+
+00:48:44.600 --> 00:48:49.600
+I teraz od tygodnia mam tylko reklamy tych dysków.
+
+00:48:49.600 --> 00:48:52.600
+Już to nie ma sensu przecież.
+
+00:48:52.600 --> 00:48:55.600
+To prawda.
+
+00:48:55.600 --> 00:48:58.600
+To świadczy o słabościach tego algorytmu,
+
+00:48:58.600 --> 00:49:01.600
+ale nie zmienia faktu, że twoje dane są wykorzystywane.
+
+00:49:01.600 --> 00:49:04.600
+Już kupiłem to.
+
+00:49:04.600 --> 00:49:07.600
+Ja bym wolał, żeby ten algorytm już ogarnął,
+
+00:49:07.600 --> 00:49:10.600
+że ja kupiłem ten dysk.
+
+00:49:10.600 --> 00:49:13.600
+Ja już go nie chcę.
+
+00:49:13.600 --> 00:49:16.600
+To działa pewnie na taki sposób,
+
+00:49:16.600 --> 00:49:19.600
+że pewne rzeczy kupujesz regularnie.
+
+00:49:19.600 --> 00:49:22.600
+Ale to co to jest? Spożywka? Kosmetyki?
+
+00:49:22.600 --> 00:49:25.600
+Czy czapki?
+
+00:49:25.600 --> 00:49:28.600
+Wiemy, że te algorytmy są oberczone pewnymi błędami.
+
+00:49:28.600 --> 00:49:31.600
+Tak, ale wracając do tego,
+
+00:49:31.600 --> 00:49:34.600
+jakie informacje powinniśmy oddawać,
+
+00:49:34.600 --> 00:49:37.600
+ja uważam, że te, na które sami prywatnie się zgodzimy.
+
+00:49:37.600 --> 00:49:40.600
+Ja bym żadnych nie oddawał.
+
+00:49:40.600 --> 00:49:43.600
+Ja też bym nie oddawał.
+
+00:49:43.600 --> 00:49:46.600
+Ja w ogóle też się zastanawiam,
+
+00:49:46.600 --> 00:49:49.600
+bo mówi się dużo, że jest takie stwierdzenie,
+
+00:49:49.600 --> 00:49:52.600
+nie powtórzę go dokładnie,
+
+00:49:52.600 --> 00:49:55.600
+ale to rynek reklamy nakręca w ogóle gospodarkę.
+
+00:49:55.600 --> 00:49:58.600
+W oku reklamy wszystko się obraca.
+
+00:49:58.600 --> 00:50:01.600
+I myślę sobie tak, że żeby nam dobrze sformatować reklamę,
+
+00:50:01.600 --> 00:50:04.600
+to te serwisy teoretycznie potrzebują jakichś danych.
+
+00:50:04.600 --> 00:50:07.600
+Dobierają nam pod kątem naszych zainteresowań
+
+00:50:07.600 --> 00:50:10.600
+aktualnych i być może przeszłych.
+
+00:50:10.600 --> 00:50:13.600
+Ale z drugiej strony, przecież zanim Internet się pojawił,
+
+00:50:13.600 --> 00:50:16.600
+to był rynek reklamy i on sobie radził doskonale.
+
+00:50:16.600 --> 00:50:19.600
+Ja mam wrażenie, że w związku z tym,
+
+00:50:19.600 --> 00:50:22.600
+że ta precyzja reklam jest tak ogromna,
+
+00:50:22.600 --> 00:50:25.600
+że w zasadzie jeżeli ktoś płaci za reklamę,
+
+00:50:25.600 --> 00:50:28.600
+to może sobie wydać mniej pieniędzy na tę reklamę,
+
+00:50:28.600 --> 00:50:31.600
+ponieważ może ją bardzo precyzyjnie dostarczyć
+
+00:50:31.600 --> 00:50:34.600
+do tej grupy odbiorców.
+
+00:50:34.600 --> 00:50:37.600
+Nie ryzykuje, że ta reklama się rozejdzie po kościach.
+
+00:50:37.600 --> 00:50:40.600
+Ale to już jest taki problem reklamy.
+
+00:50:40.600 --> 00:50:43.600
+Ja muszę przyznać, że nie do końca mi się to podoba,
+
+00:50:43.600 --> 00:50:46.600
+że ja jestem takim celem, targetem.
+
+00:50:46.600 --> 00:50:49.600
+To jest bardzo ważne, co powiedziałeś.
+
+00:50:49.600 --> 00:50:52.600
+Jeżeli masz Instagram czy TikTok, które ma włączone kamery,
+
+00:50:52.600 --> 00:50:55.600
+jak przeglądasz, no to te dane mogą być w jakiś sposób wykorzystywane.
+
+00:50:55.600 --> 00:50:58.600
+Taki najprostsza rzecz.
+
+00:50:58.600 --> 00:51:01.600
+Przeglądasz sobie Instagrama i system widzi, że ty masz okulary i masz słuchawki.
+
+00:51:01.600 --> 00:51:04.600
+Więc będzie ci na przykład proponował nowe modele.
+
+00:51:04.600 --> 00:51:07.600
+Bo jesteś już użytkownikiem, więc jest jakaś szansa,
+
+00:51:07.600 --> 00:51:10.600
+że będziesz chciał wymienić ten model.
+
+00:51:10.600 --> 00:51:13.600
+Ale chodzisz sobie po domu, system załapie, że masz Express,
+
+00:51:13.600 --> 00:51:16.600
+że masz dziecko, że masz żonę.
+
+00:51:16.600 --> 00:51:19.600
+Wydobycie danych ze zdjęć,
+
+00:51:19.600 --> 00:51:22.600
+tam jest ogromna ilość danych,
+
+00:51:22.600 --> 00:51:25.600
+których ja nie chcę.
+
+00:51:25.600 --> 00:51:28.600
+Nie chcę, żeby ktokolwiek mi właził do mieszkania
+
+00:51:28.600 --> 00:51:31.600
+i patrzył sobie, co mi tutaj sprzedać.
+
+00:51:31.600 --> 00:51:34.600
+Przecież to jest jak...
+
+00:51:34.600 --> 00:51:37.600
+Tak, to prawda.
+
+00:51:37.600 --> 00:51:40.600
+Jakbyś miał regularną wizytę jakiegoś ziomka,
+
+00:51:40.600 --> 00:51:43.600
+który chodzi i zdjęcia robi po twoim domu, żeby się lepiej zorientować,
+
+00:51:43.600 --> 00:51:46.600
+a nie ten razem w walizeczce.
+
+00:51:46.600 --> 00:51:49.600
+To jesteśmy zgodni.
+
+00:51:49.600 --> 00:51:52.600
+Ja też wolałbym, żeby coś takiego zupełnie nie miało miejsca.
+
+00:51:52.600 --> 00:51:55.600
+I mam nadzieję, że w tę stronę będziemy zmierzali.
+
+00:51:55.600 --> 00:51:58.600
+Że z czasem tego typu obserwacje i szpiegostwo zostanie absolutnie zakazane.
+
+00:51:58.600 --> 00:52:01.600
+Chyba, że się na to zgodzimy.
+
+00:52:01.600 --> 00:52:04.600
+Myślę, że to nie jest...
+
+00:52:04.600 --> 00:52:07.600
+Nie wiem, czy prawo jest w stanie zakazać tego.
+
+00:52:07.600 --> 00:52:10.600
+Bardziej są właśnie...
+
+00:52:10.600 --> 00:52:13.600
+To, że jest jakieś zderzenie interesów
+
+00:52:13.600 --> 00:52:16.600
+i ktoś będzie chciał na tym zarobić,
+
+00:52:16.600 --> 00:52:19.600
+że my chcemy ochrony, tak jak Apple.
+
+00:52:19.600 --> 00:52:22.600
+Ja na przykład teraz, jak mówiłem, chcę sobie zmienić telefon.
+
+00:52:22.600 --> 00:52:25.600
+Myślałem, że sobie zmienię na Pixela 4A,
+
+00:52:25.600 --> 00:52:28.600
+ale jak widzę, coraz bardziej zastanawiam się nad iPhonem
+
+00:52:28.600 --> 00:52:36.600
+i decyzją, żeby nie szpiegowało mnie 30 firm, tylko jedna.
+
+00:52:36.600 --> 00:52:41.600
+Tak, tak. To informacje na temat iPhone'a są jak najbardziej sensowne.
+
+00:52:41.600 --> 00:52:44.600
+Ja też o tym rozmyślam.
+
+00:52:44.600 --> 00:52:47.600
+Wspomniałeś o tym prawie.
+
+00:52:47.600 --> 00:52:50.600
+Wiadomo, że niezwykle ciężko jest te wszystkie aplikacje sprawdzić
+
+00:52:50.600 --> 00:52:53.600
+pod kątem tego, co one pobierają, co nie.
+
+00:52:53.600 --> 00:52:56.600
+Im bardziej będą te aplikacje sprawdzane,
+
+00:52:56.600 --> 00:52:59.600
+tym bardziej sprytniejsze metody zostaną wymyślone,
+
+00:52:59.600 --> 00:53:02.600
+żeby to pozyskiwać po cichu i tajnie.
+
+00:53:02.600 --> 00:53:06.600
+Można by podejść do rozwiązania tego problemu z innej strony.
+
+00:53:06.600 --> 00:53:09.600
+Jeżeli Google straciłby prawo, albo w ogóle jakakolwiek instytucja,
+
+00:53:09.600 --> 00:53:15.600
+która oferuje tablice reklamowe w internecie,
+
+00:53:15.600 --> 00:53:18.600
+stracą prawo do sprzedawania reklamy, która jest precyzyjna,
+
+00:53:18.600 --> 00:53:21.600
+która jest tak bardzo...
+
+00:53:21.600 --> 00:53:24.600
+To nagle potrzeba szpiegowania ludzi do tego stopnia
+
+00:53:24.600 --> 00:53:27.600
+zostanie totalnie zlikwidowana.
+
+00:53:27.600 --> 00:53:30.600
+Bo co z tego, że szpiegujesz ludzi, jak i tak nie możesz sprzedać reklamy
+
+00:53:30.600 --> 00:53:33.600
+na konkretną osobę.
+
+00:53:33.600 --> 00:53:36.600
+Bo dzisiaj jest tak, że do Google przychodzi ziomek i mówi
+
+00:53:36.600 --> 00:53:39.600
+słuchaj, chcę, żebyś takim ludkom wyświetlił te reklamy
+
+00:53:39.600 --> 00:53:42.600
+i Google mówi OK, mam tu taką listę takich ziomków i wysyłamy.
+
+00:53:42.600 --> 00:53:45.600
+Ale właśnie o to chodzi, że oni konkurują ze sobą,
+
+00:53:45.600 --> 00:53:48.600
+że TikTok jest platformą, na której możesz wykupić reklamy.
+
+00:53:48.600 --> 00:53:51.600
+I dość bardzo precyzyjnie pewnie do klienta.
+
+00:53:51.600 --> 00:53:54.600
+No oczywiście.
+
+00:53:54.600 --> 00:53:57.600
+Ja mówię o tym, żeby nie dało się sprzedawać takiej precyzyjnej reklamy.
+
+00:53:57.600 --> 00:54:00.600
+I to wszystko, co możesz powiedzieć użytkownikom.
+
+00:54:00.600 --> 00:54:03.600
+Ale jak są użytkownicy, którzy chcą
+
+00:54:03.600 --> 00:54:06.600
+mieć taką reklamę spersonalizowaną i się zgadzają na tą,
+
+00:54:06.600 --> 00:54:09.600
+to też nie odbieraj ludziom wolności w tą drugą stronę.
+
+00:54:09.600 --> 00:54:12.600
+Jeżeli chcą się sprzedać...
+
+00:54:12.600 --> 00:54:15.600
+Ja miałem taką historię.
+
+00:54:15.600 --> 00:54:18.600
+Teraz były transmisje z Woodstocku.
+
+00:54:18.600 --> 00:54:21.600
+Znaczy z Poland Rock.
+
+00:54:21.600 --> 00:54:24.600
+Ja pamiętam, jak byłem na Woodstocku chyba trzecim w moim życiu.
+
+00:54:24.600 --> 00:54:27.600
+I tam na pięć razy sprzedałem
+
+00:54:27.600 --> 00:54:30.600
+moją emeryturę za flaszkę wódki.
+
+00:54:30.600 --> 00:54:33.600
+I bardzo byłem zadowolony z tego.
+
+00:54:33.600 --> 00:54:36.600
+Podpisałem tam ofę.
+
+00:54:36.600 --> 00:54:39.600
+I typ podjechał sobie tam pasatem
+
+00:54:39.600 --> 00:54:42.600
+i sprzedawał i mówił
+
+00:54:42.600 --> 00:54:45.600
+podpiszesz ze mną umowę, bo był agentem, to flaszka wódki dla ciebie.
+
+00:54:45.600 --> 00:54:48.600
+To jest świetny deal.
+
+00:54:48.600 --> 00:54:51.600
+Pięć sekund się nie zastanawiałem. Była pyszna.
+
+00:54:51.600 --> 00:54:54.600
+Okej, okej. To żeśmy chyba doszli parę razy
+
+00:54:54.600 --> 00:54:57.600
+do tego przekonania, że zabranianie
+
+00:54:57.600 --> 00:55:00.600
+na sztywno pewnych rzeczy jest bardziej
+
+00:55:00.600 --> 00:55:03.600
+niekorzystne niż korzystne i ma więcej wad.
+
+00:55:03.600 --> 00:55:06.600
+Ale chyba się zgodzimy co do tego, że jeżeli użytkownik
+
+00:55:06.600 --> 00:55:09.600
+dowolnego serwisu ma pełną wiedzę na temat tego
+
+00:55:09.600 --> 00:55:12.600
+jakie dane są pobierane i wyraża tę zgodę albo nie,
+
+00:55:12.600 --> 00:55:15.600
+no to nic złego by się nie stało i raczej byłoby to korzystne.
+
+00:55:15.600 --> 00:55:18.600
+Tak, znaczy uważam, że powinniśmy mieć tą wiedzę
+
+00:55:18.600 --> 00:55:21.600
+i powinniśmy mieć wybór i podoba mi się to,
+
+00:55:21.600 --> 00:55:24.600
+że jakaś firma poszła na wojnę
+
+00:55:24.600 --> 00:55:27.600
+i to na grubo, bo powiedzmy sobie szczerze,
+
+00:55:27.600 --> 00:55:30.600
+jak wyjdzie ten iOS nowy,
+
+00:55:30.600 --> 00:55:33.600
+to będzie dym straszliwy,
+
+00:55:33.600 --> 00:55:36.600
+bo to będzie masowo się okaże,
+
+00:55:36.600 --> 00:55:39.600
+że aplikacje nas szpiegują i to już wychodzi.
+
+00:55:39.600 --> 00:55:42.600
+A powiedz, bo wspominasz o tym iOSie,
+
+00:55:42.600 --> 00:55:45.600
+ja też mam mniej więcej zarysowany kształt,
+
+00:55:45.600 --> 00:55:48.600
+to nie polega to, co Apple chce zrobić,
+
+00:55:48.600 --> 00:55:51.600
+ale możesz dokładnie opowiedzieć o szczegółach tego systemu,
+
+00:55:51.600 --> 00:55:54.600
+dlaczego on jest taki...
+
+00:55:54.600 --> 00:55:57.600
+Tam po prostu dostajesz informację, że jak ściągasz sobie z góry,
+
+00:55:57.600 --> 00:56:00.600
+to na filmikach ja to widziałem, bo ja mam starego iPada,
+
+00:56:00.600 --> 00:56:03.600
+ta czternastka tam już nie pójdzie,
+
+00:56:03.600 --> 00:56:06.600
+po prostu widzisz jakie urządzenie kopiuję ze schowka,
+
+00:56:06.600 --> 00:56:09.600
+jaka aplikacja, jaka aplikacja korzysta z kamery,
+
+00:56:09.600 --> 00:56:12.600
+masz po prostu ikonkę kamery i Instagram napisane.
+
+00:56:12.600 --> 00:56:15.600
+To jest prosty komunikat.
+
+00:56:15.600 --> 00:56:18.600
+Czyli to jest przede wszystkim cel informacyjny.
+
+00:56:18.600 --> 00:56:21.600
+Ja nie miałem czternastki, nie zbadałem tego,
+
+00:56:21.600 --> 00:56:24.600
+być może po prostu będziesz mógł też to blokować.
+
+00:56:24.600 --> 00:56:27.600
+No właśnie, to miałoby wtedy...
+
+00:56:27.600 --> 00:56:30.600
+Ale TikTok, jak go zablokujesz za bardzo, to on nie działa.
+
+00:56:30.600 --> 00:56:33.600
+No właśnie.
+
+00:56:33.600 --> 00:56:36.600
+No to będą ciekawe rzeczy się działy,
+
+00:56:36.600 --> 00:56:39.600
+to na pewno warto obserwować.
+
+00:56:39.600 --> 00:56:42.600
+I to będziemy robić.
+
+00:56:42.600 --> 00:56:45.600
+Tak, zobaczymy, bo to jest sprawa bardzo skomplikowana
+
+00:56:45.600 --> 00:56:51.600
+i myślę, że przyszłość nam powie, co z tego będzie.
+
+00:56:51.600 --> 00:56:54.600
+Czy coś się zmieni.
+
+00:56:54.600 --> 00:56:57.600
+To co, wyczerpaliśmy cały temat?
+
+00:56:57.600 --> 00:57:00.600
+Nie wiem, dowiemy się z komentarzy.
+
+00:57:00.600 --> 00:57:03.600
+Ale myślę, że to jest najwyższa pora, żeby się z Państwem już pożegnać.
+
+00:57:03.600 --> 00:57:06.600
+Pozdrawiamy bardzo serdecznie, dziękujemy za uwagę.
+
+00:57:06.600 --> 00:57:09.600
+Zadaliśmy w trakcie...
+
+00:57:09.600 --> 00:57:12.600
+No właśnie. To trzymajcie się.
+

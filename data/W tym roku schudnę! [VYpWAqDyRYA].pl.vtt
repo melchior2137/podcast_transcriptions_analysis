@@ -1,0 +1,4966 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:03.340
+Dzień dobry, witamy państwa bardzo, bardzo serdecznie w podcaście
+
+00:00:03.360 --> 00:00:05.360
+Rock i Borys. Dzień dobry, Borys.
+
+00:00:05.380 --> 00:00:09.780
+Dzień dobry, Remigiuszu. Witam państwa bardzo serdecznie.
+
+00:00:09.800 --> 00:00:14.300
+Jak ci się podoba mój obraz? Jak widzisz, uległ znacznej poprawie jakościowej.
+
+00:00:14.320 --> 00:00:16.320
+Ogoliłeś się? Fryzura nowa?
+
+00:00:16.340 --> 00:00:18.540
+Twoje oblicze, chciałeś powiedzieć.
+
+00:00:18.560 --> 00:00:20.560
+Nie, nie, no kamerka nadal jest dochrzana.
+
+00:00:20.580 --> 00:00:23.580
+Myślałem, że to jest wina komputera starego, ale nie.
+
+00:00:23.600 --> 00:00:25.600
+To jest wina komputera.
+
+00:00:25.620 --> 00:00:29.320
+Nie, kamerki webowe są po prostu...
+
+00:00:29.320 --> 00:00:31.320
+Dochrzano.
+
+00:00:31.340 --> 00:00:33.340
+Nawet te najnowsze, współczesne, tak?
+
+00:00:33.360 --> 00:00:34.360
+Nawet, tak.
+
+00:00:34.380 --> 00:00:36.380
+Co tam u ciebie słychać?
+
+00:00:36.400 --> 00:00:43.400
+Remigiuszu, u mnie słychać to, że odpaliłem moje Raspberry Pi numer 3.
+
+00:00:43.420 --> 00:00:46.420
+Bo mam dwie sztuki, numer 3 i numer 4.
+
+00:00:46.440 --> 00:00:51.440
+I zainstalowałem sobie w ramach nagłego napadu nostalgii
+
+00:00:51.440 --> 00:01:00.940
+taki retro Pi, to się nazywa, czyli taki zmieniony system pod emulację konsol.
+
+00:01:00.960 --> 00:01:05.960
+Starych systemów, dokładnie Commodore 64 i Amigę.
+
+00:01:05.980 --> 00:01:07.980
+I odpaliłem sobie.
+
+00:01:08.000 --> 00:01:12.000
+I posprawdzałem sobie te gry, jak tak wyglądały.
+
+00:01:12.020 --> 00:01:14.020
+Tak trochę pod streama, wiesz?
+
+00:01:14.040 --> 00:01:20.540
+Bo planuję zrobić sobie z Raspberry Pi 4
+
+00:01:20.540 --> 00:01:25.540
+taki system, gdzie są prawie wszystkie gry takie stare.
+
+00:01:25.560 --> 00:01:28.560
+Wiadomo, że to nie da się zrobić tak, żeby były wszystkie,
+
+00:01:28.580 --> 00:01:30.580
+ale tam do któregoś momentu, nie?
+
+00:01:30.600 --> 00:01:34.600
+I pomijając tam Nintendo, jakieś takie rzeczy,
+
+00:01:34.620 --> 00:01:40.620
+gdzie ktoś się może obrazić, że używasz ich starych gier,
+
+00:01:40.640 --> 00:01:43.640
+to chciałbym mieć coś takiego, w razie czego na streama sobie odpalę,
+
+00:01:43.660 --> 00:01:47.660
+takie, żeby sobie czasem przypomnieć, jak te gry wyglądają,
+
+00:01:47.660 --> 00:01:51.660
+dużo lepiej, nie wiem w sumie dlaczego,
+
+00:01:51.680 --> 00:01:55.680
+ale dużo ciekawsze to jest, jak to jest na osobnym urządzeniu,
+
+00:01:55.700 --> 00:01:59.700
+niż po prostu emulator na komputerze.
+
+00:01:59.720 --> 00:02:02.720
+Nigdy mi się tego emulatora po prostu tam, żeby coś zrobić.
+
+00:02:02.740 --> 00:02:04.740
+A tak to jak, oczywiście poszedłem na Twiznę,
+
+00:02:04.760 --> 00:02:08.760
+zgrałem sobie gotowe ISO z internetu i rzuciłem na kartę
+
+00:02:08.780 --> 00:02:11.780
+i po prostu to działa.
+
+00:02:11.800 --> 00:02:15.800
+No i to tyle, wiesz, jakby...
+
+00:02:15.800 --> 00:02:18.800
+Fajne, że to, co opowiadasz, to czarna magia dla mnie.
+
+00:02:18.820 --> 00:02:21.820
+ISO, jakieś ISO. ISO trochę kojarzę, to jest zapisany obraz dysku, tak?
+
+00:02:21.840 --> 00:02:24.840
+No to jest obraz po prostu, który wgrywasz na kartę micro SD,
+
+00:02:24.860 --> 00:02:28.860
+wsadzasz do Raspberry Pi, odpalasz i jest na gotowe.
+
+00:02:28.880 --> 00:02:30.880
+To jest taki, wiesz...
+
+00:02:30.900 --> 00:02:31.900
+Taka sztuczka.
+
+00:02:31.920 --> 00:02:37.920
+Taka sztuczka i ściągam sobie taką wersję ISO,
+
+00:02:37.940 --> 00:02:39.940
+bodajże to się nazywa Rig Dangerous.
+
+00:02:39.960 --> 00:02:42.960
+Nie mylić z grą, znaczy to jest nawiązanie oczywiście do gry,
+
+00:02:42.960 --> 00:02:47.960
+o tym samym tytule, ale typ robi takie potężne...
+
+00:02:47.980 --> 00:02:52.980
+Potężne... Nie wiem jak to... Zbiory gier.
+
+00:02:53.000 --> 00:02:56.000
+I można sobie to ściągnąć.
+
+00:02:56.020 --> 00:03:00.020
+Oczywiście Nintendo tam nie za najlepiej patrzy na to.
+
+00:03:00.040 --> 00:03:03.040
+Tam zresztą też jest taki problem legalności, nie?
+
+00:03:03.060 --> 00:03:06.060
+No bo tam chyba są nawet z PlayStation 1 gry,
+
+00:03:06.080 --> 00:03:09.080
+no to jeszcze nie są takie, które są uwolnione od prawa,
+
+00:03:09.080 --> 00:03:14.080
+bo wiesz, ze starymi grami, no to tam chyba już część przechodzi
+
+00:03:14.100 --> 00:03:19.100
+do domeny publicznej, część jest tak zwane porzucone,
+
+00:03:19.120 --> 00:03:24.120
+porzucony software, że chciałbyś wiedzieć, kto jest właścicielem,
+
+00:03:24.140 --> 00:03:26.140
+ale już nikt się nie zgłasza.
+
+00:03:26.160 --> 00:03:28.160
+I nie wiadomo co z takim softwarem.
+
+00:03:28.180 --> 00:03:32.680
+Ja szanuję, znaczy z jednej strony doceniam takich ludzi,
+
+00:03:32.700 --> 00:03:38.200
+którym się chce katalogować, bo tam jest każda gra opisana,
+
+00:03:38.200 --> 00:03:43.200
+skatalogowana, to takie z napracowaniem zrobione, muszę przyznać.
+
+00:03:43.220 --> 00:03:49.220
+Ale no też wiesz, w dzisiejszych czasach to stawiam,
+
+00:03:49.240 --> 00:03:53.740
+że można mieć jakieś tam problemy prawne przez to,
+
+00:03:53.760 --> 00:03:55.760
+na pewno od Nintendo, nie?
+
+00:03:55.780 --> 00:03:58.780
+No wiem, no Nintendo się czepia wszystkiego, to jest...
+
+00:03:58.800 --> 00:04:01.800
+Ja nie jestem... Znaczy jestem na pewno fanem takich,
+
+00:04:01.820 --> 00:04:04.820
+wiesz, fanowskich działalności, które ułatwiają ludziom
+
+00:04:04.840 --> 00:04:07.840
+dotarcie do tych starych gier, co pewnie nie jest proste legalnie.
+
+00:04:07.840 --> 00:04:10.840
+Ale i Nintendo i PlayStation chyba w ogóle,
+
+00:04:10.860 --> 00:04:14.360
+japońskie korporacje mają skłonność, żeby się strasznie na to zrzucać z zębami,
+
+00:04:14.380 --> 00:04:17.380
+że to jest ich, że nie wolno, że jak oni tego nie...
+
+00:04:17.400 --> 00:04:22.400
+Wiesz co, Nintendo cały czas oferuje na Switchu swoje gry ze SNES-a i NES-a.
+
+00:04:22.420 --> 00:04:25.620
+No ale mnie bardziej interesowały te starsze,
+
+00:04:25.640 --> 00:04:32.140
+czyli Amiga właśnie, Commodore, Atari, Amstard nawet.
+
+00:04:32.160 --> 00:04:34.160
+Amstrad.
+
+00:04:34.180 --> 00:04:36.480
+Amstrad, Amstard, ja zawsze mówiłem Amstard,
+
+00:04:36.480 --> 00:04:39.480
+to już jakby, to już nie da, to już, to już wiesz, Tomb Raider, nie?
+
+00:04:39.500 --> 00:04:44.500
+To go już nie przekro... Nie wywalisz z mózgu tego.
+
+00:04:44.520 --> 00:04:47.020
+No tak, tak. Pomyślam się.
+
+00:04:47.040 --> 00:04:51.040
+No, ale zamierzam sobie czasami tak odpalić może
+
+00:04:51.060 --> 00:04:55.060
+taki kącik retro na strumieniu zrobić.
+
+00:04:55.080 --> 00:04:59.580
+I zobaczymy, zobaczymy, czy mnie ktoś pozwie na przykład od Nintendo.
+
+00:04:59.600 --> 00:05:03.100
+Nie pozdrawiam. Remigiuszu, a słyszałem, że zepsułeś komputer.
+
+00:05:03.120 --> 00:05:05.620
+O, panie kochany, to jest wiesz, z jednej strony dobra wiadomość,
+
+00:05:05.620 --> 00:05:07.620
+z drugiej strony zła. By państwa trochę wtajemniczyć,
+
+00:05:07.640 --> 00:05:10.640
+ja używałem swojego komputera chyba już tak z pięć lat.
+
+00:05:10.660 --> 00:05:14.160
+Tego, którego używałem do streamowania, do nagrywania materiałów.
+
+00:05:14.180 --> 00:05:17.680
+I on był od samego początku obsuty, bo to był taki komputer,
+
+00:05:17.700 --> 00:05:20.700
+który ja dostałem od Intela i bardzo jestem wdzięczny.
+
+00:05:20.720 --> 00:05:23.720
+Dostałeś od Intela zepsuty komputer?
+
+00:05:23.740 --> 00:05:25.740
+No, pozdrawiam bardzo też strefą.
+
+00:05:25.760 --> 00:05:27.760
+Nie, to nie jest reklama, dobra.
+
+00:05:27.780 --> 00:05:29.780
+Nie, nie, ale to jest też tak, że to był taki komputer,
+
+00:05:29.800 --> 00:05:32.800
+to był bardzo nowoczesny sprzęt, który niestety przeszedł przez ręce
+
+00:05:32.800 --> 00:05:35.800
+wszystkich redakcji, które w Polsce zajmują się recenzowaniem sprzętu
+
+00:05:35.820 --> 00:05:39.320
+i różnych części. I oni dostarczyli mi komputer w takim stanie,
+
+00:05:39.340 --> 00:05:43.340
+że już wiesz, tam były powyginane te zęby przy tym, przy procesorze.
+
+00:05:43.360 --> 00:05:47.360
+Tam dużo było takich rzeczy, płyta główna była wiesz, popsuta.
+
+00:05:47.380 --> 00:05:52.380
+No więc on to taki był, no to go rywał, taki dziadek to był.
+
+00:05:52.400 --> 00:05:55.400
+Czekałem aż umrze. I tak wiesz, no nie chciałem go ubijać sam,
+
+00:05:55.420 --> 00:05:57.420
+bo póki działał, to go trzymałem.
+
+00:05:57.440 --> 00:06:01.440
+Ale w końcu trzeba było, znaczy właściwie nawet nie tyle,
+
+00:06:01.440 --> 00:06:04.440
+trzeba było zrobić. Doczekałem do jego zgonu.
+
+00:06:04.460 --> 00:06:09.960
+Padł dysk główny, chyba, bo jeszcze nie jestem do końca pewny.
+
+00:06:09.980 --> 00:06:14.480
+No i stanąłem przed trudnym zadaniem zmodernizowania tego swojego całego stanowiska.
+
+00:06:14.500 --> 00:06:19.500
+Teraz jestem na etapie robienia rzeczy praktycznie od zera,
+
+00:06:19.520 --> 00:06:21.520
+co nie poprawiło jakości mojej kamerki,
+
+00:06:21.540 --> 00:06:24.540
+ale już teraz musiałem kupić nowy mikrofon.
+
+00:06:24.560 --> 00:06:26.560
+Kupiłem nowy mikrofon, kupiłem...
+
+00:06:26.580 --> 00:06:28.080
+A to ty tego Blue Yeti kupiłeś?
+
+00:06:28.100 --> 00:06:29.600
+Nie, zaraz ci powiem, jeszcze nie.
+
+00:06:29.600 --> 00:06:32.100
+Kupiłem kartę do przechwytywania, ona już do mnie idzie,
+
+00:06:32.120 --> 00:06:35.120
+jakiś nowy statyw, ten uchwyt na mikrofon.
+
+00:06:35.140 --> 00:06:38.140
+Nie, nie, kupiłem sobie tym razem już dynamiczny ten mikrofon,
+
+00:06:38.160 --> 00:06:41.160
+dokładnie którego ty masz, bo on bardzo jest...
+
+00:06:41.180 --> 00:06:44.180
+Bardzo mi się podoba jakość dźwięku i to, że on tak odszumia bardzo dobrze.
+
+00:06:44.200 --> 00:06:46.700
+Nad moim dźwiękiem będziesz musiał opracować trochę.
+
+00:06:46.720 --> 00:06:49.520
+Ja mam nadzieję w ogóle, że państwo nie będą mieli problemów
+
+00:06:49.540 --> 00:06:52.040
+dzisiaj ze słuchaniem nas, mnie zwłaszcza.
+
+00:06:52.060 --> 00:06:54.560
+No to popracujemy nad tym, żeby...
+
+00:06:54.560 --> 00:07:00.560
+Nie, ja słyszę, że te mikrofony są bardzo, stawiam, że dość bliźniacze.
+
+00:07:00.580 --> 00:07:04.080
+Jakby państwo chcieli wiedzieć, ja używam Rode tam X100,
+
+00:07:04.100 --> 00:07:07.100
+to się nazywa jakoś tak, nie jest to reklama,
+
+00:07:07.120 --> 00:07:09.120
+a mogłaby być.
+
+00:07:09.140 --> 00:07:12.140
+No właśnie, no, no.
+
+00:07:12.160 --> 00:07:16.360
+Bo my Rode jeszcze używaliśmy w studiu mikrofonów, ja to lubię.
+
+00:07:16.380 --> 00:07:18.380
+No, to lubię tą firmę, nie będę ukrywał.
+
+00:07:18.400 --> 00:07:22.400
+Produkcja, proszę państwa, jeden z nielicznych sprzętów elektronicznych,
+
+00:07:22.400 --> 00:07:27.400
+którego produkcja odbywa się nie w Chinach, a w Australii.
+
+00:07:27.420 --> 00:07:29.420
+Ciekawostka.
+
+00:07:29.440 --> 00:07:33.940
+Bardzo mi się podoba ten mikrofon, bo w ogóle mikrofony dynamiczne
+
+00:07:33.960 --> 00:07:35.960
+mają to do siebie, że nie zbierają tła za bardzo.
+
+00:07:35.980 --> 00:07:40.480
+A ja, żeby na mikrofonie pojemnościowym tła się pozbyć,
+
+00:07:40.500 --> 00:07:43.500
+musiałem używać sporo dodatkowego oprogramowania,
+
+00:07:43.520 --> 00:07:46.520
+co jest kłopotliwe, zawsze jakieś opóźnienia tam.
+
+00:07:46.540 --> 00:07:50.240
+No i jeszcze przy okazji, na szczęście, bo ten mikrofon, który mam tutaj,
+
+00:07:50.240 --> 00:07:53.740
+to dostałem kiedyś z jakąś taką specjalną edycją World of Warcraft,
+
+00:07:53.760 --> 00:07:55.760
+bo to jest w ogóle mikrofon World of Warcraft,
+
+00:07:55.780 --> 00:07:59.780
+ja go tutaj nie przedstawię państwu, tutaj widać kawałek logo z tej strony.
+
+00:07:59.800 --> 00:08:03.800
+Bo mój Blue Yeti, jak się okazuje, też był popsuty.
+
+00:08:03.820 --> 00:08:06.820
+Blue Yeti był podpięty do tego starosieńkiego komputera
+
+00:08:06.840 --> 00:08:09.840
+i byłem pewny, że tam jakieś takie przegłosy, jakieś takie elektroniczne dźwięki,
+
+00:08:09.860 --> 00:08:12.860
+to to jest kwestia po prostu tego starego komputera,
+
+00:08:12.880 --> 00:08:14.880
+że tam są jakieś przebicia czy coś.
+
+00:08:14.900 --> 00:08:18.100
+Ale podłączyłem ten stary Blue Yeti i do laptopa, i do nowego kompa
+
+00:08:18.120 --> 00:08:20.120
+i cały czas tam coś trzeszczało.
+
+00:08:20.120 --> 00:08:22.120
+Więc go wywaliłem teraz.
+
+00:08:22.140 --> 00:08:25.640
+To też taki dziadek, ten Blue Yeti to ma z 9 lat albo z 8.
+
+00:08:25.660 --> 00:08:28.460
+Ja w ogóle tylko, ja państwu opowiem historię,
+
+00:08:28.480 --> 00:08:30.980
+gdyż jak z Remigiuszem zawsze nagrywamy,
+
+00:08:31.000 --> 00:08:34.700
+to ja zawsze słyszałem takie piszczenie po prostu,
+
+00:08:34.720 --> 00:08:38.720
+które jest indyrytujące, ale można się przyzwyczaić.
+
+00:08:38.740 --> 00:08:40.740
+Bo ja jestem czarujący, więc...
+
+00:08:40.760 --> 00:08:43.960
+O, mówiłem, że nic z tym nie zrobię.
+
+00:08:43.980 --> 00:08:45.980
+Taka jest prawda.
+
+00:08:46.000 --> 00:08:50.000
+Zmusić ciebie do wymiany czegokolwiek, no to tylko jak coś już się zepsuje.
+
+00:08:50.000 --> 00:08:56.000
+Więc teraz komfort nagrywania podcastu,
+
+00:08:56.020 --> 00:08:59.520
+panie Remigiuszu, wzrosł mi co najmniej o 7,5%.
+
+00:08:59.540 --> 00:09:01.540
+No to na pewno. Ja jestem, ja muszę przyznać,
+
+00:09:01.560 --> 00:09:03.560
+że jestem trochę niewolnikiem rutyny.
+
+00:09:03.580 --> 00:09:05.580
+Jak coś mi działa, to bardzo ciężko mi się za to zabrać.
+
+00:09:05.600 --> 00:09:07.600
+Tym bardziej, że przy tym starym komputerze
+
+00:09:07.620 --> 00:09:09.620
+to nawet bałem się odłączyć USB, żeby...
+
+00:09:09.640 --> 00:09:11.640
+To był komputer, którego w ogóle nie...
+
+00:09:11.660 --> 00:09:13.660
+Ja go w ogóle nie wyłączałem.
+
+00:09:13.680 --> 00:09:15.680
+On 24 godziny na dobę chodził.
+
+00:09:15.700 --> 00:09:17.700
+Bo jak się go wyłączyło, to potem była szansa,
+
+00:09:17.700 --> 00:09:20.200
+że się nie włączy. Trzeba strasznie z nim walczyć.
+
+00:09:20.220 --> 00:09:23.220
+Więc trochę się cieszę, że już odszedł teraz.
+
+00:09:23.240 --> 00:09:25.240
+A wyśle go do jakiejś renowacji.
+
+00:09:25.260 --> 00:09:27.260
+Zobaczymy, co tam się da z tym zrobić.
+
+00:09:27.280 --> 00:09:29.280
+No bo to szkoda się pozbywać tego komputera.
+
+00:09:29.300 --> 00:09:31.300
+Ja tam znajdę jakieś dla niego zastosowanie.
+
+00:09:31.320 --> 00:09:33.320
+Ale też na...
+
+00:09:33.340 --> 00:09:36.840
+Boże, takie miejsce w domu...
+
+00:09:36.860 --> 00:09:39.860
+Jak się nazywa takie miejsce, gdzie się trzyma tam talerze czy co?
+
+00:09:39.880 --> 00:09:41.880
+Witrynkę o...
+
+00:09:41.900 --> 00:09:44.900
+Zobaczymy jeszcze, co z tym zrobię.
+
+00:09:44.900 --> 00:09:49.900
+To jest też tak, że ja w ogóle skończyłem Wiedźmina 3.
+
+00:09:49.920 --> 00:09:51.920
+Tą podstawkę.
+
+00:09:51.940 --> 00:09:53.940
+Ostatnie trzy godziny nagrania były na komputerze,
+
+00:09:53.960 --> 00:09:55.960
+który się wywalił, na dysku, który się wywalił.
+
+00:09:55.980 --> 00:09:57.980
+I muszę jeszcze raz przechodzić ostatnie trzy godziny Wiedźmina.
+
+00:09:58.000 --> 00:10:00.000
+To są dobre wiadomości.
+
+00:10:00.020 --> 00:10:03.020
+No pewnie, tylko że teraz nie mogę grać, bo nie mam sprzętu do nagrywania.
+
+00:10:03.040 --> 00:10:05.040
+Więc w rezultacie jestem odcięty.
+
+00:10:05.060 --> 00:10:07.060
+Jak powiedziałem, jestem niewolnikiem rutyny i pozbawiony
+
+00:10:07.080 --> 00:10:09.580
+tych rzeczy, które robię na co dzień.
+
+00:10:09.600 --> 00:10:11.600
+Czyli wstaję rano, siadam do pracy.
+
+00:10:11.620 --> 00:10:13.620
+Potem jakieś ćwiczenia, potem jakieś śniadanie.
+
+00:10:13.620 --> 00:10:15.620
+Wiesz, ja uwielbiam to tempo.
+
+00:10:15.640 --> 00:10:17.640
+Jak mi się coś odbierze z tego i nie mogę pracować,
+
+00:10:17.660 --> 00:10:19.660
+to nie mogę mi się pozbierać.
+
+00:10:19.680 --> 00:10:21.680
+Przez dwa dni chodziłem właściwie jak z truty.
+
+00:10:21.700 --> 00:10:23.700
+Poddenerwowany trochę.
+
+00:10:23.720 --> 00:10:25.720
+No ale teraz też te dwa dni spędziłem,
+
+00:10:25.740 --> 00:10:27.740
+czyściłem każdy kabelek, wszystkie kurze,
+
+00:10:27.760 --> 00:10:29.760
+bo mogę teraz już to rozpiąć, poskładać od nowa.
+
+00:10:29.780 --> 00:10:31.780
+Więc mam stanowisko wyczyszczone.
+
+00:10:31.800 --> 00:10:35.800
+Kto wie, może będę miał równie atrakcyjne stanowisko jak ty.
+
+00:10:35.820 --> 00:10:37.820
+W najbliższej przyszłości.
+
+00:10:37.840 --> 00:10:39.840
+Więc teraz jestem zachęcony, żeby to wszystko, wiesz,
+
+00:10:39.860 --> 00:10:41.860
+pozmieniać i naprawiać.
+
+00:10:41.860 --> 00:10:43.860
+Jak tam kable sobie ułożyłeś?
+
+00:10:43.880 --> 00:10:44.880
+Proszę?
+
+00:10:44.900 --> 00:10:45.900
+Kable?
+
+00:10:45.920 --> 00:10:47.920
+Masz w jeden ten zrobiony, w jeden taki.
+
+00:10:47.940 --> 00:10:49.940
+Nie, no muszę, muszę jeszcze.
+
+00:10:49.960 --> 00:10:51.960
+Tam te kable u ciebie.
+
+00:10:51.980 --> 00:10:53.980
+Ja mam straszne, straszna ilość kabli.
+
+00:10:54.000 --> 00:10:56.000
+Mam nadzieję, że trochę to zredukuję.
+
+00:10:56.020 --> 00:10:59.020
+Teraz, no, ale i fajnie, i niefajnie.
+
+00:10:59.040 --> 00:11:01.040
+To dziwny był dla mnie czas.
+
+00:11:01.060 --> 00:11:03.060
+Wolę chorować na ciężką grypę, niż żeby mi się komputer wywalił.
+
+00:11:03.080 --> 00:11:05.080
+No nie dziwię się, nie dziwię się.
+
+00:11:05.100 --> 00:11:07.100
+Ja na szczęście mam tak zrobione,
+
+00:11:07.100 --> 00:11:12.100
+mam tak jakby podwójne stanowisko.
+
+00:11:12.120 --> 00:11:15.120
+Znaczy i na jednym, i na drugim laptopie mam,
+
+00:11:15.140 --> 00:11:17.140
+mogę nagrywać, robić podcasty,
+
+00:11:17.160 --> 00:11:19.160
+mogę streamować i w razie jakby jeden pad
+
+00:11:19.180 --> 00:11:21.180
+to mam zawsze, zawsze drugi.
+
+00:11:21.200 --> 00:11:23.200
+No, no też już teraz tak będę miał.
+
+00:11:23.220 --> 00:11:25.220
+Bo ten komputer, z którego teraz nagrywam,
+
+00:11:25.240 --> 00:11:27.240
+to normalnie był do grania przeznaczony.
+
+00:11:27.260 --> 00:11:29.260
+Tylko gry na nim są, nic więcej, wiesz.
+
+00:11:29.280 --> 00:11:31.280
+Zawsze super fajnie chodził, no ale nie mam wyjścia, więc.
+
+00:11:31.300 --> 00:11:33.300
+Ale tak nawet lepiej jest.
+
+00:11:33.320 --> 00:11:35.320
+Więc może, może nawet nie będę drugiego kompa robił,
+
+00:11:35.320 --> 00:11:37.320
+tylko konsolę będę podpinał
+
+00:11:37.340 --> 00:11:39.340
+i będę cisnął w 30 klatkach.
+
+00:11:39.360 --> 00:11:41.360
+Kornewal z nowej generacji gry.
+
+00:11:41.380 --> 00:11:46.380
+No tak, trochę smutek, trochę smutek.
+
+00:11:46.400 --> 00:11:50.400
+No to, no właśnie niedługo Dead Space, więc.
+
+00:11:50.420 --> 00:11:53.420
+No sam nie wiem, czy ja się nie będę bał za bardzo.
+
+00:11:53.440 --> 00:11:55.440
+Może to jest taki, od losu takie ostrzeżenie.
+
+00:11:55.460 --> 00:11:57.460
+Panie kochany, teraz ci nazywam
+
+00:11:57.480 --> 00:11:59.480
+od średkomputera za tydzień ty.
+
+00:11:59.500 --> 00:12:01.500
+Nazywał, tak.
+
+00:12:01.500 --> 00:12:05.500
+Proszę państwa, proszę dać w komentarzu
+
+00:12:05.520 --> 00:12:07.520
+znać, czy Remigiusz powinien w tego Dead Space'a zagrać
+
+00:12:07.540 --> 00:12:11.540
+i powinniśmy zrobić o remake'u Dead Space'a materiał.
+
+00:12:11.560 --> 00:12:13.560
+Ja bym chciał, no ale też nie mam tak,
+
+00:12:13.580 --> 00:12:15.580
+nie będę na Remigiusza tak naciskał.
+
+00:12:15.600 --> 00:12:18.600
+Nie, no przecież wiadomo, że to jest, wiesz.
+
+00:12:18.620 --> 00:12:22.620
+Nawet jakbym nie chciał, to ostatecznie jest to ważna rzecz
+
+00:12:22.640 --> 00:12:24.640
+w ramach śledzenia branży gier.
+
+00:12:24.660 --> 00:12:26.660
+Bo ten remake od Elektronika Arcji
+
+00:12:26.680 --> 00:12:28.680
+to jest w ogóle świadectwo może przyszłych też
+
+00:12:28.700 --> 00:12:30.700
+dokonań w tym zakresie, więc to ważne jest.
+
+00:12:30.700 --> 00:12:34.700
+Ja to ogram, bo ciekawy jestem, jak to zrobię.
+
+00:12:34.720 --> 00:12:37.720
+Tak, no to sobie najpierw też od razu możesz sprawdzić,
+
+00:12:37.740 --> 00:12:41.740
+jak już jesteś taki konsolowy nagle, że zrobiłeś.
+
+00:12:41.760 --> 00:12:45.760
+No bo można oryginał w Game Passie ograć.
+
+00:12:45.780 --> 00:12:47.780
+A, no proszę.
+
+00:12:47.800 --> 00:12:50.800
+Swoją drogą, a propos tego, jak ta gra będzie chodziła,
+
+00:12:50.820 --> 00:12:53.820
+no to będzie w 60 klatkach na konsoli nowej generacji.
+
+00:12:53.840 --> 00:12:56.840
+Więc pewnie na PS5 ogram sobie.
+
+00:12:56.860 --> 00:12:58.860
+Oby, oby.
+
+00:12:58.860 --> 00:13:01.860
+No, więc to takie rzeczy.
+
+00:13:01.880 --> 00:13:04.880
+I u mnie chyba wszystko. Nie wiem, czy coś jeszcze się...
+
+00:13:04.900 --> 00:13:07.900
+U mnie też zima wraca, trochę zimno się zaczęło robić we Wrocławiu.
+
+00:13:07.920 --> 00:13:11.920
+No, szachmadlewaki, żadne tam ocieplenie, klimatu.
+
+00:13:11.940 --> 00:13:15.940
+Jest, przez pięć minut dzisiaj przed oknem padał śnieg.
+
+00:13:15.960 --> 00:13:23.960
+No, więc, więc tyle.
+
+00:13:23.980 --> 00:13:25.980
+No, zrobiło się trochę chłodniej.
+
+00:13:26.000 --> 00:13:28.000
+Takie rzeczy, no.
+
+00:13:28.000 --> 00:13:30.000
+Tak, zgadzasz.
+
+00:13:30.020 --> 00:13:32.020
+No i tyle.
+
+00:13:32.040 --> 00:13:37.040
+Mamy dzisiaj dwa takie tematy, o których byśmy chcieli chwilę porozmawiać.
+
+00:13:37.060 --> 00:13:40.060
+Pierwsze o postanowieniach noworocznych.
+
+00:13:40.080 --> 00:13:44.580
+Mamy takie dwa, właściwie trzy badania, które były robione w ostatnim czasie,
+
+00:13:44.600 --> 00:13:46.600
+a jedno dawno temu.
+
+00:13:46.620 --> 00:13:52.620
+Jedno bardziej dotyczące jedzenia, drugie bardziej dotyczące finansów.
+
+00:13:52.620 --> 00:13:58.620
+A druga rzecz to jest to, że na blogu PlayStation,
+
+00:13:58.640 --> 00:14:01.640
+nie Polska, tylko o tym PlayStation oryginalnym,
+
+00:14:01.660 --> 00:14:10.660
+pojawiła się taka rozpiska, jakie gry były najczęściej pobierane z PS Store'a.
+
+00:14:10.680 --> 00:14:12.680
+I to też jest ciekawy bardzo temat.
+
+00:14:12.700 --> 00:14:17.700
+Ale myślę, że zaczniemy od postanowień noworocznych, nie?
+
+00:14:17.720 --> 00:14:19.720
+Jasne, oczywiście.
+
+00:14:19.720 --> 00:14:22.720
+Ale zanim spytam Cię, jakie były Twoje postanowienia,
+
+00:14:22.740 --> 00:14:28.740
+to ja, proszę Państwa, to omówimy sobie to, co mamy w tych badaniach.
+
+00:14:28.760 --> 00:14:32.760
+Pyszne.pl, nie wiem, czy znacie, jedliście kiedyś takie rzeczy?
+
+00:14:32.780 --> 00:14:39.780
+Pyszne.pl zrobiło takie badanie przez agencję Inside Lab,
+
+00:14:39.800 --> 00:14:45.800
+dotyczące, no, głównie to diety roślinnej, ale też diety.
+
+00:14:45.800 --> 00:14:50.800
+I pierwsze pytanie było takie, czy chcesz zmienić swoje nawyki żywieniowe?
+
+00:14:50.820 --> 00:14:59.820
+I w tym roku, przepraszam, w 2023, 43% Polaków chce zmienić swoje nawyki żywieniowe.
+
+00:14:59.840 --> 00:15:07.840
+Czyli, że będą mniej jeść, bo inflacja, tak? Dobrze to rozumiem?
+
+00:15:07.860 --> 00:15:11.860
+Być może tak, być może inflacja za tym stoi.
+
+00:15:11.860 --> 00:15:17.860
+Wszelkie postanowienia związane z jedzeniem, to jest taki, to jest ciekawa w ogóle rzecz,
+
+00:15:17.880 --> 00:15:23.880
+bo z jednej strony mamy takie komunikaty, że a, że najważniejsze co w środku,
+
+00:15:23.900 --> 00:15:27.900
+nie trzeba się przejmować, że gruby też piękny, czy coś.
+
+00:15:27.920 --> 00:15:33.920
+Takie były historie, ale jednak to jest, nawet jeżeli próbujemy sobie powiedzieć,
+
+00:15:33.940 --> 00:15:36.940
+że a, jestem jaki jestem, nie chcę nic zmieniać, to jednak większość z nas
+
+00:15:36.940 --> 00:15:42.940
+ma skłonność do, wiemy kiedy jest za dużo nadwyżek i że to jest niezdrowe.
+
+00:15:42.960 --> 00:15:45.960
+I nawet jeżeli na zewnątrz próbujemy udawać, że jesteśmy z tego powodu
+
+00:15:45.980 --> 00:15:48.980
+zadowoleni, to ma to na nas negatywny wpływ i gdzieś tam gryzie.
+
+00:15:49.000 --> 00:15:51.000
+Ja to wiem z własnego doświadczenia.
+
+00:15:51.020 --> 00:15:57.020
+A powiem jeszcze a propos tych otyłości i tych badań, że oglądałem niedawno
+
+00:15:57.040 --> 00:16:03.040
+na Netflixie dokument zrobiony przez Johna Hill się chyba nazywa.
+
+00:16:03.040 --> 00:16:07.040
+Johna Hill, ten aktor, który grał, dostał Oscara za Wilka z Wall Street.
+
+00:16:07.060 --> 00:16:11.060
+I on chyba najgorszy na świecie dokument zrobił, jaki widziałem kiedykolwiek.
+
+00:16:11.080 --> 00:16:12.080
+No, opowiadaj.
+
+00:16:12.100 --> 00:16:16.100
+Rozmawiał sobie ze swoim psychologiem, nie pamiętam tytułu tego dokumentu.
+
+00:16:16.120 --> 00:16:18.620
+Doktor jakiś tam to się nazywa?
+
+00:16:18.640 --> 00:16:19.640
+Coś, coś, coś.
+
+00:16:19.660 --> 00:16:20.660
+Okej, nie widziałem, nie widziałem.
+
+00:16:20.680 --> 00:16:22.180
+Taki czarno-biały plakat.
+
+00:16:22.200 --> 00:16:24.800
+Tak, tak, tak, czarno-biały jest, beznadziejny jest ten dokument,
+
+00:16:24.820 --> 00:16:28.320
+totalnie beznadziejny, ale on jest, jako dokument jest beznadziejny,
+
+00:16:28.340 --> 00:16:32.340
+ale dosyć ciekawy jest jako rozmowa dwóch ludzi.
+
+00:16:32.340 --> 00:16:35.840
+O różnych tam doświadczeniach i różnych profesjach.
+
+00:16:35.860 --> 00:16:39.360
+I ten Johna Hill właśnie opowiadał o swoich problemach z otyłością.
+
+00:16:39.380 --> 00:16:41.680
+Można by podejrzewać, że dla niego to nie powinien być kłopot,
+
+00:16:41.700 --> 00:16:45.300
+bo on mimo tej nadwagi osiągnął bardzo duży status w Hollywood
+
+00:16:45.320 --> 00:16:48.820
+i wielkie ma sukcesy, ale jednak miało to duży, duży wpływ na to,
+
+00:16:48.840 --> 00:16:51.640
+jak postrzegał świat, jak postrzegał innych ludzi,
+
+00:16:51.660 --> 00:16:54.660
+jak w zasadzie wszystko dla niego było takim potencjalnym zagrożeniem,
+
+00:16:54.680 --> 00:16:58.180
+że ktoś może go za chwilę napaść i obrazić.
+
+00:16:58.200 --> 00:17:01.000
+W każdym słowie doszukiwał się jakichś, wiesz, takich śmieszków.
+
+00:17:01.000 --> 00:17:03.000
+Więc to jest coś, co gdzieś głęboko w nas siedzi
+
+00:17:03.020 --> 00:17:05.520
+i nawet jeżeli mamy taką pozorną pewność siebie
+
+00:17:05.540 --> 00:17:07.540
+i wydaje się nam to nie przeszkadzać,
+
+00:17:07.560 --> 00:17:09.560
+to potrzebujemy tej zmiany,
+
+00:17:09.580 --> 00:17:12.580
+potrzebujemy żyć zdrowo i odżywiać się w porządku.
+
+00:17:12.600 --> 00:17:17.100
+No i te badania i te postanowienia noworoczne trochę to odzwierciedlają.
+
+00:17:17.120 --> 00:17:21.620
+No widzisz, tak, ale 42% spośród tych,
+
+00:17:21.640 --> 00:17:25.140
+którzy chcą zmienić swoje nawyki żywieniowe,
+
+00:17:25.160 --> 00:17:27.160
+czyli bardzo duży procent,
+
+00:17:27.160 --> 00:17:32.660
+chce ograniczyć jedzenie mięsa do raz w tygodniu.
+
+00:17:32.680 --> 00:17:34.680
+Czy ty sobie to wyobrażasz?
+
+00:17:34.700 --> 00:17:36.700
+To jest zaskakujące.
+
+00:17:36.720 --> 00:17:39.720
+Tak, wylewacka cholera jasna na każdym kroku.
+
+00:17:39.740 --> 00:17:41.740
+Ładnie, nie chciałem to mówić, ale...
+
+00:17:41.760 --> 00:17:44.260
+Trochę mnie zaskoczyły te akurat badania,
+
+00:17:44.280 --> 00:17:47.780
+bo ja myślę, że to jest też taki...
+
+00:17:47.800 --> 00:17:50.600
+Myślę, że wiele osób utożsamia
+
+00:17:50.620 --> 00:17:53.620
+wegetarianizm z dobrą metodą na chudnięcie.
+
+00:17:53.640 --> 00:17:56.140
+I być może jest to jakaś metoda,
+
+00:17:56.140 --> 00:17:58.640
+ale ona chyba skuteczna, jeżeli jest to dlatego,
+
+00:17:58.660 --> 00:18:01.660
+że odrzucamy rzeczy, do których byliśmy przyzwyczajeni.
+
+00:18:01.680 --> 00:18:03.680
+I być może z racji tego, że bardzo dobrze
+
+00:18:03.700 --> 00:18:06.700
+śmy lubili mięso, to jemy mniej, bo nie mamy tego mięsa do zjedzenia.
+
+00:18:06.720 --> 00:18:08.220
+Ciężko mi do końca powiedzieć.
+
+00:18:08.240 --> 00:18:10.240
+Faktem jest chyba, że nie tak dużo osób
+
+00:18:10.260 --> 00:18:11.760
+dotrzymuje tego przyrzeczenia,
+
+00:18:11.780 --> 00:18:15.280
+ale w ogóle wegetarianizm w Polsce zdaje się być na fali.
+
+00:18:15.300 --> 00:18:18.300
+I coraz więcej osób sięga po diety wegetariańskie.
+
+00:18:18.320 --> 00:18:20.320
+Więc coś na rzeczy jest.
+
+00:18:20.340 --> 00:18:24.840
+Ja to lubię mięso i chyba pozostanę wierny tym grzechom,
+
+00:18:24.840 --> 00:18:26.840
+które popełniam przy stole obiadowym.
+
+00:18:26.860 --> 00:18:29.860
+Ostatnio słyszałem takie porównanie,
+
+00:18:29.880 --> 00:18:32.880
+że jedzenie mięsa to jest tak jak palenie oponami.
+
+00:18:32.900 --> 00:18:34.900
+Tylko dla przyszłych pokoleń.
+
+00:18:34.920 --> 00:18:36.420
+Okej.
+
+00:18:36.440 --> 00:18:38.440
+A nie dla nas tutaj, bo jakby koszt jest duży.
+
+00:18:38.460 --> 00:18:40.460
+No ale to każdy tam, wiesz, sobie ten...
+
+00:18:40.480 --> 00:18:42.480
+Wiesz, nie każdy musi ratować świat.
+
+00:18:42.500 --> 00:18:44.500
+Wiesz, ja tam trochę lubię położenie czyszczać.
+
+00:18:44.520 --> 00:18:47.520
+W Polsce jest, według tego badania pyszne,
+
+00:18:47.540 --> 00:18:50.540
+jest 9%, 9% Polaków nie je mięsa.
+
+00:18:50.560 --> 00:18:52.060
+To jest bardzo dużo, muszę przyznać.
+
+00:18:52.060 --> 00:18:56.060
+3% całkowicie odstawiło produkty od zwierzęt C,
+
+00:18:56.080 --> 00:18:58.080
+czyli jest weganami.
+
+00:18:58.100 --> 00:19:04.100
+A 6% określa swoją dietę jako fleksitariańską,
+
+00:19:04.120 --> 00:19:06.620
+czyli ogranicza spożywanie mięsa.
+
+00:19:06.640 --> 00:19:09.640
+To ograniczenie spożywania mięsa jest...
+
+00:19:09.660 --> 00:19:16.660
+Nie chcę tutaj wchodzić w jakieś takie bardzo konfliktowe tematy,
+
+00:19:16.680 --> 00:19:21.680
+ale ogólnie produkcja mięsa nie robi nam dobrze.
+
+00:19:21.680 --> 00:19:23.680
+Jako społeczeństwo całościowo.
+
+00:19:23.700 --> 00:19:25.700
+Tak, tak, tak, tak. To prawda.
+
+00:19:25.720 --> 00:19:27.720
+I parę razy żeśmy o tym rozmawiali.
+
+00:19:27.740 --> 00:19:30.740
+O Jezu, prawie kawę wylałem i z tym mam inaczej ustawiony mikrofon.
+
+00:19:30.760 --> 00:19:33.760
+Chciałem dodać tylko, że to o czym mówi Borys.
+
+00:19:33.780 --> 00:19:35.780
+Znacie mnie państwo, ja się zawsze przedstawiam jako ten,
+
+00:19:35.800 --> 00:19:39.300
+co zawsze to mięso zjada, więc wyrzutów sumienia wielkich nie mam,
+
+00:19:39.320 --> 00:19:41.820
+no bo przecież nie można wszystkiego żałować w życiu.
+
+00:19:41.840 --> 00:19:44.840
+Natomiast wiem doskonale, że te farmy,
+
+00:19:44.860 --> 00:19:47.360
+na których się produkuje mięso w dużych ilościach,
+
+00:19:47.380 --> 00:19:50.380
+to nie tylko jakby sama farma jest szkodliwa dla środowiska,
+
+00:19:50.380 --> 00:19:52.380
+ale też cała ta infrastruktura wokół,
+
+00:19:52.400 --> 00:19:55.400
+czyli żywność dla tych zwierząt i tak dalej,
+
+00:19:55.420 --> 00:19:57.420
+że to drastycznie wpływa na środowisko.
+
+00:19:57.440 --> 00:19:59.440
+I warto o tym pamiętać.
+
+00:19:59.460 --> 00:20:02.460
+I takie postanowienie, że na przykład ograniczamy mięso,
+
+00:20:02.480 --> 00:20:05.480
+jemy jeden dzień w tygodniu, nie jemy w ogóle mięsa,
+
+00:20:05.500 --> 00:20:07.500
+może mieć bardzo pozytywny wpływ na środowisko.
+
+00:20:07.520 --> 00:20:09.520
+I to jest coś, co akurat na pewno mi się zdarza.
+
+00:20:09.540 --> 00:20:12.540
+Bo to nie jest tak, że ja codziennie jem mięso, więc...
+
+00:20:12.560 --> 00:20:15.560
+Odwrotnie. Ludzie chcą jeden raz w tygodniu jeść mięso.
+
+00:20:15.580 --> 00:20:17.580
+No wiem, no to jeszcze lepiej.
+
+00:20:17.600 --> 00:20:19.600
+To są ludzie, którzy mają większe ambicje niż ja.
+
+00:20:19.600 --> 00:20:21.600
+Ja uważam, że ograniczenie mięsa
+
+00:20:21.620 --> 00:20:23.620
+to jest dobry kierunek, nie?
+
+00:20:23.640 --> 00:20:25.640
+Wiadomo, że wszystkie takie skrajne rzeczy
+
+00:20:25.660 --> 00:20:27.660
+spotykają się z dużym oporem.
+
+00:20:27.680 --> 00:20:30.180
+To ja ostatnio się zastanawiałem...
+
+00:20:30.200 --> 00:20:36.200
+Uważam, że jesteśmy trochę niewolnikami nawyków naszych.
+
+00:20:36.220 --> 00:20:38.220
+I pewnego komfortu.
+
+00:20:38.240 --> 00:20:40.240
+I zastanawiałem się, wiesz, że tak...
+
+00:20:40.260 --> 00:20:42.260
+Okej, dobra, ja nie jem mięsa tam już...
+
+00:20:42.280 --> 00:20:44.280
+Iluś tam lat, nie? Nastu.
+
+00:20:44.300 --> 00:20:47.300
+I dla mnie to jest żaden problem, nie?
+
+00:20:47.320 --> 00:20:49.320
+Ale na przykład jakby ktoś mi miał powiedzieć,
+
+00:20:49.320 --> 00:20:51.320
+że słuchaj Borys,
+
+00:20:51.340 --> 00:20:54.840
+ekologicznie to jest grać w trzydziestu klatkach,
+
+00:20:54.860 --> 00:20:56.860
+bo wtedy mniej prądu zużywasz.
+
+00:20:56.880 --> 00:20:58.880
+No, no, no.
+
+00:20:58.900 --> 00:21:01.400
+Ja bym powiedział, propaganda korporacji,
+
+00:21:01.420 --> 00:21:03.420
+to jest nieprawda.
+
+00:21:03.440 --> 00:21:05.440
+Tak, tak, tak.
+
+00:21:05.460 --> 00:21:07.460
+To jest prawda, że łatwo nam się przyzwyczaić
+
+00:21:07.480 --> 00:21:09.980
+do nowych standardów, jeżeli to są standardy,
+
+00:21:10.000 --> 00:21:12.000
+których przestrzegamy i tak.
+
+00:21:12.020 --> 00:21:14.020
+Przyzwyczajenie i chęć.
+
+00:21:14.040 --> 00:21:16.040
+Ale też widać, że jest...
+
+00:21:16.060 --> 00:21:18.560
+Że mówi się dużo o tym.
+
+00:21:18.560 --> 00:21:20.560
+I ludzie coraz częściej...
+
+00:21:20.580 --> 00:21:22.580
+Po drugie, mięso jest drogie.
+
+00:21:22.600 --> 00:21:24.600
+Tak, tak, tak.
+
+00:21:24.620 --> 00:21:26.620
+Więc patrząc na to, jak wygląda inflacja,
+
+00:21:26.640 --> 00:21:28.640
+jak wygląda świat i że pewnie czeka nas
+
+00:21:28.660 --> 00:21:31.160
+jakiś dużo większy kryzys niż jest obecnie,
+
+00:21:31.180 --> 00:21:33.180
+no to...
+
+00:21:33.200 --> 00:21:36.200
+Weź wypluj te słowa. Masz jakieś drewno niemalowane w publizzu?
+
+00:21:38.220 --> 00:21:40.220
+Pominę milczeniem
+
+00:21:40.240 --> 00:21:42.240
+to twoje zabobońskie zdanie,
+
+00:21:42.260 --> 00:21:44.260
+które teraz wypowiedziałeś.
+
+00:21:44.280 --> 00:21:47.280
+Religiuszu, właśnie chciałem tym gładkim
+
+00:21:47.280 --> 00:21:49.280
+przejść już do finansów,
+
+00:21:49.300 --> 00:21:51.300
+ale czy ty
+
+00:21:51.320 --> 00:21:53.820
+w ogóle masz postanowienia noworoczne?
+
+00:21:53.840 --> 00:21:55.840
+Miałeś, a miałeś takie z jedzeniem?
+
+00:21:55.860 --> 00:21:57.860
+Albo masz teraz?
+
+00:21:57.880 --> 00:21:59.880
+Nie, nie, nie. Znaczy wiesz co, ja też jest tak,
+
+00:21:59.900 --> 00:22:01.900
+że rozumiem, że początek roku
+
+00:22:01.920 --> 00:22:03.920
+to jest fajny etap, żeby coś...
+
+00:22:03.940 --> 00:22:05.940
+Żeby coś zrobić, tym bardziej,
+
+00:22:05.960 --> 00:22:07.960
+jeżeli się coś odkładało.
+
+00:22:07.980 --> 00:22:09.980
+Natomiast ja mam silną potrzebę, żeby się pozbyć
+
+00:22:10.000 --> 00:22:12.000
+tak z 6-8 kilogramów.
+
+00:22:12.020 --> 00:22:15.020
+I mogę mówić, że to jest
+
+00:22:15.040 --> 00:22:17.040
+dobry moment, początek roku,
+
+00:22:17.040 --> 00:22:19.040
+ale to jest kontynuacja jakiegoś tam procesu,
+
+00:22:19.060 --> 00:22:21.060
+który trwa, więc wyznaczam sobie...
+
+00:22:21.080 --> 00:22:23.080
+Od początku podcastu.
+
+00:22:23.100 --> 00:22:25.100
+No, od początku podcastu.
+
+00:22:25.120 --> 00:22:27.120
+Być może, chociaż no, ale
+
+00:22:27.140 --> 00:22:29.140
+przyjmijmy, że...
+
+00:22:29.160 --> 00:22:31.160
+Polecam państwu sprawdzić pierwszy odcinek.
+
+00:22:31.180 --> 00:22:33.180
+Nie, w sumie byłem szczupły, tylko miałem wielką brodę.
+
+00:22:33.200 --> 00:22:35.200
+Miałeś dużą bluzę, no.
+
+00:22:35.220 --> 00:22:37.220
+Miałeś dużą bluzę, to prawda.
+
+00:22:37.240 --> 00:22:39.240
+Zaraz, co ja mam...
+
+00:22:39.260 --> 00:22:41.260
+Aha, właśnie, że to jest...
+
+00:22:41.280 --> 00:22:43.280
+Postanowienie.
+
+00:22:43.300 --> 00:22:45.300
+Że to jakby kontynuuje coś, co robię.
+
+00:22:45.300 --> 00:22:47.300
+Jeżeli masz postanowienie jakieś,
+
+00:22:47.320 --> 00:22:49.320
+to możesz siebie zawieść,
+
+00:22:49.340 --> 00:22:51.340
+a lepiej siebie nie zawodzić.
+
+00:22:51.360 --> 00:22:53.360
+Więc ja nie postanowię i za bardzo nie uskuteczniam.
+
+00:22:53.380 --> 00:22:55.380
+Bo to nie ma nic gorszego dla samooceny,
+
+00:22:55.400 --> 00:22:58.900
+niż swoje własne zaufanie zawieść.
+
+00:22:58.920 --> 00:23:00.920
+Więc może czasami nie warto sobie stawiać
+
+00:23:00.940 --> 00:23:02.940
+wyzwań tego typu.
+
+00:23:02.960 --> 00:23:04.960
+Ale warto wprowadzać zmiany.
+
+00:23:04.980 --> 00:23:08.980
+Warto poprawiać swój stan życia.
+
+00:23:09.000 --> 00:23:11.500
+I nie musi się to zaczynać na początku roku.
+
+00:23:11.520 --> 00:23:13.520
+Więc ja raczej unikam takich twardych, jasnych
+
+00:23:13.520 --> 00:23:15.520
+reguł. Po prostu staram się
+
+00:23:15.540 --> 00:23:17.540
+coś tam zmieniać.
+
+00:23:17.560 --> 00:23:19.560
+Powolutku.
+
+00:23:19.580 --> 00:23:21.580
+I à propos, bo jako że chcesz przejść do finansów,
+
+00:23:21.600 --> 00:23:23.600
+to ja chciałbym jeszcze jedną rzecz
+
+00:23:23.620 --> 00:23:25.620
+państwu...
+
+00:23:25.640 --> 00:23:27.640
+O jednej rzeczy chciałbym jeszcze państwu powiedzieć.
+
+00:23:27.660 --> 00:23:29.660
+Która gdzieś tam wpadła mi w oko
+
+00:23:29.680 --> 00:23:31.680
+na podstawie tych materiałów, które
+
+00:23:31.700 --> 00:23:33.700
+tyżeś Borys wyszukał, a
+
+00:23:33.720 --> 00:23:35.720
+może będziemy o tym jeszcze rozmawiać.
+
+00:23:35.740 --> 00:23:37.740
+Ale jakbyśmy mi zapomnieć, to powiem państwu,
+
+00:23:37.760 --> 00:23:39.760
+że jedna z fajniejszych rzeczy,
+
+00:23:39.780 --> 00:23:41.780
+jaką można zrobić na początku roku,
+
+00:23:41.780 --> 00:23:43.780
+jeżeli chcemy uskuteczniać te postanowienia noworoczne,
+
+00:23:43.800 --> 00:23:45.800
+to robić to małymi krokami.
+
+00:23:45.820 --> 00:23:47.820
+Nie stawiać sobie takich
+
+00:23:47.840 --> 00:23:49.840
+bardzo, bardzo poważnych wymagań,
+
+00:23:49.860 --> 00:23:51.860
+bo wtedy łatwo się poddać
+
+00:23:51.880 --> 00:23:53.880
+i łatwo zrezygnować ze wszystkiego.
+
+00:23:53.900 --> 00:23:55.900
+I mam taką listę
+
+00:23:55.920 --> 00:23:57.920
+rzeczy, które
+
+00:23:57.940 --> 00:23:59.940
+są fantastycznym przykładem na to,
+
+00:23:59.960 --> 00:24:01.960
+jak sobie w niewielki sposób
+
+00:24:01.980 --> 00:24:03.980
+coś zmienić i żeby to nie było
+
+00:24:04.000 --> 00:24:06.000
+za bardzo kłopotliwe.
+
+00:24:06.020 --> 00:24:08.020
+Dwa razy w tygodniu zrezygnuj z potraw mięsnych.
+
+00:24:08.040 --> 00:24:10.040
+To nie jest aż takie drastyczne,
+
+00:24:10.040 --> 00:24:12.040
+jak tylko raz w tygodniu jemy mięso.
+
+00:24:12.060 --> 00:24:14.060
+Fajnie się, bo to jest też,
+
+00:24:14.080 --> 00:24:16.080
+że fajnie się mówi takie rzeczy
+
+00:24:16.100 --> 00:24:18.100
+duże, że ja teraz zrobię coś dużego
+
+00:24:18.120 --> 00:24:20.120
+i teraz będę weganinem
+
+00:24:20.140 --> 00:24:22.140
+i nie będę pił alkoholu zupełnie.
+
+00:24:22.160 --> 00:24:24.160
+A potem rzeczywistość jest taka,
+
+00:24:24.180 --> 00:24:26.180
+że człowiek potrzebuje
+
+00:24:26.200 --> 00:24:28.200
+czasami, większość ludzi
+
+00:24:28.220 --> 00:24:30.220
+potrzebuje takich raczej
+
+00:24:30.240 --> 00:24:32.240
+skromniejszych
+
+00:24:32.260 --> 00:24:34.260
+wyrzeczeń.
+
+00:24:34.280 --> 00:24:36.280
+Tak, tak. Więc jest
+
+00:24:36.300 --> 00:24:38.300
+kolejna rzecz. Zamień drugą
+
+00:24:38.300 --> 00:24:40.300
+kawę w pracy na dwie szklanki wody.
+
+00:24:40.320 --> 00:24:42.320
+Też bardzo zdrowe i też niespecjalnie
+
+00:24:42.340 --> 00:24:44.340
+trudne. Jeśli masz taką możliwość,
+
+00:24:44.360 --> 00:24:46.360
+co drugi dzień zaprowadź dziecko do przedszkola
+
+00:24:46.380 --> 00:24:48.380
+na piechotę, zamiast odwozić je samochodem.
+
+00:24:48.400 --> 00:24:50.400
+I to też świetna sprawa.
+
+00:24:50.420 --> 00:24:52.420
+Pięćdziesiąt kilometrów w zimę.
+
+00:24:52.440 --> 00:24:54.440
+Jak masz blisko przedszkolę,
+
+00:24:54.460 --> 00:24:56.460
+ale to jest też tak...
+
+00:24:56.480 --> 00:24:58.480
+Wyjdź o północy po prostu z domu.
+
+00:24:58.500 --> 00:25:00.500
+Ja wprowadziłem podobną zasadę,
+
+00:25:00.520 --> 00:25:02.520
+że na zakupy zawsze chodzę na piechotę.
+
+00:25:02.540 --> 00:25:04.540
+I to można zacząć od na przykład
+
+00:25:04.560 --> 00:25:06.560
+jednego dnia, czy od dwóch dni, czy od jednych
+
+00:25:06.560 --> 00:25:08.560
+zakupów. To jest fajny, mały krok.
+
+00:25:08.580 --> 00:25:10.580
+Zamień sobotnie oglądanie
+
+00:25:10.600 --> 00:25:12.600
+serialu na godzinny spacer w lesie przez pół roku.
+
+00:25:12.620 --> 00:25:14.620
+Proszę. To też jest coś, co
+
+00:25:14.640 --> 00:25:16.640
+ja sobie akurat wprowadziłem i
+
+00:25:16.660 --> 00:25:18.660
+bardzo skutecznie działa.
+
+00:25:18.680 --> 00:25:20.680
+Ale też mam tak,
+
+00:25:20.700 --> 00:25:22.700
+prawdę powiedziawszy, w mojej okolicy
+
+00:25:22.720 --> 00:25:24.720
+już żeśmy z żoną obejrzeli wszystko, co jest
+
+00:25:24.740 --> 00:25:26.740
+do obejścia i się nudzimy na spacerach.
+
+00:25:26.760 --> 00:25:28.760
+Gdyby nie to, że jesteśmy tacy zajmujący w rozmowie,
+
+00:25:28.780 --> 00:25:30.780
+to byśmy się nudzili potwornie.
+
+00:25:30.800 --> 00:25:32.800
+Więc tak.
+
+00:25:32.820 --> 00:25:34.820
+W ciągu pięciu dni przejdź dziesięć tysięcy kroków
+
+00:25:34.820 --> 00:25:36.820
+z krokomierzem. Dziesięć tysięcy kroków to nie jest
+
+00:25:36.840 --> 00:25:38.840
+tak dużo, to jest małe.
+
+00:25:38.860 --> 00:25:40.860
+Dziesięć tysięcy kroków to ja
+
+00:25:40.880 --> 00:25:42.880
+nie pamiętam kiedy zrobiłem.
+
+00:25:42.900 --> 00:25:44.900
+Dziesięć tysięcy kroków to ty robisz podczas
+
+00:25:44.920 --> 00:25:46.920
+montowania filmu przez piętnaście lat.
+
+00:25:46.940 --> 00:25:48.940
+Dzisiaj zrobiłem,
+
+00:25:48.960 --> 00:25:50.960
+żeby państwu nie okłamać,
+
+00:25:50.980 --> 00:25:52.980
+bo ja sobie liczę tutaj, każdy krok
+
+00:25:53.000 --> 00:25:55.000
+to jest plusik, osiemnaście i pół tysiąca.
+
+00:25:55.020 --> 00:25:57.020
+No ty masz straszny, strasznie dużo
+
+00:25:57.040 --> 00:25:59.040
+tych kroków robisz, ale ty je robisz
+
+00:25:59.060 --> 00:26:01.060
+powiedz mi na tej bieżni też, nie?
+
+00:26:01.080 --> 00:26:03.080
+Na bieżni. Tylko na bieżni.
+
+00:26:03.080 --> 00:26:05.080
+Wiesz o tym znowu, tak?
+
+00:26:05.100 --> 00:26:07.100
+Ten miesiąc mam najlepszy
+
+00:26:07.120 --> 00:26:09.120
+w ciągu ostatnich dwunastu miesięcy
+
+00:26:09.140 --> 00:26:11.140
+i mam średnio dziennie dziesięć tysięcy
+
+00:26:11.160 --> 00:26:13.160
+trzysta osiemdziesiąt osiem kroków.
+
+00:26:13.180 --> 00:26:15.180
+Bardzo ładnie.
+
+00:26:15.200 --> 00:26:17.200
+Na bieżni to się robi szybko, nie czujesz tego zupełnie.
+
+00:26:17.220 --> 00:26:19.220
+Wiem, wiem, oczywiście.
+
+00:26:19.240 --> 00:26:21.240
+I też tak nie traktuję super serio,
+
+00:26:21.260 --> 00:26:23.260
+czuję się gorzej, jak ty mówisz,
+
+00:26:23.280 --> 00:26:25.280
+że masz osiemnaście tysięcy.
+
+00:26:25.300 --> 00:26:27.300
+W pierwszym miesiącu,
+
+00:26:27.320 --> 00:26:29.320
+gdzie bardzo dużo przycisnąłem,
+
+00:26:29.340 --> 00:26:31.340
+to miałem chyba maksymalnie
+
+00:26:31.340 --> 00:26:33.340
+dwa tysiące dziennie.
+
+00:26:33.360 --> 00:26:35.360
+To bardzo dużo, a potem
+
+00:26:35.380 --> 00:26:37.380
+nóżka mnie bolała i musiałem na miesiąc
+
+00:26:37.400 --> 00:26:39.400
+przestać chodzić.
+
+00:26:39.420 --> 00:26:41.420
+Jeszcze mam trzy małe punkty.
+
+00:26:41.440 --> 00:26:43.440
+Ćwicz pół godziny dziennie przez cztery dni
+
+00:26:43.460 --> 00:26:45.460
+w tygodniu w okresie dwóch miesięcy.
+
+00:26:45.480 --> 00:26:47.480
+Też niewielkie wyzwanie, a proszę.
+
+00:26:47.500 --> 00:26:49.500
+Może nawet krócej niż pół godziny.
+
+00:26:49.520 --> 00:26:51.520
+To za trudne.
+
+00:26:51.540 --> 00:26:53.540
+Chodzenie to jest łatwe.
+
+00:26:53.560 --> 00:26:55.560
+Mówię serio. Chodzenie jest proste.
+
+00:26:55.580 --> 00:26:57.580
+Tak już, że musisz coś ćwiczyć,
+
+00:26:57.600 --> 00:26:59.600
+coś robić.
+
+00:26:59.600 --> 00:27:01.600
+Nie jeszcze, bo tam się trzeba
+
+00:27:01.620 --> 00:27:03.620
+przebrać, umyć.
+
+00:27:03.640 --> 00:27:05.640
+Moje ulubione.
+
+00:27:05.660 --> 00:27:07.660
+Moje ulubione.
+
+00:27:07.680 --> 00:27:09.680
+W każdy weekend znajdziesz sześćdziesiąt minut czasu,
+
+00:27:09.700 --> 00:27:11.700
+które poświęcisz wyłącznie dziecku.
+
+00:27:11.720 --> 00:27:13.720
+To czasami jest tak, że
+
+00:27:13.740 --> 00:27:15.740
+mamy poczucie, że spędzamy z dziećmi dużo czasu,
+
+00:27:15.760 --> 00:27:17.760
+bo one są w pobliżu, ale jak trzeba poświęcić...
+
+00:27:17.780 --> 00:27:19.780
+Powiedz mi Remigiuszu,
+
+00:27:19.800 --> 00:27:21.800
+czy w przypadku moim
+
+00:27:21.820 --> 00:27:23.820
+może być to dowolne obce dziecko.
+
+00:27:23.840 --> 00:27:25.840
+Tak, musisz znaleźć jakiś sąsiad i zapytać,
+
+00:27:25.860 --> 00:27:27.860
+czy możesz z jej dzieckiem spędzić godzinę na osobności.
+
+00:27:27.860 --> 00:27:29.860
+No nie, to jest...
+
+00:27:29.880 --> 00:27:31.880
+Postrzegam się.
+
+00:27:31.900 --> 00:27:33.900
+Tak, to dotyczy,
+
+00:27:33.920 --> 00:27:35.920
+to dotyczy dzieci wyłącznie,
+
+00:27:35.940 --> 00:27:37.940
+ale kto wie, może na przykład
+
+00:27:37.960 --> 00:27:39.960
+ktoś może potrzebować godziny czasu
+
+00:27:39.980 --> 00:27:41.980
+na weekend, żeby poświęcić żonie albo mężowi.
+
+00:27:42.000 --> 00:27:44.000
+Że tak się czasami mijamy.
+
+00:27:44.020 --> 00:27:46.020
+Można też
+
+00:27:46.040 --> 00:27:48.040
+poświęcić sobie.
+
+00:27:48.060 --> 00:27:50.060
+To jest najlepsza opcja.
+
+00:27:50.080 --> 00:27:52.080
+Dla siebie.
+
+00:27:52.100 --> 00:27:54.100
+Wiesz, jak dużo osób ma problem z tym, żeby poświęcać
+
+00:27:54.120 --> 00:27:56.120
+sobie czas?
+
+00:27:56.120 --> 00:27:58.120
+Nie, nie sądziłem.
+
+00:27:58.140 --> 00:28:00.140
+Nie sądziłem, że to może być pewien rodzaj wyrzeczenia.
+
+00:28:00.160 --> 00:28:02.160
+Trzeba być naprawdę okropnym człowiekiem,
+
+00:28:02.180 --> 00:28:04.180
+żeby spędzanie czasu ze sobą było wyrzeczeniem.
+
+00:28:04.200 --> 00:28:06.200
+Nie, nie, nie, to nie jest...
+
+00:28:06.220 --> 00:28:08.220
+A to jako wyrzeczenie było?
+
+00:28:08.240 --> 00:28:10.240
+To są, no wiesz...
+
+00:28:10.260 --> 00:28:12.260
+Czyli postanowienia.
+
+00:28:12.280 --> 00:28:14.280
+To chodzić na pieszo, wyrzeczenie.
+
+00:28:14.300 --> 00:28:16.300
+Ale co masz na myśli? Bo widzę, że mówisz serio.
+
+00:28:16.320 --> 00:28:18.320
+Ja mówię serio, tak.
+
+00:28:18.340 --> 00:28:20.340
+Mówię serio, że czasami jest tak,
+
+00:28:20.360 --> 00:28:22.360
+że zapominamy o sobie.
+
+00:28:22.380 --> 00:28:24.380
+Wiesz, są ludzie, którzy mają bardzo taki
+
+00:28:24.380 --> 00:28:26.380
+napięty grafik.
+
+00:28:26.400 --> 00:28:28.400
+Np. dwójkę dzieci.
+
+00:28:28.420 --> 00:28:30.420
+Rano wstajesz, zawozisz to dziecko do
+
+00:28:30.440 --> 00:28:32.440
+przedszkola, jedziesz do pracy, odbierasz,
+
+00:28:32.460 --> 00:28:34.460
+gotowanie, coś.
+
+00:28:34.480 --> 00:28:36.480
+I nie masz takich rzeczy dla siebie.
+
+00:28:36.500 --> 00:28:38.500
+Dużo osób, np. z naszej grupy,
+
+00:28:38.520 --> 00:28:40.520
+mieliśmy kiedyś taki wątek na grupie,
+
+00:28:40.540 --> 00:28:42.540
+gdzie ludzie pisali,
+
+00:28:42.560 --> 00:28:44.560
+gdzie był temat przewodni, że trochę
+
+00:28:44.580 --> 00:28:46.580
+nie mają czasu na gry,
+
+00:28:46.600 --> 00:28:48.600
+nie mają...
+
+00:28:48.620 --> 00:28:50.620
+nie mają serca trochę do gier,
+
+00:28:50.640 --> 00:28:52.640
+bo im to życie jakby
+
+00:28:52.640 --> 00:28:54.640
+wybrało te wszystkie
+
+00:28:54.660 --> 00:28:56.660
+przyjemności. Tam był też
+
+00:28:56.680 --> 00:28:58.680
+wątek, jak sobie z tym radzić.
+
+00:28:58.700 --> 00:29:00.700
+No i tam było np. żeby po prostu
+
+00:29:00.720 --> 00:29:02.720
+wstać przed wszystkimi. To jest też pomysł,
+
+00:29:02.740 --> 00:29:04.740
+to jest ciekawe, że np. wstajesz o piątej,
+
+00:29:04.760 --> 00:29:06.760
+jak o siódmej
+
+00:29:06.780 --> 00:29:08.780
+normalnie byś wstawał, to masz te dwie
+
+00:29:08.800 --> 00:29:10.800
+godziny, które
+
+00:29:10.820 --> 00:29:12.820
+zabierasz z wieczora.
+
+00:29:12.840 --> 00:29:14.840
+No bo wieczorem, no to zwykle
+
+00:29:14.860 --> 00:29:16.860
+wiesz, np. dużo osób
+
+00:29:16.880 --> 00:29:18.880
+obejrzy sobie jakiś serial,
+
+00:29:18.900 --> 00:29:20.900
+albo napije się drinka.
+
+00:29:20.900 --> 00:29:22.900
+To tak ucieka, wstajesz rano
+
+00:29:22.920 --> 00:29:24.920
+i np. konkretnie masz hobby jakieś,
+
+00:29:24.940 --> 00:29:26.940
+czy masz gry czy coś
+
+00:29:26.960 --> 00:29:28.960
+i poświęcasz to dla siebie tak naprawdę.
+
+00:29:28.980 --> 00:29:30.980
+No to ma sens, to prawda, to prawda.
+
+00:29:31.000 --> 00:29:33.000
+Jeszcze jest jedna taka bardzo
+
+00:29:33.020 --> 00:29:35.020
+sensowna rada, przez tydzień
+
+00:29:35.040 --> 00:29:37.040
+po godzinie 21 wyłącz smartfon.
+
+00:29:37.060 --> 00:29:39.060
+To też może być
+
+00:29:39.080 --> 00:29:41.080
+fajna rzecz.
+
+00:29:41.100 --> 00:29:43.100
+No więc małymi kroczkami, wszystko
+
+00:29:43.120 --> 00:29:45.120
+warto robić małymi kroczkami i te postanowienia
+
+00:29:45.140 --> 00:29:47.140
+mają szansę zadziałać,
+
+00:29:47.160 --> 00:29:49.160
+jeżeli nie będziemy sobie narzucać zbyt
+
+00:29:49.160 --> 00:29:51.160
+dużego homonta, zbyt ciężkiego.
+
+00:29:51.180 --> 00:29:53.180
+To ja tutaj zrobię taką
+
+00:29:53.200 --> 00:29:55.200
+klamrę i ja też mam małą
+
+00:29:55.220 --> 00:29:57.220
+kroczką. Nie miałem żadnych oczywiście
+
+00:29:57.240 --> 00:29:59.240
+postanowień noworocznych, bo
+
+00:29:59.260 --> 00:30:01.260
+nie pomyślałem o tym, żeby mieć.
+
+00:30:01.280 --> 00:30:03.280
+Ale
+
+00:30:03.300 --> 00:30:05.300
+stwierdziłem tutaj, np.
+
+00:30:05.320 --> 00:30:07.320
+mniej alkoholu w tym roku.
+
+00:30:07.340 --> 00:30:09.340
+To jest moje postanowienie. Ja lubię pić sobie
+
+00:30:09.360 --> 00:30:11.360
+krawciki, lubię wino dobre.
+
+00:30:11.380 --> 00:30:13.380
+No i tak stwierdziłem, że
+
+00:30:13.400 --> 00:30:15.400
+no to może to czas najwyższy ograniczyć.
+
+00:30:15.420 --> 00:30:17.420
+No to nie na siłę, to nawet mimo tego, że
+
+00:30:17.420 --> 00:30:19.420
+lubisz te krawciki, to ja cię nigdy nie widziałem
+
+00:30:19.440 --> 00:30:21.440
+więcej niż jednym piwem, ale to pewnie dlatego, że
+
+00:30:21.460 --> 00:30:23.460
+po jednym piwie ja kończę imprezę z reguły.
+
+00:30:23.480 --> 00:30:25.480
+Bo ja nie pamiętam,
+
+00:30:25.500 --> 00:30:27.500
+kiedy się upiłem w ogóle.
+
+00:30:27.520 --> 00:30:29.520
+Więc wiesz, to, że
+
+00:30:29.540 --> 00:30:31.540
+ja wypiję dwa piwa, np. trzy piwa
+
+00:30:31.560 --> 00:30:33.560
+wypiję, no to jeszcze się nie upiję.
+
+00:30:33.580 --> 00:30:35.580
+Nie, chyba ostatnio jak byliśmy
+
+00:30:35.600 --> 00:30:37.600
+w knajpie, to chyba byśmy wypili po dwa piwa
+
+00:30:37.620 --> 00:30:39.620
+i to wszystko było. Takżeśmy z Kamilem
+
+00:30:39.640 --> 00:30:41.640
+mieli okazję sobie. Chyba więcej.
+
+00:30:41.660 --> 00:30:43.660
+Chyba więcej. No może trzy.
+
+00:30:43.680 --> 00:30:45.680
+Zdecydowanie. Więc, ale
+
+00:30:45.680 --> 00:30:47.680
+też nie było ekscesów.
+
+00:30:47.700 --> 00:30:49.700
+Nie, nie, w żadnym razie.
+
+00:30:49.720 --> 00:30:51.720
+Dorośli ludzie. Żeby nie było. I ja tak
+
+00:30:51.740 --> 00:30:53.740
+miałem taki nawyk, że po prostu praktycznie
+
+00:30:53.760 --> 00:30:55.760
+codziennie piję sobie jakiegoś krawcika albo wino
+
+00:30:55.780 --> 00:30:57.780
+i stwierdziłem, że no dobra, no to
+
+00:30:57.800 --> 00:30:59.800
+czymś to zastąpiłem
+
+00:30:59.820 --> 00:31:01.820
+i piję sobie taką, sobie robię herbatkę
+
+00:31:01.840 --> 00:31:03.840
+bardzo smaczną z
+
+00:31:03.860 --> 00:31:05.860
+pomarańczką, z imbirem
+
+00:31:05.880 --> 00:31:07.880
+i z cynamonem. To sobie
+
+00:31:07.900 --> 00:31:09.900
+dogadzasz. To ja właśnie teraz ją piję.
+
+00:31:09.920 --> 00:31:11.920
+Smacznego państwu.
+
+00:31:11.940 --> 00:31:13.940
+Tak pomyślałem. Dzisiaj
+
+00:31:13.940 --> 00:31:15.940
+któryś przez przypadek wysłał mi linki
+
+00:31:15.960 --> 00:31:17.960
+na swoje wyjazdy wakacyjne. Nie będę
+
+00:31:17.980 --> 00:31:19.980
+państwu zaradzał szczegółów, żeby nie było.
+
+00:31:20.000 --> 00:31:22.000
+I pomyślałem sobie, no kurde, ten facet to żyje pełną piersią.
+
+00:31:22.020 --> 00:31:24.020
+A ja muszę po córkę zaraz
+
+00:31:24.040 --> 00:31:26.040
+do przedszkola zasuwać.
+
+00:31:26.060 --> 00:31:28.060
+Pozostałem.
+
+00:31:28.080 --> 00:31:30.080
+To jeszcze nie wybraliśmy,
+
+00:31:30.100 --> 00:31:32.100
+ale planujemy pojechać, polecieć
+
+00:31:32.120 --> 00:31:34.120
+na Sardynię w tym roku.
+
+00:31:34.140 --> 00:31:36.140
+Piękne plaże, można się trochę
+
+00:31:36.160 --> 00:31:38.160
+powspinać. Są Viaferaty,
+
+00:31:38.180 --> 00:31:40.180
+więc wydaje się ciekawe.
+
+00:31:40.200 --> 00:31:42.200
+Z Katowic można bezpośrednio lecieć.
+
+00:31:42.200 --> 00:31:44.200
+Nie są to jakieś
+
+00:31:44.220 --> 00:31:46.220
+tam ekstremalnie drogie
+
+00:31:46.240 --> 00:31:48.240
+rzeczy.
+
+00:31:48.260 --> 00:31:50.260
+Taki plan. Jak ktoś
+
+00:31:50.280 --> 00:31:52.280
+z państwa był, albo to może
+
+00:31:52.300 --> 00:31:54.300
+tam podesłać, co fajnego
+
+00:31:54.320 --> 00:31:56.320
+można zobaczyć, albo na co uważać.
+
+00:31:56.340 --> 00:31:58.340
+Ja ci powiem, że ja z taką
+
+00:31:58.360 --> 00:32:00.360
+zawiścią wstałem od tego kompa, jak zobaczyłem
+
+00:32:00.380 --> 00:32:02.380
+te linki twoje przez przypadek. On mówi mi,
+
+00:32:02.400 --> 00:32:04.400
+że przez przypadek mi wysłał.
+
+00:32:04.420 --> 00:32:06.420
+Słyszałem i poczuł.
+
+00:32:06.440 --> 00:32:08.440
+Wysyłam ci tak po prostu
+
+00:32:08.460 --> 00:32:10.460
+znikąd link do bookingu.
+
+00:32:10.460 --> 00:32:12.460
+No proszę cię.
+
+00:32:12.480 --> 00:32:14.480
+Dobrze, że nic innego ci tam wysłał.
+
+00:32:14.500 --> 00:32:16.500
+Ale poszedłem do żony i mówię, kurde, ten Borys
+
+00:32:16.520 --> 00:32:18.520
+żyje pełną piersią, pojadą sobie gdzieś na wakacje.
+
+00:32:18.540 --> 00:32:20.540
+Poza sezonem. A moja żona
+
+00:32:20.560 --> 00:32:22.560
+mówiła, to czemu my nie pojedziemy?
+
+00:32:22.580 --> 00:32:24.580
+Ale jak, to już dzieci do szkoły.
+
+00:32:24.600 --> 00:32:26.600
+To jak na tydzień nie pójdą, to nic się nie stanie.
+
+00:32:26.620 --> 00:32:28.620
+Nic się nie stanie.
+
+00:32:28.640 --> 00:32:30.640
+Więc może w naszych głowach zrodził się
+
+00:32:30.660 --> 00:32:32.660
+plan. Musisz mi powiedzieć, kiedy wyjeżdżasz,
+
+00:32:32.680 --> 00:32:34.680
+to ja wtedy też sobie wyjadę i będzie mi akurat luz.
+
+00:32:34.700 --> 00:32:36.700
+Pod koniec maja. Pod koniec maja chcemy wyjechać.
+
+00:32:36.720 --> 00:32:38.720
+No to jest taki dobry, że jeszcze może się da,
+
+00:32:38.720 --> 00:32:40.720
+chociaż nie wiem, czy na Sardynii tam nie będzie
+
+00:32:40.740 --> 00:32:42.740
+za zimna trochę ta woda.
+
+00:32:42.760 --> 00:32:44.760
+Ale zobaczymy, żeby można było trochę
+
+00:32:44.780 --> 00:32:46.780
+popływać, trochę pochodzić po górach.
+
+00:32:46.800 --> 00:32:48.800
+No to może mieć sens, bo
+
+00:32:48.820 --> 00:32:50.820
+poza sezonem jest po pierwsze taniej,
+
+00:32:50.840 --> 00:32:52.840
+a po drugie jest dużo mniej ludzi.
+
+00:32:52.860 --> 00:32:54.860
+Dużo taniej, dużo spokojniej.
+
+00:32:54.880 --> 00:32:56.880
+Więc no tak do, wiesz,
+
+00:32:56.900 --> 00:32:58.900
+tam do 20 czerwca, nie?
+
+00:32:58.920 --> 00:33:00.920
+No też zaczynam to rozważać.
+
+00:33:00.940 --> 00:33:02.940
+Rodzice dzielą się na takich,
+
+00:33:02.960 --> 00:33:04.960
+którzy szanują swoje dzieci
+
+00:33:04.980 --> 00:33:06.980
+i wiedzą, że są mądre.
+
+00:33:06.980 --> 00:33:08.980
+Tydzień bez szkoły to spokojnie
+
+00:33:09.000 --> 00:33:11.000
+da radę, a inna takich, co mówią,
+
+00:33:11.020 --> 00:33:13.020
+nie, nie możemy w trakcie szkoły
+
+00:33:13.040 --> 00:33:15.040
+zabrać dziecko tydzień, bo sobie nie da rady, nie?
+
+00:33:15.060 --> 00:33:17.060
+Nie, nie, to jest też
+
+00:33:17.080 --> 00:33:19.080
+z wielu różnych powodów warto jeździć
+
+00:33:19.100 --> 00:33:21.100
+z dziećmi na jakieś wyjazdy.
+
+00:33:21.120 --> 00:33:23.120
+Ja nie jeździłem za bardzo
+
+00:33:23.140 --> 00:33:25.140
+z rodzicami, jak byłem mały,
+
+00:33:25.160 --> 00:33:27.160
+ani moja żona też za bardzo ze swoimi rodzicami nie jeździła,
+
+00:33:27.180 --> 00:33:29.180
+więc staramy się trochę wspomnień
+
+00:33:29.200 --> 00:33:31.200
+w dzieciakach zostawić.
+
+00:33:31.220 --> 00:33:33.220
+Innych niż tylko, że ścigamy i gonimy do nauki.
+
+00:33:33.240 --> 00:33:35.240
+Proszę państwa, przechodzimy
+
+00:33:35.240 --> 00:33:37.240
+do finansów. Badanie,
+
+00:33:37.260 --> 00:33:39.260
+które zostało
+
+00:33:39.280 --> 00:33:41.280
+zrobione przez
+
+00:33:41.300 --> 00:33:43.300
+znaczy dla ETORO
+
+00:33:43.320 --> 00:33:45.320
+i tam przeprowadzone na dwóch tysiącach dorosłych
+
+00:33:45.340 --> 00:33:47.340
+Polaków
+
+00:33:47.360 --> 00:33:49.360
+i badanie pokazało, że
+
+00:33:49.380 --> 00:33:51.380
+72% respondentów
+
+00:33:51.400 --> 00:33:53.400
+ma noworoczne postanowienia,
+
+00:33:53.420 --> 00:33:55.420
+a 40% z nich
+
+00:33:55.440 --> 00:33:57.440
+skula się, skupia się
+
+00:33:57.460 --> 00:33:59.460
+na celach finansowych
+
+00:33:59.480 --> 00:34:01.480
+i
+
+00:34:01.500 --> 00:34:03.500
+proszę państwa
+
+00:34:03.500 --> 00:34:05.500
+w kontekście tych finansowych
+
+00:34:05.520 --> 00:34:07.520
+to
+
+00:34:07.540 --> 00:34:09.540
+zostało podzielone na kilka rzeczy.
+
+00:34:09.560 --> 00:34:11.560
+Numer jeden to jest oszczędzanie
+
+00:34:11.580 --> 00:34:13.580
+na ważny zakup, 39%.
+
+00:34:13.600 --> 00:34:15.600
+Podjęcie
+
+00:34:15.620 --> 00:34:17.620
+dodatkowej pracy w celu zwiększenia
+
+00:34:17.640 --> 00:34:19.640
+dochodu, 39% również.
+
+00:34:19.660 --> 00:34:21.660
+Lepsze radzenie sobie z budżetem,
+
+00:34:21.680 --> 00:34:23.680
+37%.
+
+00:34:23.700 --> 00:34:25.700
+Rozpoczęcie inwestowania w swoją przyszłość,
+
+00:34:25.720 --> 00:34:27.720
+35%.
+
+00:34:27.740 --> 00:34:29.740
+Zwiększenie obecnej
+
+00:34:29.760 --> 00:34:31.760
+inwestycji, 25%.
+
+00:34:31.760 --> 00:34:33.760
+Remikiusz, jakie
+
+00:34:33.780 --> 00:34:35.780
+ty masz przemyślenia?
+
+00:34:35.800 --> 00:34:37.800
+Jakie ty w ogóle planujesz
+
+00:34:37.820 --> 00:34:39.820
+swoje inwestycje?
+
+00:34:39.840 --> 00:34:41.840
+Ja jestem zaskoczony tymi finansowymi
+
+00:34:41.860 --> 00:34:43.860
+postanowieniami,
+
+00:34:43.880 --> 00:34:45.880
+bo to jest coś, czego
+
+00:34:45.900 --> 00:34:47.900
+nigdy nie robiłem. Ja zawsze miałem takie poczucie,
+
+00:34:47.920 --> 00:34:49.920
+że bardzo oszczędnie staram się żyć
+
+00:34:49.940 --> 00:34:51.940
+i od dziecka to miałem
+
+00:34:51.960 --> 00:34:53.960
+i do teraz to mam, więc
+
+00:34:53.980 --> 00:34:55.980
+nie zdarzały się takie sytuacje, że
+
+00:34:56.000 --> 00:34:58.000
+okej, to teraz muszę
+
+00:34:58.020 --> 00:35:00.020
+bardziej przycisnąć albo bardziej oszczędzić.
+
+00:35:00.020 --> 00:35:02.020
+To jest też, trochę się to łączy
+
+00:35:02.040 --> 00:35:04.040
+z takim, w związku z tym,
+
+00:35:04.060 --> 00:35:06.060
+że więcej chodzę, no to mniej jeżdżę samochodem
+
+00:35:06.080 --> 00:35:08.080
+i od razu sobie myślę, okej, no to na paliwie będzie oszczędność.
+
+00:35:08.100 --> 00:35:10.100
+Albo na przykład
+
+00:35:10.120 --> 00:35:12.120
+pani doktor mówi, słuchajcie,
+
+00:35:12.140 --> 00:35:14.140
+drodzy rodzice, wasze dzieci to mogą chorować,
+
+00:35:14.160 --> 00:35:16.160
+jak będzie w domu cieplej, no to sobie
+
+00:35:16.180 --> 00:35:18.180
+przykręcimy kurki w domu, z czym walczyłem
+
+00:35:18.200 --> 00:35:20.200
+w grudniu i mamy niższą temperaturę
+
+00:35:20.220 --> 00:35:22.220
+i jest zdrowiej i jest tani.
+
+00:35:22.240 --> 00:35:24.240
+Dostaliśmy właśnie niedawno rachunek
+
+00:35:24.260 --> 00:35:26.260
+za gaz i okazuje się, że jest niższy
+
+00:35:26.280 --> 00:35:28.280
+niż poprzednio, więc
+
+00:35:28.280 --> 00:35:30.280
+powiedziałbym, że mimo tych problemów
+
+00:35:30.300 --> 00:35:32.300
+na razie nic złego mnie nie dotknęło
+
+00:35:32.320 --> 00:35:34.320
+finansowo. I tak, wiesz,
+
+00:35:34.340 --> 00:35:36.340
+no ja też taki komputer biedny,
+
+00:35:36.360 --> 00:35:38.360
+starusieńki przez 5-7 lat
+
+00:35:38.380 --> 00:35:40.380
+dogorywał tutaj i nie kupowałem
+
+00:35:40.400 --> 00:35:42.400
+nowego, nie wymieniałem.
+
+00:35:42.420 --> 00:35:44.420
+Drugi PlayStation w szafie, Lenovo tam leży,
+
+00:35:44.440 --> 00:35:46.440
+laptop, no Remigio szuka,
+
+00:35:46.460 --> 00:35:48.460
+a ty chcesz tutaj oszukać.
+
+00:35:48.480 --> 00:35:50.480
+Ej halo, ale ja to obdarowany
+
+00:35:50.500 --> 00:35:52.500
+zostałem, to nie jest tak, że ja wydałem
+
+00:35:52.520 --> 00:35:54.520
+na to pieniądze, przecież już
+
+00:35:54.540 --> 00:35:56.540
+moje swoje własne, cenne, zarobione.
+
+00:35:56.540 --> 00:35:58.540
+No co więcej.
+
+00:35:58.560 --> 00:36:00.560
+No PlayStation to jest
+
+00:36:00.580 --> 00:36:02.580
+jako zapasowe urządzenie.
+
+00:36:02.600 --> 00:36:04.600
+No, więc ja zaliczam się
+
+00:36:04.620 --> 00:36:06.620
+do tej grupy pierwszej, czyli oszczędzanie na ważny zakup.
+
+00:36:06.640 --> 00:36:08.640
+No chcemy kupić działkę, zobaczymy
+
+00:36:08.660 --> 00:36:10.660
+co z tego
+
+00:36:10.680 --> 00:36:12.680
+wyjdzie.
+
+00:36:12.700 --> 00:36:14.700
+Radzenie sobie z budżetem
+
+00:36:14.720 --> 00:36:16.720
+ogarnąłem odkąd
+
+00:36:16.740 --> 00:36:18.740
+wszystkie jakieś takie większe
+
+00:36:18.760 --> 00:36:20.760
+wydatki wklepuję
+
+00:36:20.780 --> 00:36:22.780
+do Excela po prostu
+
+00:36:22.800 --> 00:36:24.800
+i kontroluję te
+
+00:36:24.800 --> 00:36:26.800
+wydatki. Na przykład czynsz,
+
+00:36:26.820 --> 00:36:28.820
+wiesz, raty i tak dalej,
+
+00:36:28.840 --> 00:36:30.840
+wszystko mam w jednym Excelu.
+
+00:36:30.860 --> 00:36:32.860
+Kiedyś miałem tak,
+
+00:36:32.880 --> 00:36:34.880
+że jeden miesiąc
+
+00:36:34.900 --> 00:36:36.900
+nie zapłaciłem czynszu
+
+00:36:36.920 --> 00:36:38.920
+i nie ogarnąłem tego.
+
+00:36:38.940 --> 00:36:40.940
+I po roku do mnie zadzwonili,
+
+00:36:40.960 --> 00:36:42.960
+że panie Borysie, pan cały
+
+00:36:42.980 --> 00:36:44.980
+czas płaci miesiąc do tyłu.
+
+00:36:45.000 --> 00:36:47.000
+Ciekawe to jest w ogóle.
+
+00:36:47.020 --> 00:36:49.020
+Teraz muszę ekstra
+
+00:36:49.040 --> 00:36:51.040
+zapłacić.
+
+00:36:51.060 --> 00:36:53.060
+I inwestowania nie
+
+00:36:53.060 --> 00:36:55.060
+zamierzam. W zeszłym roku
+
+00:36:55.080 --> 00:36:57.080
+zainwestowałem w akcje
+
+00:36:57.100 --> 00:36:59.100
+mojej ulubionej firmy
+
+00:36:59.120 --> 00:37:01.120
+i na razie nie zamierzam nic z tego
+
+00:37:01.140 --> 00:37:03.140
+zmieniać.
+
+00:37:03.160 --> 00:37:05.160
+Dla mnie bardzo ciekawe jest, że w
+
+00:37:05.180 --> 00:37:07.180
+momencie kiedy
+
+00:37:07.200 --> 00:37:09.200
+jest spora inflacja,
+
+00:37:09.220 --> 00:37:11.220
+kiedy mówi się o kryzysie,
+
+00:37:11.240 --> 00:37:13.240
+oszczędzanie na ważny zakup jest tak
+
+00:37:13.260 --> 00:37:15.260
+naprawdę na pierwszym miejscu,
+
+00:37:15.280 --> 00:37:17.280
+ale ex aequo z podjęciem
+
+00:37:17.300 --> 00:37:19.300
+dodatkowej pracy
+
+00:37:19.320 --> 00:37:21.320
+w celu zwiększenia dochodów.
+
+00:37:21.320 --> 00:37:23.320
+To rozumiem, bo ludzie,
+
+00:37:23.340 --> 00:37:25.340
+którzy mają kredyty, którzy się
+
+00:37:25.360 --> 00:37:27.360
+zakredytowali pod korek
+
+00:37:27.380 --> 00:37:29.380
+mogą mieć teraz
+
+00:37:29.400 --> 00:37:31.400
+bardzo duże problemy
+
+00:37:31.420 --> 00:37:33.420
+finansowe, ponieważ
+
+00:37:33.440 --> 00:37:35.440
+te kredyty o nawet kilka
+
+00:37:35.460 --> 00:37:37.460
+tysięcy mogły wzrosnąć.
+
+00:37:37.480 --> 00:37:39.480
+Już nawet nie wspomnę, jak ktoś ma mały
+
+00:37:39.500 --> 00:37:41.500
+biznes, gdzie oparty jest
+
+00:37:41.520 --> 00:37:43.520
+w dużej mierze na prądzie.
+
+00:37:43.540 --> 00:37:45.540
+Że ten prąd
+
+00:37:45.560 --> 00:37:47.560
+jest dużym kosztem tego biznesu.
+
+00:37:47.580 --> 00:37:49.580
+To też może mieć
+
+00:37:49.580 --> 00:37:51.580
+jakiś tam problem
+
+00:37:51.600 --> 00:37:53.600
+finansowy.
+
+00:37:53.620 --> 00:37:55.620
+Dla mnie trochę jest dziwne, że na tym,
+
+00:37:55.640 --> 00:37:57.640
+że oszczędzanie na ważny,
+
+00:37:57.660 --> 00:37:59.660
+czyli oszczędzanie na wydanie
+
+00:37:59.680 --> 00:38:01.680
+na ważny, chociaż może ten ważny
+
+00:38:01.700 --> 00:38:03.700
+zakup to jest jakaś inwestycja też.
+
+00:38:03.720 --> 00:38:05.720
+Powiem Ci z moich własnych
+
+00:38:05.740 --> 00:38:07.740
+obserwacji tutaj, jako że mieszkam na
+
+00:38:07.760 --> 00:38:09.760
+osiedlu
+
+00:38:09.780 --> 00:38:11.780
+domków jednorodzinnych, ale
+
+00:38:11.800 --> 00:38:13.800
+to jest dosyć stare osiedle.
+
+00:38:13.820 --> 00:38:15.820
+Jest tutaj dużo domów, które powstawały
+
+00:38:15.840 --> 00:38:17.840
+30-40 lat temu.
+
+00:38:17.840 --> 00:38:19.840
+I ostatnie
+
+00:38:19.860 --> 00:38:21.860
+parę miesięcy to
+
+00:38:21.880 --> 00:38:23.880
+praktycznie wszędzie widzę remonty.
+
+00:38:23.900 --> 00:38:25.900
+To znaczy zakładam, że ludzie, jeżeli
+
+00:38:25.920 --> 00:38:27.920
+mieli jakieś pieniądze odłożone, to uznali,
+
+00:38:27.940 --> 00:38:29.940
+że to jest dobry moment, żeby je zainwestować
+
+00:38:29.960 --> 00:38:31.960
+w dom, no bo to zawsze gdzieś tam zostaje,
+
+00:38:31.980 --> 00:38:33.980
+zawsze podnosi wartość tej nieruchomości.
+
+00:38:34.000 --> 00:38:36.000
+Tym bardziej, że te nieruchomości jakieś
+
+00:38:36.020 --> 00:38:38.020
+niesamowite ceny
+
+00:38:38.040 --> 00:38:40.040
+mają obecnie.
+
+00:38:40.060 --> 00:38:42.060
+Więc zakładam, że nikt
+
+00:38:42.080 --> 00:38:44.080
+pieniędzy nie trzyma w takiej formie
+
+00:38:44.100 --> 00:38:46.100
+w banku, bo to się mija z celem dzisiaj.
+
+00:38:46.100 --> 00:38:48.100
+Wszystko jest przeznaczane na budowlankę.
+
+00:38:48.120 --> 00:38:50.120
+Zresztą mamy takiego zaprzyjaźnionego trochę
+
+00:38:50.140 --> 00:38:52.140
+speca od budownictwa,
+
+00:38:52.160 --> 00:38:54.160
+który ma firmę i on też jest rozchwytywany
+
+00:38:54.180 --> 00:38:56.180
+strasznie. Więc zakładam, że
+
+00:38:56.200 --> 00:38:58.200
+tego typu rzeczy, że ktoś oszczędzał
+
+00:38:58.220 --> 00:39:00.220
+i teraz w jakąś inwestycję większą
+
+00:39:00.240 --> 00:39:02.240
+rzecz wydaje pieniądze,
+
+00:39:02.260 --> 00:39:04.260
+to jest chyba jeden ze
+
+00:39:04.280 --> 00:39:06.280
+sposobów w ogóle radzenia sobie z inflacją.
+
+00:39:06.300 --> 00:39:08.300
+Więc...
+
+00:39:08.320 --> 00:39:10.320
+No to jest prawda. Albo kupujesz
+
+00:39:10.340 --> 00:39:12.340
+na przykład działkę, jak cię stać
+
+00:39:12.360 --> 00:39:14.360
+dom albo jakieś...
+
+00:39:14.360 --> 00:39:16.360
+Wydaje się być stosowne.
+
+00:39:16.380 --> 00:39:18.380
+Nieruchomość to jest...
+
+00:39:18.400 --> 00:39:20.400
+I...
+
+00:39:20.420 --> 00:39:22.420
+I co ciekawe,
+
+00:39:22.440 --> 00:39:24.440
+dopiero na...
+
+00:39:24.460 --> 00:39:26.460
+Wiadomo, że tam zdrowie było na pierwszym
+
+00:39:26.480 --> 00:39:28.480
+miejscu, bo to jest
+
+00:39:28.500 --> 00:39:30.500
+tradycyjne.
+
+00:39:30.520 --> 00:39:32.520
+Że te jakby nasze
+
+00:39:32.540 --> 00:39:34.540
+postanowienia
+
+00:39:34.560 --> 00:39:36.560
+noworoczne są związane właśnie
+
+00:39:36.580 --> 00:39:38.580
+ze zdrowiem, ale
+
+00:39:38.600 --> 00:39:40.600
+zaraz za finansami jest
+
+00:39:40.620 --> 00:39:42.620
+taka kategoria, która nazywa się
+
+00:39:42.620 --> 00:39:44.620
+fitness.
+
+00:39:44.640 --> 00:39:46.640
+I to chyba też jest
+
+00:39:46.660 --> 00:39:48.660
+tradycyjne, ponieważ
+
+00:39:48.680 --> 00:39:50.680
+są znane memy i żarty
+
+00:39:50.700 --> 00:39:52.700
+związane z
+
+00:39:52.720 --> 00:39:54.720
+styczniem na siłowniach.
+
+00:39:54.740 --> 00:39:56.740
+O Jezu...
+
+00:39:56.760 --> 00:39:58.760
+To nie są na szczęście moje osobiste historie.
+
+00:39:58.780 --> 00:40:00.780
+Natomiast wiem dwie rzeczy. Po pierwsze,
+
+00:40:00.800 --> 00:40:02.800
+fenomenalnie sprzedają się
+
+00:40:02.820 --> 00:40:04.820
+takie stroje sportowe
+
+00:40:04.840 --> 00:40:06.840
+do ćwiczenia na siłowni, zwłaszcza te obcisłe.
+
+00:40:06.860 --> 00:40:08.860
+To jest jakby...
+
+00:40:08.880 --> 00:40:10.880
+Rynek się ożywa.
+
+00:40:10.880 --> 00:40:12.880
+Zabrakło dla ciebie.
+
+00:40:12.900 --> 00:40:14.900
+Zabrakło leginsów przyciasnych dla mnie. Niestety muszę chodzić
+
+00:40:14.920 --> 00:40:16.920
+w szerokich shortach. Ale
+
+00:40:16.940 --> 00:40:18.940
+to też podobno...
+
+00:40:18.960 --> 00:40:20.960
+Podobno mocno
+
+00:40:20.980 --> 00:40:22.980
+zacierają ręce właściciele siłowni,
+
+00:40:23.000 --> 00:40:25.000
+bowiem bardzo dużo osób zapisuje się
+
+00:40:25.020 --> 00:40:27.020
+na siłownie, a jako że większość z tych instytucji
+
+00:40:27.040 --> 00:40:29.040
+działa na zasadzie abonamentowej i nie tak łatwo
+
+00:40:29.060 --> 00:40:31.060
+się wypisać, to ten
+
+00:40:31.080 --> 00:40:33.080
+początek roku to są żniwa
+
+00:40:33.100 --> 00:40:35.100
+i te żniwa trwają jeszcze przez długi czas
+
+00:40:35.120 --> 00:40:37.120
+zanim człowiek w końcu
+
+00:40:37.140 --> 00:40:39.140
+zastydzony przyjdzie i
+
+00:40:39.140 --> 00:40:41.140
+przepraszam, panie, chciałbym się wypisać.
+
+00:40:41.160 --> 00:40:43.160
+Jednak się okazuje, że nie, starcza czasu.
+
+00:40:43.180 --> 00:40:45.180
+Ale przez sześć miesięcy
+
+00:40:45.200 --> 00:40:47.200
+płacił, więc
+
+00:40:47.220 --> 00:40:49.220
+tradycyjnie jak co roku
+
+00:40:49.240 --> 00:40:51.240
+na początku są nowi klienci
+
+00:40:51.260 --> 00:40:53.260
+na siłowni i jest też trochę osób
+
+00:40:53.280 --> 00:40:55.280
+na siłowni, podobno więcej w styczniu.
+
+00:40:55.300 --> 00:40:57.300
+Ale potem to się wszystko wyrównuje
+
+00:40:57.320 --> 00:40:59.320
+i przychodzą tylko albo żeby ćwiczyć
+
+00:40:59.340 --> 00:41:01.340
+albo żeby zrezygnować z abonamentu jednak.
+
+00:41:01.360 --> 00:41:03.360
+To prawda. Nie dziwię się, dlatego pewnie
+
+00:41:03.380 --> 00:41:05.380
+Gimper na początku roku otworzył
+
+00:41:05.400 --> 00:41:07.400
+tę siłownię, ten klub.
+
+00:41:07.400 --> 00:41:09.400
+To bardzo sensowna inicjatywa
+
+00:41:09.420 --> 00:41:11.420
+i chyba zakończy się sukcesem.
+
+00:41:11.440 --> 00:41:13.440
+Dużo chętnych jest.
+
+00:41:13.460 --> 00:41:15.460
+Ale fitness rok do roku spadł,
+
+00:41:15.480 --> 00:41:17.480
+bo teraz jest 24%,
+
+00:41:17.500 --> 00:41:19.500
+w zeszłym roku było 26%.
+
+00:41:19.520 --> 00:41:21.520
+No już uczymy się na własnych błędach może,
+
+00:41:21.540 --> 00:41:23.540
+a może nie.
+
+00:41:23.560 --> 00:41:25.560
+I na kolejnym miejscu jest hobby
+
+00:41:25.580 --> 00:41:27.580
+i to jest też spadek
+
+00:41:27.600 --> 00:41:29.600
+z 27% na 24%,
+
+00:41:29.620 --> 00:41:31.620
+ale powiem państwu,
+
+00:41:31.640 --> 00:41:33.640
+że to jest dobre postanowienie.
+
+00:41:33.660 --> 00:41:35.660
+Znaczy, że skupienie się w jakiś tam sposób
+
+00:41:35.660 --> 00:41:37.660
+ćwiczyć albo znalezienie sobie nowego hobby,
+
+00:41:37.680 --> 00:41:39.680
+bo mówimy tutaj o takiej grupie,
+
+00:41:39.700 --> 00:41:41.700
+w której
+
+00:41:41.720 --> 00:41:43.720
+te rzeczy się mieszczą,
+
+00:41:43.740 --> 00:41:45.740
+czyli hobby, jest to bardzo dobre.
+
+00:41:45.760 --> 00:41:47.760
+Jest to rzecz, którą
+
+00:41:47.780 --> 00:41:49.780
+warto w sobie pielęgnować.
+
+00:41:49.800 --> 00:41:51.800
+Jakieś takie rzeczy, czym się zajmujemy
+
+00:41:51.820 --> 00:41:53.820
+poza pracą
+
+00:41:53.840 --> 00:41:55.840
+i które jest właśnie nasze.
+
+00:41:55.860 --> 00:41:57.860
+Ty masz jakieś hobby?
+
+00:41:57.880 --> 00:41:59.880
+Hmm...
+
+00:41:59.900 --> 00:42:01.900
+Chodzenie do lasu
+
+00:42:01.920 --> 00:42:03.920
+na przykład. Ten kraft, jak to się nazywa?
+
+00:42:03.920 --> 00:42:05.920
+Bushcraft?
+
+00:42:05.940 --> 00:42:07.940
+Zbieram kable na przykład
+
+00:42:07.960 --> 00:42:09.960
+i mam
+
+00:42:09.980 --> 00:42:11.980
+wszystkie rodzaje.
+
+00:42:12.000 --> 00:42:14.000
+I masz takie specjalne atlasne?
+
+00:42:14.020 --> 00:42:16.020
+Mam parę pudeł tutaj.
+
+00:42:16.040 --> 00:42:18.040
+W jednym mam kable
+
+00:42:18.060 --> 00:42:20.060
+video.
+
+00:42:20.080 --> 00:42:22.080
+W innym mam kable do daty.
+
+00:42:22.100 --> 00:42:24.100
+Tam mam przejściówki,
+
+00:42:24.120 --> 00:42:26.120
+adaptery audio,
+
+00:42:26.140 --> 00:42:28.140
+całe pudełko.
+
+00:42:28.160 --> 00:42:30.160
+Tutaj mam adaptery video, całe pudełko.
+
+00:42:30.180 --> 00:42:32.180
+Okej, żona jest pewnie przeszczęśliwa
+
+00:42:32.180 --> 00:42:34.180
+z tych pudełków.
+
+00:42:34.200 --> 00:42:36.200
+Jak przyszedł jakaś paczka i mówi tak,
+
+00:42:36.220 --> 00:42:38.220
+co kable kupiłeś znowu?
+
+00:42:38.240 --> 00:42:40.240
+Kurde, ja muszę sobie sam
+
+00:42:40.260 --> 00:42:42.260
+jakieś hobby wykombinować, bo to nie może być tak,
+
+00:42:42.280 --> 00:42:44.280
+że ja mam gry w pracy
+
+00:42:44.300 --> 00:42:46.300
+i hobby też gry.
+
+00:42:46.320 --> 00:42:48.320
+To trochę ogranicza.
+
+00:42:48.340 --> 00:42:50.340
+Malowanie figurek.
+
+00:42:50.360 --> 00:42:52.360
+Może tak. To jest a propos takiego czasu
+
+00:42:52.380 --> 00:42:54.380
+dla siebie, bo wydaje mi się,
+
+00:42:54.400 --> 00:42:56.400
+że w moim przypadku granie w gry,
+
+00:42:56.420 --> 00:42:58.420
+to nie do końca jest czas dla siebie.
+
+00:42:58.440 --> 00:43:00.440
+Oczywiście, że jest, bo mi to sprawia mnóstwo frajdy,
+
+00:43:00.440 --> 00:43:02.440
+ale chyba potrzebuję
+
+00:43:02.460 --> 00:43:04.460
+jakiegoś takiego zajęcia.
+
+00:43:04.480 --> 00:43:06.480
+Chyba moim hobby jest
+
+00:43:06.500 --> 00:43:08.500
+i ty też to hobby raczej podzielasz,
+
+00:43:08.520 --> 00:43:10.520
+czyli sympatia do gotowania.
+
+00:43:10.540 --> 00:43:12.540
+A, gotowanie, tak.
+
+00:43:12.560 --> 00:43:14.560
+Chciałeś powiedzieć masturbatję?
+
+00:43:14.580 --> 00:43:16.580
+Nie, nic innego.
+
+00:43:18.600 --> 00:43:20.600
+Gotowanie, tak.
+
+00:43:20.620 --> 00:43:22.620
+Gotowanie, tak.
+
+00:43:22.640 --> 00:43:24.640
+Jak najbardziej.
+
+00:43:24.660 --> 00:43:26.660
+Ja też, jakby absolutnie.
+
+00:43:26.680 --> 00:43:28.680
+Gotowanie to jest fantastyczne hobby.
+
+00:43:28.680 --> 00:43:30.680
+Muszę sobie znaleźć jakąś...
+
+00:43:30.700 --> 00:43:32.700
+Ja to lubię tak akurat w gotowaniu,
+
+00:43:32.720 --> 00:43:34.720
+że znajdę sobie jakąś potrawę
+
+00:43:34.740 --> 00:43:36.740
+i lubię ją masterować.
+
+00:43:36.760 --> 00:43:38.760
+Przez rok ją robię regularnie
+
+00:43:38.780 --> 00:43:40.780
+i cały czas staram się ją polepszać.
+
+00:43:40.800 --> 00:43:42.800
+Szukam sobie w internecie,
+
+00:43:42.820 --> 00:43:44.820
+co tam te stare baby w Tajlandii
+
+00:43:44.840 --> 00:43:46.840
+dodają do tego Pad Thai'a
+
+00:43:46.860 --> 00:43:48.860
+w centrum Tajlandii,
+
+00:43:48.880 --> 00:43:50.880
+a nie tylko
+
+00:43:50.900 --> 00:43:52.900
+na wybrzeżu.
+
+00:43:52.920 --> 00:43:54.920
+To jest też
+
+00:43:54.940 --> 00:43:56.940
+zacna rzecz, bo ja niestety mam
+
+00:43:56.940 --> 00:43:58.940
+tak, że ja bardzo na żywioł gotuję
+
+00:43:58.960 --> 00:44:00.960
+i czasami zrobię coś
+
+00:44:00.980 --> 00:44:02.980
+bardzo dobrego i potem nie wiem, jak to powtórzyć.
+
+00:44:03.000 --> 00:44:05.000
+Bo, bo...
+
+00:44:05.020 --> 00:44:07.020
+Wiesz,
+
+00:44:07.040 --> 00:44:09.040
+nie zadawałem przyprawy, tak jak ten, wiesz,
+
+00:44:09.060 --> 00:44:11.060
+finger painting, że...
+
+00:44:11.080 --> 00:44:13.080
+Mniej więcej
+
+00:44:13.100 --> 00:44:15.100
+wiem, co trzeba dodać
+
+00:44:15.120 --> 00:44:17.120
+i w jakiej ilości, żeby to było dobre, ale czasami
+
+00:44:17.140 --> 00:44:19.140
+wyjdzie takie bardzo, bardzo dobre i nie potrafię tego powtórzyć.
+
+00:44:19.160 --> 00:44:21.160
+U mnie dużo zmieniło, jak kupiłem sobie
+
+00:44:21.180 --> 00:44:23.180
+precyzyjną wagę.
+
+00:44:23.200 --> 00:44:25.200
+A tak, tak.
+
+00:44:25.200 --> 00:44:27.200
+Siedemdziesiątą grama mierzy nawet.
+
+00:44:27.220 --> 00:44:29.220
+Ja cię kręcę. Aż tak?
+
+00:44:29.240 --> 00:44:31.240
+Aż tak podchodzisz do gotowania?
+
+00:44:31.260 --> 00:44:33.240
+Znaczy, no tak.
+
+00:44:33.260 --> 00:44:35.260
+Na przykład jak robisz pizzę, to bardzo
+
+00:44:35.280 --> 00:44:37.280
+musisz precyzyjnie
+
+00:44:37.300 --> 00:44:39.300
+na przykład małą ilość drożdży
+
+00:44:39.320 --> 00:44:41.320
+musisz dodać. No to...
+
+00:44:41.340 --> 00:44:43.340
+Tak na oko, to jest takie...
+
+00:44:43.360 --> 00:44:45.360
+A zawsze ci ciasto wychodzi do pizzy?
+
+00:44:45.380 --> 00:44:47.380
+No. Bo zawsze robię wedle
+
+00:44:47.400 --> 00:44:49.400
+tak, jak każą, no.
+
+00:44:49.420 --> 00:44:51.420
+Nie, nie, nie, okej, okej.
+
+00:44:51.440 --> 00:44:53.440
+Ja to jestem, jak wiesz, na żywioł, nie?
+
+00:44:53.440 --> 00:44:55.440
+Ja sobie kupiłem, ja sobie kupiłem
+
+00:44:55.460 --> 00:44:57.460
+tą wagę, bo potrzebowałem
+
+00:44:57.480 --> 00:44:59.480
+wagi właśnie do pizzy, do...
+
+00:44:59.500 --> 00:45:01.500
+No to można taką jubilerską małą kupić
+
+00:45:01.520 --> 00:45:03.520
+za jakieś grosze. Ale też
+
+00:45:03.540 --> 00:45:05.540
+zawsze jak kawę robię,
+
+00:45:05.560 --> 00:45:07.560
+to też...
+
+00:45:07.580 --> 00:45:09.580
+Ważę, nie?
+
+00:45:09.600 --> 00:45:11.600
+Zacna analityka. To musi być ciekawy
+
+00:45:11.620 --> 00:45:13.620
+proces, tak. To prawda.
+
+00:45:13.640 --> 00:45:15.640
+Mam zawsze taką samą kawę, więc...
+
+00:45:15.660 --> 00:45:17.660
+Więc nie wiem. Ale powiem ci
+
+00:45:17.680 --> 00:45:19.680
+szczerze, że ostatnio
+
+00:45:19.700 --> 00:45:21.700
+patrząc sobie
+
+00:45:21.700 --> 00:45:23.700
+na te wszystkie właśnie to hobby
+
+00:45:23.720 --> 00:45:25.720
+i wszystkie takie rzeczy,
+
+00:45:25.740 --> 00:45:27.740
+którym się oddajemy i
+
+00:45:27.760 --> 00:45:29.760
+które postanawiamy, że będziemy robić,
+
+00:45:29.780 --> 00:45:31.780
+ja stwierdziłem, że jest taka rzecz,
+
+00:45:31.800 --> 00:45:33.800
+którą w sumie mógłbym sobie postanowić
+
+00:45:33.820 --> 00:45:35.820
+i jest to automatyzacja.
+
+00:45:35.840 --> 00:45:37.840
+I zacząłem się zastanawiać,
+
+00:45:37.860 --> 00:45:39.860
+jakie rzeczy w życiu
+
+00:45:39.880 --> 00:45:41.880
+ja mogę zautomatyzować,
+
+00:45:41.900 --> 00:45:43.900
+żeby mi nie zajmowały czasy. Jakie rzeczy
+
+00:45:43.920 --> 00:45:45.920
+są takie, wiesz, nie? Wystawianie faktur.
+
+00:45:45.940 --> 00:45:47.940
+No i
+
+00:45:47.960 --> 00:45:49.960
+znalazłem w sumie na razie jedną rzecz.
+
+00:45:49.960 --> 00:45:51.960
+Piszę ci za ostatnią fakturę,
+
+00:45:51.980 --> 00:45:53.980
+bo nie miałem akurat...
+
+00:45:54.000 --> 00:45:56.000
+Nie miałem środków.
+
+00:45:56.020 --> 00:45:58.020
+Ciężko jest.
+
+00:45:58.040 --> 00:46:00.040
+No dobrze, dobrze.
+
+00:46:00.060 --> 00:46:02.060
+I na razie znalazłem
+
+00:46:02.080 --> 00:46:04.080
+to, ponieważ ja, proszę państwa,
+
+00:46:04.100 --> 00:46:06.100
+prowadzę regularnie, staram się
+
+00:46:06.120 --> 00:46:08.120
+Instagrama prowadzić. Przez ostatni rok
+
+00:46:08.140 --> 00:46:10.140
+prowadziłem i wrzucam tam moje
+
+00:46:10.160 --> 00:46:12.160
+archiwum fotoreporterskie.
+
+00:46:12.180 --> 00:46:14.180
+Więc to są rzeczy, których mam jeszcze
+
+00:46:14.200 --> 00:46:16.200
+na trzy lata, jak będę postował
+
+00:46:16.220 --> 00:46:18.220
+dwa razy w tygodniu. Więc
+
+00:46:18.220 --> 00:46:20.220
+prowadzę sobie tam jakąś aplikację,
+
+00:46:20.240 --> 00:46:22.240
+gdzie po prostu mam kalendarz
+
+00:46:22.260 --> 00:46:24.260
+i mogę sobie wrzucić
+
+00:46:24.280 --> 00:46:26.280
+pięćdziesiąt zdjęć na najbliższe
+
+00:46:26.300 --> 00:46:28.300
+dwadzieścia pięć tygodni
+
+00:46:28.320 --> 00:46:30.320
+i po prostu to
+
+00:46:30.340 --> 00:46:32.340
+będzie za mnie wrzucało. A jak wrzucam
+
+00:46:32.360 --> 00:46:34.360
+wszystkie zdjęcia na raz,
+
+00:46:34.380 --> 00:46:36.380
+to zajmuje mi to mniej czasu,
+
+00:46:36.400 --> 00:46:38.400
+jak wrzucam je, jak sobie przypomnę.
+
+00:46:38.420 --> 00:46:40.420
+No hurtem jest zawsze lepiej.
+
+00:46:40.440 --> 00:46:42.440
+Zawsze komputer.
+
+00:46:42.460 --> 00:46:44.460
+Jak się nazywa ta aplikacja?
+
+00:46:44.480 --> 00:46:46.480
+Wiesz co, to się nazywa...
+
+00:46:46.480 --> 00:46:48.480
+Jest za darmo
+
+00:46:48.500 --> 00:46:50.500
+Metricool.
+
+00:46:50.520 --> 00:46:52.520
+Metricool. I tam podajesz dane konta
+
+00:46:52.540 --> 00:46:54.540
+i on ci po prostu wrzuca to wszystko, tak?
+
+00:46:54.560 --> 00:46:56.560
+Tak. Fajnie to zrobione. Jest kalendarz
+
+00:46:56.580 --> 00:46:58.580
+pokazany wtedy,
+
+00:46:58.600 --> 00:47:00.600
+kiedy najlepiej. Jest nawet pokazane,
+
+00:47:00.620 --> 00:47:02.620
+kiedy najlepiej. Wszystkie statystyki.
+
+00:47:02.640 --> 00:47:04.640
+No wygląda to całkiem spoko.
+
+00:47:04.660 --> 00:47:06.660
+Dla moich potrzeb
+
+00:47:06.680 --> 00:47:08.680
+wystarczy mi ta darmowa wersja,
+
+00:47:08.700 --> 00:47:10.700
+ale powiem szczerze, takie narzędzie
+
+00:47:10.720 --> 00:47:12.720
+dość zaawansowane, nie?
+
+00:47:12.740 --> 00:47:14.740
+I tam też robisz Instagram, Twitter.
+
+00:47:14.740 --> 00:47:16.740
+Nie wiem, czy opisy raczej.
+
+00:47:16.760 --> 00:47:18.760
+Opis. Wszystko robię, bo to po prostu
+
+00:47:18.780 --> 00:47:20.780
+wstawia ci gotowy post.
+
+00:47:20.800 --> 00:47:22.800
+I też na Facebooka,
+
+00:47:22.820 --> 00:47:24.820
+tam Twittera, jakieś takie rzeczy.
+
+00:47:24.840 --> 00:47:26.840
+Nie jest to, proszę państwa, reklama.
+
+00:47:26.860 --> 00:47:28.860
+Ja też nie wiem, czy powinienem polecać,
+
+00:47:28.880 --> 00:47:30.880
+bo jeszcze może kradną tam dane
+
+00:47:30.900 --> 00:47:32.900
+albo kopią kryptowac na komputerze.
+
+00:47:32.920 --> 00:47:34.920
+Chociaż to jest tylko online.
+
+00:47:34.940 --> 00:47:36.940
+To też faktycznie może nie powinniśmy
+
+00:47:36.960 --> 00:47:38.960
+państwu polecać.
+
+00:47:38.980 --> 00:47:40.980
+Ale mi się na razie sprawdza.
+
+00:47:41.000 --> 00:47:43.000
+Podoba mi się po prostu to,
+
+00:47:43.000 --> 00:47:45.000
+że ten kalendarz pokazuje mi też
+
+00:47:45.020 --> 00:47:47.020
+te godziny, w których powinienem
+
+00:47:47.040 --> 00:47:49.040
+publikować, że jest najwięcej ludzi
+
+00:47:49.060 --> 00:47:51.060
+wtedy na Instagramie, nie?
+
+00:47:51.080 --> 00:47:53.080
+Okej, okej, okej.
+
+00:47:53.100 --> 00:47:55.100
+Nie wiem, czy to jest tak ogólnie,
+
+00:47:55.120 --> 00:47:57.120
+czy po prostu...
+
+00:47:57.140 --> 00:47:59.140
+Hmm...
+
+00:47:59.160 --> 00:48:01.160
+Nie wiem, nie wiem, nie wiem,
+
+00:48:01.180 --> 00:48:03.180
+jak to jest wyliczone.
+
+00:48:03.200 --> 00:48:05.200
+Na Polskę, bo ja tam określałem.
+
+00:48:05.220 --> 00:48:07.220
+Teraz te sztuczne inteligencje,
+
+00:48:07.240 --> 00:48:09.240
+czy tam algorytmy działają tak sprawnie,
+
+00:48:09.260 --> 00:48:11.260
+że pewnie można to przebadać
+
+00:48:11.260 --> 00:48:13.260
+bardzo, bardzo dokładnie.
+
+00:48:13.280 --> 00:48:15.280
+Jakie mają narzędzia, ale na pewno
+
+00:48:15.300 --> 00:48:17.300
+będą coraz lepsze te narzędzia.
+
+00:48:17.320 --> 00:48:19.320
+Można przebadać, więc ta automacja...
+
+00:48:19.340 --> 00:48:21.340
+Zastanawiam się jeszcze, jakie rzeczy
+
+00:48:21.360 --> 00:48:23.360
+mogę zrobić, ale nie robię takich rzeczy.
+
+00:48:23.380 --> 00:48:25.380
+Za mało faktur wystawiam na przykład,
+
+00:48:25.400 --> 00:48:27.400
+bo myślałem, że może to jakoś tam...
+
+00:48:27.420 --> 00:48:29.420
+Ale zawsze to są, często to są
+
+00:48:29.440 --> 00:48:31.440
+różne kwoty, nie mam takich jakichś...
+
+00:48:31.460 --> 00:48:34.960
+Nie mam sklepu z koszulkami na przykład.
+
+00:48:34.980 --> 00:48:36.980
+A mógłbym.
+
+00:48:37.000 --> 00:48:39.000
+No właśnie.
+
+00:48:39.020 --> 00:48:41.020
+Czy my mamy do dodania
+
+00:48:41.020 --> 00:48:43.020
+jeszcze Remigiuszu w tym temacie?
+
+00:48:43.040 --> 00:48:45.040
+Nie, nie, w żadnym razie.
+
+00:48:45.060 --> 00:48:47.060
+Wydawało mi się, że jeszcze
+
+00:48:47.080 --> 00:48:49.080
+to są z twoich notatek,
+
+00:48:49.100 --> 00:48:51.100
+że jak wiele osób
+
+00:48:51.120 --> 00:48:53.120
+rezygnuje z tego postanowienia noworocznego
+
+00:48:53.140 --> 00:48:55.140
+i nie daje rady.
+
+00:48:55.160 --> 00:48:57.160
+Rzeczywiście, proszę państwa, były przeprowadzane,
+
+00:48:57.180 --> 00:48:59.180
+sporo było przeprowadzanych
+
+00:48:59.200 --> 00:49:01.200
+badań i na przykład na
+
+00:49:01.220 --> 00:49:03.220
+Uniwersytecie w Brystolu w 2007 roku
+
+00:49:03.240 --> 00:49:05.240
+te badania wykazały, że 88%
+
+00:49:05.260 --> 00:49:07.260
+noworocznych postanowień
+
+00:49:07.280 --> 00:49:09.280
+nie zostało zrealizowanych.
+
+00:49:09.280 --> 00:49:12.280
+Według badań
+
+00:49:12.300 --> 00:49:14.300
+Statistic Brain Research Institute
+
+00:49:14.320 --> 00:49:16.320
+z 2017,
+
+00:49:16.340 --> 00:49:18.340
+czyli coraz bliżej,
+
+00:49:18.360 --> 00:49:20.360
+tylko 9,2 respondentów
+
+00:49:20.380 --> 00:49:22.380
+pochwaliło się sukcesem
+
+00:49:22.400 --> 00:49:24.400
+w dotrzymywaniu postanowień.
+
+00:49:24.420 --> 00:49:26.420
+9,2%, proszę państwa.
+
+00:49:26.440 --> 00:49:28.440
+9,2 respondenta to jest skomplikowana sprawa.
+
+00:49:28.460 --> 00:49:30.460
+Tak.
+
+00:49:30.480 --> 00:49:32.480
+No ale też było badanie opublikowane
+
+00:49:32.500 --> 00:49:34.500
+w Journal of Clinic Psychology
+
+00:49:34.520 --> 00:49:36.520
+i tam tylko 46%
+
+00:49:36.540 --> 00:49:38.540
+osób, które podjęły
+
+00:49:38.540 --> 00:49:40.540
+postanowienia noworoczne, odniosły sukces,
+
+00:49:40.560 --> 00:49:42.560
+co już jest bardzo dużym procentem
+
+00:49:42.580 --> 00:49:44.580
+moim zdaniem. Ja stawiam,
+
+00:49:44.600 --> 00:49:46.600
+że dzieje się tak, ponieważ
+
+00:49:46.620 --> 00:49:48.620
+podejmujemy
+
+00:49:48.640 --> 00:49:50.640
+te postanowienia
+
+00:49:50.660 --> 00:49:52.660
+po pijaku na Sylwestrze.
+
+00:49:52.680 --> 00:49:54.680
+Być może, bo to chyba tak nawet
+
+00:49:54.700 --> 00:49:56.700
+w jakichś badaniach zostało stwierdzone, że na Sylwestra
+
+00:49:56.720 --> 00:49:58.720
+się najwięcej podejmuje tych, bardzo dużo jest
+
+00:49:58.740 --> 00:50:00.740
+takich postanowień, więc faktycznie alkohol może mieć wpływ.
+
+00:50:00.760 --> 00:50:02.760
+Ja powiedziałbym, że
+
+00:50:02.780 --> 00:50:04.780
+też decydujący wpływ pewnie jest taki,
+
+00:50:04.800 --> 00:50:06.800
+że postanowienia nasze
+
+00:50:06.800 --> 00:50:08.800
+są zbyt drastyczne, za dużo
+
+00:50:08.820 --> 00:50:10.820
+od siebie wymagamy, a to też nie ma sensu.
+
+00:50:10.840 --> 00:50:12.840
+Tak, może być.
+
+00:50:12.860 --> 00:50:14.860
+Proszę Państwa, oczywiście pytanie do Państwa,
+
+00:50:14.880 --> 00:50:16.880
+co sprawiło, że nie dotrzymaliście
+
+00:50:16.900 --> 00:50:18.900
+swoich postanowień noworocznych?
+
+00:50:18.920 --> 00:50:20.920
+Z badań wynika, że nie dotrzymaliście.
+
+00:50:20.940 --> 00:50:22.940
+A jeżeli próbowaliście,
+
+00:50:22.960 --> 00:50:24.960
+to jakie to były postanowienia?
+
+00:50:24.980 --> 00:50:26.980
+Dokładnie, dlatego ja, czy widzisz
+
+00:50:27.000 --> 00:50:29.000
+tutaj korelację? Sylwester,
+
+00:50:29.020 --> 00:50:31.020
+alkohol, postanowienia,
+
+00:50:31.040 --> 00:50:33.040
+nie udało się,
+
+00:50:33.060 --> 00:50:35.060
+a ja w tym roku, że mniej alkoholu.
+
+00:50:35.060 --> 00:50:37.060
+No to może potem będzie
+
+00:50:37.080 --> 00:50:39.080
+Ci kolejne postanowienia, będą łatwiej chodzić.
+
+00:50:39.100 --> 00:50:41.100
+W przyszłym roku.
+
+00:50:41.120 --> 00:50:43.120
+W przyszłym roku coś bardziej sensownego.
+
+00:50:43.140 --> 00:50:45.140
+I tu już się rozgadaliśmy dosyć mocno.
+
+00:50:45.160 --> 00:50:47.160
+Proszę Państwa,
+
+00:50:47.180 --> 00:50:49.180
+PlayStation Store pokazał
+
+00:50:49.200 --> 00:50:51.200
+dane pobierań
+
+00:50:51.220 --> 00:50:53.220
+gier na PlayStation 5,
+
+00:50:53.240 --> 00:50:55.240
+PlayStation 4,
+
+00:50:55.260 --> 00:50:57.260
+PSVR,
+
+00:50:57.280 --> 00:50:59.280
+to nas aż tak bardzo nie obchodzi,
+
+00:50:59.300 --> 00:51:01.300
+i sumaryczne podsumowanie
+
+00:51:01.320 --> 00:51:03.320
+gier Free2Play z PlayStation 5 i PlayStation 4.
+
+00:51:03.320 --> 00:51:05.320
+Jest to podzielone
+
+00:51:05.340 --> 00:51:07.340
+na dwa regiony, czyli
+
+00:51:07.360 --> 00:51:09.360
+na Stany, Kanadę
+
+00:51:09.380 --> 00:51:11.380
+to jest jeden region,
+
+00:51:11.400 --> 00:51:13.400
+i Unię Europejską
+
+00:51:13.420 --> 00:51:15.420
+to jest drugi region.
+
+00:51:15.440 --> 00:51:17.440
+W Ameryce
+
+00:51:17.460 --> 00:51:19.460
+na pierwszym miejscu
+
+00:51:19.480 --> 00:51:21.480
+najpopularniejszą grą na PlayStation 5
+
+00:51:21.500 --> 00:51:23.500
+był Call of Duty Modern Warfare 2.
+
+00:51:23.520 --> 00:51:25.520
+I teraz jak ktoś się jeszcze zastanawia
+
+00:51:25.540 --> 00:51:27.540
+dlaczego tak wszyscy
+
+00:51:27.560 --> 00:51:29.560
+cisną, żeby nie doszło do połączenia
+
+00:51:29.580 --> 00:51:31.580
+Microsoftu i Activision,
+
+00:51:31.580 --> 00:51:33.580
+to jest to odpowiedź.
+
+00:51:33.600 --> 00:51:35.600
+Tak, zgadza się, w sensie,
+
+00:51:35.620 --> 00:51:37.620
+ale to jest, no...
+
+00:51:37.640 --> 00:51:39.640
+Dużo dziwnych interesów się
+
+00:51:39.660 --> 00:51:41.660
+i pewnie w kuluarach dużo ciekawych
+
+00:51:41.680 --> 00:51:43.680
+rozmów się toczy, o których się nie dowiemy za dużo.
+
+00:51:43.700 --> 00:51:45.700
+Tam deklaracje Activision,
+
+00:51:45.720 --> 00:51:47.720
+Blizzard i Microsoftu
+
+00:51:47.740 --> 00:51:49.740
+na temat tego, że Call of Duty nie zniknie
+
+00:51:49.760 --> 00:51:51.760
+ze sklepu PlayStation
+
+00:51:51.780 --> 00:51:53.780
+to są takie trochę
+
+00:51:53.800 --> 00:51:55.800
+umiarkowanie wiarygodne, no bo...
+
+00:51:55.820 --> 00:51:57.820
+Nie, one musieli na 10 lat umowy podpisywać
+
+00:51:57.840 --> 00:51:59.840
+z tego co pamiętam.
+
+00:51:59.840 --> 00:52:01.840
+A 10 lat
+
+00:52:01.860 --> 00:52:03.860
+to szybko mija. To jest właśnie
+
+00:52:03.880 --> 00:52:05.880
+chyba ten problem.
+
+00:52:05.900 --> 00:52:07.900
+Chociaż trudno powiedzieć, no.
+
+00:52:07.920 --> 00:52:09.920
+Bo to są już takie Call of Duty zresztą, podobnie jak FIFA,
+
+00:52:09.940 --> 00:52:11.940
+która w Europie była na topie.
+
+00:52:11.960 --> 00:52:13.960
+Na pierwszym miejscu, tak?
+
+00:52:13.980 --> 00:52:15.980
+No to są takie marki, o których warto myśleć
+
+00:52:16.000 --> 00:52:18.000
+w kontekście więcej niż 10 lat do przodu.
+
+00:52:18.020 --> 00:52:20.020
+Bo to są takie gry, które będą trwały
+
+00:52:20.040 --> 00:52:22.040
+chyba w nieskończoność i wcale się nie dziwię, że tak jest.
+
+00:52:22.060 --> 00:52:24.060
+Bo nawet jak mają jakieś
+
+00:52:24.080 --> 00:52:26.080
+potknięcie po drodze, to za rok robią
+
+00:52:26.100 --> 00:52:28.100
+lepiej i ciągle są chętni, żeby to kupować
+
+00:52:28.100 --> 00:52:30.100
+i do to płacić.
+
+00:52:30.120 --> 00:52:32.120
+Chyba ostatnio w ogóle to jest taka
+
+00:52:32.140 --> 00:52:34.140
+kura znosząca złote jajka, ta FIFA i ten foot.
+
+00:52:34.160 --> 00:52:36.160
+Jakiś ostatnio oglądałem
+
+00:52:36.180 --> 00:52:38.180
+materiał na YouTubie, z którego jasno wynikało,
+
+00:52:38.200 --> 00:52:40.200
+że na tym foocie to się zarabia więcej niż na całej
+
+00:52:40.220 --> 00:52:42.220
+FIS-ie sumarycznie.
+
+00:52:42.240 --> 00:52:44.240
+Nie, no oczywiście.
+
+00:52:44.260 --> 00:52:46.260
+To jest żadna niespodzianka.
+
+00:52:46.280 --> 00:52:48.280
+Ten poziom frustracji, kiedy odpalasz grę
+
+00:52:48.300 --> 00:52:50.300
+i tam ileś już grałeś
+
+00:52:50.320 --> 00:52:52.320
+i jesteś niezły i nagle
+
+00:52:52.340 --> 00:52:54.340
+ktoś, kto ewidentnie kupił sobie
+
+00:52:54.360 --> 00:52:56.360
+zawodników, czy tam
+
+00:52:56.360 --> 00:52:58.360
+dropił ich...
+
+00:52:58.380 --> 00:53:00.380
+Rozjeżdżacie tam 11 do zera.
+
+00:53:00.400 --> 00:53:02.400
+No...
+
+00:53:02.420 --> 00:53:04.420
+Ten poziom frustracji
+
+00:53:04.440 --> 00:53:06.440
+jest, myślę, że spory.
+
+00:53:06.460 --> 00:53:08.460
+Polecam.
+
+00:53:08.480 --> 00:53:10.480
+Powstał taki bardzo fajny
+
+00:53:10.500 --> 00:53:12.500
+filmik frustracji polskich
+
+00:53:12.520 --> 00:53:14.520
+streamerów z FIFA
+
+00:53:14.540 --> 00:53:16.540
+2023.
+
+00:53:16.560 --> 00:53:18.560
+Jest prosto...
+
+00:53:18.580 --> 00:53:20.580
+Dlatego ja nie gram na streamie, absolutnie.
+
+00:53:20.600 --> 00:53:22.600
+Ale
+
+00:53:22.620 --> 00:53:24.620
+w Ameryce na drugim i w
+
+00:53:24.620 --> 00:53:26.620
+Europie na trzecim
+
+00:53:26.640 --> 00:53:28.640
+jest God of War Ragnarok.
+
+00:53:28.660 --> 00:53:30.660
+Dla mnie to jest trochę zaskoczenie.
+
+00:53:30.680 --> 00:53:32.680
+Bo
+
+00:53:32.700 --> 00:53:34.700
+jest dużo gier.
+
+00:53:34.720 --> 00:53:36.720
+Elden Ring jest niżej.
+
+00:53:36.740 --> 00:53:40.740
+NBA jest niżej.
+
+00:53:40.760 --> 00:53:42.760
+Madden jest niżej.
+
+00:53:42.780 --> 00:53:44.780
+Wiem, że...
+
+00:53:44.800 --> 00:53:46.800
+GTA jest niżej.
+
+00:53:46.820 --> 00:53:48.820
+No właśnie, GTA V jest niżej.
+
+00:53:48.840 --> 00:53:50.840
+Co jest też dla mnie szokiem.
+
+00:53:50.860 --> 00:53:52.860
+Ale to tylko pokazuje
+
+00:53:52.860 --> 00:53:54.860
+to, że God of War
+
+00:53:54.880 --> 00:53:56.880
+to był bardzo duży sukces
+
+00:53:56.900 --> 00:53:58.900
+dla PlayStation. Zresztą chwalili się
+
+00:53:58.920 --> 00:54:00.920
+rekordową sprzedażą.
+
+00:54:00.940 --> 00:54:02.940
+No, to prawda. A propos tego futa
+
+00:54:02.960 --> 00:54:04.960
+to jeszcze chciałbym powiedzieć, że ten fut
+
+00:54:04.980 --> 00:54:06.980
+to też zarabia więcej niż ten cały Elden Ring.
+
+00:54:07.000 --> 00:54:09.000
+A propos różnych analiz na temat tego
+
+00:54:09.020 --> 00:54:11.020
+jak będzie w przyszłości wyglądał rynek gier
+
+00:54:11.040 --> 00:54:13.040
+no to w Elden Ringa można włożyć
+
+00:54:13.060 --> 00:54:15.060
+ogromną ilość pracy, ale zyski są...
+
+00:54:15.080 --> 00:54:17.080
+Nie przeskoczysz tego, jeżeli chcesz zrobić
+
+00:54:17.100 --> 00:54:19.100
+grę, która uczciwie traktuje konsumentów.
+
+00:54:19.120 --> 00:54:21.120
+Dopiero takie gry, które trochę
+
+00:54:21.120 --> 00:54:23.120
+konsumentów naciągają albo skłaniają do większych
+
+00:54:23.140 --> 00:54:25.140
+mikrotransakcji, które
+
+00:54:25.160 --> 00:54:27.160
+mogły, że się powinny nazywać makrotransakcje
+
+00:54:27.180 --> 00:54:29.180
+jak niektórzy streamerzy
+
+00:54:29.200 --> 00:54:31.200
+mówią, no to jest dużo
+
+00:54:31.220 --> 00:54:33.220
+skuteczniejsza dla branży. To nie jest
+
+00:54:33.240 --> 00:54:35.240
+dobry objaw, ale na szczęście
+
+00:54:35.260 --> 00:54:37.260
+nadal powstają takie gry jak Elden Ring.
+
+00:54:37.280 --> 00:54:39.280
+Więc może nie będzie tak źle.
+
+00:54:39.300 --> 00:54:41.300
+Na szczęście gry wideo są sztuką
+
+00:54:41.320 --> 00:54:43.320
+i w sztuce
+
+00:54:43.340 --> 00:54:45.340
+sztukę tworzą artyści i też
+
+00:54:45.360 --> 00:54:47.360
+czasami jest tak, że zbierze się
+
+00:54:47.380 --> 00:54:49.380
+odpowiednia ilość ludzi, którzy
+
+00:54:49.380 --> 00:54:51.380
+chcą zrobić grę taką, jaką chcą zrobić
+
+00:54:51.400 --> 00:54:53.400
+a nie po to, żeby jak najwięcej zarobić.
+
+00:54:53.420 --> 00:54:55.420
+To wystarczy, że tylko dobrze zarobią.
+
+00:54:55.440 --> 00:54:57.440
+Tak, tak, tak.
+
+00:54:57.460 --> 00:54:59.460
+To prawda. Oczywiście, że tak.
+
+00:54:59.480 --> 00:55:01.480
+I na szczęście takie firmy na pewno też będą.
+
+00:55:01.500 --> 00:55:03.500
+Proszę państwa,
+
+00:55:03.520 --> 00:55:05.520
+mamy w pierwszej dziesiątce
+
+00:55:05.540 --> 00:55:07.540
+dwie polskie gry. Dying Light
+
+00:55:07.560 --> 00:55:09.560
+na dziesiątym miejscu
+
+00:55:09.580 --> 00:55:11.580
+i w Europie
+
+00:55:11.600 --> 00:55:13.600
+i w Stanach i to uważam, że to jest duży
+
+00:55:13.620 --> 00:55:15.620
+sukces. W szczególności, że nie miał
+
+00:55:15.640 --> 00:55:17.640
+Dying Light dwa dobre prasy
+
+00:55:17.640 --> 00:55:19.640
+w Stanach.
+
+00:55:19.660 --> 00:55:21.660
+Nie był nominowany
+
+00:55:21.680 --> 00:55:23.680
+do Game Awards.
+
+00:55:23.700 --> 00:55:25.700
+No i Cyberpunk,
+
+00:55:25.720 --> 00:55:27.720
+który w Europie jest
+
+00:55:27.740 --> 00:55:29.740
+na siódmym miejscu, a w Stanach
+
+00:55:29.760 --> 00:55:31.760
+jest na dwunastym, co jest też
+
+00:55:31.780 --> 00:55:33.780
+bardzo zastanawiające, że w Stanach
+
+00:55:33.800 --> 00:55:35.800
+Cyberpunk, który dzieje się w Stanach
+
+00:55:35.820 --> 00:55:37.820
+jest na podstawie
+
+00:55:37.840 --> 00:55:39.840
+jednak amerykańskiego
+
+00:55:39.860 --> 00:55:41.860
+podręcznika i marki, jednak w Stanach
+
+00:55:41.880 --> 00:55:43.880
+wyszedł gorzej niż w Europie.
+
+00:55:43.900 --> 00:55:45.900
+No, wiesz co,
+
+00:55:45.900 --> 00:55:47.900
+Amerykanie chyba bardzo dużo grają
+
+00:55:47.920 --> 00:55:49.920
+w te gry takie
+
+00:55:49.940 --> 00:55:51.940
+ala FIFA-owe, tylko w ich tam,
+
+00:55:51.960 --> 00:55:53.960
+bo jest NBA i Madden jest wcześniej.
+
+00:55:53.980 --> 00:55:55.980
+FIFA też jest wcześniej.
+
+00:55:56.000 --> 00:55:58.000
+FIFA jest na siódmym, tak.
+
+00:55:58.020 --> 00:56:00.020
+Więc być może z tego to wynika.
+
+00:56:00.040 --> 00:56:02.040
+Nie będę się za bardzo
+
+00:56:02.060 --> 00:56:04.060
+nad tym rozwodził, podejrzewam, że
+
+00:56:04.080 --> 00:56:06.080
+w Europie zadziałał także polski czynnik
+
+00:56:06.100 --> 00:56:08.100
+cyberpankowy.
+
+00:56:08.120 --> 00:56:10.120
+Polaków dużo kupiło.
+
+00:56:10.140 --> 00:56:12.140
+Nie są, nie.
+
+00:56:12.160 --> 00:56:14.160
+Nie ma nas aż tak dużo, nie?
+
+00:56:14.160 --> 00:56:16.160
+Nie wiem, nie wiem, ale Europejczycy
+
+00:56:16.180 --> 00:56:18.180
+najwyraźniej lubią takie bardziej ambitne
+
+00:56:18.200 --> 00:56:20.200
+gry singleplayerowe.
+
+00:56:20.220 --> 00:56:22.220
+Dla mnie to było trochę dziwne. Na PlayStation 4
+
+00:56:22.240 --> 00:56:24.240
+oczywiście sytuacja wygląda
+
+00:56:24.260 --> 00:56:26.260
+bardzo, bardzo podobnie.
+
+00:56:26.280 --> 00:56:28.280
+W Stanach
+
+00:56:28.300 --> 00:56:30.300
+to jest Call of Duty, GTA,
+
+00:56:30.320 --> 00:56:32.320
+Minecraft, Elden Ring,
+
+00:56:32.340 --> 00:56:34.340
+NBA. W Europie to jest FIFA,
+
+00:56:34.360 --> 00:56:36.360
+GTA V, Call of Duty,
+
+00:56:36.380 --> 00:56:38.380
+Minecraft, FIFA.
+
+00:56:38.400 --> 00:56:40.400
+Ale tutaj w ogóle FIFA 22
+
+00:56:40.420 --> 00:56:42.420
+na piątym, a na pierwszym w Europie
+
+00:56:42.420 --> 00:56:44.420
+FIFA 23 na PlayStation
+
+00:56:44.440 --> 00:56:46.440
+4 i na szóstym
+
+00:56:46.460 --> 00:56:48.460
+miejscu w obu
+
+00:56:48.480 --> 00:56:50.480
+regionach
+
+00:56:50.500 --> 00:56:52.500
+Red Dead Redemption 2.
+
+00:56:52.520 --> 00:56:54.520
+Co jest w ogóle bardzo
+
+00:56:54.540 --> 00:56:56.540
+zaskakujące, ponieważ wsparcie
+
+00:56:56.560 --> 00:56:58.560
+w szczególności dla online'a
+
+00:56:58.580 --> 00:57:00.580
+jest, no, gracze
+
+00:57:00.600 --> 00:57:02.600
+często narzekają.
+
+00:57:02.620 --> 00:57:04.620
+To jest też zaskakujące.
+
+00:57:04.640 --> 00:57:06.640
+Znaczy, nie jest zupełnie niespodzianką,
+
+00:57:06.660 --> 00:57:08.660
+że, a może jest,
+
+00:57:08.680 --> 00:57:10.680
+GTA V
+
+00:57:10.680 --> 00:57:12.680
+i w Europie, i w Stanach Zjednoczonych
+
+00:57:12.700 --> 00:57:14.700
+jest na drugim miejscu. Czyli posiadacze
+
+00:57:14.720 --> 00:57:16.720
+starej generacji konsol uwielbiają
+
+00:57:16.740 --> 00:57:18.740
+GTA ciągle i sięgają po tą grę
+
+00:57:18.760 --> 00:57:20.760
+nieustannie.
+
+00:57:20.780 --> 00:57:22.780
+Faktycznie Red Dead Redemption jest zaskoczeniem,
+
+00:57:22.800 --> 00:57:24.800
+bo go na nowej generacji konsol
+
+00:57:24.820 --> 00:57:26.820
+praktycznie nie ma w pierwszej dziesiątce.
+
+00:57:26.840 --> 00:57:28.840
+W ogóle nawet chyba w pierwszej dwudziestce nie ma.
+
+00:57:28.860 --> 00:57:30.860
+Bo nie ma wersji, znaczy nie ma wersji
+
+00:57:30.880 --> 00:57:32.880
+na nową generację, nie?
+
+00:57:32.900 --> 00:57:34.900
+Na nową generację, nie?
+
+00:57:34.920 --> 00:57:36.920
+Ale nie ma go w ogóle, nie?
+
+00:57:36.940 --> 00:57:38.940
+Więc nie wiem czy, jak to jest liczone,
+
+00:57:38.940 --> 00:57:40.940
+czy wersja na PlayStation 4,
+
+00:57:40.960 --> 00:57:42.960
+którą ściągasz z PS Store'a
+
+00:57:42.980 --> 00:57:44.980
+liczy się jako po prostu
+
+00:57:45.000 --> 00:57:47.000
+PS4 Games
+
+00:57:47.020 --> 00:57:49.020
+czy liczy się jako PS5 Games.
+
+00:57:49.040 --> 00:57:51.040
+No bo tu jest PS4 Games
+
+00:57:51.060 --> 00:57:53.060
+a PS5 Games.
+
+00:57:53.080 --> 00:57:55.080
+Stawiałbym, że po prostu
+
+00:57:55.100 --> 00:57:57.100
+brakuje wersji i dlatego nawet nie jest podawane
+
+00:57:57.120 --> 00:57:59.120
+w tych wynikach.
+
+00:57:59.140 --> 00:58:01.140
+Tak, ja stawiam, że to wedle wersji, które są ściągane,
+
+00:58:01.160 --> 00:58:03.160
+a nie wedle identyfikacji sprzętu.
+
+00:58:03.180 --> 00:58:05.180
+No, ale Witcher
+
+00:58:05.200 --> 00:58:07.200
+się pojawił w Europie
+
+00:58:07.200 --> 00:58:09.200
+na miejscu dwunastym
+
+00:58:09.220 --> 00:58:11.220
+trójeczka.
+
+00:58:11.240 --> 00:58:13.240
+Więc może...
+
+00:58:13.260 --> 00:58:15.260
+Stawiam, że to jest efekt patcha.
+
+00:58:15.280 --> 00:58:17.280
+No, no.
+
+00:58:17.300 --> 00:58:19.300
+Chyba, że serialu.
+
+00:58:19.320 --> 00:58:21.320
+A ty co, obejrzałeś
+
+00:58:21.340 --> 00:58:23.340
+czy nie obejrzałeś?
+
+00:58:23.360 --> 00:58:25.360
+Co ty? Ja nie mam, wiesz,
+
+00:58:25.380 --> 00:58:27.380
+znaczy pewnie obejrzę, ale
+
+00:58:27.400 --> 00:58:29.400
+nie, no nie, no jeszcze
+
+00:58:29.420 --> 00:58:31.420
+ja nie wiem.
+
+00:58:31.440 --> 00:58:33.440
+To nawet ja, tak ci nas, tak wszyscy ci mówią,
+
+00:58:33.460 --> 00:58:35.460
+że złe, złe, a siądziesz i powiesz
+
+00:58:35.460 --> 00:58:37.460
+nie przesadź. To jest najgorsze, wiesz,
+
+00:58:37.480 --> 00:58:39.480
+jak się jeszcze okaże, że jako jestem jedyny,
+
+00:58:39.500 --> 00:58:41.500
+który to lubi, to w ogóle stracę
+
+00:58:41.520 --> 00:58:43.520
+szacunek do siebie.
+
+00:58:43.540 --> 00:58:45.540
+No, tak może być.
+
+00:58:45.560 --> 00:58:47.560
+Więc powiem szczerze, że ciekawie to wygląda,
+
+00:58:47.580 --> 00:58:49.580
+w szczególności jeszcze weźmiemy na
+
+00:58:49.600 --> 00:58:51.600
+free to play gry i numer
+
+00:58:51.620 --> 00:58:53.620
+jeden jest Fall Guys.
+
+00:58:53.640 --> 00:58:55.640
+I to jest dla mnie największe zaskoczenie,
+
+00:58:55.660 --> 00:58:57.660
+bo trochę ten szał na Fall Guys
+
+00:58:57.680 --> 00:58:59.680
+poza premierą
+
+00:58:59.700 --> 00:59:01.700
+mnie ominął i
+
+00:59:01.720 --> 00:59:03.720
+nie grałem. Na drugim miejscu w USA,
+
+00:59:03.720 --> 00:59:05.720
+mam nadzieję, jest Fortnite, na trzecim
+
+00:59:05.740 --> 00:59:07.740
+Warzone, na czwartym
+
+00:59:07.760 --> 00:59:09.760
+Multi Versus, na piątym
+
+00:59:09.780 --> 00:59:11.780
+Overwatch 2, w Europie jest
+
+00:59:11.800 --> 00:59:13.800
+Fall Guys, Call of Duty,
+
+00:59:13.820 --> 00:59:15.820
+Fortnite, Multi Versus i Overwatch 2.
+
+00:59:15.840 --> 00:59:17.840
+Bardzo podobnie to wygląda.
+
+00:59:17.860 --> 00:59:19.860
+W stawce są jeszcze takie gry jak
+
+00:59:19.880 --> 00:59:21.880
+Apex Legends, co w sumie
+
+00:59:21.900 --> 00:59:23.900
+jest też zaskakujące trochę,
+
+00:59:23.920 --> 00:59:25.920
+że ta gra tak dobrze sobie
+
+00:59:25.940 --> 00:59:27.940
+radzi, Rocket League,
+
+00:59:27.960 --> 00:59:29.960
+PUBG,
+
+00:59:29.980 --> 00:59:31.980
+tylko w Stanach na ósmym miejscu,
+
+00:59:31.980 --> 00:59:33.980
+więc
+
+00:59:34.000 --> 00:59:36.000
+i Rumbleverse, nie wiem,
+
+00:59:36.020 --> 00:59:38.020
+nawet też.
+
+00:59:38.040 --> 00:59:40.040
+To są takie, jeszcze z rzeczy
+
+00:59:40.060 --> 00:59:42.060
+na VR, bo
+
+00:59:42.080 --> 00:59:44.080
+o VRze pewnie będziemy mówili
+
+00:59:44.100 --> 00:59:46.100
+w niedalekiej przyszłości jak ten PS
+
+00:59:46.120 --> 00:59:48.120
+VR 2. A kupujesz sobie?
+
+00:59:48.140 --> 00:59:50.140
+Tak, kupię sobie. Naprawdę?
+
+00:59:50.160 --> 00:59:52.160
+No ja jestem jakoś tak z PS5 jestem bardzo
+
+00:59:52.180 --> 00:59:54.180
+zadowolony i jestem ciekaw tego. To ja też
+
+00:59:54.200 --> 00:59:56.200
+powinienem sobie kupić. No wiesz,
+
+00:59:56.220 --> 00:59:58.220
+ja na przykład Beat Sabera
+
+00:59:58.240 --> 01:00:00.240
+bym pograł chętnie, chociaż podobno
+
+01:00:00.240 --> 01:00:02.240
+najlepsza wersja jest na PC, bo można sobie
+
+01:00:02.260 --> 01:00:04.260
+tam mody
+
+01:00:04.280 --> 01:00:06.280
+instalować i różne, jest trochę więcej muzyki,
+
+01:00:06.300 --> 01:00:08.300
+ale nie jestem pewien, czy to jest...
+
+01:00:08.320 --> 01:00:10.320
+Piracko, piractwo.
+
+01:00:10.340 --> 01:00:12.340
+No, ale to być może piractwo, ale
+
+01:00:12.360 --> 01:00:14.360
+ja sobie kupię na PS5
+
+01:00:14.380 --> 01:00:16.380
+i sobie poruszam się. To jest też
+
+01:00:16.400 --> 01:00:18.400
+fajna okazja. Ja oglądałem Rysława
+
+01:00:18.420 --> 01:00:20.420
+parę materiałów na temat tego, bo on
+
+01:00:20.440 --> 01:00:22.440
+chyba Oculusa bardzo, bardzo preferuje
+
+01:00:22.460 --> 01:00:24.460
+i ten Oculus też ma dużo sensu.
+
+01:00:24.480 --> 01:00:26.480
+Może Oculusa, bo tam też jest Beat Saber, nie?
+
+01:00:26.500 --> 01:00:28.500
+Tak.
+
+01:00:28.500 --> 01:00:30.500
+No, ale na razie czekam. No chyba nawet
+
+01:00:30.520 --> 01:00:32.520
+miałoby to więcej sensu, bo jednak PSVR
+
+01:00:32.540 --> 01:00:34.540
+nadal będzie miał kabel, więc jak się
+
+01:00:34.560 --> 01:00:36.560
+człowiek rozpędzi, to może ściągnąć konsolę ze stołu.
+
+01:00:36.580 --> 01:00:38.580
+No, podrażało ostatnio Oculus,
+
+01:00:38.600 --> 01:00:40.600
+ale mnie trochę kusi ten
+
+01:00:40.620 --> 01:00:42.620
+PSVR
+
+01:00:42.640 --> 01:00:44.640
+do
+
+01:00:44.660 --> 01:00:46.660
+Gran Turismo, nie?
+
+01:00:46.680 --> 01:00:48.680
+A, no tak, tak, tak, tak, rozumiem.
+
+01:00:48.700 --> 01:00:50.700
+Bo ja to jeszcze sobie czasem gram, ale
+
+01:00:50.720 --> 01:00:52.720
+och, dużo to pieniędzy, dużo to pieniędzy, więc
+
+01:00:52.740 --> 01:00:54.740
+dałem ci się wypowiedzieć
+
+01:00:54.760 --> 01:00:56.760
+w podcaście po prostu.
+
+01:00:56.760 --> 01:00:58.760
+Z twojej perspektywy wygląda wydanie
+
+01:00:58.780 --> 01:01:00.780
+takiej ilości pieniędzy.
+
+01:01:00.800 --> 01:01:02.800
+Aż tyle? To wiesz, to nie to samo
+
+01:01:02.820 --> 01:01:04.820
+co ten HTC, nie? HTC kosztuje dużo.
+
+01:01:04.840 --> 01:01:06.840
+No wiesz co, PSVR, tylko
+
+01:01:06.860 --> 01:01:08.860
+że, wiesz co,
+
+01:01:08.880 --> 01:01:10.880
+tak się mówi o tych cenach,
+
+01:01:10.900 --> 01:01:12.900
+3 tysiące kosztuje, tylko
+
+01:01:12.920 --> 01:01:14.920
+jak porównujesz sobie do kompa za 10 tysięcy,
+
+01:01:14.940 --> 01:01:16.940
+to ci nie, to nie wygląda tak źle, a jak
+
+01:01:16.960 --> 01:01:18.960
+porównujesz do konsoli za 2 tysiące,
+
+01:01:18.980 --> 01:01:20.980
+no właściwie
+
+01:01:21.000 --> 01:01:23.000
+za 3, no to masz cenę konsoli, nie?
+
+01:01:23.020 --> 01:01:25.000
+Ciekawy jestem jak
+
+01:01:25.000 --> 01:01:27.000
+będzie z jakością tego, bo to
+
+01:01:27.020 --> 01:01:29.020
+trudno powiedzieć na podstawie tego co...
+
+01:01:29.040 --> 01:01:31.040
+To też mnie interesuje.
+
+01:01:31.060 --> 01:01:33.060
+Może ktoś z nas powinien ten wydatek poczynić, żeby
+
+01:01:33.080 --> 01:01:35.080
+państwu powiedzieć, niech to tym razem nam nie padnie.
+
+01:01:35.100 --> 01:01:37.100
+Bardzo dobrze, bardzo dobrze.
+
+01:01:37.120 --> 01:01:39.120
+No.
+
+01:01:39.140 --> 01:01:41.140
+W grach PSVR,
+
+01:01:41.160 --> 01:01:43.160
+w VRowych grach oczywiście
+
+01:01:43.180 --> 01:01:45.180
+Beat Saber, Job Simulator.
+
+01:01:45.200 --> 01:01:47.200
+To jest ciekawe, że ludzie po pracy
+
+01:01:47.220 --> 01:01:49.220
+chcą sobie w VRze pograć w pracę.
+
+01:01:49.240 --> 01:01:51.240
+Superhot VR na trzecim miejscu,
+
+01:01:51.260 --> 01:01:53.260
+który jest chwalony.
+
+01:01:53.260 --> 01:01:55.260
+Grałem w Superhot VR
+
+01:01:55.280 --> 01:01:57.280
+i rzeczywiście jest świetny.
+
+01:01:57.300 --> 01:01:59.300
+Jak najbardziej.
+
+01:01:59.320 --> 01:02:01.320
+To w sumie tyle.
+
+01:02:01.340 --> 01:02:03.340
+Zamykamy ten podcast, proszę państwa.
+
+01:02:03.360 --> 01:02:05.360
+Zamykamy ten bardzo długi podcast.
+
+01:02:05.380 --> 01:02:07.380
+Proszę państwa,
+
+01:02:07.400 --> 01:02:09.400
+w co wygraliście głównie na Playaku?
+
+01:02:09.420 --> 01:02:11.420
+Za darmo. To mnie interesuje. Fall Guys? Naprawdę?
+
+01:02:11.440 --> 01:02:13.440
+No na to wygląda.
+
+01:02:13.460 --> 01:02:15.460
+Na to wygląda.
+
+01:02:15.480 --> 01:02:17.480
+Powiem jeszcze jakby oczywiście
+
+01:02:17.500 --> 01:02:19.500
+to jak wypadł ten podcast
+
+01:02:19.520 --> 01:02:21.520
+i ten mój nowy mikrofon, który też pewnie
+
+01:02:21.520 --> 01:02:23.520
+właściwie już będzie zupełnie inny,
+
+01:02:23.540 --> 01:02:25.540
+to państwu ocenić pozostaje. Ja też to sobie sprawdzę.
+
+01:02:25.560 --> 01:02:27.560
+Natomiast muszę powiedzieć, że
+
+01:02:27.580 --> 01:02:29.580
+Discord, którego mam tutaj
+
+01:02:29.600 --> 01:02:31.600
+uruchomionego na tym komputerze tym razem,
+
+01:02:31.620 --> 01:02:33.620
+dużo lepiej działa. Na tamtym drugim miałem problemy
+
+01:02:33.640 --> 01:02:35.640
+już spore i takie...
+
+01:02:35.660 --> 01:02:37.660
+Miałem takie wrażenie, jakbym cię słyszał za później. Nie wiem, ciężej mi się gadało.
+
+01:02:37.680 --> 01:02:39.680
+Natomiast dzisiaj mi się gadało bardzo dobrze.
+
+01:02:39.700 --> 01:02:41.700
+Wszystko jest jeden do jeden.
+
+01:02:41.720 --> 01:02:43.720
+Może ja cię bystrzej gadam.
+
+01:02:43.740 --> 01:02:45.740
+Nie, nie. To nie o to chodzi.
+
+01:02:45.760 --> 01:02:47.760
+Mam wrażenie, że jakby...
+
+01:02:47.780 --> 01:02:49.780
+O, mniejsze z tym.
+
+01:02:49.780 --> 01:02:51.780
+Że lepsza jest jakość
+
+01:02:51.800 --> 01:02:53.800
+i na bieżąco wszystko słyszę,
+
+01:02:53.820 --> 01:02:55.820
+bo tak miałem wrażenie, że wchodzę trochę ci w słowo częściej.
+
+01:02:55.840 --> 01:02:57.840
+A teraz jak wchodzę w słowo, to widzę, że od razu
+
+01:02:57.860 --> 01:02:59.860
+reagujesz, więc też, wiesz, to jest...
+
+01:02:59.880 --> 01:03:01.880
+W sensie, że od razu mówię...
+
+01:03:01.900 --> 01:03:03.900
+Nie wszeryzasz.
+
+01:03:05.920 --> 01:03:07.920
+Dobrze, proszę państwa.
+
+01:03:07.940 --> 01:03:09.940
+To tyle.
+
+01:03:09.960 --> 01:03:11.960
+Tak jest. Pozdrawiamy bardzo serdecznie.
+
+01:03:11.980 --> 01:03:13.980
+Do zobaczenia, do usłyszenia. Trzymajcie się.
+

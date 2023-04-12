@@ -1,0 +1,5266 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.100
+Dzień dobry, witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:05.100 --> 00:00:10.800
+Dzień dobry, Remigiuszu. Witam Państwa bardzo serdecznie również.
+
+00:00:10.800 --> 00:00:17.800
+Słyszałem, że dzisiaj mamy fenomenalnego partnera tego odcinka, takiego wyjątkowego, taki, co z nami po drodze ma.
+
+00:00:17.800 --> 00:00:24.700
+Oj, bardzo, takich to ja bardzo lubię. Proszę Państwa, sponsorem odcinka jest organizator akcji, która nazywa się
+
+00:00:24.700 --> 00:00:31.700
+Stypendium dla Polskich Game Devów na Game Developers Conference 2023.
+
+00:00:31.700 --> 00:00:35.700
+Taka krótka nazwa, żeby łatwo było zapamiętać.
+
+00:00:35.700 --> 00:00:42.700
+Być może nie najkrótsza, ale za to bardzo, bardzo ważna. Ja powiem parę ważnych rzeczy, czyli to przede wszystkim
+
+00:00:42.700 --> 00:00:50.700
+to jest stypendium dla młodych, obiecujących twórców gier, którzy chcą rozwinąć skrzydła, nawiązać nowe kontakty,
+
+00:00:50.700 --> 00:01:00.700
+dowiedzieć się więcej o tajnikach tworzenia gier i wybrani aplikujący otrzymają wsparcie mentorskie oraz możliwość uczestniczenia
+
+00:01:00.700 --> 00:01:05.700
+w jednej z najważniejszych konferencji dla twórców gier na świecie.
+
+00:01:05.700 --> 00:01:14.700
+Zgłoszenia trwają do 12 stycznia. Link do formularza macie oczywiście w opisie.
+
+00:01:14.700 --> 00:01:21.700
+Stypendium to obejmuje większość kosztów, bo to jest bilet na GDC, który jest bardzo drogi.
+
+00:01:21.700 --> 00:01:27.700
+To jest ten najwyższy, najdroższy bilet, taki jak my mieliśmy, jak byliśmy na GDC.
+
+00:01:27.700 --> 00:01:33.700
+Zakwaterowanie, przelot i to z waszych wydatków zostaje tylko takie codzienne wydatki.
+
+00:01:33.700 --> 00:01:39.700
+Chociaż jak ktoś jest na GDC, to wie, że łatwo się tam wkręcić na darmowe kolacje.
+
+00:01:39.700 --> 00:01:48.700
+I słuchajcie, to jest naprawdę najbardziej prestiżowa, największa i najważniejsza konferencja dla twórców gier.
+
+00:01:48.700 --> 00:01:56.700
+Więc jeżeli macie znajomych, którzy robią jakieś gry, którzy są młodzi i obiecujący, jak sama nazwa wskazuje,
+
+00:01:56.700 --> 00:02:00.700
+dajcie im znać, bo to jest wielka szansa i warto z niej skorzystać.
+
+00:02:00.700 --> 00:02:06.700
+Remigiuszu, ja słyszałem, że ty byłeś na GDC jako jeden z nielicznych dziennikarzy w Polsce.
+
+00:02:06.700 --> 00:02:10.700
+Nie wiem, czy to w ogóle podchodzi jako poddziennikarz, czy ja tam byłem.
+
+00:02:10.700 --> 00:02:14.700
+Ja już nie pamiętam. Jak my żeśmy zdobyli bilety na GDC?
+
+00:02:14.700 --> 00:02:21.700
+Ja dostałem dwa bilety, ponieważ pokazywałem tam na konferencji film Wszystko z nami w porządku.
+
+00:02:21.700 --> 00:02:26.700
+Więc ja oprócz tego, że byłem na GDC, to mogę się nazwać prelegentem nawet.
+
+00:02:26.700 --> 00:02:32.700
+Tak, a ja byłem osobą towarzyszącą pana reżysera.
+
+00:02:32.700 --> 00:02:38.700
+Więc tak się załapałem na GDC i potwierdzam, że to jest zacna impreza, atmosfera tam jest niesamowita.
+
+00:02:38.700 --> 00:02:41.700
+Mnóstwo ludzi się poznaje związanych z gamedevem.
+
+00:02:41.700 --> 00:02:45.700
+Ci, którzy są prelegentami, mają wiele rzeczy do przekazania i przekazują je bardzo otwarcie,
+
+00:02:45.700 --> 00:02:49.700
+no bo to jest taka impreza właściwie zamknięta trochę też przed dziennikarzami.
+
+00:02:49.700 --> 00:02:54.700
+Więc tam jest super niezwykle przyjemnie i faktycznie łatwo się załapać na kolację.
+
+00:02:54.700 --> 00:02:58.700
+Jest dużo takich imprez. Częściowo są otwarte, częściowo nie, ale nawet jeżeli nie są otwarte,
+
+00:02:58.700 --> 00:03:03.700
+to można wyjściówkę załatwić, jeżeli się ma tam jakieś znajomości, a szybko się te znajomości nabywa.
+
+00:03:03.700 --> 00:03:07.700
+No bo to jest taka impreza. Właśnie tam ludzie z gamedevu jadą tam tak,
+
+00:03:07.700 --> 00:03:11.700
+jak, nie wiem, fani Marvela na nową premierę filmu Marvela.
+
+00:03:11.700 --> 00:03:18.700
+No to jest wielka rzecz i taka powiedziałbym podnosząca samooceny, podnosząca na duchu
+
+00:03:18.700 --> 00:03:22.700
+i ma się takie poczucie, że się jest wśród ludzi, którzy robią to samo i z wielkim oddaniem.
+
+00:03:22.700 --> 00:03:25.700
+Więc jest taka bardzo budująca atmosfera tam.
+
+00:03:25.700 --> 00:03:32.700
+Ja jeszcze dodam, że prelegenci to jest totalna topka światowa.
+
+00:03:32.700 --> 00:03:39.700
+W ogóle wśród twórców gier bycie prelegentem na GDC to jest najwyższy prestiż.
+
+00:03:39.700 --> 00:03:45.700
+Więc tam naprawdę są wszyscy po prostu. Wszyscy plus, mówię gdzieś, że tak zamknięte dla dziennikarzy,
+
+00:03:45.700 --> 00:03:49.700
+raczej otwarte, ale oni tam rzeczywiście, jak my chodziliśmy na te wykłady,
+
+00:03:49.700 --> 00:03:53.700
+to oni tam nie boją się mówić i też o takich prawnych rzeczach, o pieniądzach,
+
+00:03:53.700 --> 00:03:59.700
+o różnych rzeczach, no bardzo otwarte są te panele.
+
+00:03:59.700 --> 00:04:05.700
+Jest również Expo, więc tam też można właśnie na przykład dziennikarzy spotkać,
+
+00:04:05.700 --> 00:04:10.700
+pokazać im swoją grę albo pomówić o niej chociaż.
+
+00:04:10.700 --> 00:04:14.700
+My mieliśmy tak, że sporo polskich twórców jak tam byliśmy spotkaliśmy,
+
+00:04:14.700 --> 00:04:20.700
+zresztą mamy dużo materiałów, więc jeszcze raz ja państwu bardzo polecam.
+
+00:04:20.700 --> 00:04:25.700
+Macie znajomych? Poinformujcie ich o tym stypendium,
+
+00:04:25.700 --> 00:04:31.700
+bo to jest naprawdę świetna rzecz. To stypendium funkcjonuje już od paru ładnych lat
+
+00:04:31.700 --> 00:04:37.700
+i naprawdę nie sądzę, żebym znalazł twórcę, który był tam w San Francisco
+
+00:04:37.700 --> 00:04:44.700
+ze swoją grą czy w ogóle jako twórca, żeby się dokształcać i przyjechał niezadowolony.
+
+00:04:44.700 --> 00:04:49.700
+Więc tak, pamiętajcie, link do formularza macie w opisie.
+
+00:04:49.700 --> 00:04:52.700
+Ale to jest jeszcze bonus na tym tegorocznym GDC.
+
+00:04:52.700 --> 00:04:54.700
+Można nas spotkać i przybić piątkę.
+
+00:04:54.700 --> 00:04:58.700
+No właśnie, na przykład my możemy powiedzieć o waszej grze.
+
+00:04:58.700 --> 00:05:03.700
+O, to już jest niewiele, co?
+
+00:05:03.700 --> 00:05:09.700
+To to ja też słyszałem.
+
+00:05:09.700 --> 00:05:11.700
+Wiesz co, ja pójdę zobaczyć na chwilę.
+
+00:05:11.700 --> 00:05:14.700
+Proszę państwa, wybaczą, bo chyba jakaś doszło do tragedii w domu,
+
+00:05:14.700 --> 00:05:18.700
+ale nikt nie krzyczy, więc to jest chyba tylko tragedia sprzętowa.
+
+00:05:18.700 --> 00:05:20.700
+Co my sobie tutaj z państwem poczekamy?
+
+00:05:20.700 --> 00:05:22.700
+Taką muzyczkę puszczę.
+
+00:05:22.700 --> 00:05:27.700
+Zabawiałeś państwa na czas mojej nieobecności czy zrobiłeś cięcie brutalne?
+
+00:05:27.700 --> 00:05:29.700
+Wytnę to, wytnę to.
+
+00:05:29.700 --> 00:05:32.700
+Dobrze. Proszę państwa, mój syn spadł z krzesła.
+
+00:05:32.700 --> 00:05:39.700
+Krzesło było w stanie już takim rozwalonym i on się całe połamało.
+
+00:05:39.700 --> 00:05:43.700
+Przyszedłem po prostu, bo na schodach tragedia, leżą rzeczy porozrzucane,
+
+00:05:43.700 --> 00:05:47.700
+nic mu się nie stało. Wchodziłem, wszyscy się śmiali, więc uznałem, że jest wszystko okej.
+
+00:05:47.700 --> 00:05:48.700
+No to dobrze.
+
+00:05:48.700 --> 00:05:49.700
+Trochę się parysował.
+
+00:05:49.700 --> 00:05:50.700
+Młody.
+
+00:05:50.700 --> 00:05:55.700
+Ach, ach, no to młodość jakby. Te krzesła teraz takie tandetne robią.
+
+00:05:55.700 --> 00:05:58.700
+Remigiuszu, co tam u Ciebie se hać?
+
+00:05:58.700 --> 00:06:01.700
+Jezu, dużo rzeczy. Dużo rzeczy się mu nie wydarzyło.
+
+00:06:01.700 --> 00:06:03.700
+Po pierwsze we Wrocławiu pada śnieg. U Ciebie też pada?
+
+00:06:03.700 --> 00:06:05.700
+Tak bardzo ostro i mocno i dużo jest śniegu?
+
+00:06:05.700 --> 00:06:06.700
+Tak.
+
+00:06:06.700 --> 00:06:08.700
+Nie wiem czy teraz, bo teraz to już nie sprawdzałem.
+
+00:06:08.700 --> 00:06:14.700
+Nie, bo ja oglądałem finał mundialu, więc nie patrzyłem przez okno przez ostatnie dwie godziny ponad.
+
+00:06:14.700 --> 00:06:17.700
+A nie, nie. To ja tak mówię przez ostatnie parę dni.
+
+00:06:17.700 --> 00:06:20.700
+I z jednej strony trzeba odśnieżać samochód, co jest bardzo nieprzyjemne,
+
+00:06:20.700 --> 00:06:23.700
+ale z drugiej strony można córkę zabrać na samki, co jest bardzo przyjemne.
+
+00:06:23.700 --> 00:06:24.700
+Więc żeśmy sobie jeździli.
+
+00:06:24.700 --> 00:06:26.700
+Cześć, cześć, cześć. Ty nie masz w garażu?
+
+00:06:26.700 --> 00:06:33.700
+Mam. Ale w garażu? Nie no w ogóle. Po pierwsze w garażu z reguły stoi samochód mojej żony.
+
+00:06:33.700 --> 00:06:35.700
+Więc szanujmy się. Mój stoi na zewnątrz.
+
+00:06:35.700 --> 00:06:40.700
+Po drugie teraz w garażu leżą płytki, które są przygotowane, bo tam robimy taki delikatny remont.
+
+00:06:40.700 --> 00:06:45.700
+I akurat tak są rozłożone, nie można było ich inaczej rozłożyć, bo są takie wielkowymiarowe płytki.
+
+00:06:45.700 --> 00:06:49.700
+Więc leżą na środku garażu, w związku z tym żaden samochód nie stoi w garażu, tylko…
+
+00:06:49.700 --> 00:06:51.700
+Podwójne odśnieżanie.
+
+00:06:51.700 --> 00:06:54.700
+Więc ja codziennie o 7 rano wstaję, żeby odśnieżyć żonie samochód,
+
+00:06:54.700 --> 00:06:57.700
+bo żona zawozi teraz córkę do przedszkola, więc…
+
+00:06:57.700 --> 00:06:58.700
+Kidżantanie.
+
+00:06:58.700 --> 00:07:01.700
+Odśnieżanie mnie przeszkadza. Ożywia trochę człowieka.
+
+00:07:01.700 --> 00:07:02.700
+Dobra.
+
+00:07:02.700 --> 00:07:07.700
+Ochłodzi, więc jest okej. Ale mimo, że jestem boomerem, to jeszcze nie narzekającym tak bardzo na śnieg,
+
+00:07:07.700 --> 00:07:11.700
+więc lubię na sanki zabrać córkę i połazić. I to jest całkiem spoko.
+
+00:07:11.700 --> 00:07:14.700
+Chociaż jak z żoną rozmawiamy, to narzekamy na śnieg.
+
+00:07:14.700 --> 00:07:18.700
+Rozumiemy, jak to w młodości nam się śnieg podobał, a teraz same problemy.
+
+00:07:18.700 --> 00:07:20.700
+Ale śnieg spadł i jest pięknie.
+
+00:07:20.700 --> 00:07:25.700
+Tak, ale jest pięknie. Ja powiem szczerze, że już tak…
+
+00:07:25.700 --> 00:07:32.700
+Moja żona była teraz na wsi u rodziców i tam tyle napadało po prostu tego śniegu.
+
+00:07:32.700 --> 00:07:33.700
+Wysłała mi zdjęcie.
+
+00:07:33.700 --> 00:07:38.700
+Mówię, jak ja już dawno takiej zimy nie widziałem, chociaż zdarza się tak.
+
+00:07:38.700 --> 00:07:43.700
+Co tam, raz w roku to przynajmniej jest taki przez chwilę opad duży śniegu,
+
+00:07:43.700 --> 00:07:47.700
+ale ten też nas nie będzie trzymał długo, bo to już zaraz stopnieje.
+
+00:07:47.700 --> 00:07:52.700
+Już patrzyłem na temperatury i to już Wigilia 10 stopni.
+
+00:07:52.700 --> 00:07:55.700
+No, ale parę dni sanek zaliczonych, więc jest okej.
+
+00:07:55.700 --> 00:07:57.700
+Jest okej. Powiedzmy, że była zima.
+
+00:07:57.700 --> 00:07:59.700
+To jest pierwsza rzecz.
+
+00:07:59.700 --> 00:08:04.700
+Poza tym jest dużo różnych, ale też… Dobra, więc idąc dalej.
+
+00:08:04.700 --> 00:08:07.700
+Wiedźmina 3 ogrywam ciągle, ogrywam ciągle na PS5.
+
+00:08:07.700 --> 00:08:10.700
+Cały czas jest taki problem, że jak się oddaje questa,
+
+00:08:10.700 --> 00:08:12.700
+to jest taka gwałtowna i brutalna ścinka,
+
+00:08:12.700 --> 00:08:15.700
+ale poza tym wszystko chodzi pięknie i wygląda pięknie
+
+00:08:15.700 --> 00:08:16.700
+i jest to cudowna gra.
+
+00:08:16.700 --> 00:08:18.700
+Trybie 60 klasy.
+
+00:08:18.700 --> 00:08:20.700
+60, tak.
+
+00:08:20.700 --> 00:08:23.700
+Chociaż po naszym odcinku ludzie raportowali,
+
+00:08:23.700 --> 00:08:27.700
+że tam potrafią być jakieś błędy,
+
+00:08:27.700 --> 00:08:31.700
+ale to chyba głównie w tym trybie 30 klatek
+
+00:08:31.700 --> 00:08:34.700
+i jest problem z dodatkami.
+
+00:08:34.700 --> 00:08:36.700
+Ja tego nie miałem, muszę przyznać,
+
+00:08:36.700 --> 00:08:40.700
+więc też ciężko mi się do tego odnieść.
+
+00:08:40.700 --> 00:08:42.700
+Ale odniosę się do jednej rzeczy,
+
+00:08:42.700 --> 00:08:44.700
+bo ja powiedziałem, że był zmieniony system walki.
+
+00:08:44.700 --> 00:08:47.700
+Pomyliłem się, posypuję głowę popiołem.
+
+00:08:47.700 --> 00:08:49.700
+Był zmieniony system poruszania się,
+
+00:08:49.700 --> 00:08:51.700
+tej responsywności Geralda
+
+00:08:51.700 --> 00:08:54.700
+i był też zrobiony przez twórców Wiedźmina mod,
+
+00:08:54.700 --> 00:08:56.700
+który zmieniał system walki.
+
+00:08:56.700 --> 00:09:00.700
+Więc coś tam pomieszałem i powiedziałem tak.
+
+00:09:00.700 --> 00:09:04.700
+Przepraszam Państwa bardzo za tą pomyłkę.
+
+00:09:04.700 --> 00:09:08.700
+Szanujmy się.
+
+00:09:08.700 --> 00:09:10.700
+No więc gra się fantastycznie.
+
+00:09:10.700 --> 00:09:12.700
+To jest absolutnie cudowna gra
+
+00:09:12.700 --> 00:09:13.700
+i to się nie zmieni.
+
+00:09:13.700 --> 00:09:15.700
+I nie sądziłem, że będę się bawił aż tak dobrze,
+
+00:09:15.700 --> 00:09:18.700
+więc gram sobie i nagrywam nawet coś na YouTube'a.
+
+00:09:18.700 --> 00:09:21.700
+Teraz w ogóle jest tak, że nagrywam tę grę w 1440p.
+
+00:09:21.700 --> 00:09:23.700
+To nie jest oczywiście 4K,
+
+00:09:23.700 --> 00:09:25.700
+ale już wystarczy YouTube'owi taki plik podesłać
+
+00:09:25.700 --> 00:09:28.700
+w wysokim bitrate'cie, żeby on go za bardzo nie przemielił.
+
+00:09:28.700 --> 00:09:30.700
+I gra nawet na YouTube'ie wygląda bardzo dobrze.
+
+00:09:30.700 --> 00:09:33.700
+Znacznie lepiej niż te 7 lat temu, jak nagrywałem pierwszą serię.
+
+00:09:33.700 --> 00:09:35.700
+Więc zachęcam Państwa, zapraszam.
+
+00:09:35.700 --> 00:09:37.700
+Hashtag autopromocja.
+
+00:09:37.700 --> 00:09:39.700
+Na moim kanale Rockplay dzieją się rzeczy na bieżąco.
+
+00:09:39.700 --> 00:09:41.700
+Dzieją się rzeczy cały czas.
+
+00:09:41.700 --> 00:09:44.700
+No skończyłem Calisto Protocol, też nagrałem.
+
+00:09:44.700 --> 00:09:46.700
+Evie West skończyłem i nagrałem.
+
+00:09:46.700 --> 00:09:47.700
+Odpadłem w końcu na tym bossie.
+
+00:09:47.700 --> 00:09:49.700
+Nie wróciłem do tego i zabiłeś go tam.
+
+00:09:49.700 --> 00:09:50.700
+Wszystko było dobrze.
+
+00:09:50.700 --> 00:09:52.700
+Tak, to jest tak, że on oprócz tego,
+
+00:09:52.700 --> 00:09:54.700
+że strzelasz do niego z broni,
+
+00:09:54.700 --> 00:09:56.700
+największą bronią na niego są takie pałzacze,
+
+00:09:56.700 --> 00:09:58.700
+które wychodzą i one, musisz je zestrzelić.
+
+00:09:58.700 --> 00:10:01.700
+To je łapiesz rękawicą i rzucasz w niego.
+
+00:10:01.700 --> 00:10:04.700
+I to go zabiło u mnie ostatecznie.
+
+00:10:04.700 --> 00:10:06.700
+No, więc to też jest jakaś metoda.
+
+00:10:06.700 --> 00:10:08.700
+No, więc to i to skończyłem.
+
+00:10:08.700 --> 00:10:11.700
+Evie West, fatalny moment na premierę,
+
+00:10:11.700 --> 00:10:13.700
+bo to jest te Mistrzostwa Świata.
+
+00:10:13.700 --> 00:10:15.700
+Zresztą Calisto Protocol chyba też na tym sracił.
+
+00:10:15.700 --> 00:10:17.700
+To nie jest, dużo osób mówi o Mistrzostwach Świata.
+
+00:10:17.700 --> 00:10:20.700
+A propos Mistrzostw Świata, jak tam finał?
+
+00:10:20.700 --> 00:10:23.700
+To był chyba najlepszy finał, jaki pamiętam.
+
+00:10:23.700 --> 00:10:26.700
+A widziałem wszystkie od, nie wiem,
+
+00:10:26.700 --> 00:10:29.700
+no tam powiedzmy trzydziestu paru lat.
+
+00:10:29.700 --> 00:10:31.700
+I fantastyczny mecz.
+
+00:10:31.700 --> 00:10:32.700
+Fantastyczny mecz.
+
+00:10:32.700 --> 00:10:35.700
+Boże, zmieniało się cały czas.
+
+00:10:35.700 --> 00:10:36.700
+Ta Francja płynęła.
+
+00:10:36.700 --> 00:10:37.700
+Ale kto wygrał?
+
+00:10:37.700 --> 00:10:38.700
+A, bo ty nie oglądałeś.
+
+00:10:38.700 --> 00:10:39.700
+Dobra.
+
+00:10:39.700 --> 00:10:40.700
+Ja nie dla siebie, a dla państwa,
+
+00:10:40.700 --> 00:10:42.700
+którzy byś może nie oglądał.
+
+00:10:42.700 --> 00:10:44.700
+Argentyna wygrała w karne.
+
+00:10:44.700 --> 00:10:46.700
+I to tak naprawdę po błędach Francuzów.
+
+00:10:46.700 --> 00:10:50.700
+Więc, znaczy karne zawsze się wygrywa po błędach.
+
+00:10:50.700 --> 00:10:52.700
+No nie, niekoniecznie.
+
+00:10:52.700 --> 00:10:55.700
+Chyba, że nie strzeli swoich karnych.
+
+00:10:55.700 --> 00:10:56.700
+No tak, no tak.
+
+00:10:56.700 --> 00:10:57.700
+A, no to tak.
+
+00:10:57.700 --> 00:11:01.700
+No bo cudzych jak strzelasz, to się nie liczy.
+
+00:11:01.700 --> 00:11:04.700
+Nie, myślałem przez chwilę, że sugerujesz,
+
+00:11:04.700 --> 00:11:07.700
+że wpuszczenie karnego to jest błąd bramkarza.
+
+00:11:07.700 --> 00:11:08.700
+Absolutnie nie jest.
+
+00:11:08.700 --> 00:11:09.700
+Nie, nie, nie.
+
+00:11:09.700 --> 00:11:12.700
+Raczej jest tak, że jak nie strzelisz karnego,
+
+00:11:12.700 --> 00:11:14.700
+no to jest twój błąd po prostu.
+
+00:11:14.700 --> 00:11:16.700
+Chociaż te Mistrzostwa,
+
+00:11:16.700 --> 00:11:17.700
+to było coś niewiarygodnego,
+
+00:11:17.700 --> 00:11:20.700
+ile karnych nie strzelono.
+
+00:11:20.700 --> 00:11:23.700
+To niewiarygodne po prostu dla mnie coś takiego.
+
+00:11:23.700 --> 00:11:24.700
+No tak.
+
+00:11:24.700 --> 00:11:26.700
+Polakom też nie strzelono paru karnych.
+
+00:11:26.700 --> 00:11:27.700
+To prawda.
+
+00:11:27.700 --> 00:11:28.700
+To dobrze.
+
+00:11:28.700 --> 00:11:29.700
+Być może gdybyśmy poszli dalej,
+
+00:11:29.700 --> 00:11:30.700
+to by więcej karnych na mnie strzelili,
+
+00:11:30.700 --> 00:11:32.700
+ale tego się nie dowiemy nigdy.
+
+00:11:32.700 --> 00:11:33.700
+Nigdy się nie dowiemy.
+
+00:11:33.700 --> 00:11:35.700
+Więc finał piękny.
+
+00:11:35.700 --> 00:11:38.700
+Mistrzostwa takie.
+
+00:11:38.700 --> 00:11:40.700
+Jednak zdecydowanie wolę,
+
+00:11:40.700 --> 00:11:44.700
+żeby te Mistrzostwa odbywały się w czerwcu.
+
+00:11:44.700 --> 00:11:45.700
+I może w jakimś kraju,
+
+00:11:45.700 --> 00:11:49.700
+który chociaż w minimalnym stopniu szanuje prawa człowieka.
+
+00:11:49.700 --> 00:11:50.700
+To by było spoko.
+
+00:11:50.700 --> 00:11:52.700
+Takie małe mam życzenia.
+
+00:11:52.700 --> 00:11:54.700
+Nawet nie wiem, gdzie jest ten następny mundial.
+
+00:11:54.700 --> 00:11:57.700
+A już pewnie wybrany.
+
+00:11:57.700 --> 00:11:58.700
+Pewnie tak.
+
+00:11:58.700 --> 00:12:00.700
+Może w Rosji będziemy szli tym.
+
+00:12:00.700 --> 00:12:01.700
+Nie, to już było.
+
+00:12:01.700 --> 00:12:03.700
+Ja wiem.
+
+00:12:03.700 --> 00:12:04.700
+Ja wiem.
+
+00:12:04.700 --> 00:12:05.700
+I co poza tym?
+
+00:12:05.700 --> 00:12:07.700
+Cały czas Mistrzostwa Świata oglądałeś?
+
+00:12:07.700 --> 00:12:08.700
+Oglądałem.
+
+00:12:08.700 --> 00:12:10.700
+Jeszcze oglądałem Ricka i Mortiego.
+
+00:12:10.700 --> 00:12:12.700
+Bo nagraliśmy już z Justyną Mazur
+
+00:12:12.700 --> 00:12:13.700
+odcinek o serialach.
+
+00:12:13.700 --> 00:12:14.700
+I tak mnie wzięło.
+
+00:12:14.700 --> 00:12:16.700
+I obejrzałem sobie od tego czasu.
+
+00:12:16.700 --> 00:12:18.700
+Nagraliśmy go w czwartek.
+
+00:12:18.700 --> 00:12:20.700
+W czwartek nagrywaliśmy.
+
+00:12:20.700 --> 00:12:22.700
+Obejrzałem Ricka Mortiego,
+
+00:12:22.700 --> 00:12:23.700
+szósty sezon.
+
+00:12:23.700 --> 00:12:26.700
+Jezus Maria, to jest tak dobre.
+
+00:12:26.700 --> 00:12:28.700
+Czy tam są takie rzeczy?
+
+00:12:28.700 --> 00:12:30.700
+Tam jest odcinek w ogóle o scenariuszach
+
+00:12:30.700 --> 00:12:31.700
+i o fabule,
+
+00:12:31.700 --> 00:12:33.700
+który jest doskonały.
+
+00:12:33.700 --> 00:12:34.700
+Doskonały.
+
+00:12:34.700 --> 00:12:36.700
+Jest tam taka jedna scena,
+
+00:12:36.700 --> 00:12:38.700
+gdzie prezydent USA
+
+00:12:38.700 --> 00:12:40.700
+recenzuje Gwiezdne Wojny.
+
+00:12:40.700 --> 00:12:42.700
+I to jest...
+
+00:12:42.700 --> 00:12:44.700
+Powiem Ci tak.
+
+00:12:44.700 --> 00:12:47.700
+Ja mam...
+
+00:12:47.700 --> 00:12:49.700
+W ogóle Ricka i Mortiego
+
+00:12:49.700 --> 00:12:51.700
+absolutnie uwielbiam.
+
+00:12:51.700 --> 00:12:54.700
+Jak ja sobie robiłem listę,
+
+00:12:54.700 --> 00:12:56.700
+ile obejrzałem różnych seriali,
+
+00:12:56.700 --> 00:12:58.700
+czy tam sezonów seriali
+
+00:12:58.700 --> 00:13:01.700
+i wyszło mi tam 40 seriali różnych,
+
+00:13:01.700 --> 00:13:02.700
+jakie obejrzałem.
+
+00:13:02.700 --> 00:13:04.700
+Znaczy, z różnych sezonów seriali.
+
+00:13:04.700 --> 00:13:05.700
+No to w tym był...
+
+00:13:05.700 --> 00:13:07.700
+Odkryłem, że w tym roku
+
+00:13:07.700 --> 00:13:08.700
+dwa razy obejrzałem
+
+00:13:08.700 --> 00:13:10.700
+wszystkie sezony Ricka i Mortiego.
+
+00:13:10.700 --> 00:13:12.700
+No.
+
+00:13:12.700 --> 00:13:15.700
+Kultowe to jest zdecydowanie.
+
+00:13:15.700 --> 00:13:16.700
+To jest doskonale.
+
+00:13:16.700 --> 00:13:17.700
+Ja Ci powiem, że obejrzałem
+
+00:13:17.700 --> 00:13:19.700
+trzy sezony tylko Ricka i Mortiego,
+
+00:13:19.700 --> 00:13:20.700
+jak był na Netflixie,
+
+00:13:20.700 --> 00:13:21.700
+ale po każdym sezonie
+
+00:13:21.700 --> 00:13:22.700
+miałem taki ogromny niedosyt.
+
+00:13:22.700 --> 00:13:24.700
+Ja lubię sobie odkładać takie rzeczy
+
+00:13:24.700 --> 00:13:25.700
+i wiem, że każdy kolejny sezon
+
+00:13:25.700 --> 00:13:27.700
+ja potem sobie obejrzę to w całości
+
+00:13:27.700 --> 00:13:28.700
+i będę się doskonale bawił.
+
+00:13:28.700 --> 00:13:30.700
+Chociaż po tej Twojej rekomendacji teraz
+
+00:13:30.700 --> 00:13:32.700
+to chyba sięgnę jednak potem wcześniej.
+
+00:13:32.700 --> 00:13:34.700
+Teraz szósty sezon wychodzi, tak?
+
+00:13:34.700 --> 00:13:36.700
+Tak, wszystko jest na HBO, tak.
+
+00:13:36.700 --> 00:13:39.700
+Wyszedł już, jest cały i...
+
+00:13:39.700 --> 00:13:42.700
+A odcinek o tym,
+
+00:13:42.700 --> 00:13:44.700
+że seks z klonem jest masturbacją,
+
+00:13:44.700 --> 00:13:48.700
+to jest coś doskonałego.
+
+00:13:48.700 --> 00:13:49.700
+Okej, okej.
+
+00:13:49.700 --> 00:13:51.700
+Spoiler alert!
+
+00:13:51.700 --> 00:13:55.700
+Jest to tak dobrze zrobione,
+
+00:13:55.700 --> 00:13:57.700
+że jestem w szoku,
+
+00:13:57.700 --> 00:14:01.700
+że oni potrafią jeszcze...
+
+00:14:01.700 --> 00:14:03.700
+Przez tyle sezonów
+
+00:14:03.700 --> 00:14:05.700
+byli tak niesamowicie kreatywni
+
+00:14:05.700 --> 00:14:07.700
+i jeszcze potrafią to,
+
+00:14:07.700 --> 00:14:09.700
+nie wiem czy przebić,
+
+00:14:09.700 --> 00:14:12.700
+ale utrzymać poziom.
+
+00:14:12.700 --> 00:14:13.700
+Są takie legendarne rzeczy,
+
+00:14:13.700 --> 00:14:14.700
+które...
+
+00:14:14.700 --> 00:14:16.700
+South Park chyba też przez długi czas
+
+00:14:16.700 --> 00:14:18.700
+miał swoje doskonałe sezony,
+
+00:14:18.700 --> 00:14:20.700
+nawet daleko, daleko po premierze.
+
+00:14:20.700 --> 00:14:21.700
+Ja nie wiem,
+
+00:14:21.700 --> 00:14:23.700
+bo ja trochę zgubiłem już South Park.
+
+00:14:23.700 --> 00:14:25.700
+Ja jestem wielkim fanem filmu
+
+00:14:25.700 --> 00:14:26.700
+pełnometrażowego.
+
+00:14:26.700 --> 00:14:28.700
+A tak, jak najbardziej.
+
+00:14:28.700 --> 00:14:29.700
+O Kanadyjczykach,
+
+00:14:29.700 --> 00:14:30.700
+którzy puszczali bąki,
+
+00:14:30.700 --> 00:14:31.700
+dobrze pamiętam?
+
+00:14:31.700 --> 00:14:32.700
+Tak, dokładnie, musical.
+
+00:14:32.700 --> 00:14:34.700
+No i obejrzałem jeszcze The Office,
+
+00:14:34.700 --> 00:14:36.700
+sezon drugi, polski
+
+00:14:36.700 --> 00:14:37.700
+i też jest niezły
+
+00:14:37.700 --> 00:14:38.700
+i też trzyma poziom.
+
+00:14:38.700 --> 00:14:40.700
+Polecam Państwu.
+
+00:14:40.700 --> 00:14:41.700
+Pewnie, że tak.
+
+00:14:41.700 --> 00:14:43.700
+A powiedz mi...
+
+00:14:43.700 --> 00:14:45.700
+Nie wiem, czy tutaj mam dużo do powiedzenia, ale...
+
+00:14:45.700 --> 00:14:46.700
+Chciałem się ciebie zapytać,
+
+00:14:46.700 --> 00:14:47.700
+znowu,
+
+00:14:47.700 --> 00:14:48.700
+a propos podcastu z Justyną,
+
+00:14:48.700 --> 00:14:50.700
+to kiedy on się przytrafi Państwu
+
+00:14:50.700 --> 00:14:51.700
+do obejrzenia?
+
+00:14:51.700 --> 00:14:53.700
+Nie wiem.
+
+00:14:53.700 --> 00:14:54.700
+A, jeszcze mamy niezaplanowane.
+
+00:14:54.700 --> 00:14:56.700
+Mamy już zaplanowane dni,
+
+00:14:56.700 --> 00:14:57.700
+w których puszczamy,
+
+00:14:57.700 --> 00:14:59.700
+to już tam jest ogarnięte,
+
+00:14:59.700 --> 00:15:01.700
+bo będziemy już tak robić,
+
+00:15:01.700 --> 00:15:02.700
+jak zawsze.
+
+00:15:02.700 --> 00:15:03.700
+Czyli kiedy jest wolny dzień,
+
+00:15:03.700 --> 00:15:04.700
+to nie puszczamy,
+
+00:15:04.700 --> 00:15:06.700
+puszczamy w poniedziałek
+
+00:15:06.700 --> 00:15:07.700
+i w czwartek,
+
+00:15:07.700 --> 00:15:09.700
+po prostu jak jest...
+
+00:15:09.700 --> 00:15:10.700
+Jak są dni niewolne.
+
+00:15:10.700 --> 00:15:12.700
+Dni niewolne, tak.
+
+00:15:12.700 --> 00:15:13.700
+Jak Państwo są zniewoleni
+
+00:15:13.700 --> 00:15:14.700
+przez pracę i inne obowiązki,
+
+00:15:14.700 --> 00:15:15.700
+to można nas usłyszeć
+
+00:15:15.700 --> 00:15:16.700
+w ramach rekompensaty
+
+00:15:16.700 --> 00:15:17.700
+tych przykrych rzeczy.
+
+00:15:17.700 --> 00:15:18.700
+Tak.
+
+00:15:18.700 --> 00:15:19.700
+I chciałem powiedzieć też,
+
+00:15:19.700 --> 00:15:20.700
+że to w ogóle
+
+00:15:20.700 --> 00:15:21.700
+bardzo mi się
+
+00:15:21.700 --> 00:15:22.700
+fajnie rozmawiało z Justyną
+
+00:15:22.700 --> 00:15:23.700
+i ona też powiedziała,
+
+00:15:23.700 --> 00:15:24.700
+że nie spodziewała się,
+
+00:15:24.700 --> 00:15:26.700
+że u nas jest taka przyjazna atmosfera.
+
+00:15:26.700 --> 00:15:27.700
+Czy mamy takie...
+
+00:15:27.700 --> 00:15:28.700
+Czy Państwo mają takie wrażenie,
+
+00:15:28.700 --> 00:15:29.700
+że u nas jest
+
+00:15:29.700 --> 00:15:30.700
+nieprzyjazna atmosfera?
+
+00:15:30.700 --> 00:15:31.700
+Ona jest bardzo przyjazna,
+
+00:15:31.700 --> 00:15:33.700
+rodzinna w rzecz atmosfera.
+
+00:15:33.700 --> 00:15:34.700
+Wiesz co, mamy trochę
+
+00:15:34.700 --> 00:15:35.700
+wspólnych znajomych,
+
+00:15:35.700 --> 00:15:36.700
+może coś nagadali,
+
+00:15:36.700 --> 00:15:38.700
+nie wiadomo, no.
+
+00:15:38.700 --> 00:15:40.700
+Może tak, może tak.
+
+00:15:40.700 --> 00:15:41.700
+Ale tak, było super,
+
+00:15:41.700 --> 00:15:42.700
+było super sympatycznie,
+
+00:15:42.700 --> 00:15:44.700
+to na pewno.
+
+00:15:44.700 --> 00:15:45.700
+To co?
+
+00:15:45.700 --> 00:15:46.700
+Opowiadać dalej
+
+00:15:46.700 --> 00:15:47.700
+o moich tutaj przygodach?
+
+00:15:47.700 --> 00:15:48.700
+No opowiedz,
+
+00:15:48.700 --> 00:15:49.700
+jak masz dalej przygody,
+
+00:15:49.700 --> 00:15:50.700
+to opowiadaj.
+
+00:15:50.700 --> 00:15:51.700
+A propos Ricka i Morty'ego,
+
+00:15:51.700 --> 00:15:52.700
+oczywiście należałoby też
+
+00:15:52.700 --> 00:15:53.700
+rzucić okiem na grę
+
+00:15:53.700 --> 00:15:54.700
+High on Life,
+
+00:15:54.700 --> 00:15:55.700
+która chyba cierpi
+
+00:15:55.700 --> 00:15:56.700
+na dokładnie to samo,
+
+00:15:56.700 --> 00:15:57.700
+co wymienione wcześniej
+
+00:15:57.700 --> 00:15:58.700
+Evil West i Callisto Protocol.
+
+00:15:58.700 --> 00:15:59.700
+To nie jest dobry czas
+
+00:15:59.700 --> 00:16:00.700
+na premiery gier.
+
+00:16:00.700 --> 00:16:01.700
+Nie wiem, jak ten High on Life
+
+00:16:01.700 --> 00:16:02.700
+się ogląda,
+
+00:16:02.700 --> 00:16:03.700
+znaczy jak się ogrywa.
+
+00:16:03.700 --> 00:16:04.700
+Sądzę, że nie jakoś wybitnie.
+
+00:16:04.700 --> 00:16:05.700
+On jest w Game Passie dostępny.
+
+00:16:05.700 --> 00:16:06.700
+Natomiast jeżeli ktoś
+
+00:16:06.700 --> 00:16:08.700
+jest fanem Ricka i Morty'ego,
+
+00:16:08.700 --> 00:16:09.700
+naprawdę gorąco polecam,
+
+00:16:09.700 --> 00:16:10.700
+bo to jest gra
+
+00:16:10.700 --> 00:16:11.700
+z bardzo dobrym gameplayem,
+
+00:16:11.700 --> 00:16:12.700
+to znaczy takim
+
+00:16:12.700 --> 00:16:13.700
+poprawnym gameplayem,
+
+00:16:13.700 --> 00:16:14.700
+shooterowym.
+
+00:16:14.700 --> 00:16:15.700
+Ja się w ogóle nie zgodzę.
+
+00:16:15.700 --> 00:16:16.700
+Shooterowo to tam,
+
+00:16:16.700 --> 00:16:17.700
+ja grałem w tą grę godzinę może
+
+00:16:17.700 --> 00:16:19.700
+i uważam, że to strzelanie
+
+00:16:19.700 --> 00:16:21.700
+tam jest takie super
+
+00:16:21.700 --> 00:16:23.700
+nijakie.
+
+00:16:23.700 --> 00:16:24.700
+Ja wiem,
+
+00:16:24.700 --> 00:16:26.700
+no takie poprawne powiedziałem.
+
+00:16:26.700 --> 00:16:27.700
+No takie...
+
+00:16:27.700 --> 00:16:28.700
+No to nie jest, wiesz,
+
+00:16:28.700 --> 00:16:29.700
+to nie jest Destiny,
+
+00:16:29.700 --> 00:16:30.700
+no dobra, dobra.
+
+00:16:30.700 --> 00:16:31.700
+Nie, no tam strzelanie
+
+00:16:31.700 --> 00:16:32.700
+to takie właśnie,
+
+00:16:32.700 --> 00:16:34.700
+że ja miałem takie wrażenie,
+
+00:16:34.700 --> 00:16:35.700
+że gameplayowo ta gra
+
+00:16:35.700 --> 00:16:38.700
+jest taka nijaka.
+
+00:16:38.700 --> 00:16:39.700
+Nie jest odkrywcza,
+
+00:16:39.700 --> 00:16:40.700
+bo to nie gameplayem
+
+00:16:40.700 --> 00:16:41.700
+ona stoi.
+
+00:16:41.700 --> 00:16:42.700
+Powiedziałem, że jest poprawnie,
+
+00:16:42.700 --> 00:16:43.700
+bo tak uważam.
+
+00:16:43.700 --> 00:16:45.700
+Natomiast te wszystkie rozmowy
+
+00:16:45.700 --> 00:16:46.700
+między postaciami,
+
+00:16:46.700 --> 00:16:47.700
+to, że praktycznie jesteś
+
+00:16:47.700 --> 00:16:49.700
+non-stop zakrzykiwany żartami,
+
+00:16:49.700 --> 00:16:50.700
+które są właściwie
+
+00:16:50.700 --> 00:16:51.700
+na takim poziomie
+
+00:16:51.700 --> 00:16:52.700
+Ricka i Morty'ego,
+
+00:16:52.700 --> 00:16:53.700
+można to lubić,
+
+00:16:53.700 --> 00:16:54.700
+można tego nie lubić.
+
+00:16:54.700 --> 00:16:55.700
+To jest coś, co mi odpowiada,
+
+00:16:55.700 --> 00:16:56.700
+więc jeżeli ktoś
+
+00:16:56.700 --> 00:16:58.700
+przegapił High on Life,
+
+00:16:58.700 --> 00:16:59.700
+no to warto sobie w Game Passie
+
+00:16:59.700 --> 00:17:00.700
+sprawdzić, bo skoro jest,
+
+00:17:00.700 --> 00:17:01.700
+no to przecież
+
+00:17:01.700 --> 00:17:02.700
+to jest dobra cena.
+
+00:17:02.700 --> 00:17:03.700
+No warto, warto,
+
+00:17:03.700 --> 00:17:04.700
+ale warto przypomnieć,
+
+00:17:04.700 --> 00:17:06.700
+że Microsoft po raz kolejny
+
+00:17:06.700 --> 00:17:08.700
+pluje Polakom w twarz
+
+00:17:08.700 --> 00:17:10.700
+i wrzuca do Game Passa
+
+00:17:10.700 --> 00:17:12.700
+grę, która nie ma
+
+00:17:12.700 --> 00:17:13.700
+polskiej wersji.
+
+00:17:13.700 --> 00:17:14.700
+No faktycznie.
+
+00:17:14.700 --> 00:17:15.700
+To prawda.
+
+00:17:15.700 --> 00:17:16.700
+Też na to zwracałem uwagę
+
+00:17:16.700 --> 00:17:17.700
+w swoim nagraniu.
+
+00:17:17.700 --> 00:17:18.700
+I to jest dla mnie
+
+00:17:18.700 --> 00:17:21.700
+strasznie niefajne.
+
+00:17:21.700 --> 00:17:22.700
+W ogóle Microsoft
+
+00:17:22.700 --> 00:17:23.700
+to w tym roku
+
+00:17:23.700 --> 00:17:25.700
+żółta kartka ode mnie.
+
+00:17:25.700 --> 00:17:26.700
+Serio.
+
+00:17:26.700 --> 00:17:27.700
+To, że tak,
+
+00:17:27.700 --> 00:17:31.700
+nie ma dużych gier od nich.
+
+00:17:31.700 --> 00:17:34.700
+Druga rzecz, brak tylu
+
+00:17:34.700 --> 00:17:36.700
+fajnych gier, które pojawiły się
+
+00:17:36.700 --> 00:17:37.700
+w Game Passie,
+
+00:17:37.700 --> 00:17:38.700
+nie ma polskiej wersji.
+
+00:17:38.700 --> 00:17:40.700
+Sorry, jakby akurat to
+
+00:17:40.700 --> 00:17:41.700
+ich będę rozliczał,
+
+00:17:41.700 --> 00:17:43.700
+bo tak jak kupuję grę,
+
+00:17:43.700 --> 00:17:44.700
+to ja decyduję,
+
+00:17:44.700 --> 00:17:45.700
+czy ją kupuję czy nie
+
+00:17:45.700 --> 00:17:46.700
+i wcześniej wiem,
+
+00:17:46.700 --> 00:17:47.700
+a w tym momencie
+
+00:17:47.700 --> 00:17:48.700
+płacę z góry
+
+00:17:48.700 --> 00:17:49.700
+za jakieś gry,
+
+00:17:49.700 --> 00:17:50.700
+które do końca nie wiem,
+
+00:17:50.700 --> 00:17:51.700
+jakie się pojawią,
+
+00:17:51.700 --> 00:17:52.700
+jakie się nie pojawią
+
+00:17:52.700 --> 00:17:53.700
+i dostaję coś,
+
+00:17:53.700 --> 00:17:54.700
+co jest na polskim rynku,
+
+00:17:54.700 --> 00:17:56.700
+jest dla Polaków,
+
+00:17:56.700 --> 00:17:57.700
+za polskie pieniądze
+
+00:17:57.700 --> 00:17:58.700
+ciężko zarobione,
+
+00:17:58.700 --> 00:18:00.700
+kupione i nie ma
+
+00:18:00.700 --> 00:18:01.700
+języka polskiego.
+
+00:18:01.700 --> 00:18:02.700
+Nie podoba mi się to bardzo.
+
+00:18:02.700 --> 00:18:03.700
+To tak, jakbyś na Netflixie
+
+00:18:03.700 --> 00:18:04.700
+dostawał rzeczy
+
+00:18:04.700 --> 00:18:05.700
+albo w księgarni
+
+00:18:05.700 --> 00:18:06.700
+były tylko książki
+
+00:18:06.700 --> 00:18:07.700
+po angielsku, nie?
+
+00:18:07.700 --> 00:18:09.700
+No tak, tak.
+
+00:18:09.700 --> 00:18:10.700
+Zgadza się.
+
+00:18:10.700 --> 00:18:13.700
+To nie powinno mieć miejsca.
+
+00:18:13.700 --> 00:18:14.700
+Nie wiem, dlaczego tak jest
+
+00:18:14.700 --> 00:18:15.700
+i kto za to odpowiada,
+
+00:18:15.700 --> 00:18:16.700
+ale ktoś tutaj
+
+00:18:16.700 --> 00:18:18.700
+powinien za to odpowiedzieć.
+
+00:18:18.700 --> 00:18:20.700
+Ostatnio Archon wrzucił
+
+00:18:20.700 --> 00:18:21.700
+takiego tweeta,
+
+00:18:21.700 --> 00:18:22.700
+że jego film
+
+00:18:22.700 --> 00:18:24.700
+o Final Fantasy
+
+00:18:24.700 --> 00:18:25.700
+się nie ogląda.
+
+00:18:25.700 --> 00:18:26.700
+On kocha tą serię,
+
+00:18:26.700 --> 00:18:27.700
+ale sam wskazał tam
+
+00:18:27.700 --> 00:18:29.700
+za jedną z możliwych przyczyn
+
+00:18:29.700 --> 00:18:31.700
+tego, że po prostu
+
+00:18:31.700 --> 00:18:33.700
+ta gra nigdy nie miała
+
+00:18:33.700 --> 00:18:35.700
+polskiego języka, nie?
+
+00:18:35.700 --> 00:18:37.700
+Nie ma takich za bardzo
+
+00:18:37.700 --> 00:18:39.700
+dzieł kultury,
+
+00:18:39.700 --> 00:18:41.700
+może Państwo mnie wyjaśnią,
+
+00:18:41.700 --> 00:18:44.700
+które opierałyby się
+
+00:18:44.700 --> 00:18:46.700
+w jakiś sposób na fabule
+
+00:18:46.700 --> 00:18:48.700
+i byłyby popularne w Polsce,
+
+00:18:48.700 --> 00:18:51.700
+ale nie miałyby języka polskiego.
+
+00:18:51.700 --> 00:18:53.700
+No bo wiadomo, że są gry,
+
+00:18:53.700 --> 00:18:54.700
+które, gdzie, wiesz...
+
+00:18:54.700 --> 00:18:55.700
+Myślę, że jest sporo muzyki
+
+00:18:55.700 --> 00:18:56.700
+w Polsce popularnej,
+
+00:18:56.700 --> 00:18:58.700
+które to są dzieła kultury.
+
+00:18:58.700 --> 00:18:59.700
+Ale ja nie wiem,
+
+00:18:59.700 --> 00:19:00.700
+czy na fabule się muzyka...
+
+00:19:00.700 --> 00:19:01.700
+To jest stół strzał w kolano,
+
+00:19:01.700 --> 00:19:02.700
+przepraszam, przepraszam.
+
+00:19:02.700 --> 00:19:03.700
+To nie...
+
+00:19:03.700 --> 00:19:04.700
+Nie mówiłem tego serio.
+
+00:19:04.700 --> 00:19:05.700
+No muzyka to jest wiadomo,
+
+00:19:05.700 --> 00:19:07.700
+że to jest...
+
+00:19:07.700 --> 00:19:09.700
+Muzyka swoim językiem się pozługuje.
+
+00:19:09.700 --> 00:19:11.700
+No ale książki,
+
+00:19:11.700 --> 00:19:13.700
+nie wiem, podcasty nawet,
+
+00:19:13.700 --> 00:19:15.700
+gry, filmy.
+
+00:19:15.700 --> 00:19:17.700
+No jak nie ma polskiej wersji w ogóle.
+
+00:19:17.700 --> 00:19:19.700
+Z filmami to jest najprościej, nie?
+
+00:19:19.700 --> 00:19:20.700
+Bo to zawsze tam
+
+00:19:20.700 --> 00:19:22.700
+ktoś zrobi to tłumaczenie.
+
+00:19:22.700 --> 00:19:24.700
+Kiedyś to była taka mocna scena
+
+00:19:24.700 --> 00:19:27.700
+tych napisów do filmów.
+
+00:19:27.700 --> 00:19:29.700
+No ale ja sobie nie wyobrażam,
+
+00:19:29.700 --> 00:19:30.700
+żeby na przykład...
+
+00:19:30.700 --> 00:19:32.700
+No jeżeli porównujemy Game Passa
+
+00:19:32.700 --> 00:19:35.700
+do Netflixa czy do HBO,
+
+00:19:35.700 --> 00:19:36.700
+no to ja sobie nie wyobrażam,
+
+00:19:36.700 --> 00:19:39.700
+że HBO wrzuca, nie wiem,
+
+00:19:39.700 --> 00:19:40.700
+na przykład, nie wiem,
+
+00:19:40.700 --> 00:19:41.700
+Wednesday byłoby
+
+00:19:41.700 --> 00:19:43.700
+albo Wiedźmin
+
+00:19:43.700 --> 00:19:45.700
+i byłby bez polskich napisów,
+
+00:19:45.700 --> 00:19:46.700
+tylko po angielsku, nie?
+
+00:19:46.700 --> 00:19:47.700
+Tak, tak.
+
+00:19:47.700 --> 00:19:48.700
+To jest coś,
+
+00:19:48.700 --> 00:19:49.700
+co nie powinno mieć miejsca.
+
+00:19:49.700 --> 00:19:50.700
+Nawet powiedziałbym,
+
+00:19:50.700 --> 00:19:52.700
+że Sony wybitnie sobie z tym radzi,
+
+00:19:52.700 --> 00:19:54.700
+bo te dubbingi są świetne.
+
+00:19:54.700 --> 00:19:55.700
+Powiedziałbym,
+
+00:19:55.700 --> 00:19:56.700
+że Activision Blizzard
+
+00:19:56.700 --> 00:19:57.700
+też sobie radzi,
+
+00:19:57.700 --> 00:19:58.700
+pomijając WoWa,
+
+00:19:58.700 --> 00:19:59.700
+który nie ma polskiej wersji językowej.
+
+00:19:59.700 --> 00:20:00.700
+No to jest ciekawe dla nas.
+
+00:20:00.700 --> 00:20:01.700
+Co jest pewną boleścią,
+
+00:20:01.700 --> 00:20:03.700
+ale wszystkie pozostałe gry
+
+00:20:03.700 --> 00:20:05.700
+są świetnie zdubbingowane
+
+00:20:05.700 --> 00:20:08.700
+i warto je ogrywać po polsku.
+
+00:20:08.700 --> 00:20:09.700
+A tym bardziej,
+
+00:20:09.700 --> 00:20:11.700
+że w przypadku Ricka i Mortiego
+
+00:20:11.700 --> 00:20:13.700
+mamy świetną obsadę tutaj
+
+00:20:13.700 --> 00:20:14.700
+polskich aktorów,
+
+00:20:14.700 --> 00:20:15.700
+którzy występują w polskiej wersji
+
+00:20:15.700 --> 00:20:16.700
+Ricka i Mortiego
+
+00:20:16.700 --> 00:20:17.700
+i fantastycznie sobie radzą
+
+00:20:17.700 --> 00:20:18.700
+w tej polskiej wersji.
+
+00:20:18.700 --> 00:20:19.700
+Tak, ten dubbing
+
+00:20:19.700 --> 00:20:20.700
+w Ricku i Mortiem
+
+00:20:20.700 --> 00:20:22.700
+jest fantastyczny.
+
+00:20:22.700 --> 00:20:24.700
+No bardzo jest podobny
+
+00:20:24.700 --> 00:20:25.700
+do wersji oryginalnej
+
+00:20:25.700 --> 00:20:28.700
+i ma swój taki sznyt
+
+00:20:28.700 --> 00:20:30.700
+i ci aktorzy zupełnie spokojnie
+
+00:20:30.700 --> 00:20:31.700
+mogliby w tej wersji
+
+00:20:31.700 --> 00:20:32.700
+High on Life wystąpić,
+
+00:20:32.700 --> 00:20:33.700
+no bo te głosy,
+
+00:20:33.700 --> 00:20:34.700
+podobieństwo głosów
+
+00:20:34.700 --> 00:20:35.700
+High on Life i Ricka i Mortiego
+
+00:20:35.700 --> 00:20:36.700
+nie jest przypadkowe.
+
+00:20:36.700 --> 00:20:37.700
+No tak.
+
+00:20:37.700 --> 00:20:38.700
+To są ci sami ludzie
+
+00:20:38.700 --> 00:20:39.700
+i powinno być,
+
+00:20:39.700 --> 00:20:40.700
+więc to świetna była okazja,
+
+00:20:40.700 --> 00:20:42.700
+żeby to zrobić po polsku.
+
+00:20:42.700 --> 00:20:43.700
+No ale nie zrobili,
+
+00:20:43.700 --> 00:20:44.700
+to źle,
+
+00:20:44.700 --> 00:20:45.700
+to też ode mnie też minusik.
+
+00:20:45.700 --> 00:20:46.700
+Nieładnie Microsoft,
+
+00:20:46.700 --> 00:20:47.700
+naprawdę nieładnie.
+
+00:20:47.700 --> 00:20:49.700
+I trzecia rzecz to,
+
+00:20:49.700 --> 00:20:51.700
+że gadane było,
+
+00:20:51.700 --> 00:20:52.700
+no wiadomo,
+
+00:20:52.700 --> 00:20:53.700
+że to był pstryczek
+
+00:20:53.700 --> 00:20:54.700
+w nos PlayStation,
+
+00:20:54.700 --> 00:20:55.700
+ale gadali, gadali,
+
+00:20:55.700 --> 00:20:57.700
+że tam gdzie,
+
+00:20:57.700 --> 00:20:58.700
+że oni chcą być
+
+00:20:58.700 --> 00:20:59.700
+na każdej platformie,
+
+00:20:59.700 --> 00:21:00.700
+ale na Steam Decku
+
+00:21:00.700 --> 00:21:01.700
+ich nie ma.
+
+00:21:01.700 --> 00:21:02.700
+I nie da się tak naprawdę
+
+00:21:02.700 --> 00:21:03.700
+uruchomić,
+
+00:21:03.700 --> 00:21:04.700
+znaczy musisz mieć Windowsa,
+
+00:21:04.700 --> 00:21:07.700
+żeby uruchomić Game Passa
+
+00:21:07.700 --> 00:21:09.700
+na Steam Decku.
+
+00:21:09.700 --> 00:21:10.700
+No i to też jest taka rzecz,
+
+00:21:10.700 --> 00:21:12.700
+że stawiam,
+
+00:21:12.700 --> 00:21:13.700
+że mogliby to zrobić
+
+00:21:13.700 --> 00:21:15.700
+bez problemu,
+
+00:21:15.700 --> 00:21:17.700
+ale może za bardzo
+
+00:21:17.700 --> 00:21:19.700
+lubią tego Windowsa
+
+00:21:19.700 --> 00:21:21.700
+i nie chcą nagle tutaj mówić,
+
+00:21:21.700 --> 00:21:22.700
+ej gracze,
+
+00:21:22.700 --> 00:21:24.700
+możecie przenieść się
+
+00:21:24.700 --> 00:21:26.700
+na darmowy system,
+
+00:21:26.700 --> 00:21:27.700
+bo nasze gry już tam
+
+00:21:27.700 --> 00:21:28.700
+super działają.
+
+00:21:28.700 --> 00:21:31.700
+Właśnie bardzo duża część gier
+
+00:21:31.700 --> 00:21:32.700
+działa bezproblemowo
+
+00:21:32.700 --> 00:21:33.700
+na Linuxie obecnie,
+
+00:21:33.700 --> 00:21:35.700
+z Protonem.
+
+00:21:35.700 --> 00:21:36.700
+No proszę państwa,
+
+00:21:36.700 --> 00:21:38.700
+to jest dowód na to,
+
+00:21:38.700 --> 00:21:39.700
+jak działa reakcja łańcuchowa.
+
+00:21:39.700 --> 00:21:40.700
+Jeżeli Microsoft spieprzy coś
+
+00:21:40.700 --> 00:21:41.700
+w polskiej wersji językowej,
+
+00:21:41.700 --> 00:21:42.700
+to zaraz szukamy innych rzeczy,
+
+00:21:42.700 --> 00:21:43.700
+gdzie też spieprzą
+
+00:21:43.700 --> 00:21:44.700
+i mu wytkniemy.
+
+00:21:44.700 --> 00:21:45.700
+To jest proszę po polsku
+
+00:21:45.700 --> 00:21:46.700
+robić gry.
+
+00:21:46.700 --> 00:21:47.700
+Nie, nie, nie,
+
+00:21:47.700 --> 00:21:48.700
+no czy wiesz co,
+
+00:21:48.700 --> 00:21:49.700
+no to są też takie przemyślenia,
+
+00:21:49.700 --> 00:21:51.700
+które ja mam,
+
+00:21:51.700 --> 00:21:53.700
+jak się już przygotowuję
+
+00:21:53.700 --> 00:21:54.700
+do naszego podsumowania
+
+00:21:54.700 --> 00:21:56.700
+growego roku,
+
+00:21:56.700 --> 00:21:57.700
+no i tak sobie patrzę,
+
+00:21:57.700 --> 00:21:58.700
+co mi się tam podobało,
+
+00:21:58.700 --> 00:22:00.700
+co mi się nie podobało.
+
+00:22:00.700 --> 00:22:01.700
+No i wiesz,
+
+00:22:01.700 --> 00:22:03.700
+no jednak Steam Deck
+
+00:22:03.700 --> 00:22:04.700
+to jest taka maszyna,
+
+00:22:04.700 --> 00:22:05.700
+na której bardzo dużo gram
+
+00:22:05.700 --> 00:22:06.700
+cały czas
+
+00:22:06.700 --> 00:22:09.700
+i nie chce mi się tam,
+
+00:22:09.700 --> 00:22:10.700
+wiesz, kombinować.
+
+00:22:10.700 --> 00:22:11.700
+Znaczy wiadomo,
+
+00:22:11.700 --> 00:22:12.700
+zainstalowałem tam Windowsa,
+
+00:22:12.700 --> 00:22:13.700
+mam na karcie,
+
+00:22:13.700 --> 00:22:15.700
+ale to tak działa
+
+00:22:15.700 --> 00:22:17.700
+nie najlepiej.
+
+00:22:17.700 --> 00:22:18.700
+Więc tak,
+
+00:22:18.700 --> 00:22:20.700
+jako że płacę za Game Passa,
+
+00:22:20.700 --> 00:22:21.700
+to też fajnie by było,
+
+00:22:21.700 --> 00:22:22.700
+gdybym go miał.
+
+00:22:22.700 --> 00:22:23.700
+Też fajnie by było,
+
+00:22:23.700 --> 00:22:26.700
+na przykład jakby Blizzard działał,
+
+00:22:26.700 --> 00:22:28.700
+znaczy da się uruchomić, nie,
+
+00:22:28.700 --> 00:22:29.700
+da się uruchomić Hearthstone'a,
+
+00:22:29.700 --> 00:22:30.700
+da się uruchomić Diablo,
+
+00:22:30.700 --> 00:22:33.700
+ale to są zawsze jakieś takie
+
+00:22:33.700 --> 00:22:35.700
+kombinacje norweskie.
+
+00:22:35.700 --> 00:22:37.700
+Może to trochę czasu wymaga,
+
+00:22:37.700 --> 00:22:38.700
+no Steam Deck jest ciągle
+
+00:22:38.700 --> 00:22:39.700
+świeżą maszyną,
+
+00:22:39.700 --> 00:22:40.700
+nikt się nie spodziewał chyba nawet,
+
+00:22:40.700 --> 00:22:41.700
+że ona się przyjmie aż tak dobrze,
+
+00:22:41.700 --> 00:22:42.700
+bo przyjęła się fenomenalnie,
+
+00:22:42.700 --> 00:22:43.700
+nie tylko w Twoim odbiorze,
+
+00:22:43.700 --> 00:22:44.700
+ale ludzie raczej pozytywnie
+
+00:22:44.700 --> 00:22:45.700
+na to reagują.
+
+00:22:45.700 --> 00:22:47.700
+Zresztą na ostatnie TGA
+
+00:22:47.700 --> 00:22:49.700
+tłum ludzi na Steamie oglądał,
+
+00:22:49.700 --> 00:22:51.700
+żeby go załapać na darmowego Steam Decka.
+
+00:22:51.700 --> 00:22:52.700
+Ja wiem, że darmoszka to jest zawsze,
+
+00:22:52.700 --> 00:22:53.700
+chętni się znajdą,
+
+00:22:53.700 --> 00:22:54.700
+ale jednak zainteresowanie
+
+00:22:54.700 --> 00:22:55.700
+tym sprzętem jest ogromne
+
+00:22:55.700 --> 00:22:57.700
+i być może prędzej czy później
+
+00:22:57.700 --> 00:22:59.700
+trafi się tam jakiś taki klient,
+
+00:22:59.700 --> 00:23:01.700
+który i Game Passa,
+
+00:23:01.700 --> 00:23:03.700
+i klient Activision Blizzard.
+
+00:23:03.700 --> 00:23:04.700
+Zastanawiam się,
+
+00:23:04.700 --> 00:23:06.700
+czy Microsoft też gdzieś tam po drodze
+
+00:23:06.700 --> 00:23:07.700
+nie zacznie sobie ostrzyć zęby
+
+00:23:07.700 --> 00:23:08.700
+na swoją własną,
+
+00:23:08.700 --> 00:23:09.700
+na swojego własnego handhelda,
+
+00:23:09.700 --> 00:23:10.700
+no bo Steam Deck udowodnił,
+
+00:23:10.700 --> 00:23:12.700
+że można coś zrobić innego niż Nintendo
+
+00:23:12.700 --> 00:23:14.700
+i odnieść sukces z tym,
+
+00:23:14.700 --> 00:23:16.700
+no bo to chyba jest sukces, nie.
+
+00:23:16.700 --> 00:23:18.700
+No wiesz co, raczej oni chyba będą
+
+00:23:18.700 --> 00:23:20.700
+ostro idą w clouda, nie.
+
+00:23:20.700 --> 00:23:22.700
+Znaczy nie sądzę, żeby tutaj.
+
+00:23:22.700 --> 00:23:23.700
+No tak.
+
+00:23:23.700 --> 00:23:25.700
+Ich handheldem jest Xbox Series S.
+
+00:23:25.700 --> 00:23:28.700
+No i urządzenia mobilne,
+
+00:23:28.700 --> 00:23:30.700
+i wiadomo, telefony i tablety,
+
+00:23:30.700 --> 00:23:31.700
+ale wydaje mi się,
+
+00:23:31.700 --> 00:23:32.700
+że tym bardziej jeżeli, wiesz,
+
+00:23:32.700 --> 00:23:33.700
+mi to pasuje,
+
+00:23:33.700 --> 00:23:35.700
+to znaczy jeżeli idziesz w clouda,
+
+00:23:35.700 --> 00:23:36.700
+to nic nie stoi na przeszkodzie,
+
+00:23:36.700 --> 00:23:38.700
+żeby zrobić urządzenie przenośne,
+
+00:23:38.700 --> 00:23:39.700
+które tego clouda obsługuje
+
+00:23:39.700 --> 00:23:40.700
+i masz od razu, wiesz,
+
+00:23:40.700 --> 00:23:41.700
+urządzenie z wbudowanym kontrolerem
+
+00:23:41.700 --> 00:23:44.700
+i to ono jest w pełni jakby funkcjonujące,
+
+00:23:44.700 --> 00:23:45.700
+Game Pass jest tam wbudowany,
+
+00:23:45.700 --> 00:23:47.700
+to jest świetna okazja dla Microsoftu.
+
+00:23:47.700 --> 00:23:48.700
+Może o tym myślą,
+
+00:23:48.700 --> 00:23:49.700
+a może nie,
+
+00:23:49.700 --> 00:23:50.700
+to jest taka spekulacja bardzo,
+
+00:23:50.700 --> 00:23:52.700
+to jest taki strzał w płot mocno,
+
+00:23:52.700 --> 00:23:53.700
+ale nie zdziwiłbym się
+
+00:23:53.700 --> 00:23:54.700
+i nawet bym sugerował,
+
+00:23:54.700 --> 00:23:55.700
+że to byłby niegłupi pomysł.
+
+00:23:55.700 --> 00:23:58.700
+No mi by tam wystarczyło,
+
+00:23:58.700 --> 00:23:59.700
+znaczy wiesz,
+
+00:23:59.700 --> 00:24:00.700
+no możesz sobie odpalić
+
+00:24:00.700 --> 00:24:02.700
+przeglądarce na Steam Decku
+
+00:24:02.700 --> 00:24:04.700
+Game Passa w cloudzie, nie.
+
+00:24:04.700 --> 00:24:06.700
+No wiem, ale to już sam,
+
+00:24:06.700 --> 00:24:07.700
+wiesz, sam proces,
+
+00:24:07.700 --> 00:24:08.700
+o którym opisujesz,
+
+00:24:08.700 --> 00:24:09.700
+to już jest fikołek, nie.
+
+00:24:09.700 --> 00:24:11.700
+Więc no wolałbym,
+
+00:24:11.700 --> 00:24:12.700
+żeby to było tak po prostu natywnie,
+
+00:24:12.700 --> 00:24:15.700
+żeby była jakaś apka na Linuxie
+
+00:24:15.700 --> 00:24:17.700
+i problem z głowy, nie.
+
+00:24:17.700 --> 00:24:19.700
+No ale to dużo gier ma jakieś tam,
+
+00:24:19.700 --> 00:24:21.700
+trzeba takie gry,
+
+00:24:21.700 --> 00:24:22.700
+które są poza Steamem,
+
+00:24:22.700 --> 00:24:25.700
+no to niektóre szybko się odpala
+
+00:24:25.700 --> 00:24:27.700
+i na przykład GOG nie ma też,
+
+00:24:27.700 --> 00:24:29.700
+który jest fantastyczną platformą.
+
+00:24:29.700 --> 00:24:33.700
+Jeżeli oni by jakoś sensownie
+
+00:24:33.700 --> 00:24:36.700
+zintegrowali się ze Steam Deckiem,
+
+00:24:36.700 --> 00:24:38.700
+no to przecież Steam Deck
+
+00:24:38.700 --> 00:24:42.700
+jest jedną z najlepszych maszynek
+
+00:24:42.700 --> 00:24:44.700
+jedną z najlepszych maszynek
+
+00:24:44.700 --> 00:24:47.700
+do grania w retro gry.
+
+00:24:47.700 --> 00:24:49.700
+A tu jeszcze masz legalnie sklep, nie.
+
+00:24:49.700 --> 00:24:51.700
+No jakby, nie wiem,
+
+00:24:51.700 --> 00:24:52.700
+może ja sobie tak myślę,
+
+00:24:52.700 --> 00:24:54.700
+bo jestem fanem Steam Decka,
+
+00:24:54.700 --> 00:24:57.700
+a może to jest nie,
+
+00:24:57.700 --> 00:24:59.700
+komercyjnie nieuzasadnione
+
+00:24:59.700 --> 00:25:00.700
+takie inwestowanie w to,
+
+00:25:00.700 --> 00:25:01.700
+żeby to przykładać.
+
+00:25:01.700 --> 00:25:02.700
+Chociaż nie wiem,
+
+00:25:02.700 --> 00:25:03.700
+czy tam jest takie,
+
+00:25:03.700 --> 00:25:04.700
+trzeba aż tak duże inwestycje,
+
+00:25:04.700 --> 00:25:06.700
+przynajmniej w, nie wiem,
+
+00:25:06.700 --> 00:25:09.700
+GOG, Epic, no te gry da się
+
+00:25:09.700 --> 00:25:11.700
+ręcznie jakoś tam uruchomić.
+
+00:25:11.700 --> 00:25:15.700
+Gry z Game Passa wymagają Windowsa, nie.
+
+00:25:15.700 --> 00:25:18.700
+Znaczy, jeżeli chcemy uruchomić Game Passa.
+
+00:25:18.700 --> 00:25:19.700
+Tak, proszę państwa,
+
+00:25:19.700 --> 00:25:21.700
+to jest wielce prawdopodobne,
+
+00:25:21.700 --> 00:25:22.700
+że nasz, bo dzisiaj rozmawiamy
+
+00:25:22.700 --> 00:25:23.700
+na podcaście o Avatarze.
+
+00:25:23.700 --> 00:25:24.700
+Całkiem możliwe,
+
+00:25:24.700 --> 00:25:25.700
+że ten podcast będzie dłuższy
+
+00:25:25.700 --> 00:25:26.700
+od Avatara, jak się będziemy
+
+00:25:26.700 --> 00:25:27.700
+tak z tym biaczkiem bawić.
+
+00:25:27.700 --> 00:25:28.700
+Nie, ja już skończyłem,
+
+00:25:28.700 --> 00:25:29.700
+ja już skończyłem,
+
+00:25:29.700 --> 00:25:30.700
+mam już nic więcej
+
+00:25:30.700 --> 00:25:31.700
+nie mam do powiedzenia chyba.
+
+00:25:31.700 --> 00:25:33.700
+Ja mam trochę rzeczy do powiedzenia,
+
+00:25:33.700 --> 00:25:34.700
+ale sobie zostawię na następny raz,
+
+00:25:34.700 --> 00:25:35.700
+bo faktycznie to jest też tak,
+
+00:25:35.700 --> 00:25:37.700
+że my z reguły nagrywamy podcast
+
+00:25:37.700 --> 00:25:39.700
+o godzinie 18.
+
+00:25:39.700 --> 00:25:40.700
+Ja bardzo często też piszę do Borisa
+
+00:25:40.700 --> 00:25:41.700
+gdzieś w okolicy południa
+
+00:25:41.700 --> 00:25:43.700
+i słuchaj, może o 19 się spotkamy.
+
+00:25:43.700 --> 00:25:44.700
+Dzisiaj nie napisałem,
+
+00:25:44.700 --> 00:25:45.700
+dzisiaj byłem przygotowany na 18
+
+00:25:45.700 --> 00:25:46.700
+i co się stało?
+
+00:25:46.700 --> 00:25:47.700
+I finał, proszę państwa,
+
+00:25:47.700 --> 00:25:50.700
+Mistrzostw Świata do 19 i trwał.
+
+00:25:50.700 --> 00:25:51.700
+I siedziałem tu przy komputerze
+
+00:25:51.700 --> 00:25:52.700
+od godziny,
+
+00:25:52.700 --> 00:25:54.700
+a jestem z żoną umówiony na spacer,
+
+00:25:54.700 --> 00:25:57.700
+więc do rzeczy, panie Borysie,
+
+00:25:57.700 --> 00:25:59.700
+Avatar, Avatar był w kinach
+
+00:25:59.700 --> 00:26:00.700
+i żałuję bardzo,
+
+00:26:00.700 --> 00:26:01.700
+że go widziałem tam,
+
+00:26:01.700 --> 00:26:02.700
+gdzie go widziałem.
+
+00:26:02.700 --> 00:26:04.700
+Dobrze, to ja o tym opowiem.
+
+00:26:04.700 --> 00:26:05.700
+Avatar, istota wody
+
+00:26:05.700 --> 00:26:08.700
+to kontynuacja najprawdopodobniej
+
+00:26:08.700 --> 00:26:10.700
+najbardziej kasowego filmów historii kina.
+
+00:26:10.700 --> 00:26:11.700
+Według Box Office Mojo
+
+00:26:11.700 --> 00:26:14.700
+ma 2,9 miliarda dolarów.
+
+00:26:14.700 --> 00:26:17.700
+Oczywiście to jest legendarny film,
+
+00:26:17.700 --> 00:26:19.700
+który miał zrewolucjonizować,
+
+00:26:19.700 --> 00:26:21.700
+trochę zrewolucjonizował
+
+00:26:21.700 --> 00:26:23.700
+w szczególności efekty James Camera.
+
+00:26:23.700 --> 00:26:27.700
+On też chciał w pełni wprowadzić 3D,
+
+00:26:27.700 --> 00:26:30.700
+które moim zdaniem się nie przyjęło.
+
+00:26:30.700 --> 00:26:31.700
+Produkcja tego...
+
+00:26:31.700 --> 00:26:32.700
+Bo on jedynie,
+
+00:26:32.700 --> 00:26:33.700
+to był jedyny człowiek,
+
+00:26:33.700 --> 00:26:34.700
+który zrobił to naprawdę
+
+00:26:34.700 --> 00:26:37.700
+z należytym szacunkiem do tego.
+
+00:26:37.700 --> 00:26:39.700
+Większość filmów ma 3D w postprodukcji
+
+00:26:39.700 --> 00:26:40.700
+i wygląda to tak średnio.
+
+00:26:40.700 --> 00:26:42.700
+Tak, on po prostu kręci to...
+
+00:26:42.700 --> 00:26:44.700
+Zresztą ten system, który on ma,
+
+00:26:44.700 --> 00:26:46.700
+czyli te dwie kamery,
+
+00:26:46.700 --> 00:26:47.700
+to fajnie wygląda.
+
+00:26:47.700 --> 00:26:49.700
+Ale to trzeba sobie zobaczyć raczej,
+
+00:26:49.700 --> 00:26:50.700
+niż że ja tu będę opowiadał.
+
+00:26:50.700 --> 00:26:54.700
+Koszt estymuje się 350-400 milionów dolarów,
+
+00:26:54.700 --> 00:26:56.700
+ale może być nawet 700,
+
+00:26:56.700 --> 00:26:58.700
+bo przecież od razu był kręcony,
+
+00:26:58.700 --> 00:27:00.700
+kręcona część trzecia.
+
+00:27:00.700 --> 00:27:02.700
+Nawet się mówi,
+
+00:27:02.700 --> 00:27:03.700
+że jakieś tam rzeczy
+
+00:27:03.700 --> 00:27:05.700
+do części czwartej były nakręcone.
+
+00:27:05.700 --> 00:27:09.700
+Postprodukcja była bardzo długa,
+
+00:27:09.700 --> 00:27:12.700
+bo zdjęcia próbne zaczęły się w 2017 roku,
+
+00:27:12.700 --> 00:27:14.700
+a zdjęcia główne w 2019,
+
+00:27:14.700 --> 00:27:17.700
+więc tutaj twórcy mieli dużo czasu.
+
+00:27:17.700 --> 00:27:19.700
+Ja widziałem film w IMAXie,
+
+00:27:19.700 --> 00:27:22.700
+w 3D z HFR,
+
+00:27:22.700 --> 00:27:25.700
+czyli z tym wysokim klatkarzem.
+
+00:27:25.700 --> 00:27:26.700
+High Frame Rate.
+
+00:27:26.700 --> 00:27:27.700
+Tak.
+
+00:27:27.700 --> 00:27:29.700
+Byłem na dublażu,
+
+00:27:29.700 --> 00:27:31.700
+tak ładnie powiem,
+
+00:27:31.700 --> 00:27:33.700
+ponieważ na pisach
+
+00:27:33.700 --> 00:27:35.700
+nie było już miejsca.
+
+00:27:35.700 --> 00:27:37.700
+Ej, no pionę Ci przybijam.
+
+00:27:37.700 --> 00:27:38.700
+Ja w ogóle chciałem powiedzieć,
+
+00:27:38.700 --> 00:27:39.700
+że ja też byłem na dubbingu,
+
+00:27:39.700 --> 00:27:40.700
+też z tego powodu,
+
+00:27:40.700 --> 00:27:42.700
+ale też z innego,
+
+00:27:42.700 --> 00:27:43.700
+jako że to jest film zrobiony w 3D,
+
+00:27:43.700 --> 00:27:46.700
+to uznałem, że napisy na filmach 3D
+
+00:27:46.700 --> 00:27:48.700
+są jeszcze bardziej kłopotliwe dla mnie,
+
+00:27:48.700 --> 00:27:49.700
+niż na normalnym filmie,
+
+00:27:49.700 --> 00:27:51.700
+a i na takim normalnym są kłopotliwe.
+
+00:27:51.700 --> 00:27:52.700
+Ja nienawidzę napisów,
+
+00:27:52.700 --> 00:27:54.700
+więc wybrałem dubbing w pełni świadomie
+
+00:27:54.700 --> 00:27:55.700
+i muszę Państwu powiedzieć,
+
+00:27:55.700 --> 00:27:56.700
+że jestem w szoku,
+
+00:27:56.700 --> 00:27:57.700
+jak dobry jest ten dubbing.
+
+00:27:57.700 --> 00:27:59.700
+To znaczy bardzo mi się podobał.
+
+00:27:59.700 --> 00:28:00.700
+Ja mam trochę problem,
+
+00:28:00.700 --> 00:28:01.700
+bo mi się wydawało,
+
+00:28:01.700 --> 00:28:03.700
+że mi tam brakuje w dźwięku
+
+00:28:03.700 --> 00:28:05.700
+często sceny,
+
+00:28:05.700 --> 00:28:07.700
+że...
+
+00:28:07.700 --> 00:28:09.700
+Po głosu nie ma odpowiedniego?
+
+00:28:09.700 --> 00:28:12.700
+Tak, że nie ma tego...
+
+00:28:12.700 --> 00:28:15.700
+Że ten dźwięk trochę nienaturalnie
+
+00:28:15.700 --> 00:28:17.700
+brzmiał w wielu miejscach.
+
+00:28:17.700 --> 00:28:18.700
+Być może, być może.
+
+00:28:18.700 --> 00:28:19.700
+Ja na to nie zwróciłem uwagi.
+
+00:28:19.700 --> 00:28:20.700
+Nie zwróciłem uwagi.
+
+00:28:20.700 --> 00:28:21.700
+W związku z tym,
+
+00:28:21.700 --> 00:28:23.700
+że te postacie w większości są animowane,
+
+00:28:23.700 --> 00:28:24.700
+to ten lipsync,
+
+00:28:24.700 --> 00:28:26.700
+tak nie wiem, czy to się nazywa,
+
+00:28:26.700 --> 00:28:27.700
+bardzo dobrze pasował do nich.
+
+00:28:27.700 --> 00:28:29.700
+Ja nie mogłem uwierzyć
+
+00:28:29.700 --> 00:28:30.700
+w pewnych miejscach,
+
+00:28:30.700 --> 00:28:31.700
+że to było dobrze zrobione.
+
+00:28:31.700 --> 00:28:33.700
+Głosy dziecięce czasami brzmiały
+
+00:28:33.700 --> 00:28:34.700
+tak trochę gorzej,
+
+00:28:34.700 --> 00:28:35.700
+ale to wiadomo,
+
+00:28:35.700 --> 00:28:36.700
+że młodzi aktorzy pewnie
+
+00:28:36.700 --> 00:28:37.700
+nie mają tylu doświadczeń,
+
+00:28:37.700 --> 00:28:38.700
+więc nie czepiałbym się
+
+00:28:38.700 --> 00:28:39.700
+tego jakoś strasznie,
+
+00:28:39.700 --> 00:28:40.700
+ale bardzo mi się podobał dubbing
+
+00:28:40.700 --> 00:28:41.700
+i w związku z tym
+
+00:28:41.700 --> 00:28:42.700
+dobrze mi się oglądało
+
+00:28:42.700 --> 00:28:43.700
+ten film w 3D.
+
+00:28:43.700 --> 00:28:44.700
+Natomiast nie wybrałem sobie
+
+00:28:44.700 --> 00:28:45.700
+najlepszego kina.
+
+00:28:45.700 --> 00:28:46.700
+To pewnie dlatego też,
+
+00:28:46.700 --> 00:28:47.700
+że bilety były wyprzedane.
+
+00:28:47.700 --> 00:28:48.700
+To, o czym Borys wspominał,
+
+00:28:48.700 --> 00:28:50.700
+czyli ten wielki dochód
+
+00:28:50.700 --> 00:28:51.700
+z tego filmu,
+
+00:28:51.700 --> 00:28:53.700
+to widać w tych kinach.
+
+00:28:53.700 --> 00:28:56.700
+Tłumy są od rana do wieczora.
+
+00:28:56.700 --> 00:28:57.700
+Wszystkie bilety były wykupione.
+
+00:28:57.700 --> 00:28:59.700
+Wiadomo, że to jest pierwszy weekend,
+
+00:28:59.700 --> 00:29:01.700
+więc siłą rzeczy
+
+00:29:01.700 --> 00:29:02.700
+zainteresowanie jest największe
+
+00:29:02.700 --> 00:29:03.700
+właśnie tutaj,
+
+00:29:03.700 --> 00:29:05.700
+ale jednak jestem pod wrażeniem,
+
+00:29:05.700 --> 00:29:06.700
+jak dużo osób w kinie.
+
+00:29:06.700 --> 00:29:07.700
+To już tyle osób w kinie
+
+00:29:07.700 --> 00:29:08.700
+nie widziałem
+
+00:29:08.700 --> 00:29:09.700
+i chyba jeszcze przed pandemią
+
+00:29:09.700 --> 00:29:10.700
+nie było takich premier,
+
+00:29:10.700 --> 00:29:11.700
+które by zwróciły tak bardzo uwagę.
+
+00:29:11.700 --> 00:29:12.700
+Pewnie były.
+
+00:29:12.700 --> 00:29:13.700
+Endgame?
+
+00:29:13.700 --> 00:29:15.700
+Tak, tak, tak, tak, jak najbardziej.
+
+00:29:15.700 --> 00:29:17.700
+Ale też rzecz w tym
+
+00:29:17.700 --> 00:29:18.700
+i tu się chyba zgodzimy,
+
+00:29:18.700 --> 00:29:20.700
+że to się nie zdarza często
+
+00:29:20.700 --> 00:29:21.700
+i nie zdarzało się często
+
+00:29:21.700 --> 00:29:22.700
+nawet przed pandemią.
+
+00:29:22.700 --> 00:29:24.700
+Wydaje mi się, że
+
+00:29:24.700 --> 00:29:26.700
+Top Gun w tym roku
+
+00:29:26.700 --> 00:29:28.700
+był taki, że dużo osób,
+
+00:29:28.700 --> 00:29:29.700
+no i widać po wyniku
+
+00:29:29.700 --> 00:29:30.700
+po prostu kasowym,
+
+00:29:30.700 --> 00:29:32.700
+bo on tam bardzo dużo zarobił.
+
+00:29:32.700 --> 00:29:33.700
+Widzieliśmy w kinie.
+
+00:29:33.700 --> 00:29:34.700
+Ja nie doświadczyłem takich
+
+00:29:34.700 --> 00:29:35.700
+dużych tłumów na Top Gunie,
+
+00:29:35.700 --> 00:29:37.700
+jak tutaj na tym.
+
+00:29:37.700 --> 00:29:39.700
+No jednak tutaj hype był
+
+00:29:39.700 --> 00:29:41.700
+bardzo, bardzo duży na Avatara
+
+00:29:41.700 --> 00:29:43.700
+i oczywiście niezaprzeczalne,
+
+00:29:43.700 --> 00:29:44.700
+że ciężko się zdarza,
+
+00:29:44.700 --> 00:29:46.700
+że ja odpalam sobie
+
+00:29:46.700 --> 00:29:48.700
+kartę w Cinema City
+
+00:29:48.700 --> 00:29:49.700
+IMAXa
+
+00:29:49.700 --> 00:29:50.700
+i widzę, że w pierwszym rzędzie
+
+00:29:50.700 --> 00:29:51.700
+są tylko dwa miejsca wolne
+
+00:29:51.700 --> 00:29:53.700
+i mówię, no to nie.
+
+00:29:53.700 --> 00:29:55.700
+No, na IMAXie to idealne miejsce.
+
+00:29:55.700 --> 00:29:56.700
+To już jesteś tak bardzo w środku,
+
+00:29:56.700 --> 00:29:58.700
+że już jesteś na backgroundzie.
+
+00:29:58.700 --> 00:29:59.700
+Tak, ale najlepsze jest to,
+
+00:29:59.700 --> 00:30:00.700
+że siedziałem sobie chyba
+
+00:30:00.700 --> 00:30:01.700
+w siódmym rzędzie
+
+00:30:01.700 --> 00:30:03.700
+i byłem tak wciśnięty
+
+00:30:03.700 --> 00:30:04.700
+ful ludzi,
+
+00:30:04.700 --> 00:30:05.700
+a ostatecznie było tak,
+
+00:30:05.700 --> 00:30:07.700
+że siedem miejsc obok mnie
+
+00:30:07.700 --> 00:30:09.700
+było wolnych,
+
+00:30:09.700 --> 00:30:10.700
+ale poszedłem też na dziesiątą
+
+00:30:10.700 --> 00:30:12.700
+czterdzieści piątek,
+
+00:30:12.700 --> 00:30:14.700
+więc może ktoś nie wstał po prostu.
+
+00:30:14.700 --> 00:30:15.700
+No to, żeś się dobrze załapał.
+
+00:30:15.700 --> 00:30:16.700
+Ja przez chwilę miałem w ogóle wątpliwości,
+
+00:30:16.700 --> 00:30:19.700
+czy się załapię na ten film,
+
+00:30:19.700 --> 00:30:20.700
+bo też miałem trochę zajęć.
+
+00:30:20.700 --> 00:30:21.700
+A ty byłeś w normalnym kinie
+
+00:30:21.700 --> 00:30:22.700
+czy w IMAXie?
+
+00:30:22.700 --> 00:30:24.700
+Nie, byłem niestety w normalnym kinie
+
+00:30:24.700 --> 00:30:26.700
+i to jest pewien problem.
+
+00:30:26.700 --> 00:30:28.700
+Ja też miałem takie wrażenie już tam,
+
+00:30:28.700 --> 00:30:30.700
+że co prawda obraz był bardzo ładny
+
+00:30:30.700 --> 00:30:31.700
+i wszystko tam,
+
+00:30:31.700 --> 00:30:32.700
+tam czasami takie rozmycia
+
+00:30:32.700 --> 00:30:33.700
+nie do końca ciekawe były.
+
+00:30:33.700 --> 00:30:34.700
+Ja byłem w Koronie Wrocławskiej.
+
+00:30:34.700 --> 00:30:36.700
+Oni nie słyną z najlepszych projektorów,
+
+00:30:36.700 --> 00:30:37.700
+ale powiedziałbym,
+
+00:30:37.700 --> 00:30:38.700
+że tym razem przynajmniej
+
+00:30:38.700 --> 00:30:39.700
+doświetlony był obraz,
+
+00:30:39.700 --> 00:30:40.700
+bo często się zdarza,
+
+00:30:40.700 --> 00:30:41.700
+że jest niezwykle ciemny,
+
+00:30:41.700 --> 00:30:43.700
+a tym bardziej, że okulary 3D
+
+00:30:43.700 --> 00:30:45.700
+są tak, że przyciemniają trochę ten obraz
+
+00:30:45.700 --> 00:30:47.700
+i połączenie jednego z drugim w Koronie
+
+00:30:47.700 --> 00:30:49.700
+z reguły się sprawdza kiepsko.
+
+00:30:49.700 --> 00:30:50.700
+Tutaj wyszło nieźle,
+
+00:30:50.700 --> 00:30:51.700
+można było to zobaczyć,
+
+00:30:51.700 --> 00:30:55.700
+ale ten efekt 3D był znikomy, zauważany tylko w niektórych momentach,
+
+00:30:55.700 --> 00:30:56.700
+więc powiedziałbym,
+
+00:30:56.700 --> 00:30:58.700
+że to jest pewnego rodzaju świętokradztwo.
+
+00:30:58.700 --> 00:31:00.700
+Już równie dobrze mogłem na telewizorze obejrzeć,
+
+00:31:00.700 --> 00:31:03.700
+ale nie mogłem się załapać do IMAXa,
+
+00:31:03.700 --> 00:31:05.700
+bo było kino totalnie przepełnione,
+
+00:31:05.700 --> 00:31:06.700
+więc to jest takie doświadczenie,
+
+00:31:06.700 --> 00:31:08.700
+które na pewno trzeba przeżyć w kinie
+
+00:31:08.700 --> 00:31:10.700
+i ja jeszcze sięgnę po ten film właśnie w IMAXie,
+
+00:31:10.700 --> 00:31:12.700
+żeby zobaczyć w pełni.
+
+00:31:12.700 --> 00:31:14.700
+Oglądałem materiał Marcina Łokańskiego
+
+00:31:14.700 --> 00:31:15.700
+na temat Avatara
+
+00:31:15.700 --> 00:31:17.700
+i on właśnie bardzo, bardzo pochlebnie wypowiadał się
+
+00:31:17.700 --> 00:31:19.700
+na temat tych wizualiów
+
+00:31:19.700 --> 00:31:20.700
+i ja mam tutaj do niego pełne zaufanie.
+
+00:31:20.700 --> 00:31:22.700
+Zresztą Ty, Borys, też będziesz o tym pewnie za chwilę opowiadał.
+
+00:31:22.700 --> 00:31:24.700
+Tak, ja się z nim całkowicie nie zgadzam.
+
+00:31:24.700 --> 00:31:25.700
+O, fantastycznie!
+
+00:31:25.700 --> 00:31:26.700
+Bardzo dobrze, szkoda, żeśmy go nie zapłacili,
+
+00:31:26.700 --> 00:31:27.700
+byś się mogł mi pokłócić.
+
+00:31:27.700 --> 00:31:30.700
+Oglądałem, jak miałem napisać do Marcina w ogóle,
+
+00:31:30.700 --> 00:31:34.700
+jak obejrzałem jego materiał i mówię,
+
+00:31:34.700 --> 00:31:36.700
+mam zupełnie, mam całkowicie odwrotnie.
+
+00:31:36.700 --> 00:31:38.700
+Ja w ogóle odsyłamy Państwa,
+
+00:31:38.700 --> 00:31:39.700
+może jak nie zapomnę,
+
+00:31:39.700 --> 00:31:43.700
+to do kanału Na Gałęzi zalinkujemy
+
+00:31:43.700 --> 00:31:46.700
+i to ja tłumaczę się, ponieważ chodzi o…
+
+00:31:46.700 --> 00:31:48.700
+Ale poczekaj, poczekaj, daj mi dokończyć,
+
+00:31:48.700 --> 00:31:50.700
+bo jeszcze, już żeśmy zanotowali,
+
+00:31:50.700 --> 00:31:52.700
+jest to odłożone na półeczkę.
+
+00:31:52.700 --> 00:31:54.700
+Będziemy jeszcze się zaraz z nim kłócić.
+
+00:31:54.700 --> 00:31:56.700
+Marcina Łokeńskiego pewnie Państwo oglądają
+
+00:31:56.700 --> 00:31:57.700
+tak czy inaczej.
+
+00:31:57.700 --> 00:31:58.700
+On był…
+
+00:31:58.700 --> 00:31:59.700
+Był naszym gościem.
+
+00:31:59.700 --> 00:32:00.700
+W zeszłym roku się z nami spotkał
+
+00:32:00.700 --> 00:32:01.700
+i rozmawialiśmy chyba o serialach wtedy,
+
+00:32:01.700 --> 00:32:02.700
+czy o filmach z nim?
+
+00:32:02.700 --> 00:32:03.700
+O filmach.
+
+00:32:03.700 --> 00:32:04.700
+O filmach, o filmach.
+
+00:32:04.700 --> 00:32:06.700
+No, więc on ma zawsze dużo ciekawych rzeczy do powiedzenia
+
+00:32:06.700 --> 00:32:08.700
+i takie odniosłem, takie odniosłem wrażenie
+
+00:32:08.700 --> 00:32:09.700
+na podstawie tego, co mówił,
+
+00:32:09.700 --> 00:32:12.700
+że trochę pozbyłem, pozbawiłem się
+
+00:32:12.700 --> 00:32:14.700
+tego przeżycia dodatkowego
+
+00:32:14.700 --> 00:32:16.700
+i to chyba jest raczej pewne
+
+00:32:16.700 --> 00:32:18.700
+i że ten film, jak on już trafi potem
+
+00:32:18.700 --> 00:32:20.700
+na telewizory, to już nie będzie go można przeżyć
+
+00:32:20.700 --> 00:32:22.700
+w takiej formie, chyba że będą jakieś takie
+
+00:32:22.700 --> 00:32:24.700
+trafiały się, bo czasami do kina wracają
+
+00:32:24.700 --> 00:32:25.700
+takie wielkie, wielkie hity,
+
+00:32:25.700 --> 00:32:27.700
+więc przypuszczam, że Avatar też wróci,
+
+00:32:27.700 --> 00:32:28.700
+ale warto to obejrzeć w kinie,
+
+00:32:28.700 --> 00:32:30.700
+warto to obejrzeć na dużym ekranie
+
+00:32:30.700 --> 00:32:32.700
+i żeby się nasycić tym całym 3D,
+
+00:32:32.700 --> 00:32:34.700
+no bo to po to Cameron wykorzystuje tą technologię,
+
+00:32:34.700 --> 00:32:36.700
+najlepiej ze wszystkich reżyserów na świecie chyba,
+
+00:32:36.700 --> 00:32:38.700
+żebyśmy mogli to zobaczyć
+
+00:32:38.700 --> 00:32:40.700
+i doświadczyć, że nawet jeżeli fabularnie…
+
+00:32:40.700 --> 00:32:42.700
+Nikt tego nie wykorzystuje tak naprawdę,
+
+00:32:42.700 --> 00:32:44.700
+tylko potem jest to dodawane
+
+00:32:44.700 --> 00:32:46.700
+jednak zyski dla kin,
+
+00:32:46.700 --> 00:32:48.700
+no bo dla kin to jest
+
+00:32:48.700 --> 00:32:50.700
+dodatkowy zysk.
+
+00:32:50.700 --> 00:32:52.700
+No, tak czy inaczej, przypomniałem sobie
+
+00:32:52.700 --> 00:32:54.700
+Czarnego Adama, nie wiem czy to
+
+00:32:54.700 --> 00:32:56.700
+Black Adam, którego oglądałem,
+
+00:32:56.700 --> 00:32:58.700
+ja go oglądałem właśnie w IMAX-ie z bardzo bliska
+
+00:32:58.700 --> 00:33:00.700
+i podejrzewam, że
+
+00:33:00.700 --> 00:33:02.700
+moje dobre wrażenia
+
+00:33:02.700 --> 00:33:04.700
+z Black Adama wynikają także w dużym stopniu
+
+00:33:04.700 --> 00:33:06.700
+z intensywności tego przeżycia,
+
+00:33:06.700 --> 00:33:08.700
+bo ja nieczęsto chodzę na filmy
+
+00:33:08.700 --> 00:33:10.700
+na takim dobrym ekranie z taką dobrą
+
+00:33:10.700 --> 00:33:12.700
+rozdzielczością, siedząc na tyle blisko, by być
+
+00:33:12.700 --> 00:33:14.700
+trochę wewnątrz tego filmu
+
+00:33:14.700 --> 00:33:16.700
+i to poczułem, przypomniałem sobie to,
+
+00:33:16.700 --> 00:33:18.700
+kiedy Marcin Łukański opowiadał o swoich
+
+00:33:18.700 --> 00:33:20.700
+wrażeniach z Avatara, więc
+
+00:33:20.700 --> 00:33:22.700
+obejrzałem w normalnym kinie,
+
+00:33:22.700 --> 00:33:24.700
+bawiłem się dobrze, bo film mi się podobał sam w sobie,
+
+00:33:24.700 --> 00:33:26.700
+z moim synem byłem, czternastoletnim,
+
+00:33:26.700 --> 00:33:28.700
+on też się bawił bardzo dobrze,
+
+00:33:28.700 --> 00:33:30.700
+ale żałuję, że nie był to większy ekran.
+
+00:33:30.700 --> 00:33:31.700
+I tyle, a teraz ty opowiedz.
+
+00:33:31.700 --> 00:33:33.700
+A ja tutaj się pokłócę z Marcinem Łukańskim,
+
+00:33:33.700 --> 00:33:35.700
+nie z tobą tym razem.
+
+00:33:35.700 --> 00:33:37.700
+No przyjmijmy przez chwilę, że ja zajmuję
+
+00:33:37.700 --> 00:33:39.700
+jego stanowisko, chociaż nie widziałem filmu w tym.
+
+00:33:39.700 --> 00:33:40.700
+Tak.
+
+00:33:40.700 --> 00:33:42.700
+Proszę Państwa, no właśnie ja
+
+00:33:42.700 --> 00:33:44.700
+mam problem
+
+00:33:44.700 --> 00:33:46.700
+po prostu z odbiorem tego filmu.
+
+00:33:46.700 --> 00:33:48.700
+Tam to, czy fabuła
+
+00:33:48.700 --> 00:33:50.700
+jest dobra, czy zła,
+
+00:33:50.700 --> 00:33:52.700
+to przy tym filmie nie ma aż takiego
+
+00:33:52.700 --> 00:33:54.700
+znaczenia, no on też ma taką konstrukcję,
+
+00:33:54.700 --> 00:33:56.700
+że raczej jest
+
+00:33:58.700 --> 00:34:00.700
+pokazem technologii, no.
+
+00:34:00.700 --> 00:34:02.700
+Ja nie zamierzam się z tym kłócić.
+
+00:34:02.700 --> 00:34:04.700
+Fabuła jest właśnie oma family friendly.
+
+00:34:04.700 --> 00:34:06.700
+Tak mi się bardziej podobał niż pierwszy Avatar.
+
+00:34:06.700 --> 00:34:08.700
+Więc tam
+
+00:34:08.700 --> 00:34:10.700
+film jest tak zbudowany, że
+
+00:34:10.700 --> 00:34:12.700
+część ujęć jest
+
+00:34:12.700 --> 00:34:14.700
+w 48 klatkach, a część
+
+00:34:14.700 --> 00:34:16.700
+standardowo 24.
+
+00:34:16.700 --> 00:34:18.700
+I większe...
+
+00:34:18.700 --> 00:34:20.700
+Nie do końca tak jest.
+
+00:34:20.700 --> 00:34:22.700
+Wszystkie sceny są w 48 klatkach,
+
+00:34:22.700 --> 00:34:24.700
+tylko w niektórych scenach są klatki powtórzone dwa razy.
+
+00:34:24.700 --> 00:34:26.700
+Ale nadal jest 48 klatek.
+
+00:34:26.700 --> 00:34:28.700
+Nawet żeś mi sam podesłał
+
+00:34:28.700 --> 00:34:30.700
+artykuł taki, że kina
+
+00:34:30.700 --> 00:34:32.700
+nie dysponują projektorami, które
+
+00:34:32.700 --> 00:34:34.700
+pozwalają wyświetlać dwa frame rate'y,
+
+00:34:34.700 --> 00:34:36.700
+więc się korzysta z jednego frame rate'u i potem
+
+00:34:36.700 --> 00:34:38.700
+ogranicza... Niektóre klatki się powtarza dwa razy
+
+00:34:38.700 --> 00:34:40.700
+na niektórych scenach.
+
+00:34:40.700 --> 00:34:42.700
+No tak, ale to dalej jest 24 klatka.
+
+00:34:42.700 --> 00:34:44.700
+Znaczy w sensie, jak masz
+
+00:34:44.700 --> 00:34:46.700
+zdublowane klatki, no to technicznie
+
+00:34:46.700 --> 00:34:48.700
+jest to 48, ale...
+
+00:34:48.700 --> 00:34:50.700
+Lepiej żebym ja się przyczepił niż widza.
+
+00:34:50.700 --> 00:34:52.700
+Teraz możesz się wytłumaczyć.
+
+00:34:52.700 --> 00:34:54.700
+Jakby ustalmy tak, że
+
+00:34:54.700 --> 00:34:56.700
+to zresztą jest taki fajny wywiad
+
+00:34:56.700 --> 00:34:58.700
+z Cameronem.
+
+00:34:58.700 --> 00:35:00.700
+On o tym mówi.
+
+00:35:00.700 --> 00:35:02.700
+I on mówi o 24 i o 48.
+
+00:35:02.700 --> 00:35:04.700
+Jak to jest technicznie już pod kina
+
+00:35:04.700 --> 00:35:06.700
+zrobione, mniejsze znaczenie, bo efekt
+
+00:35:06.700 --> 00:35:08.700
+wizualny na końcu jest dokładnie
+
+00:35:08.700 --> 00:35:10.700
+taki sam.
+
+00:35:12.700 --> 00:35:14.700
+Wysoki frame rate
+
+00:35:14.700 --> 00:35:16.700
+sprawdza się świetnie w 3D.
+
+00:35:16.700 --> 00:35:18.700
+I to rzeczywiście
+
+00:35:18.700 --> 00:35:20.700
+dużo lepiej wygląda to 3D
+
+00:35:20.700 --> 00:35:22.700
+w 48 klatkach
+
+00:35:22.700 --> 00:35:24.700
+niż
+
+00:35:24.700 --> 00:35:26.700
+24, ale 48
+
+00:35:26.700 --> 00:35:28.700
+klatek powodują problem
+
+00:35:28.700 --> 00:35:30.700
+hiperrealizmu.
+
+00:35:30.700 --> 00:35:32.700
+Porównuje się to często do
+
+00:35:32.700 --> 00:35:34.700
+telewizji, jak ogląda się
+
+00:35:34.700 --> 00:35:36.700
+sport, jak
+
+00:35:36.700 --> 00:35:38.700
+teatr telewizji, albo
+
+00:35:38.700 --> 00:35:40.700
+w telewizji, w nowych telewizorach
+
+00:35:40.700 --> 00:35:42.700
+jak masz włączony system
+
+00:35:42.700 --> 00:35:44.700
+upłynniania
+
+00:35:44.700 --> 00:35:46.700
+obrazu.
+
+00:35:46.700 --> 00:35:48.700
+W filmie są właśnie
+
+00:35:48.700 --> 00:35:50.700
+dwa klatka, że są jakby połączone.
+
+00:35:50.700 --> 00:35:52.700
+Czyli
+
+00:35:52.700 --> 00:35:54.700
+mamy czasami...
+
+00:35:54.700 --> 00:35:56.700
+Czyli jakby te sceny akcji to jest
+
+00:35:56.700 --> 00:35:58.700
+48, a te sceny spokojniejsze
+
+00:35:58.700 --> 00:36:00.700
+to jest 24.
+
+00:36:00.700 --> 00:36:02.700
+Ale niestety w jednej scenie
+
+00:36:02.700 --> 00:36:04.700
+w jednej scenie
+
+00:36:04.700 --> 00:36:06.700
+potrafią się występować
+
+00:36:06.700 --> 00:36:08.700
+na przemiennie ujęcia
+
+00:36:08.700 --> 00:36:10.700
+24 i 48.
+
+00:36:10.700 --> 00:36:12.700
+I u mnie to
+
+00:36:12.700 --> 00:36:14.700
+powodowało bardzo duży
+
+00:36:14.700 --> 00:36:16.700
+dyskomfort. Bardzo duży dyskomfort.
+
+00:36:16.700 --> 00:36:18.700
+Że to, że jest ta zmiana
+
+00:36:18.700 --> 00:36:20.700
+to jest przede wszystkim, jest to bardzo niespójne.
+
+00:36:20.700 --> 00:36:22.700
+Hiperrealizm jest
+
+00:36:22.700 --> 00:36:24.700
+dużo bardziej odczuwalny, kiedy
+
+00:36:24.700 --> 00:36:26.700
+zestawisz go właśnie z 24
+
+00:36:26.700 --> 00:36:28.700
+klatkami, więc potęguje
+
+00:36:28.700 --> 00:36:30.700
+się to
+
+00:36:30.700 --> 00:36:32.700
+uczucie, że jest to coś
+
+00:36:32.700 --> 00:36:34.700
+takiego
+
+00:36:34.700 --> 00:36:36.700
+zapłynnego.
+
+00:36:36.700 --> 00:36:38.700
+A ten
+
+00:36:38.700 --> 00:36:40.700
+klatkarz standardowy, 24
+
+00:36:40.700 --> 00:36:42.700
+klatki, stają się jakieś takie
+
+00:36:42.700 --> 00:36:44.700
+powolne, zauważalnie mniej ostre.
+
+00:36:44.700 --> 00:36:46.700
+Rozmyte.
+
+00:36:46.700 --> 00:36:48.700
+I ja zamiast cieszyć się
+
+00:36:48.700 --> 00:36:50.700
+tym, że mam te
+
+00:36:50.700 --> 00:36:52.700
+48 klatek i to wygląda jak
+
+00:36:52.700 --> 00:36:54.700
+cutscenka w grze trochę,
+
+00:36:54.700 --> 00:36:56.700
+no to
+
+00:36:56.700 --> 00:36:58.700
+mnie irytowało.
+
+00:36:58.700 --> 00:37:00.700
+I mi to rzeczywiście przeszkadzało
+
+00:37:00.700 --> 00:37:02.700
+bardzo mocno.
+
+00:37:02.700 --> 00:37:04.700
+Cały czas mnie wywalało
+
+00:37:04.700 --> 00:37:06.700
+to z imersji, że ten klatkarz
+
+00:37:06.700 --> 00:37:08.700
+się zmieniał. Bo to
+
+00:37:08.700 --> 00:37:10.700
+jest, ja bardzo
+
+00:37:10.700 --> 00:37:12.700
+mocno widziałem tą różnicę
+
+00:37:12.700 --> 00:37:14.700
+w obrazie. Bardzo mocno.
+
+00:37:14.700 --> 00:37:16.700
+Zatrzymaj się na chwilę tutaj.
+
+00:37:16.700 --> 00:37:18.700
+To nie jest tak, że to jest trochę osobiste doznanie.
+
+00:37:18.700 --> 00:37:20.700
+Jest to możliwe.
+
+00:37:20.700 --> 00:37:22.700
+Wiem, że są ludzie, którzy odczuwają
+
+00:37:22.700 --> 00:37:24.700
+spadki klatek dużo wyraźniej
+
+00:37:24.700 --> 00:37:26.700
+niż inni. Że to jest taki poziom percepcji
+
+00:37:26.700 --> 00:37:28.700
+jakiś specyficzny. To ja opowiem ci
+
+00:37:28.700 --> 00:37:30.700
+taką anegdotę.
+
+00:37:30.700 --> 00:37:32.700
+Po
+
+00:37:32.700 --> 00:37:34.700
+filmie poszedłem do toalety
+
+00:37:34.700 --> 00:37:36.700
+i tam przed toaletą spotkałem
+
+00:37:36.700 --> 00:37:38.700
+znajomego, który jest
+
+00:37:38.700 --> 00:37:40.700
+filmowcem. Bardzo
+
+00:37:40.700 --> 00:37:42.700
+żeśmy się cofnęli przed filmem.
+
+00:37:42.700 --> 00:37:44.700
+To po filmie już było.
+
+00:37:44.700 --> 00:37:46.700
+Po filmie, przepraszam, po filmie. I który jest filmowcem.
+
+00:37:46.700 --> 00:37:48.700
+I ja mu mówię, że to, kurde,
+
+00:37:48.700 --> 00:37:50.700
+że strasznie mi to przeszkadzało. On mówi, że
+
+00:37:50.700 --> 00:37:52.700
+w ogóle nie widział tej różnicy.
+
+00:37:52.700 --> 00:37:54.700
+A ja...
+
+00:37:54.700 --> 00:37:56.700
+To jest kolejny dowód na to,
+
+00:37:56.700 --> 00:37:58.700
+że podwyższony poziom percepcji jednak utrudnia
+
+00:37:58.700 --> 00:38:00.700
+cieszenie się filmem.
+
+00:38:00.700 --> 00:38:02.700
+Ja zdaję sobie sprawę, że to jest,
+
+00:38:02.700 --> 00:38:04.700
+że ja to widzę, ale dla wielu
+
+00:38:04.700 --> 00:38:06.700
+ludzi w ogóle nie musi
+
+00:38:06.700 --> 00:38:08.700
+być to problemem.
+
+00:38:08.700 --> 00:38:10.700
+Ale mówimy o tym, co ja czuję.
+
+00:38:10.700 --> 00:38:12.700
+Ale to widzisz. To czekaj, jak ktoś
+
+00:38:12.700 --> 00:38:14.700
+ci to powiedział. To, żeś od razu z Marcinem poszedł na noże,
+
+00:38:14.700 --> 00:38:16.700
+a tymczasem po prostu masz inne wrażenia.
+
+00:38:16.700 --> 00:38:18.700
+No bo jak rozmawia się
+
+00:38:18.700 --> 00:38:20.700
+o sztuce, to się rozmawia o wrażeniach głównie, nie?
+
+00:38:20.700 --> 00:38:22.700
+No tak, tak. Ale powiedziałeś, że się z nim nie zgadzasz.
+
+00:38:22.700 --> 00:38:24.700
+Tak, ja się z nim nie zgadzam, bo
+
+00:38:24.700 --> 00:38:26.700
+to, co on uważa
+
+00:38:26.700 --> 00:38:28.700
+za atut, ja uważam za coś, co jest
+
+00:38:28.700 --> 00:38:30.700
+niespójne. Ale mówię o swoim
+
+00:38:30.700 --> 00:38:32.700
+wrażeniu. To on też mówił o swoim wrażeniu.
+
+00:38:32.700 --> 00:38:34.700
+Jakby...
+
+00:38:34.700 --> 00:38:36.700
+Tak, tak. Macie po prostu inne wrażenia.
+
+00:38:36.700 --> 00:38:38.700
+Możecie... No dobrze.
+
+00:38:38.700 --> 00:38:40.700
+Czekam się.
+
+00:38:40.700 --> 00:38:42.700
+Druga rzecz to jest 3D.
+
+00:38:42.700 --> 00:38:44.700
+I 3D ma coś takiego, że jednak
+
+00:38:44.700 --> 00:38:46.700
+skupia się na
+
+00:38:46.700 --> 00:38:48.700
+pierwszym planie. Ja kocham wieloplanowość
+
+00:38:48.700 --> 00:38:50.700
+w zdjęciach. Kocham
+
+00:38:50.700 --> 00:38:52.700
+te, na których...
+
+00:38:52.700 --> 00:38:54.700
+te zdjęcia, na których jakby wszystko
+
+00:38:54.700 --> 00:38:56.700
+jest tak rozplanowane,
+
+00:38:56.700 --> 00:38:58.700
+że drugi plan, trzeci plan,
+
+00:38:58.700 --> 00:39:00.700
+czwarty plan ma znaczenie.
+
+00:39:00.700 --> 00:39:02.700
+A tutaj czułem
+
+00:39:02.700 --> 00:39:04.700
+tak, że
+
+00:39:04.700 --> 00:39:06.700
+coś mi raczej się odbiera,
+
+00:39:06.700 --> 00:39:08.700
+niż dodaje. Dodatkowo
+
+00:39:08.700 --> 00:39:10.700
+miałem wrażenie, że
+
+00:39:10.700 --> 00:39:12.700
+cały czas obcuję z komputerową
+
+00:39:12.700 --> 00:39:14.700
+animację. Znaczy, ja wiem,
+
+00:39:14.700 --> 00:39:16.700
+że to jest i absolutnie
+
+00:39:16.700 --> 00:39:18.700
+uważam, że to jest najlepsze CGI
+
+00:39:18.700 --> 00:39:20.700
+w historii kina. Nie mam tutaj wątpliwości.
+
+00:39:20.700 --> 00:39:22.700
+Wygląda to po prostu
+
+00:39:22.700 --> 00:39:24.700
+nieziemsko.
+
+00:39:24.700 --> 00:39:26.700
+Wygląda świetnie, ale
+
+00:39:26.700 --> 00:39:28.700
+może też przez to, jak posunęła się
+
+00:39:28.700 --> 00:39:30.700
+grafika 3D,
+
+00:39:30.700 --> 00:39:32.700
+jak posunął się fotorealizm
+
+00:39:32.700 --> 00:39:34.700
+w grafice 3D,
+
+00:39:34.700 --> 00:39:36.700
+gdzie cały czas dostajemy jakieś tam demo
+
+00:39:36.700 --> 00:39:38.700
+z Unity z Unreal,
+
+00:39:38.700 --> 00:39:40.700
+tutaj, wiesz, jakieś efekty, tutaj
+
+00:39:40.700 --> 00:39:42.700
+jakiś aktor został cyfrowo
+
+00:39:42.700 --> 00:39:44.700
+podmieniony, nie?
+
+00:39:44.700 --> 00:39:46.700
+Bardzo mocno się posunęło,
+
+00:39:46.700 --> 00:39:48.700
+że ja
+
+00:39:48.700 --> 00:39:50.700
+miałem czasami wrażenie,
+
+00:39:50.700 --> 00:39:52.700
+że cała scena
+
+00:39:52.700 --> 00:39:54.700
+jest to animacja 3D.
+
+00:39:54.700 --> 00:39:56.700
+I
+
+00:39:56.700 --> 00:39:58.700
+jakby
+
+00:39:58.700 --> 00:40:00.700
+i po prostu, że to jest fotorealizm,
+
+00:40:00.700 --> 00:40:02.700
+więc ja też miałem...
+
+00:40:02.700 --> 00:40:04.700
+Kurczę, nie do...
+
+00:40:04.700 --> 00:40:06.700
+Może przez to
+
+00:40:06.700 --> 00:40:08.700
+nie doceniam tego
+
+00:40:08.700 --> 00:40:10.700
+kunsztu, który...
+
+00:40:10.700 --> 00:40:12.700
+Wiesz, to kręcenie
+
+00:40:12.700 --> 00:40:14.700
+pod wodą,
+
+00:40:14.700 --> 00:40:16.700
+motion capture pod wodą, który tam
+
+00:40:16.700 --> 00:40:18.700
+robili
+
+00:40:18.700 --> 00:40:20.700
+i po prostu nie zrobiło to na mnie
+
+00:40:20.700 --> 00:40:22.700
+wrażenie. Ja jeszcze raz powtarzam.
+
+00:40:22.700 --> 00:40:24.700
+To jest najlepsze CGI,
+
+00:40:24.700 --> 00:40:26.700
+jakie było w kinie ever.
+
+00:40:26.700 --> 00:40:28.700
+Nie mam wątpliwości.
+
+00:40:28.700 --> 00:40:30.700
+To jak obiekty reagują na wodę.
+
+00:40:30.700 --> 00:40:32.700
+Chociaż, moim zdaniem, jest trochę nierówne.
+
+00:40:32.700 --> 00:40:34.700
+Tam są np. sceny z łódkami,
+
+00:40:34.700 --> 00:40:36.700
+gdzie te takie łódki
+
+00:40:36.700 --> 00:40:38.700
+tam walą się na skały, coś tam się dzieje.
+
+00:40:38.700 --> 00:40:40.700
+To tak wyglądało jak
+
+00:40:40.700 --> 00:40:42.700
+Call of Duty trochę.
+
+00:40:42.700 --> 00:40:44.700
+Ale Call of Duty ma doskonale zrobioną
+
+00:40:44.700 --> 00:40:46.700
+kampanię. Oczywiście, że doskonale.
+
+00:40:46.700 --> 00:40:48.700
+Więc
+
+00:40:48.700 --> 00:40:50.700
+to ja mam taki...
+
+00:40:50.700 --> 00:40:52.700
+Może też dlatego, że te...
+
+00:40:52.700 --> 00:40:54.700
+Że te...
+
+00:40:54.700 --> 00:40:56.700
+To CGI,
+
+00:40:56.700 --> 00:40:58.700
+doskonałe CGI to nie jest do końca
+
+00:40:58.700 --> 00:41:00.700
+coś, co mi imponuje w kinie.
+
+00:41:00.700 --> 00:41:02.700
+Mhm. Ja też
+
+00:41:02.700 --> 00:41:04.700
+tak przysłuję się temu, co mówisz.
+
+00:41:04.700 --> 00:41:06.700
+Ja oczywiście mam inne wrażenia, też
+
+00:41:06.700 --> 00:41:08.700
+zupełnie inaczej to chłonąłem. Może to wynika też
+
+00:41:08.700 --> 00:41:10.700
+po raz kolejny. Ja mam dostęp do obrazu gorszej
+
+00:41:10.700 --> 00:41:12.700
+jakości, więc być może tych takich
+
+00:41:12.700 --> 00:41:14.700
+słabości... To, co jest... To, co
+
+00:41:14.700 --> 00:41:16.700
+dla wielu i być może
+
+00:41:16.700 --> 00:41:18.700
+dla Camerona także jest zaletą, czyli czystość
+
+00:41:18.700 --> 00:41:20.700
+tych scen 3D, niezwykła
+
+00:41:20.700 --> 00:41:22.700
+jakość i taka... Jak od żlety
+
+00:41:22.700 --> 00:41:24.700
+jest to pokazane.
+
+00:41:24.700 --> 00:41:26.700
+To jest coś, co być może zaburza trochę
+
+00:41:26.700 --> 00:41:28.700
+filmowość tego filmu.
+
+00:41:28.700 --> 00:41:30.700
+Że on jest
+
+00:41:30.700 --> 00:41:32.700
+takim chyba typowym parkiem rozrywki,
+
+00:41:32.700 --> 00:41:34.700
+wewnątrz którego się znajdujesz.
+
+00:41:34.700 --> 00:41:36.700
+Fabuła jest gdzieś tam w tle tego wszystkiego. Ja wiem,
+
+00:41:36.700 --> 00:41:38.700
+że rozrywki to jest już trochę może nadużywane stwierdzenie
+
+00:41:38.700 --> 00:41:40.700
+dla tego. Ale tak, to jest
+
+00:41:40.700 --> 00:41:42.700
+w dużym stopniu pokaz możliwości
+
+00:41:42.700 --> 00:41:44.700
+tego, co w kinie się da
+
+00:41:44.700 --> 00:41:46.700
+zrobić z 3D. Pokaz tego
+
+00:41:46.700 --> 00:41:48.700
+świata, takiego trochę
+
+00:41:48.700 --> 00:41:50.700
+National Geographic a la w kosmosie
+
+00:41:50.700 --> 00:41:52.700
+i gdzieś to
+
+00:41:52.700 --> 00:41:54.700
+traci te...
+
+00:41:54.700 --> 00:41:56.700
+Przynajmniej w twoim odbiorze to
+
+00:41:56.700 --> 00:41:58.700
+nie spełnia się filmowo
+
+00:41:58.700 --> 00:42:00.700
+jako tak. Tak. Ja w ogóle
+
+00:42:00.700 --> 00:42:02.700
+zaskakuje mnie to, co mówisz, bo na przykład
+
+00:42:02.700 --> 00:42:04.700
+sceny, które były...
+
+00:42:04.700 --> 00:42:06.700
+sceny, które były 2D,
+
+00:42:06.700 --> 00:42:08.700
+to one mi się wydawały bardzo filmowe.
+
+00:42:08.700 --> 00:42:10.700
+Takie charakterystyczne
+
+00:42:10.700 --> 00:42:12.700
+dla typowego kina. Sceny 3D być może
+
+00:42:12.700 --> 00:42:14.700
+faktycznie się kojarzyły trochę z cutscenkami
+
+00:42:14.700 --> 00:42:16.700
+w grach. Ale też miałem poczucie,
+
+00:42:16.700 --> 00:42:18.700
+że to jest raczej coś niezwykłego
+
+00:42:18.700 --> 00:42:20.700
+i takiego coś, co dodaje
+
+00:42:20.700 --> 00:42:22.700
+do tego filmu. Ale właśnie do filmu
+
+00:42:22.700 --> 00:42:24.700
+obserwowanego z perspektywy
+
+00:42:24.700 --> 00:42:26.700
+parku rozrywki. Bo to jest...
+
+00:42:26.700 --> 00:42:28.700
+Bo te wszystkie rzeczy, które tam
+
+00:42:28.700 --> 00:42:30.700
+wzbogacają to dzieło,
+
+00:42:30.700 --> 00:42:32.700
+one nie wzbogacają go filmowo, tylko
+
+00:42:32.700 --> 00:42:34.700
+wzbogacają wizualnie. Czyli...
+
+00:42:34.700 --> 00:42:36.700
+Nie wiem, czy to ma sens, ale
+
+00:42:36.700 --> 00:42:38.700
+jeżeli chodzi o...
+
+00:42:38.700 --> 00:42:40.700
+Film jest specyficzną
+
+00:42:40.700 --> 00:42:42.700
+formą sztuki. Cameron robiąc
+
+00:42:42.700 --> 00:42:44.700
+tego awatara wybiega
+
+00:42:44.700 --> 00:42:46.700
+dalece poza to, co chyba
+
+00:42:46.700 --> 00:42:48.700
+normalnie jest przyjęte. Tak w moim...
+
+00:42:48.700 --> 00:42:50.700
+No trochę
+
+00:42:50.700 --> 00:42:52.700
+tak, ale to dobrze, że mówisz o filmach
+
+00:42:52.700 --> 00:42:54.700
+przyrodniczych, bo ja mam w ogóle...
+
+00:42:54.700 --> 00:42:56.700
+Ja mam duże
+
+00:42:56.700 --> 00:42:58.700
+tutaj takie...
+
+00:42:58.700 --> 00:43:00.700
+Że dla mnie to jest trochę
+
+00:43:00.700 --> 00:43:02.700
+jak film David Attenborougha
+
+00:43:02.700 --> 00:43:04.700
+i w ogóle nieprzypadkowo o nim
+
+00:43:04.700 --> 00:43:06.700
+mówię, bo awatar superdużo
+
+00:43:06.700 --> 00:43:08.700
+rzeczy z niego bierze.
+
+00:43:08.700 --> 00:43:10.700
+No na przykład bardzo
+
+00:43:10.700 --> 00:43:12.700
+duży nacisk na ochronę
+
+00:43:12.700 --> 00:43:14.700
+natury, bo o tym jest ten film.
+
+00:43:14.700 --> 00:43:16.700
+Jest to krytyką niszczenia
+
+00:43:16.700 --> 00:43:18.700
+natury i kolonializmu.
+
+00:43:18.700 --> 00:43:20.700
+I trochę mam
+
+00:43:20.700 --> 00:43:22.700
+też problem, bo trochę brakło
+
+00:43:22.700 --> 00:43:24.700
+mi tej ciekawej natury,
+
+00:43:24.700 --> 00:43:26.700
+tej ciekawej przyrody, bo tak realnie
+
+00:43:26.700 --> 00:43:28.700
+dostaliśmy
+
+00:43:28.700 --> 00:43:30.700
+z takich
+
+00:43:30.700 --> 00:43:32.700
+nie wiem
+
+00:43:32.700 --> 00:43:34.700
+zwierząt tutaj, no to
+
+00:43:34.700 --> 00:43:36.700
+dłużej dostaliśmy tego wieloryba,
+
+00:43:36.700 --> 00:43:38.700
+który nie jest wielorybem, ale
+
+00:43:38.700 --> 00:43:40.700
+jest takim remiksem. Agresywny wieloryb.
+
+00:43:40.700 --> 00:43:42.700
+Mamy ładny pejzaż,
+
+00:43:42.700 --> 00:43:44.700
+ale on
+
+00:43:44.700 --> 00:43:46.700
+nie jest oryginalny, bo to jest jednak
+
+00:43:46.700 --> 00:43:48.700
+remiks Polinezji.
+
+00:43:48.700 --> 00:43:50.700
+Tak samo jak
+
+00:43:50.700 --> 00:43:52.700
+ci
+
+00:43:52.700 --> 00:43:54.700
+mieszkańcy tego terenu,
+
+00:43:54.700 --> 00:43:56.700
+no to są Maurysi.
+
+00:43:56.700 --> 00:43:58.700
+On nie jest jakiś tam...
+
+00:43:58.700 --> 00:44:00.700
+No...
+
+00:44:00.700 --> 00:44:02.700
+Przerobieni trochę.
+
+00:44:02.700 --> 00:44:04.700
+No jakby...
+
+00:44:04.700 --> 00:44:06.700
+To jest...
+
+00:44:06.700 --> 00:44:08.700
+W ogóle jeżeli sięgamy po historię,
+
+00:44:08.700 --> 00:44:10.700
+no to jakby począwszy od pierwszego Avatara,
+
+00:44:10.700 --> 00:44:12.700
+to wszyscy mówili, że to jest Pocahontas i faktycznie
+
+00:44:12.700 --> 00:44:14.700
+jest to Pocahontas.
+
+00:44:14.700 --> 00:44:16.700
+To jest też taki jakby się tak...
+
+00:44:16.700 --> 00:44:18.700
+Ja mam też taki...
+
+00:44:18.700 --> 00:44:20.700
+Sam film mi się podobał. Cała ta historia, ona jest taka
+
+00:44:20.700 --> 00:44:22.700
+bardzo rodzinna, że tam
+
+00:44:22.700 --> 00:44:24.700
+ojciec, synowie, żona,
+
+00:44:24.700 --> 00:44:26.700
+wojowniczka, to wszystko się przenika.
+
+00:44:26.700 --> 00:44:28.700
+To jest gdzieś bliskie mojemu sercu. Oczywiście nie żona, wojowniczka.
+
+00:44:28.700 --> 00:44:30.700
+Ale...
+
+00:44:30.700 --> 00:44:32.700
+Ale ta cała
+
+00:44:32.700 --> 00:44:34.700
+rodzinna relacja, która się tam odbywa,
+
+00:44:34.700 --> 00:44:36.700
+ale ten cały kolonializm, walka o środowisko,
+
+00:44:36.700 --> 00:44:38.700
+to jest wszystko takie
+
+00:44:38.700 --> 00:44:40.700
+czarno-białe. Bardzo mocno.
+
+00:44:40.700 --> 00:44:42.700
+Ja mam wrażenie, że cały ten film jest taki, że
+
+00:44:42.700 --> 00:44:44.700
+albo ktoś jest dobry, albo ktoś jest zły.
+
+00:44:44.700 --> 00:44:46.700
+Główny bohater, tam ci komandosi
+
+00:44:46.700 --> 00:44:48.700
+są po prostu źli.
+
+00:44:48.700 --> 00:44:50.700
+I oni na każdym kroku jest tam... Nie ma
+
+00:44:50.700 --> 00:44:52.700
+odcieni szarości, nie?
+
+00:44:52.700 --> 00:44:54.700
+Nie ma refleksji ci ludzie. To prawda.
+
+00:44:54.700 --> 00:44:56.700
+Ich postępowanie jest...
+
+00:44:56.700 --> 00:44:58.700
+To nawet nie jest to, że oni postępują w niewłaściwie,
+
+00:44:58.700 --> 00:45:00.700
+próbują to jakoś racjonalizować.
+
+00:45:00.700 --> 00:45:02.700
+Tylko oni od początku do końca wiedzą, że robią
+
+00:45:02.700 --> 00:45:04.700
+źle, robią to bez żadnych wątpliwości.
+
+00:45:04.700 --> 00:45:06.700
+I wszyscy się oddają
+
+00:45:06.700 --> 00:45:08.700
+tym złym czynom. I przedstawienie...
+
+00:45:08.700 --> 00:45:10.700
+Miałem takie poczucie, że faktycznie
+
+00:45:10.700 --> 00:45:12.700
+przedstawienie tego całego
+
+00:45:12.700 --> 00:45:14.700
+ludzkiego aspektu tej opowieści
+
+00:45:14.700 --> 00:45:16.700
+to jest tylko przez pryzmat wszystkich złych rzeczy,
+
+00:45:16.700 --> 00:45:18.700
+które żeśmy zrobili. A najzabawniejsze
+
+00:45:18.700 --> 00:45:20.700
+tej całej historii jest to, że
+
+00:45:20.700 --> 00:45:22.700
+ten bohater też tak naprawdę jest człowiekiem,
+
+00:45:22.700 --> 00:45:24.700
+który po prostu zmienił kolor skóry.
+
+00:45:24.700 --> 00:45:26.700
+I teraz nagle się stał dobrym bohaterem
+
+00:45:26.700 --> 00:45:28.700
+z definicji. Jest totalnym...
+
+00:45:28.700 --> 00:45:30.700
+Jest totalnym...
+
+00:45:30.700 --> 00:45:32.700
+Jest takim idealnym przedstawicielem rasy ludzkiej,
+
+00:45:32.700 --> 00:45:34.700
+innym niż wszyscy pozostali ludzie, których tam spotykamy.
+
+00:45:34.700 --> 00:45:36.700
+To prawda.
+
+00:45:36.700 --> 00:45:38.700
+Więc tam brakuje trochę
+
+00:45:38.700 --> 00:45:40.700
+odcieni szarości. Może one się gdzieś tam pojawiają,
+
+00:45:40.700 --> 00:45:42.700
+gdzieś tam w końcówce trochę, w tych negatywnych
+
+00:45:42.700 --> 00:45:44.700
+bohaterach. Ale to
+
+00:45:44.700 --> 00:45:46.700
+mi trochę przypomniało...
+
+00:45:46.700 --> 00:45:48.700
+To mi trochę przypominało piąty element.
+
+00:45:48.700 --> 00:45:50.700
+W piątym elemencie, gdzie bardzo jasno jest zarysowane
+
+00:45:50.700 --> 00:45:52.700
+zło i dobro. I tak samo tutaj się
+
+00:45:52.700 --> 00:45:54.700
+wydarzyło, a wydawać by się mogło,
+
+00:45:54.700 --> 00:45:56.700
+że w ludzkich relacjach występuje
+
+00:45:56.700 --> 00:45:58.700
+szersza skala odczuć i zachowań,
+
+00:45:58.700 --> 00:46:00.700
+niż to, co Cameron przedstawił.
+
+00:46:00.700 --> 00:46:02.700
+No i ci pokrzywdzeni
+
+00:46:02.700 --> 00:46:04.700
+mieszkańcy
+
+00:46:04.700 --> 00:46:06.700
+tam autochtoni, tak się mówi,
+
+00:46:06.700 --> 00:46:08.700
+oni są bezwzględnie dobrzy od początku
+
+00:46:08.700 --> 00:46:10.700
+do końca. Mają swoje słabości. Czasami
+
+00:46:10.700 --> 00:46:12.700
+odrzucają to, co jest obce, ale
+
+00:46:12.700 --> 00:46:14.700
+tylko na chwilę. I oni są
+
+00:46:14.700 --> 00:46:16.700
+super idealni, a wszyscy ludzie są bardzo
+
+00:46:16.700 --> 00:46:18.700
+do końca dobrzy. Chyba, że zmienią kolor skóry, to
+
+00:46:18.700 --> 00:46:20.700
+nagle są dobrzy. I to jest
+
+00:46:20.700 --> 00:46:22.700
+taka, proszę państwa, historia
+
+00:46:22.700 --> 00:46:24.700
+dosyć płytka na tym poziomie. Ale
+
+00:46:24.700 --> 00:46:26.700
+samo, jako, że
+
+00:46:26.700 --> 00:46:28.700
+nie mogłem doświadczać tego 3D tak w pełni
+
+00:46:28.700 --> 00:46:30.700
+mocno i może dobrze, na podstawie tego, co
+
+00:46:30.700 --> 00:46:32.700
+Borys mówi. Może źle, na podstawie tego, co mówi
+
+00:46:32.700 --> 00:46:34.700
+Marcin Łukański. No to musiałem się
+
+00:46:34.700 --> 00:46:36.700
+skupić na tej historii, która była tam opowiadana
+
+00:46:36.700 --> 00:46:38.700
+i chłonąłem ją dosyć dobrze przez
+
+00:46:38.700 --> 00:46:40.700
+te trzy godziny. I cieszyły mnie te
+
+00:46:40.700 --> 00:46:42.700
+spowolnienia akcji, ta przyjaźń
+
+00:46:42.700 --> 00:46:44.700
+między chłopcem, a wielorybem.
+
+00:46:44.700 --> 00:46:46.700
+Tego typu
+
+00:46:46.700 --> 00:46:48.700
+relacje między dzieciakami pochodzącymi
+
+00:46:48.700 --> 00:46:50.700
+z innego plemienia. Te konflikty, które tam zachodzą.
+
+00:46:50.700 --> 00:46:52.700
+To się obserwuje trochę jak
+
+00:46:52.700 --> 00:46:54.700
+takiego Big Bradera, ale nie masz
+
+00:46:54.700 --> 00:46:56.700
+wrażenia podglądacza. Takie bardzo to było.
+
+00:46:56.700 --> 00:46:58.700
+Ja mam wrażenie, że oni po prostu
+
+00:46:58.700 --> 00:47:00.700
+wzięli jakieś sprawdzone
+
+00:47:00.700 --> 00:47:02.700
+nawet całe sekwencje.
+
+00:47:02.700 --> 00:47:04.700
+Tak, że to jest bardzo kliszowy jest ten
+
+00:47:04.700 --> 00:47:06.700
+film, nie? On nie ma być,
+
+00:47:06.700 --> 00:47:08.700
+on absolutnie nie próbuje być ambitny.
+
+00:47:08.700 --> 00:47:10.700
+Od początku do końca wszystko jest do przewidzenia.
+
+00:47:10.700 --> 00:47:12.700
+Król lew. Jakby to
+
+00:47:12.700 --> 00:47:14.700
+z Króla Lwa to trzy razy było.
+
+00:47:14.700 --> 00:47:16.700
+Pocahontas w New Yorkie królew. Tak, tak.
+
+00:47:16.700 --> 00:47:18.700
+Trzy razy już podnoszone dziecko było.
+
+00:47:18.700 --> 00:47:20.700
+Tak, tak. To się zgadza. Masz rację.
+
+00:47:20.700 --> 00:47:22.700
+To mogą być takie... Ja nie mam pretensji
+
+00:47:22.700 --> 00:47:24.700
+i nie przeszkadza mi nijaka
+
+00:47:24.700 --> 00:47:26.700
+fabuła w tym filmie. To nie jest...
+
+00:47:26.700 --> 00:47:28.700
+Tylko ja, ale też w ogóle nie wiem
+
+00:47:28.700 --> 00:47:30.700
+dlaczego tak się dzieje. Znaczy dlaczego
+
+00:47:30.700 --> 00:47:32.700
+zdecydowana większość
+
+00:47:32.700 --> 00:47:34.700
+drogich filmów, znaczy tych
+
+00:47:34.700 --> 00:47:36.700
+wysokobudżetowych, rezygnuje
+
+00:47:36.700 --> 00:47:38.700
+z...
+
+00:47:38.700 --> 00:47:40.700
+no z jakiejś
+
+00:47:40.700 --> 00:47:42.700
+ciekawej fabuły.
+
+00:47:42.700 --> 00:47:44.700
+Znaczy...
+
+00:47:44.700 --> 00:47:46.700
+Idzie w tą stronę. No też jest.
+
+00:47:46.700 --> 00:47:48.700
+Więc to może się nie da dwóch rzeczy naraz zrobić.
+
+00:47:50.700 --> 00:47:52.700
+Myślę, że się da. No mieliśmy
+
+00:47:52.700 --> 00:47:54.700
+kiedyś, powstawały takie
+
+00:47:54.700 --> 00:47:56.700
+filmy, które były wizualnie tam
+
+00:47:56.700 --> 00:47:58.700
+niesamowite i...
+
+00:47:58.700 --> 00:48:00.700
+O Matrix chociażby. Pewnie o tym myślisz.
+
+00:48:00.700 --> 00:48:02.700
+No Matrix to jest jedno,
+
+00:48:02.700 --> 00:48:04.700
+ale ten Czas Apokalipsy na przykład.
+
+00:48:04.700 --> 00:48:06.700
+No jakby dużo rzeczy jest takich
+
+00:48:06.700 --> 00:48:08.700
+ciekawych. No teraz jakby jest to tak...
+
+00:48:08.700 --> 00:48:10.700
+Nie wiem, ja podejrzewam,
+
+00:48:10.700 --> 00:48:12.700
+że jednak są to, że nie
+
+00:48:12.700 --> 00:48:14.700
+może być, że to musi być
+
+00:48:14.700 --> 00:48:16.700
+strawne dla
+
+00:48:16.700 --> 00:48:18.700
+dzieci, bo jak nie jest strawne
+
+00:48:18.700 --> 00:48:20.700
+dla dzieci, to nie zrobimy takiego wyniku w kinach.
+
+00:48:20.700 --> 00:48:22.700
+No i jest taka szansa.
+
+00:48:22.700 --> 00:48:24.700
+Ale tak jak mówię,
+
+00:48:24.700 --> 00:48:26.700
+nie przeszkadza mi to.
+
+00:48:26.700 --> 00:48:28.700
+Ja po prostu nie
+
+00:48:28.700 --> 00:48:30.700
+poczułem na tym filmie żadnych emocji.
+
+00:48:30.700 --> 00:48:32.700
+To jest dla mnie największy problem.
+
+00:48:32.700 --> 00:48:34.700
+I nie mogę...
+
+00:48:34.700 --> 00:48:36.700
+Nie masz serca. Nie mogę go ocenić
+
+00:48:36.700 --> 00:48:38.700
+źle, bo nie uważam, że to był
+
+00:48:38.700 --> 00:48:40.700
+jakiś tam zły. Chociaż może
+
+00:48:40.700 --> 00:48:42.700
+jakbym się bardzo postarał, to mógłbym rozjechać
+
+00:48:42.700 --> 00:48:44.700
+ten film straszliwie. Ale też wiem,
+
+00:48:44.700 --> 00:48:46.700
+że to jest takie... Trochę to jest takie
+
+00:48:46.700 --> 00:48:48.700
+demo... Znajmy twoje dobre serce.
+
+00:48:48.700 --> 00:48:50.700
+Nie, no
+
+00:48:50.700 --> 00:48:52.700
+taki byłem trochę... Wyszedłem z tego
+
+00:48:52.700 --> 00:48:54.700
+filmu i tak... Okej.
+
+00:48:56.700 --> 00:48:58.700
+Ładnie to wyglądało,
+
+00:48:58.700 --> 00:49:00.700
+ale... No nie, jeżeli nie doświadczyłeś
+
+00:49:00.700 --> 00:49:02.700
+tego efektu 3D w sposób korzystny,
+
+00:49:02.700 --> 00:49:04.700
+no to niewiele ci tam pozostało rzeczy, którymi
+
+00:49:04.700 --> 00:49:06.700
+mógłbyś się zachwycać. Znaczy ja odebrałem
+
+00:49:06.700 --> 00:49:08.700
+go w sposób... Efekt 3D odebrałem
+
+00:49:08.700 --> 00:49:10.700
+w sposób korzystny, ale ja go po prostu nie lubię.
+
+00:49:10.700 --> 00:49:12.700
+Uważam, że on upraszcza sztukę filmową.
+
+00:49:12.700 --> 00:49:14.700
+Po trzecie też jakby praca
+
+00:49:14.700 --> 00:49:16.700
+kamery w tym filmie
+
+00:49:16.700 --> 00:49:18.700
+była strasznie dziwaczna. W szczególności
+
+00:49:18.700 --> 00:49:20.700
+taka kamera z lotu ptaka,
+
+00:49:20.700 --> 00:49:22.700
+że ona się tak ruszała. Czasami
+
+00:49:22.700 --> 00:49:24.700
+miała takie ścięcia, zoomy,
+
+00:49:24.700 --> 00:49:26.700
+jak takie tanie drony, nie?
+
+00:49:26.700 --> 00:49:28.700
+Okej. Nie wiem.
+
+00:49:28.700 --> 00:49:30.700
+Jakby to tego absolutnie
+
+00:49:30.700 --> 00:49:32.700
+nie zrobiłem. Miałem bardzo,
+
+00:49:32.700 --> 00:49:34.700
+bardzo mocne
+
+00:49:34.700 --> 00:49:36.700
+flashbacki z gier wideo.
+
+00:49:36.700 --> 00:49:38.700
+I...
+
+00:49:38.700 --> 00:49:40.700
+Bo nawet fabuła, że tam mamy
+
+00:49:40.700 --> 00:49:42.700
+nową lokację, zrób parę
+
+00:49:42.700 --> 00:49:44.700
+sidequestów, przypakuj się,
+
+00:49:44.700 --> 00:49:46.700
+zbierz drużynę,
+
+00:49:46.700 --> 00:49:48.700
+pokonaj bossa w jego bazie, nie?
+
+00:49:48.700 --> 00:49:50.700
+Jakby ten schemat jest taki bardzo...
+
+00:49:52.700 --> 00:49:54.700
+Zauważalny tam?
+
+00:49:54.700 --> 00:49:56.700
+Tak, no. Plus to,
+
+00:49:56.700 --> 00:49:58.700
+że nie wiem, Cameron
+
+00:49:58.700 --> 00:50:00.700
+jak...
+
+00:50:00.700 --> 00:50:02.700
+Nie wiem, czy ja lubię filmy Camerona,
+
+00:50:02.700 --> 00:50:04.700
+które są z wodą.
+
+00:50:04.700 --> 00:50:06.700
+Ile ich było?
+
+00:50:06.700 --> 00:50:08.700
+Nie, to było ciekawe.
+
+00:50:08.700 --> 00:50:10.700
+On robił głębię też?
+
+00:50:10.700 --> 00:50:12.700
+Boże, jak się ten o nurkowaniu
+
+00:50:12.700 --> 00:50:14.700
+nazywał? Czekaj chwilę.
+
+00:50:14.700 --> 00:50:16.700
+Teraz widzę żobę i będziemy wpisywali
+
+00:50:16.700 --> 00:50:18.700
+teraz i poszukiwali.
+
+00:50:18.700 --> 00:50:20.700
+Cameron Giyas mi tu wyszło pierwsza.
+
+00:50:24.700 --> 00:50:26.700
+Więc mamy
+
+00:50:26.700 --> 00:50:28.700
+Titanic, mamy
+
+00:50:28.700 --> 00:50:30.700
+czekaj...
+
+00:50:30.700 --> 00:50:32.700
+Głosy z głębin
+
+00:50:32.700 --> 00:50:34.700
+były, ale tego nie widziałem.
+
+00:50:34.700 --> 00:50:36.700
+I jeszcze był ten odchłań.
+
+00:50:36.700 --> 00:50:38.700
+Więc...
+
+00:50:40.700 --> 00:50:42.700
+Myślałem, że jeszcze głębię zrobił,
+
+00:50:42.700 --> 00:50:44.700
+ale najwyraźniej nie. Może mi się pomyliło.
+
+00:50:44.700 --> 00:50:46.700
+Ale on
+
+00:50:46.700 --> 00:50:48.700
+najwyraźniej lubi wodę.
+
+00:50:48.700 --> 00:50:50.700
+To prawda, to prawda. Lubi nurkować.
+
+00:50:52.700 --> 00:50:54.700
+Lubi nurkować na pewno.
+
+00:50:54.700 --> 00:50:56.700
+Ja mam...
+
+00:50:56.700 --> 00:50:58.700
+Ja po prostu mam
+
+00:50:58.700 --> 00:51:00.700
+trochę niedosyt po tym filmie.
+
+00:51:00.700 --> 00:51:02.700
+Że...
+
+00:51:02.700 --> 00:51:04.700
+Jest to technologia, którą
+
+00:51:04.700 --> 00:51:06.700
+ja się nie jaram, bo...
+
+00:51:06.700 --> 00:51:08.700
+Może dlatego, że jest...
+
+00:51:08.700 --> 00:51:10.700
+Nie wiem. Kurczę.
+
+00:51:10.700 --> 00:51:12.700
+Ja jestem...
+
+00:51:12.700 --> 00:51:14.700
+Więcej frajdy
+
+00:51:14.700 --> 00:51:16.700
+z oglądania świata...
+
+00:51:16.700 --> 00:51:18.700
+Jeszcze raz powtórzę to,
+
+00:51:18.700 --> 00:51:20.700
+co mam do powiedzenia. Jeszcze jedną rzecz powtórzę.
+
+00:51:20.700 --> 00:51:22.700
+Bardzo ważną. Żebym nie został źle zrozumiany.
+
+00:51:22.700 --> 00:51:24.700
+Avatar,
+
+00:51:24.700 --> 00:51:26.700
+jeżeli chodzi o efekty
+
+00:51:26.700 --> 00:51:28.700
+i jakość, jest... Nie ma nic
+
+00:51:28.700 --> 00:51:30.700
+na świecie lepszego. Absolutnie. Nie ma.
+
+00:51:30.700 --> 00:51:32.700
+To jest jakby... To, co oni tam zrobili,
+
+00:51:32.700 --> 00:51:34.700
+to jest fenomenalne.
+
+00:51:34.700 --> 00:51:36.700
+Żadna... Żadny inny film,
+
+00:51:36.700 --> 00:51:38.700
+żadna inna gra
+
+00:51:38.700 --> 00:51:40.700
+nawet się nie zbliża do tego poziomu
+
+00:51:40.700 --> 00:51:42.700
+grafiki. Ale ja miałem większą przyjemność
+
+00:51:42.700 --> 00:51:44.700
+z przebywania
+
+00:51:44.700 --> 00:51:46.700
+w świecie w Forbidden West
+
+00:51:46.700 --> 00:51:48.700
+niż tutaj.
+
+00:51:48.700 --> 00:51:50.700
+Okej, okej.
+
+00:51:50.700 --> 00:51:52.700
+W zasadzie, jak żeśmy się zabierali za ten film,
+
+00:51:52.700 --> 00:51:54.700
+to trochę liczyłem na to, że ci się
+
+00:51:54.700 --> 00:51:56.700
+spodoba on wyjątkowo, ale znając
+
+00:51:56.700 --> 00:51:58.700
+ciebie byłbym zaskoczony, gdyby ci się spodobał.
+
+00:51:58.700 --> 00:52:00.700
+Ale to nie jest tak, że mi się nie podoba.
+
+00:52:00.700 --> 00:52:02.700
+To też nie chcę...
+
+00:52:02.700 --> 00:52:04.700
+Nie chcę iść w tą stronę, że to uważam, że to jest...
+
+00:52:04.700 --> 00:52:06.700
+Ja uważam, że to jest po prostu
+
+00:52:06.700 --> 00:52:08.700
+średni film
+
+00:52:08.700 --> 00:52:10.700
+sumarycznie.
+
+00:52:10.700 --> 00:52:12.700
+Chyba nikt się nie będzie kłócił.
+
+00:52:12.700 --> 00:52:14.700
+Musiałbym też... Starałem się unikać
+
+00:52:14.700 --> 00:52:16.700
+recenzji akurat. Marcina Ługańskiego obejrzałem,
+
+00:52:16.700 --> 00:52:18.700
+bo wiedziałem, że on będzie mówił o technicznych rzeczach
+
+00:52:18.700 --> 00:52:20.700
+i to mnie zainteresowało. W sumie w zasadzie
+
+00:52:20.700 --> 00:52:22.700
+mówił mało o technicznych rzeczach. Mówił właściwie o własnych
+
+00:52:22.700 --> 00:52:24.700
+spostrzeżeniach. Jestem ciekaw, czy
+
+00:52:24.700 --> 00:52:26.700
+w przyszłości zrobi film, który tak trochę rozbierze
+
+00:52:26.700 --> 00:52:28.700
+ten film na części, bo on to lubi robić, a ja to lubię też oglądać.
+
+00:52:28.700 --> 00:52:31.700
+Jeżeli...
+
+00:52:31.700 --> 00:52:33.700
+Obiektywnie rzecz biorąc,
+
+00:52:33.700 --> 00:52:35.700
+to ten film jako
+
+00:52:35.700 --> 00:52:37.700
+opowieść, on nie miał być
+
+00:52:37.700 --> 00:52:39.700
+chyba nigdy do jakiejś wybitnej jakości.
+
+00:52:39.700 --> 00:52:41.700
+To znaczy, to jest coś, czego moglibyśmy się spodziewać.
+
+00:52:41.700 --> 00:52:43.700
+To znaczy, fajnie by było, gdyby to się wydarzyło.
+
+00:52:43.700 --> 00:52:45.700
+Natomiast nie jest niespodzianką, że to się
+
+00:52:45.700 --> 00:52:47.700
+nie wydarzyło. To jest bardzo, bardzo prosta
+
+00:52:47.700 --> 00:52:49.700
+opowieść i ona może sprawić przyjemność, jeżeli
+
+00:52:49.700 --> 00:52:51.700
+ją traktujemy jako prostą, nieskomplikowaną opowieść.
+
+00:52:51.700 --> 00:52:53.700
+Tak zresztą było w poprzednim
+
+00:52:53.700 --> 00:52:55.700
+Avatarze. Natomiast jedyną
+
+00:52:55.700 --> 00:52:57.700
+tą mocną stroną musiały być
+
+00:52:57.700 --> 00:52:59.700
+te efekty i musiała być ta technologia,
+
+00:52:59.700 --> 00:53:01.700
+która wyprzedza wszystko. I jeżeli
+
+00:53:01.700 --> 00:53:03.700
+to ci nie przypadło do gustu z różnych powodów,
+
+00:53:03.700 --> 00:53:05.700
+no to niewiele ci pozostaje pola do popisu w tym filmie.
+
+00:53:05.700 --> 00:53:07.700
+To prawda. Ale też jest taka...
+
+00:53:07.700 --> 00:53:09.700
+Ludzie, którzy
+
+00:53:09.700 --> 00:53:11.700
+w pierwszej tej fali poszli na
+
+00:53:11.700 --> 00:53:13.700
+Avatara, to była taka powszechna opinia,
+
+00:53:13.700 --> 00:53:15.700
+że jak ci się nie podobała jedynka,
+
+00:53:15.700 --> 00:53:17.700
+to ci się dwójka też nie spodoba. Jak ci się
+
+00:53:17.700 --> 00:53:19.700
+bardzo podobała dwójka, to tym bardziej dwójka ci się
+
+00:53:19.700 --> 00:53:21.700
+spodoba.
+
+00:53:21.700 --> 00:53:23.700
+Dwójka ci się
+
+00:53:23.700 --> 00:53:25.700
+trzy razy w tej historii...
+
+00:53:25.700 --> 00:53:27.700
+Mniejsza z tym. Tak, coś pomyliłem. Jak ci się
+
+00:53:27.700 --> 00:53:29.700
+jedynka spodobała, to dwójka ci się spodoba.
+
+00:53:29.700 --> 00:53:31.700
+Jak ci się nie podobała jedynka, to
+
+00:53:31.700 --> 00:53:33.700
+dwójka też ci się nie spodoba. Tak jest.
+
+00:53:33.700 --> 00:53:35.700
+To chciałem
+
+00:53:35.700 --> 00:53:37.700
+powiedzieć. No więc...
+
+00:53:37.700 --> 00:53:39.700
+No, wiele więcej do
+
+00:53:39.700 --> 00:53:41.700
+tego filmu dodać nie można. Ja osobiście
+
+00:53:41.700 --> 00:53:43.700
+na bazie moich doświadczeń, to jest też tak.
+
+00:53:43.700 --> 00:53:45.700
+Ja się bawiłem nieźle, ale wiem, że mógłbym
+
+00:53:45.700 --> 00:53:47.700
+się bawić lepiej na lepszym ekranie.
+
+00:53:47.700 --> 00:53:49.700
+No chyba, żeby się okazało, że mam taki
+
+00:53:49.700 --> 00:53:51.700
+poziom spostrzegawczości wyostrzony, jak Borys,
+
+00:53:51.700 --> 00:53:53.700
+i nagle by się okazało, że mi te zmienne
+
+00:53:53.700 --> 00:53:55.700
+klatkarze
+
+00:53:55.700 --> 00:53:57.700
+przeszkadzają. Ale wybiorę się na pewno
+
+00:53:57.700 --> 00:53:59.700
+na ten film, jak się trochę
+
+00:53:59.700 --> 00:54:01.700
+sytuacja w kinach uspokoi, na największym
+
+00:54:01.700 --> 00:54:03.700
+możliwym ekranie, na tym HDRze, HR,
+
+00:54:03.700 --> 00:54:05.700
+HFRze.
+
+00:54:05.700 --> 00:54:07.700
+W ogóle jak
+
+00:54:07.700 --> 00:54:09.700
+szukałem biletów w kinie i patrzę
+
+00:54:09.700 --> 00:54:11.700
+na to HFR, to w pierwszej chwili pomyślałem, że to jest
+
+00:54:11.700 --> 00:54:13.700
+jakiś specyficzny, specyficzna
+
+00:54:13.700 --> 00:54:15.700
+na przykład napisów po ukraińsku.
+
+00:54:15.700 --> 00:54:17.700
+Więc, bo wiesz,
+
+00:54:17.700 --> 00:54:19.700
+jako że mamy dużo tutaj przyjezdnych, to być może
+
+00:54:19.700 --> 00:54:21.700
+wychodzimy też im naprzeciw, oferując filmy
+
+00:54:21.700 --> 00:54:23.700
+w ich wersji językowej. Coś chyba przydarzyło
+
+00:54:23.700 --> 00:54:25.700
+w kinie. No, więc właśnie na początku
+
+00:54:25.700 --> 00:54:27.700
+nie zależyłem w ogóle, co to jest ten HFR.
+
+00:54:27.700 --> 00:54:29.700
+Być może ktoś jeszcze, oprócz mnie
+
+00:54:29.700 --> 00:54:31.700
+także. Więc ja na pewno się wybiorę,
+
+00:54:31.700 --> 00:54:33.700
+bo wydaje mi się, że to jest film
+
+00:54:33.700 --> 00:54:35.700
+przeznaczony do tego rodzaju
+
+00:54:35.700 --> 00:54:37.700
+wyświetlaczy i jeżeli
+
+00:54:37.700 --> 00:54:39.700
+obejrzyjcie państwo ten film, ale
+
+00:54:39.700 --> 00:54:41.700
+pozbawicie się tego, no to nigdy nie będzie to
+
+00:54:41.700 --> 00:54:43.700
+mi takie doświadczenie, jakie Cameron chciał wam zapewnić.
+
+00:54:43.700 --> 00:54:45.700
+I niezależnie od tego, czy ono jest
+
+00:54:45.700 --> 00:54:47.700
+ostatecznie wybitne, czy niewybitne, to jest
+
+00:54:47.700 --> 00:54:49.700
+kwestia odbioru, no to to jest to
+
+00:54:49.700 --> 00:54:51.700
+doświadczenie, które, z
+
+00:54:51.700 --> 00:54:53.700
+myślą, o którym Cameron ten film robił.
+
+00:54:53.700 --> 00:54:55.700
+Znaczy, jak chcecie iść na
+
+00:54:55.700 --> 00:54:57.700
+Avatara 2, to do IMAX, absolutnie.
+
+00:54:57.700 --> 00:54:59.700
+Nie mam wątpliwości tutaj.
+
+00:54:59.700 --> 00:55:01.700
+No, no, no to wtedy zobaczycie ten film
+
+00:55:01.700 --> 00:55:03.700
+w pełnej okazałości. Zresztą okazuje
+
+00:55:03.700 --> 00:55:05.700
+się, że większość takich filmów, które
+
+00:55:05.700 --> 00:55:07.700
+opierają się w dużym stopniu na widowiskowości,
+
+00:55:07.700 --> 00:55:09.700
+no to IMAX przebija wszystko
+
+00:55:09.700 --> 00:55:11.700
+i to znacząco. Nawet do tego stopnia, że
+
+00:55:11.700 --> 00:55:13.700
+Czarny Adam, który jest przyjęty na całym świecie
+
+00:55:13.700 --> 00:55:15.700
+jako totalna wtopa i słaby film,
+
+00:55:15.700 --> 00:55:17.700
+mi się podobał. Mnie tak jakoś otoczył
+
+00:55:17.700 --> 00:55:19.700
+ten film bardzo, bardzo mocno. Może to
+
+00:55:19.700 --> 00:55:21.700
+właśnie jest ta magia tego parku rozrywki.
+
+00:55:21.700 --> 00:55:23.700
+Wiesz co, jest to możliwe.
+
+00:55:23.700 --> 00:55:25.700
+Jest możliwe. Ja ulegam tego typu
+
+00:55:25.700 --> 00:55:27.700
+bardzo prostym impulsom,
+
+00:55:27.700 --> 00:55:29.700
+które mi dostarczają, wiesz, jakąś taką oczywistą
+
+00:55:29.700 --> 00:55:31.700
+radość. Więc, więc to mogło
+
+00:55:31.700 --> 00:55:33.700
+przykryć całą, całą, całą wadę
+
+00:55:33.700 --> 00:55:35.700
+tego filmu, ale z drugiej strony
+
+00:55:35.700 --> 00:55:37.700
+Czarna Pantera 2 jest oznaczana jako
+
+00:55:37.700 --> 00:55:39.700
+biznes pewnego rodzaju, bo na pewno finansowy,
+
+00:55:39.700 --> 00:55:41.700
+a uważam, że to jest film wcale jakościowo
+
+00:55:41.700 --> 00:55:43.700
+nie przebijający Black Adama,
+
+00:55:43.700 --> 00:55:45.700
+więc nie wiem, to pewnie wynika raczej
+
+00:55:45.700 --> 00:55:47.700
+z oddania fanów, niż z jakości
+
+00:55:47.700 --> 00:55:49.700
+tych filmów w jakimkolwiek stopniu.
+
+00:55:49.700 --> 00:55:51.700
+Ale nie wiem, żeśmy tak o Czarnej Panterze 2
+
+00:55:51.700 --> 00:55:53.700
+rozmawiali, chyba też mamy bardzo podobne
+
+00:55:53.700 --> 00:55:55.700
+opinie, nie do końca dobre. No, wydaje
+
+00:55:55.700 --> 00:55:57.700
+mi się, że
+
+00:55:57.700 --> 00:55:59.700
+Black Adam jest
+
+00:55:59.700 --> 00:56:01.700
+kategorią samą
+
+00:56:01.700 --> 00:56:03.700
+dla siebie. Ciężko porównywać
+
+00:56:03.700 --> 00:56:05.700
+go z innymi filmami.
+
+00:56:05.700 --> 00:56:07.700
+Okej, no dobra, to przyjmijmy, że
+
+00:56:07.700 --> 00:56:09.700
+ten IMAX mnie po prostu przytłoczył.
+
+00:56:09.700 --> 00:56:11.700
+Nie mam
+
+00:56:11.700 --> 00:56:13.700
+absolutnie nic na usprawiedliwienie.
+
+00:56:13.700 --> 00:56:15.700
+Żydy mojej dyplomacji szedzą.
+
+00:56:15.700 --> 00:56:17.700
+Kiedy jesteś miły dla mnie,
+
+00:56:17.700 --> 00:56:19.700
+ja czasami tego nie doceniam.
+
+00:56:19.700 --> 00:56:21.700
+Więc,
+
+00:56:21.700 --> 00:56:23.700
+więc tak,
+
+00:56:23.700 --> 00:56:25.700
+no mamy, jest, jest taki film,
+
+00:56:25.700 --> 00:56:27.700
+jest to wydarzenie na pewno, jest to
+
+00:56:29.700 --> 00:56:31.700
+no, to ciekawa rzecz.
+
+00:56:31.700 --> 00:56:33.700
+Ciekawi mnie Państwa opinia
+
+00:56:33.700 --> 00:56:35.700
+na ten temat.
+
+00:56:35.700 --> 00:56:37.700
+Jak byliście, a pewnie byliście, bo kto miał
+
+00:56:37.700 --> 00:56:39.700
+by chodzić do kina?
+
+00:56:39.700 --> 00:56:41.700
+Tak jest proszę Państwa. I będziemy
+
+00:56:41.700 --> 00:56:43.700
+powoli już kończyć, bo wydaje mi się, że mimo
+
+00:56:43.700 --> 00:56:45.700
+tego, że ja jestem umówiony z żoną, to i tak żeśmy
+
+00:56:45.700 --> 00:56:47.700
+temat dosyć mocno wyczerpali. Wydaje mi się, że tak.
+
+00:56:47.700 --> 00:56:49.700
+Wydaje mi się, że tak, więc
+
+00:56:49.700 --> 00:56:51.700
+napiszcie nam oczywiście, jak byliście w kinie
+
+00:56:51.700 --> 00:56:53.700
+o waszych wrażeniach, czy
+
+00:56:53.700 --> 00:56:55.700
+ja jestem ciekaw, ile
+
+00:56:55.700 --> 00:56:57.700
+z was czuło jakiś
+
+00:56:57.700 --> 00:56:59.700
+taki dyskomfort przy
+
+00:56:59.700 --> 00:57:01.700
+tych różnych... No tak, to jest ciekawe pytanie.
+
+00:57:01.700 --> 00:57:03.700
+Wydaje mi się, że bardzo mało. Ja też
+
+00:57:03.700 --> 00:57:05.700
+jestem przekonany,
+
+00:57:05.700 --> 00:57:07.700
+że to będzie
+
+00:57:07.700 --> 00:57:09.700
+mega sukces, że będą ludzie chodzić
+
+00:57:09.700 --> 00:57:11.700
+wielokrotnie na to do kina
+
+00:57:11.700 --> 00:57:13.700
+i tak jak
+
+00:57:13.700 --> 00:57:15.700
+mówię, no nie ma możliwości.
+
+00:57:15.700 --> 00:57:17.700
+Ja chyba w ogóle żonę zabiorę
+
+00:57:17.700 --> 00:57:19.700
+do IMAXa na 3D,
+
+00:57:19.700 --> 00:57:21.700
+no bo ona w ogóle
+
+00:57:21.700 --> 00:57:23.700
+takich filmów nie ogląda, ale to może być takie przeżycie
+
+00:57:23.700 --> 00:57:25.700
+właśnie wizualne, bardzo intensywne.
+
+00:57:25.700 --> 00:57:27.700
+No i co? I pozdrawiamy Państwa
+
+00:57:27.700 --> 00:57:29.700
+i do zobaczenia. Trzymajcie się.
+
+00:57:29.700 --> 00:57:31.700
+Trzymajcie się. Cześć.
+

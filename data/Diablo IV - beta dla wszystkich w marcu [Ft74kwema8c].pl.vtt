@@ -1,0 +1,5542 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:03.800
+Dzień dobry, witamy państwa bardzo, bardzo serdecznie w podcaście Rock i Borys.
+
+00:00:03.820 --> 00:00:06.820
+Jesteśmy Rock i Borys, możecie na nas mówić Rock i Borys. Dzień dobry, Borys.
+
+00:00:06.840 --> 00:00:14.180
+Teraz możecie na nas mówić Rocky Boris, Rookie Boris i różne inne rzeczy.
+
+00:00:14.200 --> 00:00:15.200
+Proszę państwa, to jest...
+
+00:00:15.220 --> 00:00:16.220
+Niekoniecznie.
+
+00:00:16.240 --> 00:00:27.480
+Tak na nas mówi sztuczna inteligencja, dzięki której już na dużej części podcastów
+
+00:00:27.480 --> 00:00:32.480
+już można nas czytać, co my tam mówimy.
+
+00:00:32.500 --> 00:00:33.500
+Tak, jak szczęście.
+
+00:00:33.520 --> 00:00:38.720
+Lepiej nam wychodzi mówienie zdecydowanie, niż jak potem to czytam, co my tam gadamy.
+
+00:00:38.740 --> 00:00:40.440
+To jest doskonałe.
+
+00:00:40.460 --> 00:00:44.460
+Proszę państwa, to jest 529. odcinek naszego podcastu.
+
+00:00:44.480 --> 00:00:48.480
+Dlatego mówię o tym, ponieważ zacząłem...
+
+00:00:48.500 --> 00:00:52.900
+Tak jak kiedyś mówiłem, chciałem zrobić dzięki sztucznej inteligencji
+
+00:00:52.900 --> 00:00:57.900
+napisy po polsku do naszych wszystkich podcastów.
+
+00:00:57.920 --> 00:00:58.920
+Tak, tak, tak.
+
+00:00:58.940 --> 00:01:02.940
+I jako, że musiałem sobie jakoś to zorganizować, żeby się nie zgubić
+
+00:01:02.960 --> 00:01:06.960
+w natłoku tych wszystkich podcastów, więc sobie skatalogowałem te nasze podcasty
+
+00:01:06.980 --> 00:01:14.980
+i idę po kolei, znaczy idę od najnowszego do tyłu i robię te napisy.
+
+00:01:15.000 --> 00:01:20.000
+Już zrobiłem, jest cały zrobiony ten miesiąc, poprzedni i grudzień.
+
+00:01:20.000 --> 00:01:24.000
+I listopad też już jest chyba zrobiony cały.
+
+00:01:24.020 --> 00:01:28.020
+Da się to robić na tyle szybko, że to nie jest dla ciebie już druga praca?
+
+00:01:28.040 --> 00:01:31.040
+Ja ci opowiem, jak to jest i państwu też opowiem.
+
+00:01:31.060 --> 00:01:39.060
+W linku jest tutorial, dzięki któremu udało mi się to ogarnąć dość sprawnie.
+
+00:01:39.080 --> 00:01:45.080
+Wygląda to w taki sposób, że wchodzę sobie na Ancora,
+
+00:01:45.080 --> 00:01:51.080
+czyli tam, gdzie mieszczą się nasze pliki mp3 z podcastem,
+
+00:01:51.100 --> 00:01:55.100
+które potem idą do Spotify'a, Google'a i tak dalej, i tak dalej, i tak dalej.
+
+00:01:55.120 --> 00:02:03.120
+Ściągam sobie plik mp3, który waży koło 70 mega, więc nie jest to bardzo ciężkie.
+
+00:02:03.140 --> 00:02:07.140
+Tę ścieżkę do tego pliku już na dysku kopiuję
+
+00:02:07.160 --> 00:02:13.160
+do takiego bardzo prościutkiego skryptu, który uruchamia whispera.
+
+00:02:13.160 --> 00:02:18.160
+Whisper to jest takie narzędzie do transkrypcji od OpenAI.
+
+00:02:18.180 --> 00:02:24.180
+Wszystko dzieje się w terminalu, tam nie ma żadnego interfejsu.
+
+00:02:24.200 --> 00:02:27.200
+Wszystko muszę tam wklepywać ręcznie.
+
+00:02:27.220 --> 00:02:31.220
+Ja może państwu dzisiaj na streamie pokażę, to będzie najlepiej.
+
+00:02:31.240 --> 00:02:37.240
+Zapraszam o 11, będzie pokaz sztucznej inteligencji na żywo.
+
+00:02:37.240 --> 00:02:45.240
+To trwa transkrypcja, średnio odcinka, do 30 minut.
+
+00:02:45.260 --> 00:02:49.260
+Godzinnego nawet, a może trochę więcej.
+
+00:02:49.280 --> 00:02:54.280
+Nie ma za dużo błędów, znaczy te błędy się zdarzają w transkrypcji,
+
+00:02:54.300 --> 00:02:58.300
+ale muszę przyznać, że zwykle to są błędy, które są raczej zabawne
+
+00:02:58.320 --> 00:03:02.320
+i nie są jakieś takie, zawsze na początku zmieniam tylko ten
+
+00:03:02.320 --> 00:03:08.320
+Rocky Boris albo Boris albo Ruki, więc to jest bardzo zabawne.
+
+00:03:08.340 --> 00:03:12.840
+Dzisiejszy odcinek też już będzie od razu na premierę, proszę państwa, z napisami.
+
+00:03:12.860 --> 00:03:20.860
+Co ciekawe, czasami raz na trzy podcasty wrzuca mi na końcu taki napis
+
+00:03:20.880 --> 00:03:24.880
+napisy stworzone przez społeczność amara.org.
+
+00:03:24.900 --> 00:03:31.900
+Amara.org to jest strona społeczności, która robi napisy do filmów.
+
+00:03:31.900 --> 00:03:36.400
+I no już widzę, gdzie się uczył robić tych napisów.
+
+00:03:36.420 --> 00:03:42.920
+Robił po prostu na Amarze, znaczy pewnie na wielu innych miejscach,
+
+00:03:42.940 --> 00:03:47.940
+no ale pewnie stamtąd ma najwięcej, najwięcej plików.
+
+00:03:47.960 --> 00:03:49.960
+Chcesz usłyszeć spóźniony żart?
+
+00:03:49.980 --> 00:03:51.980
+Dajesz.
+
+00:03:52.000 --> 00:03:56.000
+Jak powiedziałeś, że będą państwo mogli u ciebie na streamie zobaczyć
+
+00:03:56.020 --> 00:04:00.020
+sztuczną inteligencję, to chciałem powiedzieć, ale nie zdążyłem na to wpaść.
+
+00:04:00.020 --> 00:04:03.020
+A oprócz tego zobaczycie państwo także czat GPT.
+
+00:04:03.040 --> 00:04:09.040
+Myślałem, że powiesz, ale prawdziwej, bo prawdziwej tam nie ma.
+
+00:04:09.060 --> 00:04:16.060
+To byłoby też, to byłoby dobre, ale byłoby złośliwe, niepotrzebnie.
+
+00:04:16.080 --> 00:04:19.080
+Ach, tam jakoś bym jakąś przeżył.
+
+00:04:19.100 --> 00:04:21.600
+I powiem szczerze, że zajmuje to trochę czasu.
+
+00:04:21.620 --> 00:04:25.620
+Znaczy zajmuje to tak, że co pół godziny muszę poświęcić
+
+00:04:25.620 --> 00:04:32.620
+pięć minut na to, żeby to ogarnąć i znowu się robi, znowu pół godziny w takich cyklach.
+
+00:04:32.640 --> 00:04:37.640
+Ale mam takie poczucie, zawsze muszę przyznać, zawsze zazdrościłem trochę Quazowi,
+
+00:04:37.660 --> 00:04:44.660
+że on do wszystkich swoich filmów wrzuca transkrypcję
+
+00:04:44.680 --> 00:04:48.680
+i tam są napisy na każdym jego filmie YouTubowym.
+
+00:04:48.700 --> 00:04:51.700
+Inna sprawa, on z tego co pamiętam, że kiedyś mówił,
+
+00:04:51.700 --> 00:04:55.700
+no to jednak ma taki system pracy, że praktycznie scenariusz ma gotowy,
+
+00:04:55.720 --> 00:04:59.720
+więc te napisy nie kosztują go aż tak wiele czasu.
+
+00:04:59.740 --> 00:05:03.740
+Znaczy i tak go kosztują trochę czasu, więc tym bardziej doceniam.
+
+00:05:03.760 --> 00:05:07.760
+No u nas, jak ja bym chciał ręcznie robić te napisy do podcastów,
+
+00:05:07.780 --> 00:05:11.780
+nigdy bym nie zrobił, nie ma po prostu szans.
+
+00:05:11.800 --> 00:05:15.800
+A po prostu uważam, że pamiętam, że kiedyś jak Google wprowadzał
+
+00:05:15.820 --> 00:05:19.820
+w pikselach tą funkcję, że z każdego wideo robi transkrypcję,
+
+00:05:19.820 --> 00:05:22.820
+do tej pory nie ma tego dla języka polskiego,
+
+00:05:22.840 --> 00:05:26.840
+a proszę OpenAI ma za darmo, można korzystać.
+
+00:05:26.860 --> 00:05:33.860
+Więc proszę państwa, w opisie jest ten tutorial, z którego ja korzystałem.
+
+00:05:33.880 --> 00:05:37.880
+Jeżeli macie jakichś twórców, którzy może chcieliby
+
+00:05:37.900 --> 00:05:41.900
+jakieś takie napisy sobie wrzucać, to można to zrobić.
+
+00:05:41.920 --> 00:05:45.920
+Myślę, że średnio ogarnięty YouTuber da radę.
+
+00:05:45.920 --> 00:05:51.920
+W ogóle, jeżeli chodzi o Google i o te czaty i o tą sztuczną inteligencję,
+
+00:05:51.940 --> 00:05:53.940
+to tam ciekawe rzeczy się dzieją.
+
+00:05:53.960 --> 00:05:55.960
+Ciekawe, no właśnie zawsze się dzieją gdzieś w tych social mediach
+
+00:05:55.980 --> 00:05:57.980
+i w takich wielkich korporacjach rzeczy ciekawe,
+
+00:05:58.000 --> 00:06:02.000
+ale w tym kontekście, że jakiś czas temu,
+
+00:06:02.020 --> 00:06:04.020
+no właściwie tak, zacznę od tego, że na Twitterze
+
+00:06:04.040 --> 00:06:06.040
+pojawiła się informacja jakiegoś człowieka, który się podaje
+
+00:06:06.060 --> 00:06:10.060
+za gościa pracującego w Google, że te opcje sztucznej inteligencji Google'a
+
+00:06:10.080 --> 00:06:15.080
+jeszcze nie są gotowe, natomiast tam się pali im pod stopami grunt,
+
+00:06:15.080 --> 00:06:18.080
+bo skoro Microsoft już to wprowadził do swojej wyszukiwarki,
+
+00:06:18.100 --> 00:06:20.100
+no to też chcieliby to mieć, a nie jest do końca gotowe
+
+00:06:20.120 --> 00:06:23.120
+i bałagan straszny i chaos, co jest pewnym zaskoczeniem,
+
+00:06:23.140 --> 00:06:26.140
+bo jakiś czas temu była afera, jakiś człowiek zwolniony z Google'a
+
+00:06:26.160 --> 00:06:29.160
+mówił, że tam już jest sztuczna inteligencja i niepokojąco świadoma,
+
+00:06:29.180 --> 00:06:31.180
+że jest tam świadoma sztuczna inteligencja, która przechodzi
+
+00:06:31.200 --> 00:06:34.200
+te testy Turinga, więc chyba nie przechodzi.
+
+00:06:34.220 --> 00:06:36.220
+Oj, test Turinga to tam już dawno.
+
+00:06:36.240 --> 00:06:40.740
+Test Turinga to jest tylko, żeby udawać rozmowę,
+
+00:06:40.760 --> 00:06:43.760
+to już chyba dawno temu został przetan.
+
+00:06:43.760 --> 00:06:46.760
+Nie sądzę, być może jest tak jak mówisz.
+
+00:06:46.780 --> 00:06:49.780
+Jestem przekonany, bo test Turinga polega na tym,
+
+00:06:49.800 --> 00:06:52.800
+że jest prawdziwy człowiek i sztuczna inteligencja
+
+00:06:52.820 --> 00:06:56.820
+i test odbywa się na zasadzie rozmowy,
+
+00:06:56.840 --> 00:07:02.840
+więc sztuczna inteligencja musi udawać sposób mówienia człowieka.
+
+00:07:02.860 --> 00:07:05.860
+Myślałem, że ten test polega na tym, że jest przeprowadzona rozmowa
+
+00:07:05.880 --> 00:07:08.880
+z ludźmi i z tą sztuczną inteligencją i osoby, które testują
+
+00:07:08.900 --> 00:07:11.900
+mają powiedzieć kto jest człowiekiem, a kto jest sztuczną inteligencją.
+
+00:07:11.900 --> 00:07:14.900
+Na tym to, ale to też tak.
+
+00:07:14.920 --> 00:07:16.920
+To już dawno.
+
+00:07:16.940 --> 00:07:18.940
+Już dawno zostało.
+
+00:07:18.960 --> 00:07:20.960
+To jest ciekawe, bo to jeszcze...
+
+00:07:20.980 --> 00:07:23.980
+Wydaje mi się, że już nikt nie uznaje tego testu Turinga
+
+00:07:24.000 --> 00:07:28.000
+za taki wyznacznik, co jest sztuczną inteligencją, a co nie, bo to jest za łatwe już.
+
+00:07:28.020 --> 00:07:30.020
+Niezła, niezła historia, nie?
+
+00:07:30.040 --> 00:07:33.040
+To znaczy jest, mamy jakieś ustalone zasady
+
+00:07:33.060 --> 00:07:36.060
+i okazuje się, że te zasady w ogóle nie działają,
+
+00:07:36.080 --> 00:07:39.080
+jak się spełni założenia tych zasad.
+
+00:07:39.080 --> 00:07:42.080
+To znaczy, jeżeli ktoś potrafi w tym
+
+00:07:42.100 --> 00:07:45.100
+udawać człowieka wystarczająco skutecznie,
+
+00:07:45.120 --> 00:07:47.120
+to wcale nie znaczy, że jest świadom.
+
+00:07:47.140 --> 00:07:49.140
+A do tej pory takie było założenie tego testu.
+
+00:07:49.160 --> 00:07:51.160
+Też ze świadomością mamy do czynienia wtedy, kiedy człowieka
+
+00:07:51.180 --> 00:07:53.180
+nie można już odróżnić od sztucznej inteligencji.
+
+00:07:53.200 --> 00:07:56.200
+Tak, ale mi to trochę przypomina
+
+00:07:56.220 --> 00:08:00.220
+te testy bezpieczeństwa samochodów.
+
+00:08:00.240 --> 00:08:03.240
+Że tam była jakaś taka afera,
+
+00:08:03.260 --> 00:08:06.260
+że samochody były tak robione, żeby
+
+00:08:06.260 --> 00:08:09.260
+bardzo dobrze przechodzić te testy.
+
+00:08:09.280 --> 00:08:12.280
+Niekoniecznie wnosiło to wiele do bezpieczeństwa
+
+00:08:12.300 --> 00:08:14.300
+poza tymi testami.
+
+00:08:14.320 --> 00:08:16.320
+A, tak, to też oczywiście, tak, tak, tak, tak.
+
+00:08:16.340 --> 00:08:18.340
+Zgadza się, jest dużo takich ciekawych.
+
+00:08:18.360 --> 00:08:21.360
+Więc jak ktoś bardzo chce się uprzeć, żeby przejść jakiś test,
+
+00:08:21.380 --> 00:08:26.380
+to go przejdzie, no czat GPT przecież bez problemu.
+
+00:08:26.400 --> 00:08:30.400
+Tak, tak, jest dużo takich rzeczy absurdalnych na świecie.
+
+00:08:30.420 --> 00:08:33.420
+Ja cały czas przypominam się, nie wiem, czy to jest adekwatna sytuacja.
+
+00:08:33.420 --> 00:08:36.420
+Podejrzewam, że jest mój siostrzeniec, który w Stanach Zjednoczonych,
+
+00:08:36.440 --> 00:08:40.440
+będąc młodym człowiekiem, obsługiwał młodych ortodoksyjnych Żydów
+
+00:08:40.460 --> 00:08:43.460
+na takich letniskowych obozach.
+
+00:08:43.480 --> 00:08:45.480
+Zawsze jest to niedobry wyraz,
+
+00:08:45.500 --> 00:08:47.500
+ale to jest...
+
+00:08:47.520 --> 00:08:49.520
+Już nie opowiem.
+
+00:08:49.540 --> 00:08:53.540
+No, że są tam takie dni, że oni nie mogą używać urządzeń elektrycznych.
+
+00:08:53.560 --> 00:08:57.560
+I wiesz, to ogólnie jaka taka pomoc dla tych dzieci.
+
+00:08:57.580 --> 00:08:59.580
+Tu nie chodzi o to, żeby im pomagać w te konkretne dni,
+
+00:08:59.580 --> 00:09:03.580
+ale w ogóle, żeby tam być, pomagać, pracować.
+
+00:09:03.600 --> 00:09:05.600
+No i jak były te dni, kiedy oni nie mogą używać tych...
+
+00:09:05.620 --> 00:09:07.620
+nie mogą włączyć światła i tak dalej,
+
+00:09:07.640 --> 00:09:09.640
+czy używać windy,
+
+00:09:09.660 --> 00:09:12.660
+no to jakby zakładam, że zasada religijna polega na tym,
+
+00:09:12.680 --> 00:09:14.680
+że nie używanie tego nie polega na wciśnięciu guzika,
+
+00:09:14.700 --> 00:09:18.700
+tylko na korzystaniu z tych dóbr jakby współczesnego świata.
+
+00:09:18.720 --> 00:09:21.720
+Więc oni im włączali światło, oni ich wozili windą,
+
+00:09:21.740 --> 00:09:23.740
+no bo żeby wyminąć te wszystkie zasady.
+
+00:09:23.760 --> 00:09:26.760
+Co mi się wydaje absurdalne, zwłaszcza w środowisku ortodoksyjnym.
+
+00:09:26.760 --> 00:09:30.760
+Albo otrzymamy się zasad, albo uważamy, że one są do kitu
+
+00:09:30.780 --> 00:09:32.780
+i zmieniamy je, nie.
+
+00:09:32.800 --> 00:09:34.800
+No więc takie rzeczy, owszem, się zdarzają czasami.
+
+00:09:34.820 --> 00:09:41.820
+No ale w religii zmiana zasad to jest skomplikowana rzecz, nie.
+
+00:09:41.840 --> 00:09:43.840
+Tak, no niewątpliwie. Jest to jeden z przykładów,
+
+00:09:43.860 --> 00:09:45.860
+że jest to rzecz skomplikowana.
+
+00:09:45.880 --> 00:09:48.880
+No dobrze, więc o czacie i o sztucznej inteligencji
+
+00:09:48.900 --> 00:09:50.900
+mamy mniej więcej obgadane i na pewno będziemy się kręcili
+
+00:09:50.920 --> 00:09:52.920
+wokół tych tematów jeszcze wielokrotnie.
+
+00:09:52.920 --> 00:09:57.420
+Mateusz Chrobok do nas wpadnie do podcastu i odpowie.
+
+00:09:57.440 --> 00:09:59.440
+Ja tam jeszcze post na grupie rzucę,
+
+00:09:59.460 --> 00:10:02.460
+jak państwo będą mieli jakieś pytania do naszego eksperta,
+
+00:10:02.480 --> 00:10:06.480
+pana informatyka, to zapraszam na grupę
+
+00:10:06.500 --> 00:10:08.500
+i tam będzie odpowiedni wątek.
+
+00:10:08.520 --> 00:10:12.520
+Jak najbardziej. A poza tymi rzeczami, coś tam słyszałeś u ciebie ciekawego?
+
+00:10:12.540 --> 00:10:16.540
+Oczywiście. Wreszcie zabrałem się,
+
+00:10:16.560 --> 00:10:19.560
+z myślą oczywiście o tym wyjeździe do Stanów
+
+00:10:19.560 --> 00:10:25.560
+i zamieniłem mojego Steam Deka na Steam Deka 512 GB.
+
+00:10:25.580 --> 00:10:31.580
+Kupiłem sobie taką kostkę pamięci i wymieniłem ją i już mam 512 GB.
+
+00:10:31.600 --> 00:10:37.600
+Kupiłem ją za 370 złotych, co jak na ceny pamięci takich M2
+
+00:10:37.620 --> 00:10:39.620
+normalnych rozmiarów, klasycznych.
+
+00:10:39.640 --> 00:10:42.640
+To jest ogromna cena, ale ta kostka jest bardzo mała.
+
+00:10:42.660 --> 00:10:44.660
+Ja to państwu tutaj pokażę.
+
+00:10:44.660 --> 00:10:49.660
+To jest bardzo mała pamięć i one są niestety bardzo drogie.
+
+00:10:49.680 --> 00:10:54.680
+Nawet miałem taką myśl, żeby kupić sobie jednoterabajtową,
+
+00:10:54.700 --> 00:10:56.700
+bo to byłoby idealne do Steam Deka.
+
+00:10:56.720 --> 00:11:00.720
+Szkoda, że oni nie mają takiej opcji w ogóle.
+
+00:11:00.740 --> 00:11:03.740
+Ale to ponad 1000 zł kosztuje taka pamięć,
+
+00:11:03.760 --> 00:11:06.760
+więc tam czasami się wcześniej zdarzały jakieś okazyjne,
+
+00:11:06.780 --> 00:11:08.780
+ale nigdy nie udało mi się trafić.
+
+00:11:08.780 --> 00:11:14.780
+Więc 520 w środku, 520 na karcie microSD i jestem super zadowolony.
+
+00:11:14.800 --> 00:11:19.800
+Łatwa, sprawna operacja wymiana tego SSD.
+
+00:11:19.820 --> 00:11:26.320
+Naprawdę była komfortowa, szybko i sprawnie to poszło i wszystko działa.
+
+00:11:26.340 --> 00:11:30.340
+Z jednej strony jest to dobra informacja dla ciebie,
+
+00:11:30.360 --> 00:11:33.360
+z drugiej strony zaczynam myśleć, że te gry planszowe,
+
+00:11:33.380 --> 00:11:36.380
+które spakowałem na nasz wyjazd do Ameryki mogą się nie przydać.
+
+00:11:36.380 --> 00:11:41.380
+A są jakieś dla jednego gracza?
+
+00:11:41.400 --> 00:11:44.400
+No tak, dla jednego gracza tak.
+
+00:11:44.420 --> 00:11:50.420
+To jest doskonałe, to jest doskonałe.
+
+00:11:50.440 --> 00:11:53.440
+Ja już tam nas umawiam na proszone kolacje,
+
+00:11:53.460 --> 00:11:55.460
+a ty tutaj jakieś gry planszowe.
+
+00:11:55.480 --> 00:12:00.480
+Ja będę chodził po San Francisco wieczorami i zbierał kosy od bezdomnych,
+
+00:12:00.500 --> 00:12:04.500
+bo tam jest to bezpieczne miejsce z dziki zachód, ta Ameryka.
+
+00:12:04.500 --> 00:12:07.500
+Przybyłeś w San Francisco, byłeś tam, chodziłeś po nocy pijany.
+
+00:12:07.520 --> 00:12:10.520
+Ale ta sytuacja nie uległa poprawie pandemii.
+
+00:12:10.540 --> 00:12:12.540
+Ale ty tak nie wyglądasz na takiego bezbronnego.
+
+00:12:12.560 --> 00:12:17.560
+Jakbym był takim chuliganem w Stanach, bandziorem,
+
+00:12:17.580 --> 00:12:19.580
+to bym się bał tak do ciebie pochodzić z nożem.
+
+00:12:19.600 --> 00:12:21.600
+Tak, bo od razu ktoś mi powiedział, że on krzyczał,
+
+00:12:21.620 --> 00:12:23.620
+paszoł won! i od razu by uciekali.
+
+00:12:23.640 --> 00:12:25.640
+Słyszę, po polsku gadałem czy tam po jakiemuś...
+
+00:12:25.660 --> 00:12:28.660
+Nie, lepiej tutaj znaleźć mi jakiegoś innego narzędzia.
+
+00:12:28.680 --> 00:12:31.680
+Tak, to jest takie złożenie. Będę głośno po polsku mówił.
+
+00:12:31.680 --> 00:12:39.680
+Uważasz, że to jest dobra metoda samoobrony?
+
+00:12:39.700 --> 00:12:41.700
+Możliwe, możliwe.
+
+00:12:41.720 --> 00:12:43.720
+Doskonałe.
+
+00:12:43.740 --> 00:12:45.740
+A co o ciebie?
+
+00:12:45.760 --> 00:12:47.760
+Skoro, skoro. Właśnie, nie czemu to pytanie.
+
+00:12:47.780 --> 00:12:51.780
+Byłem u dziadków, zawiozłem moje dzieci do dziadków.
+
+00:12:51.800 --> 00:12:53.800
+Dziadkowie spędzili miło ten czas, mam nadzieję.
+
+00:12:53.820 --> 00:12:55.820
+Ja też trochę mogłem się poobijać.
+
+00:12:55.840 --> 00:12:59.840
+Pooglądałem sobie konferencję IGN-u całą i wczoraj, i przedwczoraj.
+
+00:12:59.840 --> 00:13:02.840
+No, tam też właściwie trochę oglądałem jednym okiem,
+
+00:13:02.860 --> 00:13:08.860
+bo też uczestniczyłem w tych towarzyskich, jak to się mówi?
+
+00:13:08.880 --> 00:13:10.880
+Aktywności towarzyskie.
+
+00:13:10.900 --> 00:13:16.900
+Korzystałeś, jakby byłeś częścią aktywności towarzyskich,
+
+00:13:16.920 --> 00:13:20.920
+rodzinnych i oglądałeś w tym czasie IGN FanFest?
+
+00:13:20.940 --> 00:13:23.940
+Tak, tak. To wiesz, w mojej rodzinie nie jest nic nadzwyczajnego,
+
+00:13:23.960 --> 00:13:26.960
+bo mój tato na przykład bardzo lubi oglądać skoki narciarskie,
+
+00:13:26.960 --> 00:13:31.960
+albo jak, Boże, Iga Świątek grała w tenisa
+
+00:13:31.980 --> 00:13:33.980
+i ostatnio też właśnie wciągnął mojego syna
+
+00:13:34.000 --> 00:13:36.000
+i też całą drogę powrotną.
+
+00:13:36.020 --> 00:13:39.020
+Mój syn opowiadał, jak to Iga Świątek zlała jakąś przeciwniczkę 6-3, 6-0
+
+00:13:39.040 --> 00:13:43.040
+i jak to, bo ona się ta, co dostała 6-0 w drugim secie,
+
+00:13:43.060 --> 00:13:46.060
+to teraz pewnie z szatni do tej pory nie wyszła,
+
+00:13:46.080 --> 00:13:50.080
+zastydzona tym, więc tam jest fascynacja tym sportem trochę.
+
+00:13:50.100 --> 00:13:53.100
+Więc to nic nadzwyczajnego, że ja oglądałem różne inne rzeczy.
+
+00:13:53.100 --> 00:13:58.100
+Ale też zacząłem sobie oglądać, kupiłem sobie abonament SkyShowTime,
+
+00:13:58.120 --> 00:14:03.120
+o którym żeśmy rozmawiali jeszcze, zanim ta usługa weszła do Polski.
+
+00:14:03.140 --> 00:14:06.140
+Tak trochę przeleciało to poniżej naszych radarów wydaje mi się,
+
+00:14:06.160 --> 00:14:09.160
+bo żeśmy zupełnie zapomnieli chyba o tym, czy pamiętaliśmy.
+
+00:14:09.180 --> 00:14:11.180
+Ja pamiętałem, ale to tak, że...
+
+00:14:11.200 --> 00:14:13.200
+No, ale żeśmy państwu nie powiedzieli nic w ogóle na ten temat.
+
+00:14:13.220 --> 00:14:15.220
+Były ciekawsze tematy niż SkyShowTime.
+
+00:14:15.240 --> 00:14:17.240
+No być może, pewnie tak, pewnie tak,
+
+00:14:17.260 --> 00:14:19.260
+ale w związku z tym, że mamy wstępniaczek,
+
+00:14:19.280 --> 00:14:21.280
+ja mogę krótko się wypowiedzieć na temat tego.
+
+00:14:21.300 --> 00:14:22.300
+Ja dodam coś od siebie.
+
+00:14:22.300 --> 00:14:23.300
+Aha, no to dobrze.
+
+00:14:23.320 --> 00:14:26.320
+To ja nie będę opowiadał o jakości wideo,
+
+00:14:26.340 --> 00:14:28.340
+bo ty pewnie masz dużo do powiedzenia na ten temat.
+
+00:14:28.360 --> 00:14:31.360
+Jak zwykle zresztą i bardzo, bardzo dobrze.
+
+00:14:31.380 --> 00:14:34.380
+Natomiast zacząłem oglądać na barę rzeczy
+
+00:14:34.400 --> 00:14:39.400
+i nie widzę tam zbyt wielu rzeczy, które by tak mi pasowały idealnie
+
+00:14:39.420 --> 00:14:41.420
+albo na które bardzo mocno bym czekał,
+
+00:14:41.440 --> 00:14:43.440
+ale obejrzę sobie Halo.
+
+00:14:43.460 --> 00:14:46.460
+Tego akurat jeszcze nie zacząłem, bo coś innego mam teraz na tapecie.
+
+00:14:46.480 --> 00:14:50.480
+Ale z ogromną przyjemnością oglądam nowego Star Trek'a.
+
+00:14:50.480 --> 00:14:52.480
+To jest chyba Brave New World
+
+00:14:52.500 --> 00:14:54.500
+i to jest cudowny serial.
+
+00:14:54.520 --> 00:14:56.520
+W moim imieniu dużo rzeczy jest cudownych,
+
+00:14:56.540 --> 00:15:01.540
+ale to już musicie państwo się na to być tego świadomi.
+
+00:15:01.560 --> 00:15:06.560
+Chciałem powiedzieć, że to ma taki klimat tych starych Star Trek'ów.
+
+00:15:06.580 --> 00:15:09.580
+Jeszcze generacji z Picardem
+
+00:15:09.600 --> 00:15:12.600
+i relacje między tymi postaciami są takie bardzo budujące,
+
+00:15:12.620 --> 00:15:16.620
+bardzo, bardzo, co sympatyczne, aż takie trochę family-friendly delikatnie.
+
+00:15:16.640 --> 00:15:18.640
+Ale to są takie rzeczy, które lubię
+
+00:15:18.640 --> 00:15:20.640
+i przy okazji całkiem fajne science fiction.
+
+00:15:20.660 --> 00:15:22.660
+Taki powrót trochę do korzeni.
+
+00:15:22.680 --> 00:15:24.680
+Każdy odcinek opowiada jakąś historię, jakąś przygodę
+
+00:15:24.700 --> 00:15:26.700
+i z dużą przyjemnością.
+
+00:15:26.720 --> 00:15:28.720
+On wysoko jest oceniany na IMDB,
+
+00:15:28.740 --> 00:15:30.740
+więc podejrzewam, że pozostali fani Star Trek'a
+
+00:15:30.760 --> 00:15:32.760
+także są zadowoleni z tego serialu.
+
+00:15:32.780 --> 00:15:34.780
+Uważam, że jest lepszy niż generacje te,
+
+00:15:34.800 --> 00:15:36.800
+które robi Netflix albo które pokazuje Netflix.
+
+00:15:36.820 --> 00:15:38.820
+I chyba też jest lepszy niż Picard.
+
+00:15:38.840 --> 00:15:40.840
+I tak zresztą oceny to odzwierciedlają
+
+00:15:40.860 --> 00:15:42.860
+na tych wszystkich bazach.
+
+00:15:42.880 --> 00:15:45.880
+Więc polecam, polecam gorąco.
+
+00:15:45.880 --> 00:15:48.880
+I jeszcze jedną rzecz, zacząłem oglądać
+
+00:15:48.900 --> 00:15:50.900
+z sensacyjnych seriali.
+
+00:15:50.920 --> 00:15:52.920
+Z moją żoną oglądamy
+
+00:15:52.940 --> 00:15:54.940
+Mayor of Kingstown.
+
+00:15:54.960 --> 00:15:57.960
+Ten facet się nazywa chyba Jeremy Renner.
+
+00:15:57.980 --> 00:15:59.980
+Jeremy Renner.
+
+00:16:00.000 --> 00:16:02.000
+To jest ten facet, co wypadek ostatnio miał
+
+00:16:02.020 --> 00:16:04.020
+w Stanach Zjednoczonych podczas odśnieżania.
+
+00:16:04.040 --> 00:16:06.040
+Nie wiem, czy słyszałeś.
+
+00:16:06.060 --> 00:16:08.060
+Ten, co w Avengersach grał?
+
+00:16:08.080 --> 00:16:10.080
+Tak, tak, on w Hawkeye gra także w Avengersach.
+
+00:16:10.100 --> 00:16:13.100
+Bardzo dobry film, bardzo dobry serial sensacyjny.
+
+00:16:13.120 --> 00:16:15.120
+Już dawno żeśmy się tak nie wkręcili.
+
+00:16:15.120 --> 00:16:17.120
+Te dwie rzeczy sprawdziłem.
+
+00:16:17.140 --> 00:16:19.140
+I powiedziałbym, że
+
+00:16:19.160 --> 00:16:21.160
+chciałbym, żeby tam było więcej
+
+00:16:21.180 --> 00:16:23.180
+interesujących rzeczy do obejrzenia.
+
+00:16:23.200 --> 00:16:25.200
+Jest jeszcze Yellowstone z Kevinem Costnerem,
+
+00:16:25.220 --> 00:16:27.220
+który jest bardzo polecany
+
+00:16:27.240 --> 00:16:29.240
+i dobrze oceniany, to też jest u mnie na liście.
+
+00:16:29.260 --> 00:16:31.260
+Warto rzucić okiem na ten serwis,
+
+00:16:31.280 --> 00:16:33.280
+bo on w tej takiej wstępnej formie
+
+00:16:33.300 --> 00:16:35.300
+jest dosyć atrakcyjny cenowo.
+
+00:16:35.320 --> 00:16:38.320
+Ja za niego płacę chyba 12 złotych miesięcznie.
+
+00:16:38.340 --> 00:16:41.340
+I jeżeli będę podtrzymywał ten abonament,
+
+00:16:41.360 --> 00:16:43.360
+to będę płacił zawsze
+
+00:16:43.360 --> 00:16:45.360
+maksymalnie połowę aktualnej stawki.
+
+00:16:45.380 --> 00:16:47.380
+Jest taka forma promocji.
+
+00:16:47.400 --> 00:16:50.400
+W Age of Beasts podobna promocja była.
+
+00:16:50.420 --> 00:16:52.420
+Tak? Też była?
+
+00:16:52.440 --> 00:16:54.440
+O kurcze, to to mnie chyba...
+
+00:16:54.460 --> 00:16:56.460
+Nie wiem, czy było 50 czy 25,
+
+00:16:56.480 --> 00:16:58.480
+jakaś taka była stała zniżka.
+
+00:16:58.500 --> 00:17:00.500
+No tutaj na pewno jest ta deklaracja,
+
+00:17:00.520 --> 00:17:02.520
+że tak długo jak będę podtrzymywał abonament,
+
+00:17:02.540 --> 00:17:04.540
+to będę płacił 50% stawki.
+
+00:17:04.560 --> 00:17:06.560
+Co w moim przypadku może ma sens,
+
+00:17:06.580 --> 00:17:08.580
+no bo i tak zawsze coś się przytrafi,
+
+00:17:08.600 --> 00:17:10.600
+o czym możemy pogadać, więc...
+
+00:17:10.620 --> 00:17:12.620
+Nie, tak, tak.
+
+00:17:12.620 --> 00:17:14.620
+Oczywiście jest to taka forma
+
+00:17:14.640 --> 00:17:16.640
+utrzymania tych abonentów,
+
+00:17:16.660 --> 00:17:18.660
+bo z reguły jest tak, że serwis
+
+00:17:18.680 --> 00:17:20.680
+wchodząc do jakiegoś kraju,
+
+00:17:20.700 --> 00:17:22.700
+cieszy się zainteresowaniem na początku,
+
+00:17:22.720 --> 00:17:24.720
+a potem ci ludzie odpływają,
+
+00:17:24.740 --> 00:17:26.740
+jak już sobie obejrzą to, co ich interesuje.
+
+00:17:26.760 --> 00:17:28.760
+Więc SkyShow Time wpadł na całkiem
+
+00:17:28.780 --> 00:17:30.780
+niegłupi pomysł. No i tyle.
+
+00:17:30.800 --> 00:17:32.800
+I filmy są w full HD na razie maksymalnie.
+
+00:17:32.820 --> 00:17:34.820
+Tak, ale bardzo dobra jest to w full HD.
+
+00:17:34.840 --> 00:17:36.840
+Duży bitrate jest.
+
+00:17:36.860 --> 00:17:38.860
+Nie widać, że to byłby taki dramat
+
+00:17:38.880 --> 00:17:40.880
+jak w EA Play na przykład.
+
+00:17:40.880 --> 00:17:42.880
+Jakościowo to jest lepsze niż HBO.
+
+00:17:42.900 --> 00:17:44.900
+O, proszę.
+
+00:17:44.920 --> 00:17:46.920
+Tylko, znaczy te rzeczy HBO to są
+
+00:17:46.940 --> 00:17:48.940
+w full HD powiedzmy.
+
+00:17:48.960 --> 00:17:50.960
+Więc jest okej.
+
+00:17:50.980 --> 00:17:52.980
+Wolałbym oczywiście taką jakość,
+
+00:17:53.000 --> 00:17:55.000
+jak ma Apple TV,
+
+00:17:55.020 --> 00:17:57.020
+ale no to raczej...
+
+00:17:57.040 --> 00:17:59.040
+Trzeba będzie poczekać.
+
+00:17:59.060 --> 00:18:01.060
+Trzeba będzie poczekać.
+
+00:18:01.080 --> 00:18:03.080
+Tak, deklarowali się, że będzie to ulepszane.
+
+00:18:03.100 --> 00:18:05.100
+Ja oczywiście kupiłem sobie,
+
+00:18:05.120 --> 00:18:07.120
+razem z moimi trzema kolegami na spółkę,
+
+00:18:07.140 --> 00:18:09.140
+więc płacimy 4 złotych miesięcznie.
+
+00:18:09.140 --> 00:18:11.140
+Więc jakby idealny deal.
+
+00:18:11.160 --> 00:18:13.160
+Nie ma może za dużo tam treści.
+
+00:18:13.180 --> 00:18:15.180
+To nie jest tak, że zostaniemy zawaleni.
+
+00:18:15.200 --> 00:18:17.200
+Ale jest naprawdę sporo ciekawych.
+
+00:18:17.220 --> 00:18:19.220
+Ja pierwsze co odpaliłem to
+
+00:18:19.240 --> 00:18:21.240
+The Offer.
+
+00:18:21.260 --> 00:18:23.260
+Serial, na który czekałem
+
+00:18:23.280 --> 00:18:25.280
+bardzo długo.
+
+00:18:25.300 --> 00:18:27.300
+O który się bardzo obawiałem, ponieważ
+
+00:18:27.320 --> 00:18:29.320
+został raczej zjechany
+
+00:18:29.340 --> 00:18:31.340
+przez krytyków i tam miał średnią
+
+00:18:31.360 --> 00:18:33.360
+od krytyków jakieś 5 na 10,
+
+00:18:33.380 --> 00:18:35.380
+ale od fanów chyba 8 na 10.
+
+00:18:35.400 --> 00:18:37.400
+Od widzów.
+
+00:18:37.400 --> 00:18:39.400
+Wspominający o produkcji Ojca Chrzestnego.
+
+00:18:39.420 --> 00:18:41.420
+To jest serial fabularny.
+
+00:18:41.440 --> 00:18:43.440
+Jest naprawdę niezły.
+
+00:18:43.460 --> 00:18:45.460
+Ja go wczoraj skończyłem.
+
+00:18:45.480 --> 00:18:47.480
+I jestem pod dużym wrażeniem.
+
+00:18:47.500 --> 00:18:49.500
+On ma swoje problemy.
+
+00:18:49.520 --> 00:18:51.520
+Ma problemy z tempem.
+
+00:18:51.540 --> 00:18:53.540
+Uważam, że jest trochę za długi.
+
+00:18:53.560 --> 00:18:55.560
+Że trochę odcinków
+
+00:18:55.580 --> 00:18:57.580
+powinno być ściętych.
+
+00:18:57.600 --> 00:18:59.600
+Ale super opowiedziana historia.
+
+00:18:59.620 --> 00:19:01.620
+Realizacyjnie nieźle zrobiony.
+
+00:19:01.640 --> 00:19:03.640
+Sam trochę tak
+
+00:19:03.660 --> 00:19:05.660
+żartuję z samego siebie.
+
+00:19:05.660 --> 00:19:07.660
+W pewnych momentach.
+
+00:19:07.680 --> 00:19:09.680
+No bo jest to produkcja
+
+00:19:09.700 --> 00:19:11.700
+produkcji filmów.
+
+00:19:11.720 --> 00:19:13.720
+I jest taka scena,
+
+00:19:13.740 --> 00:19:15.740
+gdzie oni mówią, słuchaj, po co my tutaj jesteśmy?
+
+00:19:15.760 --> 00:19:17.760
+Wystarczyłoby
+
+00:19:17.780 --> 00:19:19.780
+wziąć bliższe kadry.
+
+00:19:19.800 --> 00:19:21.800
+Ciaśniej to skadrować.
+
+00:19:21.820 --> 00:19:23.820
+I my możemy to nagrać wcześniej.
+
+00:19:23.840 --> 00:19:25.840
+I oszczędzamy tam 30 tysięcy dolarów.
+
+00:19:25.860 --> 00:19:27.860
+Bo to jest piękne w ogóle.
+
+00:19:27.880 --> 00:19:29.880
+Jak ktoś nie wie, czym się zajmuje
+
+00:19:29.900 --> 00:19:31.900
+producent filmowy w Stanach Zjednoczonych,
+
+00:19:31.920 --> 00:19:33.920
+to tutaj jest
+
+00:19:33.920 --> 00:19:35.920
+to historia właśnie
+
+00:19:35.940 --> 00:19:37.940
+producenta filmowego.
+
+00:19:37.960 --> 00:19:39.960
+No proszę.
+
+00:19:39.980 --> 00:19:41.980
+I naprawdę bardzo polecam państwu
+
+00:19:42.000 --> 00:19:44.000
+obejrzeć ten film.
+
+00:19:44.020 --> 00:19:46.020
+Ten serial.
+
+00:19:46.040 --> 00:19:48.040
+Wróć.
+
+00:19:48.060 --> 00:19:50.060
+I tam jest potem
+
+00:19:50.080 --> 00:19:52.080
+serial,
+
+00:19:52.100 --> 00:19:54.100
+robi jakby to samo
+
+00:19:54.120 --> 00:19:56.120
+na pewnym wydarzeniu.
+
+00:19:56.140 --> 00:19:58.140
+Nie będę mówił, bo to spoiler.
+
+00:19:58.160 --> 00:20:00.160
+Chociaż historia jest znana, bo to jest na podstawie
+
+00:20:00.180 --> 00:20:02.180
+prawdziwej historii.
+
+00:20:02.180 --> 00:20:04.180
+I to samo jakby robi
+
+00:20:04.200 --> 00:20:06.200
+też ciasno kadruje
+
+00:20:06.220 --> 00:20:08.220
+i widać, że tam nie było
+
+00:20:08.240 --> 00:20:10.240
+pieniędzy po prostu na tą scenę.
+
+00:20:10.260 --> 00:20:12.260
+Więc jest to bardzo zabawne.
+
+00:20:12.280 --> 00:20:14.280
+Dobrze się ogląda ten serial.
+
+00:20:14.300 --> 00:20:16.300
+Oczywiście ja trochę jestem
+
+00:20:16.320 --> 00:20:18.320
+zafascynowany światem kina, więc na pewno
+
+00:20:18.340 --> 00:20:20.340
+lepiej to
+
+00:20:20.360 --> 00:20:22.360
+przyjmuję, ale
+
+00:20:22.380 --> 00:20:24.380
+zadziwiają mnie te bardzo słabe oceny
+
+00:20:24.400 --> 00:20:26.400
+od krytyków.
+
+00:20:26.420 --> 00:20:28.420
+Bo ciężko tu się przywalić do
+
+00:20:28.440 --> 00:20:30.440
+realizacji.
+
+00:20:30.440 --> 00:20:32.440
+Bardzo dobrze zagrali. Te realia są świetne.
+
+00:20:32.460 --> 00:20:34.460
+Więc tam
+
+00:20:34.480 --> 00:20:36.480
+wszystko się zgadza.
+
+00:20:36.500 --> 00:20:38.500
+Ja bym naprawdę się doczepił tylko do paru
+
+00:20:38.520 --> 00:20:40.520
+takich rzeczy i to takich
+
+00:20:40.540 --> 00:20:42.540
+związanych z
+
+00:20:42.560 --> 00:20:44.560
+tempem
+
+00:20:44.580 --> 00:20:46.580
+tego serialu.
+
+00:20:46.600 --> 00:20:48.600
+Co ciekawe, on tam w ogóle
+
+00:20:48.620 --> 00:20:50.620
+taki, że główny bohater
+
+00:20:50.640 --> 00:20:52.640
+nie jest jednoznaczny moralnie.
+
+00:20:52.660 --> 00:20:54.660
+To też jest bardzo ciekawy wątek
+
+00:20:54.680 --> 00:20:56.680
+i on jest dobrze pokazany w tym serialu.
+
+00:20:56.700 --> 00:20:58.700
+Mhm. Okej.
+
+00:20:58.700 --> 00:21:00.700
+Polecam, polecam państwu The Offer.
+
+00:21:00.720 --> 00:21:02.720
+Sprawdziłem sobie
+
+00:21:02.740 --> 00:21:04.740
+oceny, żeby tak
+
+00:21:04.760 --> 00:21:06.760
+jeżeli chodzi o oceny
+
+00:21:06.780 --> 00:21:08.780
+to ma 8,7
+
+00:21:08.800 --> 00:21:10.800
+na IMDB. To jest bardzo wysoka
+
+00:21:10.820 --> 00:21:12.820
+w takim dominujący
+
+00:21:12.840 --> 00:21:14.840
+w skali, znaczy ten
+
+00:21:14.860 --> 00:21:16.860
+dziesiątek i dziewiątek jest sporo.
+
+00:21:16.880 --> 00:21:18.880
+Jeżeli chodzi
+
+00:21:18.900 --> 00:21:20.900
+i to jest też bardzo duży ocen, więc powiedziałbym
+
+00:21:20.920 --> 00:21:22.920
+być może twoja opinia na temat
+
+00:21:22.940 --> 00:21:24.940
+recenzji jest
+
+00:21:24.960 --> 00:21:26.960
+chybiona tym razem, chyba że to polskie
+
+00:21:26.960 --> 00:21:28.960
+recenzje. Nie, nie.
+
+00:21:28.980 --> 00:21:30.980
+Zobacz sobie na Rotten Tomatoes
+
+00:21:31.000 --> 00:21:33.000
+oceny krytyków. Nie, no ja na Rotten
+
+00:21:33.020 --> 00:21:35.020
+Tomatoes nie zaglądam od czasu
+
+00:21:35.040 --> 00:21:37.040
+tych
+
+00:21:37.060 --> 00:21:39.060
+rzeczy związanych ze stand-upami
+
+00:21:39.080 --> 00:21:41.080
+Dave'a Chappella. To znaczy jakby rozumiem, że można
+
+00:21:41.100 --> 00:21:43.100
+mieć zastrzeżenia co do...
+
+00:21:43.120 --> 00:21:45.120
+Rotten Tomatoes i krytycy, którzy tam
+
+00:21:45.140 --> 00:21:47.140
+uczestniczą w ocenie bardzo często
+
+00:21:47.160 --> 00:21:49.160
+nie kierują się treścią.
+
+00:21:49.180 --> 00:21:51.180
+Przepraszam?
+
+00:21:51.200 --> 00:21:53.200
+Wszyscy prawie tam uczestniczą.
+
+00:21:53.220 --> 00:21:55.220
+No ale to jest...
+
+00:21:55.220 --> 00:21:57.220
+To ma 57 od
+
+00:21:57.240 --> 00:21:59.240
+krytyków, 94
+
+00:21:59.260 --> 00:22:01.260
+od publiczności.
+
+00:22:01.280 --> 00:22:03.280
+A, okej, okej, no
+
+00:22:03.300 --> 00:22:05.300
+dobra, może będę musiał zacząć zaglądać
+
+00:22:05.320 --> 00:22:07.320
+na Rotten Tomatoes. Dla mnie to nie jest rzetelne
+
+00:22:07.340 --> 00:22:09.340
+źródło informacji na temat jakości
+
+00:22:09.360 --> 00:22:11.360
+czegokolwiek.
+
+00:22:11.380 --> 00:22:13.380
+To tak jakbyś szukał w Kotaku recenzji
+
+00:22:13.400 --> 00:22:15.400
+na temat Hogwarts Legacy
+
+00:22:15.420 --> 00:22:17.420
+licząc na to, że dostaniesz rzetelną recenzję gry.
+
+00:22:17.440 --> 00:22:19.440
+Znaczy ja uważam, że to jest dobre narzędzie
+
+00:22:19.460 --> 00:22:21.460
+w sensie takim, że
+
+00:22:21.480 --> 00:22:23.480
+to ocena na Rotten Tomatoes
+
+00:22:23.480 --> 00:22:25.480
+nie oznacza, czy to jest zły film,
+
+00:22:25.500 --> 00:22:27.500
+czy dobry, tylko mówi coś o nastrojach.
+
+00:22:27.520 --> 00:22:29.520
+Okej.
+
+00:22:29.540 --> 00:22:31.540
+To pewnie ma szansę.
+
+00:22:31.560 --> 00:22:33.560
+Raczej tak to traktuję.
+
+00:22:33.580 --> 00:22:35.580
+To już poprzednio rozmawialiśmy, że
+
+00:22:35.600 --> 00:22:37.600
+jesteśmy
+
+00:22:37.620 --> 00:22:39.620
+fanami filmów, które
+
+00:22:39.640 --> 00:22:41.640
+nie zawsze
+
+00:22:41.660 --> 00:22:43.660
+publikaczy, krytycy doceniają.
+
+00:22:43.680 --> 00:22:45.680
+To prawda.
+
+00:22:45.700 --> 00:22:47.700
+Jesteśmy unikalni, zwłaszcza ja.
+
+00:22:47.720 --> 00:22:49.720
+Więc
+
+00:22:49.740 --> 00:22:51.740
+tak jak mówię,
+
+00:22:51.740 --> 00:22:53.740
+dla mnie to jest po prostu
+
+00:22:53.760 --> 00:22:55.760
+ciekawe, że to tak
+
+00:22:55.780 --> 00:22:57.780
+wygląda.
+
+00:22:57.800 --> 00:22:59.800
+W ramach badania nastrojów
+
+00:22:59.820 --> 00:23:01.820
+jest to całkiem sensowne. Zresztą wiesz,
+
+00:23:01.840 --> 00:23:03.840
+dzięki temu, że ja sobie tutaj patrzę na IMDB,
+
+00:23:03.860 --> 00:23:05.860
+a ty sobie patrzysz na Rotten Tomatoes,
+
+00:23:05.880 --> 00:23:07.880
+to mamy nagle rozbieżne punkty widzenia.
+
+00:23:07.900 --> 00:23:09.900
+Można się zastanawiać, dlaczego.
+
+00:23:09.920 --> 00:23:11.920
+Czy coś, w tendency. No dobra.
+
+00:23:11.940 --> 00:23:13.940
+Ale polecam państwu.
+
+00:23:13.960 --> 00:23:15.960
+Jeszcze jest ten
+
+00:23:15.980 --> 00:23:17.980
+o serial
+
+00:23:18.000 --> 00:23:20.000
+o twórcy Ubera i to też chcę zobaczyć,
+
+00:23:20.000 --> 00:23:22.000
+bo podobnie jest ciekawe.
+
+00:23:22.020 --> 00:23:24.020
+Dumper, superdumper, superdumper
+
+00:23:24.040 --> 00:23:26.040
+jakoś tak się to nazywa. Przypomniał mi się
+
+00:23:26.060 --> 00:23:28.060
+jeszcze, tak, tak, jest ten serial,
+
+00:23:28.080 --> 00:23:30.080
+też go widziałem. Przypomniał mi się
+
+00:23:30.100 --> 00:23:32.100
+Tetris, który oglądałem, ale za chwilę
+
+00:23:32.120 --> 00:23:34.120
+później sobie również przypomniałem, że to jest coś, co będziemy
+
+00:23:34.140 --> 00:23:36.140
+dzisiaj obgadywali, bo to było także na IGN.
+
+00:23:36.160 --> 00:23:38.160
+Czy to było na IGN-ie, tak?
+
+00:23:38.180 --> 00:23:40.180
+Na pewno
+
+00:23:40.200 --> 00:23:42.200
+nie jestem pewny, czy było na samym IGN-ie,
+
+00:23:42.220 --> 00:23:44.220
+natomiast ten Tetris pojawił się w tym
+
+00:23:44.240 --> 00:23:46.240
+czasie, w którym IGN działał, więc...
+
+00:23:46.260 --> 00:23:48.260
+Ale właśnie, bo my
+
+00:23:48.260 --> 00:23:50.260
+sobie przechodzimy już do omawia... Rozumiem, czy jeszcze
+
+00:23:50.280 --> 00:23:52.280
+coś chcesz dodać? Nie, nie, nie, chyba powiedziałem
+
+00:23:52.300 --> 00:23:54.300
+państwu wszystko, jeszcze szybko zerknę do swoich...
+
+00:23:54.320 --> 00:23:56.320
+Nie, już powiedziałem państwu
+
+00:23:56.340 --> 00:23:58.340
+wszystko. No to świetnie. Proszę państwa, odbył się
+
+00:23:58.360 --> 00:24:00.360
+IGN
+
+00:24:00.380 --> 00:24:02.380
+FanFest, czyli taki
+
+00:24:02.400 --> 00:24:04.400
+coroczny event
+
+00:24:04.420 --> 00:24:06.420
+związany z redakcją IGN-u.
+
+00:24:06.440 --> 00:24:08.440
+No i tam się pojawiło parę
+
+00:24:08.460 --> 00:24:10.460
+takich rzeczy
+
+00:24:10.480 --> 00:24:12.480
+związanych z filmami, serialami
+
+00:24:12.500 --> 00:24:14.500
+i przede wszystkim oczywiście grami.
+
+00:24:14.520 --> 00:24:16.520
+My sobie omówimy
+
+00:24:16.520 --> 00:24:18.520
+bardzo ciekawsze rzeczy, czyli na przykład właśnie
+
+00:24:18.540 --> 00:24:20.540
+betę Diablo 4,
+
+00:24:20.560 --> 00:24:22.560
+która została ogłoszona,
+
+00:24:22.580 --> 00:24:24.580
+czy Witchfire,
+
+00:24:24.600 --> 00:24:26.600
+gdzie został pokazany
+
+00:24:26.620 --> 00:24:28.620
+w pewien sposób model strzelania,
+
+00:24:28.640 --> 00:24:30.640
+ale zanim tego, zanim tutaj zajmę się,
+
+00:24:30.660 --> 00:24:32.660
+to tam się pojawił
+
+00:24:32.680 --> 00:24:34.680
+bardzo ciekawy wątek związany
+
+00:24:34.700 --> 00:24:36.700
+z Hogwarts Legacy, specjalnie
+
+00:24:36.720 --> 00:24:38.720
+o tym mówię, żebyśmy mogli zrobić tytuł i okładkę.
+
+00:24:38.740 --> 00:24:40.740
+Nie, nie, nie żartuję.
+
+00:24:40.760 --> 00:24:42.760
+Przecież to taki żart.
+
+00:24:42.780 --> 00:24:44.780
+Ale to rzeczywiście widać,
+
+00:24:44.780 --> 00:24:46.780
+że tych materiałów
+
+00:24:46.800 --> 00:24:48.800
+w internecie Hogwarts Legacy
+
+00:24:48.820 --> 00:24:50.820
+to wszyscy, ile mogą,
+
+00:24:50.840 --> 00:24:52.840
+to produkują.
+
+00:24:52.860 --> 00:24:54.860
+My się podtrzymujemy bardzo mocno.
+
+00:24:54.880 --> 00:24:56.880
+To jest cały czas, cały czas.
+
+00:24:56.900 --> 00:24:58.900
+Twórcy powiedzieli, że nie będzie
+
+00:24:58.920 --> 00:25:00.920
+żadnego DLC.
+
+00:25:00.940 --> 00:25:02.940
+Tak, znaczy nic nie jest...
+
+00:25:02.960 --> 00:25:04.960
+Właściwie powiedzieli dokładnie,
+
+00:25:04.980 --> 00:25:06.980
+że nad niczym nie są prowadzone
+
+00:25:07.000 --> 00:25:09.000
+prace, co jest pewnym zaskoczeniem. Dużo osób
+
+00:25:09.020 --> 00:25:11.020
+liczyło na tego Quidditcha i to DLC.
+
+00:25:11.040 --> 00:25:13.040
+Ja też państwu,
+
+00:25:13.040 --> 00:25:15.040
+przypomnę,
+
+00:25:15.060 --> 00:25:17.060
+że w większości
+
+00:25:17.080 --> 00:25:19.080
+przypadków, jakie ja znam,
+
+00:25:19.100 --> 00:25:21.100
+to DLC są planowane
+
+00:25:21.120 --> 00:25:23.120
+na etapie
+
+00:25:23.140 --> 00:25:25.140
+przed wydaniem gry.
+
+00:25:25.160 --> 00:25:27.160
+To prawda i nawet część rzeczy jest już
+
+00:25:27.180 --> 00:25:29.180
+właściwie w trakcie pracy nad grą
+
+00:25:29.200 --> 00:25:31.200
+tak, że pracuje się trochę nad tymi elementami DLC
+
+00:25:31.220 --> 00:25:33.220
+jeżeli nie nad całością.
+
+00:25:33.240 --> 00:25:35.240
+Więc być może
+
+00:25:35.260 --> 00:25:37.260
+nie będzie. Chyba można
+
+00:25:37.280 --> 00:25:39.280
+właściwie
+
+00:25:39.300 --> 00:25:41.300
+z dosyć dużą pewnością powiedzieć,
+
+00:25:41.300 --> 00:25:43.300
+że to będzie kontynuacja tej gry.
+
+00:25:43.320 --> 00:25:45.320
+No bo to jest sprzedażowy
+
+00:25:45.340 --> 00:25:47.340
+tytan.
+
+00:25:47.360 --> 00:25:49.360
+Ale to ciekawe w ogóle jest, że
+
+00:25:49.380 --> 00:25:51.380
+no bo może być tak, że oni stwierdzą
+
+00:25:51.400 --> 00:25:53.400
+okej
+
+00:25:53.420 --> 00:25:55.420
+co nam się teraz bardziej opłaca
+
+00:25:55.440 --> 00:25:57.440
+czyli na przykład fajniej byłoby zrobić
+
+00:25:57.460 --> 00:25:59.460
+dodatek
+
+00:25:59.480 --> 00:26:01.480
+a może słuchajcie
+
+00:26:01.500 --> 00:26:03.500
+tam nic więcej nie trzeba.
+
+00:26:03.520 --> 00:26:05.520
+Róbcie te poprawki
+
+00:26:05.540 --> 00:26:07.540
+jeszcze czekają na sporty
+
+00:26:07.560 --> 00:26:09.560
+jak oni zrobią tą wersję na Switcha
+
+00:26:09.560 --> 00:26:11.560
+przecież tam się zajadą
+
+00:26:11.580 --> 00:26:13.580
+i niech robi
+
+00:26:13.600 --> 00:26:15.600
+już ta część techniczna, te porty
+
+00:26:15.620 --> 00:26:17.620
+a niech reszta robi dwójkę.
+
+00:26:17.640 --> 00:26:19.640
+Tak moim zdaniem to jest jakby
+
+00:26:19.660 --> 00:26:21.660
+najbardziej sensowny
+
+00:26:21.680 --> 00:26:23.680
+biznesowo kierunek
+
+00:26:23.700 --> 00:26:25.700
+w szczególności
+
+00:26:25.720 --> 00:26:27.720
+że już stawiam, że przejdą na Unreal 5
+
+00:26:27.740 --> 00:26:29.740
+więc będzie też
+
+00:26:29.760 --> 00:26:31.760
+to nie jest też tak, że to jest
+
+00:26:31.780 --> 00:26:33.780
+takie łatwe przejście
+
+00:26:33.800 --> 00:26:35.800
+i bez problemu, tylko też trochę inaczej
+
+00:26:35.820 --> 00:26:37.820
+się pracuje.
+
+00:26:37.820 --> 00:26:39.820
+No myślę, że tak.
+
+00:26:39.840 --> 00:26:41.840
+Bo wiesz, ten silnik
+
+00:26:41.860 --> 00:26:43.860
+ma swoje niedoskonałości, to jest
+
+00:26:43.880 --> 00:26:45.880
+oczywiste, ale
+
+00:26:45.900 --> 00:26:47.900
+cały proces przejścia
+
+00:26:47.920 --> 00:26:49.920
+bo tu mają wszystkie narzędzia gotowe
+
+00:26:49.940 --> 00:26:51.940
+i jeszcze nie tylko gotowe, ale mają
+
+00:26:51.960 --> 00:26:53.960
+całą ekipę, która
+
+00:26:53.980 --> 00:26:55.980
+rozumie te narzędzia i potrafi z nich korzystać
+
+00:26:56.000 --> 00:26:58.000
+nie wiem czy będą chcieli przejść na piątkę
+
+00:26:58.020 --> 00:27:00.020
+to byłby jeden z ciekawszych
+
+00:27:00.040 --> 00:27:02.040
+manewrów, gdyby się wydarzył
+
+00:27:02.060 --> 00:27:04.060
+między jedynką a dwójką.
+
+00:27:04.080 --> 00:27:06.080
+Przy tak ogromnym sukcesie, to jest ogromny sukces
+
+00:27:06.080 --> 00:27:08.080
+mają wsparcie Epica zapewnione.
+
+00:27:08.100 --> 00:27:10.100
+To mogę ci zagwarantować.
+
+00:27:10.120 --> 00:27:12.120
+Druga rzecz to jest taka
+
+00:27:12.140 --> 00:27:14.140
+no że my tą drugą część
+
+00:27:14.160 --> 00:27:16.160
+zobaczymy, no biorąc pod uwagę
+
+00:27:16.180 --> 00:27:18.180
+że duża część
+
+00:27:18.200 --> 00:27:20.200
+asetów zostanie
+
+00:27:20.220 --> 00:27:22.220
+przeniesiona, no to najwcześniej za 4 lata.
+
+00:27:22.240 --> 00:27:24.240
+No nie ma, no nie, nawet nie.
+
+00:27:24.260 --> 00:27:26.260
+A za 4, 4 i pół
+
+00:27:26.280 --> 00:27:28.280
+no gdzieś za 5 lat pewnie.
+
+00:27:28.300 --> 00:27:30.300
+Ile czasu żeśmy czekali na God of War'a? 4 lata, nie?
+
+00:27:30.320 --> 00:27:32.320
+Mhm.
+
+00:27:32.340 --> 00:27:34.340
+A God of War chyba jest łatwiejszy, byłby łatwiejszy, bo
+
+00:27:34.340 --> 00:27:36.340
+jakby budowę świata gry ma łatwiejszą
+
+00:27:36.360 --> 00:27:38.360
+pewnie do... Tak.
+
+00:27:38.380 --> 00:27:40.380
+Chociaż kurcze, no popatrz, z drugiej strony mamy tak, że
+
+00:27:40.400 --> 00:27:42.400
+w Hogwarts Legacy mamy ten świat gry
+
+00:27:42.420 --> 00:27:44.420
+wiesz, to jest świat
+
+00:27:44.440 --> 00:27:46.440
+otwarty, ale on może
+
+00:27:46.460 --> 00:27:48.460
+być przeniesiony jeden do jeden, nie?
+
+00:27:48.480 --> 00:27:50.480
+W God of War jednak ten cały świat
+
+00:27:50.500 --> 00:27:52.500
+jakkolwiek liniowy on by nie był, to był
+
+00:27:52.520 --> 00:27:54.520
+budowany od początku, od podstaw, nie?
+
+00:27:54.540 --> 00:27:56.540
+Natomiast jakby ilość asetów, które można wykorzystać
+
+00:27:56.560 --> 00:27:58.560
+ponownie w Hogwarts jest
+
+00:27:58.580 --> 00:28:00.580
+tytaniczna, samo Hogwarts jest...
+
+00:28:00.600 --> 00:28:02.600
+Tylko pytanie, czy
+
+00:28:02.600 --> 00:28:04.600
+to jest dobre rozwiązanie, że jeszcze raz
+
+00:28:04.620 --> 00:28:06.620
+dostajemy
+
+00:28:06.640 --> 00:28:08.640
+zamek, Hogwarts i te same tereny, nie?
+
+00:28:08.660 --> 00:28:10.660
+To na pewno, to jest konieczność
+
+00:28:10.680 --> 00:28:12.680
+wręcz, w sensie
+
+00:28:12.700 --> 00:28:14.700
+oprócz tego co jest, musi się pojawić coś jeszcze
+
+00:28:14.720 --> 00:28:16.720
+jakby siłą rzeczy, ale nie wyobrażam
+
+00:28:16.740 --> 00:28:18.740
+sobie Hogwarts Legacy bez zamku
+
+00:28:18.760 --> 00:28:20.760
+on jest po pierwsze doskonale zrobiony
+
+00:28:20.780 --> 00:28:22.780
+po drugie stanowi ważną część tej
+
+00:28:22.800 --> 00:28:24.800
+całej historii, dziwnie by było gdyby...
+
+00:28:24.820 --> 00:28:26.820
+Myślę, że tam jest
+
+00:28:26.840 --> 00:28:28.840
+stosując taki prosty trik
+
+00:28:28.860 --> 00:28:30.860
+typu przeniesienie czasu
+
+00:28:30.860 --> 00:28:32.860
+czyli mamy innego
+
+00:28:32.880 --> 00:28:34.880
+bohatera, inną historię, inny czas
+
+00:28:34.900 --> 00:28:36.900
+to można
+
+00:28:36.920 --> 00:28:38.920
+tyle pozmieniać rzeczy w tym
+
+00:28:38.940 --> 00:28:40.940
+zamku, że...
+
+00:28:40.960 --> 00:28:42.960
+No tak, trzeba by znajdźki poustawiać w innych miejscach
+
+00:28:42.980 --> 00:28:44.980
+to już jest...
+
+00:28:45.000 --> 00:28:47.000
+No nie wiem, no to ja...
+
+00:28:47.020 --> 00:28:49.020
+Ja mam takie wrażenie, że to jest dość spory
+
+00:28:49.040 --> 00:28:51.040
+problem, chociaż znając życie
+
+00:28:51.060 --> 00:28:53.060
+to w komentarzach dowiem się
+
+00:28:53.080 --> 00:28:55.080
+to co ty powiedziałeś, jak może być
+
+00:28:55.100 --> 00:28:57.100
+Hogwarts Legacy bez Hogwartsu.
+
+00:28:57.120 --> 00:28:59.120
+No to myślę, że tak, że przemawiam do głosem
+
+00:28:59.120 --> 00:29:01.120
+tłumu.
+
+00:29:01.140 --> 00:29:03.140
+Z bardzo bulwersowanego twoim podejściem zresztą.
+
+00:29:03.160 --> 00:29:05.160
+Te cztery... Znaczy wiesz co, no bo
+
+00:29:05.180 --> 00:29:07.180
+wydaje mi się, że
+
+00:29:07.200 --> 00:29:09.200
+można na przykład
+
+00:29:09.220 --> 00:29:11.220
+okej, może być
+
+00:29:11.240 --> 00:29:13.240
+Hogwarts z taką bazą, albo gdzie zaczynamy
+
+00:29:13.260 --> 00:29:15.260
+potem dużo czasu na przykład możemy spędzić
+
+00:29:15.280 --> 00:29:17.280
+w Londynie.
+
+00:29:17.300 --> 00:29:19.300
+Pewnie, jest dużo.
+
+00:29:19.320 --> 00:29:21.320
+Może być ten turniej trójmagiczny w innej
+
+00:29:21.340 --> 00:29:23.340
+szkole.
+
+00:29:23.360 --> 00:29:25.360
+No jakby...
+
+00:29:25.380 --> 00:29:27.380
+To uniwersum jest bogate.
+
+00:29:27.380 --> 00:29:29.380
+Ludzie w obcym języku.
+
+00:29:29.400 --> 00:29:31.400
+Dużo rzeczy można tam zrobić.
+
+00:29:31.420 --> 00:29:33.420
+Pieniądze... Tak jak mówię, no to mamy
+
+00:29:33.440 --> 00:29:35.440
+sytuację, gdzie
+
+00:29:35.460 --> 00:29:37.460
+zarobili bardzo, bardzo dużo pieniędzy.
+
+00:29:37.480 --> 00:29:39.480
+Przypomnę, że te pierwsze
+
+00:29:39.500 --> 00:29:41.500
+trzysta tysięcy kopii ponad
+
+00:29:41.520 --> 00:29:43.520
+na PC
+
+00:29:43.540 --> 00:29:45.540
+sprzedało się w tej
+
+00:29:45.560 --> 00:29:47.560
+wyższej cenie jeszcze.
+
+00:29:47.580 --> 00:29:49.580
+To są potężne pieniądze.
+
+00:29:49.600 --> 00:29:51.600
+I jeszcze ta gra będzie się sprzedawać
+
+00:29:51.620 --> 00:29:53.620
+latami.
+
+00:29:53.640 --> 00:29:55.640
+Jeszcze jest stara generacja, jeszcze Switch.
+
+00:29:55.640 --> 00:29:57.640
+Więc...
+
+00:29:57.660 --> 00:29:59.660
+Nie wiem, czy serialu nie zrobią pod tym samym
+
+00:29:59.680 --> 00:30:01.680
+tytułem, bo wiesz, to się roz...
+
+00:30:01.700 --> 00:30:03.700
+No wiesz, jest platforma, na której mogą
+
+00:30:03.720 --> 00:30:05.720
+funkcjonować. Jakby to też jest
+
+00:30:05.740 --> 00:30:07.740
+a propos jakby... Ja wiem, że to jest temat
+
+00:30:07.760 --> 00:30:09.760
+który żeśmy przerabiali na kilka możliwych
+
+00:30:09.780 --> 00:30:11.780
+sposobów, ale jakby bojkot
+
+00:30:11.800 --> 00:30:13.800
+platform VOD, które robią, które
+
+00:30:13.820 --> 00:30:15.820
+zarabiają cały czas gigantyczne pieniądze na
+
+00:30:15.840 --> 00:30:17.840
+obecności tych dzieł
+
+00:30:17.860 --> 00:30:19.860
+czyli Harry'ego Pottera, no jakoś nie
+
+00:30:19.880 --> 00:30:21.880
+dotyczy ten bojkot ich.
+
+00:30:21.900 --> 00:30:23.900
+Mimo, że tam też można by uderzać, ale...
+
+00:30:23.900 --> 00:30:25.900
+Tam były jakieś przy tym...
+
+00:30:25.920 --> 00:30:27.920
+Nie, nie, nie. Tam cały czas są jakieś
+
+00:30:27.940 --> 00:30:29.940
+małe rzeczy. Tutaj też
+
+00:30:29.960 --> 00:30:31.960
+powiedzmy sobie szczerze, bojkot to był taki...
+
+00:30:31.980 --> 00:30:33.980
+No skuteczność była mizerna, natomiast
+
+00:30:34.000 --> 00:30:36.000
+hałas był ogromny, ale może dlatego, że to nasza
+
+00:30:36.020 --> 00:30:38.020
+bańka, wiesz, może...
+
+00:30:38.040 --> 00:30:40.040
+Oczywiście zdarzały się jakieś takie sytuacje, że
+
+00:30:40.060 --> 00:30:42.060
+ktoś komuś groził śmiercią i tam były jakieś
+
+00:30:42.080 --> 00:30:44.080
+takie tragedie, no ale
+
+00:30:44.100 --> 00:30:46.100
+ja ostatnio na streamie też gadałem o tym z ludźmi,
+
+00:30:46.120 --> 00:30:48.120
+że...
+
+00:30:48.140 --> 00:30:50.140
+To takie mówienie, że bojkot polega na tym,
+
+00:30:50.160 --> 00:30:52.160
+że ktoś przychodzi na streama i
+
+00:30:52.160 --> 00:30:54.160
+wyrzuca ci spoilery.
+
+00:30:54.180 --> 00:30:56.180
+To jest w ogóle fantastyczne.
+
+00:30:56.200 --> 00:30:58.200
+Wiesz, to jest...
+
+00:30:58.220 --> 00:31:00.220
+Od roku streamuję i wydarzyło się to
+
+00:31:00.240 --> 00:31:02.240
+w każdej grze, w którą grałem.
+
+00:31:02.260 --> 00:31:04.260
+Tak, i nie zawsze wynika to z aktywizmu.
+
+00:31:04.280 --> 00:31:06.280
+I to nigdy nie wynika z tego, że zawsze ktoś
+
+00:31:06.300 --> 00:31:08.300
+przyjdzie i ci zespojleruje.
+
+00:31:08.320 --> 00:31:10.320
+Teraz jakby, czy gadamy o jakimś filmie,
+
+00:31:10.340 --> 00:31:12.340
+zawsze ktoś przyjdzie i zespojleruje.
+
+00:31:12.360 --> 00:31:14.360
+To jakby bojkot permanentny.
+
+00:31:14.380 --> 00:31:16.380
+Tak, tak, tak. To prawda, to prawda.
+
+00:31:16.400 --> 00:31:18.400
+Nie, nie.
+
+00:31:18.420 --> 00:31:20.420
+Nie ma, nie ma nic.
+
+00:31:20.420 --> 00:31:22.420
+To jest rzecz nagminna akurat.
+
+00:31:22.440 --> 00:31:24.440
+To prawda.
+
+00:31:24.460 --> 00:31:26.460
+Dobrze, to przejdźmy sobie do
+
+00:31:26.480 --> 00:31:28.480
+zwiastuna Tetrisa, proszę państwa.
+
+00:31:28.500 --> 00:31:30.500
+Wiesz co, zanim tam się wybierzesz,
+
+00:31:30.520 --> 00:31:32.520
+bo to jest bardzo
+
+00:31:32.540 --> 00:31:34.540
+zacna rzecz, ja też chcę o niej pogadać.
+
+00:31:34.560 --> 00:31:36.560
+Chciałem wrzucić parę słów na temat IGNu.
+
+00:31:36.580 --> 00:31:38.580
+Ja nie wiem, czy IGN dosyć regularnie robi
+
+00:31:38.600 --> 00:31:40.600
+tego typu imprezy.
+
+00:31:40.620 --> 00:31:42.620
+W roku, rok temu robili na pewno.
+
+00:31:42.640 --> 00:31:44.640
+Ale dopiero w tym roku, gdy my podejmujemy
+
+00:31:44.660 --> 00:31:46.660
+ten temat, to było dosyć, dosyć
+
+00:31:46.680 --> 00:31:48.680
+nie najgorzej się to oglądało. Ja pamiętam
+
+00:31:48.680 --> 00:31:50.680
+wczoraj jak odpalałem streama, to na YouTubie było
+
+00:31:50.700 --> 00:31:52.700
+46 tysięcy osób, co nie jest
+
+00:31:52.720 --> 00:31:54.720
+złym wynikiem, zważywszy na to, że
+
+00:31:54.740 --> 00:31:56.740
+przedwczoraj, czyli ta pierwsza
+
+00:31:56.760 --> 00:31:58.760
+ta imprezowa konferencja,
+
+00:31:58.780 --> 00:32:00.780
+no taka była
+
+00:32:00.800 --> 00:32:02.800
+poczucie humoru na poziomie
+
+00:32:02.820 --> 00:32:04.820
+słabszych konferencji, gdzie są
+
+00:32:04.840 --> 00:32:06.840
+próbują ludzie być dowcipni, nie zawsze im się to udaje.
+
+00:32:06.860 --> 00:32:08.860
+Rozmowy z aktorami są bardzo
+
+00:32:08.880 --> 00:32:10.880
+w ogóle z twórcami
+
+00:32:10.900 --> 00:32:12.900
+filmów to jest, ciężko mi się tego
+
+00:32:12.920 --> 00:32:14.920
+słucha, bo po pierwsze wywiady są
+
+00:32:14.940 --> 00:32:16.940
+średnie i pytania nie do końca są
+
+00:32:16.940 --> 00:32:18.940
+pracowne, są po prostu takie rozmowy, żeby były.
+
+00:32:18.960 --> 00:32:20.960
+Ale już mnie strasznie męczy
+
+00:32:20.980 --> 00:32:22.980
+za każdym razem, kiedy aktorzy opowiadają
+
+00:32:23.000 --> 00:32:25.000
+o pracy na planie, to
+
+00:32:25.020 --> 00:32:27.020
+ilość superlatyw, jaka jest zrzucana
+
+00:32:27.040 --> 00:32:29.040
+w stronę ludzi, z którymi pracują,
+
+00:32:29.060 --> 00:32:31.060
+tam jest takie smarowanie strasznie
+
+00:32:31.080 --> 00:32:33.080
+i wiesz, wiadomo, że
+
+00:32:33.100 --> 00:32:35.100
+człowiek popracował, że przeżył
+
+00:32:35.120 --> 00:32:37.120
+coś fajnego, że odczuwa
+
+00:32:37.140 --> 00:32:39.140
+jakąś wdzięczność, ale większość tych wywiadów
+
+00:32:39.160 --> 00:32:41.160
+sprowadza się do opowiadania, boże, jacy ludzie
+
+00:32:41.180 --> 00:32:43.180
+są cudowni dookoła, z którymi pracowałem,
+
+00:32:43.200 --> 00:32:45.200
+że będę wdzięczny do końca życia znajomości,
+
+00:32:45.200 --> 00:32:47.200
+zawsze pozostaną, to
+
+00:32:47.220 --> 00:32:49.220
+zaczyna mnie męczyć i to na większości
+
+00:32:49.240 --> 00:32:51.240
+filmowych konferencji jest, np. na Disneyu
+
+00:32:51.260 --> 00:32:53.260
+też tak oglądałem, strasznie sobie
+
+00:32:53.280 --> 00:32:55.280
+kadzą, tak się mówi, kadzić, to jest dobry
+
+00:32:55.300 --> 00:32:57.300
+wyraz, strasznie się podlizują
+
+00:32:57.320 --> 00:32:59.320
+i to ciężko mi się tego ogląda,
+
+00:32:59.340 --> 00:33:01.340
+chociaż jeżeli chodzi o kokainowego
+
+00:33:01.360 --> 00:33:03.360
+misia, to nie było aż tak źle, ale to też
+
+00:33:03.380 --> 00:33:05.380
+za chwilę o tym sobie pogadamy.
+
+00:33:05.400 --> 00:33:07.400
+Polecam The Offer, polecam The Offer,
+
+00:33:07.420 --> 00:33:09.420
+tam jest dużo takich scen z planu,
+
+00:33:09.440 --> 00:33:11.440
+gdzie ludzie są zawsze,
+
+00:33:11.460 --> 00:33:13.440
+widać, że na planie
+
+00:33:13.440 --> 00:33:15.440
+filmowym ludzie zawsze są mili dla siebie,
+
+00:33:15.460 --> 00:33:17.460
+cudownie się pracowało i
+
+00:33:17.480 --> 00:33:19.480
+wszyscy są bardzo serdeczni.
+
+00:33:19.500 --> 00:33:21.480
+Ironicznie bardzo, Borys mówi, gdyby
+
+00:33:21.500 --> 00:33:23.500
+państwo byli.
+
+00:33:23.520 --> 00:33:25.520
+Na pewno nie dochodzi takich rzeczy jak np.
+
+00:33:25.540 --> 00:33:27.540
+pobicie aktora przez innego aktora
+
+00:33:27.560 --> 00:33:29.560
+albo jakieś
+
+00:33:29.580 --> 00:33:31.580
+molestowanie, w ogóle
+
+00:33:31.600 --> 00:33:33.600
+to już zupełnie jakby, zresztą
+
+00:33:33.620 --> 00:33:35.620
+tutaj w tym The Offer jest to taki
+
+00:33:35.640 --> 00:33:37.640
+dosyć mocny, mocny wątek.
+
+00:33:37.660 --> 00:33:39.660
+No, ale zamykając jeszcze
+
+00:33:39.680 --> 00:33:41.680
+do IGN-u, z IGN-em
+
+00:33:41.680 --> 00:33:43.680
+jest taki problem, że oni trochę
+
+00:33:43.700 --> 00:33:45.700
+stali się monopolistą na YouTubie, jeżeli
+
+00:33:45.720 --> 00:33:47.720
+chodzi o informacje, oni mają taką
+
+00:33:47.740 --> 00:33:49.740
+usługę, która się nazywa usługę, czy tam formę
+
+00:33:49.760 --> 00:33:51.760
+prezentacji materiałów, która nazywa się
+
+00:33:51.780 --> 00:33:53.780
+IGN First, że muszą być
+
+00:33:53.800 --> 00:33:55.800
+pierwsi, jeżeli są pierwsi, no to
+
+00:33:55.820 --> 00:33:57.820
+więcej uwagi poświęcają grze, więc oni mają
+
+00:33:57.840 --> 00:33:59.840
+coś do zaoferowania i ludzie, którzy tworzą
+
+00:33:59.860 --> 00:34:01.860
+gry idą na ten układ, ale
+
+00:34:01.880 --> 00:34:03.880
+efekt jest taki, że inne serwisy,
+
+00:34:03.900 --> 00:34:05.900
+które funkcjonują na YouTubie, no nie mają
+
+00:34:05.920 --> 00:34:07.920
+takiej szansy i trochę są zawsze do tyłu.
+
+00:34:07.940 --> 00:34:09.940
+I to jest forma monopolu, za którą ja nie przepadam,
+
+00:34:09.940 --> 00:34:11.940
+taka ekskluzywność, za którą nie przepadam.
+
+00:34:11.960 --> 00:34:13.960
+A propos Hogwarts Legacy, ekskluzywna misja
+
+00:34:13.980 --> 00:34:15.980
+na PlayStation 5 jest fenomenalna,
+
+00:34:16.000 --> 00:34:18.000
+jakby to jest jedna z lepszych misji w ogóle
+
+00:34:18.020 --> 00:34:20.020
+w całym Hogwarcie i też mi się nie podoba, że jest
+
+00:34:20.040 --> 00:34:22.040
+tylko tam, więc w ogóle wszelkie formy
+
+00:34:22.060 --> 00:34:24.060
+ekskluzywności są rzeczą niefajną
+
+00:34:24.080 --> 00:34:26.080
+i źle wpływają na konkurencję
+
+00:34:26.100 --> 00:34:28.100
+i na jakość materiałów. Co tak cię za ten?
+
+00:34:28.120 --> 00:34:30.120
+Woto, ja robię cały czas.
+
+00:34:30.140 --> 00:34:32.140
+Pierwsze, co idę
+
+00:34:32.160 --> 00:34:34.160
+gdzieś z kimś, rozmawiam
+
+00:34:34.180 --> 00:34:36.180
+czy zapraszam gościa, to mówię
+
+00:34:36.200 --> 00:34:38.200
+ale chcemy
+
+00:34:38.200 --> 00:34:40.200
+tutaj pierwsi być albo
+
+00:34:40.220 --> 00:34:42.220
+chcemy pierwsi pokazać jakiś
+
+00:34:42.240 --> 00:34:44.240
+kawałek rozgrywki albo
+
+00:34:44.260 --> 00:34:46.260
+u nas macie coś pierwszego powiedzieć
+
+00:34:46.280 --> 00:34:48.280
+pierwsze, co to idę i tak
+
+00:34:48.300 --> 00:34:50.300
+gada z ludźmi.
+
+00:34:50.320 --> 00:34:52.320
+Tak?
+
+00:34:52.340 --> 00:34:54.340
+Ale to nie jest tak, że...
+
+00:34:54.360 --> 00:34:56.360
+Ty nie robisz tego w ten sposób, nie?
+
+00:34:56.380 --> 00:34:58.380
+Ja już sobie przypominam, jak ty
+
+00:34:58.400 --> 00:35:00.400
+wiesz, no chcemy mieć coś,
+
+00:35:00.420 --> 00:35:02.420
+czego nie ma nikt inny, ale nie po to, żeby
+
+00:35:02.440 --> 00:35:04.440
+innych eliminować, tylko żeby mieć coś wyjątkowego.
+
+00:35:04.460 --> 00:35:06.460
+To nie jest tak, że w tym czasie nikt więcej
+
+00:35:06.460 --> 00:35:08.460
+a nie nic tylko my, bo o taką
+
+00:35:08.480 --> 00:35:10.480
+ekskluzywność walczy IGN, nie?
+
+00:35:10.500 --> 00:35:12.500
+I ja też, bo to najlepiej działa.
+
+00:35:12.520 --> 00:35:14.520
+Dla mnie to jest w ogóle...
+
+00:35:14.540 --> 00:35:16.540
+Przynajmniej jesteśmy hipokratami, na to wygląda.
+
+00:35:16.560 --> 00:35:18.560
+Znaczy ty nie jesteś, ja jestem, na to wygląda.
+
+00:35:18.580 --> 00:35:20.580
+Dla mnie to jest super deal.
+
+00:35:20.600 --> 00:35:22.600
+Idzie, że robisz materiał, masz coś
+
+00:35:22.620 --> 00:35:24.620
+ekskluzywnego i on się wtedy ogląda.
+
+00:35:24.640 --> 00:35:26.640
+Ja chcę mieć
+
+00:35:26.660 --> 00:35:28.660
+coś istotnego, ważnego
+
+00:35:28.680 --> 00:35:30.680
+jak, wiesz,
+
+00:35:30.700 --> 00:35:32.700
+jeżeli, bo będziemy teraz
+
+00:35:32.720 --> 00:35:34.720
+pewnie robić takie materiały
+
+00:35:34.720 --> 00:35:36.720
+też z twórcami
+
+00:35:36.740 --> 00:35:38.740
+różnych gier, które będą wychodzić
+
+00:35:38.760 --> 00:35:40.760
+w najbliższych czasach, to ja też tak
+
+00:35:40.780 --> 00:35:42.780
+trochę rozmawiam. Mówię, dobra, okej,
+
+00:35:42.800 --> 00:35:44.800
+kumam, że IGN jest pierwszy,
+
+00:35:44.820 --> 00:35:46.820
+nie? Rozumiem,
+
+00:35:46.840 --> 00:35:48.840
+ale na przykład chcę mieć
+
+00:35:48.860 --> 00:35:50.860
+pierwszy w Polsce, tak, jakby coś
+
+00:35:50.880 --> 00:35:52.880
+takiego, nie?
+
+00:35:52.900 --> 00:35:54.900
+Okej, okej, no dobrze, no to nie podejrzewałem cię aż o takie tutaj
+
+00:35:54.920 --> 00:35:56.920
+praktyki.
+
+00:35:56.940 --> 00:35:58.940
+Wydawało mi się, że ci mówiłem, ale
+
+00:35:58.960 --> 00:36:00.960
+mogę ci nie mówić.
+
+00:36:00.980 --> 00:36:02.980
+Nie wiesz, bo ja to czasami słucham, ale jak
+
+00:36:02.980 --> 00:36:04.980
+mi się coś nie podobało moralnie, to
+
+00:36:05.000 --> 00:36:07.000
+udaje, że nie słyszałem, nie?
+
+00:36:07.020 --> 00:36:09.020
+Ale to jest, znaczy, wiesz co, czy to jest moralnie,
+
+00:36:09.040 --> 00:36:11.040
+no bo to tak jakby się wszyscy dostają
+
+00:36:11.060 --> 00:36:13.060
+po równi, ale dlaczego tak ma być?
+
+00:36:13.080 --> 00:36:15.080
+Ja się staram, ja załatwiam,
+
+00:36:15.100 --> 00:36:17.100
+gwarantuję jakieś wyświetlenia. No jak,
+
+00:36:17.120 --> 00:36:19.120
+słuchaj, jak my zapraszamy twórcę
+
+00:36:19.140 --> 00:36:21.140
+i robimy z nim wywiad, w czwartek pójdzie wywiad
+
+00:36:21.160 --> 00:36:23.160
+z Andrzejem, z Forever,
+
+00:36:23.180 --> 00:36:25.180
+który robi, jest szefem studia
+
+00:36:25.200 --> 00:36:27.200
+Forever Skies,
+
+00:36:27.220 --> 00:36:29.220
+no to
+
+00:36:29.240 --> 00:36:31.240
+nie ma w Polsce takiego
+
+00:36:31.240 --> 00:36:33.240
+miejsca, żeby oni tam, żeby
+
+00:36:33.260 --> 00:36:35.260
+na takim wywiadzie z deweloperem,
+
+00:36:35.280 --> 00:36:37.280
+który trwa dwie godziny,
+
+00:36:37.300 --> 00:36:39.300
+żeby zrobić...
+
+00:36:39.320 --> 00:36:41.320
+Ja się strasznie podlizuję, jak w Hollywood prawie.
+
+00:36:41.340 --> 00:36:43.340
+To prawda.
+
+00:36:43.360 --> 00:36:45.360
+I żeby tam było, nie wiem,
+
+00:36:45.380 --> 00:36:47.380
+to my robimy teraz minimum
+
+00:36:47.400 --> 00:36:49.400
+85 tysięcy wyświetleń,
+
+00:36:49.420 --> 00:36:51.420
+a na tych rozmowach z
+
+00:36:51.440 --> 00:36:53.440
+devami zwykle jest więcej, co w ogóle
+
+00:36:53.460 --> 00:36:55.460
+też jest dla mnie takim zaskoczeniem
+
+00:36:55.480 --> 00:36:57.480
+i ja to też,
+
+00:36:57.500 --> 00:36:59.500
+wiesz, jakby wykorzystuję,
+
+00:36:59.500 --> 00:37:01.500
+bo chcę mieć lepszy materiał,
+
+00:37:01.520 --> 00:37:03.520
+lepszy wywiad, chcę coś mieć ekskluzywnego,
+
+00:37:03.540 --> 00:37:05.540
+żeby państwo też mieli
+
+00:37:05.560 --> 00:37:07.560
+coś ekskluzywnego.
+
+00:37:07.580 --> 00:37:09.580
+Musisz mnie przekonywać, ja teraz trochę
+
+00:37:09.600 --> 00:37:11.600
+oczywiście powinienem być zorientowany bardziej
+
+00:37:11.620 --> 00:37:13.620
+w naszej działalności, w mrocznych stronach naszej działalności.
+
+00:37:13.640 --> 00:37:15.640
+Mroczne strony.
+
+00:37:15.660 --> 00:37:17.660
+Więc posypuję jego
+
+00:37:17.680 --> 00:37:19.680
+popiołem. Proszę państwa, IGN
+
+00:37:19.700 --> 00:37:21.700
+postępuje bardzo dobrze i tego się trzymajmy.
+
+00:37:21.720 --> 00:37:23.720
+Ja nie wiem, czy dla nas nie.
+
+00:37:23.740 --> 00:37:25.740
+Dla nas to nie jest dobre,
+
+00:37:25.760 --> 00:37:27.760
+ale dla nich to jest najlepsza rzecz.
+
+00:37:27.760 --> 00:37:29.760
+No to jest też taka...
+
+00:37:29.780 --> 00:37:31.780
+Tak jak z kalimiskrowami, nie?
+
+00:37:31.800 --> 00:37:33.800
+Wywalczyli sobie... No nie do końca, nie?
+
+00:37:33.820 --> 00:37:35.820
+Jakby wywalczyli sobie...
+
+00:37:35.840 --> 00:37:37.840
+Ale zobacz, bo my,
+
+00:37:37.860 --> 00:37:39.860
+czy my na tym tracimy? Nie.
+
+00:37:39.880 --> 00:37:41.880
+Dla nas IGN jest takim
+
+00:37:41.900 --> 00:37:43.900
+samym źródłem informacji,
+
+00:37:43.920 --> 00:37:45.920
+jakby ten zwiastun puścił, nie wiem,
+
+00:37:45.940 --> 00:37:47.940
+nowa gra bitów, jakby bity to
+
+00:37:47.960 --> 00:37:49.960
+puściły, czy IGN. Dla nas to nie ma żadnego znaczenia.
+
+00:37:49.980 --> 00:37:51.980
+Mhm.
+
+00:37:52.000 --> 00:37:54.000
+Inna sprawa jest w Polsce,
+
+00:37:54.020 --> 00:37:56.020
+że w Polsce
+
+00:37:56.020 --> 00:37:58.020
+portale growe
+
+00:37:58.040 --> 00:38:00.040
+na maksa nie lubią
+
+00:38:00.060 --> 00:38:02.060
+cytować innych polskich
+
+00:38:02.080 --> 00:38:04.080
+twórców czy portali. Na maksa.
+
+00:38:04.100 --> 00:38:06.100
+A, okej. Ja też tak zauważyłem
+
+00:38:06.120 --> 00:38:08.120
+tą praktykę i mi się ona nie podoba
+
+00:38:08.140 --> 00:38:10.140
+i bardzo często cytuję różne źródła,
+
+00:38:10.160 --> 00:38:12.160
+jeżeli one pochodzą z Polski.
+
+00:38:12.180 --> 00:38:14.180
+Z wielką przyjemnością pokazuję.
+
+00:38:14.200 --> 00:38:16.200
+Ja nawet jak gdzieś wiem, że źródło jest gdzieś indziej, ale
+
+00:38:16.220 --> 00:38:18.220
+pierwsze zobaczymy na gryonline
+
+00:38:18.240 --> 00:38:20.240
+czy gram.pl, to wrzucam do podcastu
+
+00:38:20.260 --> 00:38:22.260
+jako źródło właśnie
+
+00:38:22.280 --> 00:38:24.280
+gryonline czy gram.pl.
+
+00:38:24.280 --> 00:38:26.280
+To jest spadek czasów ubiegłych,
+
+00:38:26.300 --> 00:38:28.300
+co w ogóle jest zaskakujące, bo kiedyś w internecie
+
+00:38:28.320 --> 00:38:30.320
+było dużo więcej miejsca dla konkurencji
+
+00:38:30.340 --> 00:38:32.340
+niż dzisiaj. Takie to trochę
+
+00:38:32.360 --> 00:38:34.360
+dziwne jest. Ale wiesz co?
+
+00:38:34.380 --> 00:38:36.380
+Udawanie, że nie ma konkurencji to tylko sprawia, że
+
+00:38:36.400 --> 00:38:38.400
+gracz
+
+00:38:38.420 --> 00:38:40.420
+czyta jakąś materię i tak
+
+00:38:40.440 --> 00:38:42.440
+what the fuck, co to jest?
+
+00:38:42.460 --> 00:38:44.460
+Przecież jak my mieliśmy
+
+00:38:44.480 --> 00:38:46.480
+kiedy podawaliśmy
+
+00:38:46.500 --> 00:38:48.500
+informację dlaczego cyberpunk
+
+00:38:48.520 --> 00:38:50.520
+jest przesunięty,
+
+00:38:50.540 --> 00:38:52.540
+gdzie wskazaliśmy na to, że
+
+00:38:52.540 --> 00:38:54.540
+są problemy ze starą generacją w Polsce.
+
+00:38:54.560 --> 00:38:56.560
+Dziękuję, że używasz liczby mnogiej.
+
+00:38:56.580 --> 00:38:58.580
+Bardzo mi miło.
+
+00:38:58.600 --> 00:39:00.600
+To przecież była taka
+
+00:39:00.620 --> 00:39:02.620
+sytuacja, że jakiś portal nas zacytował
+
+00:39:02.640 --> 00:39:04.640
+przez
+
+00:39:04.660 --> 00:39:06.660
+jakiś anglo, przez chyba
+
+00:39:06.680 --> 00:39:08.680
+push to square
+
+00:39:08.700 --> 00:39:10.700
+to się nazywa? Jak się nazywa ten taki
+
+00:39:10.720 --> 00:39:12.720
+portal PlayStation, który
+
+00:39:12.740 --> 00:39:14.740
+zrobił taki duży artykuł,
+
+00:39:14.760 --> 00:39:16.760
+cytując nas i oni jakby ich zacytowali.
+
+00:39:16.780 --> 00:39:18.780
+Tak, tak. Nawet
+
+00:39:18.800 --> 00:39:20.800
+drobili wokół tego tematu, żeby
+
+00:39:20.800 --> 00:39:22.800
+zacytować. To prawda.
+
+00:39:22.820 --> 00:39:24.820
+No ale w porządku.
+
+00:39:24.840 --> 00:39:26.840
+Jakby rozumiem
+
+00:39:26.860 --> 00:39:28.860
+tych akurat nie musimy się trzymać. Zasad,
+
+00:39:28.880 --> 00:39:30.880
+które są niefajne, żeby nie cytować
+
+00:39:30.900 --> 00:39:32.900
+źródeł za wszelką cenę, bo mogą być
+
+00:39:32.920 --> 00:39:34.920
+zawsze niekonkurencyjne. Nie, my cytujemy.
+
+00:39:34.940 --> 00:39:36.940
+Ale trochę zamykając już ten wątek,
+
+00:39:36.960 --> 00:39:38.960
+powiedziałbym tak, że na pewno z perspektywy
+
+00:39:38.980 --> 00:39:40.980
+IGN-u to jest bardzo dobre, natomiast jeżeli
+
+00:39:41.000 --> 00:39:43.000
+na przykład pojawia się gameplay z jakiejś nowej gry,
+
+00:39:43.020 --> 00:39:45.020
+którą ja bym chciał sobie
+
+00:39:45.040 --> 00:39:47.040
+zobaczyć, to wolałbym go obejrzeć
+
+00:39:47.060 --> 00:39:49.060
+z różnych źródeł i z różnymi
+
+00:39:49.060 --> 00:39:51.060
+opiniami dziennikarzy i być może za każdym
+
+00:39:51.080 --> 00:39:53.080
+razem inny gameplay. To by było dla mnie ciekawsze,
+
+00:39:53.100 --> 00:39:55.100
+bo czasami jest, wiesz, że coś mnie bardzo interesuje
+
+00:39:55.120 --> 00:39:57.120
+i mam tylko od nich materiały
+
+00:39:57.140 --> 00:39:59.140
+i poza to nie mogę wyskoczyć, bo jest ekskluzywność.
+
+00:39:59.160 --> 00:40:01.160
+Więc powiedziałbym, że
+
+00:40:01.180 --> 00:40:03.180
+to nie jest dobra sytuacja dla konkurencji,
+
+00:40:03.200 --> 00:40:05.200
+ale rozumiem, że dla nich jest świetna
+
+00:40:05.220 --> 00:40:07.220
+i dzięki temu ten serwis naprawdę osiąga
+
+00:40:07.240 --> 00:40:09.240
+spore wyniki. Z nimi jest trochę problem,
+
+00:40:09.260 --> 00:40:11.260
+bo ta jakość
+
+00:40:11.280 --> 00:40:13.280
+umiejętności grania u nich jest...
+
+00:40:13.300 --> 00:40:15.300
+Tak, to jest duży problem, tak.
+
+00:40:15.320 --> 00:40:17.320
+To też byśmy zauważyli parę razy.
+
+00:40:17.320 --> 00:40:19.320
+No dobrze, Tetris.
+
+00:40:19.340 --> 00:40:21.340
+Mamy, kurde, już strasznie się...
+
+00:40:21.360 --> 00:40:23.360
+Ja nie wiem, już minęło minut tego podcastu.
+
+00:40:23.380 --> 00:40:25.380
+Ja z wielką przyjemnością sobie rozmawiam,
+
+00:40:25.400 --> 00:40:27.400
+a ty pospieszasz, popędzasz potem.
+
+00:40:27.420 --> 00:40:29.420
+Dużo pijesz przed podcastem.
+
+00:40:29.440 --> 00:40:31.440
+I potem siku ci się chce, tak?
+
+00:40:31.460 --> 00:40:33.460
+W trakcie piję bardzo dużo.
+
+00:40:33.480 --> 00:40:35.480
+Pojawił się oficjalny
+
+00:40:35.500 --> 00:40:37.500
+zwiastun filmu Tetris,
+
+00:40:37.520 --> 00:40:39.520
+który będzie na Apple TV.
+
+00:40:39.540 --> 00:40:41.540
+Historia
+
+00:40:41.560 --> 00:40:43.560
+wydania i powstania
+
+00:40:43.580 --> 00:40:45.580
+gry Tetris
+
+00:40:45.580 --> 00:40:47.580
+wygląda to bardzo dobrze,
+
+00:40:47.600 --> 00:40:49.600
+muszę przyznać.
+
+00:40:49.620 --> 00:40:51.620
+I znając tą historię z komiksu,
+
+00:40:51.640 --> 00:40:53.640
+jest taki komiks Tetris, Ludzie i gry
+
+00:40:53.660 --> 00:40:55.660
+Boxa Brauna, który...
+
+00:40:55.680 --> 00:40:57.680
+Czy ty masz mój ten komiks?
+
+00:40:57.700 --> 00:40:59.700
+Mam. Nie wiem, czy to twój. Myślałem, że dostałem go w prezencie.
+
+00:40:59.720 --> 00:41:01.720
+Nie, to jest mój.
+
+00:41:01.740 --> 00:41:03.740
+I muszę przyznać, że
+
+00:41:03.760 --> 00:41:05.760
+wygląda dobrze. 31 marca
+
+00:41:05.780 --> 00:41:07.780
+dobrze pamiętam. Boże, bo nie
+
+00:41:07.800 --> 00:41:09.800
+zapisałem sobie, kiedy będzie
+
+00:41:09.820 --> 00:41:11.820
+premiera. Ale z tego, co pamiętam,
+
+00:41:11.840 --> 00:41:13.840
+31
+
+00:41:13.840 --> 00:41:15.840
+marca
+
+00:41:15.860 --> 00:41:17.860
+i bardzo się
+
+00:41:17.880 --> 00:41:19.880
+cieszę. Bardzo się cieszę,
+
+00:41:19.900 --> 00:41:21.900
+bo to jest jedna z ciekawszych
+
+00:41:21.920 --> 00:41:23.920
+historii branży.
+
+00:41:23.940 --> 00:41:25.940
+I
+
+00:41:25.960 --> 00:41:27.960
+w ogóle patrząc na to,
+
+00:41:27.980 --> 00:41:29.980
+co się dzieje w branży filmowo-serialowej,
+
+00:41:30.000 --> 00:41:32.000
+to
+
+00:41:32.020 --> 00:41:34.020
+jestem przekonany, że czeka nas
+
+00:41:34.040 --> 00:41:36.040
+szczególnie teraz po sukcesie The Last of Us,
+
+00:41:36.060 --> 00:41:38.060
+czeka nas dużo
+
+00:41:38.080 --> 00:41:40.080
+adaptacji gier i co mnie jeszcze
+
+00:41:40.100 --> 00:41:42.100
+bardziej cieszy, mam nadzieję, że
+
+00:41:42.100 --> 00:41:44.100
+opowiadania fantastycznych, prawdziwych
+
+00:41:44.120 --> 00:41:46.120
+historii i prawdziwych
+
+00:41:46.140 --> 00:41:48.140
+jakby historii ludzi
+
+00:41:48.160 --> 00:41:50.160
+z branży gier.
+
+00:41:50.180 --> 00:41:52.180
+Tak, bo to jest branża, która się robi, to wiele razy, żeśmy o tym
+
+00:41:52.200 --> 00:41:54.200
+mówili, że jakby w kategorii rozrywki
+
+00:41:54.220 --> 00:41:56.220
+jest absolutnie na topie i w związku z tym też
+
+00:41:56.240 --> 00:41:58.240
+dojrzewają użytkownicy tej
+
+00:41:58.260 --> 00:42:00.260
+rozrywki i być może interesują
+
+00:42:00.280 --> 00:42:02.280
+ich trochę także takie opowieści wokół tego,
+
+00:42:02.300 --> 00:42:04.300
+które się dzieją. Ja też jestem zafascynowany
+
+00:42:04.320 --> 00:42:06.320
+tym, jak pierwszy raz
+
+00:42:06.340 --> 00:42:08.340
+zobaczyłem mój trailer Tetrisa,
+
+00:42:08.360 --> 00:42:10.360
+co będzie fabularyzowana historia
+
+00:42:10.360 --> 00:42:12.360
+układania klocków, ale potem sobie zaraz
+
+00:42:12.380 --> 00:42:14.380
+przypomniałem ten komiks, o którym właśnie wspomniałeś
+
+00:42:14.400 --> 00:42:16.400
+i trzeba przyznać, że ta historia
+
+00:42:16.420 --> 00:42:18.420
+jest naprawdę warta uwagi.
+
+00:42:18.440 --> 00:42:20.440
+Ona jest zajmująca z wielu
+
+00:42:20.460 --> 00:42:22.460
+względów. Sam ten komiks jest
+
+00:42:22.480 --> 00:42:24.480
+absorbujący bardzo mocno. Tam są
+
+00:42:24.500 --> 00:42:26.500
+szpiegowskie wręcz historie.
+
+00:42:26.520 --> 00:42:28.520
+I to widać w tym
+
+00:42:28.540 --> 00:42:30.540
+zwiastunie. Tak, tak, tak. Relacje
+
+00:42:30.560 --> 00:42:32.560
+między Związkiem Sowieckim,
+
+00:42:32.580 --> 00:42:34.580
+Ameryką, jeszcze w ogóle
+
+00:42:34.600 --> 00:42:36.600
+azjatyckimi wydawcami gier.
+
+00:42:36.620 --> 00:42:38.620
+No to tam
+
+00:42:38.620 --> 00:42:40.620
+takie wielkie rzeczy się działy, więc to może być
+
+00:42:40.640 --> 00:42:42.640
+ciekawa historia. Tam w ogóle Egerton
+
+00:42:42.660 --> 00:42:44.660
+gra, on w wielu różnych
+
+00:42:44.680 --> 00:42:46.680
+miejscach występuje. Bo jeszcze ostatnio,
+
+00:42:46.700 --> 00:42:48.700
+bo to jest, to jest na Apple Plus,
+
+00:42:48.720 --> 00:42:50.720
+nie wiem, na Apple TV.
+
+00:42:50.740 --> 00:42:52.740
+I on też ostatnio chyba w tym Black
+
+00:42:52.760 --> 00:42:54.760
+Black Box albo Black Bird.
+
+00:42:54.780 --> 00:42:56.780
+Jak to szło? Był taki
+
+00:42:56.800 --> 00:42:58.800
+o więzieniu, ponoć bardzo popularny.
+
+00:42:58.820 --> 00:43:00.820
+Jeszcze też mam na liście do obejrzenia.
+
+00:43:00.840 --> 00:43:02.840
+Black Bird polecam, bardzo dobrze. No więc, więc
+
+00:43:02.860 --> 00:43:04.860
+to się zapowiada nieźle. Nie spodziewałem się jego
+
+00:43:04.880 --> 00:43:06.880
+w tej produkcji.
+
+00:43:06.880 --> 00:43:08.880
+Więc no zacne to jest.
+
+00:43:08.900 --> 00:43:10.900
+Naprawdę, obejrzyjcie sobie państwo trailer.
+
+00:43:10.920 --> 00:43:12.920
+Chociaż muszę przyznać, że te
+
+00:43:12.940 --> 00:43:14.940
+momenty, kiedy trafiamy do Rosji
+
+00:43:14.960 --> 00:43:16.960
+sowieckiej, dobrze mówię, Rosja sowiecka,
+
+00:43:16.980 --> 00:43:18.980
+tak się mówiło.
+
+00:43:19.000 --> 00:43:21.000
+To, czy Rosji radzieckiej, tak
+
+00:43:21.020 --> 00:43:23.020
+czy inaczej. Muszę przyznać, że
+
+00:43:23.040 --> 00:43:25.040
+jest tak przekolorowane bardzo.
+
+00:43:25.060 --> 00:43:27.060
+Tam dużo jest takich efektów
+
+00:43:27.080 --> 00:43:29.080
+i widać, że to jest takie CGI,
+
+00:43:29.100 --> 00:43:31.100
+ale ono jest chyba celowo zrobione takie, w taki
+
+00:43:31.120 --> 00:43:33.120
+bardzo przesycony czerwienią i szarością
+
+00:43:33.140 --> 00:43:35.140
+kolor. Więc fajnie to,
+
+00:43:35.140 --> 00:43:37.140
+fajnie to wygląda, może być to fajnie zrealizowane. Zresztą
+
+00:43:37.160 --> 00:43:39.160
+Apple TV słynie z tego, że jednak realizacyjnie
+
+00:43:39.180 --> 00:43:41.180
+te materiały są dobrej jakości.
+
+00:43:41.200 --> 00:43:43.200
+Więc zaskakujące jest to, ale bardzo,
+
+00:43:43.220 --> 00:43:45.220
+bardzo ciekawe. Ci, którzy nie znają
+
+00:43:45.240 --> 00:43:47.240
+tej historii, naprawdę warto ją poznać.
+
+00:43:47.260 --> 00:43:49.260
+Bo jest, jest zacna. Ci, którzy ją znają,
+
+00:43:49.280 --> 00:43:51.280
+to pewnie z przyjemnością obejrzą ten film.
+
+00:43:51.300 --> 00:43:53.300
+Bo wiedzą, czego można się spodziewać.
+
+00:43:53.320 --> 00:43:55.320
+Myślę, że tak, myślę, że tak. Polecam poznać tę historię.
+
+00:43:55.340 --> 00:43:57.340
+Mam nadzieję, że film będzie dobry.
+
+00:43:57.360 --> 00:43:59.360
+Mam nadzieję, że Apple TV kupi te prawa do
+
+00:43:59.380 --> 00:44:01.380
+Masters of Doom i zrobią serial.
+
+00:44:01.400 --> 00:44:03.400
+Co ciekawe, ja czytając ten
+
+00:44:03.400 --> 00:44:05.400
+komiks Tetris,
+
+00:44:05.420 --> 00:44:07.420
+w głowie miałem, że to bardziej mi pasowało
+
+00:44:07.440 --> 00:44:09.440
+do serialu.
+
+00:44:09.460 --> 00:44:11.460
+Bo tam jest dużo wątków, dużo bohaterów,
+
+00:44:11.480 --> 00:44:13.480
+że to jednak fajnie by się tak
+
+00:44:13.500 --> 00:44:15.500
+rozkładało na kilka odcinków.
+
+00:44:15.520 --> 00:44:17.520
+A tutaj widzę jeden film.
+
+00:44:17.540 --> 00:44:19.540
+Jak się, wiesz,
+
+00:44:19.560 --> 00:44:21.560
+ja tą historię przede wszystkim poznałem w komiksie.
+
+00:44:21.580 --> 00:44:23.580
+Potem zacząłem się wczytywać trochę w dodatkowe
+
+00:44:23.600 --> 00:44:25.600
+opowieści o tych ludziach.
+
+00:44:25.620 --> 00:44:27.620
+I ta komiksowa forma zupełnie spokojnie
+
+00:44:27.640 --> 00:44:29.640
+może zostać przeniesiona na film.
+
+00:44:29.660 --> 00:44:31.660
+Bo ona, wiesz, komiks ma określoną liczbę
+
+00:44:31.660 --> 00:44:33.660
+pojemności, ile tam można
+
+00:44:33.680 --> 00:44:35.680
+informacji przekazać. A był bardzo kompletny.
+
+00:44:35.700 --> 00:44:37.700
+Mimo tego, że to jest...
+
+00:44:37.720 --> 00:44:39.720
+Więc podejrzewam, że film też może być kompletny.
+
+00:44:39.740 --> 00:44:41.740
+Więc tu się nie czepiam. Oczywiście zawsze
+
+00:44:41.760 --> 00:44:43.760
+seriale są lepsze od filmów.
+
+00:44:43.780 --> 00:44:45.780
+Mam nadzieję. Ja jak nie zapomnę, to wrzucę
+
+00:44:45.800 --> 00:44:47.800
+państwu te wszystkie
+
+00:44:47.820 --> 00:44:49.820
+materiały wideo jako przebitki.
+
+00:44:49.840 --> 00:44:51.840
+O, państwo bardzo lubią podobno.
+
+00:44:51.860 --> 00:44:53.860
+Tak, tak.
+
+00:44:53.880 --> 00:44:55.880
+Ja nie lubię tego robić, bo mi się nie chce.
+
+00:44:55.900 --> 00:44:57.900
+Ale czego się nie robi
+
+00:44:57.920 --> 00:44:59.920
+dla takich cudownych widzów. Proszę państwa,
+
+00:44:59.920 --> 00:45:01.920
+Diablo 4.
+
+00:45:01.940 --> 00:45:03.940
+I
+
+00:45:03.960 --> 00:45:05.960
+będziemy
+
+00:45:05.980 --> 00:45:07.980
+mogli sobie już 17-19
+
+00:45:08.000 --> 00:45:10.000
+marca, ci którzy
+
+00:45:10.020 --> 00:45:12.000
+kupili preordery, albo 24-26
+
+00:45:12.020 --> 00:45:14.020
+marca wszyscy,
+
+00:45:14.040 --> 00:45:16.040
+będziemy mogli
+
+00:45:16.060 --> 00:45:18.060
+poznać wczesną fazę gry
+
+00:45:18.080 --> 00:45:20.080
+Diablo 4.
+
+00:45:20.100 --> 00:45:22.100
+I beta, to czytam ze strony, oczywiście
+
+00:45:22.120 --> 00:45:24.120
+żeby nie pomylić się tutaj, beta
+
+00:45:24.140 --> 00:45:26.140
+zapewni wam
+
+00:45:26.160 --> 00:45:28.160
+przedsmak kampanii fabularnej w ramach
+
+00:45:28.160 --> 00:45:30.160
+oraz całego aktu pierwszego.
+
+00:45:30.180 --> 00:45:32.180
+Możecie bez ograniczeń przemieszczać
+
+00:45:32.200 --> 00:45:34.200
+się po pierwszym obszarze,
+
+00:45:34.220 --> 00:45:36.220
+strzaskanych szczytach.
+
+00:45:36.240 --> 00:45:38.240
+Podziwiajcie surowe krajobrazy
+
+00:45:38.260 --> 00:45:40.260
+i dziesiątkujcie piekielne
+
+00:45:40.280 --> 00:45:42.280
+hordy. Będziemy mieli
+
+00:45:42.300 --> 00:45:44.300
+maksymalnie 25.
+
+00:45:44.320 --> 00:45:46.320
+level.
+
+00:45:46.340 --> 00:45:48.340
+Nie przywiązujcie się za bardzo, bo
+
+00:45:48.360 --> 00:45:50.360
+postacie po tych betach, czyli
+
+00:45:50.380 --> 00:45:52.380
+po 26 marca
+
+00:45:52.400 --> 00:45:54.400
+zostaną skasowane, ale na szczęście
+
+00:45:54.420 --> 00:45:56.420
+nie ma limitu czasu
+
+00:45:56.420 --> 00:45:58.420
+poza tym czasem bety.
+
+00:45:58.440 --> 00:46:00.440
+Czyli nie mamy ograniczenia godzinowego
+
+00:46:00.460 --> 00:46:02.460
+w tej
+
+00:46:02.480 --> 00:46:04.480
+becie.
+
+00:46:04.500 --> 00:46:06.500
+Wygląda to nieźle. Dużo na temat cinematiców
+
+00:46:06.520 --> 00:46:08.520
+podczas tej rozmowy było opowiadane.
+
+00:46:08.540 --> 00:46:10.540
+Ja się interesuję,
+
+00:46:10.560 --> 00:46:12.560
+wiadomo, że jaką Diablo jest grą.
+
+00:46:12.580 --> 00:46:14.580
+I to jest taka rzecz, którą się gra nieustannie
+
+00:46:14.600 --> 00:46:16.600
+i się powtarza, i się powtarza, i się powtarza.
+
+00:46:16.620 --> 00:46:18.620
+I z reguły mamy się dobrze bawić, niezależnie od tego, który to jest raz.
+
+00:46:18.640 --> 00:46:20.640
+Natomiast mnie bardzo interesuje
+
+00:46:20.660 --> 00:46:22.660
+kampania fabularna, bo ta wydaje się
+
+00:46:22.680 --> 00:46:24.680
+sroga, jest taka mroczna. Też trailer, taki
+
+00:46:24.680 --> 00:46:26.680
+cinematic trochę trafił do nas,
+
+00:46:26.700 --> 00:46:28.700
+ale to jest cinematic, który jest zrobiony na
+
+00:46:28.720 --> 00:46:30.720
+silniku gry. Ten silnik gry jest odpowiednio
+
+00:46:30.740 --> 00:46:32.740
+podkręcony do tych cinematiców.
+
+00:46:32.760 --> 00:46:34.760
+One wyglądają lepiej. Także
+
+00:46:34.780 --> 00:46:36.780
+bohaterem cinematica od początku do końca jest nasz bohater
+
+00:46:36.800 --> 00:46:38.800
+w tym samym ekwipunku, który zdobył.
+
+00:46:38.820 --> 00:46:40.820
+Tak, to jest bardzo ciekawe.
+
+00:46:40.840 --> 00:46:42.840
+I to nie jest, nie pierwszy raz to się zdarza, bo to w grach
+
+00:46:42.860 --> 00:46:44.860
+już jest rzecz, która w zasadzie standardowo
+
+00:46:44.880 --> 00:46:46.880
+ma miejsce
+
+00:46:46.900 --> 00:46:48.900
+i tak w Hogwarts Legacy, i tak w God of War,
+
+00:46:48.920 --> 00:46:50.920
+tak w pozostałych rzeczach,
+
+00:46:50.940 --> 00:46:52.940
+które są takie współczesne.
+
+00:46:52.940 --> 00:46:54.940
+Natomiast tutaj to ma zostać podniesione na jeszcze wyższy
+
+00:46:54.960 --> 00:46:56.960
+poziom niż do tej pory, więc
+
+00:46:56.980 --> 00:46:58.980
+jestem ciekaw, jak to będzie wyglądało.
+
+00:46:59.000 --> 00:47:01.000
+Jestem bardzo ciekaw tej kampanii całej, więc
+
+00:47:01.020 --> 00:47:03.020
+mam nadzieję, że ta historia będzie interesująca,
+
+00:47:03.040 --> 00:47:05.040
+bo to jest, wiesz, to jest... Diablo
+
+00:47:05.060 --> 00:47:07.060
+na pewno zasługuje na dobrą kampanię.
+
+00:47:07.080 --> 00:47:09.080
+Do tej pory te wszystkie rzeczy, które się tam przydarzały,
+
+00:47:09.100 --> 00:47:11.100
+no tak jakby w obrębie gamingowych
+
+00:47:11.120 --> 00:47:13.120
+opowieści były całkiem spoko,
+
+00:47:13.140 --> 00:47:15.140
+ale mam też taką nadzieję, że te...
+
+00:47:15.160 --> 00:47:17.160
+że lata mijają i nasze
+
+00:47:17.180 --> 00:47:19.180
+zapotrzebowanie na ciekawe historie rośnie
+
+00:47:19.200 --> 00:47:21.200
+i że deweloperzy to uwzględniają.
+
+00:47:21.200 --> 00:47:23.200
+No ale wiadomo, że w Diablo przede wszystkim liczy się
+
+00:47:23.220 --> 00:47:25.220
+gameplay i zobaczymy, jak to będzie wyglądało.
+
+00:47:25.240 --> 00:47:27.240
+Ty miałeś okazję pograć w beta,
+
+00:47:27.260 --> 00:47:29.260
+czy chyba żeś mnie nie dostawił znowu?
+
+00:47:29.280 --> 00:47:31.280
+Ale nasi znajomi, którzy
+
+00:47:31.300 --> 00:47:33.300
+mieli dostęp, chyba
+
+00:47:33.320 --> 00:47:35.320
+raczej chwalą gameplaya.
+
+00:47:35.340 --> 00:47:37.340
+Jest takie opinie, jakie ja
+
+00:47:37.360 --> 00:47:39.360
+zebrałem od tych, którzy grali
+
+00:47:39.380 --> 00:47:41.380
+w beta albo gdzieś usłyszałem, bo ludzie też
+
+00:47:41.400 --> 00:47:43.400
+się chwalą w internecie, no to jest takie,
+
+00:47:43.420 --> 00:47:45.420
+że gameplay jest bardzo dobry,
+
+00:47:45.440 --> 00:47:47.440
+że to jest takie połączenie
+
+00:47:47.460 --> 00:47:49.460
+dwójki i trójki.
+
+00:47:49.460 --> 00:47:51.460
+Problemem może być endgame.
+
+00:47:51.480 --> 00:47:53.480
+Tak, tak, jak zawsze jest.
+
+00:47:53.500 --> 00:47:55.500
+I też problem może być wszystko za aktem pierwszym.
+
+00:47:55.520 --> 00:47:57.520
+Tak jak było w Diablo 3, że akt pierwszy
+
+00:47:57.540 --> 00:47:59.540
+był przetestowany
+
+00:47:59.560 --> 00:48:01.560
+dokładnie, a potem trochę się to posypało.
+
+00:48:01.580 --> 00:48:03.580
+No ale też w Diablo 3 to się zdziwi.
+
+00:48:03.600 --> 00:48:05.600
+Na jakiej platformie będziesz grał?
+
+00:48:05.620 --> 00:48:07.620
+Wiesz co, nie wiem, bo nie ma na Steamie
+
+00:48:07.640 --> 00:48:09.640
+oczywiście to mnie, więc
+
+00:48:09.660 --> 00:48:11.660
+Steam Deck odpada. Z drugiej strony
+
+00:48:11.680 --> 00:48:13.680
+w Diablo 2 Resurrection
+
+00:48:13.700 --> 00:48:15.700
+gram głównie na Steam Decku,
+
+00:48:15.720 --> 00:48:17.720
+tam po prostu przez...
+
+00:48:17.720 --> 00:48:19.720
+Chyba na PC będę grał.
+
+00:48:19.740 --> 00:48:21.740
+Chyba na PC, ale padem.
+
+00:48:21.760 --> 00:48:23.760
+Ja chyba na PS5 sięgnę.
+
+00:48:23.780 --> 00:48:25.780
+Już mi się tak wygodnie gra
+
+00:48:25.800 --> 00:48:27.800
+na konsoli. Nawet nie chodzi o jakąś
+
+00:48:27.820 --> 00:48:29.820
+miłość wobec PlayStation, ale
+
+00:48:29.840 --> 00:48:31.840
+to akurat mam na stałe podpięte.
+
+00:48:31.860 --> 00:48:33.860
+I na padzie też się bardzo dobrze gra.
+
+00:48:33.880 --> 00:48:35.880
+Ja testowałem trójkę.
+
+00:48:35.900 --> 00:48:37.900
+Opowiadałem o tym parę razy, gdyby państwu umknęło.
+
+00:48:37.920 --> 00:48:39.920
+Cały czas wierzyłem w to, że
+
+00:48:39.940 --> 00:48:41.940
+tego typu gry, myszka i klawiatura
+
+00:48:41.960 --> 00:48:43.960
+to jest w ogóle podstawa, a tymczasem
+
+00:48:43.980 --> 00:48:45.980
+fenomenalnie się w Diablo 3 gra
+
+00:48:45.980 --> 00:48:47.980
+na konsoli, na tym padzie.
+
+00:48:48.000 --> 00:48:50.000
+Nie spodziewałem się czegoś takiego i teraz
+
+00:48:50.020 --> 00:48:52.020
+już nawet nie myślę o tym, żeby próbować na myszce grać
+
+00:48:52.040 --> 00:48:54.040
+w Diablo 4, więc pad.
+
+00:48:54.060 --> 00:48:56.060
+A jak już mam grać na padzie, no to
+
+00:48:56.080 --> 00:48:58.080
+na konsoli szybciej się uruchamia.
+
+00:48:58.100 --> 00:49:00.100
+Nie trzeba, jakby jak wyłączę grę, to potem
+
+00:49:00.120 --> 00:49:02.120
+od razu odpalam konsolę, gra jest,
+
+00:49:02.140 --> 00:49:04.140
+czeka na mnie, więc ma to swoje zalety.
+
+00:49:04.160 --> 00:49:06.160
+Więc chyba będę grał na
+
+00:49:06.180 --> 00:49:08.180
+PSiaku. Można tak mówić?
+
+00:49:08.200 --> 00:49:10.200
+PSiak? PlayStation?
+
+00:49:10.220 --> 00:49:12.220
+Jak ty to mówisz?
+
+00:49:12.240 --> 00:49:14.240
+PlayStation.
+
+00:49:14.240 --> 00:49:16.240
+Bo państwo mówią, że co ja tak gadam?
+
+00:49:16.260 --> 00:49:18.260
+Niektórych to irytuje.
+
+00:49:18.280 --> 00:49:20.280
+Tak się wymawia PlayStation.
+
+00:49:20.300 --> 00:49:22.300
+Poprawnie.
+
+00:49:22.320 --> 00:49:24.320
+Okej.
+
+00:49:24.340 --> 00:49:26.340
+Oczywiście przy Diablo 4
+
+00:49:26.360 --> 00:49:28.360
+cały czas są takie obawy o jakość
+
+00:49:28.380 --> 00:49:30.380
+tej produkcji. Wiemy, że tam jest sporo zamieszania
+
+00:49:30.400 --> 00:49:32.400
+pod koniec. Teraz w Blizzardzie znowu się jakieś
+
+00:49:32.420 --> 00:49:34.420
+rzeczy dziwne dzieją, bo
+
+00:49:34.440 --> 00:49:36.440
+jest dyskusja na temat obniżenia pensji
+
+00:49:36.460 --> 00:49:38.460
+pracowników podczas gdy zarząd...
+
+00:49:38.480 --> 00:49:40.480
+Między kim ta dyskusja jest?
+
+00:49:40.500 --> 00:49:42.500
+Między pracownikami?
+
+00:49:42.500 --> 00:49:44.500
+Nie, dyskusja polega na tym, hej, halo,
+
+00:49:44.520 --> 00:49:46.520
+ustaliliśmy, pracownicy,
+
+00:49:46.540 --> 00:49:48.540
+może o tym podyskutujemy? Nie.
+
+00:49:48.560 --> 00:49:50.560
+Więc tak to
+
+00:49:50.580 --> 00:49:52.580
+wygląda. To jest niesamowita sprawa,
+
+00:49:52.600 --> 00:49:54.600
+że Activision cały czas zgłasza
+
+00:49:54.620 --> 00:49:56.620
+ogromne zyski i ogromne dochody
+
+00:49:56.640 --> 00:49:58.640
+i cały czas próbują ciąć koszty
+
+00:49:58.660 --> 00:50:00.660
+i to w oparciu o pracę. To jest, wiesz,
+
+00:50:00.680 --> 00:50:02.680
+to jest jakiś taki... Ja rozumiem, że
+
+00:50:02.700 --> 00:50:04.700
+chcesz zarabiać więcej i więcej i więcej,
+
+00:50:04.720 --> 00:50:06.720
+no ale to jest sabotaż trochę. No jeżeli
+
+00:50:06.740 --> 00:50:08.740
+ruinujesz swoją, jakby majątkiem
+
+00:50:08.760 --> 00:50:10.760
+firmy jest jakość
+
+00:50:10.760 --> 00:50:12.760
+pracy, którą wykonują ludzie, jeżeli
+
+00:50:12.780 --> 00:50:14.780
+im płacisz mniej, no to
+
+00:50:14.800 --> 00:50:16.800
+wiadomo, że oni się albo przyniosą...
+
+00:50:16.820 --> 00:50:18.820
+Nieważne, no strzelają sobie w stopę,
+
+00:50:18.840 --> 00:50:20.840
+chyba za każdym razem jakby tam
+
+00:50:20.860 --> 00:50:22.860
+plan był jakiś zrujnowania tego.
+
+00:50:22.880 --> 00:50:24.880
+Ostatnie, natomiast ostatnie dokonania
+
+00:50:24.900 --> 00:50:26.900
+Blizzarda.
+
+00:50:26.920 --> 00:50:28.920
+Ludzie, którzy o tym decydują,
+
+00:50:28.940 --> 00:50:30.940
+nie przejmują się tym, że to jakby
+
+00:50:30.960 --> 00:50:32.960
+ruinują coś, tam się mają cwerki zgadzać
+
+00:50:32.980 --> 00:50:34.980
+i tyle, no.
+
+00:50:35.000 --> 00:50:37.000
+Przecież to jest taki stary żart,
+
+00:50:37.020 --> 00:50:39.020
+że product manager
+
+00:50:39.020 --> 00:50:41.020
+uważa, że dziewięć kobiet
+
+00:50:41.040 --> 00:50:43.040
+urodzi dziecko w miesiąc.
+
+00:50:43.060 --> 00:50:45.060
+No i to jest jakby...
+
+00:50:45.080 --> 00:50:47.080
+No dobrze,
+
+00:50:47.100 --> 00:50:49.100
+wiesz, wydaje mi się, że
+
+00:50:49.120 --> 00:50:51.120
+dobry product manager to rozumie, że
+
+00:50:51.140 --> 00:50:53.140
+perspektywa jakaś jest przed nim i
+
+00:50:53.160 --> 00:50:55.160
+produkt to jest coś, nad czym trzeba pracować
+
+00:50:55.180 --> 00:50:57.180
+w określony sposób. Jeżeli nie masz
+
+00:50:57.200 --> 00:50:59.200
+czym pracować, to produktu nie będziesz miał.
+
+00:50:59.220 --> 00:51:01.220
+Ale już żeśmy ustalili, że ludzie raczej
+
+00:51:01.240 --> 00:51:03.240
+nie lubią myśleć perspektywicznie, tylko lubią się nachapać
+
+00:51:03.260 --> 00:51:05.260
+na dzień dobry, a obniżenie pensji
+
+00:51:05.280 --> 00:51:07.280
+ludziom, którzy robią gry, może być
+
+00:51:07.280 --> 00:51:09.280
+takim sposobem, żeby się nachapać.
+
+00:51:09.300 --> 00:51:11.300
+No pal licho, nie jest to dobra i właściwa praktyka.
+
+00:51:11.320 --> 00:51:13.320
+Chciałem jeszcze
+
+00:51:13.340 --> 00:51:15.340
+rzec, że oczywiście pojawiają się w związku z tym
+
+00:51:15.360 --> 00:51:17.360
+pewne obawy o jakość Diablo 4,
+
+00:51:17.380 --> 00:51:19.380
+ale ostatnie dokonania Blizzarda są nie najgorsze.
+
+00:51:19.400 --> 00:51:21.400
+World of Warcraft Dragonflight
+
+00:51:21.420 --> 00:51:23.420
+cieszy się
+
+00:51:23.440 --> 00:51:25.440
+dużym szacunkiem i ma pozytywne
+
+00:51:25.460 --> 00:51:27.460
+opinie. Overwatch 2
+
+00:51:27.480 --> 00:51:29.480
+także jest grą dobrą,
+
+00:51:29.500 --> 00:51:31.500
+niestety cierpi na to, że więcej
+
+00:51:31.520 --> 00:51:33.520
+czasu deweloperom zajmuje wprowadzanie tych rzeczy
+
+00:51:33.540 --> 00:51:35.540
+kosmetycznych zamiast usprawnianie gry.
+
+00:51:35.540 --> 00:51:37.540
+Już jest kłopot związany z tym,
+
+00:51:37.560 --> 00:51:39.560
+jaką formę zarabiania
+
+00:51:39.580 --> 00:51:41.580
+przyjęli deweloperzy i Overwatcha 2.
+
+00:51:41.600 --> 00:51:43.600
+Przez to moim zdaniem ciężko będzie już jakoś tak
+
+00:51:43.620 --> 00:51:45.620
+utrzymać na wysokim poziomie, ale pal licho jakby.
+
+00:51:45.640 --> 00:51:47.640
+W tych całych takich podstawach
+
+00:51:47.660 --> 00:51:49.660
+jest to niezła gra. No i liczę na to,
+
+00:51:49.680 --> 00:51:51.680
+że Diablo 4 będzie trzymało poziom.
+
+00:51:51.700 --> 00:51:53.700
+Bo to może być ostatnia gra
+
+00:51:53.720 --> 00:51:55.720
+Blizzarda, zważywszy na ostatnie
+
+00:51:55.740 --> 00:51:57.740
+zachowania zarządu, ale zobaczymy.
+
+00:51:57.760 --> 00:51:59.760
+Mam nadzieję, że to się
+
+00:51:59.780 --> 00:52:01.780
+utrzyma na dobrym poziomie i mam nadzieję, że to Diablo 4
+
+00:52:01.800 --> 00:52:03.800
+wyjdzie. Dobra, rozgadałem się jak zwykle już.
+
+00:52:03.800 --> 00:52:05.800
+No mam nadzieję, że
+
+00:52:05.820 --> 00:52:07.820
+po becie będziemy też
+
+00:52:07.840 --> 00:52:09.840
+w takich optymistycznych
+
+00:52:09.860 --> 00:52:11.860
+klimatach.
+
+00:52:11.880 --> 00:52:13.880
+Na strojach tak, tak. Zobaczymy.
+
+00:52:13.900 --> 00:52:15.900
+Invincible. Kolejny zwiastun.
+
+00:52:15.920 --> 00:52:17.920
+Dalej nie mamy daty premiery.
+
+00:52:17.940 --> 00:52:19.940
+My o tej grze już rozmawialiśmy
+
+00:52:19.960 --> 00:52:21.960
+po PGA i na PGA
+
+00:52:21.980 --> 00:52:23.980
+w nią graliśmy
+
+00:52:24.000 --> 00:52:26.000
+i mieliśmy bardzo pozytywne
+
+00:52:26.020 --> 00:52:28.020
+wrażenia.
+
+00:52:28.040 --> 00:52:30.040
+Wiemy, że wyjdzie
+
+00:52:30.060 --> 00:52:32.040
+w tym roku.
+
+00:52:32.040 --> 00:52:34.040
+Nie ten zwiastun utwierdza tylko w tym,
+
+00:52:34.060 --> 00:52:36.060
+że warto będzie zagrać,
+
+00:52:36.080 --> 00:52:38.080
+bo niewiele zostało więcej pokazane.
+
+00:52:38.100 --> 00:52:40.100
+Mamy taki
+
+00:52:40.120 --> 00:52:42.120
+począteczek
+
+00:52:42.140 --> 00:52:44.140
+raczej rozumiem z tego zwiastunu.
+
+00:52:44.160 --> 00:52:46.160
+Tak.
+
+00:52:46.180 --> 00:52:48.180
+Invincible ma
+
+00:52:48.200 --> 00:52:50.200
+fantastyczny ten aspekt retrofuturystyczny.
+
+00:52:50.220 --> 00:52:52.220
+To pięknie wygląda
+
+00:52:52.240 --> 00:52:54.240
+i gra się prezentuje fantastycznie.
+
+00:52:54.260 --> 00:52:56.260
+No to jest taki trochę symulator chodzenia.
+
+00:52:56.280 --> 00:52:58.280
+On taki ma być od początku do końca.
+
+00:52:58.300 --> 00:53:00.300
+No tam akcje będą się odbywały
+
+00:53:00.300 --> 00:53:02.300
+na zasadzie rozmów, jakiejś tam fabuły.
+
+00:53:02.320 --> 00:53:04.320
+Mam nadzieję, że gameplayowo
+
+00:53:04.340 --> 00:53:06.340
+i fabularnie to nas przytrzyma
+
+00:53:06.360 --> 00:53:08.360
+przy ekranach, bo na pewno wizualnie
+
+00:53:08.380 --> 00:53:10.380
+to jest coś wartego uwagi. Cała ta otoczka,
+
+00:53:10.400 --> 00:53:12.400
+nawet czcionka, którą tytuł jest
+
+00:53:12.420 --> 00:53:14.420
+napisany, ma w sobie coś takiego
+
+00:53:14.440 --> 00:53:16.440
+magnetyzującego moim zdaniem.
+
+00:53:16.460 --> 00:53:18.460
+I będę na pewno chciał tę grę ograć,
+
+00:53:18.480 --> 00:53:20.480
+ale mam nadzieję, że gameplay dowiezie,
+
+00:53:20.500 --> 00:53:22.500
+że będzie nas trzymał przy tej grze.
+
+00:53:22.520 --> 00:53:24.520
+Bo grafika wystarczy na to, żebyśmy chcieli
+
+00:53:24.540 --> 00:53:26.540
+sprawdzić i zobaczyć tę grę.
+
+00:53:26.560 --> 00:53:28.560
+Natomiast reszta to już jest gameplay
+
+00:53:28.560 --> 00:53:30.560
+i historia. Mam nadzieję, że będzie stało to
+
+00:53:30.580 --> 00:53:32.580
+na wysokim poziomie. Za to trzymam kciuki.
+
+00:53:32.600 --> 00:53:34.600
+No ja już nie radzę, żebyśmy
+
+00:53:34.620 --> 00:53:36.620
+przed wszystkimi zagrali.
+
+00:53:36.640 --> 00:53:38.640
+Bardzo dobrze.
+
+00:53:38.660 --> 00:53:40.660
+I...
+
+00:53:40.680 --> 00:53:42.680
+No, więc na to sobie czekamy.
+
+00:53:42.700 --> 00:53:44.700
+The Expanse, a Telltale Series.
+
+00:53:44.720 --> 00:53:49.720
+Zwiastun, który jest bardzo mroczny.
+
+00:53:49.740 --> 00:53:51.740
+Ja muszę przyznać, że ani nie
+
+00:53:51.760 --> 00:53:53.760
+czytałem książek, ani nie oglądałem serialu.
+
+00:53:53.780 --> 00:53:55.780
+Znaczy odpadłem po pierwszym odcinku
+
+00:53:55.800 --> 00:53:57.800
+i tam dużo osób mnie zachęca,
+
+00:53:57.800 --> 00:53:59.800
+żebym wrócił, ale jakoś tak myślę strasznie nie chcę.
+
+00:53:59.820 --> 00:54:01.820
+Zapowiada się
+
+00:54:01.840 --> 00:54:03.840
+bardzo ciekawie, mimo dość
+
+00:54:03.860 --> 00:54:05.860
+skromnej oprawy graficznej.
+
+00:54:05.880 --> 00:54:07.880
+Ja nie wiedziałem, że
+
+00:54:07.900 --> 00:54:09.900
+to uniwersum jest takie
+
+00:54:09.920 --> 00:54:11.920
+mroczne sci-fi.
+
+00:54:11.940 --> 00:54:13.940
+Że taki Dead Space. A potem mi się przypomniała
+
+00:54:13.960 --> 00:54:15.960
+Recka Kłaza
+
+00:54:15.980 --> 00:54:17.980
+z Dead Space'a,
+
+00:54:18.000 --> 00:54:20.000
+gdzie mówił, że
+
+00:54:20.020 --> 00:54:22.020
+The Expanse jest takie
+
+00:54:22.040 --> 00:54:24.040
+Dead Space'owe.
+
+00:54:24.060 --> 00:54:26.060
+To jest ciekawa opinia.
+
+00:54:26.060 --> 00:54:28.060
+Ja nie zastanawiałem się nad tym.
+
+00:54:28.080 --> 00:54:30.080
+To jest tak, że ja
+
+00:54:30.100 --> 00:54:32.100
+obejrzałem cały serial bez...
+
+00:54:32.120 --> 00:54:34.120
+Takie książki, że on mówił, że takie książki.
+
+00:54:34.140 --> 00:54:36.140
+Obejrzałem cały serial bez ostatniego sezonu.
+
+00:54:36.160 --> 00:54:38.160
+To zawsze mam problem, bo
+
+00:54:38.180 --> 00:54:40.180
+wszystkie poprzednie obejrzałem jakby jednym ciągiem.
+
+00:54:40.200 --> 00:54:42.200
+Zresztą wracałem, bo pierwsze oglądałem.
+
+00:54:42.220 --> 00:54:44.220
+Długa historia. Tak czy inaczej chciałbym obejrzeć
+
+00:54:44.240 --> 00:54:46.240
+ten ostatni, bo to jest jeden z moich ulubionych seriali.
+
+00:54:46.260 --> 00:54:48.260
+Odkładam sobie, żeby się nie zawieść,
+
+00:54:48.280 --> 00:54:50.280
+ale ludzie mają raczej pozytywne opinie.
+
+00:54:50.300 --> 00:54:52.300
+W tym trailerze chyba jesteśmy
+
+00:54:52.320 --> 00:54:54.320
+przede wszystkim skupieni na takiej postaci
+
+00:54:54.320 --> 00:54:56.320
+Ta dziewczyna
+
+00:54:56.340 --> 00:54:58.340
+nazywa się, mam gdzieś tutaj zapisane
+
+00:54:58.360 --> 00:55:00.360
+Ta aktorka, która
+
+00:55:00.380 --> 00:55:02.380
+odgrywa jej rolę, to jest
+
+00:55:02.400 --> 00:55:04.400
+Kara Gee
+
+00:55:04.420 --> 00:55:06.420
+i to jest bardzo, bardzo ciekawa postać
+
+00:55:06.440 --> 00:55:08.440
+ta, którą ona odgrywa
+
+00:55:08.460 --> 00:55:10.460
+w serialu. Powiedziałbym, że jedna z najciekawszych
+
+00:55:10.480 --> 00:55:12.480
+w ogóle. Gdzieś mi tutaj wyleciało
+
+00:55:12.500 --> 00:55:14.500
+jak ona się dokładnie nazywa.
+
+00:55:14.520 --> 00:55:16.520
+Kamina Dramer
+
+00:55:16.540 --> 00:55:18.540
+Kamina Dramer
+
+00:55:18.560 --> 00:55:20.560
+i ona świetnie gra. Ja nie wiem, czy ona będzie
+
+00:55:20.580 --> 00:55:22.580
+miała okazję ograć tę postać,
+
+00:55:22.580 --> 00:55:24.580
+czy przedstawić tę postać w grze,
+
+00:55:24.600 --> 00:55:26.600
+bo fajnie by było. Świetnym, charakterystycznym głosem mówi.
+
+00:55:26.620 --> 00:55:28.620
+To uniwersum ma taki
+
+00:55:28.640 --> 00:55:30.640
+dead space'owy, bo tam się dzieją rzeczy niepokojące,
+
+00:55:30.660 --> 00:55:32.660
+tam są trochę eksperymenty, tam są trochę
+
+00:55:32.680 --> 00:55:34.680
+takie obce
+
+00:55:34.700 --> 00:55:36.700
+technologie, które są groźne
+
+00:55:36.720 --> 00:55:38.720
+i niebezpieczne i które potrafią przestraszyć.
+
+00:55:38.740 --> 00:55:40.740
+Serial nie straszył, on nie miał
+
+00:55:40.760 --> 00:55:42.760
+takiej horrorowej konwencji,
+
+00:55:42.780 --> 00:55:44.780
+on był raczej przygodowy i trzeba przyznać, że
+
+00:55:44.800 --> 00:55:46.800
+pierwszy sezon toczy się bardzo powoli.
+
+00:55:46.820 --> 00:55:48.820
+Wiele osób opowiada o tym, że
+
+00:55:48.840 --> 00:55:50.840
+ciężko jest się im utrzymać przy tym.
+
+00:55:50.840 --> 00:55:52.840
+Mimo, że ma to taką masefektową otoczkę,
+
+00:55:52.860 --> 00:55:54.860
+bo jednak mamy do czynienia ze statkiem kosmicznym
+
+00:55:54.880 --> 00:55:56.880
+i z ekipą, która tym statkiem leci
+
+00:55:56.900 --> 00:55:58.900
+i tam relacje między nimi są bardzo znaczące
+
+00:55:58.920 --> 00:56:00.920
+dla tej całej opowieści, ale pierwszy sezon
+
+00:56:00.940 --> 00:56:02.940
+toczy się niezwykle powoli
+
+00:56:02.960 --> 00:56:04.960
+i pozostałe nabierają tempa, ale nigdy
+
+00:56:04.980 --> 00:56:06.980
+nie jest to takie tempo, jak np. przy tym nowym
+
+00:56:07.000 --> 00:56:09.000
+Star Trek Strange New Worlds.
+
+00:56:09.020 --> 00:56:11.020
+Sprawdzimy sobie, to jest Strange New Worlds, a nie Brave New Worlds.
+
+00:56:11.040 --> 00:56:13.040
+Więc
+
+00:56:13.060 --> 00:56:15.060
+na pewno warto obejrzeć. To jest
+
+00:56:15.080 --> 00:56:17.080
+dla fanów science fiction, to jest taka pozycja,
+
+00:56:17.100 --> 00:56:19.100
+która chyba powinna być obowiązkowa,
+
+00:56:19.100 --> 00:56:21.100
+bo to jest znaczące dzieło, ale to
+
+00:56:21.120 --> 00:56:23.120
+oczywiście nie każdy musi po to sięgać
+
+00:56:23.140 --> 00:56:25.140
+i to wcale nie znaczy, że jakoś tam
+
+00:56:25.160 --> 00:56:27.160
+potwornie dużo straci. To jest kwestia
+
+00:56:27.180 --> 00:56:29.180
+potrzeb, ale ja osobiście uważam, że
+
+00:56:29.200 --> 00:56:31.200
+ciekawie jest zarysowany ten świat i muszę
+
+00:56:31.220 --> 00:56:33.220
+koniecznie sięgnąć po audiobooki.
+
+00:56:33.240 --> 00:56:35.240
+Jakoś mi się do tej pory nie udało złapać
+
+00:56:35.260 --> 00:56:37.260
+wszystkich pięciu, pewnie jest ich więcej
+
+00:56:37.280 --> 00:56:39.280
+naraz w języku angielskim.
+
+00:56:39.300 --> 00:56:41.300
+Chyba nawet na BookBeat'cie są,
+
+00:56:41.320 --> 00:56:43.320
+bo chyba kiedyś sprawdzałem.
+
+00:56:43.340 --> 00:56:45.340
+Trzeba sprawdzić.
+
+00:56:45.360 --> 00:56:47.360
+Też mi się od razu przy okazji przypomniało,
+
+00:56:47.360 --> 00:56:49.360
+że tam jest zbudowany. Więc ta gra
+
+00:56:49.380 --> 00:56:51.380
+zapowiada się nie najgorzej, zwłaszcza
+
+00:56:51.400 --> 00:56:53.400
+ze względu na ten mrok, który w grze można
+
+00:56:53.420 --> 00:56:55.420
+pokazać więcej na tą główną postać, która była
+
+00:56:55.440 --> 00:56:57.440
+ciekawa już w serialu. Robi to
+
+00:56:57.460 --> 00:56:59.460
+Telltale, więc to jest ich powrót trochę
+
+00:56:59.480 --> 00:57:01.480
+i jestem bardzo ciekaw, jak to zrobią
+
+00:57:01.500 --> 00:57:03.500
+i czy to będzie.
+
+00:57:03.520 --> 00:57:05.520
+I od razu całość dostajemy, nie z sezonami,
+
+00:57:05.540 --> 00:57:07.540
+nie z epizodami, tylko wszystko naraz.
+
+00:57:07.560 --> 00:57:09.560
+Tak i Telltale też ma tak, że
+
+00:57:09.580 --> 00:57:11.580
+jak świat
+
+00:57:11.600 --> 00:57:13.600
+gry, w którym robili, był
+
+00:57:13.620 --> 00:57:15.620
+osadzony w dość
+
+00:57:15.620 --> 00:57:17.620
+normalnej sytuacji, przede wszystkim
+
+00:57:17.640 --> 00:57:19.640
+zombie, bo Walking Dead
+
+00:57:19.660 --> 00:57:21.660
+to był ich największy
+
+00:57:21.680 --> 00:57:23.680
+sukces, to to się
+
+00:57:23.700 --> 00:57:25.700
+trzymało kupy i były
+
+00:57:25.720 --> 00:57:27.720
+takie ważne
+
+00:57:27.740 --> 00:57:29.740
+wybory i my musieliśmy, kto zginie,
+
+00:57:29.760 --> 00:57:31.760
+ten czy ten. I tutaj też czuję, że
+
+00:57:31.780 --> 00:57:33.780
+ten styl
+
+00:57:33.800 --> 00:57:35.800
+tych ich gier
+
+00:57:35.820 --> 00:57:37.820
+już widać, że
+
+00:57:37.840 --> 00:57:39.840
+ewoluował,
+
+00:57:39.860 --> 00:57:41.860
+ale widać, że
+
+00:57:41.880 --> 00:57:43.880
+ja czuję, że w takim właśnie
+
+00:57:43.880 --> 00:57:45.880
+w takim setupie,
+
+00:57:45.900 --> 00:57:47.900
+settingu, że on się świetnie sprawdzi.
+
+00:57:47.920 --> 00:57:49.920
+No, no, no, poza tym też
+
+00:57:49.940 --> 00:57:51.940
+grafika mi się podoba, ona jest stylizowana i przez to
+
+00:57:51.960 --> 00:57:53.960
+nie będzie się starzeć tak bardzo. Zresztą grafika
+
+00:57:53.980 --> 00:57:55.980
+w The Walking Dead też się nie starzała, wiadomo, że to jest silnik,
+
+00:57:56.000 --> 00:57:58.000
+ale ta kreska jednak jest ponadczasowa.
+
+00:57:58.020 --> 00:58:00.020
+I tu akurat trzymają się
+
+00:58:00.040 --> 00:58:02.040
+takiej ponadczasowości w tej grafice, ona
+
+00:58:02.060 --> 00:58:04.060
+nie jest ultra realistyczna i w sumie dobrze.
+
+00:58:04.080 --> 00:58:06.080
+I kolejna rzecz, to jest kolejny film,
+
+00:58:06.100 --> 00:58:08.100
+czyli kokainowy miś,
+
+00:58:08.120 --> 00:58:10.120
+co ciekawe, będzie miał
+
+00:58:10.140 --> 00:58:12.140
+premierę w Polsce 10 marca, musimy
+
+00:58:12.140 --> 00:58:14.140
+iść do kina, bo to jest
+
+00:58:14.160 --> 00:58:16.160
+niewiarygodne. Proszę Państwa,
+
+00:58:16.180 --> 00:58:18.180
+historia misia, który
+
+00:58:18.200 --> 00:58:20.200
+nażar się
+
+00:58:20.220 --> 00:58:22.220
+koksu i terroryzuje
+
+00:58:22.240 --> 00:58:24.240
+okoliczne
+
+00:58:24.260 --> 00:58:26.260
+tereny
+
+00:58:26.280 --> 00:58:28.280
+takie turystyczno-campingowe.
+
+00:58:28.300 --> 00:58:30.300
+Film, który
+
+00:58:30.320 --> 00:58:32.320
+jest opisany
+
+00:58:32.340 --> 00:58:34.340
+jako thriller.
+
+00:58:34.360 --> 00:58:36.360
+Jest to raczej
+
+00:58:36.380 --> 00:58:38.380
+taki slasher
+
+00:58:38.400 --> 00:58:40.400
+komediowy, tak mi się
+
+00:58:40.400 --> 00:58:42.400
+wydaje.
+
+00:58:42.420 --> 00:58:44.420
+Ja tak
+
+00:58:44.440 --> 00:58:46.440
+bardzo głęboko
+
+00:58:46.460 --> 00:58:48.460
+w serduszku wierzę, że to
+
+00:58:48.480 --> 00:58:50.480
+może będzie
+
+00:58:50.500 --> 00:58:52.500
+niezły film, ale
+
+00:58:52.520 --> 00:58:54.520
+tak wszystko mi wskazuje, że to
+
+00:58:54.540 --> 00:58:56.540
+będzie straszne krapiszcze.
+
+00:58:56.560 --> 00:58:58.560
+Ale zabawne.
+
+00:58:58.580 --> 00:59:00.580
+Ale urocze.
+
+00:59:00.600 --> 00:59:02.600
+Ja muszę powiedzieć, to jest jeden z tych filmów,
+
+00:59:02.620 --> 00:59:04.620
+no bo to jest taka historia, która
+
+00:59:04.640 --> 00:59:06.640
+ona raczej będzie taką
+
+00:59:06.660 --> 00:59:08.660
+komedią gore, powiedzmy.
+
+00:59:08.660 --> 00:59:10.660
+Nie powiedziałbym, że to jest thriller.
+
+00:59:10.680 --> 00:59:12.680
+W ogóle historia ponoć
+
+00:59:12.700 --> 00:59:14.700
+w jakimś tam delikatnym stopniu jest oparta na faktach.
+
+00:59:14.720 --> 00:59:16.720
+Gdzieś tam się jakiś samolot rozbił,
+
+00:59:16.740 --> 00:59:18.740
+misia nażar kokainy. Nie sądzę, żeby po tym fakcie
+
+00:59:18.760 --> 00:59:20.760
+jakby ta historia miała
+
+00:59:20.780 --> 00:59:22.780
+kontynuację sensowną.
+
+00:59:22.800 --> 00:59:24.800
+Natomiast gdzieś tam, to jest ciekawy pomysł
+
+00:59:24.820 --> 00:59:26.820
+na film. To mi trochę
+
+00:59:26.840 --> 00:59:28.840
+przypomina takie starsze
+
+00:59:28.860 --> 00:59:30.860
+horrory klasy B, właśnie takie slashery.
+
+00:59:30.880 --> 00:59:32.880
+Jakieś piranie i tego typu rzeczy.
+
+00:59:32.900 --> 00:59:34.900
+Ja to z wielką przyjemnością oglądałem,
+
+00:59:34.920 --> 00:59:36.920
+więc mam nadzieję, że to będzie zrealizowane
+
+00:59:36.920 --> 00:59:38.920
+nie najgorzej. Reżyserem jest
+
+00:59:38.940 --> 00:59:40.940
+Elisabeth Banks.
+
+00:59:40.960 --> 00:59:42.960
+Stana aktorka.
+
+00:59:42.980 --> 00:59:44.980
+Ona chyba też reżyserowała
+
+00:59:45.000 --> 00:59:47.000
+Aniołki Charlie'ego nowe?
+
+00:59:47.020 --> 00:59:49.020
+Oj, nie wiem. Wiem, że grała w Igrzyskach Śmierci.
+
+00:59:49.040 --> 00:59:51.040
+Tak, tak, tak, tak.
+
+00:59:51.060 --> 00:59:53.060
+Ona jest dosyć sympatyczna. Ja parę z nią wywiadów
+
+00:59:53.080 --> 00:59:55.080
+słyszałem. Natomiast tam strasznie się
+
+00:59:55.100 --> 00:59:57.100
+denerwowała na
+
+00:59:57.120 --> 00:59:59.120
+mężczyzn, którzy źle oceniali
+
+00:59:59.140 --> 01:00:01.140
+te Aniołki Charlie'ego. Wiem, że tam było
+
+01:00:01.160 --> 01:00:03.160
+właśnie taka kontrowersja w stylu, że
+
+01:00:03.180 --> 01:00:05.180
+a, ten film się ludziom nie podoba, bo z paceci źle
+
+01:00:05.180 --> 01:00:07.180
+grają na złości tam dziewczynom, które w tym
+
+01:00:07.200 --> 01:00:09.200
+biorą udział. Więc tam też było takie
+
+01:00:09.220 --> 01:00:11.220
+zderzenie trochę ideologiczne,
+
+01:00:11.240 --> 01:00:13.240
+ale no mam nadzieję, że to jej się uda zrealizować,
+
+01:00:13.260 --> 01:00:15.260
+bo pomysł jest zacny. Naprawdę brakuje takich
+
+01:00:15.280 --> 01:00:17.280
+filmów.
+
+01:00:17.300 --> 01:00:19.300
+Szczególnie, że on ma dość spory budżet, bo
+
+01:00:19.320 --> 01:00:21.320
+ma tam między 35 a 40
+
+01:00:21.340 --> 01:00:23.340
+milionów dolarów,
+
+01:00:23.360 --> 01:00:25.360
+więc to jest duże jak na taki
+
+01:00:25.380 --> 01:00:27.380
+film. I też mocno
+
+01:00:27.400 --> 01:00:29.400
+walą w marketing. To jest bardzo ciekawe.
+
+01:00:29.420 --> 01:00:31.420
+Jakąś taką grę przeglądarkową zrobili
+
+01:00:31.440 --> 01:00:33.440
+a la Pac-Man
+
+01:00:33.440 --> 01:00:35.440
+na IGN Festie
+
+01:00:35.460 --> 01:00:37.460
+duży segment był
+
+01:00:37.480 --> 01:00:39.480
+ten pierwszy
+
+01:00:39.500 --> 01:00:41.500
+zwiastun w iluś tam
+
+01:00:41.520 --> 01:00:43.520
+milionach się obejrzał, więc
+
+01:00:43.540 --> 01:00:45.540
+no
+
+01:00:45.560 --> 01:00:47.560
+ciekawe, ciekawa propozycja.
+
+01:00:47.580 --> 01:00:49.580
+No zobaczymy. No jestem ciekaw tego filmu,
+
+01:00:49.600 --> 01:00:51.600
+nie będę ukrywał, że przynajmniej coś
+
+01:00:51.620 --> 01:00:53.620
+może będzie to głupi film, ale przynajmniej
+
+01:00:53.640 --> 01:00:55.640
+coś nowego.
+
+01:00:55.660 --> 01:00:57.660
+Ray Liotta tam gra, to chyba jest jego ostatnia rola.
+
+01:00:57.680 --> 01:00:59.680
+Myślisz, że go tam ten miś zjadł
+
+01:00:59.700 --> 01:01:01.700
+na planiecie?
+
+01:01:01.700 --> 01:01:03.700
+Nie, nie. Znaczy w sensie to jest taki
+
+01:01:03.720 --> 01:01:05.720
+może nie jest do końca
+
+01:01:05.740 --> 01:01:07.740
+najlepszy film, żeby był twoim ostatnim
+
+01:01:07.760 --> 01:01:09.760
+jako aktora, ale
+
+01:01:09.780 --> 01:01:11.780
+no zobaczymy, zobaczymy.
+
+01:01:11.800 --> 01:01:13.800
+Nie, to jakby nie ma żadnego znaczenia.
+
+01:01:13.820 --> 01:01:15.820
+Proszę państwa
+
+01:01:15.840 --> 01:01:17.840
+też Adrian Chmielarz
+
+01:01:17.860 --> 01:01:19.860
+pokazał nam kolejny nowy
+
+01:01:19.880 --> 01:01:21.880
+yyy
+
+01:01:21.900 --> 01:01:23.900
+kawałek gameplayu
+
+01:01:23.920 --> 01:01:25.920
+Witchfire
+
+01:01:25.940 --> 01:01:27.940
+gdzie opowiedział
+
+01:01:27.960 --> 01:01:29.960
+o trybach
+
+01:01:29.960 --> 01:01:31.960
+strzelania. Muszę przyznać w pierwszej kolejności,
+
+01:01:31.980 --> 01:01:33.980
+że strasznie podoba mi się ta gra.
+
+01:01:34.000 --> 01:01:36.000
+Znaczy to jak ona wygląda wizualnie
+
+01:01:36.020 --> 01:01:38.020
+hmm. Naprawdę
+
+01:01:38.040 --> 01:01:40.040
+mi odział, mi odział.
+
+01:01:40.060 --> 01:01:42.060
+No, no. To jest tak, że
+
+01:01:42.080 --> 01:01:44.080
+że przepraszam, wszedłem ci w sobą
+
+01:01:44.100 --> 01:01:46.100
+bo nie chciałem się szczęśliwie zapowiedzieć.
+
+01:01:46.120 --> 01:01:48.120
+Oddałem ci głos.
+
+01:01:48.140 --> 01:01:50.140
+No powietrza nabrałem dużo w płuca, więc pewnie bym dużo opowiadał.
+
+01:01:50.160 --> 01:01:52.160
+Ja też jestem
+
+01:01:52.180 --> 01:01:54.180
+bardzo, bardzo mi się ta gra podobała,
+
+01:01:54.200 --> 01:01:56.200
+mocno na nią czekam. Pewnie to
+
+01:01:56.220 --> 01:01:58.220
+będzie miała taki darksoulsowy
+
+01:01:58.220 --> 01:02:00.220
+vibe, bo jednak Adrian Chmielarz lubi te klimaty.
+
+01:02:00.240 --> 01:02:02.240
+Ja mam w ogóle wrażenie i cały czas o tym
+
+01:02:02.260 --> 01:02:04.260
+mówię, że to jest taka krzyżówka trochę Destiny
+
+01:02:04.280 --> 01:02:06.280
+i Dark Soulsów.
+
+01:02:06.300 --> 01:02:08.300
+I wydaje mi się, że też
+
+01:02:08.320 --> 01:02:10.320
+jako, że Adriana Chmielarza gdzieś tam cały czas
+
+01:02:10.340 --> 01:02:12.340
+followuje na Twitterze, ciekawią mnie rzeczy, które pisze
+
+01:02:12.360 --> 01:02:14.360
+i które opowiada o tej grze.
+
+01:02:14.380 --> 01:02:16.380
+Czyli lubisz jedzenie, tak? Dobre wino,
+
+01:02:16.400 --> 01:02:18.400
+restauracje. Nie, niekoniecznie. Jakoś mi te
+
+01:02:18.420 --> 01:02:20.420
+tweety być może mi umykają, ale
+
+01:02:20.440 --> 01:02:22.440
+on właśnie bardzo jakby
+
+01:02:22.460 --> 01:02:24.460
+rozumiem, że
+
+01:02:24.480 --> 01:02:26.480
+on dużo czasu poświęca nie tylko na
+
+01:02:26.480 --> 01:02:28.480
+robienie tej gry, ale też granie. On opowiada
+
+01:02:28.500 --> 01:02:30.500
+o swoich przemyśleniach na temat Destiny
+
+01:02:30.520 --> 01:02:32.520
+i o swoich przemyśleniach na temat Elden Ring
+
+01:02:32.540 --> 01:02:34.540
+i to jest coś, co wiesz, to znaczy
+
+01:02:34.560 --> 01:02:36.560
+jakby wierzę, że on jest
+
+01:02:36.580 --> 01:02:38.580
+także graczem przez to, nie? Wiem, wiemy
+
+01:02:38.600 --> 01:02:40.600
+jak to jest, że ludzie tak bardzo są skupieni na
+
+01:02:40.620 --> 01:02:42.620
+projektach, że nie mają za bardzo czasu na granie.
+
+01:02:42.640 --> 01:02:44.640
+Tutaj mamy do czynienia z taką sytuacją, że na granie jest
+
+01:02:44.660 --> 01:02:46.660
+czas, w związku z tym projekt też trochę trwa.
+
+01:02:46.680 --> 01:02:48.680
+Jakby nie wiem, czy jedno, czy jest
+
+01:02:48.700 --> 01:02:50.700
+jakaś korelacja między jednym a drugim.
+
+01:02:50.720 --> 01:02:52.720
+Może tak, może nie. To nie jest, proszę Boże,
+
+01:02:52.740 --> 01:02:54.740
+krytyka. Wiem, że Adrian Chmielarz
+
+01:02:54.740 --> 01:02:56.740
+jak reaguje, więc żeby wszystko było jasne.
+
+01:02:56.760 --> 01:02:58.760
+Po projekcie jak
+
+01:02:58.780 --> 01:03:00.780
+tam już się wszyscy zwolnią, to musimy
+
+01:03:00.800 --> 01:03:02.800
+Karola Kroka zaprosić, to opowie, jak było
+
+01:03:02.820 --> 01:03:04.820
+naprawdę. Ale właśnie. Ale tak czy inaczej
+
+01:03:04.840 --> 01:03:06.840
+gra zapowiada się zacnie. Myślę, że tam będzie
+
+01:03:06.860 --> 01:03:08.860
+fajne strzelanie i w ogóle będzie
+
+01:03:08.880 --> 01:03:10.880
+fajny klimacik, więc na pewno
+
+01:03:10.900 --> 01:03:12.900
+bardzo mocno na to czekam.
+
+01:03:12.920 --> 01:03:14.920
+To jest jedna z ważniejszych w ogóle produkcji
+
+01:03:14.940 --> 01:03:16.940
+polskich, jeżeli chodzi o przyszłość niedaleko.
+
+01:03:16.960 --> 01:03:18.960
+Ja bardzo czekam, czekam, w szczególności, że
+
+01:03:18.980 --> 01:03:20.980
+jest teraz wysybi moda na
+
+01:03:21.000 --> 01:03:23.000
+boomershootery, niestety te boomershootery
+
+01:03:23.000 --> 01:03:25.000
+no i mają archaiczne
+
+01:03:25.020 --> 01:03:27.020
+strzelanie często i archaiczny
+
+01:03:27.040 --> 01:03:29.040
+wygląd. Witchfire
+
+01:03:29.060 --> 01:03:31.060
+tutaj wydaje się być
+
+01:03:31.080 --> 01:03:33.080
+czymś takim, który, no może nie jest
+
+01:03:33.100 --> 01:03:35.100
+boomershooterem, nie? Ale jest
+
+01:03:35.120 --> 01:03:37.120
+shooterem i zapowiada się
+
+01:03:37.140 --> 01:03:39.140
+bardzo, bardzo smacznie. Wczesny dostęp
+
+01:03:39.160 --> 01:03:41.160
+w tym roku, ale na Epiku
+
+01:03:41.180 --> 01:03:43.180
+tylko. No to tak.
+
+01:03:43.200 --> 01:03:45.200
+No ale to rozumiem, że to są kwestie finansowe
+
+01:03:45.220 --> 01:03:47.220
+i stąd ta decyzja.
+
+01:03:47.240 --> 01:03:49.240
+Też nie dziwię się. My, Steam Deckowcy płaczemy trochę
+
+01:03:49.260 --> 01:03:51.260
+po ten Epic. Znaczy działa ten
+
+01:03:51.260 --> 01:03:53.260
+Epic niby na Steam Decku, ale jednak
+
+01:03:53.280 --> 01:03:55.280
+te natywne gry zawsze
+
+01:03:55.300 --> 01:03:57.300
+działają lepiej. No i ostatni zwiastun,
+
+01:03:57.320 --> 01:03:59.320
+który sobie dzisiaj mówimy. Zwiastun to jest bardzo
+
+01:03:59.340 --> 01:04:01.340
+duże słowo. The Alters,
+
+01:04:01.360 --> 01:04:03.360
+czyli najnowsza gra od 11bit studio.
+
+01:04:03.380 --> 01:04:05.380
+Bity
+
+01:04:05.400 --> 01:04:07.400
+przypominają bardzo
+
+01:04:07.420 --> 01:04:09.420
+skromnie o swojej najnowszej
+
+01:04:09.440 --> 01:04:11.440
+grze. Ja mam wrażenie, że ten
+
+01:04:11.460 --> 01:04:13.460
+to jest taki...
+
+01:04:13.480 --> 01:04:15.480
+W ogóle, że ten trailer jest głupi
+
+01:04:15.500 --> 01:04:17.500
+i FUG nie powinien trafić do sieci w takim postaci.
+
+01:04:17.520 --> 01:04:19.520
+To jest absurdalne. I z całą moją
+
+01:04:19.520 --> 01:04:21.520
+przyjemnością do bitów, to ludzie zresztą,
+
+01:04:21.540 --> 01:04:23.540
+którzy pisali też w komentarzach, dokładnie mają
+
+01:04:23.560 --> 01:04:25.560
+tą samą opinię. Fatalnie jest przyjęty ten zwiastun.
+
+01:04:25.580 --> 01:04:27.580
+Ten trailer i to, co ta babka mówi
+
+01:04:27.600 --> 01:04:29.600
+to jest jakby ziszczeniem pewnie idei,
+
+01:04:29.620 --> 01:04:31.620
+która przyświecała bitom wystawiania, bo pokazując
+
+01:04:31.640 --> 01:04:33.640
+to, bo to jest...
+
+01:04:33.660 --> 01:04:35.660
+Moim miłonią ona mówi, ej skoro
+
+01:04:35.680 --> 01:04:37.680
+skoro błędy nas
+
+01:04:37.700 --> 01:04:39.700
+uczą najwięcej, to dlaczego tak bardzo boimy się
+
+01:04:39.720 --> 01:04:41.720
+ich popełniać. No to mam nadzieję, że bity się nauczą
+
+01:04:41.740 --> 01:04:43.740
+czegoś po tym trailerze.
+
+01:04:43.760 --> 01:04:45.760
+30 sekund i widać Janusza na ekranie, nie?
+
+01:04:45.780 --> 01:04:47.780
+Do którego ktoś po angielsku, jakaś babka
+
+01:04:47.780 --> 01:04:49.780
+po angielsku gada. Ja oczywiście, że czekam na tą grę.
+
+01:04:49.800 --> 01:04:51.800
+Bity robią fajne rzeczy
+
+01:04:51.820 --> 01:04:53.820
+i to jest coś, co na pewno będzie warte
+
+01:04:53.840 --> 01:04:55.840
+uwagi. Ale trailer jest
+
+01:04:55.860 --> 01:04:57.860
+żenada, follow me, follow me.
+
+01:04:57.880 --> 01:04:59.880
+Tutaj coś nie pykło, tam za dużo
+
+01:04:59.900 --> 01:05:01.900
+emotions i za dużo
+
+01:05:01.920 --> 01:05:03.920
+jakiegoś takiego zrobienia artystycznego
+
+01:05:03.940 --> 01:05:05.940
+czegoś bez pokazywania gry.
+
+01:05:05.960 --> 01:05:07.960
+Ale zrobiliśmy coś wyjątkowego, musimy
+
+01:05:07.980 --> 01:05:09.980
+Janusza, żeby Janusz podkreślił tą
+
+01:05:10.000 --> 01:05:12.000
+stację, bo to jest
+
+01:05:12.020 --> 01:05:14.020
+tak, że enigma za tym musi jakaś
+
+01:05:14.040 --> 01:05:16.040
+stać, ale to za dużo enigmy, za mało konkretów.
+
+01:05:16.040 --> 01:05:18.040
+Już jesteśmy na takim etapie, że
+
+01:05:18.060 --> 01:05:20.060
+konkrety byłyby fajne.
+
+01:05:20.080 --> 01:05:22.080
+Zwiastunite.gene nie obejrzał się jakoś mocno
+
+01:05:22.100 --> 01:05:24.100
+26 tysięcy wyświetleń
+
+01:05:24.120 --> 01:05:26.120
+na teraz. Co nagrywamy?
+
+01:05:26.140 --> 01:05:28.140
+517 łapek w górę
+
+01:05:28.160 --> 01:05:30.160
+357 łapek w dół.
+
+01:05:30.180 --> 01:05:32.180
+Dużo negatywnych
+
+01:05:32.200 --> 01:05:34.200
+komentarzy, wręcz takich
+
+01:05:34.220 --> 01:05:36.220
+wyśmiewających ten pomysł.
+
+01:05:36.240 --> 01:05:38.240
+No czekamy, oczywiście czekamy na tą
+
+01:05:38.260 --> 01:05:40.260
+grę, czekamy na jakiś gameplay
+
+01:05:40.280 --> 01:05:42.280
+i jeszcze sobie pewnie poczekamy
+
+01:05:42.300 --> 01:05:44.300
+trochę, bo bity jednak
+
+01:05:44.300 --> 01:05:46.300
+mają ten minimum
+
+01:05:46.320 --> 01:05:48.320
+18 miesięcy
+
+01:05:48.340 --> 01:05:50.340
+przed premierą promowanie gry,
+
+01:05:50.360 --> 01:05:52.360
+więc jeszcze z rok sobie poczekamy pewnie.
+
+01:05:52.380 --> 01:05:54.380
+Nie ma się co spieszyć.
+
+01:05:54.400 --> 01:05:56.400
+No wiesz, ale pomyślałem sobie, że na taki trailer
+
+01:05:56.420 --> 01:05:58.420
+to sobie mogą pozwolić twórcy God of Wara,
+
+01:05:58.440 --> 01:06:00.440
+że Kratos się wychyla i coś tam mruczy
+
+01:06:00.460 --> 01:06:02.460
+i wszyscy, ooo, jak wiesz,
+
+01:06:02.480 --> 01:06:04.480
+ciarwie, ale nie jakiś Janusz z kosmosu,
+
+01:06:04.500 --> 01:06:06.500
+no. Przecież
+
+01:06:06.520 --> 01:06:08.520
+on jeszcze nie jest taką znaczącą postacią,
+
+01:06:08.540 --> 01:06:10.540
+żeby takie tutaj kwestie wygłaszać
+
+01:06:10.560 --> 01:06:12.560
+fizjologicznie głęboko.
+
+01:06:12.560 --> 01:06:14.560
+To jest jak influencerka z Instagrama,
+
+01:06:14.580 --> 01:06:16.580
+wiesz, to jest taki przekaz.
+
+01:06:16.600 --> 01:06:18.600
+No bo, nie, nie wiem
+
+01:06:18.620 --> 01:06:20.620
+jakby z czego to wynika,
+
+01:06:20.640 --> 01:06:22.640
+albo z takiej
+
+01:06:22.660 --> 01:06:24.660
+za dużej pewności siebie, znaczy, że oni
+
+01:06:24.680 --> 01:06:26.680
+stwierdzili, my jesteśmy
+
+01:06:26.700 --> 01:06:28.700
+taką marką, że cokolwiek damy
+
+01:06:28.720 --> 01:06:30.720
+to ludzie się będą bardzo cieszyć,
+
+01:06:30.740 --> 01:06:32.740
+no i nie cieszą się.
+
+01:06:32.760 --> 01:06:34.760
+To nie jest
+
+01:06:34.780 --> 01:06:36.780
+jeszcze ta aura,
+
+01:06:36.800 --> 01:06:38.800
+ta aura tajemniczości.
+
+01:06:38.820 --> 01:06:40.820
+No dobrze, no,
+
+01:06:40.820 --> 01:06:42.820
+wolałbym zobaczyć jakiś gameplay.
+
+01:06:42.840 --> 01:06:44.840
+No ja też, też.
+
+01:06:44.860 --> 01:06:46.860
+No i tyle, w sumie mamy
+
+01:06:46.880 --> 01:06:48.880
+dzisiaj do
+
+01:06:48.900 --> 01:06:50.900
+Państwu do przekazania, to była ostatnia
+
+01:06:50.920 --> 01:06:52.920
+rzecz i
+
+01:06:52.940 --> 01:06:54.940
+no i tyle, no nie wiem, czy
+
+01:06:54.960 --> 01:06:56.960
+Państwo tutaj, czy ty jeszcze coś chcesz dodać?
+
+01:06:56.980 --> 01:06:58.980
+Nie, niekoniecznie.
+
+01:06:59.000 --> 01:07:01.000
+Wydaje mi się, że jeszcze
+
+01:07:01.020 --> 01:07:03.020
+pośród tych różnych trailerów, nie jestem pewien czy na
+
+01:07:03.040 --> 01:07:05.040
+IGN, bo ja tak trochę skakałem między różnymi kanałami,
+
+01:07:05.060 --> 01:07:07.060
+był jeszcze trailer
+
+01:07:07.080 --> 01:07:09.080
+Creed'a 3.
+
+01:07:09.080 --> 01:07:11.080
+Nie wiem, czy w ogóle
+
+01:07:11.100 --> 01:07:13.100
+Creed'a oglądałeś pierwszą, drugą?
+
+01:07:13.120 --> 01:07:15.120
+Pierwszą całkiem była okej,
+
+01:07:15.140 --> 01:07:17.140
+druga chyba już nie była tak okej.
+
+01:07:17.160 --> 01:07:19.160
+I...
+
+01:07:19.180 --> 01:07:21.180
+Trzecia się fajnie zapowiada.
+
+01:07:21.200 --> 01:07:23.200
+I w trzeciej części gra taki facet,
+
+01:07:23.220 --> 01:07:25.220
+który także chyba gra
+
+01:07:25.240 --> 01:07:27.240
+Jonathan Myers się nazywa.
+
+01:07:27.260 --> 01:07:29.260
+On też gra w Quantum Many
+
+01:07:29.280 --> 01:07:31.280
+chyba, taki trochę popularny, czarnoskóry
+
+01:07:31.300 --> 01:07:33.300
+aktor się robi. Bardzo sympatyczny
+
+01:07:33.320 --> 01:07:35.320
+zresztą, ja go oglądałem w paru rzeczach, ale nie jestem
+
+01:07:35.340 --> 01:07:37.340
+do końca pewny gdzie. Więc
+
+01:07:37.340 --> 01:07:39.340
+jakby Creed też
+
+01:07:39.360 --> 01:07:41.360
+w jego wykonaniu takie sprawia
+
+01:07:41.380 --> 01:07:43.380
+wrażenie, że może być ciekawy.
+
+01:07:43.400 --> 01:07:45.400
+Ja już rzucałem na to okiem, ale oglądałem
+
+01:07:45.420 --> 01:07:47.420
+pierwszy film, bardzo mi się podobał. Drugiej części
+
+01:07:47.440 --> 01:07:49.440
+jeszcze nie obejrzałem. Obiecałem sobie, że z żoną
+
+01:07:49.460 --> 01:07:51.460
+obejrzę od początku, więc
+
+01:07:51.480 --> 01:07:53.480
+przy tym tempie, jakim my oglądamy filmy i seriale,
+
+01:07:53.500 --> 01:07:55.500
+to podejrzewam, że jak już trójka będzie na
+
+01:07:55.520 --> 01:07:57.520
+serwisach streamingowych, to na początku...
+
+01:07:57.540 --> 01:07:59.540
+Trójka na początku marca będzie w kinach.
+
+01:07:59.560 --> 01:08:01.560
+No, no to no, ale to jest, na pewno Creed
+
+01:08:01.580 --> 01:08:03.580
+jest, pierwsza część jest, mówią, że to jest
+
+01:08:03.600 --> 01:08:05.600
+najlepszy Rocky w ogóle, jaki był, więc nie wiem.
+
+01:08:05.600 --> 01:08:07.600
+Trudno mi to ocenić.
+
+01:08:07.620 --> 01:08:09.620
+No, na pewno porządny,
+
+01:08:09.640 --> 01:08:11.640
+porządny, porządny film.
+
+01:08:11.660 --> 01:08:13.660
+Tak jest. No, więc tak to proszę państwa.
+
+01:08:13.680 --> 01:08:15.680
+Miłego wygląda w naszym wykonaniu dzisiaj.
+
+01:08:15.700 --> 01:08:17.700
+Rozstajemy się z państwem.
+
+01:08:17.720 --> 01:08:19.720
+Tak, rozstajemy się.
+
+01:08:19.740 --> 01:08:21.740
+Na co z tych wszystkich rzeczy, o których
+
+01:08:21.760 --> 01:08:23.760
+tutaj mówiliśmy, czekacie
+
+01:08:23.780 --> 01:08:25.780
+najbardziej?
+
+01:08:25.800 --> 01:08:27.800
+Jak najbardziej.
+
+01:08:27.820 --> 01:08:29.820
+Oglądali państwo, oglądali państwo
+
+01:08:29.840 --> 01:08:31.840
+szósty odcinek
+
+01:08:31.860 --> 01:08:33.860
+The Last of Us?
+
+01:08:33.860 --> 01:08:35.860
+Bo ja już pewnie, jak państwo to oglądają,
+
+01:08:35.880 --> 01:08:37.880
+to już albo jestem teraz
+
+01:08:37.900 --> 01:08:39.900
+w trakcie oglądania.
+
+01:08:39.920 --> 01:08:41.920
+A my nie omówimy w czwartek, bo w czwartek mamy TAN.
+
+01:08:41.940 --> 01:08:43.940
+No, więc mają państwo ekskluzywnie u mnie na moim kanale.
+
+01:08:43.960 --> 01:08:45.960
+No właśnie.
+
+01:08:45.980 --> 01:08:47.980
+Zapraszamy państwa.
+
+01:08:48.000 --> 01:08:50.000
+Zwłaszcza tych, którzy są już Harrym Poterem zmęczeni,
+
+01:08:50.020 --> 01:08:52.020
+bo strasznie eksploatuje ten temat.
+
+01:08:52.040 --> 01:08:54.040
+To prawda.
+
+01:08:54.060 --> 01:08:56.060
+No nic, trzymajcie się, na razie, cześć.
+

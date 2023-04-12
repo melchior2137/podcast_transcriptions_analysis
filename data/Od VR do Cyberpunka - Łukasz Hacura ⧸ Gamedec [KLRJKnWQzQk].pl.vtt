@@ -1,0 +1,2704 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.651
+- Dzień dobry! Witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry panowie!
+
+00:00:06.012 --> 00:00:08.201
+- Dzień dobry.
+- Dzień dobry. 
+
+00:00:08.252 --> 00:00:15.638
+- Już przedstawiam, już przedstawiam. Naszym gościem jest Łukasz Hacura, szef studia Anshar. Zgadza się? Nic nie pomyliłem?
+
+00:00:15.726 --> 00:00:16.261
+- Zgadza się. 
+
+00:00:16.300 --> 00:00:22.823
+- Dobrze. Borys cię pewnie dużo lepiej przedstawi, bo cały czas się chwali takimi znajomościami tutaj, w GameDevie. 
+
+00:00:22.990 --> 00:00:28.080
+- Tak, pamiętam. Pamiętam Łukasz jak się poznaliśmy, pamiętam. To było dawno. Nie, dobra.
+
+00:00:28.128 --> 00:00:37.038
+Nie pamiętam, ale przypomniałem sobie... Przypomniałem sobie, bo mam cię chyba na pierwszym PixelHaven. Mam cię gdzieś tam w przebitce, że... 
+
+00:00:37.124 --> 00:00:39.320
+- Tak. Chodziłeś z kamerą za...
+
+00:00:39.421 --> 00:00:40.044
+- Tak, tak. 
+
+00:00:40.075 --> 00:00:44.536
+- ... Za Adrianem Chmielarzem, a ja też chodziłem za Adrianem Chmielarzem, bo byłem Stars Truck. 
+
+00:00:44.583 --> 00:00:45.086
+- Tak, dokładnie. 
+
+00:00:45.121 --> 00:00:46.732
+- I tak się poznaliśmy. 
+
+00:00:46.853 --> 00:00:57.631
+- Dokładnie. Dokładnie, więc... Przede wszystkim wasze studio znane jest chyba najbardziej z Gamedeca.
+
+00:00:59.094 --> 00:01:04.583
+Czy ja mogę tak po... Czy to jest prawda, czy to umniejszam trochę te wszystkie zasługi dla świata VR-owego?
+
+00:01:04.612 --> 00:01:17.925
+- Nieee, absolutnie... Znaczy, wiesz w GameDevie jest jasne, że nad IP pracowaliśmy znacznie ciekawszymi i większymi IP niż Gamedec, co smutno mówić, bo przecież Gamedec...
+
+00:01:18.001 --> 00:01:28.518
+Ja mam ogromną ilość miłości do Gamedeca, natomiast w GameDevie jest coś takiego, że zrobienie jednak gry od A do Z to jest ta największa odznaka honoru, że tak powiem, więc...
+
+00:01:28.584 --> 00:01:39.752
+Więc fakt, że tam współpracowaliśmy przy innych tytułach, to fakt, że to była tylko współpraca, a nie w całości zrobiony przez nas produkt, czy gra. 
+
+00:01:39.853 --> 00:01:48.395
+No to faktycznie, że wymienia się nas wtedy, że kiedyś byliśmy znani z tego, że nic nie zrobiliśmy, czy tylko ludzi zatrudniamy.
+
+00:01:48.542 --> 00:01:52.387
+Potem byliśmy znani z tego, że żeśmy się w VR wpakowali. 
+
+00:01:52.541 --> 00:01:53.819
+- A no właśnie. 
+
+00:01:53.926 --> 00:02:03.343
+- A teraz, a teraz faktycznie wydaję mi się, że Gamedec jest tym takim, pierwszym co przychodzi na myśl, kiedy się mówi o Ansharach. 
+
+00:02:03.588 --> 00:02:09.561
+- Wy żeście zrobili Detached, bo to jest pierwsza rzecz jaka mi przyszła, przed oczy jak sobie zacząłem główkować rzeczy. 
+
+00:02:09.636 --> 00:02:12.507
+- Tak, tak. 
+- To był 2017 rok? Gdzieś te rejony?
+
+00:02:12.591 --> 00:02:28.031
+- Wiesz co, to było wcześniej, bo 2017 to chyba był Relesases, a my robiliśmy Early Acces, coś mi się kojarzy, 2016 jako nasze pierwsze koty za płoty z VR-em.
+
+00:02:28.151 --> 00:02:37.030
+ I tu Detached inspirowane notabene jak wiele tytułów w tamtych czasach na VR-a inspirowane filmem Gravity. 
+
+00:02:37.188 --> 00:02:44.280
+Poszedłem do kina i stwierdziłem: O! To będzie to! I myślę, że chyba z 7 osób jeszcze tak stwierdziło.
+
+00:02:44.403 --> 00:02:48.141
+Znaczy, stwierdziło pewnie 70, ale 7 faktycznie zrobiło grę.
+
+00:02:48.279 --> 00:02:54.244
+ I tak, i to był nasz pierwszy taki tytuł, który nie był work for hire. 
+
+00:02:54.445 --> 00:03:01.794
+I wtedy przestali się śmiać, że jesteśmy pralnią - pewnie - brudnych pieniędzy, bo tylko zatrudniamy ludzi, a gier nie wydajemy. 
+
+00:03:01.874 --> 00:03:05.809
+- Powiedz mi, Borys ma dużo pewnie pytań, a jak mi przychodzi coś do głowy, to od razu będę pytał. 
+
+00:03:05.809 --> 00:03:07.969
+Potem zapomnę, nie zapisałem sobie tego.
+
+00:03:08.363 --> 00:03:18.408
+To był chyba taki czas, to też pamiętam, podczas tych wyjazdów jak żeśmy rozmawiali z różnymi ludźmi z różnych studiów, gdzie dużo Polaków robiło VR-ki, nie? 
+
+00:03:18.408 --> 00:03:25.674
+- Tak. Znaczy... Dużo próbowało, natomiast 3 firmy mi się kojarzą, z których tylko jedna dalej robi VR-a. 
+
+00:03:25.734 --> 00:03:34.716
+3 firmy mi się kojarzą jako takie... Najwysuwające się powiedzmy, czy też głośniejsze w Polsce oczywiście.
+
+00:03:34.833 --> 00:03:39.223
+Stricte w Polsce niż na świecie. To było House of Fables.
+
+00:03:39.347 --> 00:03:41.611
+- No właśnie, a co z House of Fables się dzieje?
+
+00:03:41.729 --> 00:03:53.207
+- Czyli Adam Robaszyński-Janiec i Karbon. Karboni i my. I nawet mamy taką fotę z jakiegoś paxa, że dwóch królów i królowa VR-a. 
+
+00:03:53.366 --> 00:04:03.381
+Z Karoliną i z Adamem. Adam poza... Ja go głównie aktualnie znam z tego, że... Że graliśmy dużo w Tarkov.
+
+00:04:03.463 --> 00:04:11.775
+Natomiast zawodowo, zawodowo z tego co wiem, działa na rynku Mobile Free to Play. 
+
+00:04:11.940 --> 00:04:19.878
+ W związku z czym nie za wiele mogę o tym powiedzieć, bo to jest akurat taki segment rynku GameDevowego, którego nie śledzę za bardzo, tak. 
+
+00:04:19.974 --> 00:04:23.534
+Więc House o Fables się z tego VR-a przebranżowiło.
+
+00:04:23.614 --> 00:04:33.074
+Myśmy się z tego VR-a przebranżowili, a Karboni ostro dalej cisną i w tej chwili jest już tylko, tylko jeden król. Karbon. 
+
+00:04:33.309 --> 00:04:42.700
+- Ja sobie jeszcze wrócę do tych VR-ów. Nie będę tutaj wiesz, zaprzątał cię tym VR-em, ale po to sięgnę jeszcze, bo mamy czasy metaverse powoli. 
+
+00:04:42.957 --> 00:04:43.732
+- Tak. 
+
+00:04:43.831 --> 00:04:49.534
+- I przecież się zbliżają, ale to już oddaję Borysa, bo widzę, że się tam kręci na tym krześle, już się nie może doczekać. 
+
+00:04:49.754 --> 00:05:00.485
+- Nie, ja się nie kręcę, ale wiesz co Łukasz, może fajnie by było, gdybyś tak pokazał swoją... Opowiedział o swojej ścieżce GameDevowe. 
+
+00:05:00.583 --> 00:05:03.779
+Skąd ty się wziąłeś w ogóle w tej branży. Bo ja pamiętam... 
+
+00:05:03.952 --> 00:05:15.298
+Ciebie głównie kojarzyłem kiedyś z City, bo tych opowieści było bardzo, bardzo dużo. Jak w ogóle ten start u ciebie wyglądał?
+
+00:05:15.380 --> 00:05:16.978
+- Znaczy u mnie start wyglądał tak, że...
+
+00:05:17.172 --> 00:05:25.850
+Zależy jak patrzeć. Jak na programistę, bo ja zaczynałem branżę jako programista, jak na programistę ja bardzo późno zacząłem...
+
+00:05:25.933 --> 00:05:30.176
+Zacząłem programować. Zawsze byłem graczem, jak pamiętam.
+
+00:05:30.331 --> 00:05:39.442
+ Na ile mi pamięć sięga, to zawsze byłem graczem, zawsze kochałem gry video i spędzałem na tym zawsze więcej czasu niż rodzice chcieli.
+
+00:05:39.494 --> 00:05:45.538
+To było zawsze moje jakieś tam główne hobby. Natomiast przez to, że czytałem jakieś tam pisma wszystkie.
+
+00:05:45.711 --> 00:05:51.114
+To były czasy, ja się wychowywałem w czasach, gdzie pism tych komputerowych było mnóstwo, tak.
+
+00:05:51.184 --> 00:05:58.159
+Jednocześnie można było 3 kieszonkowe wydać na to, żeby kupić wszystkie, wszystkie czasopisma jakie wychodziło.
+
+00:05:58.233 --> 00:06:02.541
+Gambler gier komputerowych. Top Secret i tak dalej, i tak dalej.
+
+00:06:02.729 --> 00:06:05.833
+Oczywiście one tam sobie powoli wszystkie umierały. Powstawały a potem umarły.
+
+00:06:05.963 --> 00:06:16.408
+ Ale w tamtych czasopismach było takie przeświadczenie, taka narracja była, że tworzenie gier video jest strasznie trudne i nudne. Nie wiem czemu, tak jakoś mi to zawsze...
+
+00:06:16.557 --> 00:06:21.547
+Więc ja nigdy nie myślałem, że... Ja poszedłem na informatykę myśląc, że będę miał sklep komputerowy.
+
+00:06:21.609 --> 00:06:30.378
+Składał ludziom sprzęt i będę, będę siedział po prostu w takim IT, ale sprzętowym. Tak, tak.
+
+00:06:30.482 --> 00:06:37.573
+No i poszedłem na informatykę z taką myślą. Natomiast na pierwszym roku, jak tylko się nauczyliśmy, pierwsze zajęcia z programowania.
+
+00:06:37.718 --> 00:06:45.490
+Ja poczułem takie MOGĘ WSZYSTKO. JESTEM BOGIEM. Można...
+
+00:06:45.542 --> 00:06:50.015
+Programowanie to jest coś niesamowitego i ktokolwiek powiedział, że to jest nudne, był idiotą.
+
+00:06:50.184 --> 00:06:55.681
+I stwierdziłem - no dobra, skoro mogę wszystko, to oczywiście że będę robił gry.
+
+00:06:55.729 --> 00:07:01.755
+Więc ja na pierwszym roku studiów, czyli relatywnie późno jak na programistę, że tak powiem, stwierdziłem, że dobra.
+
+00:07:01.814 --> 00:07:07.938
+Będę na pewno robił gry. Wszystkie moje projekty to były gry. Nie ważne czy to były bazy danych, czy cokolwiek. Wszystko.
+
+00:07:08.049 --> 00:07:09.718
+Ja byłem bardzo trójkowym studentem.
+
+00:07:09.794 --> 00:07:18.016
+ Piątkę miałem tylko z czegoś, co można było zaprogramować, a wszystko inne to były tróje, byle zaliczyć, byle mieć magistra, inżyniera.
+
+00:07:18.113 --> 00:07:24.706
+I na tych studiach były dwie firmy. Bo ja na Politechnice Śląskiej w Gliwicach studiowałem i były sobie dwie firmy.
+
+00:07:24.883 --> 00:07:31.579
+Była firma Artifex Mundi i wykładowcą tam był Tomek, Jakub Grudziński.
+
+00:07:31.654 --> 00:07:38.343
+ I była sobie firma Fresh Chicken Studios, gdzie wykładowcą był tam Wojciech Borczyk.
+
+00:07:38.398 --> 00:07:46.484
+ I obie firmy były zainteresowane zatrudnieniem mnie i Maćka Strużynę, bo to był mój kolega z grupy.
+
+00:07:46.637 --> 00:07:48.003
+Dużo lepszy ode mnie programista.
+
+00:07:48.127 --> 00:07:54.974
+I tak naprawdę chyba bardziej chcieli zatrudnić Maćka Strużynę, a ja to tam, taki byłem dodatkowy, że tak powiem, zapalony.
+
+00:07:55.081 --> 00:08:05.231
+ W każdym bądź razie nie wybraliśmy Artifex Mundi z takiego prozaicznego powodu, że oni programowali wtedy w Pascalu, a my stwierdziliśmy że nie, no jak to w Pascalu programować.
+
+00:08:05.322 --> 00:08:06.816
+ Znaczy w Delphi, przepraszam.
+
+00:08:06.909 --> 00:08:14.878
+Jak mnie C++ i tu tylko można robić gry w C++ i dlatego poszliśmy do firmy, która się nazywała Świeży Kurczak. Fresh Chicken Studio.
+
+00:08:14.954 --> 00:08:23.340
+- No i tak to w skrócie, bo to po skrócie. FCS to jeszcze coś tam mi w głowie świta, ale nie kojarzę.
+
+00:08:23.421 --> 00:08:30.016
+- Fresh Chicken Studios, FCS to był 2006 rok. Robiliśmy gry za pieniądze Nibrisu.
+
+00:08:30.184 --> 00:08:38.009
+ W sensie Fresh Chicken Studios podpisał kontrakt na gry na DS-a z firmą Nibris, czyli pierwszą...
+
+00:08:38.135 --> 00:08:43.413
+Nie wiem czy pierwszą, ale poprzednią przed Bloober Teamem, firmą Piotrka Babiano.
+
+00:08:43.474 --> 00:08:50.660
+Więc tam, gdzieś tam, gdzieś tam się przewijały próby zrobienia Sadnessa.
+
+00:08:50.788 --> 00:08:55.330
+Robiliśmy gry DS-owe. Robiliśmy grę, która się nazywa Double Bloob.
+
+00:08:55.475 --> 00:08:58.613
+ I to był pierwszy tytuł przy którym faktycznie programowałem komercyjnie.
+
+00:08:58.726 --> 00:09:08.285
+ I ten tytuł to jest skąd się wzięła nazwa, notabene Bloober Team, od tej gry, bo myśmy tej gry nie skończyli, bo tam Nibris się wycofał z tej współpracy.
+
+00:09:08.427 --> 00:09:16.997
+ Skończył to chyba własnym sumptem i właśnie się wtedy przemianował. Skoro robimy grę Double Bloobs, to to się przemianował na Bloober Team.
+
+00:09:17.153 --> 00:09:18.604
+To taka, taki peace of history.
+
+00:09:18.670 --> 00:09:23.332
+- Bardzo odważnie nazwać firmę na bazie projektu, który nie został zakończony.
+
+00:09:23.465 --> 00:09:32.463
+- Taa, znaczy oni go koniec końców potem, potem gdzieś tam na, on na DS-a nigdy nie wyszedł, ale gdzieś tam jakoś w formie PC-towej chyba to gdzieś w końcu wydali.
+
+00:09:32.697 --> 00:09:42.868
+No, w każdym bądź razie FCS za ten czas, jako że się specjalizował, czy też kilka tych projektów DS-owych miał rozpoczętych, zaczął pracować dla City Interactive.
+
+00:09:43.045 --> 00:09:49.217
+Wcześniej nazywała się ta firma Still Interactive, nie CI Games. I w trakcie prac nad...
+
+00:09:49.351 --> 00:09:51.955
+- To chyba Lemon jeszcze wcześniej się nazywali, nie?
+
+00:09:52.112 --> 00:09:55.057
+- Tak, ale to przed moimi czasami.
+
+00:09:55.206 --> 00:10:04.947
+Te czasy współpracy jeszcze wcześniej z Adrianem Chmielarzem i tak dalej to są before my time. Ja jestem z czasów już City Interactive.
+
+00:10:05.082 --> 00:10:07.205
+Oni byli w trakcie wchodzenia na giełdę.
+
+00:10:07.346 --> 00:10:13.999
+Otwierali właśnie dużo studiów i tam pompowali się przed tą giełdą, czyli tam były czasu Peru, czasy Katowic właśnie.
+
+00:10:14.087 --> 00:10:17.064
+Otwieranie studia w Katowicach, to była akwizycja właśnie Fresh Chickenów.
+
+00:10:17.216 --> 00:10:25.905
+Więc ja do City się nie rekrutowałem, ja zostałem kupiony. W sensie z bogactwem inwentarza, że tak powiem.
+
+00:10:26.007 --> 00:10:37.773
+Przyszedłem do City Interactive, gdzie pracowałem blisko pięć lat, do zamknięcia studia w Katowicach po wydaniu Dogfight 1942, gdzie tam byłem lit programerem.
+
+00:10:37.879 --> 00:10:44.038
+Zajmowałem się dosyć dużo robotą taką, tak naprawdę producencką.
+
+00:10:44.105 --> 00:10:50.090
+ Ten lit programer to taki był troszkę na wyrost bym powiedział, bo dużo było lepszych programistów ode mnie w tej firmie.
+
+00:10:50.159 --> 00:10:54.202
+Ja już się praktycznie zajmowałem bardziej managementem stricte.
+
+00:10:54.704 --> 00:11:02.424
+ Dużo lepsi programiści byli ode mnie w tej firmie. Notabene wielu z nich pracuje nadal w Ansharze.
+
+00:11:02.609 --> 00:11:11.479
+No i po zamknięciu, po zamknięciu CI Games Katowice, bo już wtedy się nazywaliśmy CI Games, po zamknięciu Dog Fighta, tam dosyć dużo studiów.
+
+00:11:11.512 --> 00:11:14.432
+ Było trochę tak, jak skończyłeś grę to cię zamykali.
+
+00:11:14.654 --> 00:11:23.260
+Okres zaciskania pasa, czyli Alien, F.E.A.R., który potem był przemianowany bodajże na Alien Rage, o ile dobrze pamiętam, no to tak skończył Bydgoszcz.
+
+00:11:23.449 --> 00:11:28.776
+Byliśmy Combat Wingsem przemianowanym na Dog Fighta 1942 i też tą grą zakończyliśmy byt.
+
+00:11:28.968 --> 00:11:38.414
+Jedynym studiem, które przetrwało, to był Rzeszów, który ze względu na to, że miał studio Motion Capture i dosyć dużo działań animacyjnych,
+
+00:11:38.528 --> 00:11:45.849
+to po premierze Enemy Fronta, został tylko drastycznie zredukowany, ale dalej, dalej sobie gdzieś tam istniał.
+
+00:11:46.051 --> 00:11:54.058
+No a potem też faktycznie został zamknięty i tam część tych ludzi. Część tych ludzi teraz to jest PCF tak w ogóle, nie?
+
+00:11:54.137 --> 00:12:12.529
+No. Więc tak. No i po zamknięciu w 2012 roku, tak. CI Games. W Katowicach jedyne ciekawe oferty pracy to było Warszawa i Wrocław.
+
+00:12:12.759 --> 00:12:18.878
+Więc, a ja się nie chciałem przeprowadzać. Bardzo ambitny powód do założenia firmy.
+
+00:12:18.958 --> 00:12:27.921
+To był też taki moment, w którym Artifex Mundi zlecało projekty. Dosyć mocną mieli ekspansję.
+
+00:12:28.017 --> 00:12:32.924
+Zlecali projekty na zewnątrz ze względu na to, że jeszcze gdzieś tam się znaliśmy.
+
+00:12:33.000 --> 00:12:36.706
+ Nie jakoś dobrze, nie jakoś super, ale no jednak ten kontakt do Tomka Grudzińskiego był.
+
+00:12:36.778 --> 00:12:43.666
+No to wykonałem telefon, czy nie chcieliby coś zlecić byłej ekipie CI Games. I w parę osób żeśmy założyli studio.
+
+00:12:43.692 --> 00:12:52.293
+Więc tak naprawdę nie było by Ansharu, gdyby nie Artifex Mundi, a dokładnie gdyby nie Tomek Grudziński, bo ja nie miałem żadnego kapitału, tak.
+
+00:12:52.320 --> 00:12:56.805
+Nie miałem jak założyć formy. Myśmy od razu zaczęli od tego modelu work for hire.
+
+00:12:56.902 --> 00:13:10.835
+To się oczywiście tam troszkę w czasie zmieniło, bo Grzegorz Dymek do nas dołączył po kilku miesiąca jako taki CD Investor, bez którego byśmy już tam 17 razy splajtowali. 
+
+00:13:10.927 --> 00:13:12.302
+- Pozdrawiamy Grzesia serdecznie. 
+
+00:13:12.398 --> 00:13:21.840
+- Tak, więc... No i z Grzegorzem zaczęliśmy tę firmę profesjonalizować, no bo oryginalnie studio zostało założone przeze mnie i przez Krzysztofa Biegańskiego,
+
+00:13:21.986 --> 00:13:29.061
+ który gdzieś tam trzyma się z daleka, że tak powiem, mediów i świateł reflektorów i tak dalej. 
+
+00:13:29.142 --> 00:13:33.224
+No ale jest jakby nie patrzeć co-founderem Anshar Studios.
+
+00:13:33.324 --> 00:13:41.559
+- Okej, czyli dość burzliwą miałeś tę drogę. Jak wspominasz w ogóle City?
+
+00:13:41.679 --> 00:13:42.696
+- Super!
+
+00:13:42.777 --> 00:13:43.971
+- Bo City to jest... Tak?
+
+00:13:44.067 --> 00:13:53.890
+- Super! Żeby była jasność, to w życiu bym tego nie chciał powtórzyć, absolutnie. Bo to był... To był stary GameDev. 
+
+00:13:54.008 --> 00:14:02.223
+W sensie ja nie zaznałem takiego splendoru i prestiżu, jak ci, którzy pracowali czy to w Techlandzie, czy to w CD-Projekt. 
+
+00:14:02.277 --> 00:14:08.507
+ Bo powiedzmy, że oni przynajmniej umierali - w cudzysłowie - za jakieś ideały. 
+
+00:14:08.667 --> 00:14:11.692
+W sensie, nie wiem, mogli powiedzieć, że robili Wiedźmina, tak?
+
+00:14:11.764 --> 00:14:17.800
+A ja umierałem za Dog Fighty, to tak... Mniej cool brzmi, tak, ale myśmy naprawdę. 
+
+00:14:17.862 --> 00:14:22.038
+To były takie czasy w GameDevie, że myśmy deathmarchowali, myśmy się jeszcze z tego cieszyli, tak.
+
+00:14:22.111 --> 00:14:32.559
+Myśmy robili 100, 110, 120 nadgodzin w miesiącu, czyli pracowaliśmy tam po te 260-270 godzin. No byliśmy też młodzi, nie?
+
+00:14:32.673 --> 00:14:41.276
+I to były takie czasy, że czasami się wychodziło o 7:00 rano ze studia. Tak i wracało się do niego o 13:00 i tak dalej. 
+
+00:14:41.366 --> 00:14:49.370
+I... No taki naprawdę crunch mode, z którego się jeszcze było dumnym, na zasadzie, że aa...
+
+00:14:49.491 --> 00:14:50.298
+- Najgorzej. 
+
+00:14:50.370 --> 00:14:55.621
+- W GameDevie robimy. Jesteśmy zarąbiści w ogóle. Oddajemy tutaj naszą krwawicę, więc... 
+
+00:14:55.684 --> 00:15:04.313
+Ja to bardzo mile wspominam, ale ja to trochę wspominam jako - byłem młody, fajnie że to przeżyłem. Fajnie, że nie opłaciłem tego zdrowiem. 
+
+00:15:04.410 --> 00:15:11.513
+Fajnie, że nie opłaciłem tego... Czy nie opłaciłem tego zdrowiem, tam te 15 kilo co tam zdobyłem, dalej nie zrzuciłem, ale...
+
+00:15:11.573 --> 00:15:23.812
+Ale powiedzmy, że serce mam zdrowe. Żona dalej ta sama, więc jak gdyby pod tym względem super, że ja to naprawdę dobrze wspominam.
+
+00:15:23.866 --> 00:15:27.340
+ I te przyjaźnie, jakie z okopów, bo to są takie naprawdę... 
+
+00:15:27.413 --> 00:15:33.814
+ Ja oczywiście nigdy nie służyłem w żadnym wojsku, nie byłem na żadnej wojnie i to tam nie wypada mi może porównywać, tak.
+
+00:15:33.939 --> 00:15:38.971
+Ale to są takie, takie przyjaźnie w okopach, których nikt tego nie zrozumie, tak. 
+
+00:15:39.136 --> 00:15:46.612
+Są ludzie, z którymi się to przeżyło, te nocki, te stresy. No i to jest do dzisiaj. Do dzisiaj nawet jak już pracujemy... 
+
+00:15:46.708 --> 00:15:55.451
+Z dużą ilością tych ludzi pracuję nadal w Ansharach. A teraz oczywiście dużo z tych ludzi pracuje w jakichś Techlandach, CD-pach, PCF-ach.
+
+00:15:55.567 --> 00:16:02.022
+Porozchodzili się i zawsze jak się spotykamy, to jest takie... No to jest taki midi connection. 
+
+00:16:02.100 --> 00:16:06.956
+Jest coś, jest coś tam, że ci weterani wiedzą, jak to było. 
+
+00:16:07.055 --> 00:16:15.320
+- No tak, ale to też jest taka historia, że ten, że te właśnie historie z okopów, bo to jest, to często ten zwrot się powtarza. 
+
+00:16:15.458 --> 00:16:22.121
+To są fajne, jak to było raz, albo jak to było dawno temu, a no... No tak jakby kontynuowanie. 
+
+00:16:22.151 --> 00:16:30.735
+- Znaczy, żeby była jasność. Jednym z fundamentów, jednym z głównych takich USP Ansharu, kiedy go zakładaliśmy, to było że jesteśmy, mamy no crunch policy, 
+
+00:16:30.819 --> 00:16:40.215
+tak że właśnie jesteśmy tutaj przeciwieństwem do tego, co zastaliśmy w City, bo uważaliśmy, że to jest bez sensu, bo ja byłem w takiej pozycji, takiej managementowej,
+
+00:16:40.260 --> 00:16:50.211
+jako producent czy to jako head of studio, gdzie head of studio brzmi jak top management, ale w City to był dalej middle management, bo jednak był... 
+
+00:16:50.436 --> 00:17:02.412
+Warszawa rządziła. To ja miałem autentyczne dowody, tak, że po prostu liczba godzin rośnie, koszty powstania firm rosło, 
+
+00:17:02.537 --> 00:17:09.708
+ bo City płaciło za nadgodziny i to płaciło za nadgodziny w czasach, w których to nie było oczywiste, że się płaci za nadgodziny.
+
+00:17:09.802 --> 00:17:17.152
+Więc City płaciło zawsze za nadgodziny, zawsze płaciło w terminie więc pod tym względem to było bardzo fair i fajna firma. 
+
+00:17:17.273 --> 00:17:27.152
+Natomiast no ewidentnie wynikało, że koszty nam rosną, a efektywność maleje.
+
+00:17:28.529 --> 00:17:37.537
+No ale komunikowanie tego w górę było - a to koszty rosną, to może nie powinniśmy płacić za te nadgodziny. 
+
+00:17:37.721 --> 00:17:41.455
+- Tak, tak. To jest korporacja, tak. 
+
+00:17:41.615 --> 00:17:51.316
+- W związku z czym ja już więcej tego tematu nie podnosiłem. Stwierdziłem, że może to nie ma sensu, bo jeszcze doprowadzę do jakiejś rewolucji, do której bym nie chciał doprowadzić. 
+
+00:17:51.508 --> 00:17:59.309
+Że crunch zostanie, a nadgodziny przestaną być płacone. W każdym bądź razie tak. To były takie czasy, że... 
+
+00:17:59.435 --> 00:18:10.573
+Zresztą jest narracja dalej w wielu studiach do dzisiaj, że o tym się ciszej się mówi, żeby tam w socialmediach tam nie zakrzyczeli, ale... Nie tak, że crunch zniknął. 
+
+00:18:10.767 --> 00:18:12.468
+- Nie no, to wiadomo to. 
+
+00:18:12.580 --> 00:18:18.862
+- Wszyscy jesteśmy świadomi. Ja właśnie byłem ciekaw, czy tej polityki udało się dochować w Ansharach wam. 
+
+00:18:18.993 --> 00:18:27.749
+- Oczywiście zależy jak wielkim jesteśmy purystą w kontekście co to znaczy crunch, czy jakiekolwiek nadgodziny, które były. 
+
+00:18:27.880 --> 00:18:31.428
+Ja oczywiście nie wierzę w dowiezienie projektu bez żadnych nadgodzin, tak. 
+
+00:18:31.604 --> 00:18:35.997
+ Bo jest to zbyt nieprzewidywalny biznes w kontekście bardzo dużo rzeczy może się wywalić.
+
+00:18:36.127 --> 00:18:49.944
+Więc jeżeli zdefiniujemy crunch, że gdzieś tam przy premierze na przykład przez miesiąc chodziliśmy częściej niż to 8 godzin, tak.
+
+00:18:50.007 --> 00:18:55.311
+Do studia, czy przez 2 miesiące niektórzy. No to tak, to w Ansharach crunchowaliśmy zdecydowanie.
+
+00:18:55.510 --> 00:19:01.197
+Natomiast na pewno nie było nigdy żadnych deatchmarchów. Przede wszystkim, co jest najważniejsze, crunch nigdy nie był metodą produkcji. 
+
+00:19:01.268 --> 00:19:11.345
+To jest bardzo ważne rozróżnienie, czyli mówimy sobie - nie zdążymy czegoś zrobić, w związku z czym stwierdzimy - nie, musimy to zrobić, w związku z czym crunchujemy.
+
+00:19:11.405 --> 00:19:16.616
+ Brakuje nam czasu w naszym planie produkcyjnym, więc uzupełniamy ten czas crunchem. To tego nigdy nie było w Ansharach. 
+
+00:19:16.688 --> 00:19:18.348
+- Tak. Crunch systemowy to jest...
+
+00:19:18.403 --> 00:19:23.362
+- Tak, tak. Natomiast był crunch ratujący dupę. Że tak powiem, tak.
+
+00:19:23.463 --> 00:19:28.713
+W sensie - premiera jest kurde za tydzień. No słuchajcie, no trzeba przyjść w weekend, bo to, to i to. Tak.
+
+00:19:28.836 --> 00:19:34.521
+Nigdy nie było obowiązkowe, chociaż to też jest takie. Nigdy nie było obowiązkowe w Anharach. Nigdy nikomu nie kazałem.
+
+00:19:34.521 --> 00:19:36.926
+- Nie ma czegoś takiego jak nieobowiązkowy, także no jakby...
+
+00:19:36.926 --> 00:19:44.573
+- Ale jednak peer pressure, peer pressure jest, tak. I teraz są ludzie, którzy mają mocniejszą asertywność, zwłaszcza starsi. 
+
+00:19:44.751 --> 00:19:46.660
+Są też ludzie, którzy mają mniejszą.
+
+00:19:46.744 --> 00:19:51.669
+Są też ludzie, którzy dalej to traktują jako badge of honor, chociaż z tym się akurat staram walczyć,
+
+00:19:52.048 --> 00:19:57.971
+że hej, jakby jesteśmy wdzięczni, ale to że to się wydarzyło to jest tak naprawdę jakiś tam błąd, nie?
+
+00:19:58.396 --> 00:20:01.647
+I powinniśmy go gdzieś tam próbować naprawić. 
+
+00:20:01.870 --> 00:20:07.740
+Więc na pewno nie mamy żadnych kwiecistych historii, typu ludzie śpiący na kanapie, pracujący do 7:00 rano,
+
+00:20:07.905 --> 00:20:14.086
+czy dzieci pozostawione na parkingu, bo rodzice byli tak zmęczeni, że zapomnieli odwieźć do przedszkola. 
+
+00:20:14.248 --> 00:20:16.601
+No nie mamy żadnych kwiecistych crunchowych historii w Ansharach. 
+
+00:20:16.655 --> 00:20:25.086
+Natomiast może nie powinienem się za dużo wypowiadać, no bo ja też w tych okopach już nie siedzę nie?
+
+00:20:25.198 --> 00:20:28.596
+Nie wiem co tam, może musicie się zapytać jakiegoś mojego pracownika, chociaż...
+
+00:20:28.730 --> 00:20:30.080
+- Ja tam popytałem trochę. 
+
+00:20:30.179 --> 00:20:35.732
+- Wydaję mi się, wydaję mi się, że nie mamy naprawdę się czego wstydzić. 
+
+00:20:35.956 --> 00:20:43.340
+- Nie, no to ja muszę tutaj te rzeczy, które mnie gdzieś tam, gdzie rozmawiam z ludźmi przez lata, no to Artifex, 
+
+00:20:43.493 --> 00:20:51.698
+ wy jesteście też takim studiem, gdzie ten crunch jest na pewno absolutnie zminimalizowany. 
+
+00:20:51.769 --> 00:20:55.203
+Nie ma, no nie słyszałem żeby to był jakiś problem. 
+
+00:20:55.411 --> 00:21:06.582
+Po drugie, no każda praca jakby projektowa wiąże się z tym, że pojawia się jakiś błąd i czasem trzeba przede wszystkim przed końcem to nadrobić, co jest normalne.
+
+00:21:06.674 --> 00:21:12.770
+Gorzej, jak to jest... Jak zakładasz, że będziesz musiał tam rok, albo dwa lata crunchować, nie?
+
+00:21:12.973 --> 00:21:22.059
+- No też kulturowo jakby na to nie patrzeć, zwłaszcza na początku Ansharu, bo gdzieś tam tą swoją tożsamość wytworzyliśmy przez lata.
+
+00:21:22.140 --> 00:21:31.586
+ I wydaję mi się, że udało się stworzyć dosyć unikatową, natomiast na początku istnienia, to myśmy dużo ssali takiego kulturowego podejścia od Artifex Mundi,
+
+00:21:31.657 --> 00:21:39.599
+ którzy naszym największym klientem i ja bardzo dużym szacunkiem darzę to, co Tomek z ekipą robi. 
+
+00:21:39.677 --> 00:21:47.716
+Teraz już w zasadzie powinienem powiedzieć, że nie Tomek, bo on ustąpił jako prezes, ale dla mnie to dalej jest Tomek. 
+
+00:21:47.800 --> 00:21:51.025
+- Ale on taką twarzą był, wiesz. Tak. Absolutną. 
+
+00:21:51.126 --> 00:21:54.837
+- Więc no porównania mnie nie dziwą, że...
+
+00:21:54.920 --> 00:22:07.497
+Że bo faktycznie w wielu miejscach wydaje mi się, że z Artifex Mundi mamy podobne DNA zresztą, zresztą też no siłą rzeczy jesteśmy studiami z Katowic,
+
+00:22:07.650 --> 00:22:13.077
+czyli jakby na to nie patrzeć, ta wymiana pracowników między nami jest, czy tego chcemy, czy nie. 
+
+00:22:13.181 --> 00:22:24.982
+Nigdy się jeszcze, z mojej perspektywy, nigdy się o to nie pogniewaliśmy. Utrzymujemy dobre stosunki, no ale no - rynek pracownika jest. Tak. Ludzie zmieniają pracę. 
+
+00:22:25.201 --> 00:22:35.784
+- Dobrze. Przejdźmy kawałek dalej. Już tak nawiążę do Detached. Czy 2022 to będzie rok VR-u? 
+
+00:22:36.254 --> 00:22:46.891
+- Jak mi zaiwanił pytanie, nie wierzę...
+- To jest mem, przepraszam. Jakby taki insiderski bardzo. 
+
+00:22:47.119 --> 00:22:54.327
+- Tak, znaczy... Ja jestem bardzo, wydaję mi się nieodpowiednią osobą, żeby się wypowiadać na temat VR-u, 
+
+00:22:54.453 --> 00:23:01.754
+bo jestem oczywiście negatywnie zbalansowany, no bo jako osoba, która wyszła z tego VR-u i nie ma, nie ma chęci powrotu, bo gdzieś tam się zraziła... 
+
+00:23:01.881 --> 00:23:08.274
+No to wiadomo, że będę mówił, że to nie ma sensu, że tylko idioci idą w VR-a i tak dalej, nie? 
+
+00:23:08.476 --> 00:23:19.371
+Natomiast, no nie do końca jest tak... Ja osobiście uważam, że VR został na takim poziomie globalnym, strategicznym. 
+
+00:23:19.550 --> 00:23:26.867
+Oczywiście to jest zbyt skomplikowane, żeby takie rzeczy planować, ale na takim globalnym strategicznym poziomie został bardzo źle rozegrany.
+
+00:23:27.073 --> 00:23:28.393
+ To jest cudowna technologia.
+
+00:23:28.471 --> 00:23:38.831
+I gdyby Oculus Quest był tym lit produktem, którego przedstawilibyśmy szerszej publice, że słuchajcie, to jest VR. 
+
+00:23:39.017 --> 00:23:43.264
+To wydaję mi się, że mielibyśmy dużo lepsze nastawienie do tej technologii. 
+
+00:23:43.911 --> 00:23:51.633
+Po prostu za wcześnie próbowano, nie o dużo. To raptem parę lat, tak? Za wcześnie próbowano to zmarketować.
+
+00:23:51.804 --> 00:23:56.552
+Nie byliśmy na to gotowi ani technologicznie, ani softwarowo, ani w doświadczeniu deweloperskim. 
+
+00:23:56.812 --> 00:24:02.034
+I bardzo dużo osób w tej chwili jest zrażonych, wręcz VR jest dla nich żartem.
+
+00:24:02.226 --> 00:24:06.125
+Mówię w GameDevie stricte. Nie mówię w zastosowaniach jakichś tam symulacyjnych, nie. 
+
+00:24:06.222 --> 00:24:07.033
+- Okej, okej. 
+
+00:24:07.109 --> 00:24:17.223
+- A naprawdę Oculus Quest  to jest piękny kawałek sprzętu i który daje naprawdę sporo doznania.
+
+00:24:17.391 --> 00:24:22.122
+ Ale po prostu mi by się teraz nie chciało PR-owo przekonywać ludzi do tego, to raz. 
+
+00:24:22.242 --> 00:24:31.227
+A dwa, jest takim sobie samotnym władcą, to było jak kiedyś konsole, na które nie ma się wjazdu, jeżeli się nie ma znajomości że tak powiem.
+
+00:24:31.293 --> 00:24:42.246
+Teraz trochę jest tak, że albo Facebook wpuści w dobrym slocie i da dobre ekspozycje na Oculus Quescie, albo nie istniejesz, no bo tu na Steamie tego nie sprzedaż dużo.
+
+00:24:42.404 --> 00:24:49.716
+Na żadnych jakichś tam mikro sklepach, czy CT Vivah czy innych Windows Storach. To będę jakieś grosze absolutne.
+
+00:24:49.869 --> 00:25:02.586
+Więc prawdziwe pieniądze w tej chwili, bo są pieniądze w GameDevie, ale faktycznie prawdziwe pieniądze są na Oculus Queście, a tam jest Curated Content. 
+
+00:25:02.760 --> 00:25:06.707
+To jest taki trochę va banque, czy nas wpuszczą, czy nas nie wpuszczą. 
+
+00:25:06.842 --> 00:25:14.483
+Jako że ja żadnych znajomych dobrych w Facebooku nie mam, to absolutnie nie planujemy żadnego powrotu do VR-a.
+
+00:25:14.681 --> 00:25:23.032
+Natomiast jestem daleki od przekreślania tej technologii, że to już nigdy, że to będzie zawsze żart, czy też mem. Absolutnie nie. 
+
+00:25:23.200 --> 00:25:30.538
+- Nie, nie, nie. To ja w ogóle pamiętam chyba ten czas, jak za każdym razem jak żeśmy rozmawiali z kimś z GameDevu,
+
+00:25:30.671 --> 00:25:36.779
+ to właśnie kończyli jakiś projekt VR-owy i nie mogli się doczekać żeby to skończyć, żeby się zająć czymś poważnym. 
+
+00:25:36.923 --> 00:25:42.406
+ I wszyscy wiedzieli wiedzieli, że władowano w to mnóstwo czasu i środków i że to się w ogóle nie sprzeda, że to nie ma szans,
+
+00:25:42.598 --> 00:25:46.773
+bo nagle się wszyscy przekonali, że ta technologia, na tych urządzeniach ówczesnych nie ma sensu. 
+
+00:25:46.974 --> 00:25:58.807
+To chyba wtedy, kiedy się pojawiły te zabawki z PlayStation, ta pierwsza generacja VR-u. To był taki dosyć duży nacisk, albo jakby to była jakaś obietnica, że ten VR może mieć sens.
+
+00:25:58.953 --> 00:26:06.790
+Ale zgadzam się, że Oculus, zwłaszcza ten drugi, on wzbudza spore zainteresowanie, co czytuję jakieś artykuły często mi ten Oculus się przewija. 
+
+00:26:06.843 --> 00:26:16.253
+Więc z jednej strony rozwój Metaverse może trochę spowodować wzrost zainteresowania tym. No i no właściwie to to to jest chyba najważniejsze, nie?
+
+00:26:16.370 --> 00:26:19.262
+Że to jest powód, dla którego mówi się dosyć dużo na ten temat. 
+
+00:26:19.359 --> 00:26:23.533
+- Znaczy metaverse to jest też taki trochę base word, bo każdy przez to rozumie trochę co innego. 
+
+00:26:23.635 --> 00:26:33.631
+Ja na przykład na tyle, na ile rozumiem, bo ja jestem za taką definicją epikową metaverse, to tam ten VR jest w ogóle do niczego nie potrzebny.
+
+00:26:33.798 --> 00:26:37.277
+To jest, znaczy w sensie mógłby być, jasne, ale nie jest tego częścią. 
+
+00:26:37.484 --> 00:26:47.200
+Czyli że po prostu mówimy o pewnej rzeczywistości wirtualnej, pewnej przestrzeni wirtualnej, w której się spotykamy, w którym pewne pokolenia się spotykają i spędzają czas.
+
+00:26:47.396 --> 00:26:56.273
+ I ewentualnie idą potem do jakiejś gry, tak? Czyli takie powiedzmy lobby Fortnite do, czy tam PUBG razy tysiąc, nie?
+
+00:26:56.414 --> 00:26:57.341
+- Mhm.
+
+00:26:57.373 --> 00:27:03.571
+- I to jest to casualowe spędzanie czasu zamiast, nie wiem... W hipermarkecie, znaczy w galeriach handlowych, tak? 
+
+00:27:03.720 --> 00:27:08.112
+Spędzamy w jakimś softwarze, spotykając się ze znajomymi.
+
+00:27:08.267 --> 00:27:18.539
+ I to się już dzieje  w MMO, czy w multiplayerowych grach na małą skalę, a ten metaverse to Epicowi chodzi o to, żeby stworzyć taki kawałek technologii, 
+
+00:27:18.606 --> 00:27:23.558
+którym moglibyśmy to przemnażać naprawdę przez miliony, bo to jest główny problem, nie? 
+
+00:27:23.641 --> 00:27:28.958
+Jak zrobić symulację świata fizyczną tak, żeby mogły tam być dziesiątki tysięcy ludzi na raz.
+
+00:27:29.056 --> 00:27:37.305
+A nie, że tak jak bo Minecraft na przykład jest bardzo blisko tego, tylko że technologicznie, no co to za metaverse, w którym możemy mieć 60 osób na raz, nie? 
+
+00:27:37.415 --> 00:27:45.448
+Ale jakbyśmy technologicznie w takim Miecrafcie moglibyśmy mieć 10 000 000 ludzi naraz, no to już pyk. To o to chodzi, nie? 
+
+00:27:45.570 --> 00:27:52.872
+To już mamy metaverse, w cudzysłowie. W sensie mamy to jedno miejsce, w którym mamy symulację pewną świata, w którą możemy wsadzić bardzo duży kawałek populacji. 
+
+00:27:53.002 --> 00:27:56.513
+ Tam ich dzielić na jakieś segmenty i tak dalej. No to tutaj... 
+
+00:27:56.593 --> 00:28:04.201
+Więc dla mnie bardziej po tej stronie takiej softwarowej, technologicznej, programowej ten metaverse musi gdzieś tam. 
+
+00:28:04.330 --> 00:28:09.764
+ Są oczywiście atempty, Roblox jest pewnego rodzaju też ateptem, tak? Jakąś taką próbą tego.
+
+00:28:09.850 --> 00:28:15.578
+Tylko że to jeszcze jest jakby mało, nie? Fortnite jest jakby na to nie patrzeć też. I tego szuka Epic.
+
+00:28:15.721 --> 00:28:22.725
+A to, czy to tam jesteśmy tam na VR-rze, czy na monitorze, mamy tam spędzać czas. Mamy się tam regularnie logować. 
+
+00:28:22.840 --> 00:28:29.855
+- Ja mówię o tym bardziej w kontekście tego, że metaverse może ludzi zachęcić do kupowania okularów, 
+
+00:28:29.939 --> 00:28:33.756
+jakby obecność okularów w domach już jest podstawą, żeby to stała się platforma gamingowa częściej. 
+
+00:28:33.845 --> 00:28:41.666
+Ona jest jakby, no oczywiście, że jest. Ale zamykając już temat VR-u, bo pewnie to męczący jest temat. 
+
+00:28:41.738 --> 00:28:50.420
+Więc chciałbym zapytać, bo wspomniałeś o tym, że Detached to był inspirowany Grawitacją. Czym był zainspirowany Gamedec?
+
+00:28:50.638 --> 00:28:58.194
+- Gamedec... Gamedec to było trochę na odwrót. Bo Gamedec to był... 
+
+00:28:58.329 --> 00:29:12.426
+Gamedec był pewnego rodzaju oportunizmem związanym z tym, że my strasznie chcieliśmy zrobić ten nasz, to co powiedziałeś - wyskoczyć z tego VR-a i zrobić ten nasz poważny projekt. 
+
+00:29:13.590 --> 00:29:26.132
+I ja peacedevowałem dużo różnych projektów, natomiast zazwyczaj to były projekty takie work for hire w postaci powiedzmy bodyrentingu, czy co-developmentu, czyli na przykład jakiś mały zespół. 
+
+00:29:26.212 --> 00:29:28.598
+Robiliśmy jakąś małą część i tak dalej.
+
+00:29:28.788 --> 00:29:33.518
+A ja miałem silny nacisk na to, że spróbujmy zrobić całą grę na zlecenie dla kogoś.
+
+00:29:33.582 --> 00:29:38.632
+ I bardzo atakowałem wszelkie okazje jakie się pojawiały biznesowe do tego. 
+
+00:29:39.818 --> 00:29:52.025
+Jedna z takich okazji się pojawiła, kiedy po prostu znajomy Marcina Przybyłka odezwał się do, znaczy no znajomy Marcina Przybyłka pracował w 11 bit Studios. 
+
+00:29:52.202 --> 00:30:01.866
+Ale nie był to... Był to Zained. Notabene twój imiennik, bo Borys.
+- To chyba znam. 
+
+00:30:02.052 --> 00:30:11.538
+- Tak. I on po prostu powiedział, że hm jest tutaj takie AP, w którym by zrobić jakąś grę i tak bardzo, tak być może... 
+
+00:30:11.715 --> 00:30:13.562
+Być może - tam nie było żadnej obietnicy.
+
+00:30:13.614 --> 00:30:19.643
+11 bit Studios byłoby zainteresowane wydaniem takie gry, jeżeli ktoś by speachował fajny pomysł i tak dalej, nie? 
+
+00:30:19.769 --> 00:30:26.679
+No ja oczywiście skoczyłem na to szybciej niż... Chyba nie skończył jeszcze posta, a ja już się tam odezwałem, że hej. 
+
+00:30:26.741 --> 00:30:32.491
+ Bo byłem naprawdę na takim biznesowym, że eksplorowałem bardzo dużo różnych opcji. 
+
+00:30:32.944 --> 00:30:40.190
+Jak zaczęliśmy rozmawiać z Marcinem na temat tego IP i głównym problemem, bo Marcin oryginalnie, bo on miał już pomysł cały na grę.
+
+00:30:40.277 --> 00:30:46.530
+Już scenariusz nawet miał napisany do tej gry. On od lat chciał zrobić grę na podstawie Gamedeca, ale to miała być przygodówka. 
+
+00:30:46.677 --> 00:30:53.273
+ Po prostu point-and-click. No i teraz my mieliśmy taki główny problem z przygodówką point-and-click, znaczy mieliśmy dwa główne problemy z przygodówką point-and-click. 
+
+00:30:53.357 --> 00:31:01.300
+ Pierwszy problem był taki, że to się nie sprzedaje. A drugi problem był taki, że stwierdziliśmy, że contentowo nas to zajedzie. 
+
+00:31:01.483 --> 00:31:07.441
+Że cała moc tego IP jest taka, że tam są te różne światy.
+
+00:31:07.653 --> 00:31:13.683
+Że można wchodzić do różnych światów i że w zasadzie można wydać dowolną ilość pieniędzy, jeśli źle dobierzemy gatunek gry.
+
+00:31:13.818 --> 00:31:19.310
+Można wydać dowolną ilość pieniędzy na to, żeby tę wizję Marcina, która jest bardzo bogata, tak. 
+
+00:31:19.434 --> 00:31:22.698
+Tam można by Star Citizena wsadzić, tam można by wsadzić... 
+
+00:31:22.871 --> 00:31:29.615
+Tam można by wsadzić Unreal Tournamenta, tam można by wsadzić horror-gry. To są wszystko gry, które występują w jego świecie, tak?
+
+00:31:29.694 --> 00:31:30.438
+- Tak. 
+
+00:31:30.544 --> 00:31:37.234
+- I to mogło być, to mogła być gra potencjalnie zabójca studia, że tak powiem. Nie? Jeżelibyśmy źle dobrali gatunek. 
+
+00:31:37.353 --> 00:31:43.018
+Więc my cały czas, przez dobre 2 lata. Półtorej roku, ale wydaję mi się, że bliżej dwóch. 
+
+00:31:43.171 --> 00:31:51.131
+Szukaliśmy jakiejś formy abstrakcji, uabstrakcyjnienia tego, tak? Czyli bardziej, żeby były takie jakieś... 
+
+00:31:51.272 --> 00:31:59.079
+Bliżej Papers Please, czy bliżej jakiegoś Sim Managera, czy bliżej... Może jakaś karcianka. 
+
+00:31:59.235 --> 00:32:09.055
+Może... w sensie, żeby w jakiś sposób to uabstrakcyjnić, tę mnogość tych światów, żeby to dalej tam było, ale nie, że my musimy faktycznie tworzyć tonę tego contentu.
+
+00:32:09.200 --> 00:32:21.715
+Więc paradoksalnie to jest trochę jak z założeniem tego studia w Katowicach, z lenistwa, że nie chciało nam się przeprowadzać, to Gamedec powstał z porażki, że nam się nie udało wymyślić tej abstrakcji.
+
+00:32:21.786 --> 00:32:31.014
+ To było takie - no dobra, dobra. To już zróbmy tego RPG-a. To było takie - okej, no nie umiemy wymyślić, to zróbmy izometrycznego RPG-a. Po prostu.
+
+00:32:31.109 --> 00:32:41.355
+ Oczywiście, że gdzieś tam podświadomie na pewno moja ogromna miłość do RPG-ów i ogromna miłość Creative Directora Gamedeca, czyli Marcina Rybińskiego. 
+
+00:32:41.487 --> 00:32:46.127
+Gdzieś tutaj na pewno miała, tylko myśmy się bali RPG-a, tak.
+
+00:32:46.127 --> 00:32:51.868
+Myśmy cały czas właśnie uciekaliśmy od tego RPG-a, bo baliśmy się tego rozmiaru, baliśmy się, że tego nie dźwigniemy. 
+
+00:32:52.154 --> 00:32:58.792
+Baliśmy się tego, będziemy gorszym po prostu Divinity, tak. Czy jakimś innym tytułem. Myśmy się strasznie bali.
+
+00:32:58.951 --> 00:33:01.377
+- A nie było wtedy Disco Elysium. 
+
+00:33:01.497 --> 00:33:15.648
+- No, no i ten cały pomysł na non-combat approach to był pomysł, który się wziął z próby, czy też chęci poszukiwania tak zwanego Blue Ocean, czyli że musimy gdzieś iść w bok. 
+
+00:33:15.811 --> 00:33:27.650
+Jeżeli my pójdziemy na kurs kolizyjne z Larianem czy In Exile, czy z Obsidianem, to co my... Jakby, z czym my, jak my, gdzie my, nie?
+
+00:33:27.802 --> 00:33:34.098
+ Jak gdyby to się nie uda, bo tak trochę nie po polsku, nie? Bo Polacy to lubią tak. 
+
+00:33:34.192 --> 00:33:37.980
+- Frontalnie.
+- Z fantazją ułańską. 
+
+00:33:38.067 --> 00:33:39.917
+- Tak, z przeważającymi siłami wroga. Że tak powiem. 
+
+00:33:40.049 --> 00:33:43.664
+- Natomiast my... My faktycznie. Ja cały czas...
+
+00:33:43.835 --> 00:33:58.296
+Biznes opieramy na pewnej dywersyfikacji ryzyka i tego, że ja bardzo bym nie chciał, żeby od sukcesu lub bądź braku sukcesu jakiegoś produktu kiedykolwiek zależała przyszłość studia. 
+
+00:33:58.456 --> 00:34:02.254
+Tak, że o! Gra się nie sprzedała. Musimy zamknąć studio, albo musimy zwolnić. 
+
+00:34:02.399 --> 00:34:09.734
+To będzie dla mnie prawdziwy fail, a jesteśmy studiem, które wydało Telefraga i z tego powodu... 
+
+00:34:09.830 --> 00:34:13.176
+ I z tego powodu nikogo nie zwolniliśmy, tak?
+
+00:34:13.234 --> 00:34:25.596
+ Więc to jest jakiś tam młyn. Churchill powiedział, że sukces jest to sukcesywne przeżywanie porażek bez zmiany nastawienia, 
+
+00:34:25.650 --> 00:34:32.512
+więc ja dalej bardzo chcę robić gry, a wydaliśmy Detacheda, Telefraga. I Gamedec - ciężko go nazwać porażką. 
+
+00:34:32.685 --> 00:34:37.708
+Natomiast ciężko też nazwać tę grę sukcesem, nie? A już na pewno nie komercyjnym.
+
+00:34:37.887 --> 00:34:41.815
+- A ile się sprzedało? 
+- 30 000. 30 000 się sprzedało Gamedeca. 
+
+00:34:41.842 --> 00:34:53.735
+- Ale zwrócił się? 
+- Nieee. Not even close. Gamedec jest... Gamedec ma budżet większy, niż mogłoby się wydawać, bo to jest jednak dwa lata...
+
+00:34:53.824 --> 00:34:56.574
+- A jaki był budżet? 
+
+00:34:56.728 --> 00:35:16.234
+- No budżet Gamedeca, powiem tak, ja Ci liczę cyfry teraz. Budżet Gamedeca był ośmiocyfrowy. Co jest w złotówkach. Co no jest, no to jest duże jak na taki tytuł, tak? 
+
+00:35:16.538 --> 00:35:17.379
+- Mhm. 
+
+00:35:17.430 --> 00:35:20.236
+- Ten tytuł powinno się zrobić w kilka milionów złotych.
+
+00:35:20.400 --> 00:35:27.209
+Może i wysokie kilka milionów złotych, bo ja nie wierzę w RPG-i, które się da zrobić za dwa miliony złotych że tak powiem. 
+
+00:35:27.323 --> 00:35:33.809
+Bo to jednak jest za dużo. Ale ten projekt na pewno się dało zrobić taniej, tylko my się strasznie dużo uczyliśmy.
+
+00:35:33.956 --> 00:35:39.430
+ I wydaję mi się, że jeszcze drożej by wyszedł ten projekt, albo jeszcze gorzej. 
+
+00:35:39.520 --> 00:35:45.947
+Jedno albo drugie, gdyby nie współpraca z Larianem i w Full Story. 
+
+00:35:46.156 --> 00:35:53.516
+ Przy Divinity i przy Baldur's Gate, które nas strasznie dużo nauczyły na temat RPG-ów i na temat tego podejścia. 
+
+00:35:53.591 --> 00:35:57.984
+Więc tutaj bardzo dużo know-how zassaliśmy i od Lariana i od Full Story. 
+
+00:35:58.089 --> 00:36:06.980
+Full Story przecież zrobiło Seven, wcześniej Kuba z Kają pracowali przy Wiedźminie, więc tamten know-how ewidentnie był wyższy od naszego. 
+
+00:36:07.132 --> 00:36:10.285
+- No teraz robią tak, dla Bitów. 
+
+00:36:10.374 --> 00:36:17.259
+- Tak, teraz robią RPG-a dla Bitów. Nie mam pojęcia co ogłosili, a co nie, więc poza tym, że robią RPG-a dla Bitów nic więcej nie powiem.
+
+00:36:17.351 --> 00:36:26.826
+Ale, no ale dalej kapitalizują na tym swoim know-how'le. Bez dwóch zdań. I to super. Więc nam dużo ta współpraca dała.
+
+00:36:26.917 --> 00:36:42.954
+Więc nie, Gamedec się nie zwróci prędko. Wydaję mi się, że się zwróci dlatego, że Gamedeca zagrało mniej ludzi, niż w niego zagra. No bo Gamedec...
+
+00:36:43.065 --> 00:36:47.046
+- A z czego wynikają te obliczenia? Że co, że zaraz na Switcha wypuszczacie? 
+
+00:36:47.202 --> 00:36:52.648
+- To jest jedna rzecz, bo ja nie przypuszczam, żeby tam na Switcha, że byśmy sprzedali nagle 100 000 kopii. Absolutnie. 
+
+00:36:52.736 --> 00:37:02.218
+To wynika po prostu z tego, że rynek się troszeczkę zmienił i jeżeli gra ma dobre oceny i jest w odpowiednim gatunku, a nasza ma i dobre oceny i jest w odpowiednim gatunku,
+
+00:37:02.339 --> 00:37:07.060
+to ten long-tell jest długi, taką konwersją wishlisty i to trwa latami.
+
+00:37:07.110 --> 00:37:14.432
+Niskimi latami w sensie to nie będzie trwało 10 lat. Bo za 10 lat to już nikt nie będzie pamiętał na Steamie o Gamedecu, tak. 
+
+00:37:14.514 --> 00:37:21.579
+Ale takie rzeczy trwają 2/3/4 lata. Mamy w tej chwili 200 000 na WishList. Jest co konwertować. 
+
+00:37:21.726 --> 00:37:29.733
+Jest z czym działać. Planujemy dalej DLC-ki, które obiecaliśmy na Kickstarterze i będzie Definitive Edition, jak to w RPG-ach zawsze, nie? 
+
+00:37:29.817 --> 00:37:38.829
+ Pillars mają Definitive Edition, Divinity ma Definitive Edition, Disco Elysium ma Definitive Edition, czy tam Director's Cut. Różnie to nazywają. My będziemy też mieli swoje.
+
+00:37:39.000 --> 00:37:46.045
+- Okej, ale ty powiedziałeś o gatunku. Czy to jest taki gatunek, że w co zagrać po Disco Elysium? 
+
+00:37:46.398 --> 00:37:59.251
+- My paradoksalnie... Ja wiem, że to jest... Powiem wam tak, ja byłem, to taki może title-bit. Troszeczkę zdrilleluję, na sekundę zdrilleluję rozmowę.
+
+00:37:59.371 --> 00:38:07.997
+Nikt u nas w Ansharze za bardzo nie chce się dotykać scenariuszowania trailerów. Mamy super designerów w firmie.
+
+00:38:08.192 --> 00:38:11.561
+ Jestem z nich super zadowolony i dumny i w ogóle. 
+
+00:38:11.638 --> 00:38:16.009
+Ale nikt nie wyraził chęci do specjalizacji jakiejkolwiek w tworzeniu trailerów. 
+
+00:38:16.102 --> 00:38:24.361
+Więc w Anshar Studios większość trailerów, scenariusz do większości trailerów, pod oczywiście feedbackiem innych ludzi, ale tworzę ja.
+
+00:38:24.582 --> 00:38:32.837
+To jest mój jedyny kreatywny outlet. I między innymi tworzyłem scenariusz do Acolyte trailera.
+
+00:38:32.935 --> 00:38:36.727
+ I powiem wam, że czytanie 50 recenzji Gamedeca po to,
+
+00:38:36.757 --> 00:38:45.977
+żeby stworzyć ten scenariusz do Acolyte trailera w któym w 50 recenzjach jest - no takie gorsze Disco Elysium, no takie... 
+
+00:38:46.018 --> 00:38:56.584
+Próbowali z Disco Elysium, ale im nie wyszło, nie? I tak dalej i to naprawdę był ćwiek, bo najgorsze jest to, że tak już akademicko mówiąc, bo to już jest akademicko. 
+
+00:38:56.662 --> 00:39:02.033
+Wiadomo, że ludziom nie wytłumaczymy, tak? Ale jakbym rozmawiał z GameDevami to my mamy naprawdę... 
+
+00:39:02.160 --> 00:39:10.312
+Ja wiem, że jesteśmy non-combat isometric detective RPG, co by sugerowało, że jesteśmy praktycznie takimi samymi grami, ale my jesteśmy strasznie różnymi grami. 
+
+00:39:10.458 --> 00:39:18.694
+- Ale wiesz co, ja jestem w praktycznie, w jednym miesiącu skończyłem Gamedeca i skończyłem Disco Elysium.
+
+00:39:18.919 --> 00:39:23.704
+I ciężko mi nie wrzucać tych gier do jednego worka.
+
+00:39:24.082 --> 00:39:31.009
+ I ja wiem, że to jest wasze dziecko i to jakby te różnice, pewnie jest bardzo dużo w niuansach, inny nacisk. 
+
+00:39:31.148 --> 00:39:36.210
+Ale nie dziwię się, że to się tak często pojawia. 
+
+00:39:36.304 --> 00:39:43.628
+- Ja też się nie dziwię. Ja też się nie dziwię, natomiast no gdzieś to tam boli, bo u nas ten nacisk jest na czymś, co myśleliśmy, że super USP.
+
+00:39:43.704 --> 00:39:54.364
+ I faktycznie niewiele osób to dostrzega. Dużo błędów gdzieś tutaj popełniliśmy. Bo my jesteśmy znacznie bardziej branchującą sią narracją, znacznie bardziej niż Elysium. 
+
+00:39:54.462 --> 00:39:56.558
+- Co to jest branchująca się narracja? 
+
+00:39:56.669 --> 00:40:02.609
+- W sensie u nas... 
+- Bo brunch to jest taki obiad, ale w Warszawie. 
+
+00:40:02.795 --> 00:40:08.799
+- U nas konsekwencje na wyborach, jest ich znacznie po prostu więcej, są znacznie mniej wirtualne, tak?
+
+00:40:08.913 --> 00:40:20.390
+W Disco Elysium możemy na bardzo wiele sposobów podejść do rozwiązania jakiegoś problemu, czy też do poprowadzenia jakiegoś dialogu, ale outcome nie są od siebie jakoś tam różne, tak?
+
+00:40:20.522 --> 00:40:32.716
+Jest to w tym kontekście pewna spójna historia opowiedziana. Natomiast u nas był ten nacisk na ten role-playing i część z ten  consequences, you're the some of your choices. 
+
+00:40:32.791 --> 00:40:40.019
+ To był nasz tagline. Bo myśmy wychodzili od próby odwzorowania sesji pen and paper RPG. O!
+
+00:40:40.091 --> 00:40:43.190
+ I w zasadzie pełne koło żeśmy zatoczyli, Rock
+
+00:40:43.263 --> 00:40:53.681
+ Bo odpowiedzią na twoje pytanie, co jest główną inspiracją dla Gamedeca, to jest próba odwzorowania sesji pen and paper RPG, czyli myśmy chcieli naszym...
+
+00:40:53.739 --> 00:41:00.146
+ Naszym takim marzeniem było stworzyć grę, która daje takie poczucie iluzji,
+
+00:41:00.293 --> 00:41:11.654
+tej wolności takiej jak mamy na sesji RPG, że wychodzimy tym Gamedecem na tę scenę i jest takie trochę domniemane - mistrz gry się teraz pyta - no i co teraz zrobisz? 
+
+00:41:11.739 --> 00:41:19.974
+ Tak? Czyli ten quest log jest taki ogólny, prowadzenie gracza jest bardzo delikatne. Rzeczy można robić w dowolnej kolejności.
+
+00:41:20.043 --> 00:41:28.946
+Prawie wszystko ma jakieś tam konsekwencje na siebie. Dlatego ta gra jest taka mała. W sensie taka skondensowana, bo nie może być większa.
+
+00:41:29.029 --> 00:41:34.843
+Ona nie może być Divinity, czy Pillarsami, bo gdyby w tym założeniu byłaby większa, to byśmy ją robili 50 lat.
+
+00:41:35.015 --> 00:41:42.542
+Więc ona jest bardzo skondensowana, ale ona jest tam bardzo zapętlona, zapajęczynowana, że tak powiem.
+
+00:41:42.664 --> 00:41:50.259
+ I myśmy byli z tego strasznie dumni. I są faktycznie osoby, które mają takie wow, tylko ich jest niewiele. 
+
+00:41:50.367 --> 00:42:00.584
+- Ja ci powiem, jakby z moich spostrzeżeń i z moich doświadczeń to jest też tak, że a propos Divinity, to mi zajęło gdzieś 300 godzin zrozumienie, 
+
+00:42:00.758 --> 00:42:04.784
+że w tej grze mogę dochodzić do tego samego celu na różne sposoby. 
+
+00:42:04.935 --> 00:42:07.629
+Zawsze mi się wydawało i myślę, że większość graczy tak postrzega gry.
+
+00:42:07.858 --> 00:42:11.470
+Że szukamy tej jednej właściwej linii, po której developerzy chcieli nas poprowadzić. 
+
+00:42:11.617 --> 00:42:15.819
+ I przez to, jak już ją znajdujemy jakąś, to nawet nie szukamy kolejnych.
+
+00:42:15.971 --> 00:42:24.481
+Albo w zasadzie mamy takie poczucie, że jeżeli jest taki moment, że nie możesz tej jednej linii konkretnej uchwycić, to masz poczucie strasznego zagubienia, nie? 
+
+00:42:24.627 --> 00:42:27.542
+ I to jest też coś, co w Gamedecu...
+
+00:42:27.651 --> 00:42:30.309
+- Dużo osób miało to w Gamedecu, tak. To jest prawda. 
+- No. 
+
+00:42:30.528 --> 00:42:39.851
+- Dużo osób miało to poczucie takiego zagubienia - co ta gra w zasadzie ode mnie chce? Nie pomagał też co game loop, który jest jednak klikaniem w dialogi i czytaniem, tak? 
+
+00:42:39.908 --> 00:42:47.335
+ Bo czasami możesz nie wiedzieć co jest w grze, o co chodzi w grze narracyjnie i gdzieś tam zgubić się - w cudzysłowie - czy też zgubić ją. 
+
+00:42:47.496 --> 00:42:56.157
+Ale dalej grać, bo co game loop gdzieś tam jest wystarczająco satysfakcjonujący, bo jesteśmy, nie wiem, survivalem, albo jesteśmy shooterem.
+
+00:42:56.231 --> 00:42:58.252
+ Albo jesteśmy czymkolwiek innym.
+
+00:42:58.328 --> 00:43:03.524
+ Na przykład ja, szczerze powiedziawszy, mam nadzieję, że nigdy tego Swen nie usłyszy,
+
+00:43:03.658 --> 00:43:10.592
+bo to jest jeden z największych moich autorytetów w GameDevie, Swen Vincke, prezes Lariana. Ale nie zna polskiego.
+
+00:43:10.635 --> 00:43:19.892
+Że no ja nie mam zielonego pojęcia o co chodzi w Divinity, tak? Jakby zielonego, jakby i szczerze I don't care. 
+
+00:43:20.062 --> 00:43:32.867
+Narracyjnie. Natomiast mechanicznie, combat, elementy te i ta właśnie mnogość wyboru systemowa, nie narracyjna tylko systemowa mnogość wyborów, 
+
+00:43:33.047 --> 00:43:37.903
+że ja się tam mogę teleportować, przekradać. Coś tam mogę tę postać do siebie teleportować. Mogę ten.
+
+00:43:38.061 --> 00:43:46.693
+ I nie wiem. I że z tego for joy mogę uciec na tam 19 sposobów, to jest dla mnie niesamowite, nie - w divinity.
+
+00:43:46.762 --> 00:43:49.387
+I ja faktycznie nie mam zielonego pojęcia o co chodzi w tej grze.
+
+00:43:49.505 --> 00:43:53.323
+ I gdyby ona była Gamedeckiem - w cudzysłowie - czyli zabralibyśmy te wszystkie systemy,
+
+00:43:53.423 --> 00:43:59.784
+no to myślę, że miałbym podobnie jak dużo ludzi z Gamedeckiem, czyli że bym się zgubił i gdzieś po drodze stwierdził - dobra, mam to gdzieś. 
+
+00:43:59.926 --> 00:44:07.882
+Nie? Więc tak. Ewidentnie tutaj nam coś nie pykło i musimy wyciągnąć po prostu z tego wnioski. 
+
+00:44:07.991 --> 00:44:11.910
+Nasz następny RPG, bo oczywiście będziemy robić następnego RPG-a. 
+
+00:44:12.010 --> 00:44:14.108
+- Ja myślałem, że kilka robicie już. 
+
+00:44:14.272 --> 00:44:19.662
+- Znaczy tak. Nasz, tak. Dla Image Games robimy RPG-a faktycznie. 
+
+00:44:19.852 --> 00:44:28.079
+Natomiast będziemy robić po Definitive Edition Gamedeca, będziemy robić na pewno swojego RPG-a.
+
+00:44:28.200 --> 00:44:34.984
+ Znaczy, czy swojego? Nie wiem czy na pewno. Możliwe, że dla kogoś, ale będziemy robić RPG-a.
+
+00:44:35.152 --> 00:44:45.525
+ I na pewno gdzieś tam jakoś bazą wyjścia będzie Gamedec, no to na pewno jednym z wniosków jest, że ten co game loop musi być trochę bardziej systemikowy. 
+
+00:44:45.655 --> 00:44:50.532
+Co będzie tym systemem? Jeszcze nie mamy pojęcia, bo to nie koniecznie musi być combat absolutnie.
+
+00:44:50.705 --> 00:44:56.050
+ By nie było, że naszym wnioskiem teraz będzie - o, robiliśmy non combat. Teraz zrobimy combat i to rozwiąże wszystkie nasze problemy. 
+
+00:44:56.201 --> 00:45:00.498
+- Trochę to, co jest z Movie, to tak jest. 
+
+00:45:00.672 --> 00:45:03.974
+- Z Movie tak, dla Movie robimy tacticala. 
+
+00:45:04.033 --> 00:45:16.296
+Dla Movie robimy ewidentnie tactical RPG-a. I cieszę się, że to trochę w tej kolejności, bo też tam będziemy dużo tematów rozkminiać. 
+
+00:45:16.349 --> 00:45:27.604
+I na pewno dużo się uczyć. Ja bardzo się cieszę z tego projektu, tak jak tam jest, jest bardzo fajny zespół, tam jest bardzo fajnie na razie.
+
+00:45:27.709 --> 00:45:37.591
+So far bardzo fajnie układająca się współpraca z Image Games. Na takim poziomie produkcyjnym ona jest oczywiście z Movie.
+
+00:45:37.667 --> 00:45:40.304
+Tak naprawdę to po prostu z Piotrkiem Gdypem. 
+
+00:45:40.466 --> 00:45:44.058
+- Pozdrawiamy. 
+- Pozdrawiamy. 
+- Jak najbardziej, no.
+
+00:45:44.179 --> 00:45:54.127
+- I tak, cieszymy się z tego projektu. Natomiast czy właśnie Bishop będzie tacticalem. Bishop to jest tam code name naszego następnego projektu.
+
+00:45:54.181 --> 00:45:59.753
+To absolutnie nie wiemy. O i to jest na przykład jedna z rzeczy, których niby nie powinienem mówić, ale niech będzie. 
+
+00:45:59.876 --> 00:46:03.250
+W sensie, że to jest ten code name. Ale nie ważne. 
+
+00:46:03.280 --> 00:46:17.577
+- Nie ważne. Wiemy, że będzie. Czy to jest częste, no bo jak ja słyszałem o tym projekcie, bo może słuchacze, widzowie nie wiedzą, ten projekt, który robicie z Movie Games, 
+
+00:46:17.652 --> 00:46:26.199
+a właściwie z Image Games, czyli Movie Games, Splatige Image, czyli tam powiedzmy reprezentuje to Piotrek Gnyp. 
+
+00:46:26.319 --> 00:46:34.451
+Zostało to ogłoszone jako gangsterskie taktyczne RPG. Chyba już wiemy, że na pewno to nie jest gangsterskie. Czyli ja coś wiem.
+
+00:46:34.666 --> 00:46:45.493
+- Właśnie tu jesteśmy w ciekawym gray area, bo ja nie mam pojęcia. Bo tutaj akurat chciałbym być ostrożny dlatego, że są to spółki. Nasi klienci to są spółki publiczne, tak?
+
+00:46:45.673 --> 00:46:49.190
+- Mhm. 
+- I nie wiem, gdzie jesteśmy. 
+
+00:46:49.242 --> 00:46:58.662
+Nie śledzę super uważnie co oni mówią na zewnątrz, a nie chcę mówić więcej, niż oni. Bo nie mogę.
+
+00:46:58.708 --> 00:47:05.621
+Natomiast powód, dla którego dosyć wcześnie mówiliśmy o tym, jaka to jest tematyka. Wiadomo, że zmieniają... 
+
+00:47:05.729 --> 00:47:09.672
+- Zmieniają się, ale ja nie wiem na szczęście. Mogę mówić. 
+
+00:47:09.765 --> 00:47:21.694
+- Wynika po prostu z tego, że spółki publiczne, zwłaszcza takie, które walczą o kapitał publiczny. Znaczy, publiczny. 
+
+00:47:21.805 --> 00:47:25.905
+W sensie nie z pieniędzy publicznych, ale gdzieś tam walczą o atencję inwestorów. 
+- Mhm. 
+
+00:47:26.073 --> 00:47:29.024
+- No muszą dosyć wcześnie komunikować, co się dzieje. Tak? 
+
+00:47:29.194 --> 00:47:37.477
+I tutaj to była szczera komunikacja, bo to był wtedy aktualny pomysł i tak dalej, tylko był po prostu na bardzo wczesnym etapie konceptownia gry, tak? 
+
+00:47:37.555 --> 00:47:44.256
+I Game Deweloperzy raczej nie lubią tak wcześnie komunikować, no bo wiadomo, że rzeczy się zmieniają i tak dalej.
+
+00:47:44.316 --> 00:47:46.894
+Potem trzeba mówić a dlaczego tak, a nie inaczej. 
+
+00:47:46.986 --> 00:47:51.997
+No bo słuchajcie, milion decyzji po drodze zostało podjętych, 700 researchy zrobionych. I tak dalej.
+
+00:47:51.997 --> 00:48:01.414
+ I gdzieś to tam nas pociągnęło w inne miejsce, nie? Więc...
+- Po prostu - specyfika rynku kapitałowego. 
+
+00:48:01.414 --> 00:48:08.921
+- Zostawmy to, czym to jest. Bo mnie bardziej interesuje ten zamysł na to, jak jest tworzone to studio.
+
+00:48:08.921 --> 00:48:15.996
+Bo rozumiem, że idea jest taka, że wydajecie po części swoich ludzi i swój know-how. 
+
+00:48:16.104 --> 00:48:28.263
+I tam powolutku będą wasi ludzie uczyć ten zespół i będą się wymieniać jakby. Dobrze ja to rozumiem?
+
+00:48:28.380 --> 00:48:37.380
+Że jakby jest w taki sposób, że powoli uczą się nowi, a starzy wracają jakby do was. 
+
+00:48:37.521 --> 00:48:50.556
+- Znaczy to może powiem tak. To akurat publicznie została podana nazwa, z tego co wiem, została publicznie podana Code Name. Rooky. 
+
+00:48:50.695 --> 00:48:59.173
+Projektu, więc mówiąc o projekcie Rooky, to jest on w 100% realizowany przez Anshar Studios. 
+
+00:48:59.276 --> 00:49:10.856
+I jakby taka jest, a nie przepraszam. Ha! Skłamałbym, przepraszam. Nie jest w 100% zrealizowany, bo Art Direction jest faktycznie ze strony Platige Image.
+
+00:49:10.940 --> 00:49:26.819
+W każdym bądź razie, jeżeli chodzi o ten konkretny projekt, to ja widzę jakieś tam małe prawdopodobieństwo, żeby to się drastycznie zmieniło, ale oczywiście klient nasz pan. 
+
+00:49:26.899 --> 00:49:31.369
+Zobaczymy, co pokaże. Jaki będzie faktycznie czas, strategia i plany samego Image Games. 
+
+00:49:31.459 --> 00:49:39.771
+Natomiast faktycznie, z tego co wiem, plany Image Games są oczywiście dużo bardziej ambitne, niż jeden projekt wykonywany przez Anshar Studios
+
+00:49:39.858 --> 00:49:46.366
+ i faktycznie tam jest plan budowy tego know-how i tej wymiany know-how i tego działania, tak?
+
+00:49:46.519 --> 00:49:50.786
+Ale one są po prostu szersze niż ten jeden projekt. 
+
+00:49:50.840 --> 00:49:56.841
+- Okej, bo jak ja za pierwszym razem to zrozumiałem, to wydawało mi się, że to wygląda, tak, że jak masz proces produkcji, 
+
+00:49:57.038 --> 00:50:06.104
+tu się zaczyna i w trakcie wychodzi ta wymiana i na koniec jakby już jest zespół nowy. Tak to, ale mogłem to po prostu źle zrozumieć. 
+
+00:50:06.188 --> 00:50:14.029
+- Znaczy tak naprawdę my jesteśmy jeszcze bardzo wcześnie na tym etapie i jak to się skończy, to jeszcze nie wiemy. 
+
+00:50:14.072 --> 00:50:23.214
+Takie rozmowy były. A tutaj już naprawdę wchodzimy w taki etap, że w sumie nie wiem ile publicznie tej strategii Image Games mówi, ile nie. 
+
+00:50:23.313 --> 00:50:30.801
+Więc wolałbym za dużo się nie wypowiadać. Jedyne co wam teraz mogę powiedzieć, to że faktycznie współpracujemy na poziomie Art Directions z Platige Image. 
+
+00:50:30.949 --> 00:50:42.000
+Na takim poziomie publisherskim z Movie Games. Więc to jest ten wkład, tak. Publisher Movie Games, ten Art Direction Platige Image. 
+
+00:50:42.146 --> 00:50:49.741
+ I to jest właśnie Image Games. Wykonywane jest to w tej chwili przez Anshar Studios jako pełna gra.
+
+00:50:49.852 --> 00:50:53.824
+No i bardzo się cieszymy z tej współpracy. O! Może tak. 
+
+00:50:54.128 --> 00:51:04.159
+- Ja trochę się zaczynam gubić, bo tych projektów robicie kilka. Ten z Platige Image to jest to, o czym mówiliście, o tych gangsterskich, RPG-owych klimatach.
+
+00:51:04.264 --> 00:51:06.968
+- Tak, tak. 
+- Gangsterskie taktyczne RPG.
+
+00:51:07.188 --> 00:51:15.792
+- Okej, okej. Dobra, to już wiem. Ja bym poszedł trochę śladem tej inspiracji, bo to to mnie zawsze interesuje. Wiemy jakie inspiracje były przy Detached.
+
+00:51:15.902 --> 00:51:19.465
+Wiemy, co tam się wydarzyło z Gamedec’iem i dlaczego taki był projekt. 
+
+00:51:19.703 --> 00:51:30.183
+To by nie wnikać w ten wasz RPG, który chcecie sami robić, to może możesz powiedzieć, co jest inspiracją, dla tego trzeciego projektu?
+
+00:51:30.408 --> 00:51:33.136
+- W sensie dla Rookiego, czy dla naszego?
+
+00:51:33.244 --> 00:51:40.458
+- Nie, nie. Dla tego, który robicie... Tak, dla waszego. Albo właściwie dla tego, którego planujecie zrobić. Macie już inspiracje? Czy to jest po prostu założenie?
+
+00:51:40.518 --> 00:51:49.372
+- Nie, nie. Jeszcze nie. To są... mamy pewne założenia biznesowe, które wynikają z post mortem, które w zasadzie jesteśmy w trakcie tego post mortem. 
+
+00:51:49.517 --> 00:51:58.739
+To jeszcze, jeszcze się ten proces nie zakończył. Więc mamy pewne ramy wynikające jak daleko możemy sobie pozwolić żeby odejść od Gamedeca. 
+
+00:51:58.868 --> 00:52:05.823
+ Co według nas w Gamedecu właściwie nie pykło, co pykło i w jaki sposób to zaadresować. Więc te ramy są. 
+
+00:52:05.929 --> 00:52:10.955
+ Natomiast jesteśmy dopiero w trakcie Brain Stormów jeżeli chodzi o faktyczną tematykę. 
+
+00:52:11.124 --> 00:52:19.214
+Mamy kilka założeń, które to musi spełniać. Ale naprawdę jest to jeszcze bardzo szeroko, więc...
+
+00:52:19.299 --> 00:52:28.772
+Więc pomysły są naprawdę mocno rozstrzelone w tej chwili. I nie jestem w stanie wskazać żadnego jednego konkretnego.
+
+00:52:28.962 --> 00:52:34.294
+- Ale czyli założenie jest takie, że macie jakąś wiedzę z Gamedeca. 
+
+00:52:34.426 --> 00:52:45.080
+Podejrzewam, że macie jakieś pomysły na temat tego, jakie były błędy i teraz chcecie tę wiedzę wykorzystać w następnym projekcie i te błędy wyeliminować, tak?
+
+00:52:45.224 --> 00:52:51.433
+- Tak, znaczy... Znaczy no od razu mogę powiedzieć rzeczywiście, że to na pewno nie będzie sequel. Bo...
+- Okej.
+
+00:52:51.533 --> 00:53:02.323
+- Bo sprzedaż jak gdyby nie... No tego po prostu nie... W tym segmencie, w którym, miałbym powiedzieć nie justyfikuje a propos mojej pięknej polszczyzny.
+
+00:53:02.499 --> 00:53:10.229
+Problem jest taki, że w segmencie, w którym my działamy, tych takich... 
+
+00:53:10.323 --> 00:53:19.959
+Bo my teraz bardziej będziemy pracować w segmencie AA, ale jednak Gamedec jest postrzegany ciągle jako ten segment Indie Premium. 
+
+00:53:20.089 --> 00:53:29.223
+I z Indie Premiumami jest tak, że jeżeli nie jest się naprawdę spektakularnym sukcesem, i to można na Steamie pokazać time and again, to sequele sprzedają się gorzej, tak?
+
+00:53:29.345 --> 00:53:32.884
+- Ja bym też nawet nie przypuszczał, że pójdziecie w tę stronę.
+
+00:53:32.994 --> 00:53:45.018
+- Tak, więc... Natomiast jednym z największych zarzutów do mnie, jako do szefa studia, od moich ludzi a propos tego jak ja na kogoś krzyczę,
+
+00:53:45.092 --> 00:53:56.813
+ czemu coś jest do dupy, to jedną z najczęstszych odpowiedzi jaką słyszę, jest tak, że jak może byśmy przestali skakać po gatunkach jak powaleni i skupili się na czymś, 
+
+00:53:56.996 --> 00:54:02.154
+faktycznie zaczęli wyciągać wnioski z naszych poprzednich projektów i wdrażali je w kolejnych, to może byśmy robili rzeczy nie do dupy. 
+
+00:54:02.330 --> 00:54:09.836
+No bo faktycznie my po tych gatunkach myśmy bardzo. Tak, jak się popatrzy na nasze portfolio, to nie ma rzeczy. Myśmy casynówki robili.
+
+00:54:09.872 --> 00:54:19.316
+ Myśmy robili free to play'e na mobilach. Tak myśmy VR-y robili. Robiliśmy AAA w BodyRentingu jako co-produkcje. Shootery TPP, tak? 
+
+00:54:19.458 --> 00:54:27.281
+No robiliśmy wszystko praktycznie. Praktycznie nie ma rzeczy, nawet cywilne tytuły, typu jakieś symulatory straży pożarnej i tak dalej, tak?
+
+00:54:27.401 --> 00:54:33.401
+No i bardzo trudno jest w takim, będąc od wszystkiego, bardzo trudno jest wyciągnąć wysoką jakość.
+
+00:54:33.465 --> 00:54:37.926
+ Gdzieś tam być optymalnych na pay planach, wyciągać te wnioski, doświadczenia i tak dalej, nie?
+
+00:54:38.104 --> 00:54:46.087
+No i to jest jeden z głównych wniosków, że to musi bazą być Gamedec i ten knowhow z Gamedeca,
+
+00:54:46.129 --> 00:54:55.681
+ bo jak nie, no to znowuż będziemy w tej sytuacji, że a no to Gamedec nam nie pyknął, no to może spróbujmy zrobić, nie wiem, Outer Wilds. FPP RPG-a.
+
+00:54:55.803 --> 00:55:08.731
+Outer Worlds, przepraszam. Wilds też dobra gra, ale co innego. Outer Worlds, czy jakiegoś immersive sima na przykład, nie? No to teraz będziemy się uczyć jak robić FPP. No i zaś na nowo, nie?
+
+00:55:08.885 --> 00:55:17.089
+- Okej, czyli w takim razie... Bo to jest jedno z moich pytań, czy specjalizacja studia, w szczególności w tych wyższych segmentach.
+
+00:55:17.283 --> 00:55:28.138
+Czyli jak nie robisz indyki razem z kolegą po pracy, ale już robisz jakieś Indie Premium, albo właśnie... Ja nie wiem co to jest to AA, znaczy w sensie to jest taki...
+
+00:55:28.332 --> 00:55:30.288
+- To jest budżet.
+- I to jest tak właśnie...
+
+00:55:30.426 --> 00:55:34.867
+- AA to jest tylko i wyłącznie budżet, tak?
+- Bo AAA to jeszcze miał tam skrót jakiś, to miało sens, a AA.
+
+00:55:35.011 --> 00:55:43.998
+- AA to jest kilka milionów euro. W tej chwili. To jest po prostu to, tak? Ciężko to nazwać indykiem, według wszelkich standardów ciężko to nazwać indykiem. 
+
+00:55:44.140 --> 00:55:52.158
+I nie można tego nazwać AAA, bo w tej chwili faktycznie AAA już mają budżety po kilkadziesiąt milionów dolarów, tak?
+
+00:55:52.282 --> 00:55:52.965
+- Mhm.
+
+00:55:52.965 --> 00:56:01.235
+- I to są te budżety, więc w Europie kilka te, te 4-6, czy tam 4-8 mln euro to są powiedzmy, to jest taki segment AA.
+
+00:56:01.525 --> 00:56:09.017
+To są gry typu, nie wiem, World War Z na przykład jest AA, tak? Od Saber Interactive. 
+
+00:56:09.113 --> 00:56:21.382
+To jest dobry przykład. Death by Daylight był AA, teraz to już jest drukarnia pieniędzy, ale wyszedł oficjalnie jako AA, tak.
+
+00:56:21.576 --> 00:56:22.880
+- Okej.
+
+00:56:22.916 --> 00:56:34.981
+- Hellblade to jest piękny przykład AA, nie? Więc to jest po prostu coś, czego no indyk nie jest w stanie wyciągnąć, bo to nie te budżety, nie ten zespół, nie ten rozmiar zespołu. 
+
+00:56:35.233 --> 00:56:45.795
+Natomiast jest ten casm, że potem żeby przebić się do tego AAA, to naprawdę już trzeba tyle tego contentu naciukać. tyle tych dziesiątek godzin gameplay mieć,
+
+00:56:45.891 --> 00:56:53.686
+albo cinematiców, jeżeli idziemy bardziej w kierunek God of War'owy czy The Last of Us'owy, że to jest nieosiągalne dla takich zespołów jak Anshar, nie?
+
+00:56:53.800 --> 00:57:06.546
+- Okej, czyli czy specjalizacja studia to jest jeden, jedyny teraz klucz do sukcesu? Ja teraz ogrywam Uncharted. Skończyłem jedynkę, teraz robię dwójkę.
+
+00:57:06.590 --> 00:57:11.642
+Czwórkę już przeszedłem. The Last of Us w poprzednim roku i jedynkę i dwójkę skończyłem. 
+
+00:57:11.690 --> 00:57:27.296
+I ja mam bardzo mocne wrażenie, że to jest cały czas jedna idea. Znaczy tam widzę... Oni cały czas bazują na tych grach. Znaczy bazują na... To są kolejne stopnie rozwoju, czy...
+
+00:57:27.352 --> 00:57:31.122
+- To znaczy ja absolutnie nie uważam, że to jest jedyna droga do sukcesu i ja jestem po prostu jej fanem. 
+
+00:57:31.292 --> 00:57:38.896
+Absolutnie nie uważam, że to jest jedyna i w ogóle wydaję mi się, że każdy kto mówi, że ma jakiś tam klucz do sukcesu,
+
+00:57:39.032 --> 00:57:42.819
+ to trochę bredzi, albo musi, bo nie wiem, bo robi jakiś dobry PR, czy zły PR, czy whatever. 
+
+00:57:42.959 --> 00:57:52.736
+W każdym bądź razie tych dróg na pewno jest wiele i wiele w tym jest przypadku. Wiele w tym jest szczęścia i wiele w tym jest innych jakichś tam zmiennych.
+
+00:57:52.928 --> 00:58:00.152
+ Nasza strategia specjalizacji studia, bo chcemy się specjalizować faktycznie, chcemy się specjalizować i w segmencie, i w gatunku.
+
+00:58:00.232 --> 00:58:12.000
+To wynika po prostu z naszego founderskiego podejścia do prowadzenia firmy low risk. 
+
+00:58:12.194 --> 00:58:20.625
+Czyli chcemy iteracyjnie się poprawiać, bo jest to wolniejsza, ale pewniejsza droga do sukcesu. 
+
+00:58:20.725 --> 00:58:32.402
+Znaczy, do sukcesu. Wolniejsza, ale pewniejsza droga do wysokiej jakości, bądź do fajnej gry, niż liczenie po prostu, że zażre, tak?
+
+00:58:32.484 --> 00:58:42.415
+Czyli ja na przykład strasznie nie lubię tych historii - uuu, trzaskali 30 gier i wyszło im Angry Birds i coś tam. Nie mój model. Bez dwóch zdań sukces, tak?
+
+00:58:42.679 --> 00:58:46.372
+To nie można powiedzieć, że to była ewidentnie droga do sukcesu. 
+
+00:58:46.556 --> 00:58:58.448
+Natomiast ja po prostu nie jestem fanem trzaskania takich, że jak nie mamy pomysłu typu Super Hot, to z czym do ludzi, nie? Ja jestem wielkim fanem po prostu...
+
+00:58:58.742 --> 00:59:03.924
+- Też pamiętasz Super Hot, że przed premierą nie było czegoś takiego, że wszyscy wiedzieli, że to jest, będzie na pewno ogromny sukces.
+
+00:59:04.088 --> 00:59:09.678
+Ale dużo się mówiło o Super Hot, bardzo.
+- Nie wiem, ja zobaczyłem demo i ja wiedziałem, znaczy nie wiedziałem w jakiej skali to będzie...
+
+00:59:09.908 --> 00:59:12.326
+- No ale na WGK wtedy? Ty byłeś na...
+
+00:59:12.464 --> 00:59:18.294
+- Chodzi mi o ten siedmiodniowy, to co im wyszło z tego siedmiodniowego... Game Jamu. 
+
+00:59:18.306 --> 00:59:23.565
+ To już było bardzo mocne, to był bardzo mocny koncept, ale to jest właśnie gra, która jest oparta stricte na koncepcie. 
+
+00:59:23.565 --> 00:59:28.717
+Ktoś wpadł na pewien pomysł, zrobił pewne demo i to zażarło i na koło tego zrobił grę i to jest super.
+
+00:59:28.909 --> 00:59:38.831
+Natomiast strasznie mnie by stresowało, gdybym ja za każdym razem liczył na to, że musimy się spotkać w tej grupie iluś tam designerów, 
+
+00:59:38.899 --> 00:59:46.987
+czy iluś tam osób kreatywnych, wybrainstormować złoto, bo jak nie wybrainstormujemy złota, to będziemy w dupie. I to jest taki synchro swim, nie?
+
+00:59:47.159 --> 00:59:51.710
+ Ja jestem dużo większym fanem, jest na przykład taka firma Spiders.
+
+00:59:51.876 --> 00:59:55.394
+- Mhm.
+- Która robi...
+- Tak, jedno z moich ulubionych zresztą...
+
+00:59:55.428 --> 01:00:05.233
+- Tak. Która robi RPG-i. Ona robi dziwne te RPG-i, bo ona robi RPG-i w budżetach AA, które udają AAA. I zawsze jej się udaje po głowie, że to nie jest ta jakość. 
+
+01:00:05.305 --> 01:00:15.209
+Że te open world są takie... Ten element akurat ich strategii mi się nie podoba, tak? Czyli, że jesteśmy tańszym, dużym produktem. 
+
+01:00:15.319 --> 01:00:16.203
+- Mhm. 
+
+01:00:16.203 --> 01:00:24.283
+- Natomiast to, że specjalizują się w gatunku i z tytułu na tytuł są coraz lepsi, co widać po prostu po sprzedaży, po Metacriticu, po wszystkim po prostu. 
+
+01:00:24.624 --> 01:00:25.294
+- Mhm. Mhm. 
+
+01:00:25.737 --> 01:00:32.590
+- I widać, że Mars: War Logs miało dużo serducha, dużo fajnych pomysłów, ale Technomancer był lepszy.
+
+01:00:32.692 --> 01:00:38.132
+ A GreedFall był jeszcze lepszy, tak? I jak gdyby to mi się strasznie podoba, te konsystencje we wzroście. 
+
+01:00:38.302 --> 01:00:52.525
+W ogóle ja bardzo lubię, jak firmy są konsekwentne w swoim wzroście. Ja jestem na przykład ogromnym fanem Bitów w kontekście ich ścieżki jakby produktów, jak podchodzą do tytułów, nie? 
+
+01:00:52.697 --> 01:01:06.111
+- Ale to dlatego szefowie Projektu 8 i Marta i Garnek pracują u ciebie, tak? Ja czekam, aż Patryka zatrudnisz jakby.
+
+01:01:06.163 --> 01:01:13.793
+- Projektu, znaczy słuchajcie. Tam problemów, czy też wyzwań, przepraszam, Projektu 8 nie chcesz medytować. 
+
+01:01:13.983 --> 01:01:20.193
+- W ogóle Projekt 8 to jest projekt Bitów, żeby nakierować Państwa na tę radość, która tutaj właśnie się pojawiła. 
+
+01:01:20.399 --> 01:01:28.959
+- Tak, natomiast nie chcę... Nie chcę tego komentować. Po wynikach ich poznacie, a ich track record jest aktualnie po prostu niesamowity.
+
+01:01:29.019 --> 01:01:39.991
+Tak. Zresztą z tego co wiem, akurat nie uzyskałem tych informacji bezpośrednio od Bitów, więc mogę mówić, bo nie zdradzam żadnych tajemnic, które oni mi powiedzieli. 
+
+01:01:40.185 --> 01:01:52.520
+To pozostałe projekty, które robią, mają ogromnie wysokie morale i tam jest wewnętrznie bardzo duży, duża wiara, że tak powiem, że robią naprawdę bardzo fajne rzeczy. 
+
+01:01:52.674 --> 01:02:04.746
+Więc to, że akurat faktycznie chodzą ploty, bo ja też nie znam szczegółów, tak? Ale że chodzą ploty, że Projekt 8 tam ma jakieś turbulencje, no to kurcze, no a kto nie miał, nie?
+
+01:02:04.884 --> 01:02:08.046
+ - Że jest bliżej skasowania niż wydania. 
+
+01:02:08.178 --> 01:02:10.328
+- Ja szczegółów nie znam, nie chcę komentować. 
+
+01:02:10.554 --> 01:02:19.693
+Natomiast patrząc na ich track record, no to dla mnie ta firma... Zresztą to jest w ogóle dla mnie ciekawe, bo jak sobie tak posegregujmy każdy Game Developer tak powie.
+
+01:02:19.849 --> 01:02:24.529
+Ja jeszcze tak mogę mówić, bo jakby nie jesteśmy spółką publiczną, więc mogę sobie pozwolić na takie te.
+
+01:02:24.657 --> 01:02:34.661
+. Ale jak posortujemy sobie spółki publiczne po kapitalizacji, to każdy Game Developer od razu wskaże, że o! A to to jest jakiś bullshit. 
+
+01:02:34.799 --> 01:02:42.888
+ A to jest prawda. Nie? Tam możemy się kłócić, czy ta wycena jest... Powinna być przez 10, czy razy 10. 
+
+01:02:43.104 --> 01:02:49.059
+Nie chcę komentować, ale na zasadzie, że ta pozycja mocna w rankingu jest czymś poparta, tak? 
+
+01:02:49.195 --> 01:02:56.160
+No i są takie firmy, jak właśnie i to nie chodzi konkretnie, że ja mam akurat szacunek do segmentu, w którym pracują Bity, 
+
+01:02:56.278 --> 01:03:01.308
+bo na przykład 10 Square Games to jest w ogóle nie mój segment i w ogóle nie moje... 
+
+01:03:01.402 --> 01:03:08.689
+Nie moja para kaloszy, a mam duży szacunek do tej firmy, tak? I tam jest pewna prawda, która stoi za tą wyceną. Naprawdę stoi za CD-pem. 
+
+01:03:08.779 --> 01:03:18.261
+Cokolwiek byśmy tam nie mówili o jakichś tam turbulencjach związanych z Cyberpunkiem. Ale pewna prawda idzie za tą wyceną, nie? 
+
+01:03:18.455 --> 01:03:23.989
+No i za Bitami idzie, no. Ich track record jest naprawdę, naprawdę imponujący. 
+- Mhm. 
+
+01:03:24.183 --> 01:03:34.377
+- Tak, dlatego im podbierasz pracowników. Dobrze, to jest jakby... Ale to ciekawy, powiem ci szczerze, zbieg okoliczności, że i Marta Fijak była szefową Projektu 8 i Garnek... 
+
+01:03:34.608 --> 01:03:42.092
+- Ale to naprawdę, znaczy to jest naprawdę zbieg okoliczności. Bo ta historia jest prosta jak budowa cepa. Dlaczego te akurat konkretnie osoby pracują w tej chwili w Ansharach, tak?
+
+01:03:42.282 --> 01:03:52.631
+ To jest naprawdę prosta historia. To wynika po prostu z tego, że Anshar relatywnie niedawno, właśnie przy okazji Gamedeca i jasno się określił, co chce robić. 
+
+01:03:52.719 --> 01:04:02.939
+Tak, jasno się określił, czym się chce specjalizować. Po prostu tak się składa, że zarówno Marta Fijak i Artur Garczyniec to są osoby, które chcą takie rzeczy robić.
+
+01:04:03.135 --> 01:04:13.564
+Troszkę upraszczam jak gdyby, ale sparafrazuję. Bo jedno i drugie wypowiedziało bardzo podobne zdania, więc ja je tak bardzo uproszczę. 
+
+01:04:13.740 --> 01:04:17.848
+No Gamedec jest słaby, ale chcę robić takie gry, tylko lepiej. 
+
+01:04:17.924 --> 01:04:19.271
+- Bardzo dobra idea.
+
+01:04:19.285 --> 01:04:30.874
+Ja w ogóle wiesz, te informacje, że będziecie szli w tę stronę są dla mnie bardzo miłe, bo jakby chyba moje ulubione projekty z zeszłego roku gamingowe,
+
+01:04:31.236 --> 01:04:34.357
+ to było Encastre, nie wiem czy miałeś okazję zobaczyć.
+
+01:04:34.421 --> 01:04:36.300
+- Oczywiście, że miałem. Oczywiście, to jest...
+
+01:04:36.468 --> 01:04:43.731
+- I Solasta. Solasta jest takim Dungeons&amp;Dragons, więc taki klasyczny RPG. Ale to jest taki kierunek, który mnie osobiście super interesuję, więc... 
+
+01:04:43.957 --> 01:04:51.724
+- Znaczy Encased jest... Encased oczywiście jest to gra, która ma te wszystkie elementy, których my nie mamy, czyli tam combat, stealth i tak dalej. 
+
+01:04:51.896 --> 01:05:02.552
+Natomiast w takim swoim duchu i pewnych wartości, że tak bym powiedział RPG-owych, to faktycznie Encastre jest niedaleko od nas, tak? 
+
+01:05:02.645 --> 01:05:12.618
+ Znaczy w sensie, no bardzo nam po drodze z takim myśleniem o designie i oczywiście, że Encased Nagrywaliśmy i lubimy, i no fajna gra. 
+
+01:05:12.714 --> 01:05:22.786
+To jest notabene ex Larian. Osoba, która właśnie wzięła ten know-how ze studia, z tego co wiem, z Petersburga, bo to Rosjanin. 
+
+01:05:22.948 --> 01:05:33.016
+- Tak, tak, tak. Dark Crystal. 
+- Więc, tak. Więc to jest po prostu founderem tego studia jest ex Larian. Osoba i to też tam ten know-how tam czuć. 
+
+01:05:33.124 --> 01:05:41.822
+- Dobra. Ja jeszcze mam... Bo to było gdzieś na liście pytań Borysa, ale widzę, Borys się tak zagłębił w te tematy takie insideowe.
+
+01:05:41.982 --> 01:05:50.507
+Ja jestem super ciekaw jakie są twoje ulubione gry z zeszłego roku?
+- Hoho. Ale z zeszłego?
+
+01:05:50.657 --> 01:05:52.811
+- Właśnie, bo ja tylko jeszcze rozwinę trochę. 
+
+01:05:53.005 --> 01:06:01.836
+Bo ty miałeś premierę i zastanawia mnie też jak wygląda człowiek, znaczy jak wygląda życie człowieka, który ma premierę gry w danym roku i lubi sobie pograć. 
+
+01:06:02.066 --> 01:06:03.378
+- No właśnie. 
+
+01:06:03.464 --> 01:06:17.483
+- Znaczy, tak bardzo szczerze, to Gamedec bardzo mocno zajął mi umysł. Bez dwóch zdań. Jakby main space w 2021 był u mnie bardzo mocno zajęty Gamedec'iem.
+
+01:06:17.627 --> 01:06:22.101
+Natomiast no nie ja jestem tą osobą w okopach, która ten projekt kończyła, tak? 
+
+01:06:22.308 --> 01:06:31.684
+Więc nie mogę się tutaj porównywać czasowo na pewno do zaangażowania osób, które to faktycznie dowiozły i sprawiły, że ta premiera się wydarzyła. 
+
+01:06:31.770 --> 01:06:38.227
+Więc to nie tak, że nie mam czasu na granie. Nie miałem czasu na granie przez Gamedeca, ja nie miałem czasu na granie głównie przez dzieci. 
+
+01:06:38.303 --> 01:06:47.688
+Więc to był znacznie większy problem, bo mi się córka urodziła. Drugie dziecko też w zeszłym roku.
+
+01:06:47.922 --> 01:06:49.698
+W zeszłym roku się przeprowadziłem. 
+
+01:06:49.858 --> 01:07:03.054
+Pierwszy raz, do czegoś, co jest naszą własnością, więc zeszły rok był rokiem zmian i był dosyć trudny i faktycznie nie grałem super dużo i mi się mieszają lata,
+
+01:07:03.193 --> 01:07:07.703
+ bo ja gram w różnych okresach w różne rzeczy.
+
+01:07:07.913 --> 01:07:13.920
+Teraz tak, The Last of Us 2 to jest zeszły rok, czy to jest jeszcze poprzedni?
+- Wiesz co, to nie... No... 
+
+01:07:14.142 --> 01:07:18.309
+- Poprzedni. Nie, czekaj, nie. Poprzedni, 2020. 
+- To jest 2021? 
+
+01:07:18.437 --> 01:07:27.180
+- Tak, tak. Może być poprzedni. I też w zasadzie nie chodzi o bardziej o to, w co żeś konkretnie grał w 2021, czyli jakby takie tytuły, które są dla ciebie niedawne. 
+
+01:07:27.390 --> 01:07:29.899
+- Znaczy ja w tej chwili, to... 
+- A bardzo, bardzo interesujące. 
+
+01:07:30.345 --> 01:07:40.505
+- No to w tej chwili na przykład, no tak, no to w tej chwili mam na świeżo mam dwa tytuły. Wróciłem po updacie piątym do Satisfactory. Bo uwielbiam tę grę. 
+
+01:07:41.112 --> 01:07:49.412
+I w nią regularnie gram, a to głównie dlatego, że ja mam bardzo mało czasu na konsumpcję contentu, a jest to jedna z tych gier, w które można grać i jednocześnie oglądać serial. 
+
+01:07:49.685 --> 01:07:55.654
+Więc aktualnie oglądam Expanse sezon 6 i gram w Satisfactory jednocześnie. To jest, to jest... 
+
+01:07:55.876 --> 01:08:05.254
+To robię autentycznie teraz, czyli wczoraj, przedwczoraj, przedprzedwczoraj i tak przez ostatnie 2 tygodnie. Wcześniej grałem w Andromedę. 
+
+01:08:05.388 --> 01:08:17.001
+- Ha, proszę. 
+- Bo Magda, bo gdzieś podczas tej nagonki takiej medialnej, Andromeda mnie ominęła na zasadzie - a okej, słabe, to nie gram. 
+
+01:08:17.117 --> 01:08:25.346
+ Natomiast ostatnio w jakichś tam rozmowach Magda Cielecka mi powiedziała, że hej, ja tak gram i to w sumie fajna gra jest. 
+
+01:08:25.542 --> 01:08:35.263
+No to ja stwierdziłem, kurczę posucha trochę faktycznie single player RPG, zagram. Kurczę, to jest fajna gra. Nie twierdzę, że wybitna, tak? Ale...
+
+01:08:35.423 --> 01:08:40.968
+- To samo zawsze mówiłem. Ludzie na mnie krzyczą, że ja jestem no wymagający. 
+- Naprawdę dobrze mi się gra w Andromedę. 
+
+01:08:41.100 --> 01:08:47.351
+Dobrze mi się grało w Andromedę i tylko, że no serialu się przy tym nie da oglądać, więc chwilowo się przerzuciłem na Satisfactory. Ale... 
+
+01:08:47.421 --> 01:08:53.277
+- Ja grałem na premierę, więc jakby no mam to dość odmienne zdanie, ale okej. Niech wam będzie. 
+
+01:08:53.349 --> 01:09:03.462
+- Ja grałem raptem miesiąc temu. Fakt, że jeszcze nie skończyłem. Planuję skończyć. Mam jakieś 20 godzin. I naprawdę mi się podobało.
+
+01:09:03.574 --> 01:09:15.565
+ Wcześniej natomiast graliśmy... A no dobra, zeszły rok, tak przeżyciowo. To Walheim był dla mnie jakimś tam wydarzeniem, dlatego że o ile nie jest to gra... 
+
+01:09:15.719 --> 01:09:19.731
+Absolutnie nie jest to gra, którą bym sam chciał grać. 
+
+01:09:19.865 --> 01:09:28.996
+To mieliśmy tak fajną ekipę i tak fajne przeżycia związane z tymi wyprawami łódkami i tam walkami i budowaniem razem wioski. 
+
+01:09:29.152 --> 01:09:35.121
+W ściganiu się kto ma fajniejszą chatkę i tak dalej. To było bardzo fajne przeżycie w zeszłym roku.
+
+01:09:35.187 --> 01:09:50.616
+Z bardzo niefajnych przeżyć, nie wiem czemu sobie to robię regularnie, to jest Tarkov, którego nienawidzę i w którym mam mnóstwo godzin zmarnowanych. I ta gra jest bez sensu. 
+
+01:09:50.752 --> 01:09:56.982
+- Tak jak Borys w PUBG. 
+- I jest narkotykiem absolutnym, z którym staram się zerwać. 
+
+01:09:57.164 --> 01:10:10.374
+Na razie się trzymam. Już od dobrych chyba 2 czy 3 miesięcy się trzymam. Żeby nie wrócić, ale w zeszłym roku też bardzo dużo, notabene z Robakiem, czyli z Adamem...
+
+01:10:10.444 --> 01:10:14.139
+- No ja z Robakiem w PUBG grałem, ale przestali grać wszyscy, no...
+- No bo grają w Tarkov.
+
+01:10:14.371 --> 01:10:22.271
+- No właśnie. 
+- Ta ekipa gra w Tarkov, więc z tego miejsca Adama pozdrawiam. 
+
+01:10:22.445 --> 01:10:23.863
+- Wcześniej jeszcze w R6 grali. 
+
+01:10:23.971 --> 01:10:35.897
+- Tak, ja nie... Konstanty i tam Karol i Adam grali w Rainbow, ja nie byłem częścią ekipy. Natomiast ja dołączyłem na etapie Tarkov i to było strasznie złe przeżycie. 
+
+01:10:36.065 --> 01:10:44.168
+ No, kurde dobra gra. Strasznie zła gra. W sensie nie wiem, czemu to ludzie sobie robią, bo to jest masochizm, nie?
+
+01:10:44.234 --> 01:10:48.736
+- Ja teraz gram w taką grę, co się nazywa Super People. 
+- A to nie znam. 
+
+01:10:48.894 --> 01:10:56.890
+- To jest taki mix PUBG, CoD'a i Fortnite trochę. 
+- No. No to nie. 
+
+01:10:57.034 --> 01:11:08.028
+W CoD'a też trochę pograłem w Modern Warfare jako taka odskocznia od Tarkov w ten tryb Warzone, ale też w zeszłym roku, ale tak to nie.
+
+01:11:08.208 --> 01:11:16.791
+Na konsoli Hitman 3 na pewno. Bo bardzo lubię tę grę. Ale ja jednak jestem bardziej PC-towy. 
+
+01:11:17.015 --> 01:11:28.347
+- Okej, słuchaj. Jakie są w ogóle teraz problemy GameDevu?
+- Talent. 
+- Talent? Znaczy za dużo talentu?
+
+01:11:28.568 --> 01:11:36.086
+- Ludzie, w sensie że za mało. Za mało ludzi. Głównym problemem w tej chwili są ludzie. I ma to swoje oczywiście plusy dla tych ludzi. 
+
+01:11:36.192 --> 01:11:49.745
+Bo stawki szybują w górę i jest więcej możliwości pracy ze względu na otwarcie się rynków na pracę zdalną, tak?
+
+01:11:49.839 --> 01:11:58.608
+I w tej chwili można pracować sobie z Katowic czy tam z Warszawy dla... Z tymi Stanami Zjednoczonymi to tak może nie do końca, bo jednak... 
+
+01:11:58.674 --> 01:11:59.977
+- Ale dla Londynu... 
+
+01:12:00.161 --> 01:12:09.923
+-  Bo jednak ten timezone jest tam jakąś tarczą. Jako taką. No ale już na przykład dla takiego właśnie Londynu, zarabiać w funtach można. 
+
+01:12:10.061 --> 01:12:15.227
+No i przychodzą ludzie i mówią, no ja mam taką ofertę, czy nie inną? 
+
+01:12:15.395 --> 01:12:24.752
+ I jak ja mam dealować z ofertą w funtach, nie? Jedną z naszych sił tutaj naszej polskiej branży przez lata było jednak to, że jesteśmy wschodem, tak? 
+
+01:12:24.926 --> 01:12:30.927
+Jakby na to nie patrzeć, z tego punktu widzenia. Natomiast stajemy się coraz bardziej zachodem, co jest spoko, bo... 
+
+01:12:31.037 --> 01:12:34.729
+- A jakie są różnice na podobnych stanowiskach?
+
+01:12:35.013 --> 01:12:47.448
+- Wiesz co, to zależy od specjalizacji, bo na przykład u programistów, jako że programiści zawsze byli tą grupą, która najszybciej się podwyżkuje i najlepiej zarabia w GameDevie,
+
+01:12:47.556 --> 01:12:59.519
+no te różnice są tam paradoksalnie najmniejsze. Rzędu niskie kilkadziesiąt procent, typu nie wiem, 40, 30. Coś w tym stylu, tak? 50.
+
+01:12:59.645 --> 01:13:06.727
+Ja wiem, brzmi kosmicznie, tylko że na grafikach to czasami jest 100%, albo 150, tak?
+
+01:13:06.877 --> 01:13:14.826
+Bo w tej chwili, zwłaszcza w AAA liczba contentu, ilość contentu jaka musi zostać wyprodukowana jest gigantyczna.
+
+01:13:14.912 --> 01:13:28.168
+I tam my dostaniemy jako branża, taka moja predykcja, na najbliższe lata jest taka, że wszyscy oczywiście płaczą ile to my nie płacimy programistom i jak to jest źle.
+
+01:13:28.390 --> 01:13:35.144
+ I jak to ich jest mało. Moim zdaniem nie tam będzie wpiernicz. Bo na programistach zawsze był wpiernicz.
+
+01:13:35.382 --> 01:13:43.832
+I jakby będzie tak samo. Będzie wpiernicz i nauczymy się z tym żyć, natomiast graficy nas zaskoczą. Bo...
+
+01:13:43.920 --> 01:13:50.999
+- W sensie będzie ciężko o programistę, tak?
+- Znaczy o programistę zawsze, zawsze było ciężko i będzie ciężko dalej.
+
+01:13:51.171 --> 01:13:52.237
+- A okej.
+
+01:13:52.467 --> 01:14:02.389
+- A teraz jeszcze będzie strasznie ciężko o grafików, bo to są ludzie, którzy, ja mam wrażenie, w tej chwili pracują na etacie żeby mieć ubezpieczenie zdrowotne, albo z nudów.
+
+01:14:02.561 --> 01:14:05.970
+ A żyją tak naprawdę z fuch na zachód,
+
+01:14:06.062 --> 01:14:17.462
+z freelancerki i gdzieś tam z tyłu głowy ci graficy mają ten endgame nie w Polsce w wielu wypadkach i no i my oczywiście nadgonimy, to się gdzieś tam wyrówna.
+
+01:14:17.624 --> 01:14:29.800
+Ale na przykład no, jako GameDev nie wiem czy w tej chwili musimy jakoś tam super płakać w związku z jakimiś tam inflacjami, czy nowym ładem, no bo nie wiem.
+
+01:14:29.862 --> 01:14:38.586
+ Gdzieś tutaj tracimy 15%, no tu zyskujemy 30, no to... No to... Dalej plus, nie? Znaczy zyskujeMY.
+
+01:14:38.660 --> 01:14:42.708
+ZyskujĄ. Więc my oczywiście musimy.
+
+01:14:42.874 --> 01:14:49.537
+ No ale to też będziemy przerzucać, nie? Siłą rzeczy dużo kapitału płynie z zachodu jeżeli chodzi o tworzenie.
+
+01:14:49.711 --> 01:14:53.711
+Zresztą ze wschodu też. Jeżeli chodzi o tworzenie gier, no i ten koszt będziemy przerzucać.
+
+01:14:53.827 --> 01:14:59.319
+Gdzieś się to wyrówna. Ja myślę, że teraz faktycznie będzie parę lat takich turbulencji, będzie ciężko.
+
+01:14:59.377 --> 01:15:11.305
+Ale ja myślę, że po prostu za te 10, 15 lat my będziemy po prostu takim GameDevowym europejskim zachodem i tyle. Gdzieś się to tam wyrówna, nie?
+
+01:15:11.433 --> 01:15:19.195
+Natomiast teraz faktycznie jesteśmy na takim etapie transformacji, która cały czas się działa, tylko po prostu covid i praca zdalna przyspieszyła ten proces.
+
+01:15:19.387 --> 01:15:33.030
+- No właśnie. Bo ja pamiętam na tym słynnym GDE w pierwszym w covidzie był ten panel, gdzie była dyskusja na temat pracy zdalnej. To było dwa lata temu.
+
+01:15:33.164 --> 01:15:43.828
+I było to podejście hurra optymistyczne, a teraz, pół roku temu już był panel o problemach pracy zdalnej.
+
+01:15:44.028 --> 01:15:50.796
+- Czy ja wiem? Ja mam wrażenie, że ja na tym panelu głównie krzyczałem, że mi się praca zdalna nie podoba i wszyscy krzyczeli na mnie, że jestem idiotą.
+
+01:15:50.844 --> 01:15:53.088
+Więc jakby ja to trochę inaczej zapamiętałem.
+
+01:15:53.218 --> 01:16:05.879
+- Nie no, byłem na całym panelu. Jakby może nie słuchałeś, ale tam już ludzie, było głosowanie na końcu ile osób chce wrócić do biura. I no sporo było osób.
+
+01:16:06.041 --> 01:16:13.224
+- Moim zdaniem to nie jest w ogóle sprawa zero-jedynkowa. Tam jest dużo głębszych, wiele różnych problemów.
+
+01:16:13.444 --> 01:16:19.476
+Bo na przykład jeden z podstawowych problemów jest problem zaufania, który...
+
+01:16:19.714 --> 01:16:27.843
+W sensie ludzie myślą, że ja nie chcę pracy zdalnej, bo ja im nie ufam, że oni będą efektywnie pracować na pracy zdalnej.
+
+01:16:28.011 --> 01:16:34.620
+ I to jest bardzo częsty problem na linii pracodawca - pracownik, że jest taki problem wzajemnego zaufania, tak?
+
+01:16:34.754 --> 01:16:41.241
+ I ja osobiście uważam, że jeżeli mamy problem z takim zaufaniem, to powinniśmy tę osobę zwolnić.
+
+01:16:41.506 --> 01:16:50.086
+I dla mnie absolutnie nie jest argumentem przeciwko pracy zdalnej, to że ja ufam, czy ktoś będzie robił swoją robotę, czy nie.
+
+01:16:50.176 --> 01:16:59.581
+ A to często wydaje się, że to o to chodzi pracodawcom i często pracownicy używają tego argumentu - a to ty chcesz po prostu wszystkich mieć na oku, nie?
+
+01:16:59.673 --> 01:17:07.008
+Nie. Po prostu są jakby dziesiątki lat, w przypadku Ansharów dokładnie 10 lat,
+
+01:17:07.198 --> 01:17:20.050
+wypracowanych pewnych metodologii pracy na miejscu i są dziesiątki lat pewnych naukowych faktów związanych z komunikacją,
+
+01:17:20.230 --> 01:17:24.858
+ że jednak ta komunikacja face to face jest efektywniejsza od innej formy komunikacji.
+
+01:17:25.122 --> 01:17:32.826
+Żyjemy w bardzo kreatywnym środowisku, gdzie większość gier nie wywala się o problemy technologiczne.
+
+01:17:32.996 --> 01:17:40.267
+Większość. Tam raz na ruski rok się zdarza, że coś tam na Playstation 4 nie działa dobrze.
+
+01:17:40.425 --> 01:17:54.319
+Ale generalnie rzecz biorąc, w większości przypadków wszelkie opóźnienia w projekcie, wszelkie objazdy, wszelkie błędy. Wszystko, co złego można zwalić na proces komunikacji.
+
+01:17:54.387 --> 01:18:00.575
+Po prostu nie dogadały się te osoby, nie zostało to wyjaśnione, nie została dobrze... I tak dalej.
+
+01:18:00.703 --> 01:18:07.381
+Teraz o ile ja głęboko wierzę, że taki taśmowy proces produkcji możemy robić równie efektywnie zdalnie jak i na miejscu,
+
+01:18:07.507 --> 01:18:18.114
+a wręcz nawet zdalna ma czasami tę przewagę, że jak osoba ma warunki do pracy w domu, bo nie wiem, ma osobny pokój, dzieci nie przeszkadzają, bla bla bla.
+
+01:18:18.244 --> 01:18:22.568
+ Jest taką osobą, której to nie przeszkadza, to może nawet pracować wydajniej pracując zdalnie.
+
+01:18:22.728 --> 01:18:28.837
+Ale w momencie, w którym pracuje - w cudzysłowie na taśmie, czyli w takiej pełnej produkcji growej, czyli ja dostaję pewien klocek z lewej.
+
+01:18:28.975 --> 01:18:32.742
+Mam dołożyć do tego klocka pewną swoją część i oddaję ją z prawej, tak?
+
+01:18:32.962 --> 01:18:37.752
+Czyli jestem nie wiem, modelarzem, dostaję koncept, idę, o idzie to do materiałowca i jedziemy.
+
+01:18:37.828 --> 01:18:41.990
+Wierzę, że ten proces może działać całkiem optymalnie, a może nawet lepiej niż na miejscu.
+
+01:18:42.070 --> 01:18:51.494
+Ale początek i koniec projektu nie. Ja zamykałem projekt w covidzie, Observer System Redux i ja zaczynałem projekt w covidzie, o którym nie mogę mówić.
+
+01:18:51.730 --> 01:19:04.113
+I to była absolutna masakra, tak. I znacznie lepiej to działa na miejscu, w tym ogniu walki. I ja nie...
+
+01:19:04.249 --> 01:19:08.481
+ A poza tym personalnie nie o taki GameDev walczyłem, nie?
+
+01:19:08.663 --> 01:19:15.626
+W sensie mi się marzy, to jest moje personalne marzenie, że siedzimy przy tym whiteboardzie i krzyczymy na siebie dlaczego uważamy,
+
+01:19:15.692 --> 01:19:22.759
+że ten RPG jest lepszy od tamtego, albo że ten feature jest lepszy od tamtego i jest to pewnego rodzaju doświadczenie, że to nie jest właśnie taka: 
+
+01:19:22.879 --> 01:19:28.110
+dostaję na okienku na dziś, że mam zrobić to, przekazuję, robię i jadę dalej, nie?
+
+01:19:28.257 --> 01:19:31.489
+Bardzo collaborative art dla mnie.
+
+01:19:31.613 --> 01:19:37.715
+I dlatego ja jestem z jednej strony przeciwnikiem pracy zdalnej, z drugiej strony no nie jestem idiotą. 
+
+01:19:37.815 --> 01:19:44.672
+Pracujemy w pewnym, przynajmniej lubię o sobie myśleć. Wiadomo, pracujemy w pewnym kontekście. 
+
+01:19:44.840 --> 01:19:49.355
+ Musimy być konkurencyjni. Musimy być w stanie funkcjonować. 
+
+01:19:49.537 --> 01:19:57.299
+Nie mogę dla zasady wprowadzać jakichś tam głupich ruchów, które sprawią, że na przykład nie będę w stanie, tak?
+
+01:19:57.496 --> 01:20:01.437
+No umówmy się, wspominałeś tutaj o Marcie Fijak i Arturu Garczyńcu, tak? 
+
+01:20:01.503 --> 01:20:05.277
+No ani jedno ani drugie nie pracuje na miejscu w Ansharze, tak? 
+
+01:20:05.535 --> 01:20:15.738
+Pojawiają się tutaj w miarę regularnie, ale pracują zdalnie, bo ani jedno ani drugie w najbliższej przyszłości nie planuje żadnej przeprowadzki, więc... 
+
+01:20:15.884 --> 01:20:22.885
+Więc oczywiście jesteśmy na to otwarci, natomiast jest pewien koszt tego. Więc możliwe, że się tego nauczymy. 
+
+01:20:23.031 --> 01:20:32.538
+Możliwe, że wszyscy będziemy w metaversie za 10 lat i ta komunikacja będzie gładka i w ogóle super i nie wiadomo co, tak. Ale uczymy się tego. Jest to proces powolny. 
+
+01:20:32.660 --> 01:20:43.390
+Są firmy, które miały do przodu, bo nie covid ich zmusił, tylko już wcześniej pracowały zdalnie i pewne tam pay plany sobie wypracowały. 
+
+01:20:43.510 --> 01:20:47.687
+Natomiast wydaję mi się, że im większa jest firma, tym to jest trudniejsze. 
+
+01:20:47.727 --> 01:21:03.154
+ I zupełnie co innego jest w 7 osób sobie zdalnie, jeszcze across time zones robić grę, a zupełnie inaczej jest to robić w 100, 200, 300 czy 400 osobowym zespole. 
+
+01:21:03.272 --> 01:21:17.458
+- Ilu wy macie teraz ludzi?
+- Około 130. W tej chwili tak. Znaczy tak, cały czas rekrutujemy i tam co miesiąc przychodzi parę osób, więc dlatego mówię około 130. 
+
+01:21:17.670 --> 01:21:23.992
+- A rekrutacja i wdrażanie nowych pracowników nie jest jakimś dużym problemem w covidzie? 
+
+01:21:24.292 --> 01:21:29.775
+- Znaczy jest, moim zdaniem, ogromnym. I to też zależy, znaczy też trochę zależy od doświadczenia. 
+
+01:21:29.933 --> 01:21:44.927
+ Na przykład u nas jest zakaz pracy juniorów na pracy zdalnej, bo po prostu... A mało tego, właśnie o tym się też nie mówi, bo w Polsce zawsze cierpiał taki mit małego teamu rzeźników. 
+
+01:21:45.129 --> 01:21:50.650
+Że to jest pollution na wszystko. Rozwiązanie na wszystko. Im seniorów i tak dalej. 
+
+01:21:50.782 --> 01:22:03.264
+My nie mamy takiej kultury, żadne studio, albo w mojej wiedzy, żadne studio nie ma takiej głębokiej kultury edukacji, gdzieś rozbudowanych programów stażowych i tak dalej.
+
+01:22:03.384 --> 01:22:11.934
+Jak na przykład Ubisoft, tak? Ubisoft to jest fabryka, to jest po prostu super, nie?
+- No ale to jest olbrzymia firma, nie? Olbrzymia w ogóle. 
+
+01:22:12.052 --> 01:22:16.454
+- A u nas jest trochę tak, że jak nie jesteś seniorem, to po co ty się w zasadzie do nas zwracasz.
+
+01:22:16.520 --> 01:22:26.024
+ I może tam jakiegoś super ambitnego juniora, tego jeden na milion, geniusza weźmiemy, ale in general wolimy ludzi doświadczonych, tak?
+
+01:22:26.180 --> 01:22:32.157
+- Ja nie wiem, czy nie w Bitach czasem właśnie jest tak, że oni tych juniorów tam...
+
+01:22:32.295 --> 01:22:41.724
+- To znaczy, każdy jakoś próbuje, ale chodzi jakby o skalę tego przedsięwzięcia, nie? I w covidzie to jest jeszcze gorzej, tak?
+
+01:22:41.788 --> 01:22:48.043
+No bo większość programów stażowych się zatrzymała. Rekrutacji na juniorów jest jeszcze ciężej. 
+
+01:22:48.115 --> 01:22:57.052
+Generalnie rzecz biorąc, moja personalna bańka Twitterowa mówi, że w ogóle junior designer, bo to jeszcze designer, jeszcze tam programista to co innego. 
+
+01:22:57.240 --> 01:23:01.909
+Tak, ale junior designer to już w ogóle jest niezatrudniona osoba w covidzie. Przy pracy zdalnej. 
+
+01:23:02.107 --> 01:23:12.257
+Więc faktycznie bycie juniorem jest troszeczkę teraz trudniejsze wdrożeniowo. Co innego jak się ma jakąś specjalizację, tak? 
+
+01:23:12.479 --> 01:23:21.738
+ I to naprawdę, wystarczy parę miesięcy posiedzieć nad jakimś tutorialami i coś tam potrafi ten animator, czy coś tam potrafi ten character artist. 
+
+01:23:21.886 --> 01:23:29.578
+Coś tam potrafi ten efix artist, to robotę znajdzie, bo to są strasznie specjalizacje, które są pożądane. 
+
+01:23:29.798 --> 01:23:34.926
+Ale jeżeli jesteśmy takim generalistą, czy to designerem na zasadzie - mam pomysł na grę, 
+
+01:23:35.080 --> 01:23:44.427
+ czy to grafikiem, na zasadzie jestem modelarzem, no to faktycznie juniorom jest, wydaję mi się, w covidzie ciężej niż było. I ciężej się uczy, częściej się wdraża, ale no... Wdrażanie. 
+
+01:23:44.591 --> 01:23:51.844
+No my mamy wynajęte po prostu mieszkanie, 4 sypialnie i te osoby muszą tutaj z nami na tam tydzień przyjechać.
+
+01:23:51.936 --> 01:23:54.297
+- Czyli nie wychodzą w ogóle. To już taki crunch absolutny jeszcze.
+
+01:23:54.367 --> 01:24:03.587
+- Nie no, w sensie muszą na tydzień tutaj przyjechać, tak. I się staramy przez ten tydzień osobę wdrażać. Zależy od projektu, zależy od sytuacji.
+
+01:24:03.801 --> 01:24:14.387
+ I są tutaj z nami na miejscu przez taki onboarding. Przechodząc. No i co jakiś czas staramy się spotykać, ale no na pewno jest to trudniejsze.
+
+01:24:14.585 --> 01:24:19.744
+Natomiast ma to dużo zalet dla pracownika jako takiego, tak?
+
+01:24:19.973 --> 01:24:33.173
+No to jest oczywiście nie do podważenia, że dojazdów, czasy dojazdów, dużo rzeczy można załatwić, których nie można było załatwić, tak.
+
+01:24:33.289 --> 01:24:36.506
+Hydraulika można przyjąć do domu i tak dalej. Więc ja to rozumiem.
+
+01:24:36.662 --> 01:24:45.425
+Wydaję mi się, że większym revelation jest to dla Stanów Zjednoczonych, niż dla nas tak naprawdę.
+
+01:24:45.493 --> 01:24:49.578
+Bo jednak Polacy statystycznie nadal się rzadziej przeprowadzają.
+
+01:24:49.800 --> 01:24:56.290
+ I teraz ja rozumiem, że jak w takich Stanach Zjednoczonych ktoś 7 lat był w GameDevie i 6 razy się przeprowadzał ze stanu do stanu,
+
+01:24:56.470 --> 01:25:04.264
+no to faktycznie przy tej pracy zdalnej ma teraz takie - no nie, no odkryłem, że można pracować więcej niż 9 miesięcy w jednym stanie.
+
+01:25:04.436 --> 01:25:13.361
+No to jakby rozumiem, tak. U nas to nie do końca jest tak, nie? Ludzie się raczej, może się to zmieni, ale kulturowo raczej się przeprowadzają.
+
+01:25:13.559 --> 01:25:30.293
+ A jak się przeprowadzają, to na dłużej. I u nas to nie jest aż taki uzysk, ale zobaczymy. Na pewno praca zdalna sobie nie pójdzie nigdzie. To nie jest tak, że wrócimy do tego, jak było.
+
+01:25:30.461 --> 01:25:36.630
+ I na pewno nie będzie tak, że wszyscy będziemy za 2 lata pracować zdalnie. To też w to nie wierzę, nie?
+
+01:25:36.792 --> 01:25:43.746
+- Czyli jakby jest tak - jest większe zapotrzebowanie na ludzi, natomiast ci, którzy zaczynają i tak mają przechlapane?
+
+01:25:43.950 --> 01:25:49.957
+- O, przechlapane. Znaczy, ja uważam, że przechlapane ma osoba, która nie ma portfolio.
+
+01:25:50.183 --> 01:25:56.262
+ I faktycznie, jeżeli ktoś jest, powiedzmy mniej przebojowy, no to nie musi być komercyjne portfolio, absolutnie.
+
+01:25:56.614 --> 01:26:05.635
+W tej chwili naprawdę jest taka sytuacja, że to nie musi być komercyjne portfolio. Po prostu większość studiów nie jest przygotowana na to, żeby ludzi...
+
+01:26:05.805 --> 01:26:09.915
+Żeby nauczyć zapaloną osobę od całkowitego zera, tak?
+- Mhm.
+
+01:26:10.089 --> 01:26:18.875
+- No bo jeżeli nie mamy z czymkolwiek do pracy, tak że ta osoba nie popracowała te kilka miesięcy, nie wiem, w Blenderze na przykład jako grafik, tak?
+
+01:26:19.102 --> 01:26:25.810
+Albo jako ten skrypter nie próbowała pobawić się Unrealem, to takie po prostu nic. Tabula rasa.
+
+01:26:26.024 --> 01:26:32.963
+Student i zrobiłem projekt na studiach i ten projekt był taki od A do Z, że tak powiem, no to faktycznie ma trudno.
+
+01:26:33.095 --> 01:26:37.179
+Bo nie ma tych pay planów do nauczenia takiej osoby od zera.
+
+01:26:37.305 --> 01:26:49.263
+Natomiast zapotrzebowanie jest tak ogromne i ten nadmiar kapitału i contentu do wytworzenia, który - mówię, na świecie, tak?
+
+01:26:49.441 --> 01:26:56.121
+en nadmiar kapitału na świecie jest ogromny. Ilość tych IP  do obskoczenia jest ogromna, bo w tej chwili żyjemy w świecie bardzo mocno IP.
+
+01:26:56.227 --> 01:27:05.820
+Tytułów nawet będzie powstawać pewnie i mniej. Będą bardziej bezpieczne, będą oparte o IP, ale będzie potrzebna ogromna ilość osób, żeby to zrobić.
+
+01:27:06.089 --> 01:27:14.359
+- Czyli właściwie zasada jest taka, jak w każdej innej branży. Jeżeli nie możesz znaleźć pracy i się dodatkowo kształcić, to po prostu zrób to sam. Szlifuj te umiejętności i to...
+
+01:27:14.551 --> 01:27:23.721
+- Ale jak najbardziej. Wydaję mi się, że żyjemy trochę w takiej erze, że nie ma wymówki, there is no excuse, tak?
+
+01:27:23.945 --> 01:27:30.783
+Jeżeli ma się internet i komputer, to naprawdę. Bo to nie chodzi o to, że ktoś się ma z tego doktoryzować, nie?
+
+01:27:31.019 --> 01:27:32.982
+- Jakby są narzędzia, żeby robić to.
+
+01:27:33.018 --> 01:27:41.851
+ Ja to mówię w tym znaczeniu, że jeżeli ktoś kończy studia, to nie znaczy, że jest postawiony pod ścianą, tylko musi szlifować i piłować, żeby umieć coś zrobić i z czymś pójść do tego studia, nie?
+
+01:27:41.955 --> 01:27:49.799
+- Znaczy ja w tej chwili jestem w ogóle... Zresztą zawsze byłem takiego zdania, że jak ktoś kończy studia i tego portfolio nie ma, to ja mam takie - ale co robił na tych studiach?
+
+01:27:50.005 --> 01:27:58.631
+ Ale ja jestem może starej daty, na zasadzie - no bo, no chyba że faktycznie zdarzają się raz na...
+
+01:27:58.701 --> 01:28:08.813
+Mamy taką jedną bardzo fajną programistkę, która faktycznie nie miała w ogóle portfolio i ukończyła studia na Politechnice Śląskiej w Gliwicach.
+
+01:28:09.009 --> 01:28:17.812
+ I ja tak - a to znajomy nam ją polecił. Ja tak mówię do niego: ta, ale coś ty mi tu naniósł, jak to 5 lat studiów, programistka i jakby nic? Nic nie robiła?
+
+01:28:17.996 --> 01:28:24.097
+A on mówi: nie, no bo to jest jedna z tych, co się naprawdę uczyła i przykładała. I ona robiła wszystkie projekty, same piątki.
+
+01:28:24.237 --> 01:28:31.903
+Tak naprawdę studiowała. A ja: aaa, okej. No i pyk. Super decyzja. Świetna dziewczyna. Pracuje dalej u nas. Po 6 latach.
+
+01:28:31.973 --> 01:28:47.189
+- Okej. A teraz jakby Epic bardzo mocno reklamuje, że Unreal Engine 5 bardzo dużo zmieni. Już nie będzie tak dużo osób potrzebnych. Że jakby ułatwi pracę. 
+
+01:28:47.433 --> 01:28:53.100
+To jakby wy coś już testujecie sobie, działacie sobie na Unrealu 5?
+
+01:28:53.292 --> 01:28:59.449
+- Znaczy tak, my w tej chwili robimy jeden projekt w pełni na Unrealu 5. O którym też nie mogę mówić.
+
+01:28:59.724 --> 01:29:10.058
+Robimy projekt w pełni na Unrealu 5 i mamy dwa projektu, które stoją w kolejce/ pod znakiem zapytania, czy się nie przerzucić na Unreala 5.
+
+01:29:10.156 --> 01:29:19.488
+Na przykład nie została jeszcze podjęta decyzja, co do Rookiego, czy aktualnie powstaje na Unrealu 4 i być może przerzucimy się na Unreal Engine 5. 
+
+01:29:19.714 --> 01:29:33.780
+To trochę zależy od Epica i od ich postępów i od stabilności ich softu. I teraz to się... Znaczy... Nic się nie zmieni. 
+
+01:29:33.946 --> 01:29:42.391
+Oczywiście dużo się zmieni, ale dużo się zmieni po stronie jak gdyby tych efektów, że te efekty będą jeszcze lepsze, poprzeczka będzie jeszcze wyżej i tak dalej, ale nic się nie zmieni. 
+
+01:29:42.632 --> 01:29:50.944
+W sensie nie będzie potrzebna mniejsza liczba osób, tylko to będzie teraz tak, że mniejszą ilością osób będą powstawały większe gry, niż kiedyś. 
+
+01:29:51.116 --> 01:29:58.039
+- Mhm. 
+- Ale będą powstawały jeszcze większe, czy też jeszcze lepsze gry, które powstawały tą starą ilością osób. W sensie Gamedec jest takim...
+
+01:29:58.141 --> 01:30:01.292
+- Czyli skala się tylko przesunie? 
+- Proporcje się zmienią, tak?
+
+01:30:01.370 --> 01:30:05.086
+- Tak, GameDev jest takim narzędziem... To jest jak budżetowanie projektu. Na przykład jedną... 
+
+01:30:05.741 --> 01:30:12.417
+ Ja w ogóle nie wierzę w budżetowania projektów. Na zasadzie, żeby pytać ludzi, ile oni potrzebują ludzi. To jest strasznie złe, co ja teraz powiedziałem. 
+
+01:30:12.547 --> 01:30:15.626
+I w ogóle, jak tego będą słuchać moi pracownicy, to będą przewracać oczami.
+
+01:30:15.794 --> 01:30:24.573
+. Ale jak jeżeli ja się spytam na przykład pracowników, ilu oni potrzebują programistów przy projekcie, oni mi na przykład powiedzą: siedmiu, tak? To to nie ma znaczenia.
+
+01:30:24.729 --> 01:30:37.321
+W sensie, jak ja im dal 6, bądź ja im dam 8, to będzie miało niewielkie znaczenie. Jeżeli dam 10, to gra będzie bardziej skomplikowana, ale nie będzie robiona lżej.
+
+01:30:37.553 --> 01:30:44.133
+ Nie będzie miała mniej problemów. Nie będzie robiona lepiej. Na przykład porządniej, tak? 
+- Mhm. 
+
+01:30:44.231 --> 01:30:53.783
+- Czy pod mniejszym ciśnieniem. Nie! Ona po prostu będzie bardziej skomplikowana i większa. Bo my jakoś tak naturalnie nie umiemy, i to jest... No nie umiemy się kontrolować.
+
+01:30:54.017 --> 01:31:00.799
+I nie umiemy... My zawsze chcemy stworzyć coś super. To jest z jednej strony fajne w tej naszej branży, tak?
+
+01:31:01.089 --> 01:31:08.227
+Ale budżetowanie w tym momencie jest niemożliwe, bo ja po prostu wiem, że dam im 7 programistów, to ja tylko stworzyłem pewien kontekst. 
+
+01:31:08.329 --> 01:31:12.189
+Oczywiście są pewne mission imposible, są, tak?
+
+01:31:12.291 --> 01:31:20.139
+Czyli na przykład założymy, że robimy grę w jakimś konkretnym gatunku, a ja mówię: to 2 programistów. No oni: no nie, to się nie da zrobić. I faktycznie tak może być. 
+
+01:31:20.237 --> 01:31:24.551
+- No ale okej. Wspomniałeś tutaj o... 
+- Ale czy ja dam 7 czy 9, to nie jest duża różnica.
+
+01:31:24.685 --> 01:31:30.172
+ Znaczy, jest duża w budżecie. Ale to będzie po prostu - czy ta gra będzie bardziej skomplikowana, czy mniej skomplikowana. 
+
+01:31:30.304 --> 01:31:34.195
+A najgorsze jest to, że nie da się w ten sposób też robić buforu. 
+
+01:31:34.309 --> 01:31:41.360
+Bo jeżeli ja bym chciał sobie zrobić bufor, to ja bym powiedział: okej, czyli oni chcą 7 programistów, a ja chcę, żeby oni mieli spokój. To dam im 9.
+
+01:31:41.508 --> 01:31:43.738
+To oni nie będą mieli spokoju, tylko gra będzie bardziej skomplikowana. 
+
+01:31:43.964 --> 01:31:48.217
+Czyli ja bym musiał mieć 2 programistów zatrudnionych i schowanych w szafie. 
+
+01:31:48.379 --> 01:31:55.856
+I jak będzie potrzeba, że jest zbyt wielkie ciśnienie, to ja ich muszę z tej szafy wyciągnąć. No ale wtedy mamy problem. Wdrożenie i tak dalej. Generalnie... 
+
+01:31:55.968 --> 01:32:00.306
+- Ja nie wierzę trochę w to, co ty tutaj mówisz. To jest jakby... 
+
+01:32:00.472 --> 01:32:08.755
+- Ja przestałem naprawdę wierzyć w budżetowania, od kiedy po prostu... Ja od lat próbuję ten temat ugryźć i w pewnym momencie przestałem.
+
+01:32:08.823 --> 01:32:14.420
+To jest trochę waśnie na zasadzie, co to jest AA. To jest właśnie gra za 5 milionów euro. 
+
+01:32:14.627 --> 01:32:17.663
+- Michał Madej, pozdrawiam serdecznie. 
+
+01:32:17.859 --> 01:32:26.675
+ Kiedyś pracował w Ubisofcie i on opowiadał, że tam jest taka historia, że jak projekt już się powoli zbliża do zakończenia,
+
+01:32:27.011 --> 01:32:36.941
+to wyrzucają dyrektorów kreatywnych i na ich miejsce wchodzi finisher, który właśnie wszystkie te pomysły rozmnażania tej gry, 
+
+01:32:37.033 --> 01:32:43.972
+dodawania mechanik na tym etapie, wszystko ucina i po prostu jest zamykany. Nie da się tego jakby wdrożyć, że...
+
+01:32:44.122 --> 01:32:48.807
+- Znaczy, Ubisoft to są w ogóle mistrzowie świata, jeżeli chodzi o produkcję. I to jest bez dwóch zdań. 
+
+01:32:48.991 --> 01:32:54.069
+Natomiast też to jest trochę inaczej, bo naprawdę... Wiesz dlaczego ja się śmieję?
+
+01:32:54.159 --> 01:32:59.564
+Ja się trochę śmieję z tym budżetowaniem, ale dlaczego nie można budżetować? Dlatego, że nie wiesz jaką grę robisz. 
+- To też jest prawda. 
+
+01:32:59.662 --> 01:33:02.798
+- A w momencie, w którym oni skalują zespół...
+- A oni wiedzą. 
+
+01:33:02.860 --> 01:33:08.658
+- To oni już wiedzą, bo Ubisoft robi bardzo długie preprodukcje. Ubisoft robi preprodukcję czasami 4-6 lat.
+
+01:33:08.744 --> 01:33:12.918
+ I robi to mikroskopijnym jak na nich zespołem, czyli na przykład 40 osobami.
+
+01:33:13.010 --> 01:33:24.900
+I robi tymi 40 osobami tę preprodukcję i w momencie, w którym oni już wiedzą, jaką grę chcą zrobić, to skalują się, tam troszkę 900 osób wrzucają na 14 miesięcy. 
+
+01:33:25.107 --> 01:33:30.453
+Tak, bo mogą. I tam już faktycznie tego statku się nie zatrzyma.
+
+01:33:30.713 --> 01:33:39.016
+ Tam już nie ma jakiegoś tam miejsca na jakieś wielkie rewolucje, bo to już jest taka maszyna, taka machina produkcyjna, że faktycznie nie możemy tego wywrócić do góry nogami. 
+
+01:33:39.184 --> 01:33:50.212
+ I oczywiście, że można budżetować grę. Maciek Miłosik powiedział kiedyś bardzo mądre zdanie, na którymś GDE, albo Jacek Brzeziński to był, a Maciek się z nim zgodził.
+
+01:33:50.406 --> 01:33:53.523
+Patrz, nie pamiętam kto. Któryś z tych dwóch.
+- Jest to możliwe, że oni się zgadzają ze sobą, tak. 
+
+01:33:53.749 --> 01:34:03.471
+- Tak, któryś z tych dwóch powiedział coś takiego, że oni nie wiedzą jak budżetować grę i że oni mniej więcej, jak tak są w połowie, to już wiedzą. Ja się z tym zgadzam. 
+
+01:34:03.575 --> 01:34:11.566
+Że faktycznie możemy sobie założyć pewien kontekst, że my pracujemy w jakimś kontekście, tak? 
+
+01:34:11.638 --> 01:34:14.665
+Czyli to jest gra za te, powiedzmy, mniej więcej 4 mln euro. 
+
+01:34:14.757 --> 01:34:19.636
+ No naprawdę coś musiało być bardzo nie tak, jakby z gry za 4 mln euro się zrobiła gra za 40, tak? 
+
+01:34:19.676 --> 01:34:25.811
+ Ale tak naprawdę dopóki my tych 2 mln euro nie wydamy, to my trochę nie wiemy, co my robimy.
+
+01:34:26.061 --> 01:34:29.529
+Tak w sensie jest to bardzo nieprzewidywalne, nie że nie mamy pojęcia co robimy. 
+
+01:34:29.722 --> 01:34:33.333
+Tak, tylko jest to bardzo nieprzewidywalne, co się musi zdarzyć, żeby to zakończyć.
+
+01:34:33.445 --> 01:34:38.112
+ I planowanie jest bardzo trudne, bo faktycznie jak już wiemy, mamy tę grę. 
+
+01:34:38.158 --> 01:34:42.525
+Mamy te systemy i my tworzymy tylko content, tylko w cudzysłowie oczywiście. Tylko, tak?
+
+01:34:42.577 --> 01:34:48.392
+Tworzymy te questy, ale w jakimś naprawdę konkretnym kontekście. Tworzymy te asety i tak dalej, to to się da zaplanować.
+
+01:34:48.582 --> 01:34:55.903
+To się da naprawdę zaplanować dobrze i to nawet budżetować da się sensownie. A wcześniej, to jest kurde bardzo trudne. 
+
+01:34:55.965 --> 01:34:57.589
+- To ja też zacytuję Maćka. 
+
+01:34:57.853 --> 01:35:11.111
+Kiedyś powiedział, że po raz kolejny robi grę, która ma budżet, który nie wystarczy na budżet i to będzie problem, który wygeneruje tylko problem. Mam to nagrane, więc... 
+
+01:35:11.183 --> 01:35:20.179
+- Ej, ale to trochę wracając do tej pierwotnej myśli, od której Borys zaczął, jakżeśmy pytali o tego Unreal Engine. 
+
+01:35:20.399 --> 01:35:32.300
+Tam odpowiedź padła gdzieś po drodze, ale chciałbym się na chwilę przy tym zatrzymać. To jest taki rodzaj technologii, który powoduje, że to AA jutrzejsze może wyglądać jak AAA dzisiejsze? 
+
+01:35:32.532 --> 01:35:44.530
+- Z punktu widzenia wyglądu... Znaczy, ja bym powiedział tak: w kontekście jak już patrzymy na takiego AA vs AAA, to teraz jest też pytanie, czy jesteśmy... 
+
+01:35:44.630 --> 01:35:52.135
+Czy to jest na bycie bleeding edge, czy to jest na contencie. Bo jeżeli robimy grę a'la Ubisoft, to to jest na contencie. 
+
+01:35:52.289 --> 01:36:01.744
+Zauważcie, że gry Ubisoftu z małymi wyjątkami nie są nigdy na bleeding edge, czyli to nie jest coś, co rozwala... 
+- Co to jest bleeding edge, weź mi powiedz. 
+
+01:36:01.834 --> 01:36:12.154
+- Bleednig edge technologiczny, czyli to jest ten najnowszy, najwyższy standard. Nikt nie robi tego lepiej, tak? Czyli na przykład animacje od Naughty Dog. 
+- Okej. 
+
+01:36:12.300 --> 01:36:23.568
+- Oni są zawsze bleeding edge, tak? Oni są na tym topie. Wszyscy inni są kilka lat za nimi, nie? No więc Ubisoft jest... Ten koszt się robi tam na contencie. 
+
+01:36:23.678 --> 01:36:30.718
+Te gry są ogromne, tak? Te gry są ogromne. Mają ogromną ilość contentu. Robi to faktycznie ogromna ilość osób.
+
+01:36:30.780 --> 01:36:38.559
+ Są bardzo systemikowe, są na kilkadziesiąt godzin. Tam się śmieją ludzie na Twitterze, że najnowszego Assassin's Creeda to się praktycznie nie da skończyć, tak?
+
+01:36:38.633 --> 01:36:49.768
+Więc teraz pytanie. I obie te rzeczy są strasznie drogie. Czyli jeżeli chcemy być tak dużą grą, jak gry Ubisoftu, to to będzie dalej strasznie drogie. 
+
+01:36:49.840 --> 01:36:50.723
+- Mhm. 
+
+01:36:50.891 --> 01:36:58.397
+- Jeżeli chcemy być w czymś naj, to to po pierwsze, jeżeli chcemy być w czymś naj, to nie możemy używać Unreala, nie? 
+
+01:36:58.928 --> 01:37:06.964
+To tu właśnie się pojawia. Bo Unreal nigdy nie będzie w niczym naj. Bo Unreal jest zawsze ten krok do tyłu. 
+- Mhm. Mhm. 
+
+01:37:07.146 --> 01:37:12.297
+- No siłą rzeczy używamy jakiejś technologii, która została w jakiś pewien sposób zgeneralizowana. 
+
+01:37:12.481 --> 01:37:17.502
+Do generalnego użytku zawsze specjalizacja będzie lepsza, nie? Czyli Unreal nigdy nie będzie bleeding edge. 
+
+01:37:17.594 --> 01:37:23.159
+W związku z czym, Unreal jest tym, powiedzmy, nie wiem... 90% jakości, jaką jesteśmy w stanie uzyskać. 
+
+01:37:23.221 --> 01:37:34.460
+Załóżmy oczywiście, te liczby to tam, proszę nie brać dosłownie. Ale załóżmy, że Unreal da nam 90% aktualnej jakości, jaką jesteśmy w stanie w Game Devie uzyskać, nie? 
+
+01:37:34.598 --> 01:37:38.710
+ Tam na animacjach zawsze będzie to Naughty Dog trochę lepiej. Może jakaś inna firma to przejmie. 
+
+01:37:38.860 --> 01:37:45.379
+ W open worldach zawsze Rockstar będzie tam krok dalej w jakichś tam generacji miast, czy czegokolwiek innego, tak? 
+
+01:37:45.553 --> 01:37:58.891
+I tak dalej, i tak dalej. Zawsze gdzieś te firmy, które pracują faktycznie na tym froncie będą troszkę do przodu. No i w tym kontekście tak. AA podwyższą swój standard, nie? 
+
+01:37:59.043 --> 01:38:03.459
+- Mhm. 
+- Jakościowy. No ale AAA też. 
+- Tak, tak, tak. 
+
+01:38:03.668 --> 01:38:08.151
+- Jedyne, co się stanie, to się przesuniemy gdzieś tam, tak?
+
+01:38:08.255 --> 01:38:21.058
+I teraz pytanie, bo faktycznie być może przez tule generacyjne na przykład tego typu rzeczy, AA się troszeczkę bardziej otworzą na próbę ścigania, te 90, czy 80%, bo to nigdy nie będzie 100.
+
+01:38:21.208 --> 01:38:26.401
+Ale próby ścigania z takim na przykład Ubisoftem, czy Rockstarem w kontekście open worldów, nie? 
+- Mhm, mhm. 
+
+01:38:26.595 --> 01:38:33.250
+- No bo jeżeli weźmiemy sobie takim atemptem na open worlda w AA to był... Oberwało im się za to, bo nikt nie zrozumiał, że to AA.
+
+01:38:33.404 --> 01:38:37.309
+ To był Biomutant, tak? Na przykład. Biomutant, dobrze mówię?
+- Mhm, tak. 
+
+01:38:37.401 --> 01:38:38.810
+- No. 
+- Tak, tak. 
+
+01:38:38.908 --> 01:38:43.977
+- Więc być może, być może w przyszłości tego typu próby będą bardziej sucessfull, nie? 
+
+01:38:44.167 --> 01:38:52.399
+Natomiast dalej się to sprowadzi po prostu do tego, że tylko ta poprzeczka się przesunie, bo to historia pokazała już wiele razy, tak? Powstawały, nie wiem...
+
+01:38:52.435 --> 01:39:00.304
+Nowe technologie, że na przykład mamy osobne procesory do fizyki i co my nie będziemy teraz mogli zrobić. 
+
+01:39:00.540 --> 01:39:02.433
+ No jak to co? Teraz wszyscy robią to samo, no.
+
+01:39:02.600 --> 01:39:10.220
+ W sensie ta poprzeczka się tylko przesunęła, tak że teraz pytanie, czy masz tę generyczną fizykę, czy zrobiliśmy coś więcej, nie? 
+
+01:39:10.412 --> 01:39:15.955
+Więc o ile ja uważam, znaczy to jest super dla graczy, bo jakość się podniesie, tak? 
+- Mhm. 
+
+01:39:16.101 --> 01:39:22.901
+- Gdzieś tam, ja nie mam na tyle dużo już wiedzy, niestety, jako programista, czy jako developer. 
+
+01:39:22.967 --> 01:39:25.567
+To już bardziej by był podcast z jakimś specjalistą. 
+
+01:39:25.825 --> 01:39:39.755
+Gdzieś tam to rzemiosło i ten pęd za featurami, ten wyścig sprawia, że wcale nie znaczy, że wyższa jakość oznacza wyższą stabilność, że tak powiem. 
+
+01:39:39.955 --> 01:39:47.624
+Łatwość portowania, międzyplatforowość. Fajne działanie. Bo my strasznie pędzimy, nie?
+- Mhm. 
+
+01:39:47.760 --> 01:39:58.209
+- Żyjemy w świecie, w którym robimy strasznie skomplikowane rzeczy przez kilka lat, a jednocześnie co kilka lat mamy jakąś rewolucję na rynku i zmienia się układ. 
+
+01:39:58.407 --> 01:40:03.493
+ I zmieniają się trendy. W związku z czym zależy strasznie tym, którzy wykładają kapitał. 
+
+01:40:03.659 --> 01:40:07.648
+Nie jest problemem dla nikogo... Znaczy nie jest problemem... Trochę przesadzam. 
+
+01:40:07.750 --> 01:40:15.415
+Ale dla takiego Embrassera, czy dla innych takich gigantów nie jest problemem wydać na coś 100 mln, czy 20, czy 30, czy 40. Whatever. It's a number. 
+
+01:40:15.609 --> 01:40:19.374
+- Mhm. 
+- Ale czy mógłbym to mieć za 2 lata, a nie za 4?
+
+01:40:19.636 --> 01:40:28.824
+- Bo za 2 lata zwiększy mi się prawdopodobieństwo, że ja coś przewidzę na trendach i może nie będzie jakiejś wielkiej rewolucji i to się dalej sprzeda, 
+
+01:40:28.982 --> 01:40:31.657
+a za 4 ja już trochę mniej wiem, co się będzie działo.
+
+01:40:31.713 --> 01:40:41.962
+ Bo ten rynek jest taki dynamiczny, nie? Więc jest strasznie wysoki pęd, a pęd robienia rzeczy nie sprawia, że chcemy robić rzeczy dobrze.
+
+01:40:42.094 --> 01:40:48.695
+W sensie tak, rzemieślniczo dobrze, bo chcemy żeby rzeczy były ładne, piękne, innowacyjne i tak dalej, nie?
+
+01:40:48.739 --> 01:40:58.336
+- Mhm, mhm. 
+- No i jak trochę pojedziemy po bandzie, no to wychodzi taki PlayStation 4, nie? Bo gdzieś tam przesadziliśmy, nie? W tym pędzie, po prostu.
+
+01:40:58.466 --> 01:41:08.394
+- Okej. Wiesz, ja mam... To jest taki temat, bo nie wiem, czy to jest ogólna tendencja. Ja mam takie spostrzeżenia, bo też śledzę to, co ludzie lubią ogrywać.
+
+01:41:08.504 --> 01:41:11.450
+I te... Wspomniałeś o Valheimie dzisiaj, nie? 
+- Mhm.
+
+01:41:11.580 --> 01:41:16.453
+- I to też jest taka produkcja, która jest robiona przez ultra małe studio. 
+- 6 osób, z tego co wiem.
+
+01:41:16.619 --> 01:41:26.160
+- No właśnie, ale to są takie gry, które absolutnie są poniżej tego standardu AAA, ale jednak wzbudzają ogromne zainteresowanie i ludzie na to czekają.
+
+01:41:26.300 --> 01:41:31.682
+Jest mnóstwo takich gier, które na Steamie osiągają ogromne wyniki, a nie są robione przez wielkie studia.
+
+01:41:31.862 --> 01:41:40.115
+Więc za każdym razem, kiedy pojawia się technologia, która pozwoli te mniejsze gry robić w wyższej jakości, to jest coś, co myślę, że dużo osób będzie mocno tym zajawionych.
+
+01:41:40.319 --> 01:41:50.342
+Bo wiadomo, że te AAA będą jeszcze wyższej jakości, ale jak się ten standard podnosi tych gier robionych przez małe studia, to myślę, że to znajduje dużo większą grupę odbiorczą.
+
+01:41:50.550 --> 01:41:58.348
+ Wbrew pozorom, bo oczywiście zawsze się mówi o AAA, że to wszyscy na to czekają, ale jednak jak się przyjrzy, zwłaszcza w zeszłym roku,
+
+01:41:58.564 --> 01:42:04.665
+jakie gry były często ogrywane, no to właśnie te, które ty nazywasz AA, nie? Więc to jest...
+
+01:42:04.929 --> 01:42:13.003
+ Z tego względu mnie ta technologia dużo bardziej ciekawi. Nie to, co zrobią wielkie studia z nią, tylko to, co zrobią małe studia. 
+
+01:42:13.203 --> 01:42:17.831
+Ja myślę, że dużo osób też na to czeka i też na to patrzy w ten sposób.
+
+01:42:17.873 --> 01:42:26.402
+- To znaczy, no na pewno jeżeli patrzymy na jakąś super dynamiczną innowację, no to oczywiście, że trzeba patrzeć na Indie scenę i to jest super,
+
+01:42:26.612 --> 01:42:32.650
+ że tam dalej, mimo tego, że ten zwrot na inwestycje jest trudniejszy, niż był.
+
+01:42:32.809 --> 01:42:35.659
+To fajnie, że tam naprawdę dużo ciekawych rzeczy się pojawia.
+
+01:42:35.865 --> 01:42:45.282
+Natomiast jeżeli chcemy patrzeć na topową jakość, no to jednak musimy patrzeć tam, gdzie jest ta największa specjalizacja i gdzie jest na to czas, nie?
+
+01:42:45.388 --> 01:42:50.126
+No ja miałem takie momenty. GTA V było na przykład takim projektem. 
+
+01:42:50.286 --> 01:42:59.555
+Pamiętam, że jak grałem w to jeszcze... Dobrze pamiętam, że jeszcze na PlayStation 3? Jezus Maria. 
+- Mhm, tak, tak. Dobrze pamiętasz. 
+
+01:42:59.681 --> 01:43:04.226
+- Tak, jeszcze na PlayStation 3. No. Więc grałem w to na PlayStation 3 i to jest jeden z takich projektów, co ja nazywam płakanie pod prysznicem, tak?
+
+01:43:04.292 --> 01:43:09.333
+Czyli, że idę pod prysznic i płaczę, żeby nikt nie widział, że płaczę. Dlatego pod prysznicem, bo nigdy takiej gry nie zrobię, nie? 
+
+01:43:09.527 --> 01:43:17.985
+Na zasadzie, jakie to było. Ja pamiętam, że to był taki moment, że w którejś z misji, któraś tam z obowiązkowych misji z głównej fabuły była na... 
+
+01:43:18.147 --> 01:43:26.861
+Torach kolejowych. I zauważyłem, że po prostu moja postać podnosi lekko stopę, żeby geometria nie przeszła przez szynę.
+
+01:43:26.943 --> 01:43:34.665
+I dla mnie, jako dla developera takie było - no naprawdę, no to przecież to jest ten poziom, którego no... Jak? Jak oni mogli do tego...?
+
+01:43:34.850 --> 01:43:39.900
+Teraz oczywiście to trochę mniej zaskakuje, ale wtedy to było dla mnie takie - o mój Boże, jak oni to zrobili?! 
+
+01:43:40.088 --> 01:43:46.464
+A ostatnio tak miałem z The Last Of Us 2 z animacjami, tak? No to animacyjnie to studio absolutnie miażdży.
+
+01:43:46.674 --> 01:43:55.148
+ I też miałem takie, na zasadzie, 20 animatorów bym zatrudnił i bym nie zrobił jednej takiej cutsceny, nie? 
+
+01:43:55.284 --> 01:44:06.063
+Więc, co robi doświadczenie i specjalizacja, i odpowiednie tule i technologia zwijana przez x projektów. 
+
+01:44:06.517 --> 01:44:14.884
+- Borys, mamy coś jeszcze?
+- Myślę, że możemy powoli zamykać. Łukaszu, dziękujemy ci bardzo. 
+
+01:44:15.070 --> 01:44:19.722
+Bardzo długa rozmowa to była. Nie wiem nawet czasem, czy nie rekordowa. 
+- Chyba tak. 
+
+01:44:19.991 --> 01:44:32.050
+- Więc... 
+- Przepraszam bardzo, ale jak ktoś... Ja o Game Devie mogę rozmawiać. O grach i o Game Devie mogę rozmawiać w nieskończoność, więc no, przepraszam. 
+
+01:44:32.222 --> 01:44:34.820
+- Bardzo dobrze. 
+- Absolutnie żeśmy się tego spodziewali przecież. 
+
+01:44:35.091 --> 01:44:44.255
+- Jakby tutaj czasem Jakub Kwinta oglądał, to weź zrób słowniczek z tych wszystkich niezrozumiałych...
+- Pojęć, tak, Łukasza. 
+
+01:44:44.447 --> 01:44:52.947
+- Tak, jak przepraszam za te anglicyzmy. Taka branża. Zwracano mi na to wielokrotnie uwagę, ale jakoś jak rozmawiam o Game Devie naturalnie...
+
+01:44:53.118 --> 01:45:02.037
+Dużo bardziej, jak pewnie zauważyliście, lubię słowo Game Dev, od gamingu. Nie cierpię tego słowa, więc no. 
+
+01:45:02.205 --> 01:45:06.876
+- To jakbyś na giełdę wchodził, to wtedy gaming. 
+
+01:45:07.138 --> 01:45:22.795
+- Sprawdźcie Gamedeca, jeżeli jeszcze nie sprawdziliście. My czekamy na nowe projekty. No i tyle. No i aplikujcie, bo Anshar rekrutuje, więc...
+
+01:45:22.927 --> 01:45:24.998
+- Rekrutujemy. 
+- No właśnie. 
+
+01:45:25.272 --> 01:45:31.895
+- Wszyscy rekrutują, wszyscy rekrutują. Jeżeli ktoś nie rekrutuje, to...
+- To nie żyje, to już nie istnieje ta firma.
+
+01:45:32.035 --> 01:45:36.146
+- To moim zdaniem albo nie właśnie nie ma pieniędzy i jest bardzo bliskie bankructwa. 
+
+01:45:36.232 --> 01:45:46.335
+Aczkolwiek zdarzają się raz na ruski rok takie sytuacje firm, które po prostu nigdy się nie skalują, tak? Jak nie wiem, Infinite Dreams, na przykład, czy Exor Studios. 
+
+01:45:46.423 --> 01:45:54.370
+To są studia, które się nie skalują, ale w 99% przypadków, jeżeli ktoś nie rekrutuje, to bankrutuje. Tak. W tej chwili wszyscy rekrutują. 
+
+01:45:54.466 --> 01:46:06.412
+- No to jest dobra, to jest dobra informacja dla wszystkich młodych, kurde, zapaleńców. 
+- Jak w waszej firmie nie ma ofert pracy nowych, to szukajcie sobie nowej lepiej. 
+
+01:46:06.614 --> 01:46:12.129
+- Pozdrawiamy bardzo serdecznie. Jeszcze raz dziękujemy. 
+- Trzymajcie się. 
+
+01:46:12.388 --> 01:46:16.101
+- Bardzo dziękuję za zaproszenie i pozdrawiam serdecznie. Dziękuję. 
+- Trzymajcie się. Cześć. 
+

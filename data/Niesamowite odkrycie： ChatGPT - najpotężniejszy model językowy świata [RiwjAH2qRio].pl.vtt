@@ -1,0 +1,4933 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:06.000
+Dzień dobry, witamy państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:06.020 --> 00:00:09.720
+Dzień dobry, Remigiuszu. Witam państwa bardzo serdecznie.
+
+00:00:09.740 --> 00:00:14.040
+Ile miłości i miodu zawarłem w tym głosie, to dla państwa, żeby było wszystko jasne.
+
+00:00:14.060 --> 00:00:16.360
+Jak tam? Co tam u ciebie?
+
+00:00:16.380 --> 00:00:24.380
+Pierwsza rzecz, proszę państwa, chciałbym sprostować jedną informację z ostatniego podcastu.
+
+00:00:24.380 --> 00:00:30.380
+Powiedziałem, że nie widać na początku twarzy Isaaca w Dead Space w oryginalnej wersji. Widać.
+
+00:00:30.400 --> 00:00:33.900
+Sprawdziłem, państwo mi wytknęli, ja sprawdziłem, mówię, o i widać.
+
+00:00:33.920 --> 00:00:37.120
+A pamiętałem, że nie widać i byłem bardzo pewny tego.
+
+00:00:37.140 --> 00:00:39.840
+I to taki jest efekt Mandeli, tak? Dobrze?
+
+00:00:39.860 --> 00:00:44.860
+Że pamiętasz tak bardzo mocno, pamiętasz coś, a potem się okazuje, że to było coś zupełnie innego.
+
+00:00:44.880 --> 00:00:50.380
+Dużo jakichś takich jest, nie wiem czy to dokładnie jest efekt Mandeli, ale być może.
+
+00:00:50.400 --> 00:00:53.400
+Od razu widać, kto się częściej myli na podcastach, proszę to zapamiętać.
+
+00:00:53.400 --> 00:01:00.400
+Nieprawda, kto się przyznaje do błędów, to bym tutaj, to rzeczywiście ja, to się zgadzam.
+
+00:01:00.420 --> 00:01:04.120
+To prawda, ja się nigdy nie przyznaję, bo niestety po tym bidzie taki,
+
+00:01:04.140 --> 00:01:07.640
+kto częściej przeprasza, tym częściej popełnia błędy najwyraźniej.
+
+00:01:07.660 --> 00:01:12.160
+Trudno, biorę to absolutnie na klatę.
+
+00:01:12.180 --> 00:01:14.180
+Co tam u mnie słychać, pytasz się Remigiuszu.
+
+00:01:14.200 --> 00:01:16.200
+Jasne, jestem bardzo ciekawy.
+
+00:01:16.220 --> 00:01:22.220
+Jako, że wczoraj siedziałem do czwartej, do czwartej rano.
+
+00:01:22.220 --> 00:01:24.220
+Wczoraj czy dzisiaj?
+
+00:01:24.240 --> 00:01:30.240
+Dzisiaj, ale wczoraj, no tak, ale wczoraj siedziałem, z perspektywy mojej,
+
+00:01:30.260 --> 00:01:35.260
+to też wczoraj siedziałem w nocy i zostałem programistą.
+
+00:01:35.280 --> 00:01:40.280
+Nice, właśnie potrzebowaliśmy kogoś z programisty nowego.
+
+00:01:40.300 --> 00:01:46.300
+Oficjalnie zostałem, jeżeli tu jest poziom zero, że się nic nie umie,
+
+00:01:46.300 --> 00:01:52.800
+to ja już proszę państwa po tych naprawdę wielu godzinach spędzonych nad orką,
+
+00:01:52.820 --> 00:01:56.820
+że tak powiem, to ja już jestem tak na takim etapie, że to jest zero,
+
+00:01:56.840 --> 00:02:01.840
+to jestem 0,0001.
+
+00:02:01.860 --> 00:02:04.860
+Nice, możesz zrobić nowego Mariana.
+
+00:02:04.880 --> 00:02:09.880
+Nie, nic nie umiem jeszcze zrobić, ale będziemy o tym mówić.
+
+00:02:09.900 --> 00:02:15.900
+Proszę państwa, jeżeli, bo tak jak mówiłem, pewne rzeczy chciałbym zautomatyzować.
+
+00:02:15.900 --> 00:02:21.900
+Kamil u nas na grupie, pozdrawiam serdecznie naszego widza słuchacza,
+
+00:02:21.920 --> 00:02:29.920
+wrzucił taki, że tam jest, że OpenAI może robić napisy na przykład do filmów na YouTubie czy podcastów, nie?
+
+00:02:29.940 --> 00:02:32.940
+Ja mówię, dobrze, no to ja to chcę.
+
+00:02:32.960 --> 00:02:37.960
+Bardzo bym chciał, żeby nasz każdy podcast miał napisy.
+
+00:02:37.980 --> 00:02:39.980
+No i siedziałem, siedziałem.
+
+00:02:39.980 --> 00:02:45.980
+Ale najbardziej, oczywiście jest to prosty skrypt tak naprawdę w Pythonie
+
+00:02:46.000 --> 00:02:51.000
+i strasznie poległem na budowie środowiska programistycznego.
+
+00:02:51.020 --> 00:02:57.020
+Znaczy naprawdę, gdyby nie chat GPT, którego pytałem się co chwilę o najprostsze rzeczy,
+
+00:02:57.040 --> 00:02:59.040
+to bym nic tam nie ogarnął.
+
+00:02:59.060 --> 00:03:05.060
+Trochę się udało ogarnąć, bardziej za pomocą środowiska cloudowego,
+
+00:03:05.060 --> 00:03:10.060
+ale chciałbym mieć takie środowisko u siebie na komputerze.
+
+00:03:10.080 --> 00:03:12.080
+Serio, to jest...
+
+00:03:12.100 --> 00:03:17.100
+Ja najbardziej wkopałem się, w pewnym momencie się zablokowałem,
+
+00:03:17.120 --> 00:03:20.120
+bo okazało się, że miałem dwie wersje tego Pythona,
+
+00:03:20.140 --> 00:03:23.140
+bo na Macu jest automatycznie chyba wersja druga.
+
+00:03:23.160 --> 00:03:25.660
+Ja instalowałem trzecią i robiłem na trzecią,
+
+00:03:25.680 --> 00:03:28.180
+ale te komendy odwoływały się do drugiej.
+
+00:03:28.200 --> 00:03:33.700
+Po prostu jakiś mindfuck, znaczy ja tego nie rozumiem, żeby nie było wątpliwości.
+
+00:03:33.700 --> 00:03:38.700
+Wszystkie te komendy, wszystkie errory, błędy, które mi się pojawiały
+
+00:03:38.720 --> 00:03:40.720
+i których nie rozumiałem oczywiście,
+
+00:03:40.740 --> 00:03:43.740
+wklepywałem, kopiowałem kopiuj-wklej do chat GPT.
+
+00:03:43.760 --> 00:03:47.760
+Chat GPT mówi, że to jest błąd taki, spróbuj to, to i to.
+
+00:03:47.780 --> 00:03:52.780
+Albo i tu masz poprawiony kod, więc dobrze, tak będę robił.
+
+00:03:52.800 --> 00:03:57.800
+Powinieneś tę historię zacząć od tego, że państwo pewnie widzą napisy u nas teraz na podcaście.
+
+00:03:57.820 --> 00:04:00.820
+Nie, nie widzą, nie sądzę, żeby...
+
+00:04:00.840 --> 00:04:02.840
+Ale jeden odcinek wiem, że zrobiłeś.
+
+00:04:02.840 --> 00:04:06.340
+Zrobiłem testowo, wrzuciłem specjalnie, proszę państwa,
+
+00:04:06.360 --> 00:04:11.360
+odcinek o konferencji Microsoftu, wrzuciłem specjalnie bez żadnej korekty.
+
+00:04:11.380 --> 00:04:13.880
+Żeby każdy z was mógł sobie zobaczyć.
+
+00:04:13.900 --> 00:04:18.900
+Transkrypcja tego trwała jakieś 20 minut chyba, niecałe.
+
+00:04:18.920 --> 00:04:22.420
+Wypluło mi już taki plik, który był gotowy do wrzucenia.
+
+00:04:22.440 --> 00:04:26.440
+Ja po prostu wrzucam plik i to wszystko tam jest timestampy, wszystko się zgadza, nie?
+
+00:04:26.460 --> 00:04:29.460
+Zresztą widziałeś, bo ci się chwaliłem oczywiście.
+
+00:04:29.480 --> 00:04:30.480
+Tak, tak widziałem.
+
+00:04:30.500 --> 00:04:32.500
+Wszędzie się pochwaliłem po prostu.
+
+00:04:32.500 --> 00:04:34.500
+Fajnie to wygląda, to prawda.
+
+00:04:34.520 --> 00:04:42.520
+I widzę już cel, jeszcze jest daleka droga, żeby to było takie gładkie.
+
+00:04:42.540 --> 00:04:46.540
+Właściwie to chciałbym, żeby to była taka automatyzacja,
+
+00:04:46.560 --> 00:04:55.060
+że to sprawdza, czy jest nowy film, jak jest, ściąga sobie mp3,
+
+00:04:55.080 --> 00:05:01.080
+transkoduje to i robi transkrypcję i od razu wrzuca do YouTube'a też.
+
+00:05:01.080 --> 00:05:03.080
+Musiałbyś mu dać moje hasła do YouTube'a.
+
+00:05:03.100 --> 00:05:09.100
+Nie, mam podpięte twoje hasła do... Nie, to API tam sobie z YouTube'a.
+
+00:05:09.120 --> 00:05:14.120
+Widziałem, że to jest do zrobienia, bo to moje konto jest.
+
+00:05:14.140 --> 00:05:17.140
+Tam nie dotyka się twoje konto do tego.
+
+00:05:17.160 --> 00:05:18.160
+Ale zobaczymy.
+
+00:05:18.180 --> 00:05:21.180
+Nasze konta się nie dotykają całej szyi jeszcze.
+
+00:05:21.200 --> 00:05:25.200
+Nie dotykają się, tak.
+
+00:05:25.220 --> 00:05:29.220
+Fajnie by było, żeby to było rzeczywiście takie zautomatyzowane.
+
+00:05:29.220 --> 00:05:32.220
+Już mi ludzie na grupie podpowiedzieli takie rzeczy,
+
+00:05:32.240 --> 00:05:34.240
+że np. jak są jakieś błędy, które się powtarzają,
+
+00:05:34.260 --> 00:05:37.260
+np. ty powiedziałaś witamy w podcaście Rock i Boris,
+
+00:05:37.280 --> 00:05:42.280
+a on przepisał to jako Rocky, Boris.
+
+00:05:42.300 --> 00:05:43.300
+Rocky.
+
+00:05:43.320 --> 00:05:49.320
+I no to jest też prostym jedną linijką kodu można zrobić tak,
+
+00:05:49.340 --> 00:05:53.340
+że jeżeli wykryjesz Rocky, Boris, to zamień na Rock i Boris.
+
+00:05:53.360 --> 00:05:54.360
+Nie?
+
+00:05:54.360 --> 00:05:59.360
+Nie, no dla mnie to jest naprawdę, muszę przyznać, że
+
+00:05:59.380 --> 00:06:02.380
+nigdy nie miałem nic wspólnego z programowaniem.
+
+00:06:02.400 --> 00:06:07.400
+Jedyne takie najbardziej zaawansowane rzeczy to były CSS i HTML.
+
+00:06:07.420 --> 00:06:09.420
+To jest max mój naprawdę.
+
+00:06:09.440 --> 00:06:14.440
+I jakby to wejście, bo jak zaczynałem się bawić
+
+00:06:14.460 --> 00:06:17.960
+i popatrzyłem sobie na ten kod na GitHub'ie,
+
+00:06:17.980 --> 00:06:20.980
+jak to w ogóle powinno wyglądać, jakie są...
+
+00:06:21.000 --> 00:06:23.500
+No dobra, niewiele z tego rozumiem, zobaczymy.
+
+00:06:23.500 --> 00:06:26.500
+To teraz już patrzę i mówię, no to jest proste.
+
+00:06:26.520 --> 00:06:31.520
+Ale te sześć tam godzin później płakania, że tak powiem.
+
+00:06:31.540 --> 00:06:34.540
+Ale jest, mogą państwo już zobaczyć te efekty.
+
+00:06:34.560 --> 00:06:38.560
+Ja jeszcze sobie popracuję nad tym, mam dobrego kolegę Jacka,
+
+00:06:38.580 --> 00:06:43.580
+pozdrawiam, który jest doświadczonym programistą,
+
+00:06:43.600 --> 00:06:46.600
+który mówi, to nie AI wam zabierze pracę,
+
+00:06:46.620 --> 00:06:50.620
+tylko ludzie, którzy ogarną to AI przed wami.
+
+00:06:50.620 --> 00:06:56.620
+To jest bardzo ważna rzecz a propos dzisiejszej naszej dyskusji.
+
+00:06:56.640 --> 00:07:01.640
+Tak. No i on może mi to pomoże i będę już sobie tam robił.
+
+00:07:01.660 --> 00:07:04.660
+Mocno mam komputer, więc szybko to idzie, nie?
+
+00:07:04.680 --> 00:07:06.680
+No, bardzo fajna rzecz.
+
+00:07:06.700 --> 00:07:11.700
+Oglądałem nowy serial jeszcze na Apple, nazywasz je Shrink chyba?
+
+00:07:11.720 --> 00:07:13.720
+O psychiatrze?
+
+00:07:13.740 --> 00:07:15.740
+To z Harrisonem Fordem?
+
+00:07:15.760 --> 00:07:18.760
+Tak, to ten serial.
+
+00:07:18.760 --> 00:07:21.760
+I obejrzałem dwa odcinki, bo dwa odcinki są dostępne
+
+00:07:21.780 --> 00:07:25.780
+i mam bardzo dużo pozytywnych opinii.
+
+00:07:25.800 --> 00:07:27.800
+To dobrze, to dobrze.
+
+00:07:27.820 --> 00:07:29.820
+Że oglądałem, podobał mi się i czekam na...
+
+00:07:29.840 --> 00:07:32.840
+Taki ma vibe The Dallasu trochę ten serial.
+
+00:07:32.860 --> 00:07:39.860
+I jest trochę smutny, trochę zabawny i taki, że tak przyjemnie się ogląda.
+
+00:07:39.880 --> 00:07:43.880
+Ja muszę, my żeśmy skończyli z żoną oglądać właśnie Biały Lotos,
+
+00:07:43.880 --> 00:07:48.880
+Biały Lotos jest po polsku, prawda? Czy Lotos? Biały, White Lotos?
+
+00:07:48.900 --> 00:07:50.900
+No, mniejsza z tym.
+
+00:07:50.920 --> 00:07:54.920
+I w związku z tym, żeśmy skończyli oglądać, to wielkie dziury pozostały w naszych sercach,
+
+00:07:54.940 --> 00:07:57.940
+bo to jest taki serial, którego trudno wypełnić po tym czymś innym.
+
+00:07:57.960 --> 00:08:04.960
+I zaczęliśmy oglądać Stewardessę na HBO, z tą taką dziewczyną z Wielkiego Wybuchu,
+
+00:08:04.980 --> 00:08:07.980
+z teorii Wielkiego Wybuchu. Bardzo, bardzo przyjemnie się ogląda.
+
+00:08:08.000 --> 00:08:11.000
+Też taka trochę czarna komedia, więc moja żona jest zadowolona.
+
+00:08:11.000 --> 00:08:14.000
+A jak żona jest zadowolona, to co? To mąż też szczęśliwy.
+
+00:08:14.020 --> 00:08:18.020
+No ciekawe, no nie miał chyba z najlepszej opinii ten serial, muszę przyznać.
+
+00:08:18.040 --> 00:08:22.040
+No wiem, wiem, nie miał, nie miał. Moja żona powiedziała, oceniany na 6,9, idealny dla nas.
+
+00:08:22.060 --> 00:08:25.060
+W sensie... Nie, nie, nie, czekaj, czekaj.
+
+00:08:25.080 --> 00:08:27.080
+Nie, chodzi mi o to, żeby...
+
+00:08:27.100 --> 00:08:31.100
+Nie, nie, nie, to jest absolutny zbieg okoliczności.
+
+00:08:31.120 --> 00:08:33.120
+Nie, nie, nie, nie, nie. Chciałem rzec, chciałem...
+
+00:08:33.140 --> 00:08:37.140
+Nie, nie, nie, nie, nie. Proszę się, to nie było absolutnie żadnego podtekstu.
+
+00:08:37.160 --> 00:08:40.160
+Moja żona uważa, że my nie mamy specjalnego...
+
+00:08:40.160 --> 00:08:43.160
+No proszę cię, uspokój to.
+
+00:08:43.180 --> 00:08:44.180
+Już przepraszam.
+
+00:08:44.200 --> 00:08:47.200
+Moja żona mówi, że my nie lubimy przesadnie ambitnych rzeczy.
+
+00:08:47.220 --> 00:08:50.220
+Jeżeli ludzie oceniają powyżej 7, to już nam się tak z reguły nie podoba,
+
+00:08:50.240 --> 00:08:56.240
+albo nas nudzi. Więc 6,9, jakkolwiek by to nie już miało, jest to dla nas bardzo dobry wynik.
+
+00:08:56.260 --> 00:08:58.260
+Dobrze, dobrze, dobrze.
+
+00:08:58.280 --> 00:09:00.280
+To miałem na myśli, to kompletnie...
+
+00:09:00.300 --> 00:09:03.300
+Taki udany żart i przemknął się zupełnie niespodziewanie.
+
+00:09:03.320 --> 00:09:05.320
+Dobrze, dobrze.
+
+00:09:05.340 --> 00:09:08.340
+Doskonałe, doskonałe. Na pewno żona zadowolona będzie.
+
+00:09:08.340 --> 00:09:11.340
+No więc, no i gram sobie w Dead Space'a jeszcze.
+
+00:09:11.360 --> 00:09:14.360
+W High Rush, High Fire Rush gram jeszcze.
+
+00:09:14.380 --> 00:09:16.380
+Dead Space'a to po prostu też...
+
+00:09:16.400 --> 00:09:20.400
+Przedwczoraj w nocy grałem to chyba do drugiej, co? Jezu.
+
+00:09:20.420 --> 00:09:22.420
+No majty pełne, nie?
+
+00:09:22.440 --> 00:09:26.440
+Ale rzeczywiście ten backtracking jest dosyć, dosyć, dosyć mocny
+
+00:09:26.460 --> 00:09:30.460
+i też jak już my jesteśmy coraz mocniejsi, to może jest nie aż tak straszny,
+
+00:09:30.480 --> 00:09:34.480
+ale ta atmosfera rzeczywiście i te dużo takich losowych rzeczy,
+
+00:09:34.500 --> 00:09:37.500
+które się dzieje, to otrzymają w napięciu.
+
+00:09:37.500 --> 00:09:39.500
+No świetna gra, podtrzymuję cały czas.
+
+00:09:39.520 --> 00:09:41.520
+Jak skończę, to jeszcze państwu dam znać.
+
+00:09:41.540 --> 00:09:42.540
+A ty skończyłeś?
+
+00:09:42.560 --> 00:09:44.560
+Tak, to prawda. Nie, nie, jeszcze jestem...
+
+00:09:44.580 --> 00:09:46.580
+Chyba mam już za sobą ponad 11 godzin.
+
+00:09:46.600 --> 00:09:49.100
+To jest znacznie dłużej niż się podaje w oficjalnych informacjach
+
+00:09:49.120 --> 00:09:52.120
+na temat czasu przejścia, ale wiesz, ja powoli idę, nie?
+
+00:09:52.140 --> 00:09:54.140
+Każda stacja zapisu, nie można jej ominąć.
+
+00:09:54.160 --> 00:09:58.160
+Opowiadam też historie swoje, czytam te wszystkie pamiętniki,
+
+00:09:58.180 --> 00:10:01.180
+dane i przesłuchuję te radiowe komunikaty,
+
+00:10:01.200 --> 00:10:04.200
+więc ja się nie spieszę z tym, ale już mam takie...
+
+00:10:04.220 --> 00:10:06.720
+Już mam dwie godziny dziennie, to jest mój limit.
+
+00:10:06.720 --> 00:10:08.720
+Powyżej tego to już po prostu serce mi staje,
+
+00:10:08.740 --> 00:10:10.240
+więc muszę sobie robić odpoczynek.
+
+00:10:10.260 --> 00:10:12.260
+Mam nadzieję, że zdążę przed Hogwarts Legacy,
+
+00:10:12.280 --> 00:10:14.280
+o którym też pewnie dzisiaj pogadamy.
+
+00:10:14.300 --> 00:10:17.300
+Chociaż dzisiaj pogadamy sobie pewnie dłużej o czacie,
+
+00:10:17.320 --> 00:10:19.320
+bo mnie też to interesuje, czacie G5A.
+
+00:10:19.340 --> 00:10:21.340
+Z rzeczy, które mnie ostatnio zajmują,
+
+00:10:21.360 --> 00:10:23.860
+to obiecałem, obiecałem mojej córce,
+
+00:10:23.880 --> 00:10:26.880
+że zrobię jej rogaliki z nutellą.
+
+00:10:26.900 --> 00:10:28.900
+Do tego potrzebuję ciasta francuskiego,
+
+00:10:28.920 --> 00:10:30.420
+co jest bardzo proste do zrobienia.
+
+00:10:30.440 --> 00:10:33.440
+Bierzesz ciasto francuskie, zawiązujesz tam w pętelkę,
+
+00:10:33.440 --> 00:10:36.940
+wsadzasz do środka nutellę albo jakiś kawałek czekolady.
+
+00:10:36.960 --> 00:10:39.460
+Ale żona mnie uświadomiła, że ciasto francuskie
+
+00:10:39.480 --> 00:10:41.980
+w stu gramach ma ponad 500 kalorii.
+
+00:10:42.000 --> 00:10:44.000
+I myślę sobie, ja nie wiem, jak oni to robią.
+
+00:10:44.020 --> 00:10:46.520
+To jest, wiesz, to jest taki... Odpowiedź na problemy Afryki.
+
+00:10:46.540 --> 00:10:49.540
+Wiesz, wysłać dużo ciasta francuskiego, tam na kamieniu położysz.
+
+00:10:49.560 --> 00:10:51.560
+500 kalorii, panie?
+
+00:10:51.580 --> 00:10:54.580
+To strasznie gigantyczne ilości, to jest niepokojące.
+
+00:10:54.600 --> 00:10:58.000
+Jakże są to skuteczne kalorycznie rzeczy
+
+00:10:58.020 --> 00:11:00.020
+i jak będę musiał się trzymać z daleka od tych rogalików,
+
+00:11:00.040 --> 00:11:02.040
+co ja je osobiście zrobię.
+
+00:11:02.040 --> 00:11:04.540
+Więc tak. Takie, takie są rzeczy.
+
+00:11:04.560 --> 00:11:05.560
+Inni zjedzą.
+
+00:11:05.580 --> 00:11:07.580
+A skoro ty żeś się dopiero o czwartej położył,
+
+00:11:07.600 --> 00:11:09.600
+to ja wstałem o piątej rano, bo spać nie mogłem.
+
+00:11:09.620 --> 00:11:11.620
+Tyle mnie rzeczy prześladowało.
+
+00:11:11.640 --> 00:11:13.140
+Wiało tak mocno.
+
+00:11:13.160 --> 00:11:15.160
+A wiało też. Tak, pogoda się we Wrocławiu popsuła.
+
+00:11:15.180 --> 00:11:17.180
+Jest zimno, pada deszcz, czasami ze śniegiem.
+
+00:11:17.200 --> 00:11:18.200
+I wieje.
+
+00:11:18.220 --> 00:11:20.220
+Ale poza tym, w zasadzie niewiele się wydarzyło.
+
+00:11:20.240 --> 00:11:23.240
+Poza tym, że tego Dead Space'a oczywiście też pochwalam.
+
+00:11:23.260 --> 00:11:24.760
+I też państwa zachęcam.
+
+00:11:24.780 --> 00:11:27.880
+I też muszę przyznać, że dotknęło mnie bardzo
+
+00:11:27.900 --> 00:11:30.900
+to, ten, ten hype na Hogwarts Legacy,
+
+00:11:30.900 --> 00:11:32.900
+i ostatnie pokazy, i materiały, które
+
+00:11:32.920 --> 00:11:34.920
+przywieźli dziennikarze są zacne.
+
+00:11:34.940 --> 00:11:36.940
+Ale to sobie potraktujemy jako temat drugorzędny,
+
+00:11:36.960 --> 00:11:38.460
+więc nie będę się wgłębiał w to.
+
+00:11:38.480 --> 00:11:40.480
+Bo pewnie zaczniemy od tego, co
+
+00:11:40.500 --> 00:11:42.500
+podejrzewam, nas najbardziej interesuje.
+
+00:11:42.520 --> 00:11:44.020
+Czyli od czata, prawda?
+
+00:11:44.040 --> 00:11:45.240
+Tak, proszę państwa.
+
+00:11:45.260 --> 00:11:47.260
+Chociaż, wiesz co, ja mam jeszcze
+
+00:11:47.280 --> 00:11:49.280
+jedną rzecz, nawiązując do, do...
+
+00:11:49.300 --> 00:11:52.100
+Boże, jak on się nazywa?
+
+00:11:52.120 --> 00:11:55.120
+Ten taki tiktoker, co robi
+
+00:11:55.140 --> 00:11:57.140
+propisowskie tiktoki.
+
+00:11:57.160 --> 00:11:59.160
+Nie wiem.
+
+00:11:59.160 --> 00:12:01.160
+Nie pamiętam.
+
+00:12:01.180 --> 00:12:03.680
+Jak widać, nie jesteśmy wielkimi fanami.
+
+00:12:03.700 --> 00:12:05.700
+Filip Zabielski, proszę państwa.
+
+00:12:05.720 --> 00:12:09.720
+UOKiK, biuro prasowe UOKiKu
+
+00:12:09.740 --> 00:12:11.740
+napisało, że prezes UOKiKu
+
+00:12:11.760 --> 00:12:13.760
+nie może weryfikować poprawności
+
+00:12:13.780 --> 00:12:15.780
+oznaczania ewentualnej współpracy
+
+00:12:15.800 --> 00:12:17.800
+influencerów z partiami politycznymi,
+
+00:12:17.820 --> 00:12:19.820
+związkami wyznaniowymi,
+
+00:12:19.840 --> 00:12:24.340
+organizacjami pożytku publicznego
+
+00:12:24.360 --> 00:12:26.360
+i temu podobnymi, które nie zawierają
+
+00:12:26.380 --> 00:12:27.880
+przekazu handlowego.
+
+00:12:27.880 --> 00:12:31.380
+Czyli nie będzie zajmował się sprawą...
+
+00:12:31.400 --> 00:12:33.400
+Jak to nie zawierają przekazu handlowego?
+
+00:12:33.420 --> 00:12:35.420
+Już przehandlował swoją duszę.
+
+00:12:35.440 --> 00:12:37.440
+Ale no, nie sprzedaje...
+
+00:12:37.460 --> 00:12:39.460
+Znaczy, właśnie...
+
+00:12:39.480 --> 00:12:41.980
+Czy handel i usługi też
+
+00:12:42.000 --> 00:12:44.000
+UOKiK rozróżnia, że na przykład...
+
+00:12:44.020 --> 00:12:46.020
+No ja nie wiem, nie wiem, czy to ma
+
+00:12:46.040 --> 00:12:47.540
+miejsce, czy to ma sens.
+
+00:12:47.560 --> 00:12:49.560
+Dostałeś kasę za zrobienie konkursu.
+
+00:12:49.580 --> 00:12:50.580
+Chociaż, no nie.
+
+00:12:50.600 --> 00:12:52.100
+No jest to reklama.
+
+00:12:52.120 --> 00:12:54.120
+Już czego?
+
+00:12:54.140 --> 00:12:56.640
+Czy wyborca to jest konsument?
+
+00:12:56.640 --> 00:12:58.640
+Może to w tą stronę trzeba byłoby...
+
+00:12:58.660 --> 00:13:00.660
+No tak, ale z drugiej strony
+
+00:13:00.680 --> 00:13:04.180
+czy taka płatna, czy niepłatna,
+
+00:13:04.200 --> 00:13:06.200
+czy jakakolwiek agitacja,
+
+00:13:06.220 --> 00:13:08.220
+jak to powinno wyglądać?
+
+00:13:08.240 --> 00:13:11.240
+No trochę tak powiem szczerze, że...
+
+00:13:11.260 --> 00:13:13.260
+Ja mam takie poczucie, że jednak
+
+00:13:13.280 --> 00:13:15.780
+powinno być takie rzeczy opłacane.
+
+00:13:15.800 --> 00:13:17.300
+Chociaż rząd się upiera, że
+
+00:13:17.320 --> 00:13:19.820
+nie dostał żadnych pieniędzy za to.
+
+00:13:19.840 --> 00:13:21.840
+Ciśnie tam kolejne już te tiktoki.
+
+00:13:21.860 --> 00:13:23.860
+Jest to mało prawdopodobne?
+
+00:13:23.880 --> 00:13:25.880
+Może ma, wiesz...
+
+00:13:25.880 --> 00:13:27.880
+Wziął sobie tam
+
+00:13:27.900 --> 00:13:29.900
+rozważył różne rzeczy i uznał, hej
+
+00:13:29.920 --> 00:13:31.920
+to może być dobry początek kariery politycznej.
+
+00:13:31.940 --> 00:13:33.940
+Nie?
+
+00:13:33.960 --> 00:13:36.960
+Być może...
+
+00:13:36.980 --> 00:13:38.980
+Może zostanie członkiem jednego.
+
+00:13:39.000 --> 00:13:41.000
+Chociaż nie ma to sensu.
+
+00:13:41.020 --> 00:13:43.020
+No ale to tiktoker.
+
+00:13:43.040 --> 00:13:45.040
+No już ma skandal, czy ten...
+
+00:13:45.060 --> 00:13:47.060
+Był tam częścią jakiejś
+
+00:13:47.080 --> 00:13:49.080
+afery budowlanej.
+
+00:13:49.100 --> 00:13:51.100
+To znaczy...
+
+00:13:51.120 --> 00:13:53.120
+Ty więcej wiesz na niego temat,
+
+00:13:53.140 --> 00:13:55.140
+niż próbujesz udawać, że nie wiesz.
+
+00:13:55.140 --> 00:13:57.140
+Ja jestem fanem Fame MMA.
+
+00:13:57.160 --> 00:13:59.160
+No to raczej nie wiem, czy to jest
+
+00:13:59.180 --> 00:14:01.180
+czy kariera... Chociaż z drugiej strony
+
+00:14:01.200 --> 00:14:03.200
+polityka, to dużo tam ciekawych rzeczy
+
+00:14:03.220 --> 00:14:05.220
+może być. No ale to dla mnie takie
+
+00:14:05.240 --> 00:14:07.240
+eee... Trochę...
+
+00:14:07.260 --> 00:14:09.260
+Trochę się zawiodłem.
+
+00:14:09.280 --> 00:14:11.280
+A z drugiej strony...
+
+00:14:11.300 --> 00:14:13.300
+Każdy sobie tam wiesz...
+
+00:14:13.320 --> 00:14:15.320
+Serio?
+
+00:14:15.340 --> 00:14:17.340
+Aktorzy też się angażowali politycznie gdzieś tam.
+
+00:14:17.360 --> 00:14:19.360
+Czyli ci influencerzy sprzed dziesięcioleci.
+
+00:14:19.380 --> 00:14:21.380
+Wiesz co, inaczej jest jak się
+
+00:14:21.400 --> 00:14:23.400
+angażujesz i mówisz,
+
+00:14:23.400 --> 00:14:25.400
+że tutaj popieramy
+
+00:14:25.420 --> 00:14:27.420
+słuszną rację, czy jednego
+
+00:14:27.440 --> 00:14:29.440
+jakiegoś polityka.
+
+00:14:29.460 --> 00:14:31.460
+A inaczej, gdy robisz taki sponsorowany materiał.
+
+00:14:31.480 --> 00:14:33.480
+No może rzeczywiście
+
+00:14:33.500 --> 00:14:35.500
+masz rację, że to jest praktycznie to samo, ale...
+
+00:14:35.520 --> 00:14:37.520
+Nie, nie, to nie chodzi o to, że mam rację, czy nie mam racji.
+
+00:14:37.540 --> 00:14:39.540
+Mi też się to nie podoba.
+
+00:14:39.560 --> 00:14:41.560
+Niefajne to jest, ale...
+
+00:14:41.580 --> 00:14:43.580
+Ostatecznie ci wszyscy
+
+00:14:43.600 --> 00:14:45.600
+dwunastoletni... Co ja mówię? Przesadzę.
+
+00:14:45.620 --> 00:14:47.620
+Przepraszam. Siedmioletni wyborcy
+
+00:14:47.640 --> 00:14:49.640
+polecą durn z piano na ustach.
+
+00:14:49.660 --> 00:14:51.660
+No widzisz, no jak jest...
+
+00:14:51.660 --> 00:14:54.660
+Z drugiej strony
+
+00:14:54.680 --> 00:14:56.680
+można mówić, że na TikToku są
+
+00:14:56.700 --> 00:14:58.700
+siedmiolatki, ale ja tam
+
+00:14:58.720 --> 00:15:00.720
+znajduję sporo ciekawych rzeczy dla siebie.
+
+00:15:00.740 --> 00:15:02.740
+I ostatnio wróciłem trochę do TikToka
+
+00:15:02.760 --> 00:15:04.760
+i trochę rzeczy tam jest
+
+00:15:04.780 --> 00:15:06.780
+ciekawych.
+
+00:15:06.800 --> 00:15:08.800
+Ojej, no nie, nie. Ja oczywiście przesadzam.
+
+00:15:08.820 --> 00:15:10.820
+Ja lubię się obieśmieszkować.
+
+00:15:10.840 --> 00:15:12.840
+Wiem, że dorośli użytkownicy także
+
+00:15:12.860 --> 00:15:14.860
+korzystają z TikToka. Pozdrawiam bardzo serdecznie
+
+00:15:14.880 --> 00:15:16.880
+wszystkich państwa. Proszę nie brać tego do siebie.
+
+00:15:16.900 --> 00:15:18.900
+Nawet i w większości.
+
+00:15:18.920 --> 00:15:20.920
+Dobrze, no to jakby to taki temat,
+
+00:15:20.920 --> 00:15:22.920
+tylko taki zajawiony.
+
+00:15:22.940 --> 00:15:24.940
+Proszę państwa,
+
+00:15:24.960 --> 00:15:26.960
+my sobie dzisiaj porozmawiamy o tym, że
+
+00:15:26.980 --> 00:15:28.980
+szkoły zakazują czatu GPT,
+
+00:15:29.000 --> 00:15:31.000
+którego będziemy teraz nazywać
+
+00:15:31.020 --> 00:15:33.020
+czatem GPT. Jakby ktoś
+
+00:15:33.040 --> 00:15:35.040
+nie zauważył,
+
+00:15:35.060 --> 00:15:37.060
+że to jest jedna i ta sama rzecz.
+
+00:15:37.080 --> 00:15:39.080
+Ale to jest...
+
+00:15:39.100 --> 00:15:41.100
+To będzie tylko trochę taki wstęp
+
+00:15:41.120 --> 00:15:43.120
+do tego tematu, bo ja bym chciał
+
+00:15:43.140 --> 00:15:45.140
+zaprosić gościa i porozmawiać sobie
+
+00:15:45.160 --> 00:15:47.160
+o tym czacie, o tych możliwościach.
+
+00:15:47.180 --> 00:15:49.180
+Chciałbym ciebie tutaj
+
+00:15:49.180 --> 00:15:51.180
+też pocisnąć, żebyś popracował na tym czacie,
+
+00:15:51.200 --> 00:15:53.200
+bo ja dużo korzystam.
+
+00:15:53.220 --> 00:15:55.220
+Czat GPT to jest dla mnie
+
+00:15:55.240 --> 00:15:57.240
+obok
+
+00:15:57.260 --> 00:15:59.260
+Google'a to jest takie
+
+00:15:59.280 --> 00:16:01.280
+podstawowe narzędzie. Dużo rzeczy sprawdzam.
+
+00:16:01.300 --> 00:16:03.300
+Dużo łatwiej,
+
+00:16:03.320 --> 00:16:05.320
+sprawniej mi idzie pewne rzeczy.
+
+00:16:05.340 --> 00:16:07.340
+Pewne nie, wiadomo, ale
+
+00:16:07.360 --> 00:16:09.360
+dużo korzystam. Nawet płacę za to.
+
+00:16:09.380 --> 00:16:11.380
+Ja też właśnie chętnie bym zapłacił.
+
+00:16:11.400 --> 00:16:13.400
+Za każdym razem,
+
+00:16:13.420 --> 00:16:15.420
+jak wchodzę na czat GPT, to mam informację,
+
+00:16:15.440 --> 00:16:17.440
+że jest przeładowany, bo jest bardzo popularny.
+
+00:16:17.440 --> 00:16:19.440
+Co się wcale, wcale się nie dziwię
+
+00:16:19.460 --> 00:16:21.460
+zresztą. I
+
+00:16:21.480 --> 00:16:23.480
+nawet nie wiedziałem, jakby ten marketing
+
+00:16:23.500 --> 00:16:25.500
+wokół, bo wchodzę na ich stronę, czyli tą
+
+00:16:25.520 --> 00:16:27.520
+czata, tą OpenAI. Dosłowną.
+
+00:16:27.540 --> 00:16:29.540
+I nie ma tam żadnej opcji
+
+00:16:29.560 --> 00:16:31.560
+tam zapłacisz, to wejdziesz. Jakby była,
+
+00:16:31.580 --> 00:16:33.580
+to bym od razu skorzystał. Więc
+
+00:16:33.600 --> 00:16:35.600
+nie jest to tak na pierwszym planie
+
+00:16:35.620 --> 00:16:37.620
+wyszczególnione, ale jeżeli można płacić, to też
+
+00:16:37.640 --> 00:16:39.640
+sobie skorzystam na pewno. Jakby z racji
+
+00:16:39.660 --> 00:16:41.660
+badawczej, to jest jedna rzecz,
+
+00:16:41.680 --> 00:16:43.680
+żebyśmy mieli o czym gadać, ale też
+
+00:16:43.700 --> 00:16:45.700
+być może jako narzędzie użytkowe także mi się może
+
+00:16:45.700 --> 00:16:47.700
+przydać. Więc na pewno będę korzystał.
+
+00:16:47.720 --> 00:16:49.720
+Natomiast, jeżeli
+
+00:16:49.740 --> 00:16:51.740
+chodzi o te tematy, bo zacząłeś
+
+00:16:51.760 --> 00:16:53.760
+od szkolnictwa.
+
+00:16:53.780 --> 00:16:55.780
+Zechcesz nas wprowadzić odrobinę bardziej?
+
+00:16:55.800 --> 00:16:57.800
+Czy to jest...
+
+00:16:57.820 --> 00:16:59.820
+Tak. Znaczy, ja tu Państwu zaraz wprowadzę,
+
+00:16:59.840 --> 00:17:01.840
+ale jeszcze powiem, że dzisiaj jeszcze sobie na końcu
+
+00:17:01.860 --> 00:17:03.860
+zostawimy omówienie
+
+00:17:03.880 --> 00:17:05.880
+trzeciego odcinka The Last of Us.
+
+00:17:05.900 --> 00:17:07.900
+Tak jest, tak. Tak.
+
+00:17:07.920 --> 00:17:09.920
+Dobrze. Przestańmy od tego. Czat GPT,
+
+00:17:09.940 --> 00:17:11.940
+to jest model językowy,
+
+00:17:11.960 --> 00:17:13.960
+który został stworzony przez OpenAI.
+
+00:17:13.960 --> 00:17:15.960
+Jest to sztuczna inteligencja,
+
+00:17:15.980 --> 00:17:17.980
+która jest w stanie odpowiadać na pytania
+
+00:17:18.000 --> 00:17:20.000
+i generować tekst na podstawie
+
+00:17:20.020 --> 00:17:22.020
+treningu na dużych zbiorach danych.
+
+00:17:22.040 --> 00:17:24.040
+Czat GPT jest często używany
+
+00:17:24.060 --> 00:17:26.060
+w aplikacjach takich jak chatboty,
+
+00:17:26.080 --> 00:17:28.080
+asystenty głosowe i narzędzia do generowania tekstu.
+
+00:17:28.100 --> 00:17:30.100
+To jest tekst, który mi wygenerował
+
+00:17:30.120 --> 00:17:32.120
+czat GPT, kiedy mu napisałem, czym jest
+
+00:17:32.140 --> 00:17:34.140
+czat GPT i nie musiałem
+
+00:17:34.160 --> 00:17:36.160
+po innych stronach szukać sobie
+
+00:17:36.180 --> 00:17:38.180
+jakiejś sensownej
+
+00:17:38.200 --> 00:17:40.200
+definicji.
+
+00:17:40.220 --> 00:17:42.220
+Ale my dzisiaj sobie trochę porozmawiamy o szkołach,
+
+00:17:42.220 --> 00:17:44.220
+gdzie szkoły zakazują czat GPT.
+
+00:17:44.240 --> 00:17:46.240
+Czat GPT, żeby nie było.
+
+00:17:46.260 --> 00:17:48.260
+Departament edukacji Nowego Jorku
+
+00:17:48.280 --> 00:17:50.280
+zdecydował się zablokować dostęp do czatu
+
+00:17:50.300 --> 00:17:52.300
+na wszystkich swoich urządzeniach i sieciach.
+
+00:17:52.320 --> 00:17:54.320
+Oficjalnie uważają,
+
+00:17:54.340 --> 00:17:56.340
+że może on mieć negatywny wpływ
+
+00:17:56.360 --> 00:17:58.360
+na naukę uczniów.
+
+00:17:58.380 --> 00:18:00.380
+Wskazano także na obawy dotyczące
+
+00:18:00.400 --> 00:18:02.400
+bezpieczeństwa i dokładności treści.
+
+00:18:02.420 --> 00:18:04.420
+Też jest we Francji,
+
+00:18:04.440 --> 00:18:06.440
+ponieważ prestiżowy francuski
+
+00:18:06.460 --> 00:18:08.460
+Instytut Nauk Politycznych
+
+00:18:08.480 --> 00:18:10.480
+poinformował w piątek, że zakazuje
+
+00:18:10.480 --> 00:18:12.480
+studentom posługiwania się sztuczną inteligencją
+
+00:18:12.500 --> 00:18:14.500
+właśnie czat GPT,
+
+00:18:14.520 --> 00:18:16.520
+która jest w stanie redagować
+
+00:18:16.540 --> 00:18:18.540
+teksty pod karą usunięcia
+
+00:18:18.560 --> 00:18:20.560
+z uniwersytetu lub zakazania
+
+00:18:20.580 --> 00:18:22.580
+podejmowania studiów na uczelniach.
+
+00:18:22.600 --> 00:18:25.600
+Nie sztuczna inteligencja
+
+00:18:25.620 --> 00:18:27.620
+jest w stanie redagować teksty
+
+00:18:27.640 --> 00:18:29.640
+pod karą usunięcia, tylko studenci,
+
+00:18:29.660 --> 00:18:31.660
+żeby nie było.
+
+00:18:31.680 --> 00:18:33.680
+Pewnie, wiesz.
+
+00:18:33.700 --> 00:18:35.700
+Zgadnij, kto będzie weryfikował,
+
+00:18:35.720 --> 00:18:37.720
+czy te prace są napisane przez studentów.
+
+00:18:37.740 --> 00:18:39.740
+Czat GPT.
+
+00:18:39.740 --> 00:18:41.740
+Sam Altman, czyli prezes Fundacji OpenAI,
+
+00:18:41.760 --> 00:18:43.760
+odpowiedzialny za czat GPT,
+
+00:18:43.780 --> 00:18:45.780
+zapewnił w wywiadzie,
+
+00:18:45.800 --> 00:18:47.800
+że Fundacja zapewni w miarę
+
+00:18:47.820 --> 00:18:49.820
+możliwości pomoc w wykrywaniu
+
+00:18:49.840 --> 00:18:51.840
+pracy napisanych przez sztuczną inteligencję,
+
+00:18:51.860 --> 00:18:53.860
+ale mówi wprost, że te metody
+
+00:18:53.880 --> 00:18:55.880
+nie będą doskonałe
+
+00:18:55.900 --> 00:18:57.900
+i zawsze wystarczać będzie
+
+00:18:57.920 --> 00:18:59.920
+minimum kreatywności, aby je obejść.
+
+00:18:59.940 --> 00:19:01.940
+Zamiast tego szkoły będą musiały się
+
+00:19:01.960 --> 00:19:03.960
+przystosować, bo nawet jeśli
+
+00:19:03.980 --> 00:19:05.980
+jakkolwiek zdołają zablokować
+
+00:19:06.000 --> 00:19:08.000
+czat, to przecież tylko
+
+00:19:08.000 --> 00:19:10.000
+jest jeden czatbot.
+
+00:19:10.020 --> 00:19:12.020
+Tych będzie przybywać, a ich możliwości
+
+00:19:12.040 --> 00:19:14.040
+będą coraz większe.
+
+00:19:14.060 --> 00:19:16.060
+Czy uważasz jako
+
+00:19:16.080 --> 00:19:18.080
+przedstawiciel tutaj...
+
+00:19:18.100 --> 00:19:20.100
+Młodzieży?
+
+00:19:20.120 --> 00:19:22.120
+Nie, ja chciałem powiedzieć, że nie Rada
+
+00:19:22.140 --> 00:19:24.140
+Pedagogiczna. Jak się nazywałem?
+
+00:19:24.160 --> 00:19:26.160
+Rada Rodziców?
+
+00:19:26.180 --> 00:19:28.180
+Jako przedstawiciel Rady Rodziców.
+
+00:19:28.200 --> 00:19:30.200
+Czy uważasz, że w polskich szkołach
+
+00:19:30.220 --> 00:19:32.220
+powinien zostać zakazany czat GPT?
+
+00:19:32.240 --> 00:19:34.240
+Nie, absolutnie nie uważam.
+
+00:19:34.260 --> 00:19:36.260
+W ogóle jak usłyszałem o tym, to pomyślałem sobie,
+
+00:19:36.260 --> 00:19:38.260
+że ta wstecznia z twojej kołtuneria.
+
+00:19:38.280 --> 00:19:40.280
+Kołtuneria? Tak, kołtunerstwo.
+
+00:19:40.300 --> 00:19:42.300
+To jest...
+
+00:19:42.320 --> 00:19:44.320
+Szkoły powinny od razu
+
+00:19:44.340 --> 00:19:46.340
+chwycić za to narzędzie i wprowadzać zajęcia, żeby
+
+00:19:46.360 --> 00:19:48.360
+uczyć ludzi korzystać z tego. Bo tak jak powiedziałeś
+
+00:19:48.380 --> 00:19:50.380
+na początku i to jest cenna myśl, że
+
+00:19:50.400 --> 00:19:52.400
+w przyszłości pracę będą mieli nie ci ludzie,
+
+00:19:52.420 --> 00:19:54.420
+którzy pracują kreatywnie,
+
+00:19:54.440 --> 00:19:56.440
+ale ci, którzy potrafią kreatywnie
+
+00:19:56.460 --> 00:19:58.460
+wykorzystać sztuczną inteligencję.
+
+00:19:58.480 --> 00:20:00.480
+I to oni zastąpią tych, którzy odrzucali te narzędzia.
+
+00:20:00.500 --> 00:20:02.500
+I dla szkoły to jest szansa, żeby się trochę,
+
+00:20:02.520 --> 00:20:04.520
+ja wiem, uwspółcześnić tak naprawdę.
+
+00:20:04.520 --> 00:20:06.520
+Zakazują tego, co jest absurdem, bo po pierwsze
+
+00:20:06.540 --> 00:20:08.540
+się nie da, bo na dłuższą metę to przecież
+
+00:20:08.560 --> 00:20:10.560
+właśnie delikatna kreatywność potrafi
+
+00:20:10.580 --> 00:20:12.580
+to zmienić, ale to jest świetne narzędzie do nauki.
+
+00:20:12.600 --> 00:20:14.600
+Znakomita część rzeczy,
+
+00:20:14.620 --> 00:20:16.620
+której młodzi ludzie uczą się
+
+00:20:16.640 --> 00:20:18.640
+w szkołach, jest dla nich kompletnie
+
+00:20:18.660 --> 00:20:20.660
+pozbawione jakiegokolwiek sensu. Uczą się ich,
+
+00:20:20.680 --> 00:20:22.680
+bo tak trzeba, bo tego
+
+00:20:22.700 --> 00:20:24.700
+wymaga edukacja i pewnie trochę się kształtuje
+
+00:20:24.720 --> 00:20:26.720
+ich umysł dzięki temu i to jest rzecz dobra, żeby
+
+00:20:26.740 --> 00:20:28.740
+trenować umysł. Natomiast wykorzystanie
+
+00:20:28.760 --> 00:20:30.760
+czata wprowadza tyle możliwości,
+
+00:20:30.780 --> 00:20:32.780
+bo dostajesz, załóżmy,
+
+00:20:32.780 --> 00:20:34.780
+taką najprostszą rzecz, jaką można zrobić.
+
+00:20:34.800 --> 00:20:36.800
+Albo właściwie wrócę do swojej,
+
+00:20:36.820 --> 00:20:38.820
+do swojej niechlubnej przeszłości
+
+00:20:38.840 --> 00:20:40.840
+związanej z pisaniem. Kiedy
+
+00:20:40.860 --> 00:20:42.860
+ja pisałem w szkole podstawowej
+
+00:20:42.880 --> 00:20:44.880
+to miałem spore problemy, nie wychodziło mi to za dobrze.
+
+00:20:44.900 --> 00:20:46.900
+Miałem problemy z ortografią,
+
+00:20:46.920 --> 00:20:48.920
+potem to się jakoś
+
+00:20:48.940 --> 00:20:50.940
+wszystko zdążyło naprawić, ale
+
+00:20:50.960 --> 00:20:52.960
+tak tłumaczę się państwu,
+
+00:20:52.980 --> 00:20:54.980
+żebyście państwo nie myśleli, że to dzisiaj mam, nie mam.
+
+00:20:55.000 --> 00:20:57.000
+Ale...
+
+00:20:57.020 --> 00:20:59.020
+Ale pierwszy raz
+
+00:20:59.040 --> 00:21:01.040
+zacząłem sensownie myśleć
+
+00:21:01.040 --> 00:21:03.040
+o pisaniu czyniąc plagiaty.
+
+00:21:03.060 --> 00:21:05.060
+Czyli jeżeli miałem zrobić jakąś recenzję
+
+00:21:05.080 --> 00:21:07.080
+albo miałem napisać jakiś tekst do szkoły,
+
+00:21:07.100 --> 00:21:09.100
+to szukałem takiego tekstu w różnych miejscach,
+
+00:21:09.120 --> 00:21:11.120
+bo wtedy dostępu do internetu nie było.
+
+00:21:11.140 --> 00:21:13.140
+I sobie ten tekst przerabiałem na swoją
+
+00:21:13.160 --> 00:21:15.160
+własną potrzebę, żeby on był mój
+
+00:21:15.180 --> 00:21:17.180
+od początku do końca. I to mi dało
+
+00:21:17.200 --> 00:21:19.200
+mnóstwo wskazówek na temat tego w ogóle jak
+
+00:21:19.220 --> 00:21:21.220
+tworzyć takie teksty, jak
+
+00:21:21.240 --> 00:21:23.240
+zachować ich strukturę. Bo szkoła
+
+00:21:23.260 --> 00:21:25.260
+szkołą czasami człowiek nie uważa, czasami jest
+
+00:21:25.280 --> 00:21:27.280
+za głupi, czasami są różne inne powody.
+
+00:21:27.300 --> 00:21:29.300
+Nie zawsze szkoła wystarcza, natomiast kiedy
+
+00:21:29.300 --> 00:21:31.300
+masz jakiś tekst, na którym sam musisz popracować,
+
+00:21:31.320 --> 00:21:33.320
+to nagle zaczynasz dostrzegać
+
+00:21:33.340 --> 00:21:35.340
+w nim pewne prawidłowości i uczysz się
+
+00:21:35.360 --> 00:21:37.360
+pisać w ten sposób. Ja nauczyłem się pisać
+
+00:21:37.380 --> 00:21:39.380
+powielając inne teksty
+
+00:21:39.400 --> 00:21:41.400
+i przerabiając je na swój
+
+00:21:41.420 --> 00:21:43.420
+na swoje własne potrzeby.
+
+00:21:43.440 --> 00:21:45.440
+I czat GPT oferuje dokładnie to,
+
+00:21:45.460 --> 00:21:47.460
+czyli generuje ci tekst. I teraz tak,
+
+00:21:47.480 --> 00:21:49.480
+jeżeli jesteś, bo to jest też tak,
+
+00:21:49.500 --> 00:21:51.500
+nie każdy uczeń musi być geniuszem.
+
+00:21:51.520 --> 00:21:53.520
+I nie każdy uczeń chce być geniuszem, nie każdemu zależy na tym, żeby
+
+00:21:53.540 --> 00:21:55.540
+się jakoś super fajnie uczyć.
+
+00:21:55.560 --> 00:21:57.560
+Natomiast jeżeli ktoś chce,
+
+00:21:57.560 --> 00:21:59.560
+to będzie w stanie ten tekst bardzo dobrze wykorzystać
+
+00:21:59.580 --> 00:22:01.580
+wygenerowany przez czat, czy podpowiedzi
+
+00:22:01.600 --> 00:22:03.600
+wygenerowane przez czat.
+
+00:22:03.620 --> 00:22:05.620
+Natomiast jeżeli ktoś nie ma ochoty, to będzie jakiś tam tekst
+
+00:22:05.640 --> 00:22:07.640
+tworzył i tak będzie musiał do jakiegoś stopnia go zweryfikować,
+
+00:22:07.660 --> 00:22:09.660
+żeby sprawdzić, czy te rzeczy,
+
+00:22:09.680 --> 00:22:11.680
+które czat podrzucił, mają sens.
+
+00:22:11.700 --> 00:22:13.700
+Oczywiście będą uczniowie, którzy
+
+00:22:13.720 --> 00:22:15.720
+totalnie to oleją, ale nie zmieni to strukturę.
+
+00:22:15.740 --> 00:22:17.740
+To nie jest tak nagle, że uczniowie, którzy
+
+00:22:17.760 --> 00:22:19.760
+się w ogóle nie uczyli teraz, będą dostarczali
+
+00:22:19.780 --> 00:22:21.780
+genialnych prac, a ci, którzy się uczyli, będą gorsi.
+
+00:22:21.800 --> 00:22:23.800
+Nie. Ci, którzy się uczyli, będą
+
+00:22:23.820 --> 00:22:25.820
+lepsi dzięki temu narzędziu,
+
+00:22:25.820 --> 00:22:27.820
+a ci, którzy się nie uczyli, będą odrobinę lepsi
+
+00:22:27.840 --> 00:22:29.840
+i dostaną narzędzia, które ułatwią im pracę,
+
+00:22:29.860 --> 00:22:31.860
+która jest kłopotliwa.
+
+00:22:31.880 --> 00:22:33.880
+To jest narzekanie przez instytucje
+
+00:22:33.900 --> 00:22:35.900
+związane z edukacją. Na czat GTP
+
+00:22:35.920 --> 00:22:37.920
+kojarzy mi się jak z narzekaniem
+
+00:22:37.940 --> 00:22:39.940
+korporacji, które wydobywają ropę naftową
+
+00:22:39.960 --> 00:22:41.960
+z dna oceanów, że silniki elektryczne
+
+00:22:41.980 --> 00:22:43.980
+są szkodliwe i w ogóle powinniśmy odrzucić
+
+00:22:44.000 --> 00:22:46.000
+ten sposób napędzania pojazdów.
+
+00:22:46.020 --> 00:22:48.020
+To jest szansa. Czat GPT jest szansą
+
+00:22:48.040 --> 00:22:50.040
+i w ogóle algorytmy, sztuczna inteligencja
+
+00:22:50.060 --> 00:22:52.060
+jest szansą do tego, żeby młodzi ludzie
+
+00:22:52.080 --> 00:22:54.080
+mogli się rozwijać lepiej, szybciej i sprawniej.
+
+00:22:54.080 --> 00:22:56.080
+Trzeba tą szansę wykorzystać i mam nadzieję, że w Polsce
+
+00:22:56.100 --> 00:22:58.100
+to nie zostanie zakazane, a gdyby nawet
+
+00:22:58.120 --> 00:23:00.120
+zostało zakazane, to ja i tak będę
+
+00:23:00.140 --> 00:23:02.140
+synowi polecał, żeby próbował korzystać z tego narzędzia,
+
+00:23:02.160 --> 00:23:04.160
+bo to może mu pomóc.
+
+00:23:04.180 --> 00:23:06.180
+I dam mu przewagę nad tymi wszystkimi,
+
+00:23:06.200 --> 00:23:08.200
+którzy posłuchają tych edukatorów
+
+00:23:08.220 --> 00:23:10.220
+naszych, którzy będą
+
+00:23:10.240 --> 00:23:12.240
+zabraniali tego. Ja będę wspierał jak najbardziej,
+
+00:23:12.260 --> 00:23:14.260
+bo uważam, że to ma bardzo dużo sensu.
+
+00:23:14.280 --> 00:23:16.280
+Trzeba to wszystko
+
+00:23:16.300 --> 00:23:18.300
+bacznie obserwować i trzeba
+
+00:23:18.320 --> 00:23:20.320
+uważać, żeby nie ulec,
+
+00:23:20.340 --> 00:23:22.340
+żeby się nie zachłysnąć i żeby nie myśleć,
+
+00:23:22.340 --> 00:23:24.340
+że to jest narzędzie, które nas pozbawi pracy
+
+00:23:24.360 --> 00:23:26.360
+albo właściwie nie, że wypełni
+
+00:23:26.380 --> 00:23:28.380
+za nas pracę, że zrobi za nas robotę.
+
+00:23:28.400 --> 00:23:30.400
+Nie, ale to jest narzędzie, które
+
+00:23:30.420 --> 00:23:32.420
+stworzy jakiś szkielet, na którym
+
+00:23:32.440 --> 00:23:34.440
+fantastycznie można pracować. Więc ja
+
+00:23:34.460 --> 00:23:36.460
+trzymam kciuki za to i
+
+00:23:36.480 --> 00:23:38.480
+pluwam tych, co tam
+
+00:23:38.500 --> 00:23:40.500
+wymyślili ten idiotycznie. Nie, no
+
+00:23:40.520 --> 00:23:42.520
+przesadzam, ale uważam, że to jest,
+
+00:23:42.540 --> 00:23:44.540
+jak powiedziałem na początku,
+
+00:23:44.560 --> 00:23:46.560
+wsteczniactwo.
+
+00:23:46.580 --> 00:23:48.580
+Ja też mam takie wrażenie, że to jest zamiast...
+
+00:23:48.600 --> 00:23:50.600
+Znaczy...
+
+00:23:50.600 --> 00:23:52.600
+Myślę, że można przyjąć, że
+
+00:23:52.620 --> 00:23:54.620
+jesteśmy na progu
+
+00:23:54.640 --> 00:23:56.640
+albo już zaczęła się rewolucja.
+
+00:23:56.660 --> 00:23:58.660
+Może nie, to jest taka rewolucja,
+
+00:23:58.680 --> 00:24:00.680
+wiesz, że tam... Panie, to jest rewolucja.
+
+00:24:00.700 --> 00:24:02.700
+To jest rewolucja, ale ja bym miał
+
+00:24:02.720 --> 00:24:04.720
+takie web 2.0 kolejne, nie?
+
+00:24:04.740 --> 00:24:06.740
+Myśleliśmy, że
+
+00:24:06.760 --> 00:24:08.760
+to
+
+00:24:08.780 --> 00:24:10.780
+metaverse będzie
+
+00:24:10.800 --> 00:24:12.800
+kolejną rewolucją, a tu bach,
+
+00:24:12.820 --> 00:24:14.820
+nagle wyszły, wiesz, sztuczna
+
+00:24:14.840 --> 00:24:16.840
+inteligencja nią będzie. Znaczy już jest.
+
+00:24:16.860 --> 00:24:18.860
+Ta historia, którą opowiadałeś, ja uważam, że to jest
+
+00:24:18.860 --> 00:24:20.860
+gigantyczna rewolucja, że to jest początek
+
+00:24:20.880 --> 00:24:22.880
+gigantycznej rewolucji i jak do tej pory mieliśmy
+
+00:24:22.900 --> 00:24:24.900
+do czynienia z błyskawicznym rozwojem technologii,
+
+00:24:24.920 --> 00:24:26.920
+takim przytłaczającym wręcz, to teraz, dzięki
+
+00:24:26.940 --> 00:24:28.940
+zastosowaniu sztucznej inteligencji, to ten rozwój będzie jeszcze szybszy.
+
+00:24:28.960 --> 00:24:30.960
+Rzeczy, jakie ludzie będą mogli robić
+
+00:24:30.980 --> 00:24:32.980
+i w jak krótkim czasie, są niesamowite.
+
+00:24:33.000 --> 00:24:35.000
+I tu nawet trudno mi powiedzieć, gdzie tu jest...
+
+00:24:35.020 --> 00:24:37.020
+Ja wiem, jak się mówi, że...
+
+00:24:37.040 --> 00:24:39.040
+Gdzie jest sufit,
+
+00:24:39.060 --> 00:24:41.060
+że można go przesuwać praktycznie w nieskończoność.
+
+00:24:41.080 --> 00:24:43.080
+I jeżeli... To jest
+
+00:24:43.100 --> 00:24:45.100
+to, co mówiłeś dzisiaj o tym swoim programowaniu,
+
+00:24:45.120 --> 00:24:47.120
+że byłeś w stanie zrobić coś,
+
+00:24:47.120 --> 00:24:49.120
+czego wcześniej, o czym wcześniej nie miałeś pojęcia.
+
+00:24:49.140 --> 00:24:51.140
+I że przy okazji to też cię trochę wciągnęło
+
+00:24:51.160 --> 00:24:53.160
+na tyle, żeby siedzieć po nocach, nie?
+
+00:24:53.180 --> 00:24:55.180
+To jest niezwykle ekscytujące.
+
+00:24:55.200 --> 00:24:57.200
+To jest, wiesz, to jest tak, że
+
+00:24:57.220 --> 00:24:59.220
+nagle masz dostęp do umiejętności,
+
+00:24:59.240 --> 00:25:01.240
+których opanowanie wymaga naprawdę
+
+00:25:01.260 --> 00:25:03.260
+dużo czasu. A tutaj, wiesz,
+
+00:25:03.280 --> 00:25:05.280
+to jest przystępne, to jest wytłumaczone
+
+00:25:05.300 --> 00:25:07.300
+w języku, który rozumiesz. Jeżeli nie rozumiesz,
+
+00:25:07.320 --> 00:25:09.320
+to dodajesz kolejne pytania,
+
+00:25:09.340 --> 00:25:11.340
+żeby znaleźć... To jest, wiesz, to jest niesamowite
+
+00:25:11.360 --> 00:25:13.360
+narzędzie do czerpania wiedzy.
+
+00:25:13.380 --> 00:25:15.380
+To nie jest narzędzie, które zastąpi nam wszystko.
+
+00:25:15.380 --> 00:25:17.380
+To nie piecze chleba, to nie napisze idealnej
+
+00:25:17.400 --> 00:25:19.400
+rozprawki, to nie zrobi świetnej recenzji.
+
+00:25:19.420 --> 00:25:21.420
+No dobra, chleb jest akurat prostą rzeczą.
+
+00:25:21.440 --> 00:25:23.440
+Prędzej czy później upiecze, tylko trzeba by
+
+00:25:23.460 --> 00:25:25.460
+podłączyć do pieca czy coś, nie?
+
+00:25:25.480 --> 00:25:27.480
+Czy na pytonie zaprogramować
+
+00:25:27.500 --> 00:25:29.500
+pieczenie chleba. Ale to jest, to jest,
+
+00:25:29.520 --> 00:25:31.520
+uważam, że to jest początek niesamowitej
+
+00:25:31.540 --> 00:25:33.540
+rewolucji i że, i że jeżeli
+
+00:25:33.560 --> 00:25:35.560
+ludzie zamiast zabraniać tego
+
+00:25:35.580 --> 00:25:37.580
+nauczą się tego skutecznie korzystać,
+
+00:25:37.600 --> 00:25:39.600
+to mamy fantastyczne pole do rozwoju.
+
+00:25:39.620 --> 00:25:41.620
+No tak, szkoła oprócz tego, że
+
+00:25:41.640 --> 00:25:43.640
+nas uczy przygotowania do czegoś
+
+00:25:43.640 --> 00:25:45.640
+konkretnego, na przykład do zawodu, to też
+
+00:25:45.660 --> 00:25:47.660
+nas, ta przynajmniej, ta
+
+00:25:47.680 --> 00:25:49.680
+szkoła podstawowa, czy w dużej mierze
+
+00:25:49.700 --> 00:25:51.700
+średnia, po prostu nas ogólnie
+
+00:25:51.720 --> 00:25:53.720
+uczy. Jakichś takich rzeczy, które mają być
+
+00:25:53.740 --> 00:25:55.740
+nam potrzebne w życiu.
+
+00:25:55.760 --> 00:25:57.760
+A czat GPT, to jest drugie
+
+00:25:57.780 --> 00:25:59.780
+Google. To jest, ja już w tym momencie
+
+00:25:59.800 --> 00:26:01.800
+częściej wpisuję
+
+00:26:01.820 --> 00:26:03.820
+coś do czata GPT niż do Google'a.
+
+00:26:03.840 --> 00:26:05.840
+No.
+
+00:26:05.860 --> 00:26:07.860
+I to jak bawiłem się z tym, no bo
+
+00:26:07.880 --> 00:26:09.880
+to odprogramowaniem to jeszcze nie nazwę już
+
+00:26:09.900 --> 00:26:11.900
+jakby. Ja się
+
+00:26:11.900 --> 00:26:13.900
+podjarałem, bo coś tam mi się udało, ale to jest jeszcze
+
+00:26:13.920 --> 00:26:15.920
+bardzo daleko. To jakby
+
+00:26:15.940 --> 00:26:17.940
+doceniam, doceniam moich znajomych,
+
+00:26:17.960 --> 00:26:19.960
+którzy, doceniam wszystkich, którzy
+
+00:26:19.980 --> 00:26:21.980
+potrafią programować w czymkolwiek i
+
+00:26:22.000 --> 00:26:24.000
+ogarniają, bo są już
+
+00:26:24.020 --> 00:26:26.020
+no
+
+00:26:26.040 --> 00:26:28.040
+dużo, dużo na lepszej pozycji
+
+00:26:28.060 --> 00:26:30.060
+niż ja teraz, który
+
+00:26:30.080 --> 00:26:32.080
+to odpoczął. Wiadomo, że nie będę
+
+00:26:32.100 --> 00:26:34.100
+nigdy, nie idę w tą stronę
+
+00:26:34.120 --> 00:26:36.120
+żeby być programistą, prawda?
+
+00:26:36.140 --> 00:26:38.140
+Ale żeby rozwiązywać sobie jakieś
+
+00:26:38.160 --> 00:26:40.160
+proste problemy, żeby nie bać się
+
+00:26:40.160 --> 00:26:42.160
+spytać. I pracując z tym
+
+00:26:42.180 --> 00:26:44.180
+czatem, dla mnie
+
+00:26:44.200 --> 00:26:46.200
+było to niesamowite, że ja się
+
+00:26:46.220 --> 00:26:48.220
+w pewnym momencie czułem
+
+00:26:48.240 --> 00:26:50.240
+jakbym miał
+
+00:26:50.260 --> 00:26:52.260
+indywidualne szkolenie, albo
+
+00:26:52.280 --> 00:26:54.280
+indywidualny kurs.
+
+00:26:54.300 --> 00:26:56.300
+I to było coś niesamowitego, bo ja mogłem o wszystko
+
+00:26:56.320 --> 00:26:58.320
+pytać, o wszystko wrócić,
+
+00:26:58.340 --> 00:27:00.340
+wrócić do każdego pytania,
+
+00:27:00.360 --> 00:27:03.360
+zapytać go, żebym
+
+00:27:03.380 --> 00:27:05.380
+nie działał, co może być nie tak.
+
+00:27:05.400 --> 00:27:07.400
+Jest takie otwarte
+
+00:27:07.420 --> 00:27:09.420
+pytania. I on mi dawał po kolei rzeczy
+
+00:27:09.420 --> 00:27:11.420
+sprawdzić to, to, to i to.
+
+00:27:11.440 --> 00:27:13.440
+I...
+
+00:27:13.460 --> 00:27:15.460
+I okej.
+
+00:27:15.480 --> 00:27:17.480
+Nie jest to rzecz, która jest
+
+00:27:17.500 --> 00:27:19.500
+totalnie bezbłędna, nie?
+
+00:27:19.520 --> 00:27:21.520
+Nie wiadomo, że jest z błędami.
+
+00:27:21.540 --> 00:27:23.540
+To jest w zasadzie takie, to nawet dobrze,
+
+00:27:23.560 --> 00:27:25.560
+że jest z błędami, bo to nas zmusza
+
+00:27:25.580 --> 00:27:27.580
+do dodatkowego wysiłku. Ale podejrzewam,
+
+00:27:27.600 --> 00:27:29.600
+że to jest, wiesz, jesteśmy na samym
+
+00:27:29.620 --> 00:27:31.620
+początku tego. To są takie rzeczy,
+
+00:27:31.640 --> 00:27:33.640
+które będą się uczyć
+
+00:27:33.660 --> 00:27:35.660
+eliminowania tych błędów.
+
+00:27:35.680 --> 00:27:37.680
+Więc raczej jestem
+
+00:27:37.680 --> 00:27:39.680
+w dobrej myśli. Wyobraź sobie, bo dzisiaj
+
+00:27:39.700 --> 00:27:41.700
+musisz to wszystko wpisywać na czacie, ale to przecież
+
+00:27:41.720 --> 00:27:43.720
+jest możliwość posługiwania się
+
+00:27:43.740 --> 00:27:45.740
+głosem do komunikacji z czatem.
+
+00:27:45.760 --> 00:27:47.760
+To jest w zasięgu ręki praktycznie
+
+00:27:47.780 --> 00:27:49.780
+przy dzisiejszej technologii.
+
+00:27:49.800 --> 00:27:51.800
+No tak, no mamy już asystenty głosowe, no to to jest jakby
+
+00:27:51.820 --> 00:27:53.820
+tylko jeden tam
+
+00:27:53.840 --> 00:27:55.840
+kroczek od tego. Przy czym ja
+
+00:27:55.860 --> 00:27:57.860
+tak sobie zacząłem myśleć właśnie, że
+
+00:27:57.880 --> 00:27:59.880
+jak ja bym chodził do szkoły,
+
+00:27:59.900 --> 00:28:01.900
+to miałbym obok siebie
+
+00:28:01.920 --> 00:28:03.920
+cały czas kogoś, kto mi pomoże.
+
+00:28:03.940 --> 00:28:05.940
+Czegoś nie rozumiem.
+
+00:28:05.940 --> 00:28:07.940
+Wiesz, szybko mi coś
+
+00:28:07.960 --> 00:28:09.960
+przypomni.
+
+00:28:09.980 --> 00:28:11.980
+Wiadomo, że czat GPT
+
+00:28:12.000 --> 00:28:14.000
+jest zablokowany
+
+00:28:14.020 --> 00:28:16.020
+tam na któryś rok i on
+
+00:28:16.040 --> 00:28:18.040
+teraz o nowościach nam nie mówi.
+
+00:28:18.060 --> 00:28:20.060
+No ale wiesz, nie wiem, jakby
+
+00:28:20.080 --> 00:28:22.080
+z biologii,
+
+00:28:22.100 --> 00:28:24.100
+z chemii, z
+
+00:28:24.120 --> 00:28:26.120
+matematyki. Wszystkie takie rzeczy,
+
+00:28:26.140 --> 00:28:28.140
+które bardzo prostym,
+
+00:28:28.160 --> 00:28:30.160
+naturalnym językiem komunikując
+
+00:28:30.180 --> 00:28:32.180
+się z tym czatem,
+
+00:28:32.200 --> 00:28:34.200
+on myślę, że
+
+00:28:34.200 --> 00:28:36.200
+dużo łatwiej
+
+00:28:36.220 --> 00:28:38.220
+wytłumaczy niż
+
+00:28:38.240 --> 00:28:40.240
+podręcznik, niż nawet
+
+00:28:40.260 --> 00:28:42.260
+jakiś taki tutorial na
+
+00:28:42.280 --> 00:28:44.280
+YouTube, bo możesz
+
+00:28:44.300 --> 00:28:46.300
+dopytać go i to jest ta ogromna różnica,
+
+00:28:46.320 --> 00:28:48.320
+że w Google
+
+00:28:48.340 --> 00:28:50.340
+szukasz rozwiązania i ty znajdujesz te rozwiązania,
+
+00:28:50.360 --> 00:28:52.360
+ale jak coś tam na stronie
+
+00:28:52.380 --> 00:28:54.380
+czy na filmiku nie rozumiesz, możesz napisać
+
+00:28:54.400 --> 00:28:56.400
+komentarz, ale to czekasz na odpowiedź.
+
+00:28:56.420 --> 00:28:58.420
+A tutaj o konkrety
+
+00:28:58.440 --> 00:29:00.440
+pytasz i błyskawicznie
+
+00:29:00.460 --> 00:29:02.460
+dostajesz odpowiedź.
+
+00:29:02.460 --> 00:29:04.460
+I to jest ta ogromna różnica.
+
+00:29:04.480 --> 00:29:06.480
+To jest ogromna różnica.
+
+00:29:06.500 --> 00:29:08.500
+Ty patrzysz na to,
+
+00:29:08.520 --> 00:29:10.520
+akurat to zajęcie, którego się
+
+00:29:10.540 --> 00:29:12.540
+podjąłeś było bardzo analityczne,
+
+00:29:12.560 --> 00:29:14.560
+więc takich analitycznych
+
+00:29:14.580 --> 00:29:16.580
+odpowiedzi dostawałeś. Mnie oczywiście,
+
+00:29:16.600 --> 00:29:18.600
+to też jest super ciekawe, że w naukach ścisłych
+
+00:29:18.620 --> 00:29:20.620
+ten czat ma zastosowanie, ale też ma w tych
+
+00:29:20.640 --> 00:29:22.640
+naukach klasycznych humanistycznych, czyli
+
+00:29:22.660 --> 00:29:24.660
+pisanie tych tekstów. Ja się zastanawiam, kiedy
+
+00:29:24.680 --> 00:29:26.680
+powstaną pierwsze książki, wygenerowane od początku
+
+00:29:26.700 --> 00:29:28.700
+do końca.
+
+00:29:28.720 --> 00:29:30.720
+Chyba już muszą być.
+
+00:29:30.720 --> 00:29:32.720
+Pewnie część powstała
+
+00:29:32.740 --> 00:29:34.740
+w ogóle Stephena Kinga, podejrzewam o to, że
+
+00:29:34.760 --> 00:29:36.760
+on jest czatem, bo
+
+00:29:36.780 --> 00:29:38.780
+on produkuje te książki, ma jakiś
+
+00:29:38.800 --> 00:29:40.800
+taki talent rzemieślniczy w tym
+
+00:29:40.820 --> 00:29:42.820
+zakresie, ale
+
+00:29:42.840 --> 00:29:44.840
+to jest też tak, bo
+
+00:29:44.860 --> 00:29:46.860
+przypomina mi się, przypomina mi się
+
+00:29:46.880 --> 00:29:48.880
+nie jestem do końca pewien, czy to jest cyberpunk,
+
+00:29:48.900 --> 00:29:50.900
+czy to jest The Outer Worlds,
+
+00:29:50.920 --> 00:29:52.920
+czy jakaś inna gra,
+
+00:29:52.940 --> 00:29:54.940
+która traktowała o science fiction,
+
+00:29:54.960 --> 00:29:56.960
+gdzie są takie raporty, że
+
+00:29:56.980 --> 00:29:58.980
+to chyba cyberpunk, że jakaś
+
+00:29:58.980 --> 00:30:00.980
+autorka, znana autorka,
+
+00:30:01.000 --> 00:30:03.000
+sztuczna inteligencja książek tam dostała
+
+00:30:03.020 --> 00:30:05.020
+jakieś nagrody za napisanie jakiegoś
+
+00:30:05.040 --> 00:30:07.040
+tekstu, chyba w cyberpunku to się
+
+00:30:07.060 --> 00:30:09.060
+przydarza. I to jest
+
+00:30:09.080 --> 00:30:11.080
+naprawdę w zasięgu ręki, te książki pewnie będą
+
+00:30:11.100 --> 00:30:13.100
+coraz lepsze, bo to też są jakieś algorytmy,
+
+00:30:13.120 --> 00:30:15.120
+to są też jakieś, książka też
+
+00:30:15.140 --> 00:30:17.140
+kieruje się jakimiś zasadami, czyli
+
+00:30:17.160 --> 00:30:19.160
+gdzieś tam, tak jak w filmach, że gdzieś w pewnym momencie
+
+00:30:19.180 --> 00:30:21.180
+musi być skok akcji, gdzieś musi być
+
+00:30:21.200 --> 00:30:23.200
+przehamowanie, być taka naturalne
+
+00:30:23.220 --> 00:30:25.220
+tempo, do którego człowiek się przyzwyczaił, w czytaniu
+
+00:30:25.240 --> 00:30:27.240
+także obowiązuje, więc
+
+00:30:27.240 --> 00:30:29.240
+wymyślenie fabuły, skorygowanie fabuły,
+
+00:30:29.260 --> 00:30:31.260
+to być może jest część pracy, którą człowiek
+
+00:30:31.280 --> 00:30:33.280
+wykona, natomiast stworzenie tej historii
+
+00:30:33.300 --> 00:30:35.300
+to jest coś już do zrobienia.
+
+00:30:35.320 --> 00:30:37.320
+I wiesz, to oprócz tego, że
+
+00:30:37.340 --> 00:30:39.340
+wiesz, ja jestem trochę zafascynowany
+
+00:30:39.360 --> 00:30:41.360
+tym tematem, być może przesadzam, być może
+
+00:30:41.380 --> 00:30:43.380
+widzę go tylko w samych superlatywach,
+
+00:30:43.400 --> 00:30:45.400
+on na pewno stanowi zagrożenie, bo jak każda rzecz
+
+00:30:45.420 --> 00:30:47.420
+wymyślona przez człowieka, można ją wykorzystać
+
+00:30:47.440 --> 00:30:49.440
+w dobrych celach, jak i w złych celach.
+
+00:30:49.460 --> 00:30:51.460
+Więc to jest jasne, raczej
+
+00:30:51.480 --> 00:30:53.480
+nie sądzę, by narzędzie samo w sobie
+
+00:30:53.500 --> 00:30:55.500
+mogło być złe, tylko ono
+
+00:30:55.500 --> 00:30:57.500
+może być na tyle dobre, że można je
+
+00:30:57.520 --> 00:30:59.520
+wykorzystać w niewłaściwy sposób, to pewnie
+
+00:30:59.540 --> 00:31:01.540
+z tym też się będzie trzeba jakoś mierzyć.
+
+00:31:01.560 --> 00:31:03.560
+Ale to po raz kolejny ta sama myśl,
+
+00:31:03.580 --> 00:31:05.580
+którą powiedziałeś na początku, że
+
+00:31:05.600 --> 00:31:07.600
+nie liczy się sam
+
+00:31:07.620 --> 00:31:09.620
+samo to narzędzie, tylko liczą się ludzie,
+
+00:31:09.640 --> 00:31:11.640
+którzy nauczą się tego narzędzia wykorzystywać.
+
+00:31:11.660 --> 00:31:13.660
+I to jest niezwykle
+
+00:31:13.680 --> 00:31:15.680
+cenne, jeżeli znajdujecie się
+
+00:31:15.700 --> 00:31:17.700
+w takiej sytuacji, wydaje mi się,
+
+00:31:17.720 --> 00:31:19.720
+że tak, że i ja po to sięgnę i Borys
+
+00:31:19.740 --> 00:31:21.740
+po to sięga, że każdy, kto
+
+00:31:21.760 --> 00:31:23.760
+myśli o jakimś tam swoim samorozwoju
+
+00:31:23.760 --> 00:31:25.760
+i kształceniu się, powinien się zainteresować
+
+00:31:25.780 --> 00:31:27.780
+tą technologią już teraz i powinien
+
+00:31:27.800 --> 00:31:29.800
+zacząć ją wykorzystywać nawet w niewielkim
+
+00:31:29.820 --> 00:31:31.820
+stopniu do swojej codziennej pracy,
+
+00:31:31.840 --> 00:31:33.840
+bo nagle odkryje, że to
+
+00:31:33.860 --> 00:31:35.860
+ułatwia wiele rzeczy i nagle odkryje, że
+
+00:31:35.880 --> 00:31:37.880
+to mu dostarcza mnóstwo dodatkowej wiedzy,
+
+00:31:37.900 --> 00:31:39.900
+z której może korzystać i może być lepszy
+
+00:31:39.920 --> 00:31:41.920
+w tym, co robi. A jesteśmy, jak mówię, na samym
+
+00:31:41.940 --> 00:31:43.940
+początku tej przygody.
+
+00:31:43.960 --> 00:31:45.960
+Wiesz, wyobraź sobie scenariusze do filmów,
+
+00:31:45.980 --> 00:31:47.980
+scenariusze do seriali. Zważywszy na to,
+
+00:31:48.000 --> 00:31:50.000
+jakie scenariusze na Netflixie powstają, to
+
+00:31:50.020 --> 00:31:52.020
+wydaje mi się, że ten czat to już byłby teraz dużo lepszy.
+
+00:31:52.020 --> 00:31:54.020
+No, przy tym kryzysie
+
+00:31:54.040 --> 00:31:56.040
+scenopisarstwa, no to
+
+00:31:56.060 --> 00:31:58.060
+myślę, że na pewno będzie.
+
+00:31:58.080 --> 00:32:00.080
+Ale po raz kolejny scenarzyści
+
+00:32:00.100 --> 00:32:02.100
+wcale nie muszą na tym stracić, nie?
+
+00:32:02.120 --> 00:32:04.120
+Zyskają ci scenarzyści, którzy potrafią to wykorzystać.
+
+00:32:04.140 --> 00:32:06.140
+Tak, ale to też jest taka sytuacja, że
+
+00:32:06.160 --> 00:32:08.160
+czasami, nie wiem, no mi się
+
+00:32:08.180 --> 00:32:10.180
+wydawało na przykład, że poza tą
+
+00:32:10.200 --> 00:32:12.200
+transkrypcją do podcastu, to
+
+00:32:12.220 --> 00:32:15.220
+nie będę tego za bardzo wykorzystywał, nie?
+
+00:32:15.240 --> 00:32:17.240
+No ale bach dzisiaj nagle.
+
+00:32:17.260 --> 00:32:20.260
+Daj mi 10 klikbajtowych
+
+00:32:20.260 --> 00:32:22.260
+tytułów filmu na YouTubie o
+
+00:32:22.280 --> 00:32:25.280
+czacie GPT, nie?
+
+00:32:25.300 --> 00:32:27.300
+Doceniają państwo, czy państwu się podoba ten tytuł?
+
+00:32:27.320 --> 00:32:29.320
+To już nie my za niego odpowiadamy, tylko
+
+00:32:29.340 --> 00:32:30.340
+sztuczna inteligencja.
+
+00:32:30.360 --> 00:32:32.360
+Jan Bach 10 tam daje przykładów.
+
+00:32:32.380 --> 00:32:34.380
+Nawet nie chodzi o to, żeby dał konkretny, ale żeby
+
+00:32:34.400 --> 00:32:36.400
+wskazał kierunek, który mogłeś
+
+00:32:36.420 --> 00:32:38.420
+wcześniej nie widzieć, nie?
+
+00:32:38.440 --> 00:32:40.440
+I wskazał, to znaczy jak zobaczyłem te 10 tytułów,
+
+00:32:40.460 --> 00:32:42.460
+to mówię, o Jezu, panie, pójdę dzisiaj
+
+00:32:42.480 --> 00:32:45.480
+pół godziny wcześniej spać. Nie muszę wymyślać tego.
+
+00:32:45.500 --> 00:32:47.500
+Wiesz, bo to jest tak, że
+
+00:32:47.520 --> 00:32:49.520
+wiadomo, że to jest taka praca, którą
+
+00:32:49.520 --> 00:32:51.520
+tytuł, to napisanie tytułu
+
+00:32:51.540 --> 00:32:53.540
+zajmuje 5 sekund, ale musisz go najpierw wymyślić.
+
+00:32:53.560 --> 00:32:55.560
+Serio, to jest,
+
+00:32:55.580 --> 00:32:57.580
+ja właśnie zyskałem, no może nie pół godziny,
+
+00:32:57.600 --> 00:32:59.600
+ale z 10-15 minut zyskałem ekstra czasu
+
+00:32:59.620 --> 00:33:01.620
+na to. Jak byśmy mieli robić
+
+00:33:01.640 --> 00:33:03.640
+transkrypcję ręczną, no to patrz, ile to jest.
+
+00:33:03.660 --> 00:33:05.660
+Pewne rzeczy w ogóle nie moglibyśmy robić.
+
+00:33:05.680 --> 00:33:07.680
+Ja kiedyś
+
+00:33:07.700 --> 00:33:09.700
+zapłaciłem za transkrypcję,
+
+00:33:09.720 --> 00:33:11.720
+to był podcast z Łukaszem Hacurą
+
+00:33:11.740 --> 00:33:14.240
+i to było chyba 250 zł,
+
+00:33:14.260 --> 00:33:16.260
+nie pamiętam już dokładnie.
+
+00:33:16.280 --> 00:33:18.280
+Teraz
+
+00:33:18.280 --> 00:33:20.280
+to jest, wiadomo,
+
+00:33:20.300 --> 00:33:22.300
+że są jeszcze tam jakieś błędy.
+
+00:33:22.320 --> 00:33:24.320
+Ja stawiam, że to tam
+
+00:33:24.340 --> 00:33:26.340
+pół roku już nie będzie żadnych błędów.
+
+00:33:26.360 --> 00:33:29.360
+No i 15-20 minut
+
+00:33:29.380 --> 00:33:31.380
+i nic to nie kosztuje, nie?
+
+00:33:31.400 --> 00:33:33.400
+No, tak, tak, tak, tak jest.
+
+00:33:33.420 --> 00:33:35.420
+Także proszę państwa, proszę sięgać
+
+00:33:35.440 --> 00:33:37.440
+po to. Docelowo ja bym chciał,
+
+00:33:37.460 --> 00:33:39.460
+żeby każdy, nawet archiwalny podcast
+
+00:33:39.480 --> 00:33:41.480
+miał przynajmniej
+
+00:33:41.500 --> 00:33:43.500
+polskie napisy. Sprawdzałem
+
+00:33:43.520 --> 00:33:45.520
+nawet te polskie napisy jak, no bo
+
+00:33:45.540 --> 00:33:47.540
+akurat
+
+00:33:47.540 --> 00:33:49.540
+YouTube może wygenerować automatyczne
+
+00:33:49.560 --> 00:33:51.560
+napisy angielskie
+
+00:33:51.580 --> 00:33:53.580
+czy tam jakiekolwiek, no ale
+
+00:33:53.600 --> 00:33:55.600
+z językiem angielskim on się najlepiej
+
+00:33:55.620 --> 00:33:57.620
+zresztą zobaczmy jak działa
+
+00:33:57.640 --> 00:33:59.640
+translator Google'a.
+
+00:33:59.660 --> 00:34:01.660
+Działa wręcz perfekcyjnie.
+
+00:34:01.680 --> 00:34:03.680
+Bardzo dobrze działa, to prawda.
+
+00:34:03.700 --> 00:34:05.700
+I tak, już mamy tam
+
+00:34:05.720 --> 00:34:07.720
+automatyzacja z YouTube'a, już mamy
+
+00:34:07.740 --> 00:34:09.740
+napisy w języku
+
+00:34:09.760 --> 00:34:11.760
+angielskim. Ja się jeszcze w ogóle zastanawiam,
+
+00:34:11.780 --> 00:34:13.780
+no po tej notce teraz to mam tak, że
+
+00:34:13.800 --> 00:34:15.800
+do czego ja mogę jeszcze to użyć, nie?
+
+00:34:15.800 --> 00:34:17.800
+Jakieś takie automatyzacje,
+
+00:34:17.820 --> 00:34:19.820
+a może nowe rzeczy
+
+00:34:19.840 --> 00:34:21.840
+i
+
+00:34:21.860 --> 00:34:23.860
+no czekam, czekam. Jeszcze
+
+00:34:23.880 --> 00:34:25.880
+już wymyśliłem, że zaprosimy
+
+00:34:25.900 --> 00:34:27.900
+sobie gościa do takiego dużego
+
+00:34:27.920 --> 00:34:29.920
+odcinku o sztucznej inteligencji,
+
+00:34:29.940 --> 00:34:31.940
+o tym jak to wygląda,
+
+00:34:31.960 --> 00:34:33.960
+o czym, czego nie wiemy, co wiemy
+
+00:34:33.980 --> 00:34:35.980
+i jak to będzie w przyszłości.
+
+00:34:36.000 --> 00:34:38.000
+Myślę, że jakiegoś przystojnego gościa musimy zaprosić.
+
+00:34:38.020 --> 00:34:40.020
+Nie no, daj spokój, będzie nam
+
+00:34:40.040 --> 00:34:42.040
+konkurencję robił?
+
+00:34:42.060 --> 00:34:44.060
+Tak.
+
+00:34:44.060 --> 00:34:46.060
+No musi być jakiś przystojny,
+
+00:34:46.080 --> 00:34:48.080
+nie ma innej opcji.
+
+00:34:48.100 --> 00:34:50.100
+I sobie po, szerzej
+
+00:34:50.120 --> 00:34:52.120
+po prostu pogadamy o tym temacie, bo teraz
+
+00:34:52.140 --> 00:34:54.140
+to tak zajawkowo tak, że
+
+00:34:54.160 --> 00:34:56.160
+jest, że jest ten temat szkoły, on jest
+
+00:34:56.180 --> 00:34:58.180
+że jak ja o tym usłyszałem
+
+00:34:58.200 --> 00:35:00.200
+trochę, to tak pomyślałem, wow, to jest jak
+
+00:35:00.220 --> 00:35:02.220
+strajk
+
+00:35:02.240 --> 00:35:04.240
+dorożkarzy przeciwko
+
+00:35:04.260 --> 00:35:06.260
+produkcji samochodów. To są tak, to mamy
+
+00:35:06.280 --> 00:35:08.280
+podobne przemyślenia, no.
+
+00:35:08.300 --> 00:35:10.300
+Że nie chciałbym być w takiej szkole,
+
+00:35:10.320 --> 00:35:12.320
+która zabrania mi narzędzia,
+
+00:35:12.320 --> 00:35:14.320
+którego wiem, że jak
+
+00:35:14.340 --> 00:35:16.340
+wyjdę z niej, z tej szkoły, to będzie
+
+00:35:16.360 --> 00:35:18.360
+podstawowe narzędzie. Po drugie, no w domu
+
+00:35:18.380 --> 00:35:20.380
+tak będziesz używał.
+
+00:35:20.400 --> 00:35:22.400
+No, ale to jest właśnie to wsteczniactwo,
+
+00:35:22.420 --> 00:35:24.420
+o którym mówię, że jakby
+
+00:35:24.440 --> 00:35:26.440
+w tym systemie edukacji funkcjonują
+
+00:35:26.460 --> 00:35:28.460
+ludzie, którzy nie potrafią
+
+00:35:28.480 --> 00:35:30.480
+rozpoznać najprostszego, współczesnego
+
+00:35:30.500 --> 00:35:32.500
+narzędzia, które będzie
+
+00:35:32.520 --> 00:35:34.520
+konieczne w pracy ich uczniów.
+
+00:35:34.540 --> 00:35:36.540
+Jakby, jaka jest ich, to znaczy
+
+00:35:36.560 --> 00:35:38.560
+można podawać wątpliwość ich wszystkie
+
+00:35:38.580 --> 00:35:40.580
+umiejętności związane z edukacją.
+
+00:35:40.580 --> 00:35:42.580
+Bo jeżeli oni tego nie potrafią zauważyć,
+
+00:35:42.600 --> 00:35:44.600
+nie potrafią dostrzec zalet tego,
+
+00:35:44.620 --> 00:35:46.620
+to do czego oni się nadają? Do czego oni mogą
+
+00:35:46.640 --> 00:35:48.640
+kogokolwiek nauczyć?
+
+00:35:48.660 --> 00:35:50.660
+Obrona starego systemu, że będziemy się uczyć tak jak się uczymy,
+
+00:35:50.680 --> 00:35:52.680
+mimo że świat się już zmienił
+
+00:35:52.700 --> 00:35:54.700
+bardzo mocno.
+
+00:35:54.720 --> 00:35:56.720
+Tak jest, proszę państwa, świat zmienił.
+
+00:35:56.740 --> 00:35:58.740
+Ale to się wpisuje w ten pieprzony system,
+
+00:35:58.760 --> 00:36:00.760
+bo system stworzony został po to, żeby
+
+00:36:00.780 --> 00:36:02.780
+ludzie się za bardzo nie wychylali.
+
+00:36:02.800 --> 00:36:04.800
+I ten system będzie bronił tej twierdzy,
+
+00:36:04.820 --> 00:36:06.820
+bo jakby każda zmiana
+
+00:36:06.840 --> 00:36:08.840
+może zaowocować tym, że nagle
+
+00:36:08.840 --> 00:36:10.840
+ludzie przestaną funkcjonować
+
+00:36:10.860 --> 00:36:12.860
+w obrębie tych schematów.
+
+00:36:12.880 --> 00:36:14.880
+Więc proszę, bądźcie państwo
+
+00:36:14.900 --> 00:36:16.900
+rewolucjonistami,
+
+00:36:16.920 --> 00:36:18.920
+nie dajcie się
+
+00:36:18.940 --> 00:36:20.940
+zamknąć w szufladkach.
+
+00:36:20.960 --> 00:36:22.960
+No ale wiesz, może oni
+
+00:36:22.980 --> 00:36:24.980
+jak to zakazują, to myślą właśnie
+
+00:36:25.000 --> 00:36:27.000
+o takich rzeczach typu
+
+00:36:27.020 --> 00:36:29.020
+czat GPT, napisz mi
+
+00:36:29.040 --> 00:36:31.040
+streszczenie
+
+00:36:31.060 --> 00:36:33.060
+czy tam rozprawkę
+
+00:36:33.080 --> 00:36:35.080
+czy cokolwiek tam z potopu.
+
+00:36:35.100 --> 00:36:37.100
+Okej,
+
+00:36:37.100 --> 00:36:39.100
+czas na CES-a, nie?
+
+00:36:39.120 --> 00:36:41.120
+Ale to jest, wiesz,
+
+00:36:41.140 --> 00:36:43.140
+takie gówniane myślenie, to znaczy
+
+00:36:43.160 --> 00:36:45.160
+każdego postrzegasz jako potencjalnego oszusta.
+
+00:36:45.180 --> 00:36:47.180
+W ten sposób się myśli, że zabronimy
+
+00:36:47.200 --> 00:36:49.200
+wszystkim, ponieważ to narzędzie
+
+00:36:49.220 --> 00:36:51.220
+także służy do robienia czegoś
+
+00:36:51.240 --> 00:36:53.240
+niewłaściwie i wszyscy na pewno będą
+
+00:36:53.260 --> 00:36:55.260
+robili niewłaściwie.
+
+00:36:55.280 --> 00:36:57.280
+Rolą nauczyciela jest zachęcić ludzi do kreatywnej pracy,
+
+00:36:57.300 --> 00:36:59.300
+a nie tylko do, wiesz,
+
+00:36:59.320 --> 00:37:01.320
+odbębniania powtarzalnych rozprawek.
+
+00:37:01.340 --> 00:37:03.340
+Mój syn przez całą podstawówkę
+
+00:37:03.360 --> 00:37:05.360
+te rozprawki rąbał jedno po drugim,
+
+00:37:05.360 --> 00:37:07.360
+niczego go to nie nauczyło. Ja w ogóle patrzyłem
+
+00:37:07.380 --> 00:37:09.380
+na te rozprawki z jakąś
+
+00:37:09.400 --> 00:37:11.400
+zgrozą w oczach, bo to mi się totalnie pozbawione
+
+00:37:11.420 --> 00:37:13.420
+sensu wydawało. No ale
+
+00:37:13.440 --> 00:37:15.440
+jaki to ma sens? Marnował tylko na to czas
+
+00:37:15.460 --> 00:37:17.460
+i pisać się nie nauczył w ogóle, jakby
+
+00:37:17.480 --> 00:37:19.480
+dla mnie, ja cały czas próbowałem go
+
+00:37:19.500 --> 00:37:21.500
+zachęcić do
+
+00:37:21.520 --> 00:37:23.520
+samodzielnego myślenia i tworzenia
+
+00:37:23.540 --> 00:37:25.540
+rozprawek na podstawie swoich własnych przemyśleń,
+
+00:37:25.560 --> 00:37:27.560
+ale on się bał tego robić, wolał robić
+
+00:37:27.580 --> 00:37:29.580
+to, wiesz, pod jakiś klucz, nie?
+
+00:37:29.600 --> 00:37:31.600
+Że musi napisać to, to, to, w takiej kolejności
+
+00:37:31.620 --> 00:37:33.620
+i tam w ogóle żadnej kreatywności
+
+00:37:33.620 --> 00:37:35.620
+nie było. Więc dużo bardziej
+
+00:37:35.640 --> 00:37:37.640
+wolałbym, żeby tego typu rzeczy odbębniał dla niego
+
+00:37:37.660 --> 00:37:39.660
+czat, a on żeby musiał pomyśleć, jak tam dorzucić
+
+00:37:39.680 --> 00:37:41.680
+swoje własne przemyślenie. Więc
+
+00:37:41.700 --> 00:37:43.700
+miałby więcej czasu na swoje własne
+
+00:37:43.720 --> 00:37:45.720
+przemyślenie, a nie żeby napisać tekst.
+
+00:37:45.740 --> 00:37:47.740
+Ja też rozumiem, że jest wiele
+
+00:37:49.760 --> 00:37:51.760
+że to nie jest takie zero jedynkowe
+
+00:37:51.780 --> 00:37:53.780
+że też dużo rzeczy
+
+00:37:53.800 --> 00:37:55.800
+myślę, że dużo
+
+00:37:55.820 --> 00:37:57.820
+takich opinii będzie, że jednak
+
+00:37:57.840 --> 00:37:59.840
+powinniśmy jakąś tam wiedzę
+
+00:37:59.860 --> 00:38:01.860
+posiadać, ale ja też
+
+00:38:01.860 --> 00:38:03.860
+ale to nie wyklucza tego, żeby
+
+00:38:03.880 --> 00:38:05.880
+korzystać z takich narzędzi, nie?
+
+00:38:05.900 --> 00:38:07.900
+To tak jakbyś powiedział, że o mamy
+
+00:38:07.920 --> 00:38:09.920
+odkąd jest Google, to nie musimy nic wiedzieć, nie?
+
+00:38:09.940 --> 00:38:11.940
+No wiadomo, że to tak nie działa, że świat nie działa
+
+00:38:11.960 --> 00:38:13.960
+i dalej potrzebujemy ileś tam umiejętności, które
+
+00:38:13.980 --> 00:38:15.980
+no częściowo w szkole zdobywamy
+
+00:38:16.000 --> 00:38:18.000
+w dużej mierze nie
+
+00:38:18.020 --> 00:38:20.020
+i zobaczymy.
+
+00:38:20.040 --> 00:38:22.040
+Znaczy tak jak mówię...
+
+00:38:22.060 --> 00:38:24.060
+My tylko tutaj
+
+00:38:24.080 --> 00:38:26.080
+zahaczamy, tylko tak liznęliśmy
+
+00:38:26.100 --> 00:38:28.100
+ten temat
+
+00:38:28.120 --> 00:38:30.120
+ale w planach na pewno będziemy chcieli sobie
+
+00:38:30.120 --> 00:38:32.120
+z jakimś ekspertem porozmawiać.
+
+00:38:32.140 --> 00:38:34.140
+Ja wiem jedno
+
+00:38:34.160 --> 00:38:36.160
+do nauki programowania
+
+00:38:36.180 --> 00:38:38.180
+kursy, bo też posiłkowałem się przecież
+
+00:38:38.200 --> 00:38:40.200
+filmami z YouTube'a
+
+00:38:40.220 --> 00:38:42.220
+takimi, które nawet
+
+00:38:42.240 --> 00:38:44.240
+krok po kroku pokazują ci dokładnie, co masz zrobić
+
+00:38:44.260 --> 00:38:46.260
+plus czat GPT
+
+00:38:46.280 --> 00:38:48.280
+to jest bardzo, bardzo sensowne
+
+00:38:48.300 --> 00:38:50.300
+narzędzie do nauki programowania.
+
+00:38:50.320 --> 00:38:52.320
+Ja też zrozumiałem jedną ważną rzecz
+
+00:38:52.340 --> 00:38:54.340
+że
+
+00:38:54.360 --> 00:38:56.360
+warto te podstawy mieć
+
+00:38:56.380 --> 00:38:58.380
+nawet w takim
+
+00:38:58.380 --> 00:39:00.380
+języku jak Python.
+
+00:39:00.400 --> 00:39:02.400
+W każdym, proszę państwa, chcecie się
+
+00:39:02.420 --> 00:39:04.420
+nauczyć gotować, to wpisujecie
+
+00:39:04.440 --> 00:39:06.440
+przepis, daj mi fajny przepis na kurczaka
+
+00:39:06.460 --> 00:39:08.460
+mam takie przyprawy, jakie mam
+
+00:39:08.480 --> 00:39:10.480
+i wam wypluję coś.
+
+00:39:10.500 --> 00:39:12.500
+O, to jest dobry pomysł.
+
+00:39:12.520 --> 00:39:14.520
+Jest dużo takich rzeczy.
+
+00:39:14.540 --> 00:39:16.540
+Chciałbym zrobić z tego jakiś przepis.
+
+00:39:16.560 --> 00:39:18.560
+Dobrze, tego nie sprawdzam.
+
+00:39:18.580 --> 00:39:20.580
+Chciałbym zrobić obiad, maksymalnie
+
+00:39:20.600 --> 00:39:22.600
+300 kalorii, mam takie produkty.
+
+00:39:22.620 --> 00:39:24.620
+Wiadomo, że to nie musi działać
+
+00:39:24.640 --> 00:39:26.640
+od razu.
+
+00:39:26.640 --> 00:39:28.640
+Tak jest.
+
+00:39:28.660 --> 00:39:30.660
+Porcja 10 gram.
+
+00:39:30.680 --> 00:39:32.680
+Ciekawe, czy złośliwość
+
+00:39:32.700 --> 00:39:34.700
+stanie się częścią charakteru czata GPT.
+
+00:39:34.720 --> 00:39:36.720
+No jak z tobą pogada, to myślę, że na pewno.
+
+00:39:36.740 --> 00:39:38.740
+Ale ostatnio
+
+00:39:38.760 --> 00:39:40.760
+a propos tego
+
+00:39:40.780 --> 00:39:42.780
+tiktokera i różnych sytuacji
+
+00:39:42.800 --> 00:39:44.800
+to widziałem, że rząd uchwalił jakąś nową
+
+00:39:44.820 --> 00:39:46.820
+ustawę zniżka na obrażanie.
+
+00:39:46.840 --> 00:39:48.840
+Że można teraz obrażać ludzi, nie słyszałeś o tym?
+
+00:39:48.860 --> 00:39:50.860
+Nie, nie słyszałem.
+
+00:39:50.880 --> 00:39:52.880
+Można obrażać ludzi i się po taniości można wyłgać.
+
+00:39:52.900 --> 00:39:54.900
+15 tysięcy, jakaś tam kara
+
+00:39:54.900 --> 00:39:56.900
+i nie stać na większą. Nie słyszałeś, to nie będę
+
+00:39:56.920 --> 00:39:58.920
+ci tutaj.
+
+00:39:58.940 --> 00:40:00.940
+My, programiści to takimi rzeczami się
+
+00:40:00.960 --> 00:40:02.960
+przyznamy.
+
+00:40:02.980 --> 00:40:04.980
+Ha, ha, ha.
+
+00:40:05.000 --> 00:40:07.000
+Ha, ha, ha.
+
+00:40:07.020 --> 00:40:09.020
+No, ale chciałbym jeszcze powiedzieć,
+
+00:40:09.040 --> 00:40:11.040
+że dla mnie
+
+00:40:11.060 --> 00:40:13.060
+dla takich moich osobistych
+
+00:40:13.080 --> 00:40:15.080
+użyć
+
+00:40:15.120 --> 00:40:17.120
+zastosowań.
+
+00:40:17.140 --> 00:40:19.140
+To jak ja sobie robię
+
+00:40:19.160 --> 00:40:21.160
+programy takie
+
+00:40:21.180 --> 00:40:23.180
+publicystyczne, trochę newsów przeglądam
+
+00:40:23.180 --> 00:40:27.780
+to czasami czerpię z gry online, mam tam gotowe fragmenty tekstu, które muszę sobie...
+
+00:40:27.800 --> 00:40:31.580
+Robię sobie taki skrypt, czyli, czyli ja dużo opowiadam o jakiejś grze,
+
+00:40:31.600 --> 00:40:33.780
+czy o jakimś tam studiu, czy jakiejś tam wiadomości.
+
+00:40:33.800 --> 00:40:34.800
+A wstęp czytasz.
+
+00:40:34.820 --> 00:40:38.580
+No, czytam wstęp. Natomiast dużo, dużo lepiej mi się pracuje,
+
+00:40:38.600 --> 00:40:42.600
+bo to ja mam taką jakby listę skryptu rzeczy, które muszę powiedzieć,
+
+00:40:42.620 --> 00:40:48.620
+bo dzięki temu mi się jakoś tam rozkręca mi się ten słowotok w danym temacie.
+
+00:40:48.620 --> 00:40:53.100
+Więc te same rzeczy może dla mnie chat GPT generować.
+
+00:40:53.120 --> 00:40:54.120
+Wspanko widzę tutaj.
+
+00:40:54.140 --> 00:40:58.140
+Nie, nie, nie, to nie było ziewnięcie, to mi się odbiło, ale powstrzymać próbowałem.
+
+00:40:58.160 --> 00:41:00.160
+Haha!
+
+00:41:00.180 --> 00:41:02.180
+No tak, więc tak.
+
+00:41:02.200 --> 00:41:06.700
+No więc dla mnie to też jest narzędzie, które będzie miało bardzo, bardzo dużo sensu.
+
+00:41:06.720 --> 00:41:09.920
+Mam nadzieję, mam nadzieję, że sobie to opracuję dobrze.
+
+00:41:09.940 --> 00:41:11.940
+Dobrze, trzeci odcinek The Last of Us.
+
+00:41:11.960 --> 00:41:14.460
+Proszę państwa, mogą się pojawić spoilery.
+
+00:41:14.480 --> 00:41:16.580
+Ale ty się szybko chciałeś zmienić ten temat, widziałem, że ty czekasz,
+
+00:41:16.580 --> 00:41:18.880
+Czy ty się czaisz na tego, Spencer od czata?
+
+00:41:18.900 --> 00:41:22.100
+No bo już 40 minut mamy pod kasku.
+
+00:41:22.120 --> 00:41:23.120
+No tak, ale to już mnie to tak ekscytuje.
+
+00:41:23.140 --> 00:41:24.640
+Ale nie, bardzo dobrze, że zamykasz ten temat,
+
+00:41:24.660 --> 00:41:26.560
+ale mam nadzieję, że państwa też to podekscytuje,
+
+00:41:26.580 --> 00:41:27.580
+bo taki, taki mys.
+
+00:41:27.600 --> 00:41:31.480
+Zamykam, zamykam, bo to jeszcze będziemy wracać często do tego tematu.
+
+00:41:31.500 --> 00:41:35.780
+To wiesz, ja też czekam na to, jak ty sobie na tym posiedzisz
+
+00:41:35.800 --> 00:41:37.000
+i popracujesz.
+
+00:41:37.020 --> 00:41:38.020
+Tak, tak.
+
+00:41:38.040 --> 00:41:39.040
+To wtedy zobaczymy.
+
+00:41:39.060 --> 00:41:41.760
+Proszę państwa, trzeci odcinek The Last of Us Remix.
+
+00:41:41.780 --> 00:41:43.280
+Słyszałem, że dwa razy oglądałeś.
+
+00:41:43.300 --> 00:41:45.300
+Tak, ja zawsze wszystko oglądam.
+
+00:41:45.300 --> 00:41:47.800
+Dwa razy po polsku, po angielsku
+
+00:41:47.820 --> 00:41:50.020
+i przyglądam się temu bardzo dokładnie.
+
+00:41:50.040 --> 00:41:51.840
+Spróbuję być tutaj adwokatem Diabła,
+
+00:41:51.860 --> 00:41:53.060
+ale nie, może jeszcze nie,
+
+00:41:53.080 --> 00:41:55.480
+bo nie jestem do końca pewny, jaka jest twoja opinia na temat.
+
+00:41:55.500 --> 00:41:58.300
+Mi się bardzo podobał ten odcinek.
+
+00:41:58.320 --> 00:42:00.520
+Dostrzegłem tam parę wad.
+
+00:42:00.540 --> 00:42:01.540
+O, jakich?
+
+00:42:01.560 --> 00:42:03.360
+Być może skupienie wokół jednej historii
+
+00:42:03.380 --> 00:42:04.980
+nie do końca wyszło na plus,
+
+00:42:05.000 --> 00:42:06.000
+ale jestem ciekaw twojej opinii.
+
+00:42:06.020 --> 00:42:07.720
+Wtedy spróbuję dostosować swoją,
+
+00:42:07.740 --> 00:42:09.540
+żeby ci trochę stanąć w opozycji.
+
+00:42:09.560 --> 00:42:14.140
+Dobrze, odcinek opowiada o romansie
+
+00:42:14.140 --> 00:42:16.540
+gejowskim, proszę państwa, więc...
+
+00:42:16.560 --> 00:42:19.760
+To gieto zabrzmiało tak bardzo.
+
+00:42:19.780 --> 00:42:23.680
+Oczywiście on w grze był zajawiony.
+
+00:42:23.700 --> 00:42:27.180
+Ja gram sobie we wtorki zawsze tyle,
+
+00:42:27.200 --> 00:42:29.000
+ile opowiada serial.
+
+00:42:29.020 --> 00:42:32.220
+Nawet jeszcze raz zagrałem sobie dzisiaj
+
+00:42:32.240 --> 00:42:37.040
+ten cały wątek z Billem i Frankiem.
+
+00:42:37.060 --> 00:42:40.560
+Właśnie Franka w grze jest...
+
+00:42:40.580 --> 00:42:43.080
+Historią.
+
+00:42:43.080 --> 00:42:47.080
+Nie, no jest, ale jest martwy.
+
+00:42:47.100 --> 00:42:49.100
+I tak jak mówimy,
+
+00:42:49.120 --> 00:42:51.920
+spoiler, jest jego list napisany.
+
+00:42:51.940 --> 00:42:54.640
+Bill mówi o tym, że to jest jego partner.
+
+00:42:54.660 --> 00:42:57.460
+Ta historia w grze jest zupełnie inna
+
+00:42:57.480 --> 00:42:59.880
+od tej, która jest w serialu, zupełnie inna.
+
+00:42:59.900 --> 00:43:03.900
+Bardzo mi się podobała
+
+00:43:03.920 --> 00:43:08.720
+ta cała pierwsza sekwencja perperska,
+
+00:43:08.740 --> 00:43:11.040
+że jak on jest przygotowany,
+
+00:43:11.040 --> 00:43:13.040
+jak ogarnia sobie to, że taki był...
+
+00:43:13.060 --> 00:43:15.060
+Wiesz, jakby są takie żarty o preperach,
+
+00:43:15.080 --> 00:43:17.080
+którzy nagle się cieszą, że jest tam kobieta.
+
+00:43:17.100 --> 00:43:19.100
+Tak, tak, tak.
+
+00:43:19.120 --> 00:43:22.120
+Wreszcie ma to sens, co robili całe życie.
+
+00:43:22.140 --> 00:43:24.140
+Bardzo mi się to podobało.
+
+00:43:24.160 --> 00:43:26.160
+Jak on się w ogóle zna na wszystkim, nie?
+
+00:43:26.180 --> 00:43:28.180
+To też fajna rzecz.
+
+00:43:28.200 --> 00:43:30.200
+Ja miałem... Jeszcze zanim...
+
+00:43:30.220 --> 00:43:32.220
+Przepraszam, że ci przerywam, chciałem powiedzieć,
+
+00:43:32.240 --> 00:43:34.240
+bo Nick Offerman, no tak się nazywa, prawda?
+
+00:43:34.260 --> 00:43:36.260
+Nick Offerman, proszę państwa, tak.
+
+00:43:36.280 --> 00:43:38.280
+To jest nieprzypadkowy bohater tego odcinka,
+
+00:43:38.300 --> 00:43:40.300
+a nieprzypadkowo on został Billem,
+
+00:43:40.300 --> 00:43:42.300
+więc Nick Offerman też absolutnie pasuje
+
+00:43:42.320 --> 00:43:44.320
+na takiego prepera.
+
+00:43:44.340 --> 00:43:46.340
+Znaczy raczej nie sądzę, żeby on miał bunkier w domu,
+
+00:43:46.360 --> 00:43:48.360
+natomiast ja bardzo lubię tego faceta.
+
+00:43:48.380 --> 00:43:50.380
+Ale w Park and Recreation to miał chyba bunkier
+
+00:43:50.400 --> 00:43:52.400
+i łapki na...
+
+00:43:52.420 --> 00:43:54.420
+Tak, tak, więc to nie jest pierwsza tego typu rola.
+
+00:43:54.440 --> 00:43:56.440
+On jest facetem, który mimo tego, że jest
+
+00:43:56.460 --> 00:43:58.460
+aktorem i sobie nieźle radzi,
+
+00:43:58.480 --> 00:44:00.480
+myślę, że coraz bardziej jest rozpoznawalny.
+
+00:44:00.500 --> 00:44:03.000
+On w Pam i Tomym chyba też zagrał?
+
+00:44:03.020 --> 00:44:05.020
+Czy dobrze pamiętam?
+
+00:44:05.040 --> 00:44:07.040
+Ty powinieneś wiedzieć, bo ty...
+
+00:44:07.060 --> 00:44:09.060
+Tak, tak.
+
+00:44:09.060 --> 00:44:11.060
+On gra takie role...
+
+00:44:11.080 --> 00:44:13.080
+Jako prezesa.
+
+00:44:13.100 --> 00:44:15.100
+On gra takie role drugoplanowe, ale dosyć charakterystyczne
+
+00:44:15.120 --> 00:44:17.120
+i on lubi takie ręczne roboty
+
+00:44:17.140 --> 00:44:19.140
+i zna się bardzo na tym.
+
+00:44:19.160 --> 00:44:21.160
+I uważa, że mężczyzna powinien umieć zrobić stolik
+
+00:44:21.180 --> 00:44:23.180
+jeżeli zajdzie taka potrzeba
+
+00:44:23.200 --> 00:44:25.200
+i posłużyć się piłą, więc pasuje do tej roli.
+
+00:44:25.220 --> 00:44:27.220
+Ale zdaje się, że prywatnie nie jest gejem,
+
+00:44:27.240 --> 00:44:29.240
+co myślałem, że wzbudzi kontrowersję.
+
+00:44:29.260 --> 00:44:31.260
+Bo miałem takie poczucie,
+
+00:44:31.280 --> 00:44:33.280
+że w dzisiejszym świecie
+
+00:44:33.300 --> 00:44:35.300
+o ile romans gejowski
+
+00:44:35.320 --> 00:44:37.320
+na ekranie nie wzbudza już takich kontrowersji,
+
+00:44:37.320 --> 00:44:39.320
+to fakt, że aktor,
+
+00:44:39.340 --> 00:44:41.340
+który nie jest gejem, gra geja,
+
+00:44:41.360 --> 00:44:43.360
+może wzbudzić kontrowersję.
+
+00:44:43.380 --> 00:44:45.380
+Ale już ci oddaję głos.
+
+00:44:45.400 --> 00:44:47.400
+A Frank jest gejem, czy nie jest gejem?
+
+00:44:47.420 --> 00:44:49.420
+Jest.
+
+00:44:49.440 --> 00:44:51.440
+No widzisz, bo w tym, w Lotosie...
+
+00:44:51.460 --> 00:44:53.460
+Znaczy aktor, pytasz o aktora?
+
+00:44:53.480 --> 00:44:55.480
+Aktora, tak.
+
+00:44:55.500 --> 00:44:57.500
+Tak, tak, on jest australijski aktor.
+
+00:44:57.520 --> 00:44:59.520
+Gdzieś jeszcze grał ostatnio. Czekaj, gdzie on jeszcze grał?
+
+00:44:59.540 --> 00:45:01.540
+Ja też go bardzo lubię.
+
+00:45:01.560 --> 00:45:03.560
+Bardzo go polubiłem w tym PM Lotosie.
+
+00:45:03.580 --> 00:45:05.580
+To była moja ulubiona postać.
+
+00:45:05.580 --> 00:45:07.580
+Świetnie.
+
+00:45:07.600 --> 00:45:09.600
+Dobrze, to już proszę państwa,
+
+00:45:09.620 --> 00:45:11.620
+pogadaliśmy o orientacji seksualnej.
+
+00:45:11.640 --> 00:45:13.640
+Kto może, a kto nie może.
+
+00:45:13.660 --> 00:45:15.660
+Ja mam trochę
+
+00:45:15.680 --> 00:45:17.680
+problem z tym
+
+00:45:17.700 --> 00:45:19.700
+ich poznaniem.
+
+00:45:19.720 --> 00:45:21.720
+To, że to tak szybko
+
+00:45:21.740 --> 00:45:23.740
+zachodzi.
+
+00:45:23.760 --> 00:45:25.760
+Rozumiem, że Bill
+
+00:45:25.780 --> 00:45:27.780
+jako Prepper
+
+00:45:27.800 --> 00:45:29.800
+chyba by się do końca tak nie zachował.
+
+00:45:29.820 --> 00:45:31.820
+Ale rozumiem też, że
+
+00:45:31.840 --> 00:45:33.840
+kwestie miłosne potrafią łamać
+
+00:45:33.840 --> 00:45:35.840
+radar. Oni mają ten podobno radar taki, że
+
+00:45:35.860 --> 00:45:37.860
+gejdar
+
+00:45:37.880 --> 00:45:39.880
+to się nazywa, tak?
+
+00:45:39.900 --> 00:45:41.900
+To jest dar po prostu.
+
+00:45:41.920 --> 00:45:43.920
+Może to zadziałało, nie?
+
+00:45:43.940 --> 00:45:45.940
+Może zadziałało,
+
+00:45:45.960 --> 00:45:47.960
+może nie zadziałało. Dla mnie tam było
+
+00:45:47.980 --> 00:45:49.980
+ten początek
+
+00:45:50.000 --> 00:45:52.000
+znajomości i tego romansu
+
+00:45:52.020 --> 00:45:54.020
+był dość średni.
+
+00:45:54.040 --> 00:45:56.040
+Ale powiem
+
+00:45:56.060 --> 00:45:58.060
+szczerze, że nawet się wzruszyłem w momencie,
+
+00:45:58.080 --> 00:46:00.080
+kiedy Eli czytała ten list
+
+00:46:00.100 --> 00:46:02.100
+i mówię wow.
+
+00:46:02.100 --> 00:46:04.100
+Jakby
+
+00:46:04.120 --> 00:46:06.120
+jak to jest dobrze zrobione.
+
+00:46:06.140 --> 00:46:08.140
+Bo, proszę Państwa,
+
+00:46:08.160 --> 00:46:10.160
+chodzi w tym odcinku
+
+00:46:10.180 --> 00:46:12.180
+o to, że nasz bohater
+
+00:46:12.200 --> 00:46:14.200
+Joel się zmienia.
+
+00:46:14.220 --> 00:46:16.220
+I to jest bardzo ważny punkt w każdej narracji.
+
+00:46:16.240 --> 00:46:18.240
+W każdej, absolutnie.
+
+00:46:18.260 --> 00:46:20.260
+Mamy tą drogę bohatera
+
+00:46:20.280 --> 00:46:22.280
+i mamy ten punkt, gdzie
+
+00:46:22.300 --> 00:46:24.300
+bohater zaczyna się zmieniać.
+
+00:46:24.320 --> 00:46:26.320
+W grze
+
+00:46:26.340 --> 00:46:28.340
+i to właśnie tym powodem tej zmiany
+
+00:46:28.360 --> 00:46:30.360
+jest
+
+00:46:30.360 --> 00:46:32.360
+troska.
+
+00:46:32.380 --> 00:46:34.380
+Tak to nazwę. W grze
+
+00:46:34.400 --> 00:46:36.400
+troskę o Eli...
+
+00:46:36.420 --> 00:46:38.420
+Cel?
+
+00:46:38.440 --> 00:46:40.440
+Odnalezienie celu, bo wydaje mi się, że
+
+00:46:40.460 --> 00:46:42.460
+po śmierci Tess, Joel...
+
+00:46:42.480 --> 00:46:44.480
+Tak, ale to jest troska, ten cel.
+
+00:46:44.500 --> 00:46:46.500
+Okej, jasne.
+
+00:46:46.520 --> 00:46:48.520
+W grze troskę o Eli
+
+00:46:48.540 --> 00:46:50.540
+okazujemy, proszę Państwa, przy każdej okazji.
+
+00:46:50.560 --> 00:46:52.560
+Znaczy, gdy Eli
+
+00:46:52.580 --> 00:46:54.580
+nie okazujemy tej
+
+00:46:54.600 --> 00:46:56.600
+troski i Eli ginie,
+
+00:46:56.620 --> 00:46:58.620
+zostaje zagryziona przez zombie,
+
+00:46:58.620 --> 00:47:00.620
+gra się kończy.
+
+00:47:00.640 --> 00:47:02.640
+Musimy powtarzać level.
+
+00:47:02.660 --> 00:47:04.660
+Musimy zaczynać od początku, więc
+
+00:47:04.680 --> 00:47:06.680
+my musimy ją chronić, bo
+
+00:47:06.700 --> 00:47:08.700
+inaczej nie przejdziemy dalej w grze.
+
+00:47:08.720 --> 00:47:10.720
+Więc łatwo
+
+00:47:10.740 --> 00:47:12.740
+i skutecznie twórcy gry
+
+00:47:12.760 --> 00:47:14.760
+sprawili, że nam
+
+00:47:14.780 --> 00:47:16.780
+zależy.
+
+00:47:16.800 --> 00:47:18.800
+Bo nie mamy wyjścia, proszę Państwa.
+
+00:47:18.820 --> 00:47:20.820
+To jest taki zabieg, który na szczęście gra jest na tyle dobrze napisana,
+
+00:47:20.840 --> 00:47:22.840
+że odczuwamy tą troskę
+
+00:47:22.860 --> 00:47:24.860
+faktycznie, ale nie mamy wyjścia.
+
+00:47:24.880 --> 00:47:26.880
+Musimy ją odczuwać.
+
+00:47:26.880 --> 00:47:28.880
+Oczywiście najpierw to jest mechanicznie,
+
+00:47:28.900 --> 00:47:30.900
+a potem już emocjonalnie.
+
+00:47:30.920 --> 00:47:32.920
+I działa to bardzo dobrze
+
+00:47:32.940 --> 00:47:34.940
+w grze. W serialu
+
+00:47:34.960 --> 00:47:36.960
+oczywiście nie mogło to działać.
+
+00:47:36.980 --> 00:47:38.980
+Więc, żeby pokazać
+
+00:47:39.000 --> 00:47:41.000
+to, że
+
+00:47:41.020 --> 00:47:43.020
+jemu zaczyna zależeć,
+
+00:47:43.040 --> 00:47:45.040
+wybrano dość taką
+
+00:47:45.060 --> 00:47:47.060
+oryginalną formę, czyli
+
+00:47:47.080 --> 00:47:49.080
+romans gejowski.
+
+00:47:49.100 --> 00:47:51.100
+Bo mamy...
+
+00:47:51.120 --> 00:47:53.120
+Joel!
+
+00:47:53.140 --> 00:47:55.140
+Cały ten odcinek jest o trosce.
+
+00:47:55.140 --> 00:47:57.140
+Cały ten odcinek jest w dbaniu,
+
+00:47:57.160 --> 00:47:59.160
+że masz kogoś, o kogo możesz się troszczyć,
+
+00:47:59.180 --> 00:48:01.180
+kogo możesz chronić.
+
+00:48:01.200 --> 00:48:03.200
+Bill pisze to w liście do Joela
+
+00:48:03.220 --> 00:48:05.220
+i mówi, że ty miałeś Tess,
+
+00:48:05.240 --> 00:48:07.240
+że ty masz Tess i ją chronisz.
+
+00:48:07.260 --> 00:48:09.260
+A Joel
+
+00:48:09.280 --> 00:48:11.280
+jest po stracie córki,
+
+00:48:11.300 --> 00:48:13.300
+którą też powinien chronić,
+
+00:48:13.320 --> 00:48:15.320
+po stracie Tess,
+
+00:48:15.340 --> 00:48:17.340
+którą też powinien chronić
+
+00:48:17.360 --> 00:48:19.360
+i została mu tylko Ellie.
+
+00:48:19.380 --> 00:48:21.380
+Nie ma nikogo więcej.
+
+00:48:21.400 --> 00:48:23.400
+I teraz zaczyna się to,
+
+00:48:23.400 --> 00:48:25.400
+znaczy ja to oczywiście tak interpretuję,
+
+00:48:25.420 --> 00:48:27.420
+proszę państwa,
+
+00:48:27.440 --> 00:48:29.440
+że to Joel
+
+00:48:29.460 --> 00:48:31.460
+teraz ma dla kogoś żyć
+
+00:48:31.480 --> 00:48:33.480
+to z tego całej fabuły,
+
+00:48:33.500 --> 00:48:35.500
+że masz dla kogo żyć,
+
+00:48:35.520 --> 00:48:37.520
+że jakby masz kogo chronić.
+
+00:48:37.540 --> 00:48:39.540
+To, o czym
+
+00:48:39.560 --> 00:48:41.560
+mówisz teraz,
+
+00:48:41.580 --> 00:48:43.580
+to nie tylko pokazuje
+
+00:48:43.600 --> 00:48:45.600
+tą przemianę Joela, ale to też
+
+00:48:45.620 --> 00:48:47.620
+my już wiemy, jak ta historia
+
+00:48:47.640 --> 00:48:49.640
+będzie się toczyła, jakie decyzje będzie musiał Joel podejmować
+
+00:48:49.660 --> 00:48:51.660
+na samym końcu. Nie wiemy, czy dokładnie takie,
+
+00:48:51.660 --> 00:48:53.660
+bo czy ta historia będzie dosłownie opowiedziana
+
+00:48:53.680 --> 00:48:55.680
+tak jak w grze, to nie jesteśmy pewni.
+
+00:48:55.700 --> 00:48:57.700
+Natomiast to, co się wydarzyło
+
+00:48:57.720 --> 00:48:59.720
+w tym trzecim odcinku,
+
+00:48:59.740 --> 00:49:01.740
+uzasadnia to, co na końcu
+
+00:49:01.760 --> 00:49:03.760
+Joel będzie musiał zrobić i wiesz,
+
+00:49:03.780 --> 00:49:05.780
+to jest zawsze takie pytanie, być może
+
+00:49:05.800 --> 00:49:07.800
+wychodzę za bardzo naprzeciw, ale
+
+00:49:07.820 --> 00:49:09.820
+czy warto ratować jednego człowieka
+
+00:49:09.840 --> 00:49:11.840
+kosztem być może całej ludzkości?
+
+00:49:11.860 --> 00:49:13.860
+Warto, jeżeli to jest trzecia osoba,
+
+00:49:13.880 --> 00:49:15.880
+którą musisz chronić,
+
+00:49:15.900 --> 00:49:17.900
+o którą musisz się troszczyć.
+
+00:49:17.920 --> 00:49:19.920
+Że tym bardziej warto.
+
+00:49:19.920 --> 00:49:21.920
+Te pierwsze odcinki
+
+00:49:21.940 --> 00:49:23.940
+też trochę pokazały nam
+
+00:49:23.960 --> 00:49:25.960
+stawkę. W pierwszym odcinku
+
+00:49:25.980 --> 00:49:27.980
+ginie
+
+00:49:28.000 --> 00:49:30.000
+córka,
+
+00:49:30.020 --> 00:49:32.020
+w drugim odcinku ginie Tez,
+
+00:49:32.040 --> 00:49:34.040
+w drugim odcinku ginie Tez
+
+00:49:34.060 --> 00:49:36.060
+i w trzecim
+
+00:49:36.080 --> 00:49:38.080
+mamy śmierć Bila
+
+00:49:38.100 --> 00:49:40.100
+i, Boże,
+
+00:49:40.120 --> 00:49:42.120
+Franka.
+
+00:49:42.140 --> 00:49:44.140
+Ta stawka
+
+00:49:44.160 --> 00:49:46.160
+jest emocjonalna.
+
+00:49:46.180 --> 00:49:48.180
+My już wiemy, z czym Joel się mierzył
+
+00:49:48.180 --> 00:49:50.180
+i z czym się mierzy.
+
+00:49:50.200 --> 00:49:52.200
+I bardzo dobrze jest to zagrane.
+
+00:49:52.220 --> 00:49:54.220
+Bardzo, bardzo dobrze.
+
+00:49:54.240 --> 00:49:56.240
+To jest coś takiego, co ja czuję, natomiast
+
+00:49:56.260 --> 00:49:58.260
+nie potrafiłbym tego opisać wcześniej.
+
+00:49:58.280 --> 00:50:00.280
+Faktycznie te śmierci, które się tam przydarzają
+
+00:50:00.300 --> 00:50:02.300
+stają się taką pewną normą tego świata,
+
+00:50:02.320 --> 00:50:04.320
+ale widać, jak one bardzo blisko dotykają Joela,
+
+00:50:04.340 --> 00:50:06.340
+że one się dzieją tuż obok niego,
+
+00:50:06.360 --> 00:50:08.360
+że w zasadzie ci ludzie,
+
+00:50:08.380 --> 00:50:10.380
+ci ludzie są, wiesz, to jest w ogóle
+
+00:50:10.400 --> 00:50:12.400
+jak w grze.
+
+00:50:12.420 --> 00:50:14.420
+Nam raz o to, o czym powiedziałeś,
+
+00:50:14.440 --> 00:50:16.440
+że jesteśmy zmuszeni do troski,
+
+00:50:16.440 --> 00:50:18.440
+to też taki jest charakter tej gry,
+
+00:50:18.460 --> 00:50:20.460
+ale też miałem takie poczucie, że śmierć
+
+00:50:20.480 --> 00:50:22.480
+córki była dla mnie wystarczającym
+
+00:50:22.500 --> 00:50:24.500
+motywatorem, żeby dbać o Ellie.
+
+00:50:24.520 --> 00:50:26.520
+Natomiast tutaj w serialu to mogło być
+
+00:50:26.540 --> 00:50:28.540
+za mało, chociaż może nie musiało być za mało.
+
+00:50:28.560 --> 00:50:30.560
+Ale te kilka kolejnych
+
+00:50:30.580 --> 00:50:32.580
+historii jeszcze bardziej
+
+00:50:32.600 --> 00:50:34.600
+przekonują nas do tego, wiesz, tam jest
+
+00:50:34.620 --> 00:50:36.620
+w ogóle dużo takich ciekawych smaczków.
+
+00:50:36.640 --> 00:50:38.640
+Dajcie jeszcze chwilkę przerwę. Zobacz, że do tej pory
+
+00:50:38.660 --> 00:50:40.660
+nie było
+
+00:50:40.680 --> 00:50:42.680
+żadnego
+
+00:50:42.700 --> 00:50:44.700
+takiej relacji
+
+00:50:44.700 --> 00:50:46.700
+córka między Joelem a Ellie.
+
+00:50:46.720 --> 00:50:48.720
+W ogóle
+
+00:50:48.740 --> 00:50:50.740
+mamy bardzo, bardzo
+
+00:50:50.760 --> 00:50:52.760
+szorstkie, takie
+
+00:50:52.780 --> 00:50:54.780
+takie suche relacje.
+
+00:50:54.800 --> 00:50:56.800
+Tak, tak, wiesz, to też jakby
+
+00:50:56.820 --> 00:50:58.820
+jest to uzasadnione, bo on
+
+00:50:58.840 --> 00:51:00.840
+zakładam, że jest trochę zamknięty
+
+00:51:00.860 --> 00:51:02.860
+przed tym światem, żeby nie doświadczyć straty, bo
+
+00:51:02.880 --> 00:51:04.880
+te pierwsze straty musiały być dla niego, ta pierwsza strata
+
+00:51:04.900 --> 00:51:06.900
+zwłaszcza musiała być dla niego potworna.
+
+00:51:06.920 --> 00:51:08.920
+W tym serialu jest dużo takich smaczków,
+
+00:51:08.940 --> 00:51:10.940
+że tam się nas
+
+00:51:10.960 --> 00:51:12.960
+nie wali po łbie informacjami.
+
+00:51:12.960 --> 00:51:14.960
+To znaczy, ludzie mi też zwrócili
+
+00:51:14.980 --> 00:51:16.980
+na to uwagę, że
+
+00:51:17.000 --> 00:51:19.000
+w pierwszym odcinku mamy takie
+
+00:51:19.020 --> 00:51:21.020
+sytuacje, że dzisiaj już wiemy,
+
+00:51:21.040 --> 00:51:23.040
+że produkty z mąką
+
+00:51:23.060 --> 00:51:25.060
+są winne tej masowej
+
+00:51:25.080 --> 00:51:27.080
+temu masowemu rozprzestrzenieniu się grzyba.
+
+00:51:27.100 --> 00:51:29.100
+Natomiast w pierwszym odcinku parę razy
+
+00:51:29.120 --> 00:51:31.120
+nasi bohaterowie odmawiają produktów
+
+00:51:31.140 --> 00:51:33.140
+bazujących na mące, czy odmawiają ciastek,
+
+00:51:33.160 --> 00:51:35.160
+czy nie kupuje Joel Tortu, o którym
+
+00:51:35.180 --> 00:51:37.180
+zapomina, czy coś tam się jeszcze wydarzy, czy
+
+00:51:37.200 --> 00:51:39.200
+nie zje śniadania, czy coś takiego.
+
+00:51:39.220 --> 00:51:41.220
+Więc jest dużo takich małych detali,
+
+00:51:41.220 --> 00:51:43.220
+które jak się zbierze razem,
+
+00:51:43.240 --> 00:51:45.240
+to one opowiadają bardzo, bardzo sensowną historię
+
+00:51:45.260 --> 00:51:47.260
+i jedna rzecz wynika z drugiego.
+
+00:51:47.280 --> 00:51:49.280
+Podoba mi się, jak bardzo to jest przemyślane
+
+00:51:49.300 --> 00:51:51.300
+i podoba mi się, że te wszystkie rzeczy
+
+00:51:51.320 --> 00:51:53.320
+nie muszą być nam, wiesz, komunikowane
+
+00:51:53.340 --> 00:51:55.340
+w sposób bezpośredni kilka razy.
+
+00:51:55.360 --> 00:51:57.360
+I ta przemiana Joela
+
+00:51:57.380 --> 00:51:59.380
+też nie odbywa się na zasadzie takiej
+
+00:51:59.400 --> 00:52:01.400
+o, tyle rzeczy doświadczyłem, teraz muszę
+
+00:52:01.420 --> 00:52:03.420
+dbać o Ellie, tylko my wiemy,
+
+00:52:03.440 --> 00:52:05.440
+jakby czujemy to podświadomie,
+
+00:52:05.460 --> 00:52:07.460
+czujemy to podskórnie. I to jest bardzo,
+
+00:52:07.480 --> 00:52:09.480
+bardzo, bardzo ciekawy fragment
+
+00:52:09.480 --> 00:52:11.480
+tej historii. Natomiast to, co
+
+00:52:11.500 --> 00:52:13.500
+to, co miało go
+
+00:52:13.520 --> 00:52:15.520
+jakby ostatecznie zmienić, czyli ten list,
+
+00:52:15.540 --> 00:52:17.540
+wiadomo, że tam nie ma żadnego znaczenia, czy to jest
+
+00:52:17.560 --> 00:52:19.560
+romans gejowski, czy to nie jest romans gejowski,
+
+00:52:19.580 --> 00:52:21.580
+to w tej całej historii chodzi tylko o to,
+
+00:52:21.600 --> 00:52:23.600
+że Bill wyraźnie Joelowi
+
+00:52:23.620 --> 00:52:25.620
+pokazuje, że troska, że
+
+00:52:25.640 --> 00:52:27.640
+cel jakiś, że opiekowanie się
+
+00:52:27.660 --> 00:52:29.660
+kimś może być jakimś celem
+
+00:52:29.680 --> 00:52:31.680
+i też jest fantastyczny ten moment,
+
+00:52:31.700 --> 00:52:33.700
+w którym Bill pisze do Joela, że
+
+00:52:33.720 --> 00:52:35.720
+my jesteśmy specyficzni, my jesteśmy trochę inni,
+
+00:52:35.740 --> 00:52:37.740
+my jesteśmy tutaj po to, żeby
+
+00:52:37.740 --> 00:52:39.740
+bronić, że do tego się nadajemy, do tego, żeśmy
+
+00:52:39.760 --> 00:52:41.760
+zostali stworzeni. I to też jest coś,
+
+00:52:41.780 --> 00:52:43.780
+co może być znaczące dla Joela,
+
+00:52:43.800 --> 00:52:45.800
+bo podejrzewam, że po tych stratach, to on może
+
+00:52:45.820 --> 00:52:47.820
+nie wiedzieć w zasadzie, co tu robi, czy ma sens
+
+00:52:47.840 --> 00:52:49.840
+w ogóle dalsze życie, bo się do niczego nie nadaje
+
+00:52:49.860 --> 00:52:51.860
+albo, albo wiesz, to tylko taka
+
+00:52:51.880 --> 00:52:53.880
+walka o przetrwanie, a teraz ma to sens, nie.
+
+00:52:53.900 --> 00:52:55.900
+Więc, więc podobała mi się ta
+
+00:52:55.920 --> 00:52:57.920
+historia. Chociaż sama,
+
+00:52:57.940 --> 00:52:59.940
+sama w sobie historia, bo to jakby
+
+00:52:59.960 --> 00:53:01.960
+przechodząc do, do, do szczególików,
+
+00:53:01.980 --> 00:53:03.980
+ja dosyć
+
+00:53:04.000 --> 00:53:06.000
+dużo komentarzy, bo ja też omawiałem to sobie
+
+00:53:06.000 --> 00:53:08.000
+zaraz po, po odcinku u siebie na,
+
+00:53:08.020 --> 00:53:10.020
+na kanale drugim. Dużo jest
+
+00:53:10.040 --> 00:53:12.040
+takich komentarzy,
+
+00:53:12.060 --> 00:53:14.060
+że ta historia być może
+
+00:53:14.080 --> 00:53:16.080
+jest za długa, że ona za bardzo, że
+
+00:53:16.100 --> 00:53:18.100
+gdyby jej nie było, to by w ogóle nie
+
+00:53:18.120 --> 00:53:20.120
+wpłynęła na, na, na tę opowieść.
+
+00:53:20.140 --> 00:53:22.140
+I pozornie, pozornie można
+
+00:53:22.160 --> 00:53:24.160
+takiej odnieść wrażenie, bo to jest 40 parę minut
+
+00:53:24.180 --> 00:53:26.180
+tego romansu, który nie
+
+00:53:26.200 --> 00:53:28.200
+styka się praktycznie z tą główną historią,
+
+00:53:28.220 --> 00:53:30.220
+ale uważam, że to, co,
+
+00:53:30.240 --> 00:53:32.240
+to, co rozumiemy, to, to w jaki sposób,
+
+00:53:32.260 --> 00:53:34.260
+że my poznajemy Joela
+
+00:53:34.260 --> 00:53:36.260
+poprzez poznawanie Bila, że oni
+
+00:53:36.280 --> 00:53:38.280
+są podobni. I ten list jakby to, to wskazuje,
+
+00:53:38.300 --> 00:53:40.300
+że, że równie dobrze to mogła być
+
+00:53:40.320 --> 00:53:42.320
+historia Joela i Tess
+
+00:53:42.340 --> 00:53:44.340
+i ich jakiegoś tam romansu, który
+
+00:53:44.360 --> 00:53:46.360
+zakończył się śmiercią w tym drugim odcinku.
+
+00:53:46.380 --> 00:53:48.380
+Że to mogło być, to mogło być coś innego,
+
+00:53:48.400 --> 00:53:50.400
+ale, ale twórcy serialu wybrali
+
+00:53:50.420 --> 00:53:52.420
+inną opowieść opowiadającą
+
+00:53:52.440 --> 00:53:54.440
+tak naprawdę o innych ludziach, ale o takich samych,
+
+00:53:54.460 --> 00:53:56.460
+z jakimi mamy do czynienia.
+
+00:53:56.480 --> 00:53:58.480
+Że, że, że Joel jest trochę Bilem,
+
+00:53:58.500 --> 00:54:00.500
+Eli jest trochę
+
+00:54:00.520 --> 00:54:02.520
+Frankiem. Oczywiście jakby
+
+00:54:02.520 --> 00:54:04.520
+relacja między nimi jest na zupełnie innym poziomie.
+
+00:54:04.540 --> 00:54:06.540
+Ok.
+
+00:54:06.560 --> 00:54:08.560
+Chodzi o relację, wiesz.
+
+00:54:08.580 --> 00:54:10.580
+To, to trochę zabawnie wyszło.
+
+00:54:10.600 --> 00:54:12.600
+Tak, tak, no, ale chodzi o rodzinną
+
+00:54:12.620 --> 00:54:14.620
+bardziej relację niż tam relację,
+
+00:54:14.640 --> 00:54:16.640
+relację romansową. Więc, więc
+
+00:54:16.660 --> 00:54:18.660
+ta historia oczywiście mogła być pominięta,
+
+00:54:18.680 --> 00:54:20.680
+mogła być krótsza, jest dużo różnych rzeczy,
+
+00:54:20.700 --> 00:54:22.700
+które mogłyby być tam zrobione inaczej,
+
+00:54:22.720 --> 00:54:24.720
+ale uważam, że jest, jest ciekawie.
+
+00:54:24.740 --> 00:54:26.740
+Ja z przyjemnością oglądałem ten serial, ten odcinek.
+
+00:54:26.760 --> 00:54:28.760
+Tak, znaczy mi się też bardzo podobał.
+
+00:54:28.780 --> 00:54:30.780
+Ale ja cały czas jestem
+
+00:54:30.780 --> 00:54:32.780
+pod wrażeniem, jak oni
+
+00:54:32.800 --> 00:54:34.800
+interpretują grę, jak oni
+
+00:54:34.820 --> 00:54:36.820
+adaptują tą grę,
+
+00:54:36.840 --> 00:54:38.840
+czego się czepiają, a
+
+00:54:38.860 --> 00:54:40.860
+co rozbudowują.
+
+00:54:40.880 --> 00:54:42.880
+No wiesz, jakby
+
+00:54:42.900 --> 00:54:44.900
+w, w
+
+00:54:44.920 --> 00:54:46.920
+grze Bill
+
+00:54:46.940 --> 00:54:48.940
+chodziliśmy z nim, tam był
+
+00:54:48.960 --> 00:54:50.960
+do tego Lincoln, tam było pełno pułapek.
+
+00:54:50.980 --> 00:54:54.980
+I tak naprawdę
+
+00:54:55.000 --> 00:54:57.000
+Bill na końcu mówił, że
+
+00:54:57.020 --> 00:54:59.020
+Frank to jest jego partner
+
+00:54:59.020 --> 00:55:01.020
+i był ten list
+
+00:55:01.040 --> 00:55:03.040
+pożegnalny Franka.
+
+00:55:03.060 --> 00:55:05.060
+Oczywiście to zostało mocno zmienione,
+
+00:55:05.080 --> 00:55:07.080
+ale jestem pod
+
+00:55:07.100 --> 00:55:09.100
+dużym wrażeniem, że to,
+
+00:55:09.120 --> 00:55:11.120
+że takie decyzje
+
+00:55:11.140 --> 00:55:13.140
+zapadły scenariuszowe,
+
+00:55:13.160 --> 00:55:15.160
+a nie inne, bo można było
+
+00:55:15.180 --> 00:55:17.180
+to zrobić na pewno łatwiej.
+
+00:55:17.200 --> 00:55:19.200
+Tak, tak.
+
+00:55:19.220 --> 00:55:21.220
+Bezpieczniej, o może złe słowo, bezpieczniej.
+
+00:55:21.240 --> 00:55:23.240
+Można było to zrobić bezpieczniej.
+
+00:55:23.260 --> 00:55:25.260
+Ja jestem, też jestem pod wrażeniem,
+
+00:55:25.280 --> 00:55:27.280
+zanim ten serial wyszedł i parę razy
+
+00:55:27.280 --> 00:55:29.280
+zresztą używałeś takiego stwierdzenia, że
+
+00:55:29.300 --> 00:55:31.300
+artyści mają problem
+
+00:55:31.320 --> 00:55:33.320
+z zabijaniem swoich
+
+00:55:33.340 --> 00:55:35.340
+dzieł, swoich dzieci, tak?
+
+00:55:35.360 --> 00:55:37.360
+Dzieci.
+
+00:55:37.380 --> 00:55:39.380
+Swoich tych tworów. I muszę
+
+00:55:39.400 --> 00:55:41.400
+przyznać, że
+
+00:55:41.420 --> 00:55:43.420
+jestem pod wrażeniem tego,
+
+00:55:43.440 --> 00:55:45.440
+jak bardzo
+
+00:55:45.460 --> 00:55:47.460
+Neil Druckmann jest gotów odejść
+
+00:55:47.480 --> 00:55:49.480
+od swojego dzieła, od swojego
+
+00:55:49.500 --> 00:55:51.500
+jakby pierwszego, pierwszego planu. I nie wiem, czy to jest wpływ
+
+00:55:51.520 --> 00:55:53.520
+Craig'a Mazina, czy tam jest jakieś zaufanie.
+
+00:55:53.540 --> 00:55:55.540
+No, no wiesz, w tym fabulastyku tych
+
+00:55:55.540 --> 00:55:57.540
+dwóch ludzi, no wiesz,
+
+00:55:57.560 --> 00:55:59.560
+jakby pojawiają się.
+
+00:55:59.580 --> 00:56:01.580
+Dochodzi do sensownej współpracy, to znaczy
+
+00:56:01.600 --> 00:56:03.600
+ani jeden, no, no, no
+
+00:56:03.620 --> 00:56:05.620
+można by było podejrzewać właśnie
+
+00:56:05.640 --> 00:56:07.640
+Druckmanna, że będzie walczył o te swoje rozwiązania,
+
+00:56:07.660 --> 00:56:09.660
+ponieważ ma prawo uznawać je za dobre.
+
+00:56:09.680 --> 00:56:11.680
+Ale jednak jest gotowy je zmieniać.
+
+00:56:11.700 --> 00:56:13.700
+Tam, tam, jestem bardzo ciekaw
+
+00:56:13.720 --> 00:56:15.720
+jak w ogóle ta współpraca będzie.
+
+00:56:15.740 --> 00:56:17.740
+To jest też stara historia, nie?
+
+00:56:17.760 --> 00:56:19.760
+Ona już ma dużo lat.
+
+00:56:19.780 --> 00:56:21.780
+Więc ja się nie dziwię tutaj, że
+
+00:56:21.800 --> 00:56:23.800
+że idzie to
+
+00:56:23.800 --> 00:56:25.800
+w jakąś taką stronę
+
+00:56:25.820 --> 00:56:27.820
+dużo bardziej oryginalną.
+
+00:56:27.840 --> 00:56:29.840
+A ja się dziwię. W sensie,
+
+00:56:29.860 --> 00:56:31.860
+dziwię się znając trochę ludzką naturę i przywiązanie
+
+00:56:31.880 --> 00:56:33.880
+do swoich własnych pomysłów,
+
+00:56:33.900 --> 00:56:35.900
+typowe dla ludzi. Bo ludzie bardzo rzadko rezygnują
+
+00:56:35.920 --> 00:56:37.920
+ze wcześniej obranej ścieżki,
+
+00:56:37.940 --> 00:56:39.940
+więc pod tym względem się dziwię.
+
+00:56:39.960 --> 00:56:41.960
+Ale uważam, że to jest dobra ścieżka,
+
+00:56:41.980 --> 00:56:43.980
+bardzo dobra, ale jestem zaskoczony pozytywnie,
+
+00:56:44.000 --> 00:56:46.000
+że tak się to odbywa i w tą stronę to poszło.
+
+00:56:46.020 --> 00:56:48.020
+I nawet jeżeli ktoś mu,
+
+00:56:48.040 --> 00:56:50.040
+bo to jest też tak, no, zawsze
+
+00:56:50.060 --> 00:56:52.060
+serial jest jakąś interpretacją, nawet jeżeli
+
+00:56:52.060 --> 00:56:54.060
+robisz swoje dzieło po raz kolejny,
+
+00:56:54.080 --> 00:56:56.080
+to mają prawo się tam pojawiać zmiany.
+
+00:56:56.100 --> 00:56:58.100
+Ale cieszę się, że one się pojawiają i one nie odbiegają.
+
+00:56:58.120 --> 00:57:00.120
+Jakby sens został zachowany
+
+00:57:00.140 --> 00:57:02.140
+i te historie, to nie jest tak,
+
+00:57:02.160 --> 00:57:04.160
+że to, wiesz, przydarzyło się coś
+
+00:57:04.180 --> 00:57:06.180
+totalnie niezwiązanego z historią
+
+00:57:06.200 --> 00:57:08.200
+z gry. Wszystko jest związane
+
+00:57:08.220 --> 00:57:10.220
+tylko ciutkę inaczej, ciutkę inaczej opowiedziane,
+
+00:57:10.240 --> 00:57:12.240
+ale efekt jest dokładnie ten sam.
+
+00:57:12.260 --> 00:57:14.260
+To, co można gameplayem zrobić w grze
+
+00:57:14.280 --> 00:57:16.280
+jest robione gameplayem.
+
+00:57:16.300 --> 00:57:18.300
+To, czego się nie da zrobić w serialu
+
+00:57:18.320 --> 00:57:20.320
+jest robione w inny sposób.
+
+00:57:20.320 --> 00:57:22.320
+No więc jakby emocjonalnie
+
+00:57:22.340 --> 00:57:24.340
+właśnie to jest ważne, że ta idea
+
+00:57:24.360 --> 00:57:26.360
+seria, to o czym jest
+
+00:57:26.380 --> 00:57:28.380
+ta gra, to jakie
+
+00:57:28.400 --> 00:57:30.400
+emocje się tam pojawiają, to serial
+
+00:57:30.420 --> 00:57:32.420
+bardzo dobrze to oddaje i super.
+
+00:57:32.440 --> 00:57:34.440
+Ja się cieszę i w sumie tyle
+
+00:57:34.460 --> 00:57:36.460
+mam do powiedzenia.
+
+00:57:36.480 --> 00:57:38.480
+Jest jeszcze jeden taki wątek, który
+
+00:57:38.500 --> 00:57:40.500
+gdzieś się tam pojawia i ja tak się biję
+
+00:57:40.520 --> 00:57:42.520
+z myślami zastanawiając nad nim.
+
+00:57:42.540 --> 00:57:44.540
+Pytanie, czy ten romans opowiedziany w takiej
+
+00:57:44.560 --> 00:57:46.560
+klasycznej formie,
+
+00:57:46.580 --> 00:57:48.580
+czyli heteroseksualnej,
+
+00:57:48.580 --> 00:57:50.580
+czy dokładnie
+
+00:57:50.600 --> 00:57:52.600
+tak samo opowiedziany ten romans
+
+00:57:52.620 --> 00:57:54.620
+wybrzmiałby dokładnie tak samo.
+
+00:57:54.640 --> 00:57:56.640
+A w grze był heteroseksualny romans?
+
+00:57:56.660 --> 00:57:58.660
+Nie, nie, nie, to wiadomo, że Frank
+
+00:57:58.680 --> 00:58:00.680
+był, tylko, że tam ten romans
+
+00:58:00.700 --> 00:58:02.700
+nie miał miejsca, on był wspomnieniem, on był
+
+00:58:02.720 --> 00:58:04.720
+taką wzmianką tylko.
+
+00:58:04.740 --> 00:58:06.740
+A kto miałby być kobietą, a kto mężczyzną?
+
+00:58:06.760 --> 00:58:08.760
+No obojętnie, no właśnie, to tak,
+
+00:58:08.780 --> 00:58:10.780
+no nie da się, bo trzeba by stworzyć zupełnie
+
+00:58:10.800 --> 00:58:12.800
+nowe postacie i to by się kupy nie trzymało.
+
+00:58:12.820 --> 00:58:14.820
+Więc niezależnie od tego, wiesz,
+
+00:58:14.840 --> 00:58:16.840
+staram się wsłuchać w głosy krytyczne,
+
+00:58:16.840 --> 00:58:18.840
+bo są ludzie, którzy mówią, ok, ten fragment
+
+00:58:18.860 --> 00:58:20.860
+był za długi, ja się nie zgadzam, bo się bawiłem
+
+00:58:20.880 --> 00:58:22.880
+na nim za dobrze.
+
+00:58:22.900 --> 00:58:24.900
+I gdyby to nie był romans gejowski,
+
+00:58:24.920 --> 00:58:26.920
+to by się nam wydawało, że jest naiwny.
+
+00:58:26.940 --> 00:58:28.940
+To jest drugi głos. Trzeci głos, że wszelka
+
+00:58:28.960 --> 00:58:30.960
+krytyka trzeciego odcinka jest
+
+00:58:30.980 --> 00:58:32.980
+kojarzona z homofobią
+
+00:58:33.000 --> 00:58:35.000
+i jakby ludziom jest odbierany
+
+00:58:35.020 --> 00:58:37.020
+głos w związku z tym.
+
+00:58:37.040 --> 00:58:39.040
+Są takie trzy krytyczne uwagi w stosunku
+
+00:58:39.060 --> 00:58:41.060
+do tego odcinka. Trudno mi się z nimi zgodzić,
+
+00:58:41.080 --> 00:58:43.080
+ale jakby wysłuchałem ich.
+
+00:58:43.100 --> 00:58:45.100
+No to jeżeli romans gejowski działa
+
+00:58:45.100 --> 00:58:47.100
+w tym przypadku lepiej niż heteroseksualny,
+
+00:58:47.120 --> 00:58:49.120
+to znaczy, że twórcy dobrze zrobili, tak?
+
+00:58:49.140 --> 00:58:51.140
+Tak, tak, tak.
+
+00:58:51.160 --> 00:58:53.160
+Ale być może romans gejowski
+
+00:58:53.180 --> 00:58:55.180
+jest na tyle szokujący, że
+
+00:58:55.200 --> 00:58:57.200
+nie dostrzegamy jego braków jako romansu.
+
+00:58:57.220 --> 00:58:59.220
+No może, nie wiem, jakby...
+
+00:58:59.240 --> 00:59:01.240
+Nie wiem, dla mnie
+
+00:59:01.260 --> 00:59:03.260
+romans gejowski w ogóle nie jest szokujący.
+
+00:59:03.280 --> 00:59:05.280
+Odkryłem z niepokojem,
+
+00:59:05.300 --> 00:59:07.300
+że dla mnie też nie jest.
+
+00:59:07.320 --> 00:59:09.320
+Ja pochodzę z takiego pokolenia, więc
+
+00:59:09.340 --> 00:59:11.340
+że teoretycznie powinien być.
+
+00:59:11.360 --> 00:59:13.360
+Moja żona, to też muszę
+
+00:59:13.360 --> 00:59:15.360
+ją trochę tutaj...
+
+00:59:15.380 --> 00:59:17.380
+Ona się chowała pod kołdrą, jak się faceci całowali,
+
+00:59:17.400 --> 00:59:19.400
+bo my jesteśmy z takiego pokolenia, gdzie takie
+
+00:59:19.420 --> 00:59:21.420
+widoki nie są nam bliskie, a wręcz
+
+00:59:21.440 --> 00:59:23.440
+mamy do głowy wbijane, albo
+
+00:59:23.460 --> 00:59:25.460
+w młodości mieliśmy, że to są niewłaściwe obrazy.
+
+00:59:25.480 --> 00:59:27.480
+Więc potrzeba trochę czasu, żeby...
+
+00:59:27.500 --> 00:59:29.500
+Odsyłam państwa do początku
+
+00:59:29.520 --> 00:59:31.520
+naszego podcastu.
+
+00:59:31.540 --> 00:59:33.540
+Ha, ha, ha.
+
+00:59:33.560 --> 00:59:35.560
+Proszę cię.
+
+00:59:35.580 --> 00:59:37.580
+I już zamykajmy ten podcast. Już jakby koniec.
+
+00:59:37.600 --> 00:59:39.600
+Tak się dobrze rozmawia. Niech cię licha paruje.
+
+00:59:39.620 --> 00:59:41.620
+Proszę państwa.
+
+00:59:41.620 --> 00:59:43.620
+Już koniec. Zamykam
+
+00:59:43.640 --> 00:59:45.640
+ten temat.
+
+00:59:45.660 --> 00:59:47.660
+Jak się wam podobał
+
+00:59:47.680 --> 00:59:49.680
+trzeci odcinek The Last of Us?
+
+00:59:49.700 --> 00:59:51.700
+Czy geje są źli, czy dobrze?
+
+00:59:51.720 --> 00:59:53.720
+Bardzo dobrze.
+
+00:59:53.740 --> 00:59:55.740
+Nie, oczywiście
+
+00:59:55.760 --> 00:59:57.760
+żartuję, bo
+
+00:59:57.780 --> 00:59:59.780
+wiemy, że
+
+00:59:59.800 --> 01:00:01.800
+dużo narzekań.
+
+01:00:01.820 --> 01:00:03.820
+Że
+
+01:00:03.840 --> 01:00:05.840
+polscy widzowie musieli
+
+01:00:05.860 --> 01:00:07.860
+zobaczyć, jak się dwóch chłopów całuje.
+
+01:00:07.880 --> 01:00:09.880
+To może być traumatyczne dla wielu.
+
+01:00:09.880 --> 01:00:11.880
+Jeszcze sami spróbują.
+
+01:00:11.900 --> 01:00:13.900
+Ha, ha, ha.
+
+01:00:13.920 --> 01:00:15.920
+Dobrze, żartuję.
+
+01:00:15.940 --> 01:00:17.940
+Jak się wam...
+
+01:00:17.960 --> 01:00:19.960
+Jakie wrażenia po trzecim odcinku?
+
+01:00:19.980 --> 01:00:21.980
+Dajcie znać. Ja z chęcią
+
+01:00:22.000 --> 01:00:24.000
+na streamie zawsze czytam
+
+01:00:24.020 --> 01:00:26.020
+te komentarze.
+
+01:00:26.040 --> 01:00:28.040
+W szczególności takie, które
+
+01:00:28.060 --> 01:00:30.060
+mówią o jakichś konkretach.
+
+01:00:30.080 --> 01:00:32.080
+No i czy używacie
+
+01:00:32.100 --> 01:00:34.100
+czata GPT? Jeżeli używacie,
+
+01:00:34.120 --> 01:00:36.120
+to ciekawią
+
+01:00:36.140 --> 01:00:38.140
+mnie te takie case'y,
+
+01:00:38.140 --> 01:00:40.140
+scenariusze zawodowe.
+
+01:00:40.160 --> 01:00:42.160
+O, a mnie, a mnie, a mnie
+
+01:00:42.180 --> 01:00:44.180
+to, to oczywiście jest jak najbardziej
+
+01:00:44.200 --> 01:00:46.200
+zasadne, a mnie takie
+
+01:00:46.220 --> 01:00:48.220
+błahe scenariusze interesują.
+
+01:00:48.240 --> 01:00:50.240
+Do jakich błahostek wykorzystujecie, jeżeli wykorzystujecie?
+
+01:00:50.260 --> 01:00:52.260
+I polecam gorąco, jeżeli
+
+01:00:52.280 --> 01:00:54.280
+nie, to żebyście sobie to sprawdzili, bo to
+
+01:00:54.300 --> 01:00:56.300
+jest narzędzie przyszłości.
+
+01:00:56.320 --> 01:00:58.320
+I zachęcać dzieci do korzystania.
+
+01:00:58.340 --> 01:01:00.340
+Niech, no, tfu, tfu na tych
+
+01:01:00.360 --> 01:01:02.360
+skołduniarskich edukatorów.
+
+01:01:02.380 --> 01:01:04.380
+Trzymajcie się.
+
+01:01:04.400 --> 01:01:06.400
+Pozdrawiamy. Pa, pa.
+

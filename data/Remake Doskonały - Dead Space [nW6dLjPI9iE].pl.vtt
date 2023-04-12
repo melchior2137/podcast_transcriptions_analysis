@@ -1,0 +1,5821 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:04.600
+Dzień dobry, witamy państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:04.600 --> 00:00:10.400
+Dzień dobry Remigiuszu, witam państwa delikatnie serdeczniej niż Remigiusz.
+
+00:00:10.400 --> 00:00:12.400
+Tak, no właśnie, nie przesadzajmy.
+
+00:00:12.400 --> 00:00:16.000
+Co tam słychać ciekawego?
+
+00:00:16.000 --> 00:00:20.000
+Wydarzyło się coś jakoś miło, tydzień minął? Co tam porabiałeś?
+
+00:00:20.000 --> 00:00:26.000
+Byłem w takim studiu, co robi taką grę Forever Skies, z takim moim kolegą.
+
+00:00:26.000 --> 00:00:28.000
+Z tym kolegą?
+
+00:00:28.000 --> 00:00:38.000
+Dobra, ze znajomym, ze znajomym z roboty.
+
+00:00:38.000 --> 00:00:43.000
+No i z Andrzejem, czyli CEO, porozmawialiśmy sobie.
+
+00:00:43.000 --> 00:00:49.000
+Jeszcze nie wiemy kiedy dokładnie puścimy ten podcast, wyszedł bardzo długi, bo wyszedł ponad półtorej godziny.
+
+00:00:49.000 --> 00:00:51.000
+Tak coś czułem, że długo gadamy.
+
+00:00:51.000 --> 00:00:55.000
+I mam takie wrażenie, że tyle wątków nie poruszyliśmy,
+
+00:00:55.000 --> 00:00:59.000
+że to jednak jest, dużo tam było tematów ciekawych,
+
+00:00:59.000 --> 00:01:05.000
+ale państwo usłyszą, zobaczą, powiedzą, to przecież zawsze można nadrobić.
+
+00:01:05.000 --> 00:01:07.000
+Mi się ta rozmowa bardzo podobała, zresztą jak każda mi się podoba,
+
+00:01:07.000 --> 00:01:11.000
+ale widać było po Andrzeju, jakby chyba parę razy powtórzyłem na wywiadzie,
+
+00:01:11.000 --> 00:01:13.000
+widać, że rozmawiamy z programistą.
+
+00:01:13.000 --> 00:01:16.000
+On ma tak wszystko analitycznie przemyślane, to w ogóle super sprawa.
+
+00:01:16.000 --> 00:01:22.000
+Można by łatwo zrobić notatki, jak sobie poradzić z branżą i robić dobrą grę.
+
+00:01:22.000 --> 00:01:26.000
+Tak, zachęcamy państwa, jak to tylko się pojawi, pojawi się prędzej czy później.
+
+00:01:26.000 --> 00:01:34.000
+Więc jeszcze wziąłem gościnnie udział w podcaście filmowym o Midsommar i Hereditary.
+
+00:01:34.000 --> 00:01:37.000
+Ja państwu będę linkował oczywiście, jak wyjdzie ten podcast,
+
+00:01:37.000 --> 00:01:40.000
+to dam państwu znać bardzo i obejrzałem sobie jeszcze raz Hereditary
+
+00:01:40.000 --> 00:01:42.000
+i to jest świetny film.
+
+00:01:42.000 --> 00:01:44.000
+To jest masakra ten film.
+
+00:01:44.000 --> 00:01:48.000
+No ale to prawda, jest w nim coś takiego.
+
+00:01:48.000 --> 00:01:52.000
+To jest bardzo, bardzo, bardzo, bardzo kunsztowny jest ten film.
+
+00:01:52.000 --> 00:01:56.000
+Ja tak doceniam to, jak tam detal gra, jak tam wszystko się zgadza,
+
+00:01:56.000 --> 00:02:00.000
+więc fajnie, fajnie, takie rzeczy.
+
+00:02:00.000 --> 00:02:04.000
+Pogadaliśmy sobie, pogadaliśmy sobie, ale to jak będzie podcast dostępny,
+
+00:02:04.000 --> 00:02:07.000
+to państwu o tym powiem i zaproszę.
+
+00:02:07.000 --> 00:02:12.000
+No i grałem głównie w dwie bardzo ciekawe gry,
+
+00:02:12.000 --> 00:02:16.000
+czyli w Dead Space Remake i w Hi-Fi Rush.
+
+00:02:16.000 --> 00:02:18.000
+A no tak, to jest to, co jest naszym...
+
+00:02:18.000 --> 00:02:20.000
+A co ty robiłeś, Remigiusz?
+
+00:02:20.000 --> 00:02:23.000
+O Jezu, panie kochany, no same dobre rzeczy jak zwykle ja...
+
+00:02:23.000 --> 00:02:25.000
+Same dobre rzeczy robiłeś?
+
+00:02:25.000 --> 00:02:30.000
+No nie no, śniadanie, obiad.
+
+00:02:30.000 --> 00:02:35.000
+Jak już wstanę rano i dobrze się czuję, to już jest dobra rzecz, nie?
+
+00:02:35.000 --> 00:02:39.000
+Chciałem powiedzieć, że jestem wreszcie zadowolony z tego całego setupu,
+
+00:02:39.000 --> 00:02:41.000
+który sobie tutaj ułożyłem.
+
+00:02:41.000 --> 00:02:45.000
+Wszystko działa i wiesz, to jest też tak, że chyba w sumie sześć dni
+
+00:02:45.000 --> 00:02:49.000
+zajęło mi ustawianie tego całego sprzętu po to, żeby działał jak należy.
+
+00:02:49.000 --> 00:02:52.000
+Nie po to, żeby był wybitny, najlepszy na świecie,
+
+00:02:52.000 --> 00:02:55.000
+wiesz, godny polecenia, tylko żeby po prostu działał jak należy,
+
+00:02:55.000 --> 00:02:58.000
+żeby każda część, którą tu kupiłem, spełniała swoją funkcję.
+
+00:02:58.000 --> 00:03:02.000
+I powiem ci, że kurde, udało mi się osiągnąć rzeczy nieosiągalne do tej pory,
+
+00:03:02.000 --> 00:03:05.000
+bo nawet ta gówniana kamera, którą mam od dawna,
+
+00:03:05.000 --> 00:03:07.000
+wreszcie daje jakiś przyzwoity obraz.
+
+00:03:07.000 --> 00:03:08.000
+Oczywiście to idzie do wymiany.
+
+00:03:08.000 --> 00:03:09.000
+Jest ostry.
+
+00:03:09.000 --> 00:03:10.000
+Przepraszam? Tak, to jest podstawa?
+
+00:03:10.000 --> 00:03:11.000
+Jest ostry, tak.
+
+00:03:11.000 --> 00:03:13.000
+A, jest ostry, jestem ostry, jestem jak żleta.
+
+00:03:13.000 --> 00:03:15.000
+Też dzisiaj będę także szykuć.
+
+00:03:15.000 --> 00:03:16.000
+Maszeta.
+
+00:03:16.000 --> 00:03:18.000
+Jak maszeta, okej.
+
+00:03:18.000 --> 00:03:23.000
+Okej, no ale i tak, i tak już jestem zaopatrzony w specjalną kartę,
+
+00:03:23.000 --> 00:03:26.000
+która pozwoli mi przechwycić lustrzankę, więc będę się zaopatrzał w jakiś sprzęt
+
+00:03:26.000 --> 00:03:30.000
+z poporządnym obiektywem, więc będę do ciebie się zwracał pewnie
+
+00:03:30.000 --> 00:03:32.000
+po jakieś porady w tej kwestii.
+
+00:03:32.000 --> 00:03:33.000
+No dobrze.
+
+00:03:33.000 --> 00:03:36.000
+I wtedy już będzie totalnie super, ale oczywiście trwoga mnie dopada,
+
+00:03:36.000 --> 00:03:39.000
+bo to oznacza, że trzeba będzie jeszcze jeden sprzęt wymienić
+
+00:03:39.000 --> 00:03:42.000
+i nie wiadomo, czy zadziała od razu i będę się znowu męczył przez parę dni.
+
+00:03:42.000 --> 00:03:44.000
+Ale jestem, jestem bardzo zadowolony.
+
+00:03:44.000 --> 00:03:47.000
+Też pogrywałem w te gry, które, o których ty wspomniałeś.
+
+00:03:47.000 --> 00:03:52.000
+Podejrzewam, że nie mam takiego, takich, takiej ilości godzin jak ty,
+
+00:03:52.000 --> 00:03:57.000
+bo ja jeszcze nagrywam to, potem to montuję i potem renderuję
+
+00:03:57.000 --> 00:03:59.000
+i to mi trochę czasu więcej zajmuje, ale zobaczymy.
+
+00:03:59.000 --> 00:04:02.000
+Pogadamy, tak czy inaczej, ja też ten tydzień spędziłem na tych,
+
+00:04:02.000 --> 00:04:05.000
+przy tych dwóch grach i było całkiem sympatycznie,
+
+00:04:05.000 --> 00:04:08.000
+ale też oczywiście łażę, uprawiam sport, nawet gdzieś tam między,
+
+00:04:08.000 --> 00:04:13.000
+między jednym a, a drugim nagraniem Dead Space'a zachęcałem państwa.
+
+00:04:13.000 --> 00:04:16.000
+Proszę państwa, polecam, być może powinienem to polecać częściej,
+
+00:04:16.000 --> 00:04:23.000
+ale jest taki bardzo prosty sposób na w miarę sensowne, nie wiem, zdrowe życie,
+
+00:04:23.000 --> 00:04:26.000
+czyli dwa spacery półgodzinne, dziennie, intensywne,
+
+00:04:26.000 --> 00:04:28.000
+to naprawdę nie zajmuje dużo czasu.
+
+00:04:28.000 --> 00:04:31.000
+A tyle dostarcza energii takiej psychicznej.
+
+00:04:31.000 --> 00:04:33.000
+Ja, ja nie doceniałem spacerów wcześniej.
+
+00:04:33.000 --> 00:04:35.000
+Wydawało mi się, że albo jakaś siłownia, albo jakieś bieganie,
+
+00:04:35.000 --> 00:04:40.000
+że to ma sens, natomiast od półtora roku tak bardzo intensywnie uskuteczniam
+
+00:04:40.000 --> 00:04:42.000
+te spacery i polecam.
+
+00:04:42.000 --> 00:04:45.000
+To jeden z widzów mi napisał, że przestał się wygłupiać z tymi ciężarkami,
+
+00:04:45.000 --> 00:04:47.000
+z tymi bombkami, niech idę na spacer.
+
+00:04:47.000 --> 00:04:50.000
+To go zwyzywałem, mówię, co ty mi mówisz, co ja mam robić?
+
+00:04:50.000 --> 00:04:53.000
+Ale wiesz, zwyzywałem, ale powiedziałem, no dobra, pójdę, sprawdzę.
+
+00:04:53.000 --> 00:04:57.000
+I, i to bardzo dobry wpływ na mnie miało i naprawdę, gorąco, gorąco polecam,
+
+00:04:57.000 --> 00:04:58.000
+jak macie czas.
+
+00:04:58.000 --> 00:05:00.000
+Czy, czekaj, Rewigiuszu, to trzeba powiedzieć,
+
+00:05:00.000 --> 00:05:05.000
+czy, zapytam cię tak szczerze, czy to już jest ten wiek, gdzie uważasz
+
+00:05:05.000 --> 00:05:08.000
+spacer za dobrą rozrywkę?
+
+00:05:08.000 --> 00:05:12.000
+Zależy od towarzystwa, ja zawsze z żoną spaceruję, więc to jest,
+
+00:05:12.000 --> 00:05:15.000
+ja wiem, spacer to w ogóle brzmi jak przygoda dla emeryta
+
+00:05:15.000 --> 00:05:18.000
+i to jest, jakby rozumiem, jeżeli ktoś ma takie skojarzenia,
+
+00:05:18.000 --> 00:05:21.000
+ale nawet jak się jest młodym człowiekiem, to warto, warto to doceniać.
+
+00:05:21.000 --> 00:05:25.000
+Ja gdzieś tam w przeszłości, jak jeszcze miałem wypożyczalnię DVD,
+
+00:05:25.000 --> 00:05:29.000
+to z mojej wypożyczalni do domu było jakieś tam 3-4 kilometry
+
+00:05:29.000 --> 00:05:32.000
+i było takie pół roku, że wolałem chodzić na piechotę
+
+00:05:32.000 --> 00:05:35.000
+i to też bardzo dobrze na mnie wpłynęło, tylko jakoś tego nie zakodowałem sobie.
+
+00:05:35.000 --> 00:05:38.000
+Teraz jak przypominam sobie, to wiem, że to był dobry okres dla mnie,
+
+00:05:38.000 --> 00:05:42.000
+a teraz, no, więc, więc miałem to we wspomnieniach,
+
+00:05:42.000 --> 00:05:45.000
+ale, ale z jakiegoś powodu uznałem, że to nie jest dobry sposób.
+
+00:05:45.000 --> 00:05:48.000
+Więc nie bądźcie tacy jak ja, przemądrzalscy,
+
+00:05:48.000 --> 00:05:52.000
+tylko wybierzcie się parę razy na spacer, zobaczycie, docenicie to po jakimś czasie.
+
+00:05:52.000 --> 00:05:54.000
+Ani nie bądźcie tacy jak ja, przemądrzalscy.
+
+00:05:54.000 --> 00:05:57.000
+Ja doceniam spacery, bardzo lubię chodzić od dawna.
+
+00:05:57.000 --> 00:06:01.000
+To oczywiście żartuję z tym wiekiem, bo ja lubię bardzo chodzić.
+
+00:06:01.000 --> 00:06:08.000
+I zresztą powiem ci, chyba jak pierwszy raz gdzieś wyjeżdżaliśmy,
+
+00:06:08.000 --> 00:06:14.000
+to ja tak, mówię, bratnią duszę w tobie znalazłem, bo ja lubię wszędzie łazić.
+
+00:06:14.000 --> 00:06:17.000
+Mówię, to ile tam jest, 40 minut, a ty mówisz, no to idziemy.
+
+00:06:17.000 --> 00:06:21.000
+A ja mówię, świetnie, chodźmy.
+
+00:06:21.000 --> 00:06:25.000
+No, no, w ogóle wydaje mi się, że w tym San Francisco to znowu się naładzimy.
+
+00:06:25.000 --> 00:06:29.000
+W ogóle ja do tego stopnia cenię te spacery.
+
+00:06:29.000 --> 00:06:33.000
+Że jak Borys trzy razy zapomniał czegoś na targi zabrać,
+
+00:06:33.000 --> 00:06:35.000
+to w ogóle mi nie przeszkadzało, żeśmy łazili w tej i z powrotem.
+
+00:06:35.000 --> 00:06:37.000
+Rekord kroku w ogóle.
+
+00:06:37.000 --> 00:06:40.000
+To prawda, to prawda. A czy wysłałeś maila do GDC?
+
+00:06:40.000 --> 00:06:42.000
+Nie, zapomniałem, ja pierniczę.
+
+00:06:42.000 --> 00:06:46.000
+No to dzisiaj musisz, bo tam jesteśmy na kroku.
+
+00:06:46.000 --> 00:06:49.000
+Ja już dostałem akredytację na GDC i na PAX-a.
+
+00:06:49.000 --> 00:06:55.000
+Sprawdź maila też a propos PAX-a, bo też powinieneś dostać.
+
+00:06:55.000 --> 00:06:59.000
+Dlatego z PAX-a nie idziemy, ale posprawiam różne inne tam dodatkowe,
+
+00:06:59.000 --> 00:07:01.000
+te zastępcze foldery.
+
+00:07:01.000 --> 00:07:04.000
+No i wyżej ty będziesz korzystał z życia miasta,
+
+00:07:04.000 --> 00:07:07.000
+a ja tam sobie pójdę na GDC i na PAX-a.
+
+00:07:07.000 --> 00:07:09.000
+Zbiorę kosę w San Francisco.
+
+00:07:09.000 --> 00:07:12.000
+Tak, poznasz trochę bezdomnych, będzie spoko.
+
+00:07:12.000 --> 00:07:15.000
+Kupisz sobie kamerę, będziesz miał czas, posprawdzasz.
+
+00:07:15.000 --> 00:07:17.000
+Ja ci opowiem jak było.
+
+00:07:17.000 --> 00:07:20.000
+No w San Francisco to Stanford trzeba odwiedzić,
+
+00:07:20.000 --> 00:07:22.000
+bo to jest po prostu miejsce...
+
+00:07:22.000 --> 00:07:24.000
+Tak, chcesz jeszcze raz jechać?
+
+00:07:24.000 --> 00:07:26.000
+Pojechałbym, bo to jest niesamowita sprawa,
+
+00:07:26.000 --> 00:07:28.000
+taki popatrzeć na ten obiekt.
+
+00:07:28.000 --> 00:07:30.000
+Miałem wrażenie, że mi na IQ o 5 wzrosło
+
+00:07:30.000 --> 00:07:32.000
+podczas ostatniej wizyty.
+
+00:07:32.000 --> 00:07:35.000
+Zdjęcie tylko na Tlerow i Stanforda?
+
+00:07:35.000 --> 00:07:37.000
+Już jest lepiej.
+
+00:07:37.000 --> 00:07:40.000
+No nie wiem, ja jestem w ogóle też za tym,
+
+00:07:40.000 --> 00:07:44.000
+żebyśmy trochę dobrych rzeczy zjedli.
+
+00:07:44.000 --> 00:07:47.000
+O nie, to na pewno. Ja kurde szykuję dietę już od dwóch miesięcy,
+
+00:07:47.000 --> 00:07:49.000
+żeby mieć ten brak iść.
+
+00:07:49.000 --> 00:07:52.000
+To dobrze, ale tam na miejscu dużo będziemy chodzić,
+
+00:07:52.000 --> 00:07:54.000
+więc nie będzie problemu.
+
+00:07:54.000 --> 00:07:57.000
+Ale to jeszcze jest daleko, dwa miesiące prawie,
+
+00:07:57.000 --> 00:08:00.000
+więc tyle w sumie.
+
+00:08:00.000 --> 00:08:02.000
+Chodzenie fajne, ja lubię.
+
+00:08:02.000 --> 00:08:04.000
+Tak podsumowując.
+
+00:08:04.000 --> 00:08:06.000
+Spoko, spoko.
+
+00:08:06.000 --> 00:08:08.000
+A ten PAX to też się odbywa w San Francisco?
+
+00:08:08.000 --> 00:08:10.000
+W Bostonie.
+
+00:08:10.000 --> 00:08:12.000
+Tam zimniej.
+
+00:08:12.000 --> 00:08:14.000
+Boston też jest super, Boston jest naprawdę.
+
+00:08:14.000 --> 00:08:17.000
+Zwłaszcza teraz przy okazji The Last of Us,
+
+00:08:17.000 --> 00:08:19.000
+to można Boston popodziwiać jeszcze
+
+00:08:19.000 --> 00:08:21.000
+i porobić specjalne, możemy w ogóle wiesz,
+
+00:08:21.000 --> 00:08:24.000
+ujęcia z miejsc, które były w tym, w serialu.
+
+00:08:24.000 --> 00:08:27.000
+Jako, że ja i tak właśnie tę lustrzankę
+
+00:08:27.000 --> 00:08:29.000
+to ja sobie muszę kupić z dwóch powodów.
+
+00:08:29.000 --> 00:08:31.000
+Po pierwsze chcę mieć narzędzia do vlogowania,
+
+00:08:31.000 --> 00:08:33.000
+jakieś takie.
+
+00:08:33.000 --> 00:08:35.000
+I to się może sprawdzić.
+
+00:08:35.000 --> 00:08:37.000
+No i w tych Stanach Zjednoczonych też jest,
+
+00:08:37.000 --> 00:08:39.000
+też będzie parę takich fajnych okazji
+
+00:08:39.000 --> 00:08:41.000
+do vlogowania.
+
+00:08:41.000 --> 00:08:42.000
+To będzie ciekawe.
+
+00:08:42.000 --> 00:08:44.000
+Ale będę vlogową na moim drugim kanale.
+
+00:08:44.000 --> 00:08:45.000
+Także zachęcam, Rockplay.
+
+00:08:45.000 --> 00:08:47.000
+Bo tu już nie chcę poza podcasty wychodzić.
+
+00:08:47.000 --> 00:08:48.000
+To się tak dobrze, ładnie układa.
+
+00:08:48.000 --> 00:08:51.000
+Ja w ogóle mam plan, że będziemy robić podcasty.
+
+00:08:51.000 --> 00:08:52.000
+Dużo.
+
+00:08:52.000 --> 00:08:54.000
+I w ogóle stwierdziłem ostatnio,
+
+00:08:54.000 --> 00:08:56.000
+że w ogóle kamery nie biorę.
+
+00:08:56.000 --> 00:08:57.000
+W ogóle?
+
+00:08:57.000 --> 00:08:58.000
+W ogóle.
+
+00:08:58.000 --> 00:09:00.000
+To teraz będzie w ogóle zmiana totalna.
+
+00:09:00.000 --> 00:09:02.000
+Ja z kamerą, ty bez?
+
+00:09:02.000 --> 00:09:04.000
+Tak, ja jakby będę sobie robił zdjęcia
+
+00:09:04.000 --> 00:09:07.000
+i będę robił podcasty.
+
+00:09:07.000 --> 00:09:09.000
+I na tym chcę się skupić, na podcastach.
+
+00:09:09.000 --> 00:09:11.000
+No to ci na pewno ułatwi życie.
+
+00:09:11.000 --> 00:09:14.000
+Po drugie, to jest duże jednak.
+
+00:09:14.000 --> 00:09:17.000
+Jakbyś miał brać ze sobą sprzęt do podcastów
+
+00:09:17.000 --> 00:09:20.000
+i jeszcze kamerę, to byś się nadźwigał straszliwie.
+
+00:09:20.000 --> 00:09:21.000
+No ale zobaczymy.
+
+00:09:21.000 --> 00:09:23.000
+Przemyślę to, sprawdzimy jeszcze.
+
+00:09:23.000 --> 00:09:26.000
+Już przed podcaścią rozmawialiśmy
+
+00:09:26.000 --> 00:09:28.000
+o nowych mikrofonach
+
+00:09:28.000 --> 00:09:30.000
+tylko do wyjazdowych podcastów.
+
+00:09:30.000 --> 00:09:32.000
+Nie jest to drogi biznes,
+
+00:09:32.000 --> 00:09:34.000
+ale potestujemy i zobaczymy,
+
+00:09:34.000 --> 00:09:36.000
+czy to się sprawdzi, czy się nie sprawdzi.
+
+00:09:36.000 --> 00:09:39.000
+Zresztą wiesz, jeszcze zahaczając trochę o ten temat,
+
+00:09:39.000 --> 00:09:42.000
+pokazywałeś mi te mikrofony, które ty masz,
+
+00:09:42.000 --> 00:09:44.000
+to można je bardzo łatwo podłączyć do telefonu.
+
+00:09:44.000 --> 00:09:46.000
+Więc całkiem może się okazać sensowne,
+
+00:09:46.000 --> 00:09:50.000
+że ja będę po prostu filmował sobie telefonem,
+
+00:09:50.000 --> 00:09:52.000
+bo jakość dźwięku będę miał bardzo dobrą z tych mikrofonów
+
+00:09:52.000 --> 00:09:54.000
+i w ogóle nie będzie potrzebny.
+
+00:09:54.000 --> 00:09:56.000
+Tak, te mikrofony to wezmę na pewno.
+
+00:09:56.000 --> 00:09:58.000
+No, no więc, więc no.
+
+00:09:58.000 --> 00:09:59.000
+No to tyle.
+
+00:09:59.000 --> 00:10:02.000
+To proszę państwa, zapraszamy do głównej części centralnej.
+
+00:10:02.000 --> 00:10:04.000
+Kurde, ja cię jakoś tak cicho słyszę bardzo.
+
+00:10:04.000 --> 00:10:06.000
+Musisz mnie podgłośnić.
+
+00:10:06.000 --> 00:10:08.000
+Państwo mnie słyszą pewnie tak samo,
+
+00:10:08.000 --> 00:10:10.000
+bo to ja i tak później ustawiam.
+
+00:10:10.000 --> 00:10:12.000
+No to przechodzimy do naszej głównej części,
+
+00:10:12.000 --> 00:10:15.000
+czyli będziemy rozmawiać sobie dzisiaj o Dead Space Remake
+
+00:10:15.000 --> 00:10:18.000
+i w drugiej części o Hi-Fi Rush.
+
+00:10:18.000 --> 00:10:20.000
+To dwie nowe gry.
+
+00:10:20.000 --> 00:10:22.000
+Proszę państwa, Dead Space Remake
+
+00:10:22.000 --> 00:10:24.000
+to, kto by się spodziewał,
+
+00:10:24.000 --> 00:10:27.000
+remake kultowej gry z czasów
+
+00:10:27.000 --> 00:10:30.000
+PlayStation 3 i Xboxa 360.
+
+00:10:30.000 --> 00:10:34.000
+Premierę miał oryginalny Dead Space w 2008 roku.
+
+00:10:34.000 --> 00:10:37.000
+Ta nowa część jest stworzona
+
+00:10:37.000 --> 00:10:39.000
+przez Motive Studio.
+
+00:10:39.000 --> 00:10:43.000
+To jest na zgliszczach Ubisoft Montreal,
+
+00:10:43.000 --> 00:10:46.000
+no i z dużym napływem ludzi z Bioware'u
+
+00:10:46.000 --> 00:10:48.000
+studio stworzone.
+
+00:10:48.000 --> 00:10:51.000
+Wcześniej oni zrobili Star Wars Squadron
+
+00:10:51.000 --> 00:10:53.000
+i Battlefront 2.
+
+00:10:53.000 --> 00:10:56.000
+Obecnie pracują nad Iron Manem,
+
+00:10:56.000 --> 00:10:59.000
+więc zobaczymy jak im to pójdzie.
+
+00:10:59.000 --> 00:11:02.000
+27 stycznia gra miała premierę.
+
+00:11:02.000 --> 00:11:05.000
+Koszt, proszę, to jest ważna informacja.
+
+00:11:05.000 --> 00:11:08.000
+Na PlayStation 5 i na Xboxie kosztuje to
+
+00:11:08.000 --> 00:11:11.000
+349 zł w sklepach,
+
+00:11:11.000 --> 00:11:15.000
+czyli w PSNie czy tam w sklepie Xboxa.
+
+00:11:15.000 --> 00:11:18.000
+Pudełko w Polsce kosztuje 279 zł.
+
+00:11:18.000 --> 00:11:21.000
+Steam i Epic to jest 269,
+
+00:11:21.000 --> 00:11:24.000
+pudełko PC 219,
+
+00:11:24.000 --> 00:11:27.000
+ale jest jeszcze ostatnia opcja,
+
+00:11:27.000 --> 00:11:30.000
+to jest abonament Electronic Arts Play Pro,
+
+00:11:30.000 --> 00:11:34.000
+który kosztuje 59 zł miesięcznie.
+
+00:11:34.000 --> 00:11:38.000
+Wydaje mi się, ja to już mówiłem przy Valhalla,
+
+00:11:38.000 --> 00:11:42.000
+Dead Space, wiadomo, że znajdą się tacy,
+
+00:11:42.000 --> 00:11:45.000
+co będą chcieli przechodzić wielokrotnie,
+
+00:11:45.000 --> 00:11:48.000
+ale jak ktoś ma ochotę i ma PeCeta,
+
+00:11:48.000 --> 00:11:51.000
+bo czy, teraz nie wiem,
+
+00:11:51.000 --> 00:11:55.000
+czy Play Pro jest też na konsolach?
+
+00:11:55.000 --> 00:11:57.000
+Co to znaczy Play Pro?
+
+00:11:57.000 --> 00:11:59.000
+To był abonament Electronic Arts.
+
+00:11:59.000 --> 00:12:01.000
+Trudno mi powiedzieć, bo ja nie korzystałem,
+
+00:12:01.000 --> 00:12:03.000
+nie musiałem korzystać z tego.
+
+00:12:03.000 --> 00:12:06.000
+To zostawiamy, na pewno ktoś w komentarzach napisze,
+
+00:12:06.000 --> 00:12:07.000
+obecnie nie wiem.
+
+00:12:07.000 --> 00:12:10.000
+No i to jest dobra opcja, żeby sobie sprawdzić,
+
+00:12:10.000 --> 00:12:14.000
+w szczególności, że gra to jest koło 16 godzin.
+
+00:12:14.000 --> 00:12:18.000
+Więc tak, gra jest zrobiona na silniku Frostbite,
+
+00:12:18.000 --> 00:12:21.000
+a my klucze otrzymaliśmy, proszę państwa,
+
+00:12:21.000 --> 00:12:23.000
+od Electronic Arts.
+
+00:12:23.000 --> 00:12:25.000
+Wymierowo do tego odcinka właśnie.
+
+00:12:25.000 --> 00:12:27.000
+Gra została bardzo dobrze odebrana
+
+00:12:27.000 --> 00:12:28.000
+przez graczy i krytyków,
+
+00:12:28.000 --> 00:12:30.000
+na Metacritic ma 89,
+
+00:12:30.000 --> 00:12:33.000
+a gracze dali 8,2.
+
+00:12:33.000 --> 00:12:35.000
+Ja gram na PC,
+
+00:12:35.000 --> 00:12:37.000
+sprawdzałem grę też na Steam Decku,
+
+00:12:37.000 --> 00:12:39.000
+mam obecnie 6 godzin,
+
+00:12:39.000 --> 00:12:42.000
+więc nie jest to recenzja pełnowartościowa,
+
+00:12:42.000 --> 00:12:44.000
+my będziemy sobie mówić o tych rzeczach,
+
+00:12:44.000 --> 00:12:48.000
+które zobaczyliśmy,
+
+00:12:48.000 --> 00:12:51.000
+nie będziemy też za bardzo rozmawiać o fabule,
+
+00:12:51.000 --> 00:12:54.000
+nie będziemy spoilować tutaj.
+
+00:12:54.000 --> 00:12:58.000
+I na Steam Decku w dniu premiery
+
+00:12:58.000 --> 00:13:00.000
+chodziła fatalnie,
+
+00:13:00.000 --> 00:13:03.000
+znaczy był stuttering.
+
+00:13:03.000 --> 00:13:05.000
+Teraz jest okej,
+
+00:13:05.000 --> 00:13:07.000
+ponieważ Hotfix dostał,
+
+00:13:07.000 --> 00:13:09.000
+Proton dostał Hotfixa
+
+00:13:09.000 --> 00:13:13.000
+i w miarę to naprawili.
+
+00:13:13.000 --> 00:13:17.000
+Na moim PC jest też stuttering,
+
+00:13:17.000 --> 00:13:22.000
+ale nie jest on jakoś specjalnie przeszkadzający.
+
+00:13:22.000 --> 00:13:24.000
+O, tak to może powiem.
+
+00:13:24.000 --> 00:13:27.000
+Czy u ciebie, bo ty grałeś na PlayStation,
+
+00:13:27.000 --> 00:13:29.000
+czy u ciebie były jakieś problemy techniczne?
+
+00:13:29.000 --> 00:13:32.000
+Nie, zupełnie nie było.
+
+00:13:32.000 --> 00:13:34.000
+Ja mam za sobą 10 godzin około,
+
+00:13:34.000 --> 00:13:36.000
+więc sporo, ale to głównie dlatego
+
+00:13:36.000 --> 00:13:38.000
+pierwsze 3 godziny powtarzałem,
+
+00:13:38.000 --> 00:13:41.000
+no nie, pierwszą godzinę gry
+
+00:13:41.000 --> 00:13:42.000
+powtarzałem 3 razy,
+
+00:13:42.000 --> 00:13:44.000
+bo miałem problemy cały czas,
+
+00:13:44.000 --> 00:13:45.000
+wiesz, ustawiałem ten sprzęt
+
+00:13:45.000 --> 00:13:47.000
+i cały czas wychodziło źle,
+
+00:13:47.000 --> 00:13:50.000
+z lapis źle, więc tą pierwszą godzinę już
+
+00:13:50.000 --> 00:13:52.000
+jak nagrałem to już byłem pewny siebie
+
+00:13:52.000 --> 00:13:54.000
+i dosyć bezpiecznie się czułem.
+
+00:13:54.000 --> 00:13:56.000
+Ale tak czy inaczej te 10 godzin
+
+00:13:56.000 --> 00:13:58.000
+spędzone w Dead Space,
+
+00:13:58.000 --> 00:14:01.000
+ja gram na trybie wydajności,
+
+00:14:01.000 --> 00:14:03.000
+czyli 60 klatek
+
+00:14:03.000 --> 00:14:04.000
+i nie znalazłem,
+
+00:14:04.000 --> 00:14:05.000
+jeden tylko miałem taki błąd,
+
+00:14:05.000 --> 00:14:07.000
+że Isaac podszedł do miejsca,
+
+00:14:07.000 --> 00:14:09.000
+w którym wcześniej stała skrzynka
+
+00:14:09.000 --> 00:14:11.000
+i jakby zaciął się w tym miejscu,
+
+00:14:11.000 --> 00:14:13.000
+tak jakby ta skrzynka fizycznie tam była
+
+00:14:13.000 --> 00:14:14.000
+i nie mógł się ruszyć w żadną stronę,
+
+00:14:14.000 --> 00:14:15.000
+to jest jeden jedyny błąd
+
+00:14:15.000 --> 00:14:16.000
+w ciągu tych 10 godzin.
+
+00:14:16.000 --> 00:14:17.000
+Poza tym nie widziałem żadnych
+
+00:14:17.000 --> 00:14:19.000
+ani graficznych gliczy,
+
+00:14:19.000 --> 00:14:21.000
+ani problemów ze zwłokami,
+
+00:14:21.000 --> 00:14:23.000
+o których ty w swoich notatkach pisałeś.
+
+00:14:23.000 --> 00:14:25.000
+Kompletnie nie mam żadnych zastrzeżeń
+
+00:14:25.000 --> 00:14:27.000
+co do jakości wykonania.
+
+00:14:27.000 --> 00:14:28.000
+Jestem pod ogromnym wrażeniem tego,
+
+00:14:28.000 --> 00:14:31.000
+jak ta gra wygląda, jak działa.
+
+00:14:31.000 --> 00:14:32.000
+Nie dziwi się recenzjom,
+
+00:14:32.000 --> 00:14:33.000
+że są takie pozytywne.
+
+00:14:33.000 --> 00:14:35.000
+To jest chyba pierwszy raz
+
+00:14:35.000 --> 00:14:36.000
+doprowadzę tę grę do końca,
+
+00:14:36.000 --> 00:14:37.000
+to znaczy jestem pewny, że przejdę,
+
+00:14:37.000 --> 00:14:39.000
+bo wkręciłem się bardzo mocno
+
+00:14:39.000 --> 00:14:41.000
+i mam trochę szczęścia ostatnio,
+
+00:14:41.000 --> 00:14:43.000
+bo wiesz, jest dużo takich gier
+
+00:14:43.000 --> 00:14:44.000
+i ja też z racji tego,
+
+00:14:44.000 --> 00:14:46.000
+że ja nagrywam na YouTubie,
+
+00:14:46.000 --> 00:14:48.000
+to czasami nie zawsze idealnie
+
+00:14:48.000 --> 00:14:49.000
+się bawię przy gameplayu,
+
+00:14:49.000 --> 00:14:51.000
+natomiast traktuję to jako opowieść,
+
+00:14:51.000 --> 00:14:52.000
+którą chcę nagrać
+
+00:14:52.000 --> 00:14:53.000
+od początku do końca na YouTubie,
+
+00:14:53.000 --> 00:14:54.000
+więc zapominam o tych
+
+00:14:54.000 --> 00:14:56.000
+swoich osobistych doświadczeniach.
+
+00:14:56.000 --> 00:14:57.000
+Zależy mi na tym,
+
+00:14:57.000 --> 00:14:58.000
+żeby opowiedzieć historię.
+
+00:14:58.000 --> 00:14:59.000
+To staje się priorytetem.
+
+00:14:59.000 --> 00:15:01.000
+Natomiast tak w Wiedźminie 3 ostatnio
+
+00:15:01.000 --> 00:15:02.000
+i w Dead Space'ie,
+
+00:15:02.000 --> 00:15:04.000
+to po prostu mam radość samej gry,
+
+00:15:04.000 --> 00:15:06.000
+samego jakby badania tego świata.
+
+00:15:06.000 --> 00:15:07.000
+To jest radość moja taka
+
+00:15:07.000 --> 00:15:09.000
+i czasami, czasami zapominam o tym,
+
+00:15:09.000 --> 00:15:10.000
+że to też jest potrzebne do szczęścia,
+
+00:15:10.000 --> 00:15:13.000
+ale, ale ta gra mi to zapewnia.
+
+00:15:13.000 --> 00:15:15.000
+Dead Space jest naprawdę fenomenalny
+
+00:15:15.000 --> 00:15:18.000
+i to... nie mówię tego dlatego,
+
+00:15:18.000 --> 00:15:19.000
+że dostałem kluczyk za darmo,
+
+00:15:19.000 --> 00:15:20.000
+a jakbym nie dostał,
+
+00:15:20.000 --> 00:15:21.000
+bym się zapłakał,
+
+00:15:21.000 --> 00:15:22.000
+bo ostatnio na Force Walk'a
+
+00:15:22.000 --> 00:15:23.000
+nawet dałem 350,
+
+00:15:23.000 --> 00:15:25.000
+to bym musiał wydać znowu 350 na to.
+
+00:15:25.000 --> 00:15:26.000
+To by było nieprzyjemne przeżycie
+
+00:15:26.000 --> 00:15:27.000
+dla mojego portfela.
+
+00:15:27.000 --> 00:15:29.000
+Ale to nie tylko jest moja opinia,
+
+00:15:29.000 --> 00:15:30.000
+więc mogę się nią bezpiecznie
+
+00:15:30.000 --> 00:15:31.000
+chyba dzielić.
+
+00:15:31.000 --> 00:15:33.000
+Oczywiście można powiedzieć,
+
+00:15:33.000 --> 00:15:34.000
+że to jest cena za wysoka
+
+00:15:34.000 --> 00:15:35.000
+jak na remake.
+
+00:15:35.000 --> 00:15:36.000
+Niektórzy nazywają to
+
+00:15:36.000 --> 00:15:37.000
+brutalnie odgrzewanym kotletem,
+
+00:15:37.000 --> 00:15:39.000
+ale nie jest to odgrzewany kotlet
+
+00:15:39.000 --> 00:15:40.000
+i miałem okazję zobaczyć te gry
+
+00:15:40.000 --> 00:15:43.000
+obok siebie i jest to...
+
+00:15:43.000 --> 00:15:44.000
+Z drugiej strony każdy remake
+
+00:15:44.000 --> 00:15:45.000
+jest trochę odgrzewany kotletem.
+
+00:15:45.000 --> 00:15:47.000
+Pytanie czy odgrzewany kotlet
+
+00:15:47.000 --> 00:15:48.000
+to jest zawsze coś złego, nie?
+
+00:15:48.000 --> 00:15:50.000
+Nie stary, to jest coś innego.
+
+00:15:50.000 --> 00:15:51.000
+To jest tak jakbyś w dzieciństwie
+
+00:15:51.000 --> 00:15:53.000
+zjadł kotleta i on był cudowny
+
+00:15:53.000 --> 00:15:54.000
+i teraz byś, mama zrobiła znowu
+
+00:15:54.000 --> 00:15:55.000
+takiego samego kotleta
+
+00:15:55.000 --> 00:15:56.000
+albo nawet lepszego
+
+00:15:56.000 --> 00:15:58.000
+i odkrywasz, że, że smakuje
+
+00:15:58.000 --> 00:15:59.000
+tak samo jak w dzieciństwie.
+
+00:15:59.000 --> 00:16:00.000
+Więc tak, widziałem,
+
+00:16:00.000 --> 00:16:02.000
+widziałem porównanie tych dwóch gier
+
+00:16:02.000 --> 00:16:03.000
+obok siebie
+
+00:16:03.000 --> 00:16:05.000
+i oczywiście ta wersja z 2800,
+
+00:16:05.000 --> 00:16:06.000
+zwłaszcza jak jest jakaś zmodowana
+
+00:16:06.000 --> 00:16:09.000
+na teksturach wysokiej rozdzielczości,
+
+00:16:09.000 --> 00:16:10.000
+wygląda nie najgorzej,
+
+00:16:10.000 --> 00:16:12.000
+ale to jak tu się operuje światłami,
+
+00:16:12.000 --> 00:16:14.000
+klimatem, wiesz, ta, ta, ta cała grafika,
+
+00:16:14.000 --> 00:16:16.000
+to jak się zachowują postacie,
+
+00:16:16.000 --> 00:16:17.000
+ile animacji jest dodatkowych,
+
+00:16:17.000 --> 00:16:18.000
+jakie są rozmowy,
+
+00:16:18.000 --> 00:16:20.000
+to jest naprawdę na wysokim poziomie
+
+00:16:20.000 --> 00:16:22.000
+i w porównaniu do Kalisto Protocol,
+
+00:16:22.000 --> 00:16:23.000
+która jest świeżym,
+
+00:16:23.000 --> 00:16:25.000
+świeżą grą z tej samej kategorii,
+
+00:16:25.000 --> 00:16:27.000
+no wypada dużo, dużo lepiej,
+
+00:16:27.000 --> 00:16:28.000
+dużo o niebo, o niebo lepiej
+
+00:16:28.000 --> 00:16:29.000
+pod każdym możliwym względem.
+
+00:16:29.000 --> 00:16:31.000
+Oczywiście pewnie, pewnie Kalisto Protocol...
+
+00:16:31.000 --> 00:16:32.000
+No nie, nie pod każdym,
+
+00:16:32.000 --> 00:16:33.000
+ja nie, nie zgodzę się,
+
+00:16:33.000 --> 00:16:35.000
+bo grafika w Kalisto była lepsza.
+
+00:16:35.000 --> 00:16:36.000
+Chciałem to dorzucić,
+
+00:16:36.000 --> 00:16:38.000
+że, że, że Kalisto lepiej operowało,
+
+00:16:38.000 --> 00:16:40.000
+zwłaszcza, że tam twarze są aktorów
+
+00:16:40.000 --> 00:16:41.000
+i tak dalej.
+
+00:16:41.000 --> 00:16:43.000
+To jest takie bardziej współczesne.
+
+00:16:43.000 --> 00:16:45.000
+Natomiast, no co z tego,
+
+00:16:45.000 --> 00:16:46.000
+że była lepsza,
+
+00:16:46.000 --> 00:16:47.000
+jak chodziło dużo gorzej, nie?
+
+00:16:47.000 --> 00:16:49.000
+Zwłaszcza na PeCecie.
+
+00:16:49.000 --> 00:16:50.000
+Jeżeli chodzi więc,
+
+00:16:50.000 --> 00:16:51.000
+ja mogę tylko powiedzieć
+
+00:16:51.000 --> 00:16:52.000
+o wersji PlayStation 5.
+
+00:16:52.000 --> 00:16:53.000
+Jestem zadowolony bardzo,
+
+00:16:53.000 --> 00:16:54.000
+jak to działa.
+
+00:16:54.000 --> 00:16:55.000
+Wiem, że wersja PeCetowa,
+
+00:16:55.000 --> 00:16:56.000
+jak to zwykle bywa,
+
+00:16:56.000 --> 00:16:57.000
+to każdy ma innego PeCeta,
+
+00:16:57.000 --> 00:16:58.000
+to, to czasami się pojawiają
+
+00:16:58.000 --> 00:16:59.000
+jakieś drobne błędy,
+
+00:16:59.000 --> 00:17:00.000
+ale jeżeli są, podejrzewam,
+
+00:17:00.000 --> 00:17:02.000
+że, że je naprawią.
+
+00:17:02.000 --> 00:17:04.000
+I przy okazji też,
+
+00:17:04.000 --> 00:17:05.000
+jeżeli chodzi o Motive Studios,
+
+00:17:05.000 --> 00:17:07.000
+czyli tą ekipę, która jest odpowiedzialna,
+
+00:17:07.000 --> 00:17:08.000
+to jestem, jestem pod wrażeniem,
+
+00:17:08.000 --> 00:17:09.000
+bo często się mówi,
+
+00:17:09.000 --> 00:17:12.000
+że deweloperzy są fanami jakiejś produkcji
+
+00:17:12.000 --> 00:17:13.000
+i to jest dużo,
+
+00:17:13.000 --> 00:17:15.000
+dużo w tym marketingowej gadki jest.
+
+00:17:15.000 --> 00:17:16.000
+Natomiast tu, po tym,
+
+00:17:16.000 --> 00:17:17.000
+co miałem okazję zobaczyć,
+
+00:17:17.000 --> 00:17:18.000
+to jestem, jestem w stanie
+
+00:17:18.000 --> 00:17:19.000
+w to uwierzyć.
+
+00:17:19.000 --> 00:17:20.000
+Widać, że ta gra
+
+00:17:20.000 --> 00:17:21.000
+jest zrobiona z sercem
+
+00:17:21.000 --> 00:17:22.000
+i widać, że wszystkie rzeczy,
+
+00:17:22.000 --> 00:17:24.000
+które zostały do niej dołożone,
+
+00:17:24.000 --> 00:17:25.000
+to nie są tylko po to,
+
+00:17:25.000 --> 00:17:26.000
+żeby coś tam zrobić
+
+00:17:26.000 --> 00:17:27.000
+i żeby było trochę dłuższe,
+
+00:17:27.000 --> 00:17:28.000
+tylko naprawdę mają sens
+
+00:17:28.000 --> 00:17:29.000
+i fajnie uzupełniają
+
+00:17:29.000 --> 00:17:30.000
+tą całą historię.
+
+00:17:30.000 --> 00:17:31.000
+Oni opowiadali też,
+
+00:17:31.000 --> 00:17:32.000
+że wokół,
+
+00:17:32.000 --> 00:17:34.000
+to jest też takie uniwersum,
+
+00:17:34.000 --> 00:17:35.000
+które mi trochę umknęło,
+
+00:17:35.000 --> 00:17:36.000
+bo ja oczywiście przyszedłem
+
+00:17:36.000 --> 00:17:37.000
+w Dead Space'a 2,
+
+00:17:37.000 --> 00:17:38.000
+przyszedłem w Dead Space'a 3,
+
+00:17:38.000 --> 00:17:39.000
+natomiast obok tego są jeszcze
+
+00:17:39.000 --> 00:17:40.000
+jakieś takie inne dzieła,
+
+00:17:40.000 --> 00:17:41.000
+jakieś komiksy,
+
+00:17:41.000 --> 00:17:42.000
+jakieś takie inne opowieści
+
+00:17:42.000 --> 00:17:43.000
+i ja w ogóle na niej
+
+00:17:43.000 --> 00:17:44.000
+nie zwracałem uwagi.
+
+00:17:44.000 --> 00:17:47.000
+Natomiast teraz w tych opowieściach
+
+00:17:47.000 --> 00:17:48.000
+deweloperów wynikało,
+
+00:17:48.000 --> 00:17:49.000
+z tych opowieści wynikało,
+
+00:17:49.000 --> 00:17:51.000
+że oni trochę wykorzystali
+
+00:17:51.000 --> 00:17:52.000
+te dzieła zewnętrzne
+
+00:17:52.000 --> 00:17:53.000
+do tego, by rozbudować tą historię
+
+00:17:53.000 --> 00:17:54.000
+w pierwszej części gry.
+
+00:17:54.000 --> 00:17:55.000
+Ja nie mam punktu odniesienia,
+
+00:17:55.000 --> 00:17:56.000
+żeby to potwierdzić,
+
+00:17:56.000 --> 00:17:58.000
+natomiast rozumiem i wierzę w to,
+
+00:17:58.000 --> 00:18:00.000
+że to zostało zrobione w ten sposób
+
+00:18:00.000 --> 00:18:01.000
+i działa sensownie.
+
+00:18:01.000 --> 00:18:02.000
+Tam są takie rzeczy,
+
+00:18:02.000 --> 00:18:06.000
+że Isaac w pierwszej części
+
+00:18:06.000 --> 00:18:07.000
+nie miał twarzy,
+
+00:18:07.000 --> 00:18:08.000
+tutaj ma twarz, ma głos.
+
+00:18:08.000 --> 00:18:14.000
+Po drugie, to rozbudowane uniwersum,
+
+00:18:14.000 --> 00:18:15.000
+które wydarzyło się
+
+00:18:15.000 --> 00:18:16.000
+po pierwszym Dead Space'ie,
+
+00:18:16.000 --> 00:18:18.000
+ono już istnieje w tym remake'u
+
+00:18:18.000 --> 00:18:21.000
+i twórcy jakby jasno o tym mówili.
+
+00:18:21.000 --> 00:18:22.000
+Ale na przykład też mechaniki,
+
+00:18:22.000 --> 00:18:27.000
+czyli latanie, kiedy nie ma grawitacji,
+
+00:18:27.000 --> 00:18:29.000
+no to w pierwszej części tego nie było.
+
+00:18:29.000 --> 00:18:30.000
+Nie było?
+
+00:18:30.000 --> 00:18:31.000
+Nie.
+
+00:18:31.000 --> 00:18:33.000
+O, Holender, naprawdę?
+
+00:18:33.000 --> 00:18:35.000
+To ja wydawało mi się...
+
+00:18:35.000 --> 00:18:36.000
+Jestem przekonany.
+
+00:18:36.000 --> 00:18:38.000
+Nie, nie, pewnie masz rację,
+
+00:18:38.000 --> 00:18:40.000
+bo ja od pierwszej części to się odbiłem,
+
+00:18:40.000 --> 00:18:42.000
+po prostu strasznie byłem przerażony.
+
+00:18:42.000 --> 00:18:44.000
+Jestem, znaczy, wiesz co,
+
+00:18:44.000 --> 00:18:45.000
+nie jest prawda, jestem przekonany,
+
+00:18:45.000 --> 00:18:47.000
+że tak było i dopiero,
+
+00:18:47.000 --> 00:18:49.000
+że w drugiej było dotane.
+
+00:18:49.000 --> 00:18:51.000
+Dlatego być może ja pamiętam,
+
+00:18:51.000 --> 00:18:53.000
+bo wydaje mi się ta mechanika już znana,
+
+00:18:53.000 --> 00:18:55.000
+ale pewnie pamiętam ją z drugiej części,
+
+00:18:55.000 --> 00:18:57.000
+więc jeżeli dołożyli ją
+
+00:18:57.000 --> 00:18:59.000
+na potrzebę tej jedynki,
+
+00:18:59.000 --> 00:19:01.000
+no to też kawał dobrej roboty,
+
+00:19:01.000 --> 00:19:03.000
+bo to jest w ogóle świetna mechanika,
+
+00:19:03.000 --> 00:19:04.000
+tak swoją drogą,
+
+00:19:04.000 --> 00:19:07.000
+bo w Dead Space, wiesz, to jest tak,
+
+00:19:07.000 --> 00:19:09.000
+na pewno nie unikniemy tych porównań
+
+00:19:09.000 --> 00:19:10.000
+z Callisto Protocol.
+
+00:19:10.000 --> 00:19:11.000
+Ja nawet jakbym nie chciał,
+
+00:19:11.000 --> 00:19:12.000
+to nie mogę się do tego odnieść,
+
+00:19:12.000 --> 00:19:13.000
+bo jednak mamy do czynienia z dziełem,
+
+00:19:13.000 --> 00:19:15.000
+które jest z 2008 roku
+
+00:19:15.000 --> 00:19:16.000
+i porównujemy je z tym,
+
+00:19:16.000 --> 00:19:18.000
+które jest z 2022 i 2023,
+
+00:19:18.000 --> 00:19:20.000
+czyli ten remake z 2023.
+
+00:19:20.000 --> 00:19:22.000
+Ale też mamy to, że Glenn Schofield
+
+00:19:22.000 --> 00:19:24.000
+był jednym z twórców przecież
+
+00:19:24.000 --> 00:19:25.000
+Dead Space'a, nie?
+
+00:19:25.000 --> 00:19:27.000
+No właśnie, ale nie mogę, jakby...
+
+00:19:27.000 --> 00:19:29.000
+Dead Space był zbudowany na bazie
+
+00:19:29.000 --> 00:19:31.000
+odrobinę większej ilości mechanik,
+
+00:19:31.000 --> 00:19:33.000
+bo to mamy i ten magnes, który przyciąga,
+
+00:19:33.000 --> 00:19:36.000
+mamy i tą stazę, która spowalnia
+
+00:19:36.000 --> 00:19:38.000
+i jeszcze, i mamy jeszcze to latanie.
+
+00:19:38.000 --> 00:19:40.000
+W The Callisto Protocol tak niewiele
+
+00:19:40.000 --> 00:19:42.000
+tych mechanik się przytrafiło,
+
+00:19:42.000 --> 00:19:43.000
+zostało przeniesionych tam,
+
+00:19:43.000 --> 00:19:45.000
+a nawet jak zostały przeniesione
+
+00:19:45.000 --> 00:19:46.000
+to tak bardzo siermiężnie,
+
+00:19:46.000 --> 00:19:48.000
+one jakby gameplayowo Callisto Protocol
+
+00:19:48.000 --> 00:19:50.000
+bardzo odstawał, nie był przyjemny.
+
+00:19:50.000 --> 00:19:51.000
+Jedyne, co tam dorzucili,
+
+00:19:51.000 --> 00:19:53.000
+to te uniki, które też okazały się
+
+00:19:53.000 --> 00:19:55.000
+ostatecznie dosyć bardziej zabawne
+
+00:19:55.000 --> 00:19:56.000
+niż sensowne.
+
+00:19:56.000 --> 00:19:57.000
+Dead Space ma w sobie,
+
+00:19:57.000 --> 00:19:59.000
+to jest tak kompletna produkcja
+
+00:19:59.000 --> 00:20:01.000
+pod wieloma względami,
+
+00:20:01.000 --> 00:20:02.000
+że ja trochę się cieszę,
+
+00:20:02.000 --> 00:20:04.000
+że ja nie przeszedłem tej jedynki
+
+00:20:04.000 --> 00:20:06.000
+w 2008 roku, bo teraz mogę doświadczyć jej
+
+00:20:06.000 --> 00:20:08.000
+w pełnej rozciągłości,
+
+00:20:08.000 --> 00:20:10.000
+plus tam jeszcze jest kilka dodatkowych historii
+
+00:20:10.000 --> 00:20:11.000
+w wątkach pobocznych,
+
+00:20:11.000 --> 00:20:14.000
+które są opowiedziane jakby na nowo,
+
+00:20:14.000 --> 00:20:16.000
+zupełnie inaczej konfrontacji,
+
+00:20:16.000 --> 00:20:18.000
+niektórych postaci się tam przytrafiają,
+
+00:20:18.000 --> 00:20:19.000
+więc ja jestem bardzo szczęśliwy,
+
+00:20:19.000 --> 00:20:21.000
+że mogę sobie to teraz ogrywać
+
+00:20:21.000 --> 00:20:23.000
+i no zależało mi na tym,
+
+00:20:23.000 --> 00:20:24.000
+żeby przejść jak najwięcej
+
+00:20:24.000 --> 00:20:26.000
+na czas tej naszej rozmowy,
+
+00:20:26.000 --> 00:20:28.000
+ale wiem, że jak się ta nasza rozmowa skończy,
+
+00:20:28.000 --> 00:20:30.000
+to ja zaraz siadam do Dead Space'a,
+
+00:20:30.000 --> 00:20:31.000
+zaraz idę na spacer,
+
+00:20:31.000 --> 00:20:32.000
+a potem siadam do Dead Space'a.
+
+00:20:32.000 --> 00:20:35.000
+No ja też mam taki plan.
+
+00:20:35.000 --> 00:20:36.000
+Ja jeszcze wrócę,
+
+00:20:36.000 --> 00:20:38.000
+bo tutaj się zagalopowałeś bardzo
+
+00:20:38.000 --> 00:20:40.000
+i tam wspomniałeś o błędach.
+
+00:20:40.000 --> 00:20:41.000
+Wspomniałeś o błędach.
+
+00:20:41.000 --> 00:20:46.000
+Ja mam, kilka błędów mi się tam zdarzało
+
+00:20:46.000 --> 00:20:48.000
+i kilka problemów,
+
+00:20:48.000 --> 00:20:50.000
+ale to naprawdę nieistotne rzeczy.
+
+00:20:50.000 --> 00:20:54.000
+Rzeczy, które mnie trochę,
+
+00:20:54.000 --> 00:20:56.000
+może nie irytują,
+
+00:20:56.000 --> 00:20:57.000
+ale stwierdziłem, kurczę,
+
+00:20:57.000 --> 00:20:59.000
+łatwo dałoby się coś z tym zrobić.
+
+00:20:59.000 --> 00:21:01.000
+Przede wszystkim ragdole martwych ludzi
+
+00:21:01.000 --> 00:21:03.000
+i martwych potworów.
+
+00:21:03.000 --> 00:21:04.000
+Możemy je sobie,
+
+00:21:04.000 --> 00:21:06.000
+chodząc po nich możesz je sobie przesuwać
+
+00:21:06.000 --> 00:21:09.000
+i wygląda to bardzo komicznie.
+
+00:21:09.000 --> 00:21:11.000
+No masz taki, wiesz, koszmar
+
+00:21:11.000 --> 00:21:12.000
+i nagle te ragdole
+
+00:21:12.000 --> 00:21:15.000
+tak jak w skejcie trójce się zachowują.
+
+00:21:15.000 --> 00:21:16.000
+I właśnie wiesz co,
+
+00:21:16.000 --> 00:21:17.000
+zatrzymaj się na chwilę,
+
+00:21:17.000 --> 00:21:19.000
+bo to jest, ja też patrzyłem na to,
+
+00:21:19.000 --> 00:21:20.000
+bo to zapisałeś wcześniej
+
+00:21:20.000 --> 00:21:21.000
+i tak myślę sobie jak Holender.
+
+00:21:21.000 --> 00:21:23.000
+Wiesz, bo podejrzewam,
+
+00:21:23.000 --> 00:21:24.000
+że ty też masz,
+
+00:21:24.000 --> 00:21:25.000
+że jakby sprawdzasz te rzeczy,
+
+00:21:25.000 --> 00:21:27.000
+żeby potem móc o tym opowiedzieć,
+
+00:21:27.000 --> 00:21:28.000
+więc pewnie testowałeś,
+
+00:21:28.000 --> 00:21:29.000
+jak te ragdole się zachowują.
+
+00:21:29.000 --> 00:21:31.000
+Ja natomiast w procesie naturalnego
+
+00:21:31.000 --> 00:21:32.000
+przechodzenia gry
+
+00:21:32.000 --> 00:21:33.000
+w ogóle nie zwróciłem na to uwagi.
+
+00:21:33.000 --> 00:21:35.000
+Wiem, że one się czasami zaczepią o nogę
+
+00:21:35.000 --> 00:21:36.000
+i tam potrącisz je,
+
+00:21:36.000 --> 00:21:38.000
+ale nie przyglądałem się temu super uważnie
+
+00:21:38.000 --> 00:21:39.000
+i zaczynam się zastanawiać,
+
+00:21:39.000 --> 00:21:41.000
+że raz to może być kwestia tego,
+
+00:21:41.000 --> 00:21:42.000
+że ty szukasz takich rzeczy,
+
+00:21:42.000 --> 00:21:44.000
+a druga kwestia to może
+
+00:21:44.000 --> 00:21:46.000
+jest jakiś bardziej błąd pecetowy,
+
+00:21:46.000 --> 00:21:47.000
+że ten ragdol się przyczepi,
+
+00:21:47.000 --> 00:21:49.000
+że ta postać się przyczepi do twojej postaci
+
+00:21:49.000 --> 00:21:50.000
+i się ciągnie za nią.
+
+00:21:50.000 --> 00:21:52.000
+Ja właśnie tego nie doświadczyłem w ogóle.
+
+00:21:52.000 --> 00:21:54.000
+To ja zauważyłem to w momencie,
+
+00:21:54.000 --> 00:21:56.000
+kiedy po prostu się przyczepił do mnie
+
+00:21:56.000 --> 00:21:57.000
+ten ragdol.
+
+00:21:57.000 --> 00:21:58.000
+I ja mówię, co się dzieje, nie?
+
+00:21:58.000 --> 00:22:00.000
+I nagle łażę z jakimiś zwłokami
+
+00:22:00.000 --> 00:22:02.000
+i one się odczepiły zaraz.
+
+00:22:02.000 --> 00:22:03.000
+No ale to i potem
+
+00:22:03.000 --> 00:22:04.000
+zacząłem nawet na streamie,
+
+00:22:04.000 --> 00:22:05.000
+zacząłem przesuwać sobie
+
+00:22:05.000 --> 00:22:07.000
+jakiegoś tam, jakieś tam zwłoki
+
+00:22:07.000 --> 00:22:09.000
+chodząc, nie?
+
+00:22:09.000 --> 00:22:11.000
+No, słuchaj, no mieliśmy
+
+00:22:11.000 --> 00:22:12.000
+podobną rzecz,
+
+00:22:12.000 --> 00:22:14.000
+mieliśmy w Kalisto Protocol,
+
+00:22:14.000 --> 00:22:15.000
+gdzie typ idzie
+
+00:22:15.000 --> 00:22:17.000
+między zawieszonymi postaciami
+
+00:22:17.000 --> 00:22:19.000
+i przepycha je głową.
+
+00:22:19.000 --> 00:22:20.000
+I to jest tak absurdalne.
+
+00:22:20.000 --> 00:22:22.000
+I znowu mamy odniesienie do
+
+00:22:22.000 --> 00:22:23.000
+The Last of Us,
+
+00:22:23.000 --> 00:22:24.000
+gdzie można byłoby
+
+00:22:24.000 --> 00:22:25.000
+tak jak w Kalisto,
+
+00:22:25.000 --> 00:22:27.000
+w sytuacji Kalisto Protocol
+
+00:22:27.000 --> 00:22:28.000
+zrobić po prostu, że on ręką
+
+00:22:28.000 --> 00:22:30.000
+odgania te rzeczy.
+
+00:22:30.000 --> 00:22:32.000
+Tutaj mógłby przechodzić między nimi.
+
+00:22:32.000 --> 00:22:34.000
+No być może, być może.
+
+00:22:34.000 --> 00:22:36.000
+Ja nie trafiłem na taką sytuację absurdalną,
+
+00:22:36.000 --> 00:22:38.000
+ale pewnie masz rację, nie?
+
+00:22:38.000 --> 00:22:40.000
+Być może to nie jest takie oczywiste,
+
+00:22:40.000 --> 00:22:42.000
+no bo on by przechodził,
+
+00:22:42.000 --> 00:22:44.000
+ale co w momencie, kiedy jest walka.
+
+00:22:44.000 --> 00:22:46.000
+Ale jest to taka rzecz, która
+
+00:22:46.000 --> 00:22:48.000
+mnie wyrzucała z imersji.
+
+00:22:48.000 --> 00:22:49.000
+Dosyć mocno.
+
+00:22:49.000 --> 00:22:50.000
+Ja nie zwróciłem na to uwagi.
+
+00:22:50.000 --> 00:22:51.000
+I wiem, że to jest pierdoła.
+
+00:22:51.000 --> 00:22:52.000
+I wiem, że to jest pierdoła.
+
+00:22:52.000 --> 00:22:54.000
+Wiem, że wielu z was nie zwróci
+
+00:22:54.000 --> 00:22:56.000
+na to uwagi.
+
+00:22:56.000 --> 00:22:58.000
+Wiesz, może to nie jest pierdoła.
+
+00:22:58.000 --> 00:23:00.000
+Ja też niestety ulegam bardzo często
+
+00:23:00.000 --> 00:23:02.000
+czarowi tych gier, ale to być może
+
+00:23:02.000 --> 00:23:04.000
+czyni nasze wspólne recenzje dużo
+
+00:23:04.000 --> 00:23:06.000
+sensowniejszymi, bo ja ulegam czarowi
+
+00:23:06.000 --> 00:23:08.000
+ty niespecjalnie i dzięki temu możemy.
+
+00:23:08.000 --> 00:23:09.000
+Ale to dzisiaj nie jest recenzja,
+
+00:23:09.000 --> 00:23:10.000
+bo żeśmy nie przeszli obaj jeszcze.
+
+00:23:10.000 --> 00:23:11.000
+No nie, nie.
+
+00:23:11.000 --> 00:23:13.000
+To były nawet takie pierwsze wrażenia.
+
+00:23:13.000 --> 00:23:14.000
+Więc ja nie zwróciłem na to uwagi.
+
+00:23:14.000 --> 00:23:16.000
+To mi się nie przydarzyło.
+
+00:23:16.000 --> 00:23:18.000
+System zapisu jest taki mocny.
+
+00:23:18.000 --> 00:23:19.000
+On jest oczywiście hybrydowy,
+
+00:23:19.000 --> 00:23:21.000
+no bo mamy ten taki archaiczny system,
+
+00:23:21.000 --> 00:23:23.000
+gdzie tam podchodzimy do stacji,
+
+00:23:23.000 --> 00:23:25.000
+gdzie zapisz grę.
+
+00:23:25.000 --> 00:23:27.000
+I to jest tak głupie.
+
+00:23:27.000 --> 00:23:29.000
+Jest trochę, jest.
+
+00:23:29.000 --> 00:23:31.000
+Mogli z tego zrezygnować.
+
+00:23:31.000 --> 00:23:33.000
+Ja tak pomyślałem, że tam chodzę,
+
+00:23:33.000 --> 00:23:35.000
+zapisuję. Mogli z tego zrezygnować
+
+00:23:35.000 --> 00:23:37.000
+i mogli po prostu dać przed
+
+00:23:37.000 --> 00:23:39.000
+konkretnymi etapami
+
+00:23:39.000 --> 00:23:41.000
+automatyczny zapis.
+
+00:23:41.000 --> 00:23:43.000
+Ja nie jestem w ogóle jakimś tam
+
+00:23:43.000 --> 00:23:45.000
+wielkim zwolennikiem automatycznego zapisu,
+
+00:23:45.000 --> 00:23:47.000
+ale tutaj, kiedy
+
+00:23:47.000 --> 00:23:49.000
+my w grze wykorzystujemy
+
+00:23:49.000 --> 00:23:51.000
+jakąś rzecz,
+
+00:23:51.000 --> 00:23:53.000
+gdzie sobie zapisujemy
+
+00:23:53.000 --> 00:23:54.000
+stan gry.
+
+00:23:54.000 --> 00:23:55.000
+To jest niestety przełamanie czwartej ściany
+
+00:23:55.000 --> 00:23:57.000
+w taki nie do końca komfortowy sposób.
+
+00:23:57.000 --> 00:23:59.000
+Ja to przeszedłem, to tak.
+
+00:23:59.000 --> 00:24:01.000
+Po pierwsze, to było w pierwszej części.
+
+00:24:01.000 --> 00:24:03.000
+Myślę, że deweloperzy mocno się zmagali,
+
+00:24:03.000 --> 00:24:05.000
+bili z myślami, czy to usunąć, czy
+
+00:24:05.000 --> 00:24:06.000
+zostawić.
+
+00:24:06.000 --> 00:24:07.000
+Tak, no bo jest to hybrydowy.
+
+00:24:07.000 --> 00:24:09.000
+Znaczy, to gra też się zapisuje
+
+00:24:09.000 --> 00:24:11.000
+poza tymi punktami.
+
+00:24:11.000 --> 00:24:13.000
+Znacznie rzadziej, jakbyś polegał tylko na tych punktach
+
+00:24:13.000 --> 00:24:15.000
+poza, to byś musiał bardzo dużo
+
+00:24:15.000 --> 00:24:17.000
+wracać w przypadku śmierci.
+
+00:24:17.000 --> 00:24:19.000
+To jest, ja sobie to,
+
+00:24:19.000 --> 00:24:21.000
+jako że też jakby
+
+00:24:21.000 --> 00:24:23.000
+nagrywam z tego let's play i chcę uniknąć tego
+
+00:24:23.000 --> 00:24:25.000
+wyrwania z imersji,
+
+00:24:25.000 --> 00:24:27.000
+przełamania tej ściany, to mówię, że o kurde,
+
+00:24:27.000 --> 00:24:29.000
+okazja, żeby zrobić wpis w pamiętniku,
+
+00:24:29.000 --> 00:24:31.000
+nie. Mówię, że sobie
+
+00:24:31.000 --> 00:24:33.000
+rozumiesz, że ja podchodzę do tej ściany i mówię
+
+00:24:33.000 --> 00:24:35.000
+drogi pamiętniczku, dzisiaj
+
+00:24:35.000 --> 00:24:37.000
+przeżyłem kolejny dzień.
+
+00:24:37.000 --> 00:24:39.000
+Jest cięcie i potem
+
+00:24:39.000 --> 00:24:41.000
+jakoś próbuję to obudować sensownie.
+
+00:24:41.000 --> 00:24:43.000
+Myślę, że nie zrezygnowali z tego,
+
+00:24:43.000 --> 00:24:45.000
+żeby nie rozsierdzić fanów, bo to
+
+00:24:45.000 --> 00:24:47.000
+bardzo, bardzo ryzykowne byłoby to
+
+00:24:47.000 --> 00:24:49.000
+usunięcie tego. Więc
+
+00:24:49.000 --> 00:24:51.000
+no, to tak, zgadzam się.
+
+00:24:51.000 --> 00:24:53.000
+To jest bardzo, bardzo archaiczne i
+
+00:24:53.000 --> 00:24:55.000
+nie ma większego sensu. Mogli
+
+00:24:55.000 --> 00:24:57.000
+to, wiesz, zastąpić jakimiś stacjami medycznymi
+
+00:24:57.000 --> 00:24:59.000
+czy czymś takim, bo to jakiś
+
+00:24:59.000 --> 00:25:00.000
+zastrzyk życia.
+
+00:25:00.000 --> 00:25:02.000
+Ja bym to w ogóle wywalał. Po co to jest?
+
+00:25:02.000 --> 00:25:04.000
+No.
+
+00:25:04.000 --> 00:25:06.000
+Już gry nam pokazały, że istnieją lepsze
+
+00:25:06.000 --> 00:25:07.000
+związania.
+
+00:25:07.000 --> 00:25:09.000
+Nie, nie, to pewnie, ale wyobraź sobie taką sytuację, że
+
+00:25:09.000 --> 00:25:11.000
+podchodzisz, bo ty z reguły nie masz pełnego
+
+00:25:11.000 --> 00:25:13.000
+życia, nie. Podchodzisz,
+
+00:25:13.000 --> 00:25:15.000
+wciskasz ten guzik, on
+
+00:25:15.000 --> 00:25:17.000
+pompuje ci zdrowie i
+
+00:25:17.000 --> 00:25:19.000
+w międzyczasie się wykonuje save.
+
+00:25:19.000 --> 00:25:21.000
+W taki sposób niezauważalny.
+
+00:25:21.000 --> 00:25:23.000
+Więc to byłaby jak stacja, jak każda inna stacja.
+
+00:25:23.000 --> 00:25:25.000
+Ale w momencie, kiedy jesteś super ogarnięty
+
+00:25:25.000 --> 00:25:27.000
+nie masz, wiesz, nie musisz
+
+00:25:27.000 --> 00:25:29.000
+nie musisz sobie podpompowywać
+
+00:25:29.000 --> 00:25:31.000
+zdrowia, przechodzisz dziesięć leweli
+
+00:25:31.000 --> 00:25:33.000
+nie, jakby pod rząd.
+
+00:25:33.000 --> 00:25:34.000
+Dużo przydałby się.
+
+00:25:34.000 --> 00:25:36.000
+To był save po prostu zwykły, taki tradycyjny i tyle.
+
+00:25:36.000 --> 00:25:38.000
+No pewnie, to jest archaizm i tyle.
+
+00:25:38.000 --> 00:25:40.000
+Tak i czasami miałem problemy z
+
+00:25:40.000 --> 00:25:42.000
+takimi ruchomymi elementami tła,
+
+00:25:42.000 --> 00:25:44.000
+czy tam jakaś torba, jakaś
+
+00:25:44.000 --> 00:25:46.000
+jakaś skrzynka, one potrafiły mi tak
+
+00:25:46.000 --> 00:25:48.000
+trochę wariować. Raz, że tak się
+
+00:25:48.000 --> 00:25:50.000
+wystraszyłem po prostu, że coś tam, coś tam robię
+
+00:25:50.000 --> 00:25:52.000
+i taki ruch na boku
+
+00:25:52.000 --> 00:25:54.000
+ekranu i obracam się, od razu
+
+00:25:54.000 --> 00:25:56.000
+celuję broń, a tam
+
+00:25:56.000 --> 00:25:58.000
+torba z szafki
+
+00:25:58.000 --> 00:26:00.000
+wychodzi po prostu, zglitchowana taka.
+
+00:26:00.000 --> 00:26:02.000
+Nie, to mi się nie zdarzyło.
+
+00:26:02.000 --> 00:26:04.000
+Nie, nie.
+
+00:26:04.000 --> 00:26:06.000
+To są drobne rzeczy. Znaczy naprawdę
+
+00:26:06.000 --> 00:26:08.000
+to są pierdoły,
+
+00:26:08.000 --> 00:26:10.000
+bo gra sumarycznie mi się
+
+00:26:10.000 --> 00:26:12.000
+bardzo podoba. Bardzo podoba
+
+00:26:12.000 --> 00:26:14.000
+i nawet to napisałem dzisiaj na
+
+00:26:14.000 --> 00:26:16.000
+Twitterze, wrzuciłem takiego screena
+
+00:26:16.000 --> 00:26:18.000
+pięknego z właśnie
+
+00:26:18.000 --> 00:26:20.000
+z tej niezwykłej
+
+00:26:20.000 --> 00:26:22.000
+lokacji, gdzie
+
+00:26:22.000 --> 00:26:24.000
+wymienia się, gdzie się podpina takie silniki
+
+00:26:24.000 --> 00:26:26.000
+i jest taka wirówka
+
+00:26:26.000 --> 00:26:28.000
+jakby. Myślałem, że się...
+
+00:26:28.000 --> 00:26:30.000
+To jak się tam lata, to jest
+
+00:26:30.000 --> 00:26:32.000
+taki kawałek dobry
+
+00:26:32.000 --> 00:26:34.000
+wizualnie,
+
+00:26:34.000 --> 00:26:36.000
+że to jest niewiarygodne.
+
+00:26:36.000 --> 00:26:38.000
+Dla mnie to jest jeden z...
+
+00:26:38.000 --> 00:26:40.000
+Wiem, że narzekałem przez lata na remake'i,
+
+00:26:40.000 --> 00:26:42.000
+ale dla mnie to jest jeden
+
+00:26:42.000 --> 00:26:44.000
+z kandydatów na grę roku.
+
+00:26:44.000 --> 00:26:46.000
+Ja właśnie też dokładnie
+
+00:26:46.000 --> 00:26:48.000
+do tego samego zmierzałem, że może być to
+
+00:26:48.000 --> 00:26:50.000
+spora niespodzianka. No też
+
+00:26:50.000 --> 00:26:52.000
+byłoby to ciężko, bo to zawsze jak
+
+00:26:52.000 --> 00:26:54.000
+gry wychodzą na początku roku, to czasami w tych plebiscytach
+
+00:26:54.000 --> 00:26:56.000
+pod koniec się o nich zapomina,
+
+00:26:56.000 --> 00:26:58.000
+ale wydaje mi się, że to jest coś, co się
+
+00:26:58.000 --> 00:27:00.000
+mocno, mocno, mocno zapisze w świadomości
+
+00:27:00.000 --> 00:27:02.000
+ludzi. Jakby wiadomo, że
+
+00:27:02.000 --> 00:27:04.000
+Capcom świetnie sobie radzi z tymi remake'ami
+
+00:27:04.000 --> 00:27:06.000
+z Resident Evil i
+
+00:27:06.000 --> 00:27:08.000
+one są bardzo, bardzo spoko. Natomiast
+
+00:27:08.000 --> 00:27:10.000
+też uważam, że to, co Motif zrobił
+
+00:27:10.000 --> 00:27:12.000
+z Dead Space'em, to jest absolutna rewelacja.
+
+00:27:12.000 --> 00:27:14.000
+W kategorii remake'ów to jest
+
+00:27:14.000 --> 00:27:16.000
+absolutne podium.
+
+00:27:16.000 --> 00:27:18.000
+Absolutny szczyt podium, to w ogóle nawet
+
+00:27:18.000 --> 00:27:20.000
+bezdyskusyjnie. Oczywiście to tam
+
+00:27:20.000 --> 00:27:22.000
+być może jest kwestia gustu, bo ja bardzo lubię
+
+00:27:22.000 --> 00:27:24.000
+takie kosmiczne science fiction.
+
+00:27:24.000 --> 00:27:26.000
+Ktoś może bardziej lubić zombie i wtedy Resident'y
+
+00:27:26.000 --> 00:27:28.000
+doceni, ale...
+
+00:27:28.000 --> 00:27:30.000
+Mamy Diablo, mamy Tony'ego Hawka, które były
+
+00:27:30.000 --> 00:27:32.000
+fantastycznymi remake'ami.
+
+00:27:32.000 --> 00:27:34.000
+No to też się inne przytrafiają, pewnie, że tak.
+
+00:27:34.000 --> 00:27:36.000
+No ja, ja, ja bardzo
+
+00:27:36.000 --> 00:27:38.000
+trzymałem kciuki za tego remake'a.
+
+00:27:38.000 --> 00:27:40.000
+Głównie dlatego, że
+
+00:27:40.000 --> 00:27:42.000
+wiem, że Electronic Arts
+
+00:27:42.000 --> 00:27:44.000
+ma prawo do własności, ma
+
+00:27:44.000 --> 00:27:46.000
+prawo do wielu, wielu fajnych marek
+
+00:27:46.000 --> 00:27:48.000
+i gdyby się komuś
+
+00:27:48.000 --> 00:27:50.000
+zachciało zrobić remake'i z tego, to naprawdę
+
+00:27:50.000 --> 00:27:52.000
+mają gigantyczne pole do popisu.
+
+00:27:52.000 --> 00:27:54.000
+Twój ulubiony Dungeon Keeper chociażby,
+
+00:27:54.000 --> 00:27:56.000
+Kotor, na który czekamy,
+
+00:27:56.000 --> 00:27:58.000
+ten
+
+00:27:58.000 --> 00:28:00.000
+Dragon Age, wiadomo,
+
+00:28:00.000 --> 00:28:02.000
+że szykuje się kolejna produkcja,
+
+00:28:02.000 --> 00:28:04.000
+ale tam mam wątpliwości, bo to
+
+00:28:04.000 --> 00:28:06.000
+BioWare i też się ludzie zwalniają gdzieś tam po drodze,
+
+00:28:06.000 --> 00:28:08.000
+więc ten projekt może wyjść różnie,
+
+00:28:08.000 --> 00:28:10.000
+ale pierwszy Dragon Age w wersji
+
+00:28:10.000 --> 00:28:12.000
+remake mógłby być bardzo,
+
+00:28:12.000 --> 00:28:14.000
+bardzo spoko i to cały czas jest
+
+00:28:14.000 --> 00:28:16.000
+fantastyczna rzecz. Jak mówimy o remake'ach,
+
+00:28:16.000 --> 00:28:18.000
+to wolałbyś, żeby
+
+00:28:18.000 --> 00:28:20.000
+żebyśmy od razu teraz dostali
+
+00:28:20.000 --> 00:28:22.000
+ogłoszenie, że pracują nad remake'iem
+
+00:28:22.000 --> 00:28:24.000
+Dead Space'a 2, czy, że
+
+00:28:24.000 --> 00:28:26.000
+robią Dead Space'a 4?
+
+00:28:26.000 --> 00:28:28.000
+Ci sami?
+
+00:28:28.000 --> 00:28:30.000
+Nie no, Motive na pewno nie, no bo oni robią
+
+00:28:30.000 --> 00:28:32.000
+Ironmana. Wiesz,
+
+00:28:32.000 --> 00:28:34.000
+chyba wolą...
+
+00:28:34.000 --> 00:28:36.000
+Wiesz co, bo nie wiem, bo to jest duże studio,
+
+00:28:36.000 --> 00:28:38.000
+tam jest co najmniej 200-300
+
+00:28:38.000 --> 00:28:40.000
+osób, to jest minimum.
+
+00:28:40.000 --> 00:28:42.000
+I
+
+00:28:42.000 --> 00:28:44.000
+być może, wiesz, mając już
+
+00:28:44.000 --> 00:28:46.000
+ogarniętą
+
+00:28:46.000 --> 00:28:48.000
+technologię przy tym Dead Space'ie,
+
+00:28:48.000 --> 00:28:50.000
+mając mechaniki z dwójki,
+
+00:28:50.000 --> 00:28:52.000
+nie będzie potrzeba tak, aż tak
+
+00:28:52.000 --> 00:28:54.000
+dużego zespołu, żeby zrobić
+
+00:28:54.000 --> 00:28:56.000
+Dead Space'a 2 remake'a, nie? Więc może
+
+00:28:56.000 --> 00:28:58.000
+i Motive to zrobi po prostu.
+
+00:28:58.000 --> 00:29:00.000
+Bardzo, bardzo bym chciał, żeby zrobili remake'a
+
+00:29:00.000 --> 00:29:02.000
+dwójki. Naprawdę, to jest, bo to jest,
+
+00:29:02.000 --> 00:29:04.000
+to jest, przy tej pierwszej części
+
+00:29:04.000 --> 00:29:06.000
+potwierdziła się fantastyczna
+
+00:29:06.000 --> 00:29:08.000
+rzecz, że jeżeli masz dobrze
+
+00:29:08.000 --> 00:29:10.000
+ułożoną historię i już masz
+
+00:29:10.000 --> 00:29:12.000
+obudowane to mechanikami,
+
+00:29:12.000 --> 00:29:14.000
+to być może trudniej jest to skopać
+
+00:29:14.000 --> 00:29:16.000
+niż jak wymyślasz coś od zera.
+
+00:29:16.000 --> 00:29:18.000
+Po pierwsze, nie masz żadnej gwarancji, że wymyślisz dobrą fabułę.
+
+00:29:18.000 --> 00:29:20.000
+Jest cały czas obawa,
+
+00:29:20.000 --> 00:29:22.000
+że spróbujesz opchnąć graczom
+
+00:29:22.000 --> 00:29:24.000
+jakieś miałkie dzieło, które się spodoba wszystkim.
+
+00:29:24.000 --> 00:29:26.000
+W przypadku remake'u można coś
+
+00:29:26.000 --> 00:29:28.000
+pozmieniać, można coś dodać, natomiast nie można
+
+00:29:28.000 --> 00:29:30.000
+za żadne skarby pokombinować
+
+00:29:30.000 --> 00:29:32.000
+z tym, co się, co żeśmy dostali w 2008
+
+00:29:32.000 --> 00:29:34.000
+roku. Więc mamy
+
+00:29:34.000 --> 00:29:36.000
+gwarancję, że przynajmniej jeżeli chodzi o
+
+00:29:36.000 --> 00:29:38.000
+opowieść jakąś, to to się będzie trzymało
+
+00:29:38.000 --> 00:29:40.000
+kupy. Natomiast...
+
+00:29:40.000 --> 00:29:42.000
+jak to
+
+00:29:42.000 --> 00:29:44.000
+inaczej powiedzieć, żeby to brzmiało
+
+00:29:44.000 --> 00:29:46.000
+bardziej zjadliwie?
+
+00:29:46.000 --> 00:29:48.000
+Że to będzie miało sens.
+
+00:29:48.000 --> 00:29:50.000
+I powiem szczerze, że
+
+00:29:50.000 --> 00:29:52.000
+po tym remake'u bardzo, bardzo bym chciał
+
+00:29:52.000 --> 00:29:54.000
+Dead Space'a dwójkę. Po czwórce
+
+00:29:54.000 --> 00:29:56.000
+Dead Space'ie, którego też chciałbym ograć na pewno,
+
+00:29:56.000 --> 00:29:58.000
+ale nie wiedziałbym czego się spodziewać.
+
+00:29:58.000 --> 00:30:00.000
+W każdą stronę mogłoby to pójść.
+
+00:30:00.000 --> 00:30:02.000
+Natomiast skoro nie skopali
+
+00:30:02.000 --> 00:30:04.000
+pierwszej części, to drugiej też raczej nie skopią
+
+00:30:04.000 --> 00:30:06.000
+mając te wszystkie rzeczy, które
+
+00:30:06.000 --> 00:30:08.000
+do tej pory zrobili. Więc tak, remake
+
+00:30:08.000 --> 00:30:10.000
+dwójki byłby super rzecz.
+
+00:30:10.000 --> 00:30:12.000
+Dwójka jest taka dużo bardziej spektakularna.
+
+00:30:12.000 --> 00:30:14.000
+Tak, tak, o na pewno.
+
+00:30:14.000 --> 00:30:16.000
+Natomiast trójka to już może
+
+00:30:16.000 --> 00:30:18.000
+niekoniecznie. Wiem, że wiele osób nie do końca
+
+00:30:18.000 --> 00:30:20.000
+chwali dwójkę.
+
+00:30:20.000 --> 00:30:22.000
+Trójkę. Znaczy trójkę. Trójkę
+
+00:30:22.000 --> 00:30:24.000
+Visceral też chyba robił, ale tam się
+
+00:30:24.000 --> 00:30:26.000
+już coś posypało wtedy w tym studio. Tam było
+
+00:30:26.000 --> 00:30:28.000
+trochę zamieszania. Więc
+
+00:30:28.000 --> 00:30:30.000
+ja osobiście z przyjemnością grałem trójkę.
+
+00:30:30.000 --> 00:30:32.000
+Ona nie była horrorem tak
+
+00:30:32.000 --> 00:30:34.000
+bardzo jak jedynka i dwójka i wiele osób na to
+
+00:30:34.000 --> 00:30:36.000
+narzekało, że trochę odeszli w tej
+
+00:30:36.000 --> 00:30:38.000
+trójce z tego
+
+00:30:38.000 --> 00:30:40.000
+klimatu. Ja nie grałem
+
+00:30:40.000 --> 00:30:42.000
+w trójkę, więc to ciężko.
+
+00:30:42.000 --> 00:30:44.000
+Pograłem, pograłem i nawet wiesz, no ja tak
+
+00:30:44.000 --> 00:30:46.000
+zawsze odczuwałem lęki związane z tym
+
+00:30:46.000 --> 00:30:48.000
+Dead Space'em i wspomnieniami z jedynką,
+
+00:30:48.000 --> 00:30:50.000
+więc się ucieszyłem, że ta trójka nie jest tak do końca
+
+00:30:50.000 --> 00:30:52.000
+horrorem, ale teraz doceniam.
+
+00:30:52.000 --> 00:30:54.000
+To obok Somy
+
+00:30:54.000 --> 00:30:56.000
+Dead Space'a mogę spokojnie postawić
+
+00:30:56.000 --> 00:30:58.000
+na drugim miejscu,
+
+00:30:58.000 --> 00:31:00.000
+jeżeli chodzi o dobrze zrobione horrory.
+
+00:31:00.000 --> 00:31:02.000
+Mimo, że operują jumpscarami,
+
+00:31:02.000 --> 00:31:04.000
+to jednak jest w tym coś. Jeszcze jedna
+
+00:31:04.000 --> 00:31:06.000
+rzecz, o której chciałem opowiedzieć i czego
+
+00:31:06.000 --> 00:31:08.000
+nie doceniałem w Dead Space'ie, o czym mi ludzie mówili,
+
+00:31:08.000 --> 00:31:10.000
+ale to jest coś, o czym się zapomina trochę,
+
+00:31:10.000 --> 00:31:12.000
+że z jednej strony,
+
+00:31:12.000 --> 00:31:14.000
+bo będziemy mówili o tym poziomie strachu i jak
+
+00:31:14.000 --> 00:31:16.000
+deweloperzy sobie poradzili, żeby to podbudować
+
+00:31:16.000 --> 00:31:18.000
+w nas, natomiast Dead Space ma to do siebie,
+
+00:31:18.000 --> 00:31:20.000
+że jest tam jednak ten system progresji,
+
+00:31:20.000 --> 00:31:22.000
+że jest taki delikatny motyw
+
+00:31:22.000 --> 00:31:24.000
+RPG-a,
+
+00:31:24.000 --> 00:31:26.000
+właściwie RPG-a akcji, gdzie
+
+00:31:26.000 --> 00:31:28.000
+inwestujemy w umiejętności, rozwijamy
+
+00:31:28.000 --> 00:31:30.000
+nasz sprzęt i rezultat jest taki,
+
+00:31:30.000 --> 00:31:32.000
+że mimo tego, że pod koniec
+
+00:31:32.000 --> 00:31:34.000
+gry im dalej jesteśmy, tym straszniejsze
+
+00:31:34.000 --> 00:31:36.000
+rzeczy się przydarzają, to jednak jesteśmy do nich
+
+00:31:36.000 --> 00:31:38.000
+lepiej przygotowani. I zaczynamy
+
+00:31:38.000 --> 00:31:40.000
+zabawę jako Isaac, który jest kompletnie
+
+00:31:40.000 --> 00:31:42.000
+bezbronny i ma jedną pukawkę, która
+
+00:31:42.000 --> 00:31:44.000
+w zasadzie służy do spawania bardziej niż
+
+00:31:44.000 --> 00:31:46.000
+do zabijania, chociaż jest bardzo skuteczna w tym przypadku,
+
+00:31:46.000 --> 00:31:48.000
+to potem mamy już do czynienia z naprawdę
+
+00:31:48.000 --> 00:31:50.000
+nieźle wypakowanym żołnierzem,
+
+00:31:50.000 --> 00:31:52.000
+który świetnie sobie radzi i ten poziom strachu
+
+00:31:52.000 --> 00:31:54.000
+trochę się przenosi
+
+00:31:54.000 --> 00:31:56.000
+w inne rejony. Trochę inaczej to odczuwamy,
+
+00:31:56.000 --> 00:31:58.000
+czujemy się pewniej i bezpieczniej. Ja już
+
+00:31:58.000 --> 00:32:00.000
+to tak po tych kilku godzinach gry
+
+00:32:00.000 --> 00:32:02.000
+dostrzegam, że teraz trochę się czuję pewniej.
+
+00:32:02.000 --> 00:32:04.000
+Trochę poznałem ten świat. To jest w ogóle fajny,
+
+00:32:04.000 --> 00:32:06.000
+fajny mechanizm. No, ale
+
+00:32:06.000 --> 00:32:08.000
+o strachu to pewnie nie chcę wyprzedzać tu
+
+00:32:08.000 --> 00:32:10.000
+faktów. Tak, właśnie, bo klimat.
+
+00:32:10.000 --> 00:32:12.000
+Muszę przyznać, że klimat
+
+00:32:12.000 --> 00:32:14.000
+jest tutaj dużo gęściejszy
+
+00:32:14.000 --> 00:32:16.000
+niż w oryginale. Ja specjalnie
+
+00:32:16.000 --> 00:32:18.000
+odpaliłem sobie na
+
+00:32:18.000 --> 00:32:20.000
+Xboxie oryginał, pograłem
+
+00:32:20.000 --> 00:32:22.000
+i widzę
+
+00:32:22.000 --> 00:32:24.000
+na bieżąco
+
+00:32:24.000 --> 00:32:26.000
+jak dobrze
+
+00:32:26.000 --> 00:32:28.000
+jest zrobiony ten remake. Znaczy
+
+00:32:28.000 --> 00:32:30.000
+te lokacje
+
+00:32:30.000 --> 00:32:32.000
+jak zostały poprawione. Właściwie od nowa
+
+00:32:32.000 --> 00:32:34.000
+zrobione. Tam te
+
+00:32:34.000 --> 00:32:36.000
+niektóre zostały powiększone
+
+00:32:36.000 --> 00:32:38.000
+do naprawdę ogromnych rozmiarów. Dzięki
+
+00:32:38.000 --> 00:32:40.000
+temu, że latamy to możemy sobie
+
+00:32:40.000 --> 00:32:42.000
+trochę pozwiedzać, trochę
+
+00:32:42.000 --> 00:32:44.000
+od innej strony poznać
+
+00:32:44.000 --> 00:32:46.000
+te lokacje. One są bardzo kunsztownie zrobione.
+
+00:32:46.000 --> 00:32:48.000
+W ogóle cały okręt
+
+00:32:48.000 --> 00:32:50.000
+Ishimura jest
+
+00:32:50.000 --> 00:32:52.000
+takim nowym bohaterem,
+
+00:32:52.000 --> 00:32:54.000
+można powiedzieć.
+
+00:32:54.000 --> 00:32:56.000
+To w jaki sposób gra
+
+00:32:56.000 --> 00:32:58.000
+dawkuje nam te etapy, gdzie
+
+00:32:58.000 --> 00:33:00.000
+przechodzimy między ciasnymi
+
+00:33:00.000 --> 00:33:02.000
+korytarzami i potem na takie
+
+00:33:02.000 --> 00:33:04.000
+ogromne hale wychodzimy.
+
+00:33:04.000 --> 00:33:06.000
+No to jest coś
+
+00:33:06.000 --> 00:33:08.000
+niesamowitego. Jest tutaj oczywiście
+
+00:33:08.000 --> 00:33:10.000
+ten backtracking, ale on
+
+00:33:10.000 --> 00:33:12.000
+nie jest uciążliwy i dzięki
+
+00:33:12.000 --> 00:33:14.000
+temu, że istnieje ten
+
+00:33:14.000 --> 00:33:16.000
+moduł intensywności, o którym sobie
+
+00:33:16.000 --> 00:33:18.000
+zaraz pewnie porozmawiamy,
+
+00:33:18.000 --> 00:33:20.000
+no to jest on...
+
+00:33:20.000 --> 00:33:22.000
+Cały czas
+
+00:33:22.000 --> 00:33:24.000
+ta gra trzyma nas w napięciu.
+
+00:33:24.000 --> 00:33:26.000
+Światło, to w ogóle tak,
+
+00:33:26.000 --> 00:33:28.000
+jeszcze tylko o tym światle
+
+00:33:28.000 --> 00:33:30.000
+powiem. To jak grają tam światem, ta gra
+
+00:33:30.000 --> 00:33:32.000
+jest bardzo ciemna. Znaczy jest dużo
+
+00:33:32.000 --> 00:33:34.000
+miejsc, gdzie po prostu nic nie widać.
+
+00:33:34.000 --> 00:33:36.000
+Nie da się poruszać po prostu.
+
+00:33:36.000 --> 00:33:38.000
+Musisz odpalać tą latarkę, ale
+
+00:33:38.000 --> 00:33:40.000
+są świetnie zrobione snopy światła, cienie,
+
+00:33:40.000 --> 00:33:42.000
+mgła, ta atmosfera,
+
+00:33:42.000 --> 00:33:44.000
+no i oczywiście dźwięk
+
+00:33:44.000 --> 00:33:46.000
+i muzyka, która
+
+00:33:46.000 --> 00:33:48.000
+no
+
+00:33:48.000 --> 00:33:50.000
+czerpie z klasyki horrorów
+
+00:33:50.000 --> 00:33:52.000
+bardzo mocno, ale też bardzo dobrze
+
+00:33:52.000 --> 00:33:53.000
+jest zrobiona.
+
+00:33:53.000 --> 00:33:55.000
+Chciałem się zatrzymać, dlatego Ci przerwałem. Chciałem się
+
+00:33:55.000 --> 00:33:57.000
+zatrzymać trochę przy tym backtrackingu i przy
+
+00:33:57.000 --> 00:33:59.000
+Ishimurze, o której, statku, o którym
+
+00:33:59.000 --> 00:34:01.000
+opowiadasz, bo
+
+00:34:01.000 --> 00:34:03.000
+jest też tak, że
+
+00:34:03.000 --> 00:34:05.000
+to jest gra z 2008 roku,
+
+00:34:05.000 --> 00:34:07.000
+natomiast elementy nawigacji
+
+00:34:07.000 --> 00:34:09.000
+i w ogóle odnajdywania
+
+00:34:09.000 --> 00:34:11.000
+się na tym statku są zrobione
+
+00:34:11.000 --> 00:34:13.000
+tak świetnie, ja jakby
+
+00:34:13.000 --> 00:34:15.000
+kiedy masz do czynienia z takim dużym
+
+00:34:15.000 --> 00:34:17.000
+obiektem, statkiem kosmicznym,
+
+00:34:17.000 --> 00:34:19.000
+to bardzo trudno jest zapamiętać te przejścia,
+
+00:34:19.000 --> 00:34:21.000
+lokacje, w których byłeś, gdzie nie byłeś, to wszystko jest
+
+00:34:21.000 --> 00:34:23.000
+zakrwawione, to jest wszystko ciemne, często
+
+00:34:23.000 --> 00:34:25.000
+totalnie czarne miejsca, więc w normalnych
+
+00:34:25.000 --> 00:34:27.000
+warunkach ciężko by się było odnaleźć, natomiast tam świetnie
+
+00:34:27.000 --> 00:34:29.000
+działa mapa i świetnie działa ten system
+
+00:34:29.000 --> 00:34:31.000
+nawigacji, ja nie od razu go odkryłem, ale
+
+00:34:31.000 --> 00:34:33.000
+jak tam sobie klikniesz gałkę, w moim przypadku R3,
+
+00:34:33.000 --> 00:34:35.000
+to pokazuje mi ścieżkę do celu
+
+00:34:35.000 --> 00:34:37.000
+i to jest jakby oczywiście, że dzięki
+
+00:34:37.000 --> 00:34:39.000
+temu możesz się lepiej odnaleźć, ale także dzięki
+
+00:34:39.000 --> 00:34:41.000
+temu wiesz, że
+
+00:34:41.000 --> 00:34:43.000
+kiedy idziesz zgodnie z linią fabuły, a kiedy
+
+00:34:43.000 --> 00:34:45.000
+eksplorujesz i to jest dla mnie tak fantastyczny wyróżnik,
+
+00:34:45.000 --> 00:34:47.000
+że ja wiem, że linia, że droga
+
+00:34:47.000 --> 00:34:49.000
+mnie prowadzi prosto, ale widzę tu drzwi,
+
+00:34:49.000 --> 00:34:51.000
+tam drzwi, mówię okej, zajrzę tu, zajrzę tam,
+
+00:34:51.000 --> 00:34:53.000
+wiem, że się nie zgubię. W normalnych
+
+00:34:53.000 --> 00:34:55.000
+warunkach ta eksploracja trochę mnie
+
+00:34:55.000 --> 00:34:57.000
+jakby utrudnia życie,
+
+00:34:57.000 --> 00:34:59.000
+bo mówię, no kurde, pójdę tam, skręcę dwa razy
+
+00:34:59.000 --> 00:35:01.000
+i potem nie wrócę na główny, na główny
+
+00:35:01.000 --> 00:35:03.000
+nurt tej przygody i będę chodził
+
+00:35:03.000 --> 00:35:05.000
+w kółko próbując się odnaleźć. Ten system
+
+00:35:05.000 --> 00:35:07.000
+jest tak świetnie zrobiony, raz mi się tylko
+
+00:35:07.000 --> 00:35:09.000
+gdzieś tam zawiesiło, że próbowało mnie przepchnąć
+
+00:35:09.000 --> 00:35:11.000
+przez zamknięte drzwi, albo zapomniało
+
+00:35:11.000 --> 00:35:13.000
+o świeżo otwartych drzwiach, ale z reguły
+
+00:35:13.000 --> 00:35:15.000
+działa to fantastycznie i dzięki temu jest fenomenalna
+
+00:35:15.000 --> 00:35:17.000
+eksploracja w tej grze, bo
+
+00:35:17.000 --> 00:35:19.000
+nie masz tej obawy, że się zgubisz bez sensu,
+
+00:35:19.000 --> 00:35:21.000
+ale jak się już cofniesz...
+
+00:35:21.000 --> 00:35:23.000
+Nawet jak się zgubisz... No tak...
+
+00:35:23.000 --> 00:35:25.000
+To mają rzeczy bardzo nieprzyjemne.
+
+00:35:25.000 --> 00:35:27.000
+No właśnie, twórcy
+
+00:35:27.000 --> 00:35:29.000
+stworzyli coś takiego, co się nazywa
+
+00:35:29.000 --> 00:35:31.000
+moduł intensywności, czyli...
+
+00:35:31.000 --> 00:35:33.000
+Czyli gra ma taki system
+
+00:35:33.000 --> 00:35:35.000
+generowania strasznych momentów
+
+00:35:35.000 --> 00:35:37.000
+i podtrzymywania
+
+00:35:37.000 --> 00:35:39.000
+napięcia, czyli
+
+00:35:39.000 --> 00:35:41.000
+nawet jak gdzieś byliśmy,
+
+00:35:41.000 --> 00:35:43.000
+to w losowych momentach,
+
+00:35:43.000 --> 00:35:45.000
+tylko gra to cały czas kontroluje,
+
+00:35:45.000 --> 00:35:47.000
+żeby nie było tak, że
+
+00:35:47.000 --> 00:35:49.000
+za bardzo nas straszy, albo
+
+00:35:49.000 --> 00:35:51.000
+jest za nudno,
+
+00:35:51.000 --> 00:35:53.000
+będzie nas właśnie straszyć. Czasami to jest tak,
+
+00:35:53.000 --> 00:35:55.000
+że jakiś potwór przebiegnie i my nic
+
+00:35:55.000 --> 00:35:57.000
+z tym nie możemy zrobić. Czasami to są
+
+00:35:57.000 --> 00:35:59.000
+dźwięki, cienie.
+
+00:35:59.000 --> 00:36:01.000
+Gra cieni i to, co się tam
+
+00:36:01.000 --> 00:36:03.000
+dzieje, to jest jak
+
+00:36:03.000 --> 00:36:05.000
+z najlepszych horrorów.
+
+00:36:05.000 --> 00:36:07.000
+Muszę przyznać, że jestem pod ogromnym wrażeniem.
+
+00:36:07.000 --> 00:36:09.000
+Tyle razy mi się
+
+00:36:09.000 --> 00:36:11.000
+wydawało, że tam rzeczywiście...
+
+00:36:11.000 --> 00:36:13.000
+To na pewno to dawało cień.
+
+00:36:13.000 --> 00:36:15.000
+Nie, to był ten system, który wygenerował nam
+
+00:36:15.000 --> 00:36:17.000
+ten cień, który zaraz tam znika
+
+00:36:17.000 --> 00:36:19.000
+i ma tylko nas
+
+00:36:19.000 --> 00:36:21.000
+przestraszyć. No i oczywiście w losowych
+
+00:36:21.000 --> 00:36:23.000
+mamy dużo tego systemu
+
+00:36:23.000 --> 00:36:25.000
+wentylacji, z którego wyłażą potwory.
+
+00:36:25.000 --> 00:36:27.000
+No i powtarzając pewne...
+
+00:36:27.000 --> 00:36:29.000
+Ja gram na normalnym.
+
+00:36:29.000 --> 00:36:31.000
+Nie jest może jakoś specjalnie trudny,
+
+00:36:31.000 --> 00:36:33.000
+ale zdarzało mi się już kilka razy pewne rzeczy
+
+00:36:33.000 --> 00:36:35.000
+powtarzać. No i
+
+00:36:35.000 --> 00:36:37.000
+potwory potrafią wyłazić
+
+00:36:37.000 --> 00:36:39.000
+z różnych miejsc.
+
+00:36:39.000 --> 00:36:41.000
+Więc to nie jest tak, że się nauczę na pamięć
+
+00:36:41.000 --> 00:36:43.000
+tego, tylko
+
+00:36:43.000 --> 00:36:45.000
+działa.
+
+00:36:45.000 --> 00:36:47.000
+Ja się przyglądałem się
+
+00:36:47.000 --> 00:36:49.000
+już parę dni po premierze, jak dokładnie
+
+00:36:49.000 --> 00:36:51.000
+ten system został zaimplementowany, bo tam
+
+00:36:51.000 --> 00:36:53.000
+różni ludzie, dziennikarze wypowiadają się
+
+00:36:53.000 --> 00:36:55.000
+na ten temat. YouTuberzy też robili materiał
+
+00:36:55.000 --> 00:36:57.000
+i przejrzałem sobie to z ogromną ciekawością.
+
+00:36:57.000 --> 00:36:59.000
+Bo tam mamy oczywiście z takim systemem
+
+00:36:59.000 --> 00:37:01.000
+oskryptowanych eventów, nie?
+
+00:37:01.000 --> 00:37:03.000
+Że zdarzają się w określonych miejscach fabuły,
+
+00:37:03.000 --> 00:37:05.000
+czy statku wydarzenia i jesteśmy
+
+00:37:05.000 --> 00:37:07.000
+na nie skazani, czy chcemy, czy nie chcemy.
+
+00:37:07.000 --> 00:37:09.000
+Co oczywiście jest dobrze zrobione i jest przyjemną
+
+00:37:09.000 --> 00:37:11.000
+dodatkiem do opowieści.
+
+00:37:11.000 --> 00:37:13.000
+Ale to jest też tak, że z reguły w tego typu
+
+00:37:13.000 --> 00:37:15.000
+horrorach mamy taką potrzebę... Jeżeli wracamy
+
+00:37:15.000 --> 00:37:17.000
+do miejsc, w których żeśmy już byli, to czujemy się
+
+00:37:17.000 --> 00:37:19.000
+bezpiecznie. W przypadku Dead Space'a w ogóle
+
+00:37:19.000 --> 00:37:21.000
+to nie wchodzi w rachubę, bo
+
+00:37:21.000 --> 00:37:23.000
+potrafi, to jest w ogóle te przebiegające
+
+00:37:23.000 --> 00:37:25.000
+potwory, to jest, to jest masakra.
+
+00:37:25.000 --> 00:37:27.000
+Ja ostatnio przebiegł obok mnie jakiś
+
+00:37:27.000 --> 00:37:29.000
+ziomek, bo poszedł gdzieś dalej, a ja myślałem, że
+
+00:37:29.000 --> 00:37:31.000
+wiesz, to spodnie do wymiany i to już tak
+
+00:37:31.000 --> 00:37:33.000
+na stałe, nie? Do wyrzucenia.
+
+00:37:33.000 --> 00:37:35.000
+To są rzeczy, są tam straszne,
+
+00:37:35.000 --> 00:37:37.000
+ale jest jeszcze jedna mechanika,
+
+00:37:37.000 --> 00:37:39.000
+więc pojawiają się te rzeczy proceduralnie,
+
+00:37:39.000 --> 00:37:41.000
+te odgłosy, o których mówisz, to
+
+00:37:41.000 --> 00:37:43.000
+cały czas coś mlaska, gdzieś przychodzisz koło miejsca,
+
+00:37:43.000 --> 00:37:45.000
+które znasz, a tu słyszysz jakby coś
+
+00:37:45.000 --> 00:37:47.000
+wiesz, oblizywało się na twój widok.
+
+00:37:47.000 --> 00:37:49.000
+A tam takie dźwięki, jak właz się otwiera,
+
+00:37:49.000 --> 00:37:52.000
+albo właśnie, że szyb wentylacyjny
+
+00:37:52.000 --> 00:37:54.000
+jest ruszany, to jakby to
+
+00:37:54.000 --> 00:37:56.000
+naprawdę jest...
+
+00:37:56.000 --> 00:37:58.000
+Robi, robi, robota. Działa, działa.
+
+00:37:58.000 --> 00:38:00.000
+No i to jest zaskakujące, że taki system
+
+00:38:00.000 --> 00:38:02.000
+zaimplementowali. To jest, ja mam takie wrażenie, że oni
+
+00:38:02.000 --> 00:38:04.000
+dostali tę grę, wiedzieli od początku, jak ją
+
+00:38:04.000 --> 00:38:06.000
+przenieść jeden do jeden, a potem zaczęli się bawić
+
+00:38:06.000 --> 00:38:08.000
+szczegółami i wymyślili sobie ten system
+
+00:38:08.000 --> 00:38:10.000
+i on jest, on jest, jest rewelacyjny
+
+00:38:10.000 --> 00:38:12.000
+i to w ogóle jest, wiesz, bo mnie takie gry
+
+00:38:12.000 --> 00:38:14.000
+przerażają i odrzucają,
+
+00:38:14.000 --> 00:38:16.000
+a mimo to ten Dead Space ma w sobie coś takiego,
+
+00:38:16.000 --> 00:38:18.000
+że mnie przyciąga, że chcę w niego grać mimo
+
+00:38:18.000 --> 00:38:20.000
+tego całego strachu, który, który odczuwam.
+
+00:38:20.000 --> 00:38:22.000
+I jeszcze jest jeden mechanizm, który jest
+
+00:38:22.000 --> 00:38:24.000
+zatrważający, ja opowiadałem o tym ze trzy razy,
+
+00:38:24.000 --> 00:38:26.000
+gdzieś tam podczas przechodzenia
+
+00:38:26.000 --> 00:38:28.000
+tej gry, bicie serca Isaaca,
+
+00:38:28.000 --> 00:38:30.000
+kiedy on jakby
+
+00:38:30.000 --> 00:38:32.000
+przyzwyczaja, gra przyzwyczaja nas do tego,
+
+00:38:32.000 --> 00:38:34.000
+że serce naszego bohatera wali
+
+00:38:34.000 --> 00:38:36.000
+w krytycznych momentach, jak coś się dzieje,
+
+00:38:36.000 --> 00:38:38.000
+z jakiejś strzelania, albo coś się na nas wyskoczy, to serce
+
+00:38:38.000 --> 00:38:40.000
+wali, ale deweloperzy wymyślili
+
+00:38:40.000 --> 00:38:42.000
+sobie tak, że kurde, czasami niech to serce
+
+00:38:42.000 --> 00:38:44.000
+wali bez powodu, a to już
+
+00:38:44.000 --> 00:38:46.000
+jest tak, jak pies Pawłowa, jak
+
+00:38:46.000 --> 00:38:48.000
+słyszysz, że bije serce, to po prostu wiesz, że
+
+00:38:48.000 --> 00:38:50.000
+coś za chwilę wyskoczy, a to nie wyskakuje,
+
+00:38:50.000 --> 00:38:52.000
+więc masz takie podniesione, podniesione ciśnienie
+
+00:38:52.000 --> 00:38:54.000
+w tych momentach i to nie zawsze
+
+00:38:54.000 --> 00:38:56.000
+musi owocować, ale mimo tego, ja
+
+00:38:56.000 --> 00:38:58.000
+też sobie dopisałem sobie taki punkt,
+
+00:38:58.000 --> 00:39:00.000
+jak straszyć, żeby nie zabić, bo
+
+00:39:00.000 --> 00:39:02.000
+mimo tego, że, że te rzeczy są takie
+
+00:39:02.000 --> 00:39:04.000
+niespodziewane i dzieją się tam wtedy, kiedy,
+
+00:39:04.000 --> 00:39:06.000
+kiedy, kiedy wydaje nam się, że już jesteśmy
+
+00:39:06.000 --> 00:39:08.000
+bezpieczni, to mimo tego ten poziom
+
+00:39:08.000 --> 00:39:10.000
+strachu nie, nie, nie, nie
+
+00:39:10.000 --> 00:39:12.000
+wyrasta ponad jakiś określony poziom,
+
+00:39:12.000 --> 00:39:14.000
+że to jest interesujące, intensywne,
+
+00:39:14.000 --> 00:39:16.000
+ale nie zabija, nie zabija na śmierć,
+
+00:39:16.000 --> 00:39:18.000
+nie mam takiego poczucia, że zaraz zejdę
+
+00:39:18.000 --> 00:39:20.000
+czy coś, jestem bardzo ciekaw, co się wydarzy za
+
+00:39:20.000 --> 00:39:22.000
+chwilę, więc to jest świetnie zrobione.
+
+00:39:22.000 --> 00:39:24.000
+Tak, twórcy, twórcy też mówili o tym na,
+
+00:39:24.000 --> 00:39:26.000
+na blogu, ja może
+
+00:39:26.000 --> 00:39:28.000
+podlinkuję ten artykuł po prostu,
+
+00:39:28.000 --> 00:39:30.000
+żeby oni tam dbają o to, żeby to nie,
+
+00:39:30.000 --> 00:39:32.000
+żeby nie przesadzić, nie, żeby wiedzą też,
+
+00:39:32.000 --> 00:39:34.000
+że w drugą stronę to też będzie źle,
+
+00:39:34.000 --> 00:39:36.000
+bo ktoś powie, nie, już nie wytrzyma mnie i
+
+00:39:36.000 --> 00:39:38.000
+kończę.
+
+00:39:38.000 --> 00:39:40.000
+Ciekawy jest też ten
+
+00:39:40.000 --> 00:39:42.000
+peeling system, czyli
+
+00:39:42.000 --> 00:39:44.000
+system cebuli,
+
+00:39:44.000 --> 00:39:46.000
+że potwory i ludzie mają warstwy.
+
+00:39:46.000 --> 00:39:48.000
+Tak jest. Jak ogry.
+
+00:39:48.000 --> 00:39:50.000
+I mamy takie, że mamy
+
+00:39:50.000 --> 00:39:52.000
+tą oryginalną, czyli widać skórę,
+
+00:39:52.000 --> 00:39:54.000
+po prostu jest normalna tam nóżka
+
+00:39:54.000 --> 00:39:56.000
+czy coś, potem mamy mięso, potem mamy
+
+00:39:56.000 --> 00:39:58.000
+kości i walcząc z potworami,
+
+00:39:58.000 --> 00:40:00.000
+my dokładnie widzimy postęp naszej
+
+00:40:00.000 --> 00:40:02.000
+walki. Widzimy też,
+
+00:40:02.000 --> 00:40:04.000
+w którą stronę, w którą kończynę powinniśmy
+
+00:40:04.000 --> 00:40:06.000
+walić, żeby dalej
+
+00:40:06.000 --> 00:40:08.000
+to rozwalić.
+
+00:40:08.000 --> 00:40:10.000
+I walka też, co jest w ogóle ciekawe,
+
+00:40:10.000 --> 00:40:12.000
+ciągle wymusza na nas
+
+00:40:12.000 --> 00:40:14.000
+zmianę strategii
+
+00:40:14.000 --> 00:40:16.000
+i broni, bo to głównie
+
+00:40:16.000 --> 00:40:18.000
+z tym się wiąże, bo co chwilę
+
+00:40:18.000 --> 00:40:20.000
+brakuje nam naboi, brakuje nam
+
+00:40:20.000 --> 00:40:22.000
+do tych, do tej
+
+00:40:22.000 --> 00:40:24.000
+staza, to się nazywa dokładnie.
+
+00:40:24.000 --> 00:40:26.000
+Tak, tak. Cały czas tam nam
+
+00:40:26.000 --> 00:40:28.000
+brakuje różnych rzeczy i my musimy sobie zmieniać.
+
+00:40:28.000 --> 00:40:30.000
+Musimy w różny
+
+00:40:30.000 --> 00:40:32.000
+sposób walczyć i musimy się
+
+00:40:32.000 --> 00:40:34.000
+nauczyć po prostu, więc to też w jakiś
+
+00:40:34.000 --> 00:40:36.000
+sposób nam bardzo
+
+00:40:36.000 --> 00:40:38.000
+uatrakcyjnia tą walkę,
+
+00:40:38.000 --> 00:40:40.000
+która już nawet sam ten
+
+00:40:40.000 --> 00:40:42.000
+system, że ten nasz przecinak,
+
+00:40:42.000 --> 00:40:44.000
+który może przecinać
+
+00:40:44.000 --> 00:40:46.000
+pionowo i poziomo,
+
+00:40:46.000 --> 00:40:48.000
+że my to zmieniamy
+
+00:40:48.000 --> 00:40:50.000
+klawiszem i zależy czy chcemy uciąć
+
+00:40:50.000 --> 00:40:52.000
+nogę czy rękę,
+
+00:40:52.000 --> 00:40:54.000
+no bo łatwiej nogę
+
+00:40:54.000 --> 00:40:56.000
+w poziomie, a rękę w pionie
+
+00:40:56.000 --> 00:40:58.000
+ucinać, jak masz rękę
+
+00:40:58.000 --> 00:41:00.000
+tak rozstawioną u tego potwora.
+
+00:41:00.000 --> 00:41:02.000
+Zaskakujący Mateo dzisiaj.
+
+00:41:02.000 --> 00:41:04.000
+To już nam
+
+00:41:04.000 --> 00:41:06.000
+to urozmaica
+
+00:41:06.000 --> 00:41:08.000
+po prostu tą walkę.
+
+00:41:08.000 --> 00:41:10.000
+Oczywiście jest
+
+00:41:10.000 --> 00:41:12.000
+ten problem, że ta gra
+
+00:41:12.000 --> 00:41:14.000
+pod koniec, ja to
+
+00:41:14.000 --> 00:41:16.000
+wiem raczej z tego, co przeczytałem,
+
+00:41:16.000 --> 00:41:18.000
+no bo jeszcze nie skończyłem tej gry.
+
+00:41:18.000 --> 00:41:20.000
+Wiem też, że jest dużo narzekania na,
+
+00:41:20.000 --> 00:41:22.000
+i to było w oryginalnych też recenzjach,
+
+00:41:22.000 --> 00:41:24.000
+że ten finał nie jest może taki
+
+00:41:24.000 --> 00:41:26.000
+satysfakcjonujący i tutaj jest też podobnie,
+
+00:41:26.000 --> 00:41:28.000
+no ale na razie jeszcze jestem
+
+00:41:28.000 --> 00:41:30.000
+przed finałem, skończę tą grę
+
+00:41:30.000 --> 00:41:32.000
+to też wymienimy się z Państwem
+
+00:41:32.000 --> 00:41:34.000
+opiniami.
+
+00:41:34.000 --> 00:41:36.000
+No mnie
+
+00:41:36.000 --> 00:41:38.000
+ciekawi finał tej historii
+
+00:41:38.000 --> 00:41:40.000
+w sensie fabularnym, a ten został rozbudowany
+
+00:41:40.000 --> 00:41:42.000
+to po pierwsze. Jeszcze
+
+00:41:42.000 --> 00:41:44.000
+na sekundkę cofnę się do tego systemu
+
+00:41:44.000 --> 00:41:46.000
+tych proceduralnych zdarzeń.
+
+00:41:46.000 --> 00:41:48.000
+Wydaje mi się, że to jest taki system, który
+
+00:41:48.000 --> 00:41:50.000
+warto byłoby zaimplementować w innych grach, nawet
+
+00:41:50.000 --> 00:41:52.000
+jeżeli one nie są horrorami. To takie
+
+00:41:52.000 --> 00:41:54.000
+wydarzenia dodatkowe, które się dzieją w miejscach,
+
+00:41:54.000 --> 00:41:56.000
+które żeśmy już opuścili byłyby czymś bardzo
+
+00:41:56.000 --> 00:41:58.000
+satysfakcjonującym, nawet jeżeli nie chodzi o
+
+00:41:58.000 --> 00:42:00.000
+straszenie, bo to jest
+
+00:42:00.000 --> 00:42:02.000
+bardzo fajny system. Wspomniałeś?
+
+00:42:02.000 --> 00:42:04.000
+Aha właśnie, jest jeszcze tak, że
+
+00:42:04.000 --> 00:42:06.000
+bardzo wyraźnie czuć to poczucie progresu,
+
+00:42:06.000 --> 00:42:08.000
+o którym mówię wcześniej, że jak
+
+00:42:08.000 --> 00:42:10.000
+na początku, że przeciwnicy,
+
+00:42:10.000 --> 00:42:12.000
+jeżeli mamy do czynienia z jednym typem przeciwników,
+
+00:42:12.000 --> 00:42:14.000
+to jeżeli on nie jest wizualnie
+
+00:42:14.000 --> 00:42:16.000
+inny, to jego możliwości bojowe są
+
+00:42:16.000 --> 00:42:18.000
+dokładnie takie same jak na początku. I jak
+
+00:42:18.000 --> 00:42:20.000
+pierwotnie w tych takich
+
+00:42:20.000 --> 00:42:22.000
+głównych przeciwników, to są ludzie przekształceni w te
+
+00:42:22.000 --> 00:42:24.000
+takie potwory ze szpicami wystającymi,
+
+00:42:24.000 --> 00:42:26.000
+jak musiałem w niego 6-7 razy
+
+00:42:26.000 --> 00:42:28.000
+wyładować z piły plazmowej,
+
+00:42:28.000 --> 00:42:30.000
+to teraz wystarczą 2-3 strzały
+
+00:42:30.000 --> 00:42:32.000
+i on pada, nie, więc ja czuję, czuję, że tam się coś
+
+00:42:32.000 --> 00:42:34.000
+zmienia, zmienia na plus. No i dochodzą
+
+00:42:34.000 --> 00:42:36.000
+te, te przeróżne bronie. Na początku
+
+00:42:36.000 --> 00:42:38.000
+myślałem, że są tylko 4, ale potem dostałem
+
+00:42:38.000 --> 00:42:40.000
+jakiś taki plazmowy karabin
+
+00:42:40.000 --> 00:42:42.000
+i to jest superfajna rzecz.
+
+00:42:42.000 --> 00:42:43.000
+I miłotacz ognia jeszcze jest.
+
+00:42:43.000 --> 00:42:45.000
+I miłotacz ognia też jest, też jest fantastyczny.
+
+00:42:45.000 --> 00:42:47.000
+I te małe szkarady, co na,
+
+00:42:47.000 --> 00:42:48.000
+już wiesz, to jest...
+
+00:42:48.000 --> 00:42:49.000
+Co włażą po ścianach.
+
+00:42:49.000 --> 00:42:51.000
+Tak, tak, tak. Nie, te co, w ogóle te dzieciaczki,
+
+00:42:51.000 --> 00:42:54.000
+co tam strzelają do człowieka.
+
+00:42:54.000 --> 00:42:56.000
+Nie, nie, nie, takie dzieciaczki,
+
+00:42:56.000 --> 00:42:58.000
+strzelanie, nie.
+
+00:42:58.000 --> 00:43:00.000
+Tak, wiesz, to już gorzej.
+
+00:43:00.000 --> 00:43:03.000
+Już lepiej by pomówić o obcinaniu kończyn.
+
+00:43:03.000 --> 00:43:05.000
+Tak, to prawda, to prawda.
+
+00:43:05.000 --> 00:43:07.000
+No więc ja podsumowując, bo chyba nie mam
+
+00:43:07.000 --> 00:43:09.000
+nic więcej za bardzo do dodania,
+
+00:43:09.000 --> 00:43:12.000
+no daję na razie okejkę.
+
+00:43:12.000 --> 00:43:14.000
+Podobała mi się ta gra, muszę przyznać.
+
+00:43:14.000 --> 00:43:16.000
+Wizualnie, no dobra, no może mam ten,
+
+00:43:16.000 --> 00:43:18.000
+że trochę ta grafika wygląda
+
+00:43:18.000 --> 00:43:20.000
+jak z, jak szczytowe osiągnięcie
+
+00:43:20.000 --> 00:43:22.000
+poprzedniej generacji,
+
+00:43:22.000 --> 00:43:25.000
+ale nie mam pretensji o to.
+
+00:43:25.000 --> 00:43:27.000
+Fajnie, gdyby wyglądała dużo,
+
+00:43:27.000 --> 00:43:29.000
+ale z drugiej strony jakbym miała mieć takie problemy,
+
+00:43:29.000 --> 00:43:32.000
+albo 30 klatek ledwo otrzymywać.
+
+00:43:32.000 --> 00:43:34.000
+Ja gram na moim komputerze, to mam od
+
+00:43:34.000 --> 00:43:37.000
+70 do 110 klatek,
+
+00:43:37.000 --> 00:43:39.000
+na ultra wszystko mam.
+
+00:43:39.000 --> 00:43:41.000
+I spoko, nie, jakby ja się,
+
+00:43:41.000 --> 00:43:44.000
+ja wolę ten kierunek, zdecydowanie.
+
+00:43:44.000 --> 00:43:45.000
+Tak, tak, ja się zgadzam.
+
+00:43:45.000 --> 00:43:47.000
+No i wiesz, ja na PS5 mam te 60 klatek
+
+00:43:47.000 --> 00:43:49.000
+na maksa, nie widziałem, żeby te klatki spadały
+
+00:43:49.000 --> 00:43:51.000
+i właśnie nie zwróciłem na to uwagi przynajmniej.
+
+00:43:51.000 --> 00:43:53.000
+Więc chodzi to tak, jak powinno.
+
+00:43:53.000 --> 00:43:55.000
+Jeżeli chodzi o grafikę, to ja mam takie wrażenie,
+
+00:43:55.000 --> 00:43:57.000
+bardzo często mi się zresztą zdarza, ok, że mówię
+
+00:43:57.000 --> 00:43:59.000
+graficznie już więcej nic nie potrzebuję.
+
+00:43:59.000 --> 00:44:01.000
+Jedyne, co mi jest potrzebne to wydajność i zwiększenie liczby klatek,
+
+00:44:01.000 --> 00:44:03.000
+więc graficznie to zaspokaja moją potrzebę.
+
+00:44:03.000 --> 00:44:06.000
+Ludzie zwracają uwagę też, widziałem to w komentarzach,
+
+00:44:06.000 --> 00:44:08.000
+gdzieś tam w różnych miejscach, że
+
+00:44:08.000 --> 00:44:10.000
+grafika, jeden z takich bardziej
+
+00:44:10.000 --> 00:44:12.000
+obrazowych opisów, to
+
+00:44:12.000 --> 00:44:14.000
+tekstury wyglądają tak, jakby ktoś się przejechał
+
+00:44:14.000 --> 00:44:16.000
+w Azeliną. I tam jest, tam kilka rzeczy,
+
+00:44:16.000 --> 00:44:18.000
+jest tam, jest ponoć taki system,
+
+00:44:18.000 --> 00:44:20.000
+on się chyba nazywa WRS albo WSR,
+
+00:44:20.000 --> 00:44:22.000
+coś w ten deseń, który działa
+
+00:44:22.000 --> 00:44:24.000
+zbyt intensywnie i on trochę tak rozsmarowuje
+
+00:44:24.000 --> 00:44:26.000
+niektóre tekstury.
+
+00:44:26.000 --> 00:44:28.000
+I to jest coś, co ma zostać poprawione
+
+00:44:28.000 --> 00:44:30.000
+w najbliższym updacie, ale przyznam,
+
+00:44:30.000 --> 00:44:32.000
+że nie przeszkadza mi to aż tak bardzo.
+
+00:44:32.000 --> 00:44:34.000
+To znaczy, mam takie poczucie, bo też gram
+
+00:44:34.000 --> 00:44:36.000
+z włączonym,
+
+00:44:36.000 --> 00:44:38.000
+z włączonym ziarnem
+
+00:44:38.000 --> 00:44:40.000
+i jeszcze dodatkowo
+
+00:44:40.000 --> 00:44:42.000
+pozostawiłem sobie delikatny bler.
+
+00:44:42.000 --> 00:44:44.000
+Nie mam go ustawionego na 100%, tylko trochę
+
+00:44:44.000 --> 00:44:46.000
+i to daje takie poczucie filmowego,
+
+00:44:46.000 --> 00:44:48.000
+obrazu,
+
+00:44:48.000 --> 00:44:50.000
+jak do tej pory się nie spotkałem.
+
+00:44:50.000 --> 00:44:52.000
+Jak mówimy, no Kalisto Protocolu jest lepszy
+
+00:44:52.000 --> 00:44:54.000
+graficznie, ale moje odczucia z tego,
+
+00:44:54.000 --> 00:44:56.000
+co widzę na ekranie teraz, są dużo
+
+00:44:56.000 --> 00:44:58.000
+bardziej pozytywne niż praktycznie kiedykolwiek
+
+00:44:58.000 --> 00:45:00.000
+wcześniej. Więc to wszystko tam,
+
+00:45:00.000 --> 00:45:02.000
+mimo tego, że ta generacja
+
+00:45:02.000 --> 00:45:04.000
+może nie jest aktualna, tak jak mówisz,
+
+00:45:04.000 --> 00:45:06.000
+można, masz pełne prawo do tej opinii,
+
+00:45:06.000 --> 00:45:08.000
+to mam takie poczucie, że to,
+
+00:45:08.000 --> 00:45:10.000
+co tam umieścili, bardzo dobrze współgra ze sobą.
+
+00:45:10.000 --> 00:45:12.000
+Że to się bardzo, bardzo, bardzo
+
+00:45:12.000 --> 00:45:14.000
+uzupełnia, że tam nie ma braków w tej kwestii,
+
+00:45:14.000 --> 00:45:16.000
+co jest zawsze bardzo, bardzo bolesne.
+
+00:45:16.000 --> 00:45:18.000
+I z tym jestem zachwycony,
+
+00:45:18.000 --> 00:45:20.000
+więc te moje opinie, to czasami sam mam do nich
+
+00:45:20.000 --> 00:45:22.000
+wątpliwości. Ale chyba każdy,
+
+00:45:22.000 --> 00:45:24.000
+kto grał, to
+
+00:45:24.000 --> 00:45:26.000
+się zgodzi z tym. Zresztą
+
+00:45:26.000 --> 00:45:28.000
+recenzje dziennikarzy
+
+00:45:28.000 --> 00:45:30.000
+i opinie graczy, to
+
+00:45:30.000 --> 00:45:32.000
+one nie wzięły się znikąd. To nie jest taki
+
+00:45:32.000 --> 00:45:34.000
+zachwyt, który jest nieuzasadniony.
+
+00:45:34.000 --> 00:45:36.000
+Tak. No i jest pełna
+
+00:45:36.000 --> 00:45:38.000
+polska wersja razem
+
+00:45:38.000 --> 00:45:40.000
+z dublarzem. Można to też sobie
+
+00:45:40.000 --> 00:45:42.000
+zmieniać i wachlować.
+
+00:45:42.000 --> 00:45:44.000
+Można grać z polskimi napisami
+
+00:45:44.000 --> 00:45:46.000
+i z angielskim dublarzem.
+
+00:45:46.000 --> 00:45:48.000
+Więc ja to propsuję bardzo. Proszę.
+
+00:45:48.000 --> 00:45:50.000
+Chciałem powiedzieć a propos
+
+00:45:50.000 --> 00:45:52.000
+dublarzu i bardzo,
+
+00:45:52.000 --> 00:45:54.000
+bardzo mi się podoba ta zmiana, która
+
+00:45:54.000 --> 00:45:56.000
+dosyć odważna była, że
+
+00:45:56.000 --> 00:45:58.000
+Isaac dostał swój głos i swoją osobowość.
+
+00:45:58.000 --> 00:46:00.000
+To jest coś, co znacząco
+
+00:46:00.000 --> 00:46:02.000
+wpływa na odbiór gry
+
+00:46:02.000 --> 00:46:04.000
+i to jest... Bardzo często był
+
+00:46:04.000 --> 00:46:06.000
+wykorzystywany ten argument, że my nie dajemy głównemu
+
+00:46:06.000 --> 00:46:08.000
+bohaterowi głosu, ponieważ chcemy, żeby
+
+00:46:08.000 --> 00:46:10.000
+nasz gracz czuł się tą postacią
+
+00:46:10.000 --> 00:46:12.000
+i żeby go nie wywalało z tej
+
+00:46:12.000 --> 00:46:14.000
+imersji zachowanie naszego bohatera.
+
+00:46:14.000 --> 00:46:16.000
+I to jest... Ten argument moim
+
+00:46:16.000 --> 00:46:18.000
+zdaniem jest kompletną bzdurą, bo jednak dużo
+
+00:46:18.000 --> 00:46:20.000
+lepiej czujemy się przy postaci, która ma coś
+
+00:46:20.000 --> 00:46:22.000
+do powiedzenia, która ma osobowość.
+
+00:46:22.000 --> 00:46:24.000
+Jakby takim świetnym przykładem jest Geralt,
+
+00:46:24.000 --> 00:46:26.000
+w którego fantastycznie się grało, można się
+
+00:46:26.000 --> 00:46:28.000
+było w niego wcielić, ale on miał coś do dodania,
+
+00:46:28.000 --> 00:46:30.000
+miał coś do powiedzenia i to moim
+
+00:46:30.000 --> 00:46:32.000
+zdaniem jest dużo lepsze rozwiązanie.
+
+00:46:32.000 --> 00:46:34.000
+I też dzięki temu, że jakby
+
+00:46:34.000 --> 00:46:36.000
+Isaac mówi, to
+
+00:46:36.000 --> 00:46:38.000
+on jest w stanie być
+
+00:46:38.000 --> 00:46:40.000
+bardziej znaczącą postacią, bo w pierwszej części
+
+00:46:40.000 --> 00:46:42.000
+gry, i też były takie komentarze, też
+
+00:46:42.000 --> 00:46:44.000
+czytałem to, było
+
+00:46:44.000 --> 00:46:46.000
+takie poczucie, że my jesteśmy
+
+00:46:46.000 --> 00:46:48.000
+takim dronem, który jest odsyłany
+
+00:46:48.000 --> 00:46:50.000
+to idź tam zrób, idź tam zrób,
+
+00:46:50.000 --> 00:46:52.000
+a właściwie jakby
+
+00:46:52.000 --> 00:46:54.000
+deweloperzy zapomnieli o tym, że on jest
+
+00:46:54.000 --> 00:46:56.000
+postacią z krwi i kości i to on ma te
+
+00:46:56.000 --> 00:46:58.000
+umiejętności, które pozwalają przetrwać tej całej
+
+00:46:58.000 --> 00:47:00.000
+załodze, że to on jest tą ważną
+
+00:47:00.000 --> 00:47:02.000
+postacią, natomiast w związku z tym,
+
+00:47:02.000 --> 00:47:04.000
+że nie ma nic do powiedzenia, to jest przesyłany
+
+00:47:04.000 --> 00:47:06.000
+w prawo, w lewo, jakby był bezmyślnym w ogóle,
+
+00:47:06.000 --> 00:47:08.000
+tak jak powiedziałem, dronem, robotem
+
+00:47:08.000 --> 00:47:10.000
+do wykonywania zadań, a my się wcialamy właśnie w tą maszynę.
+
+00:47:10.000 --> 00:47:12.000
+Nadanie mu tych ludzkich cech
+
+00:47:12.000 --> 00:47:14.000
+dzięki temu dubbingowi jest czymś bardzo znaczącym.
+
+00:47:14.000 --> 00:47:16.000
+Zresztą i jego
+
+00:47:16.000 --> 00:47:18.000
+twarz, i jego głos, to jest ten sam
+
+00:47:18.000 --> 00:47:20.000
+aktor, który wcielił się
+
+00:47:20.000 --> 00:47:22.000
+w niego w Dead Space 2
+
+00:47:22.000 --> 00:47:24.000
+i 3, więc
+
+00:47:24.000 --> 00:47:26.000
+jakiś związek z tym. Ja pamiętam ci szczerze,
+
+00:47:26.000 --> 00:47:28.000
+że trochę się, nie do końca się zgodzę.
+
+00:47:28.000 --> 00:47:30.000
+No proszę się bardzo. Mówi się na przykład tak, że
+
+00:47:30.000 --> 00:47:32.000
+że mieliśmy, że mogliśmy
+
+00:47:32.000 --> 00:47:34.000
+zetworzyć tą postać
+
+00:47:34.000 --> 00:47:36.000
+w cyberpunku, jak już wspomniałeś Wiedźmina,
+
+00:47:36.000 --> 00:47:38.000
+to ja wspomnę cyberpunka. Czy to,
+
+00:47:38.000 --> 00:47:40.000
+czy to w jakiś sposób
+
+00:47:40.000 --> 00:47:42.000
+wiesz, można to zrobić
+
+00:47:42.000 --> 00:47:44.000
+dobrze? Nie, nie, pewnie, pewnie.
+
+00:47:44.000 --> 00:47:46.000
+Wszystko można zrobić dobrze, ale wydaje mi się, że V
+
+00:47:46.000 --> 00:47:48.000
+to akurat się odzywał.
+
+00:47:48.000 --> 00:47:50.000
+Mhm. No miał swój głos
+
+00:47:50.000 --> 00:47:52.000
+i... No na przykład Half-Life.
+
+00:47:52.000 --> 00:47:54.000
+Nie, nie, to stare
+
+00:47:54.000 --> 00:47:56.000
+czasy, to jeszcze nie wiedzieli, jak zrobić dobrze.
+
+00:47:56.000 --> 00:47:58.000
+Jak ma to sens w grze?
+
+00:47:58.000 --> 00:48:00.000
+Mhm. Bo jakby ciężko
+
+00:48:00.000 --> 00:48:02.000
+mi ocenić, czy sama decyzja o tym,
+
+00:48:02.000 --> 00:48:04.000
+czy robimy tak, czy tak
+
+00:48:04.000 --> 00:48:06.000
+jest dobra? Bo to
+
+00:48:06.000 --> 00:48:08.000
+musi się sprawdzić w grze i mieć sens w grze,
+
+00:48:08.000 --> 00:48:10.000
+nie? Mhm. Ja jestem
+
+00:48:10.000 --> 00:48:12.000
+bardziej radykalny w tej kwestii. To znaczy... Bądź radykalny.
+
+00:48:12.000 --> 00:48:14.000
+To, że mój, to, że ja
+
+00:48:14.000 --> 00:48:16.000
+jestem radykalny, to nie zmienia niczyjej rzeczywistości,
+
+00:48:16.000 --> 00:48:18.000
+także proszę bez nerwów, ale
+
+00:48:18.000 --> 00:48:20.000
+dla mnie gra, w której bohater nie ma
+
+00:48:20.000 --> 00:48:22.000
+nic do powiedzenia, jest gorsza z automatu.
+
+00:48:22.000 --> 00:48:24.000
+I tak, tak to, tak to widzę.
+
+00:48:24.000 --> 00:48:26.000
+Oczywiście, no niektóre gry siłą rzeczy są
+
+00:48:26.000 --> 00:48:28.000
+robione przy takim budżecie, że bohater nie może mieć
+
+00:48:28.000 --> 00:48:30.000
+nic do powiedzenia, ale cały czas uznaję,
+
+00:48:30.000 --> 00:48:32.000
+że gdyby miał coś do powiedzenia, to byłaby to lepsza gra
+
+00:48:32.000 --> 00:48:34.000
+i tyle. I, i...
+
+00:48:34.000 --> 00:48:36.000
+jakby tą
+
+00:48:36.000 --> 00:48:38.000
+moim zdaniem, ja chyba, dobra, już wiem
+
+00:48:38.000 --> 00:48:40.000
+dokąd zmierzam. Za każdym razem, kiedy o tym
+
+00:48:40.000 --> 00:48:42.000
+mówię, to mi przychodzi na myśl
+
+00:48:42.000 --> 00:48:44.000
+metro, gdzie bohater jest
+
+00:48:44.000 --> 00:48:46.000
+stworzony na bazie książki i jest postacią z krwi
+
+00:48:46.000 --> 00:48:48.000
+i kości, a w grze staje się
+
+00:48:48.000 --> 00:48:50.000
+zupełnie bez, bez, bez...
+
+00:48:50.000 --> 00:48:52.000
+pozbawionym osobowości
+
+00:48:52.000 --> 00:48:54.000
+dronem. Po raz kolejny już nadużywam
+
+00:48:54.000 --> 00:48:56.000
+tego, tego zwrotu. Więc za każdym
+
+00:48:56.000 --> 00:48:58.000
+razem mi to metro przychodzi do głowy, gdzie uważam, że to
+
+00:48:58.000 --> 00:49:00.000
+bardzo źle wpłynęło na całą opowieść.
+
+00:49:00.000 --> 00:49:02.000
+No, więc też się przy tym nie zgadzaliśmy.
+
+00:49:02.000 --> 00:49:04.000
+Jestem radykalem tutaj.
+
+00:49:04.000 --> 00:49:06.000
+Ale jak już mówimy o bohaterach, którzy
+
+00:49:06.000 --> 00:49:08.000
+dużo mówią, to może przejdźmy do naszej drugiej
+
+00:49:08.000 --> 00:49:10.000
+gry, czyli Hi-Fi Rush
+
+00:49:10.000 --> 00:49:12.000
+od studia Tango Game
+
+00:49:12.000 --> 00:49:14.000
+Works. Gra
+
+00:49:14.000 --> 00:49:16.000
+miała zapowiedź i premierę w tym samym
+
+00:49:16.000 --> 00:49:18.000
+czasie na evencie
+
+00:49:18.000 --> 00:49:20.000
+Microsoftu, którym mieliśmy
+
+00:49:20.000 --> 00:49:22.000
+poprzedni odcinek. Jest robiona
+
+00:49:22.000 --> 00:49:24.000
+na Unreal Engine 4.
+
+00:49:24.000 --> 00:49:26.000
+Również to jest gra, którą pokochali
+
+00:49:26.000 --> 00:49:28.000
+gracze i pokochali chyba jeszcze
+
+00:49:28.000 --> 00:49:30.000
+bardziej gracze niż
+
+00:49:30.000 --> 00:49:32.000
+recenzenci, bo na Metacritic ma
+
+00:49:32.000 --> 00:49:34.000
+88 od
+
+00:49:34.000 --> 00:49:36.000
+recenzentów i 9,3
+
+00:49:36.000 --> 00:49:38.000
+od graczy, więc jest
+
+00:49:38.000 --> 00:49:40.000
+szał
+
+00:49:40.000 --> 00:49:42.000
+straszliwy i również jak
+
+00:49:42.000 --> 00:49:44.000
+Dead Space ma pełną polską
+
+00:49:44.000 --> 00:49:46.000
+wersję językową i też można to
+
+00:49:46.000 --> 00:49:48.000
+zmieniać i oklaski dla twórców.
+
+00:49:48.000 --> 00:49:50.000
+Mam nadzieję, drogi
+
+00:49:50.000 --> 00:49:52.000
+w Microsoftzie, bo
+
+00:49:52.000 --> 00:49:54.000
+z Electronic Arts to raczej...
+
+00:49:54.000 --> 00:49:56.000
+są po polsku,
+
+00:49:56.000 --> 00:49:58.000
+że to takie nowe rozdanie, że teraz już
+
+00:49:58.000 --> 00:50:00.000
+wszystko będzie tam po polsku i nie
+
+00:50:00.000 --> 00:50:02.000
+będziemy się...
+
+00:50:02.000 --> 00:50:04.000
+Musieli gniewać.
+
+00:50:04.000 --> 00:50:06.000
+Tak.
+
+00:50:08.000 --> 00:50:10.000
+Wiadomo, to Bethesda, no ale to już jakby
+
+00:50:10.000 --> 00:50:12.000
+znaczy no, więc
+
+00:50:12.000 --> 00:50:14.000
+jest to gra
+
+00:50:14.000 --> 00:50:16.000
+platformowo, akcyjno,
+
+00:50:16.000 --> 00:50:18.000
+rytmiczna, TPP
+
+00:50:20.000 --> 00:50:22.000
+i opowiada historię...
+
+00:50:22.000 --> 00:50:24.000
+Boże, zawsze zapominam jak ten chłopak ma
+
+00:50:24.000 --> 00:50:26.000
+na imię Chai.
+
+00:50:26.000 --> 00:50:28.000
+Chai, który... Czyli herbatka
+
+00:50:28.000 --> 00:50:30.000
+z rosyjska.
+
+00:50:30.000 --> 00:50:32.000
+Który ma być przyszłą gwiazdą roka
+
+00:50:32.000 --> 00:50:34.000
+i wskutek niefortunnego
+
+00:50:34.000 --> 00:50:36.000
+wypadku
+
+00:50:36.000 --> 00:50:38.000
+w wielkiej korporacji
+
+00:50:38.000 --> 00:50:40.000
+dostaje sztuczną rękę,
+
+00:50:40.000 --> 00:50:42.000
+mechaniczną gitarę
+
+00:50:42.000 --> 00:50:44.000
+i iPada, iPoda,
+
+00:50:44.000 --> 00:50:46.000
+iPoda wszczepionego
+
+00:50:46.000 --> 00:50:48.000
+w serce.
+
+00:50:48.000 --> 00:50:50.000
+W same serce. Zastanawiam się, czy to był
+
+00:50:50.000 --> 00:50:52.000
+wypadek, bo znaczy jakby to, że on iPada
+
+00:50:52.000 --> 00:50:54.000
+dostał w serce
+
+00:50:54.000 --> 00:50:56.000
+to jest chyba wypadek, natomiast tą rękę
+
+00:50:56.000 --> 00:50:58.000
+to mu przewidywali zgodnie z projektem
+
+00:50:58.000 --> 00:51:00.000
+jakimś tam. Tak, tak.
+
+00:51:00.000 --> 00:51:02.000
+To jest tak, że ja... Po pierwsze
+
+00:51:02.000 --> 00:51:04.000
+odnośnie tych ocen. One są
+
+00:51:04.000 --> 00:51:06.000
+na pewno zasłużone, natomiast
+
+00:51:06.000 --> 00:51:08.000
+tutaj dochodzi jeszcze jeden
+
+00:51:08.000 --> 00:51:10.000
+taki mechanizm. To, że ludzie
+
+00:51:10.000 --> 00:51:12.000
+dostali tę grę bez zbędnych zapowiedzi
+
+00:51:12.000 --> 00:51:14.000
+i dostali ją w dniu zapowiedzi,
+
+00:51:14.000 --> 00:51:16.000
+to jest coś, co bardzo pozytywnie wpływa
+
+00:51:16.000 --> 00:51:18.000
+na ludzi. Że nie ma bezbędnego
+
+00:51:18.000 --> 00:51:20.000
+pitolenia. Nie robi się kampanii
+
+00:51:20.000 --> 00:51:22.000
+marketingowej przez pół roku i się opowiada,
+
+00:51:22.000 --> 00:51:24.000
+jaka ta gra będzie cudowna, a potem może będzie,
+
+00:51:24.000 --> 00:51:26.000
+może nie będzie. Tylko po prostu macie, grajcie
+
+00:51:26.000 --> 00:51:28.000
+i bawcie się dobrze. I to jest w ogóle świetne. I nie przesuwa się pięć razy.
+
+00:51:28.000 --> 00:51:30.000
+Tak jest, nie przesuwa się premier i...
+
+00:51:30.000 --> 00:51:32.000
+I nie naprawia się po premierze
+
+00:51:32.000 --> 00:51:34.000
+wiele gier mieliśmy ostatnio. I działa.
+
+00:51:34.000 --> 00:51:36.000
+I działa, i działa bardzo dobrze.
+
+00:51:36.000 --> 00:51:38.000
+No, więc to na pewno wpłynęło
+
+00:51:38.000 --> 00:51:40.000
+pozytywnie na... Niełatwo
+
+00:51:40.000 --> 00:51:42.000
+jest takie rzeczy robić, chociaż na studio, które to
+
+00:51:42.000 --> 00:51:44.000
+robiło, dla nich to pewnie nie jest jakiś wielki
+
+00:51:44.000 --> 00:51:46.000
+wysiłek ta gra, bo ona jest
+
+00:51:46.000 --> 00:51:48.000
+bardzo ładna.
+
+00:51:48.000 --> 00:51:50.000
+Jest estetyczna, jest świetnie zrobiona muzycznie,
+
+00:51:50.000 --> 00:51:52.000
+świetnie zrobiona jest gameplayowo. Ale na pewno nie wymaga
+
+00:51:52.000 --> 00:51:54.000
+tak dużo wysiłku, jak
+
+00:51:54.000 --> 00:51:56.000
+co oni robili. Robili Evil Within
+
+00:51:56.000 --> 00:51:58.000
+i
+
+00:51:58.000 --> 00:52:00.000
+Ghostwire Tokyo. Ja się trochę
+
+00:52:00.000 --> 00:52:02.000
+z tobą nie zgodzę. Ja oczywiście
+
+00:52:02.000 --> 00:52:04.000
+nie mam dużo, bo mam 4 godziny
+
+00:52:04.000 --> 00:52:06.000
+w tej grze, ale ta gra jest bardzo złożona.
+
+00:52:06.000 --> 00:52:08.000
+Bardzo duży detal tam jest. Dużo
+
+00:52:08.000 --> 00:52:10.000
+pracy zrobionej. Przede wszystkim
+
+00:52:10.000 --> 00:52:12.000
+to, jak różnorodny
+
+00:52:12.000 --> 00:52:14.000
+jest gameplay, bo mamy oczywiście
+
+00:52:14.000 --> 00:52:16.000
+walkę, mamy elementy platformowe,
+
+00:52:16.000 --> 00:52:18.000
+mamy takie elementy
+
+00:52:18.000 --> 00:52:20.000
+klasyczne, jak był...
+
+00:52:20.000 --> 00:52:22.000
+No oczywiście mi się to kojarzy z Duke
+
+00:52:22.000 --> 00:52:24.000
+Nukem 3D Manhattan Project,
+
+00:52:24.000 --> 00:52:26.000
+no ale to są dużo
+
+00:52:26.000 --> 00:52:28.000
+takich gier, gdzie się chodziło w prawo i...
+
+00:52:28.000 --> 00:52:30.000
+No Mario, no to takie
+
+00:52:30.000 --> 00:52:32.000
+podstawowe.
+
+00:52:32.000 --> 00:52:34.000
+Mamy takie zręcznościowe elementy,
+
+00:52:34.000 --> 00:52:36.000
+jak rajd na linię, gdzie
+
+00:52:36.000 --> 00:52:38.000
+robimy uniki. Mamy
+
+00:52:38.000 --> 00:52:40.000
+walki z minibossami,
+
+00:52:40.000 --> 00:52:42.000
+które są takie trochę pod
+
+00:52:42.000 --> 00:52:44.000
+Mario te
+
+00:52:44.000 --> 00:52:46.000
+współczesne robione,
+
+00:52:46.000 --> 00:52:48.000
+gdzie zmieniają nam się
+
+00:52:48.000 --> 00:52:50.000
+tryby
+
+00:52:50.000 --> 00:52:52.000
+walki, albo na przykład pojawiają
+
+00:52:52.000 --> 00:52:54.000
+się quick time eventy.
+
+00:52:54.000 --> 00:52:56.000
+I to jest bardzo, bardzo
+
+00:52:56.000 --> 00:52:58.000
+złożona gra. I dość
+
+00:52:58.000 --> 00:53:00.000
+długa. Bo tam,
+
+00:53:00.000 --> 00:53:02.000
+że trzeba z 16 godzin na nią
+
+00:53:02.000 --> 00:53:04.000
+spędzić, nad nią
+
+00:53:04.000 --> 00:53:06.000
+spędzić, żeby to wszystko
+
+00:53:06.000 --> 00:53:08.000
+powstało. Po drugie, zobacz, jak tam
+
+00:53:08.000 --> 00:53:10.000
+kunsztownie jest zrobione
+
+00:53:10.000 --> 00:53:12.000
+połączenie gry i
+
+00:53:12.000 --> 00:53:14.000
+animacji, jak
+
+00:53:14.000 --> 00:53:16.000
+ta gra bardzo
+
+00:53:16.000 --> 00:53:18.000
+mocno jest związana
+
+00:53:18.000 --> 00:53:20.000
+z animacjami.
+
+00:53:20.000 --> 00:53:22.000
+Pewnie masz rację. Ja być może
+
+00:53:22.000 --> 00:53:24.000
+nie wyraziłem się wystarczająco precyzyjnie.
+
+00:53:24.000 --> 00:53:26.000
+I być może nadal będę się wyrażał nieprecyzyjnie,
+
+00:53:26.000 --> 00:53:28.000
+ale spróbuję z całych sił.
+
+00:53:28.000 --> 00:53:30.000
+Rzecz w tym, że grafika
+
+00:53:30.000 --> 00:53:32.000
+jest tam oparta na
+
+00:53:32.000 --> 00:53:34.000
+cel shadingu. Tekstury nie są przesadnie
+
+00:53:34.000 --> 00:53:36.000
+skomplikowane. Więc założyłem,
+
+00:53:36.000 --> 00:53:38.000
+mówiąc o pewnym uproszczeniu, że
+
+00:53:38.000 --> 00:53:40.000
+mamy do czynienia z grafiką, która na
+
+00:53:40.000 --> 00:53:42.000
+dzień dobry jest dosyć łatwa do
+
+00:53:42.000 --> 00:53:44.000
+zoptymalizowania. Tzn. tą grę można zoptymalizować.
+
+00:53:44.000 --> 00:53:46.000
+Zoptymalizacja, tak.
+
+00:53:46.000 --> 00:53:48.000
+I w związku z tym można zająć się robieniem
+
+00:53:48.000 --> 00:53:50.000
+różnych fajnych mechanik, czy pokazywaniu
+
+00:53:50.000 --> 00:53:52.000
+gameplaya z różnych perspektyw w różnej formie.
+
+00:53:52.000 --> 00:53:54.000
+I to zostało zrobione bardzo dobrze.
+
+00:53:54.000 --> 00:53:56.000
+Tzn. jestem przekonany, że ten
+
+00:53:56.000 --> 00:53:58.000
+ogrom pracy, który w normalnych warunkach wymagałby
+
+00:53:58.000 --> 00:54:00.000
+optymalizacji,
+
+00:54:00.000 --> 00:54:02.000
+tutaj był jakby załatwiony na
+
+00:54:02.000 --> 00:54:04.000
+dzień dobry. I to jest też, jakby dla mnie
+
+00:54:04.000 --> 00:54:06.000
+to jest, ja bardzo lubię taką
+
+00:54:06.000 --> 00:54:08.000
+grafikę. Tzn. bardzo lubię gry, które są skupione
+
+00:54:08.000 --> 00:54:10.000
+na tym, żeby świetnie działać
+
+00:54:10.000 --> 00:54:12.000
+od razu i potem dorzucanie do tego
+
+00:54:12.000 --> 00:54:14.000
+mechaniki rozwijać. Bo ja jestem
+
+00:54:14.000 --> 00:54:16.000
+trochę nie jestem zwolennikiem tej
+
+00:54:16.000 --> 00:54:18.000
+ultrarealistycznej grafiki, bo szansa,
+
+00:54:18.000 --> 00:54:20.000
+że to będzie źle chodzić jest bardzo duża
+
+00:54:20.000 --> 00:54:22.000
+i przeważnie źle chodzi.
+
+00:54:22.000 --> 00:54:24.000
+Więc wolę takie stylizowane rzeczy,
+
+00:54:24.000 --> 00:54:26.000
+które gwarantują dobrą optymalizację
+
+00:54:26.000 --> 00:54:28.000
+i potem gameplayowe zabawy.
+
+00:54:28.000 --> 00:54:30.000
+To jest chyba zresztą coś, co
+
+00:54:30.000 --> 00:54:32.000
+w ogóle ta ultrarealistyczna grafika
+
+00:54:32.000 --> 00:54:34.000
+ma swoje zalety, niewątpliwie.
+
+00:54:34.000 --> 00:54:36.000
+Bo to jest wymysł czasów obecnych, kiedy te karty
+
+00:54:36.000 --> 00:54:38.000
+graficzne pozwalają już na takie cudeńka
+
+00:54:38.000 --> 00:54:40.000
+i trochę w poszukiwaniu tych
+
+00:54:40.000 --> 00:54:42.000
+fantastycznych rozwiązań graficznych zapomina się o tym
+
+00:54:42.000 --> 00:54:44.000
+o mechanice, o zróżnicowanym
+
+00:54:44.000 --> 00:54:46.000
+gameplayu, o ciekawej opowieści.
+
+00:54:46.000 --> 00:54:48.000
+Wszystko jest skupione tylko i wyłącznie na grafice.
+
+00:54:48.000 --> 00:54:50.000
+Wszystko, jakbyś mówił o Kalisto Protocol.
+
+00:54:50.000 --> 00:54:52.000
+Być może. Mówię też
+
+00:54:52.000 --> 00:54:54.000
+o całej masie różnych innych rzeczy.
+
+00:54:54.000 --> 00:54:56.000
+Wolę, wolę stylizowaną grafikę.
+
+00:54:56.000 --> 00:54:58.000
+Więc pod tym względem gra jest
+
+00:54:58.000 --> 00:55:00.000
+zacna. Ale muszę,
+
+00:55:00.000 --> 00:55:02.000
+muszę tutaj dorzucić coś, tą
+
+00:55:02.000 --> 00:55:04.000
+drobną... Właściwie to jest moja
+
+00:55:04.000 --> 00:55:06.000
+osobista kropla dziękciu do tej beczki
+
+00:55:06.000 --> 00:55:08.000
+miodu. Ja się kompletnie w tej
+
+00:55:08.000 --> 00:55:10.000
+grze nie sprawdzam. To znaczy ja mam jakiś...
+
+00:55:10.000 --> 00:55:12.000
+Szok, nigdy bym się nie spodziewał. Ale halo,
+
+00:55:12.000 --> 00:55:14.000
+halo. Ja w zręcznościowych rzeczach nie radzę
+
+00:55:14.000 --> 00:55:16.000
+sobie tak źle. Ty fanów anime nazywasz
+
+00:55:16.000 --> 00:55:18.000
+zboczeńcami. O nie, przestań,
+
+00:55:18.000 --> 00:55:20.000
+nie mów tak. Ktoś jeszcze uwierzy.
+
+00:55:20.000 --> 00:55:22.000
+Potem będą powtarzali. Nigdy tak
+
+00:55:22.000 --> 00:55:24.000
+nie powiedziałem. Uważam, że
+
+00:55:24.000 --> 00:55:26.000
+są dziwni, ale...
+
+00:55:26.000 --> 00:55:28.000
+Nie no, żartuję.
+
+00:55:28.000 --> 00:55:30.000
+Każdy lubi to, co lubi.
+
+00:55:30.000 --> 00:55:32.000
+Rzecz w tym, że ja mi chyba
+
+00:55:32.000 --> 00:55:34.000
+słoń nadepnął na ucho. I ja mam duży problem
+
+00:55:34.000 --> 00:55:36.000
+z uzyskaniem rytmiki i
+
+00:55:36.000 --> 00:55:38.000
+zręczności jednocześnie.
+
+00:55:38.000 --> 00:55:40.000
+Ja się w tym gubię. To jakoś
+
+00:55:40.000 --> 00:55:42.000
+dla mnie nie działa. Myślałem, że Hellsinger jest
+
+00:55:42.000 --> 00:55:44.000
+tylko dla mnie takim problemem, bo tam trzeba przycelować
+
+00:55:44.000 --> 00:55:46.000
+jeszcze, więc problemy
+
+00:55:46.000 --> 00:55:48.000
+z aimem i jeszcze z uchem
+
+00:55:48.000 --> 00:55:50.000
+to jest inna sprawa. Ale tutaj
+
+00:55:50.000 --> 00:55:52.000
+też. Nie mogę się odnaleźć w tej rytmice
+
+00:55:52.000 --> 00:55:54.000
+i cały czas się gubię i cały czas mam taki
+
+00:55:54.000 --> 00:55:56.000
+odczuwam, odczuwam. Znaczy jeszcze jest
+
+00:55:56.000 --> 00:55:58.000
+jedna rzecz. Jeżeli masz...
+
+00:55:58.000 --> 00:56:00.000
+Ja na przykład na streamie
+
+00:56:00.000 --> 00:56:02.000
+jak grałem, to mam minimalne przesunięcie
+
+00:56:02.000 --> 00:56:04.000
+dźwięk do obrazu.
+
+00:56:04.000 --> 00:56:06.000
+Bardzo utrudnie.
+
+00:56:06.000 --> 00:56:08.000
+Potem jak grałem poza
+
+00:56:08.000 --> 00:56:10.000
+streamem, nie powiem, że bardzo,
+
+00:56:10.000 --> 00:56:12.000
+ale delikatnie lepiej mi szło.
+
+00:56:12.000 --> 00:56:14.000
+Przy czym, no niestety
+
+00:56:14.000 --> 00:56:16.000
+muszę tutaj wbić szpilkę
+
+00:56:16.000 --> 00:56:18.000
+w tą grę. Na poziomie normalnym,
+
+00:56:18.000 --> 00:56:20.000
+na którym ja gram, gra
+
+00:56:20.000 --> 00:56:22.000
+jest bardzo łatwa i to wyczucie rytmu
+
+00:56:22.000 --> 00:56:24.000
+jest... Mało zmienia
+
+00:56:24.000 --> 00:56:26.000
+czy ty walisz w rytm, czy walisz
+
+00:56:26.000 --> 00:56:28.000
+nie w rytm.
+
+00:56:28.000 --> 00:56:30.000
+No toś mi jeszcze dokopał
+
+00:56:30.000 --> 00:56:32.000
+dodatkowo.
+
+00:56:32.000 --> 00:56:34.000
+Nie, nie, mam
+
+00:56:34.000 --> 00:56:36.000
+takie poczucie, że nie potrafię się w tym odnaleźć.
+
+00:56:36.000 --> 00:56:38.000
+I też powiem, że początek gry bywa
+
+00:56:38.000 --> 00:56:40.000
+nużący, zwłaszcza jak zaczynają się rozmowy
+
+00:56:40.000 --> 00:56:42.000
+z lodówkami. Że ci goście, którzy
+
+00:56:42.000 --> 00:56:44.000
+chcą być twoimi przyjaciółmi, mają tyle do
+
+00:56:44.000 --> 00:56:46.000
+powiedzenia, że to jest
+
+00:56:46.000 --> 00:56:48.000
+męczące, ale za to dubbing jest ładnie zrobiony.
+
+00:56:48.000 --> 00:56:50.000
+Jak już spotykamy kocie,
+
+00:56:50.000 --> 00:56:52.000
+jak koteczka spotykamy, to na pewno się dobrze
+
+00:56:52.000 --> 00:56:54.000
+bawiłeś, lepiej, nie?
+
+00:56:54.000 --> 00:56:56.000
+Więc jest to rzecz...
+
+00:56:56.000 --> 00:56:58.000
+Można pogłaskać kotka. Warto uwagi. Ja spróbuję,
+
+00:56:58.000 --> 00:57:00.000
+to jest też tak, że ja w związku
+
+00:57:00.000 --> 00:57:02.000
+z tym, że mam to tylko na PeCeta i Xboksa, nie mam podpiętego
+
+00:57:02.000 --> 00:57:04.000
+do tego swojego zestawu, nad którym tyle pracowałem.
+
+00:57:04.000 --> 00:57:06.000
+To jest jakiś skandal, że tutaj nie masz
+
+00:57:06.000 --> 00:57:08.000
+Xboksa podpiętego. Nie, no po co mi,
+
+00:57:08.000 --> 00:57:10.000
+jak mam Game Passa na PeCecie. Z reguły
+
+00:57:10.000 --> 00:57:12.000
+to rozwiązywało sprawę.
+
+00:57:12.000 --> 00:57:14.000
+No, więc muszę sobie jakoś
+
+00:57:14.000 --> 00:57:16.000
+to przekonfigurować, żeby móc z PeCeta nagrywać
+
+00:57:16.000 --> 00:57:18.000
+dobrej jakości gameplay, czego na razie nie mogę
+
+00:57:18.000 --> 00:57:20.000
+zrobić, chyba, że będę korzystał z tego
+
+00:57:20.000 --> 00:57:22.000
+z NVIDII, jak to się nazywa?
+
+00:57:22.000 --> 00:57:24.000
+GeForce Experience chyba?
+
+00:57:24.000 --> 00:57:26.000
+GeForce Now, być może.
+
+00:57:26.000 --> 00:57:28.000
+Nie, nie.
+
+00:57:28.000 --> 00:57:30.000
+Nie, nie, nie. Mam na myśli to urządzenie,
+
+00:57:30.000 --> 00:57:32.000
+które pozwala zapisywać ekran.
+
+00:57:32.000 --> 00:57:34.000
+To jest recorder taki zwykły,
+
+00:57:34.000 --> 00:57:36.000
+który jest zbudowany i działa dosyć
+
+00:57:36.000 --> 00:57:38.000
+sprawnie. Więc może na tym sobie
+
+00:57:38.000 --> 00:57:40.000
+popróbuję ponagrywać to.
+
+00:57:40.000 --> 00:57:42.000
+No, bo niestety nie jest dostępny
+
+00:57:42.000 --> 00:57:44.000
+na PS5. W ogóle PS5
+
+00:57:44.000 --> 00:57:46.000
+się stało moją maszyną do grania. Ostatnio jej cierpię
+
+00:57:46.000 --> 00:57:48.000
+na brak Game Passa tam. Swoją drogą
+
+00:57:48.000 --> 00:57:50.000
+jakby wolałbym zdecydowanie,
+
+00:57:50.000 --> 00:57:52.000
+gdyby się Sony jakoś z Microsoftem
+
+00:57:52.000 --> 00:57:54.000
+w tej sprawie dogadało, bo to byłoby
+
+00:57:54.000 --> 00:57:56.000
+korzystniejsze dla wszystkich.
+
+00:57:56.000 --> 00:57:58.000
+No, ale cóż.
+
+00:57:58.000 --> 00:58:00.000
+To chyba nie nastąpi.
+
+00:58:00.000 --> 00:58:02.000
+No, prędzej, kurde, wtedy wyglądał
+
+00:58:02.000 --> 00:58:04.000
+jak Superman, niż
+
+00:58:04.000 --> 00:58:06.000
+Sony się z Microsoftem dogada.
+
+00:58:06.000 --> 00:58:08.000
+Dobrze, to ja powiem parę zdań,
+
+00:58:08.000 --> 00:58:10.000
+bo ja muszę przyznać, że tak, oczywiście
+
+00:58:10.000 --> 00:58:12.000
+no jest to urocza gra,
+
+00:58:12.000 --> 00:58:14.000
+troszeczkę infantylna, ale
+
+00:58:14.000 --> 00:58:16.000
+muszę przyznać, że jest bardzo spójna
+
+00:58:16.000 --> 00:58:18.000
+w tej swojej infantylności
+
+00:58:18.000 --> 00:58:20.000
+i dobrze się ogląda te cutscenki.
+
+00:58:20.000 --> 00:58:22.000
+Ten bohater jest
+
+00:58:22.000 --> 00:58:24.000
+taki śmieszny, nie jest taki, wiesz,
+
+00:58:24.000 --> 00:58:26.000
+bo to jest takie, to nie jest
+
+00:58:26.000 --> 00:58:28.000
+ta fabuła, wiesz, jak porównamy
+
+00:58:28.000 --> 00:58:30.000
+do gier, które chcą być
+
+00:58:30.000 --> 00:58:32.000
+młodzieżowe,
+
+00:58:32.000 --> 00:58:34.000
+to ta przynajmniej
+
+00:58:34.000 --> 00:58:36.000
+ona nie jest młodzieżowa
+
+00:58:36.000 --> 00:58:38.000
+żenująco. Tak, jakby
+
+00:58:38.000 --> 00:58:40.000
+jest trochę żenująca, ale tak w uroczy
+
+00:58:40.000 --> 00:58:42.000
+sposób, nie? Ja mam takie
+
+00:58:42.000 --> 00:58:44.000
+flashbacki z fajnymi animacjami,
+
+00:58:44.000 --> 00:58:46.000
+które oglądałem jak miałem, nie wiem, 12,
+
+00:58:46.000 --> 00:58:48.000
+13 lat, nie? I one
+
+00:58:48.000 --> 00:58:50.000
+może teraz są trochę żenujące, ale wtedy były
+
+00:58:50.000 --> 00:58:52.000
+okej
+
+00:58:52.000 --> 00:58:54.000
+i
+
+00:58:54.000 --> 00:58:56.000
+jest spoko i nie przeszkadza mi to.
+
+00:58:56.000 --> 00:58:58.000
+Gramy się dobrze, ale gramy się bardzo dobrze
+
+00:58:58.000 --> 00:59:00.000
+w te etapy platformowe,
+
+00:59:00.000 --> 00:59:02.000
+bo ta gra to jest bardzo dobra
+
+00:59:02.000 --> 00:59:04.000
+platformówka. Fajnie się skacze
+
+00:59:04.000 --> 00:59:06.000
+po tych platformach, ja mam bardzo dużo
+
+00:59:06.000 --> 00:59:08.000
+radości z wyszukiwania wszystkich
+
+00:59:08.000 --> 00:59:10.000
+znajdziek, których jest
+
+00:59:10.000 --> 00:59:12.000
+bardzo dużo w tej grze.
+
+00:59:12.000 --> 00:59:14.000
+Trzeba każdą ścianę tam wylizać
+
+00:59:14.000 --> 00:59:16.000
+i znaleźć i tam widzisz przez jakieś
+
+00:59:16.000 --> 00:59:18.000
+okno albo przez coś, że tam coś
+
+00:59:18.000 --> 00:59:20.000
+się świeci teraz jak dojść do tego.
+
+00:59:20.000 --> 00:59:22.000
+Trochę mi to przypomina Mario
+
+00:59:22.000 --> 00:59:24.000
+i bardzo mnie
+
+00:59:24.000 --> 00:59:26.000
+urzeka to, że tam
+
+00:59:26.000 --> 00:59:28.000
+się zmienia ten gameplay i zmienia się
+
+00:59:28.000 --> 00:59:30.000
+świadomie. Niestety
+
+00:59:30.000 --> 00:59:32.000
+za dużo jest dla mnie tam
+
+00:59:32.000 --> 00:59:34.000
+walki. Ta walka jest trochę
+
+00:59:34.000 --> 00:59:36.000
+nużąca. Ona nie jest
+
+00:59:36.000 --> 00:59:38.000
+jakoś zła zrobiona, bo jest okej
+
+00:59:38.000 --> 00:59:40.000
+zrobiona, ale jest trochę
+
+00:59:40.000 --> 00:59:42.000
+nużąca. Ciekawe są walki z
+
+00:59:42.000 --> 00:59:44.000
+bossami, bo ja już dwóch czy trzech
+
+00:59:44.000 --> 00:59:46.000
+bossów pokonałem i to jest
+
+00:59:46.000 --> 00:59:48.000
+spoko, ale miałem
+
+00:59:48.000 --> 00:59:50.000
+nadzieję, że trochę będzie więcej
+
+00:59:50.000 --> 00:59:52.000
+tych atrakcji właśnie w stylu
+
+00:59:52.000 --> 00:59:54.000
+no, że teraz nagle zmieniamy
+
+00:59:54.000 --> 00:59:56.000
+totalnie system gry. Już nie masz
+
+00:59:56.000 --> 00:59:58.000
+DPP, ale wiesz,
+
+00:59:58.000 --> 01:00:00.000
+widok z góry i tam chodzisz.
+
+01:00:00.000 --> 01:00:02.000
+Czasami masz 2D, o ile sobie przypominam.
+
+01:00:02.000 --> 01:00:04.000
+Czasami masz ten sidescreen.
+
+01:00:04.000 --> 01:00:06.000
+Tak, ten Manhattan Project, czyli to jedna z moich
+
+01:00:06.000 --> 01:00:08.000
+ulubionych gier z Duke Nukem. Nie wiem czemu ja mam
+
+01:00:08.000 --> 01:00:10.000
+do niej, muszę do niej wrócić w ogóle kiedyś,
+
+01:00:10.000 --> 01:00:12.000
+ja mam taki sentyment do tej gry, a obawiam się,
+
+01:00:12.000 --> 01:00:14.000
+że to jest tylko sentyment.
+
+01:00:14.000 --> 01:00:16.000
+No pewnie, to może nie wracaj,
+
+01:00:16.000 --> 01:00:18.000
+bo to sentyment to jest jednak rzecz cudowna.
+
+01:00:18.000 --> 01:00:20.000
+Nie, to właśnie najlepiej
+
+01:00:20.000 --> 01:00:22.000
+sprawdzić. Ja nie mam
+
+01:00:22.000 --> 01:00:24.000
+aż tylu doświadczeń z tą grą, bo jednak
+
+01:00:24.000 --> 01:00:26.000
+sporo czasu posiedziałem przy Dead Space'ie.
+
+01:00:26.000 --> 01:00:28.000
+Prawda jest taka, że w tym
+
+01:00:28.000 --> 01:00:30.000
+High, jak to się nazywa? High Rush?
+
+01:00:30.000 --> 01:00:32.000
+High... High Fire Rush.
+
+01:00:32.000 --> 01:00:34.000
+High Fire Rush. To spędziłem tam
+
+01:00:34.000 --> 01:00:36.000
+ledwie ponad godzinę,
+
+01:00:36.000 --> 01:00:38.000
+więc tyle tylko, żeby móc zaobserwować jak
+
+01:00:38.000 --> 01:00:40.000
+to działa, jak to wygląda, jak jest opowiadana historia.
+
+01:00:40.000 --> 01:00:42.000
+Natomiast, żeby spotkania
+
+01:00:42.000 --> 01:00:44.000
+z bossem mieć, albo żeby na linię się przejechać,
+
+01:00:44.000 --> 01:00:46.000
+to jeszcze nie miałem okazji. Ale tak czy inaczej
+
+01:00:46.000 --> 01:00:48.000
+podtrzymuję swoją opinię za każdym razem, kiedy
+
+01:00:48.000 --> 01:00:50.000
+gra trafi ani stąd, ni zawąt do Game Passa
+
+01:00:50.000 --> 01:00:52.000
+i jest w dobrym stanie
+
+01:00:52.000 --> 01:00:54.000
+zachowana, to już jest coś,
+
+01:00:54.000 --> 01:00:56.000
+co wzbudza pozytywne opinie graczy.
+
+01:00:56.000 --> 01:00:58.000
+Wiesz, to jest taka... Mamy do czynienia z taką sytuacją,
+
+01:00:58.000 --> 01:01:00.000
+że... Ale ta gra jest dobra.
+
+01:01:00.000 --> 01:01:02.000
+No właśnie, no to jeszcze przy okazji. Jakby ta
+
+01:01:02.000 --> 01:01:04.000
+gra była słaba, to i tak bym miał
+
+01:01:04.000 --> 01:01:06.000
+nie najgorsze oceny, no bo przecież... Prawda,
+
+01:01:06.000 --> 01:01:08.000
+prawda. No, ale ona przy okazji jest
+
+01:01:08.000 --> 01:01:10.000
+dobra i da się, i da się zrobić.
+
+01:01:10.000 --> 01:01:12.000
+Jestem bardzo ciekaw, ile czasu zajęło
+
+01:01:12.000 --> 01:01:14.000
+deweloperom zrobienie takiej gry,
+
+01:01:14.000 --> 01:01:16.000
+bo w ramach tej stylistyki,
+
+01:01:16.000 --> 01:01:18.000
+w ramach tego gameplayu, naprawdę
+
+01:01:18.000 --> 01:01:20.000
+dużo rzeczy można pokazać. Ja bym dużo bardziej
+
+01:01:20.000 --> 01:01:22.000
+chciał, żeby deweloperzy szli
+
+01:01:22.000 --> 01:01:24.000
+w stronę takiej stylizowanej grafiki
+
+01:01:24.000 --> 01:01:26.000
+i myśleli nad ciekawymi mechanikami,
+
+01:01:26.000 --> 01:01:28.000
+niż robili ultrarealistyczną
+
+01:01:28.000 --> 01:01:30.000
+grafikę, a potem za wszelką cenę próbowali
+
+01:01:30.000 --> 01:01:32.000
+tam włożyć coś, co w miarę
+
+01:01:32.000 --> 01:01:34.000
+przypomina interesujący gameplay.
+
+01:01:34.000 --> 01:01:36.000
+To jest ciekawy kierunek. Z tego, co twórcy mówili,
+
+01:01:36.000 --> 01:01:38.000
+to zaczęli
+
+01:01:38.000 --> 01:01:40.000
+w 2017 roku.
+
+01:01:40.000 --> 01:01:42.000
+To jednak
+
+01:01:42.000 --> 01:01:44.000
+prace nad nią. Ale nie wiem, jak,
+
+01:01:44.000 --> 01:01:46.000
+wiesz, czy to jest początek,
+
+01:01:46.000 --> 01:01:48.000
+że tutaj siadamy sobie. Ghostwire Tokyo też tam w międzyczasie
+
+01:01:48.000 --> 01:01:50.000
+zrobili. No tak, ale Ghostwire Tokyo też nie jest
+
+01:01:50.000 --> 01:01:52.000
+jakąś rozbudowaną, wielką
+
+01:01:52.000 --> 01:01:54.000
+grą, która, wiesz,
+
+01:01:54.000 --> 01:01:56.000
+AAA-em, tylko to jest taki double A
+
+01:01:56.000 --> 01:01:58.000
+jednak. No ja nie grałem dużo
+
+01:01:58.000 --> 01:02:00.000
+w Ghostwire Tokyo, no ale...
+
+01:02:00.000 --> 01:02:02.000
+No ja w ogóle nie, nie, nie zagrałem.
+
+01:02:02.000 --> 01:02:04.000
+Więc...
+
+01:02:04.000 --> 01:02:06.000
+Więc tak, coś miałem
+
+01:02:06.000 --> 01:02:08.000
+jeszcze mądrego dodać.
+
+01:02:08.000 --> 01:02:10.000
+A, no ja niestety po trzech godzinach
+
+01:02:10.000 --> 01:02:12.000
+już troszeczkę mam zmęczenie formułą.
+
+01:02:12.000 --> 01:02:14.000
+Ale może dlatego, że pod rząd zrobiłem
+
+01:02:14.000 --> 01:02:16.000
+te trzy godzinki.
+
+01:02:16.000 --> 01:02:18.000
+No ale cieszę się.
+
+01:02:18.000 --> 01:02:20.000
+Zastanawiam się też,
+
+01:02:20.000 --> 01:02:22.000
+jak ta gra w ogóle... Widzę
+
+01:02:22.000 --> 01:02:24.000
+mieszane uczucia w Polsce.
+
+01:02:24.000 --> 01:02:26.000
+Raczej z...
+
+01:02:26.000 --> 01:02:28.000
+Raczej pozytywne,
+
+01:02:28.000 --> 01:02:30.000
+ale jednak mieszane, no bo jednak ta gra
+
+01:02:30.000 --> 01:02:32.000
+bardzo mocno czerpie
+
+01:02:32.000 --> 01:02:34.000
+z takich starych nintendowych,
+
+01:02:34.000 --> 01:02:36.000
+no z Gamecube'a głównie,
+
+01:02:36.000 --> 01:02:38.000
+z takich gier jak Crazy Taxi
+
+01:02:38.000 --> 01:02:40.000
+i...
+
+01:02:40.000 --> 01:02:42.000
+i my nie mamy takiego
+
+01:02:42.000 --> 01:02:44.000
+sentymentu, nie? Z Mariana bardzo
+
+01:02:44.000 --> 01:02:46.000
+dużo. My nie mamy takiego
+
+01:02:46.000 --> 01:02:48.000
+sentymentu. Może z Persony nawet,
+
+01:02:48.000 --> 01:02:50.000
+chociaż ja nie grałem w Personę, no ale to tak...
+
+01:02:50.000 --> 01:02:52.000
+Ludzie mówią tak na mieście, no to
+
+01:02:52.000 --> 01:02:54.000
+powtarzam państwu. Więc...
+
+01:02:54.000 --> 01:02:56.000
+Sunset Overdrive,
+
+01:02:56.000 --> 01:02:58.000
+który był klapą
+
+01:02:58.000 --> 01:03:00.000
+z takich nowszych...
+
+01:03:00.000 --> 01:03:02.000
+No ma szansę i przypomina zdecydowanie, no.
+
+01:03:02.000 --> 01:03:04.000
+Ta gra jest lepsza
+
+01:03:04.000 --> 01:03:06.000
+zdecydowanie od Sunset Overdrive i...
+
+01:03:06.000 --> 01:03:08.000
+Zastanawiam się, nie wiem, to pytanie
+
+01:03:08.000 --> 01:03:10.000
+trochę do państwa, jak czy
+
+01:03:10.000 --> 01:03:12.000
+grając taką grę czujecie, o i grałem
+
+01:03:12.000 --> 01:03:14.000
+w podobne gry w dzieciństwie.
+
+01:03:14.000 --> 01:03:16.000
+Co widać, ja
+
+01:03:16.000 --> 01:03:18.000
+śledzę iluś tam ludzi z branży
+
+01:03:18.000 --> 01:03:20.000
+i czy dziennikarzy
+
+01:03:20.000 --> 01:03:22.000
+na Twitterze i dużo jest takiego sentymentu
+
+01:03:22.000 --> 01:03:24.000
+w mówieniu o tej grze.
+
+01:03:24.000 --> 01:03:26.000
+No i bardzo dobrze i bardzo mnie to cieszy. A chciałbym jeszcze
+
+01:03:26.000 --> 01:03:28.000
+coś... Pewnie zamknęliśmy już
+
+01:03:28.000 --> 01:03:30.000
+temat tych dwóch gier, o których chcieliśmy pogadać.
+
+01:03:30.000 --> 01:03:32.000
+Tak mi się wydaje. Chciałbym jeszcze państwu
+
+01:03:32.000 --> 01:03:34.000
+opowiedzieć coś, co powinno się znaleźć we wstępniaczku,
+
+01:03:34.000 --> 01:03:36.000
+bo wyleciało mi z głowy, a warto
+
+01:03:36.000 --> 01:03:38.000
+o tym wspomnieć. Ostatnio pojawiły
+
+01:03:38.000 --> 01:03:40.000
+się materiały na YouTubie z
+
+01:03:40.000 --> 01:03:42.000
+gameplay'ie z Hogwarts Legacy,
+
+01:03:42.000 --> 01:03:44.000
+z pokazu, który został zorganizowany przez Warner Bros.
+
+01:03:44.000 --> 01:03:46.000
+I to są pierwsze takie materiały,
+
+01:03:46.000 --> 01:03:48.000
+po których ja mam wrażenie, że ta gra
+
+01:03:48.000 --> 01:03:50.000
+naprawdę zapowiada się świetnie.
+
+01:03:50.000 --> 01:03:52.000
+To znaczy oczywiście zawsze jest tak, my byliśmy
+
+01:03:52.000 --> 01:03:54.000
+na pokazie Antema i też mieliśmy wrażenie
+
+01:03:54.000 --> 01:03:56.000
+po czterech godzinach, że to jest gra, która zapowiada się świetnie.
+
+01:03:56.000 --> 01:03:58.000
+Że świetna, tak.
+
+01:03:58.000 --> 01:04:00.000
+Świetnie się bawiliśmy. Tak, tak.
+
+01:04:00.000 --> 01:04:02.000
+Więc pokazy nie zawsze świadczą o tym, jak ta gra
+
+01:04:02.000 --> 01:04:04.000
+będzie wyglądać, natomiast w odniesieniu do wcześniejszych
+
+01:04:04.000 --> 01:04:06.000
+gameplay'owych materiałów, nawet przez
+
+01:04:06.000 --> 01:04:08.000
+Dowolo Opera prezentowanych, to to, co nagrali
+
+01:04:08.000 --> 01:04:10.000
+YouTuberzy, jest naprawdę wysokiej jakości.
+
+01:04:10.000 --> 01:04:12.000
+I też sobie znalazłem,
+
+01:04:12.000 --> 01:04:14.000
+znalazłem sobie taki czterdziestoparominutowy
+
+01:04:14.000 --> 01:04:16.000
+materiał w 4K zrealizowany.
+
+01:04:16.000 --> 01:04:18.000
+To też państwu pokażę u mnie na drugim kanale,
+
+01:04:18.000 --> 01:04:20.000
+także też zapraszam do tego, gdybyście byli ciekawi.
+
+01:04:20.000 --> 01:04:22.000
+I omówię, bo dużo rzeczy można się
+
+01:04:22.000 --> 01:04:24.000
+było dowiedzieć, ja też się dowiedziałem,
+
+01:04:24.000 --> 01:04:26.000
+a nie chcę nagrywać takiej publicystyki, tylko wolę
+
+01:04:26.000 --> 01:04:28.000
+posiedzieć przy gameplayu i sobie pogadać.
+
+01:04:28.000 --> 01:04:30.000
+Ale jeżeli ktoś tak
+
+01:04:30.000 --> 01:04:32.000
+śledzi tylko
+
+01:04:32.000 --> 01:04:34.000
+delikatnie materiały z Hogwarts Legacy,
+
+01:04:34.000 --> 01:04:36.000
+to muszę powiedzieć, że to, co
+
+01:04:36.000 --> 01:04:38.000
+wyszło teraz, raczej wzbudziło entuzjazm
+
+01:04:38.000 --> 01:04:40.000
+społeczności i wzbudziło także entuzjazm
+
+01:04:40.000 --> 01:04:42.000
+mój. Więc jeżeli państwo czekali,
+
+01:04:42.000 --> 01:04:44.000
+to chyba potwierdza, że
+
+01:04:44.000 --> 01:04:46.000
+możemy mieć do czynienia ze sporym zaskoczeniem.
+
+01:04:46.000 --> 01:04:48.000
+Bo jeżeli ta gra wyjdzie
+
+01:04:48.000 --> 01:04:50.000
+w takim stanie, jak przedstawiają to developerzy,
+
+01:04:50.000 --> 01:04:52.000
+to będzie spore zaskoczenie.
+
+01:04:52.000 --> 01:04:54.000
+Będzie dużo więcej, niż ja się spodziewałem.
+
+01:04:54.000 --> 01:04:56.000
+I no,
+
+01:04:56.000 --> 01:04:58.000
+jakby sukcesu już nie trzeba wyróżyć,
+
+01:04:58.000 --> 01:05:00.000
+bo to sukces już się wydarzył,
+
+01:05:00.000 --> 01:05:02.000
+sprzedażowy, w ramach preorderów.
+
+01:05:02.000 --> 01:05:04.000
+Ale nadzieja jest
+
+01:05:04.000 --> 01:05:06.000
+większa w narodzie, więc...
+
+01:05:06.000 --> 01:05:08.000
+To prawda, to prawda.
+
+01:05:08.000 --> 01:05:10.000
+I to już nie ma nic do dodania.
+
+01:05:10.000 --> 01:05:12.000
+To ja jeszcze na końcu, zapomniałem na początku.
+
+01:05:12.000 --> 01:05:14.000
+Można kupić nasze kubki,
+
+01:05:14.000 --> 01:05:16.000
+proszę państwa, podcastowe.
+
+01:05:16.000 --> 01:05:18.000
+Co ty gadasz? Poważnie?
+
+01:05:18.000 --> 01:05:20.000
+Co się stało? Jak to się stało?
+
+01:05:20.000 --> 01:05:22.000
+Przecież miały być ekskluzyny.
+
+01:05:22.000 --> 01:05:24.000
+Do aukcji są.
+
+01:05:24.000 --> 01:05:26.000
+Może to, proszę państwa, to 2000 za kubek.
+
+01:05:26.000 --> 01:05:28.000
+Nie!
+
+01:05:28.000 --> 01:05:30.000
+Na aukcji
+
+01:05:30.000 --> 01:05:32.000
+wośpowej naszej.
+
+01:05:32.000 --> 01:05:34.000
+Ty to już po prostu nie pamiętasz nic.
+
+01:05:34.000 --> 01:05:36.000
+Jeszcze razem z grą
+
+01:05:36.000 --> 01:05:38.000
+Nemesis,
+
+01:05:38.000 --> 01:05:40.000
+którą dostałem kiedyś od Awakened Realms
+
+01:05:40.000 --> 01:05:42.000
+i nawet jej nie odpakowałem,
+
+01:05:42.000 --> 01:05:44.000
+więc mówię, na szczytny cel pójdzie.
+
+01:05:44.000 --> 01:05:46.000
+Link macie, proszę państwa, do naszej aukcji
+
+01:05:46.000 --> 01:05:48.000
+w opisie. Dwa kubki
+
+01:05:48.000 --> 01:05:50.000
+i taka super gra. Sama gra 500, więc...
+
+01:05:50.000 --> 01:05:52.000
+No, polecamy, polecamy gorąco.
+
+01:05:52.000 --> 01:05:54.000
+Faktycznie mogą te kubeczki,
+
+01:05:54.000 --> 01:05:56.000
+ich cena może wzrosnąć ponad
+
+01:05:56.000 --> 01:05:58.000
+standard.
+
+01:05:58.000 --> 01:06:00.000
+No, zobaczymy, zobaczymy.
+
+01:06:00.000 --> 01:06:02.000
+No i chyba tyle, proszę państwa.
+
+01:06:02.000 --> 01:06:04.000
+Czekamy na wasze
+
+01:06:04.000 --> 01:06:06.000
+wrażenia z Dead Space'a
+
+01:06:06.000 --> 01:06:08.000
+i z Hi-Fi Rush.
+
+01:06:08.000 --> 01:06:10.000
+Ja oczywiście zawsze czytam komentarze
+
+01:06:10.000 --> 01:06:12.000
+na streamie w poniedziałek.
+
+01:06:12.000 --> 01:06:14.000
+Zapraszam od 11.00
+
+01:06:14.000 --> 01:06:16.000
+i widzimy się w czwartek
+
+01:06:16.000 --> 01:06:18.000
+na podcaście nowym.
+
+01:06:18.000 --> 01:06:20.000
+Pozdrawiamy państwa bardzo serdecznie.
+
+01:06:20.000 --> 01:06:44.000
+Pa, pa.
+

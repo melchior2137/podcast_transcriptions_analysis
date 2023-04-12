@@ -1,0 +1,4654 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.300
+Dzień dobry, witamy Państwa bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:05.320 --> 00:00:11.020
+Dzień dobry, Remigiuszu. Z czego wynika twój entuzjazm? Nie rozumiem, nie mamy dzisiaj sponsora. Co się stało?
+
+00:00:11.040 --> 00:00:17.020
+Ja nie mam pojęcia, mam dużo energii w sobie ostatnio, dźwigam ją i od czasu do czasu ona się tak ze mnie wydali.
+
+00:00:17.040 --> 00:00:23.840
+Czyli tą wydaloną energią obdarowujesz Państwa słuchaczy tutaj. Dobrze, dzień dobry.
+
+00:00:23.860 --> 00:00:24.860
+I ciebie również.
+
+00:00:24.860 --> 00:00:36.520
+Ja podziękuję. Witam Państwa serdecznie. Jak Państwo to słuchają, to my się zbieramy na PGA.
+
+00:00:36.540 --> 00:00:46.200
+Więc jakby ktoś był na PGA, to proszę nas szukać. Nie mamy chyba jakichś takich stałych punktów, że gdzieś będziemy. Nie mamy coś takiego.
+
+00:00:46.220 --> 00:00:49.520
+Poznacie nas Państwo po Borysie, bo on góruje nad tłumem.
+
+00:00:49.520 --> 00:01:03.500
+To prawda. Gdzieś tam się będzie. Ja będę chciał ograć te gry na stoisku indyków, znaczy na hali indyków. Zobaczymy, co tam będzie ciekawego.
+
+00:01:03.520 --> 00:01:14.020
+Na pewno chcę na beatach ograć ich jakieś gry, bo coś będą... Boże, jak się to nazywa? Ta gra na podstawie Lema.
+
+00:01:14.040 --> 00:01:17.040
+Niezwyciężony.
+
+00:01:17.040 --> 00:01:25.020
+Tak, to będę chciał ograć. Będę chciał też ograć gry na stoisku Microsoftu, ale nie wiem, czy to nie...
+
+00:01:25.040 --> 00:01:33.220
+W piątek mamy właśnie tak, że nagrywamy podcasty z gośćmi. Mamy fantastycznych gości i zalejemy Państwa podcastami w ten weekend.
+
+00:01:33.240 --> 00:01:36.220
+Codziennie praktycznie będzie podcast.
+
+00:01:36.220 --> 00:01:49.200
+Ale będziemy mieli cudownych, cudownych gości. Jak ktoś chce się dowiedzieć, jakich, to zapraszam na grupę. Tam są już ogłoszeni, można im tam zadawać pytania,
+
+00:01:49.220 --> 00:02:00.000
+bo będziemy rozmawiać np. o tym, ile się zarabia w gamedevie, będziemy rozmawiać o zdrowiu psychicznym w gamedevie, będziemy rozmawiać o tym, jak pracuje designer,
+
+00:02:00.000 --> 00:02:10.980
+o tym, jak się przechodzi z jednej firmy do drugiej oraz też będziemy rozmawiać o tym, jak wygląda proces rekrutacyjny, jakie błędy się popełnia, jak tych błędów uniknąć.
+
+00:02:11.000 --> 00:02:20.980
+Więc super, zapowiadają się fantastyczne rozmowy i obdarujemy Państwa w ten weekend, więc proszę od rana oczekiwać codziennie.
+
+00:02:21.000 --> 00:02:22.980
+Tak, tak.
+
+00:02:23.000 --> 00:02:26.980
+Tak jest, tak jest. No to tyle mam do powiedzenia w sumie.
+
+00:02:26.980 --> 00:02:34.960
+No, to właściwie więcej nie dodamy w kwestii tego, czego Państwo się mogą spodziewać, bo się będą Państwo mogli z tym zapoznawać na bieżąco.
+
+00:02:34.980 --> 00:02:40.960
+Ale mam nadzieję, że Państwu to sprawi przyjemność. Ja też się na PGA pojawię, gdzieś tam w cieniu rzucanym przez Borysa,
+
+00:02:40.980 --> 00:02:49.960
+będę się przemykał i też może coś pogrywam na tę okazję. Ten Invincible, chyba tak jest ten tytuł angielski, też mnie interesuje.
+
+00:02:49.960 --> 00:02:56.940
+To wygląda bardzo, uczta wizualna w takim, jak to się nazywa, takie przeszłościowe...
+
+00:02:56.960 --> 00:02:58.940
+Retrofuturyzm.
+
+00:02:58.960 --> 00:03:05.940
+Retrofuturyzm, bardzo, bardzo jest to. I to niezwykle mocno pasuje do Lema, więc z tego względu też mnie ten temat ciekawi.
+
+00:03:05.960 --> 00:03:10.940
+Ale ciekawią mnie ludzie i też bym się chciał dowiedzieć, co to trzeba zrobić, żeby w Gamedevie się załapać na fajną robotę.
+
+00:03:10.960 --> 00:03:14.940
+Może to jest dla mnie przyszłość jakaś.
+
+00:03:14.960 --> 00:03:17.940
+No to, to jest ostatni podcast. Proszę Państwa, zamykamy ten projekt.
+
+00:03:17.940 --> 00:03:20.920
+Myślisz, że mnie tak wezmą od ranki?
+
+00:03:20.940 --> 00:03:24.920
+Już bym od razu Cię przyjmował, gdzieś na pewno, jako PR-owca.
+
+00:03:24.940 --> 00:03:28.920
+Nie, tak bym nie chciał, to hałas byłby straszny.
+
+00:03:28.940 --> 00:03:34.920
+Rewigiusz, proszę Cię, ja już Cię widzę, Ty byś siedział i klepał tam kod godzinami po prostu.
+
+00:03:34.940 --> 00:03:35.920
+Nie, nie, ja bym pisał...
+
+00:03:35.940 --> 00:03:36.920
+Jesteś tak rozlewniwiony już, że...
+
+00:03:36.940 --> 00:03:39.920
+Ja bym pisał historię.
+
+00:03:39.940 --> 00:03:45.920
+Dobrze, dobrze, no to niech się studia do Ciebie odzywają, może im napiszesz jakąś rzecz.
+
+00:03:45.940 --> 00:03:46.920
+Tak jest.
+
+00:03:46.920 --> 00:03:49.900
+Po godzinach. A co tam u Ciebie słychać w ogóle, tak poza tym?
+
+00:03:49.920 --> 00:03:52.900
+A, Panie kochany, to dużo się dzieje bardzo, bardzo u mnie.
+
+00:03:52.920 --> 00:03:56.900
+W związku z tym, że wyjeżdżamy sobie w czwartek i nie będzie nas w piątek
+
+00:03:56.920 --> 00:03:59.900
+i nie będzie nas w sobotę, być może nawet trochę nas nie będzie w niedzielę.
+
+00:03:59.920 --> 00:04:00.900
+Zobaczymy jeszcze, jak się ułoży.
+
+00:04:00.920 --> 00:04:03.900
+To ja musiałem odpracować w pańszczyznę w postaci uzupełnienia planów
+
+00:04:03.920 --> 00:04:06.900
+na mój drugi kanał, nad którym pracuję bardzo intensywnie.
+
+00:04:06.920 --> 00:04:07.900
+No, widziałem.
+
+00:04:07.920 --> 00:04:09.900
+I bardzo Państwa serdecznie zapraszam.
+
+00:04:09.920 --> 00:04:10.900
+No stąd też trochę ekscytacji.
+
+00:04:10.920 --> 00:04:12.900
+Jezu, ile Ty tam... Przepraszam Ci, przepraszam.
+
+00:04:12.900 --> 00:04:17.880
+Ile Ty tam wrzucasz tych filmów? Dziennie po prostu masakra, Ty chyba nigdy w życiu tyle nie wrzucałeś.
+
+00:04:17.900 --> 00:04:19.880
+To prawda, bardzo jestem, bardzo jestem.
+
+00:04:19.900 --> 00:04:22.880
+Ale to wiesz, dużo energii i dużo fajnych gier też ostatnio znalazłem
+
+00:04:22.900 --> 00:04:23.880
+i stąd też ta energia.
+
+00:04:23.900 --> 00:04:27.880
+Bo czasami są takie momenty, że człowiek siedzi i tak patrzy na tą swoją listę
+
+00:04:27.900 --> 00:04:31.880
+gigantyczną na Steamie, jak moja żona w szafie ze swoimi ubraniami.
+
+00:04:31.900 --> 00:04:33.880
+Mówi, co by tu ubrać? Co by tu zagrać?
+
+00:04:33.900 --> 00:04:36.880
+Przepraszam, przepraszam, Rewigiuszu, ale Ty to powiedziałeś w taki sposób.
+
+00:04:36.900 --> 00:04:41.880
+Ktoś patrzy na swoją kolekcję gigantyczną jak moja żona
+
+00:04:41.880 --> 00:04:44.860
+i to jest jakby...
+
+00:04:44.880 --> 00:04:48.860
+Nie, nie, nie. Moja żona też ma kolekcję ubrań.
+
+00:04:48.880 --> 00:04:51.860
+Może nie gigantyczną, ale ma.
+
+00:04:51.880 --> 00:04:53.860
+Tak, to jest taki stereotyp.
+
+00:04:53.880 --> 00:04:55.860
+Stereotyp, chciałem sięgnąć po stereotyp.
+
+00:04:55.880 --> 00:04:57.860
+Może niepotrzebnie mogłem.
+
+00:04:57.880 --> 00:04:59.860
+Dobrze, żeś mnie tutaj zwrócił uwagę na to.
+
+00:04:59.880 --> 00:05:01.860
+Mogę się szybko wytłumaczyć.
+
+00:05:01.880 --> 00:05:04.860
+Tak czy inaczej, czasami są takie momenty, że człowiek nie ma w co zagrać,
+
+00:05:04.880 --> 00:05:06.860
+mimo że ma dostęp do całej masy gier.
+
+00:05:06.880 --> 00:05:09.860
+A teraz odkryłem kilka takich produkcji, które zaniedbywałem przez lata
+
+00:05:09.860 --> 00:05:12.840
+i nagle się okazuje, że mi się bardzo podobają.
+
+00:05:12.860 --> 00:05:13.840
+Mowa o survivalach.
+
+00:05:13.860 --> 00:05:17.840
+Ja pograłem bardzo dużo w Grounded, tą grę od Obsidian Entertainment,
+
+00:05:17.860 --> 00:05:19.840
+która teraz na Game Passie wyszła w pełnej wersji.
+
+00:05:19.860 --> 00:05:22.840
+Jestem pod ogromnym wrażeniem, fantastycznie się w to gra.
+
+00:05:22.860 --> 00:05:26.840
+To jest taki półotwarty świat, powiedzmy, że otwarty świat w dużym stopniu,
+
+00:05:26.860 --> 00:05:29.840
+gdzie z jednej strony oczywiście buduje się chatę z siana,
+
+00:05:29.860 --> 00:05:32.840
+ale z drugiej strony są fajnie zeszyte mechanizmy RPG
+
+00:05:32.860 --> 00:05:35.840
+i fajnie się eksploruje i to mi sprawiło dużo przyjemności.
+
+00:05:35.840 --> 00:05:39.820
+I na skutek tej ogromnej przyjemności postanowiłem też zakosztować innej
+
+00:05:39.840 --> 00:05:42.820
+i sięgnąłem po Conan Exiles, grę, która miała swoją premierę
+
+00:05:42.840 --> 00:05:44.820
+już parę lat temu, trzy albo cztery.
+
+00:05:44.840 --> 00:05:46.820
+I na początku niespecjalnie mi się podobała,
+
+00:05:46.840 --> 00:05:49.820
+ale teraz wszedłem do tego świata hyborei albo hyperborei,
+
+00:05:49.840 --> 00:05:51.820
+to nigdy nie wiem, jak to się dokładnie wymawia.
+
+00:05:51.840 --> 00:05:53.820
+I też jestem zachwycony i też się bawię doskonale
+
+00:05:53.840 --> 00:05:56.820
+i też tam mechanizmy RPG-owe i eksploracyjne.
+
+00:05:56.840 --> 00:06:01.820
+I robię serię z tych dwóch rzeczy i dawno się tak dobrze nie bawiłem,
+
+00:06:01.840 --> 00:06:03.820
+dawno nie byłem taki podekscytowany.
+
+00:06:03.820 --> 00:06:06.800
+A jeszcze wczoraj premierę miał Overwatch 2.
+
+00:06:06.820 --> 00:06:07.800
+No i w związku z tym...
+
+00:06:07.820 --> 00:06:08.800
+Pograłeś?
+
+00:06:08.820 --> 00:06:10.800
+Nie, pograłem, pograłem.
+
+00:06:10.820 --> 00:06:13.800
+Naprawdę? Widziałeś, że kolejki były na tam tysiące osób?
+
+00:06:13.820 --> 00:06:17.800
+Tak, tak. No wczoraj 50 tysięcy w kolejce, dzisiaj 20 tysięcy.
+
+00:06:17.820 --> 00:06:20.800
+Dzisiaj odpaliłem, mówię 20 tysięcy, no dobra, posiedzę chwilę,
+
+00:06:20.820 --> 00:06:22.800
+ale to jest chyba jakiś błąd wyświetlania,
+
+00:06:22.820 --> 00:06:25.800
+bo mam informację 20 tysięcy, po chwili mam 10 tysięcy,
+
+00:06:25.820 --> 00:06:29.800
+potem 5 tysięcy, potem 500 i no i wchodzę do gry.
+
+00:06:29.820 --> 00:06:32.800
+Więc tam są jakieś takie dziwne te liczby, nie wiadomo z czego one wynikają.
+
+00:06:32.800 --> 00:06:35.780
+Więc wykazałem się odrobiną cierpliwości,
+
+00:06:35.800 --> 00:06:37.780
+dzisiaj posiedziałem, zagrałem dwie rundki.
+
+00:06:37.800 --> 00:06:39.780
+Bawiłem się dobrze jak w starym Overwatchu,
+
+00:06:39.800 --> 00:06:41.780
+ja tu nie widzę jakichś gigantycznych różnic.
+
+00:06:41.800 --> 00:06:44.780
+No właśnie, słyszałem takie opinie, że to jest po prostu Overwatch 1,
+
+00:06:44.800 --> 00:06:45.780
+tylko że z dwójką.
+
+00:06:45.800 --> 00:06:47.780
+Tak, tak, mówiliśmy o tym wiele razy.
+
+00:06:47.800 --> 00:06:50.780
+To jak deweloperzy tytułują swoje gry, to jest ich sprawa
+
+00:06:50.800 --> 00:06:52.780
+i to w zasadzie nie wpływa na moje decyzje.
+
+00:06:52.800 --> 00:06:55.780
+A tym bardziej, że ta nie była absolutnie decyzją finansową,
+
+00:06:55.800 --> 00:06:58.780
+po prostu odpaliłem grę tak jak odpalałem ją zawsze.
+
+00:06:58.800 --> 00:07:01.780
+To czy ona ma dwójkę z tyłu, czy ma napisane sequel,
+
+00:07:01.780 --> 00:07:04.760
+czy ma prequel, czy ma jeszcze napisane 47 czy 77,
+
+00:07:04.780 --> 00:07:06.760
+to nie ma dla mnie dużego znaczenia,
+
+00:07:06.780 --> 00:07:08.760
+ważne żebym się dobrze bawił.
+
+00:07:08.780 --> 00:07:10.760
+I na razie bawię się nie najgorzej,
+
+00:07:10.780 --> 00:07:14.760
+ale tylko liznąłem powierzchnię, więc trudno powiedzieć coś więcej.
+
+00:07:14.780 --> 00:07:17.760
+No i też nie pograłem jakoś strasznie dużo, więc tyle.
+
+00:07:17.780 --> 00:07:20.760
+Ale to też jest kolejna rzecz, którą musiałem nagrać
+
+00:07:20.780 --> 00:07:24.760
+i wrzucić na kanał, bo też jak sobie uzmysłowiłem któregoś razu,
+
+00:07:24.780 --> 00:07:28.760
+że mam ponad 365 odcinków Overwatcha na głównym kanale,
+
+00:07:28.760 --> 00:07:32.740
+to można by powiedzieć, że ja byłem chyba największym maniakiem Overwatcha
+
+00:07:32.760 --> 00:07:35.740
+w naszym kraju, zważywszy na to, że nie prowadziłem kanału
+
+00:07:35.760 --> 00:07:37.740
+skupionego tylko i wyłącznie na tym.
+
+00:07:37.760 --> 00:07:40.740
+No więc też uznałem, że to chyba moją powinnością
+
+00:07:40.760 --> 00:07:43.740
+jest trochę przynajmniej pokazanie tego Warwatcha 2.
+
+00:07:43.760 --> 00:07:46.740
+No i w związku z tym dzień miałem taki bardzo, bardzo zajęty.
+
+00:07:46.760 --> 00:07:49.740
+Na tyle zajęty, że prześledzenie tych informacji z konferencji,
+
+00:07:49.760 --> 00:07:52.740
+właściwie z rozmowy z inwestorami CD Projekt,
+
+00:07:52.760 --> 00:07:55.740
+trochę zeszło na boczny plan, ale dowiedziałem się rzeczy.
+
+00:07:55.760 --> 00:07:57.740
+Nie obejrzałem całej tej rozmowy,
+
+00:07:57.740 --> 00:08:00.720
+ale zapoznałem się z notatkami, z wnioskami różnych dziennikarzy.
+
+00:08:00.740 --> 00:08:03.720
+Przeczytałem sobie także twoje notatki, za co przepraszam,
+
+00:08:03.740 --> 00:08:06.720
+ale tak umieściłeś je ogólnie dostępnie.
+
+00:08:06.740 --> 00:08:09.720
+Tak, ja je zawsze udostępniam publicznie dla ciebie.
+
+00:08:09.740 --> 00:08:12.720
+No właśnie, więc skorzystałem sobie tym razem
+
+00:08:12.740 --> 00:08:14.720
+bez wyrzutów sumienia.
+
+00:08:14.740 --> 00:08:17.720
+Zakładam, że jestem przygotowany do tej rozmowy
+
+00:08:17.740 --> 00:08:19.720
+i to tyle u mnie, a co u ciebie?
+
+00:08:19.740 --> 00:08:25.720
+U mnie w sumie niewiele, ponieważ mam dużo zajęć.
+
+00:08:25.720 --> 00:08:29.700
+Zajmują mi. Nie ma kącika Steam Deckowego.
+
+00:08:29.720 --> 00:08:33.700
+Powiem tylko tyle, że zakupiłem drogą kupna,
+
+00:08:33.720 --> 00:08:35.700
+to jest taki żart śmieszny.
+
+00:08:35.720 --> 00:08:37.700
+Nie, nie jest? Dobrze.
+
+00:08:37.720 --> 00:08:42.700
+Dwie karty microSD, 256 i 512.
+
+00:08:42.720 --> 00:08:46.700
+Postanowiłem jeszcze zainstalować sobie na Steam Decku Windowsa,
+
+00:08:46.720 --> 00:08:52.700
+żeby spróbować grać w te gry, które mają antycheata windowsowskiego.
+
+00:08:52.700 --> 00:08:56.680
+Na przykład PUBG, Call of Duty, Fifę i zobaczyć,
+
+00:08:56.700 --> 00:08:58.680
+jak to wszystko się sprawia.
+
+00:08:58.700 --> 00:09:00.680
+Bo z tego, co widziałem na YouTubie,
+
+00:09:00.700 --> 00:09:05.680
+to Call of Duty nowe, ludzie robili testy na Steam Decku.
+
+00:09:05.700 --> 00:09:08.680
+Fantastycznie chodzi, fantastycznie.
+
+00:09:08.700 --> 00:09:10.680
+Wow, to jestem...
+
+00:09:10.700 --> 00:09:14.680
+No i zobaczę sobie, sprawdzę sobie jedną kartę,
+
+00:09:14.700 --> 00:09:20.680
+mam taką 256 pod może retro jakieś,
+
+00:09:20.680 --> 00:09:22.660
+bo ja to nie lubię retro za bardzo,
+
+00:09:22.680 --> 00:09:27.660
+ale zawsze mnie tak...
+
+00:09:27.680 --> 00:09:29.660
+Lubię się bawić, tam sobie coś zainstalować,
+
+00:09:29.680 --> 00:09:32.660
+sprawdzić, czy działa, jak to śmiga.
+
+00:09:32.680 --> 00:09:35.660
+Tak tylko dla testów.
+
+00:09:35.680 --> 00:09:39.660
+Tak to gram głównie w Session i gram głównie na Steam Decku,
+
+00:09:39.680 --> 00:09:44.660
+więc to tyle u mnie, ale temat jest tak ciekawy dzisiaj.
+
+00:09:44.680 --> 00:09:48.660
+Temat dzisiaj, co jest bardzo interesujące,
+
+00:09:48.660 --> 00:09:54.640
+jest z tych rodzajów, z tego gatunku tematów science fiction.
+
+00:09:54.660 --> 00:09:56.640
+Co tam Remi, co się dzieje u ciebie?
+
+00:09:56.660 --> 00:09:59.640
+U mnie? Otwieram notatki z science fiction.
+
+00:09:59.660 --> 00:10:00.640
+A to dobrze.
+
+00:10:00.660 --> 00:10:02.640
+A co się stało? Coś mrugałem?
+
+00:10:02.660 --> 00:10:03.640
+Nie wiem, myślałem, że coś...
+
+00:10:03.660 --> 00:10:06.640
+Tak popatrzyłeś, zapaliło się światło, wiesz, jakby...
+
+00:10:06.660 --> 00:10:09.640
+A, nie, nie. Wszystko w porządku, mam to pod kontrolą.
+
+00:10:09.660 --> 00:10:12.640
+Więc proszę państwa, przejdźmy do głównego tematu już sobie.
+
+00:10:12.660 --> 00:10:17.640
+CD Projekt Red zaktualizował swoją strategię rozwoju.
+
+00:10:17.640 --> 00:10:21.620
+No i podzielił się z nami tą swoją długofalową,
+
+00:10:21.640 --> 00:10:25.620
+długoterminowymi swoimi planami produkcyjnymi.
+
+00:10:25.640 --> 00:10:28.620
+Dostaliśmy dokument PDF, filmy na YouTubie,
+
+00:10:28.640 --> 00:10:32.620
+posty na Twitterze, anglojęzyczną rozmowę z inwestorami,
+
+00:10:32.640 --> 00:10:34.620
+polskojęzyczny czat z inwestorami.
+
+00:10:34.640 --> 00:10:36.620
+Ja to wszystko ogarnąłem.
+
+00:10:36.640 --> 00:10:40.620
+Plus jeszcze zrobiłem wywiad środowiskowy, co tam się dzieje.
+
+00:10:40.640 --> 00:10:45.620
+Ale zanim zaczniemy, to sobie może powiedzmy o tych danych,
+
+00:10:45.620 --> 00:10:47.600
+które padły na początku.
+
+00:10:47.620 --> 00:10:51.600
+CD Projekt już zatrudnia 700 twórców gier.
+
+00:10:51.620 --> 00:10:54.600
+Sprzedali 20 milionów ponad kopii Cyberpunka.
+
+00:10:54.620 --> 00:10:57.600
+65 ponad milionów serii Wiedźmin.
+
+00:10:57.620 --> 00:11:01.600
+Mają 5 studiów, czyli Warszawa, Kraków, Wrocław, Wankuwer
+
+00:11:01.620 --> 00:11:04.600
+i Molasses Flot, czyli Boston.
+
+00:11:04.620 --> 00:11:07.600
+I jako, że to jest aktualizacja do tego Red 2.0,
+
+00:11:07.620 --> 00:11:10.600
+to powiedzmy sobie też bardzo króciutko,
+
+00:11:10.620 --> 00:11:13.600
+co było w tym dokumencie z 2021 roku.
+
+00:11:13.600 --> 00:11:16.580
+Czyli to była transformacja studia,
+
+00:11:16.600 --> 00:11:20.580
+czyli oddzielenie projektów od technologii
+
+00:11:20.600 --> 00:11:23.580
+i robienie dwóch dużych projektów na raz.
+
+00:11:23.600 --> 00:11:26.580
+Rozbudowa marek Cyberpunk i Wiedźmin,
+
+00:11:26.600 --> 00:11:28.580
+np. przez serial Edge Runners,
+
+00:11:28.600 --> 00:11:31.580
+czy może Wiedźmin na Netflixie.
+
+00:11:31.600 --> 00:11:34.580
+To jest może nie do końca, bo to nie jest ich,
+
+00:11:34.600 --> 00:11:36.580
+ale jest to w pewien sposób powiązane,
+
+00:11:36.600 --> 00:11:38.580
+bo to jedna tej, jeden bohater.
+
+00:11:38.600 --> 00:11:39.580
+Tak, tak, tak.
+
+00:11:39.600 --> 00:11:42.580
+Można to wykorzystać, jeżeli się dobrze ułoży terminy.
+
+00:11:42.580 --> 00:11:46.560
+Rozwój online, czyli wzbogacanie marek o elementy multi.
+
+00:11:46.580 --> 00:11:48.560
+To się jeszcze nie wydarzyło.
+
+00:11:48.580 --> 00:11:52.560
+Potwierdzili nam, że w tym roku wydadzą Wieśka 3 na nową generację,
+
+00:11:52.580 --> 00:11:55.560
+a w przyszłym roku DLC do Cyberpunka,
+
+00:11:55.580 --> 00:11:57.560
+czyli Widmo Wolności.
+
+00:11:57.580 --> 00:12:00.560
+Nie padły żadne daty,
+
+00:12:00.580 --> 00:12:03.560
+ale padła bardzo ważna informacja,
+
+00:12:03.580 --> 00:12:09.560
+czyli Marcin Iwiński zrezygnował z bycia członkiem zarządu
+
+00:12:09.560 --> 00:12:16.540
+i tak naprawdę przestaje brać udział czynny w pracach firmy.
+
+00:12:16.560 --> 00:12:19.540
+Przypomnę, że to jest jeden z założycieli.
+
+00:12:19.560 --> 00:12:22.540
+Jest największym indywidualnym akcjonariuszem.
+
+00:12:22.560 --> 00:12:27.540
+Ma ponad 12,78% akcji.
+
+00:12:27.560 --> 00:12:32.540
+Będzie najprawdopodobniej...
+
+00:12:32.560 --> 00:12:35.540
+Boże, jak to się nazywa?
+
+00:12:35.560 --> 00:12:36.540
+Emerytem?
+
+00:12:36.560 --> 00:12:38.540
+Nie, emerytem.
+
+00:12:38.540 --> 00:12:40.520
+Najprawdopodobniej tak.
+
+00:12:40.540 --> 00:12:46.520
+Powiedział, że to bardzo takie personalne...
+
+00:12:46.540 --> 00:12:48.520
+Jezu, jestem dzisiaj naprawdę nieogarnięty.
+
+00:12:48.540 --> 00:12:51.520
+Słowa mi się gubią strasznie, przepraszam państwa.
+
+00:12:51.540 --> 00:12:53.520
+Że jest to jakiś tam...
+
+00:12:53.540 --> 00:12:56.520
+Teraz zajmie się projektem takim osobistym, personalnym.
+
+00:12:56.540 --> 00:13:01.520
+Stawiam, że to są te rzeczy związane z buddyzmem
+
+00:13:01.540 --> 00:13:06.520
+i najprawdopodobniej będzie szefem rady nadzorczej,
+
+00:13:06.520 --> 00:13:09.500
+czyli nie będzie miał żadnego wpływu na...
+
+00:13:09.520 --> 00:13:11.500
+Zastanawiam się, czy to już jest kwestia tego,
+
+00:13:11.520 --> 00:13:14.500
+że jest zmęczony tym wszystkim.
+
+00:13:14.520 --> 00:13:17.500
+Są takie memy z Marcinem,
+
+00:13:17.520 --> 00:13:22.500
+jak wyglądał przy produkcji każdej poszczególnej gry.
+
+00:13:22.520 --> 00:13:24.500
+Ja nie zgadzam się.
+
+00:13:24.520 --> 00:13:27.500
+On coraz lepiej wygląda, wbrew pozorom.
+
+00:13:27.520 --> 00:13:28.500
+To zależy, kto co lubi.
+
+00:13:28.520 --> 00:13:30.500
+Jak lubisz Emerytów, to pewnie.
+
+00:13:30.500 --> 00:13:36.480
+Ale stres na pewno jest ogromny.
+
+00:13:36.500 --> 00:13:38.480
+Po drugie, jest bardzo bogatym człowiekiem,
+
+00:13:38.500 --> 00:13:44.480
+więc tyle lat pracował, może już sobie przejść na emeryturę.
+
+00:13:44.500 --> 00:13:48.480
+CD Projekt też ma przeznaczyć 100 milionów złotych
+
+00:13:48.500 --> 00:13:50.480
+na skup własnych akcji.
+
+00:13:50.500 --> 00:13:54.480
+Skup będzie trwał od 5 października do 28 października.
+
+00:13:54.480 --> 00:14:01.460
+No i tak naprawdę możemy sobie przejść do tego, co Redzi zapowiedzieli.
+
+00:14:01.480 --> 00:14:02.460
+A zapowiedzieli...
+
+00:14:02.480 --> 00:14:04.460
+Poczekaj, bo dam ci odpocząć trochę.
+
+00:14:04.480 --> 00:14:05.460
+7 nowych gier.
+
+00:14:05.480 --> 00:14:07.460
+Tak, zapowiedzieli dużo.
+
+00:14:07.480 --> 00:14:09.460
+Myślę, że mniej zapowiedzieli niż...
+
+00:14:09.480 --> 00:14:10.460
+Mniej?
+
+00:14:10.480 --> 00:14:13.460
+Może jeszcze coś, na co ja nie zwróciłem uwagi.
+
+00:14:13.480 --> 00:14:17.460
+Odejście Marcina Iwińskiego mogło mieć pewnie wpływ na giełdę.
+
+00:14:17.480 --> 00:14:20.460
+Nie wiem dokładnie, jak wygląda sytuacja giełdy po...
+
+00:14:20.480 --> 00:14:22.460
+A ja wiem. Rośnie.
+
+00:14:22.480 --> 00:14:23.460
+Rośnie.
+
+00:14:23.460 --> 00:14:27.440
+Na plusie CD Projekt, a cała giełda na minusie raczej.
+
+00:14:27.460 --> 00:14:28.440
+Okej, okej.
+
+00:14:28.460 --> 00:14:31.440
+No to tak podejrzewałem, że po tej rozmowie z inwestorami
+
+00:14:31.460 --> 00:14:34.440
+będzie raczej wzrost, ale po odejściu Marcina Iwińskiego
+
+00:14:34.460 --> 00:14:36.440
+zastanawiałem się, czy to nie wpłynie negatywnie.
+
+00:14:36.460 --> 00:14:38.440
+Ale jeżeli wpływa pozytywnie, to okej.
+
+00:14:38.460 --> 00:14:43.440
+Ale przypomnę jeszcze, nie po to powiedziałem, skupują akcje.
+
+00:14:43.460 --> 00:14:46.440
+Jak kupują akcje, to rośnie.
+
+00:14:46.460 --> 00:14:50.440
+Oni też jakby napędzają tym swoim skupem cenę akcji.
+
+00:14:50.440 --> 00:14:54.420
+Obecnie zamknięta giełda jest.
+
+00:14:54.440 --> 00:14:58.420
+Teraz my to nagrywamy w środę o 18.
+
+00:14:58.440 --> 00:15:01.420
+110 złotych, jest 3,5%.
+
+00:15:01.440 --> 00:15:03.420
+3% jest w górę.
+
+00:15:03.440 --> 00:15:07.420
+Czyli kibicujemy, bo to nikomu nie szkodzi, jeżeli coś rośnie.
+
+00:15:07.440 --> 00:15:08.420
+Więc jest na plusie.
+
+00:15:08.440 --> 00:15:11.420
+Chyba, że chwasty, wtedy nie za bardzo.
+
+00:15:11.440 --> 00:15:13.420
+Ale wracając do Marcina Iwińskiego,
+
+00:15:13.440 --> 00:15:16.420
+niezależnie od tego, być może faktycznie coraz lepiej wygląda,
+
+00:15:16.420 --> 00:15:20.400
+dyskusje na temat wyglądu zupełnie są bez znaczenia żadnego.
+
+00:15:20.420 --> 00:15:22.400
+Natomiast na pewno mu się należy trochę odpoczynku.
+
+00:15:22.420 --> 00:15:25.400
+Jeżeli to z własnej nieprzymuszonej woli robi,
+
+00:15:25.420 --> 00:15:27.400
+to to sobie odsapnie trochę,
+
+00:15:27.420 --> 00:15:29.400
+bo to niewątpliwie były stresujące projekty,
+
+00:15:29.420 --> 00:15:32.400
+zwłaszcza Cyberpunk, zwłaszcza po premierze.
+
+00:15:32.420 --> 00:15:35.400
+I niezależnie od tego, ile jego osobistego udziału było
+
+00:15:35.420 --> 00:15:38.400
+w tych błędach i niedopatrzeniach,
+
+00:15:38.420 --> 00:15:41.400
+no to na pewno gdzieś tam jest to dosyć bolesne doświadczenie.
+
+00:15:41.420 --> 00:15:43.400
+I pewnie będzie to bolesne wspomnienie.
+
+00:15:43.420 --> 00:15:45.400
+Więc nie dziwię się.
+
+00:15:45.400 --> 00:15:47.380
+To każdy by chciał trochę odpocząć.
+
+00:15:47.400 --> 00:15:50.380
+A jak zresztą sam powiedziałeś, ma najwięcej akcji,
+
+00:15:50.400 --> 00:15:53.380
+więc ma za co odpoczywać i sobie zasłużył absolutnie.
+
+00:15:53.400 --> 00:15:56.380
+I ja mówię to, boję się, że to brzmi jak jakaś złośliwość,
+
+00:15:56.400 --> 00:15:59.380
+ale nie, bo niezależnie od wszystkiego
+
+00:15:59.400 --> 00:16:03.380
+to nadal Redzi dostarczyli moje dwie ulubione gry
+
+00:16:03.400 --> 00:16:06.380
+i za to jestem wdzięczny bardzo.
+
+00:16:06.400 --> 00:16:08.380
+I Marcin Iwiński za tym stał.
+
+00:16:08.400 --> 00:16:10.380
+Ja się zastanawiam też,
+
+00:16:10.400 --> 00:16:14.380
+czy czasem on nie był pewnego rodzaju ofiarą dla akcjonariuszy,
+
+00:16:14.380 --> 00:16:18.360
+żeby nie robili żadnego przewrotu.
+
+00:16:18.380 --> 00:16:22.360
+Aha, żeby tak rzucony na pożarcie?
+
+00:16:22.380 --> 00:16:24.360
+Hienom i sępom?
+
+00:16:24.380 --> 00:16:28.360
+Nie mam pojęcia jakie są te wewnętrzne ustalenia,
+
+00:16:28.380 --> 00:16:31.360
+ale mówiło się o tym,
+
+00:16:31.380 --> 00:16:33.360
+że akcjonariusze są bardzo niezadowoleni.
+
+00:16:33.380 --> 00:16:36.360
+Powiedzmy sobie szczerze, przed premierą Cyberpunka
+
+00:16:36.380 --> 00:16:39.360
+cena akcji tam 400 ileś,
+
+00:16:39.380 --> 00:16:43.360
+teraz szurowała tam nawet było 80 czy nawet niżej.
+
+00:16:43.360 --> 00:16:46.340
+Więc akcjonariusze nie są zadowoleni z takiego obiegu.
+
+00:16:46.360 --> 00:16:48.340
+Nam się może podobać serial,
+
+00:16:48.360 --> 00:16:50.340
+mogą nam się podobać obietnice,
+
+00:16:50.360 --> 00:16:55.340
+ale cena akcji jest tutaj bardzo ważna.
+
+00:16:55.360 --> 00:16:57.340
+Tak, dla akcjonariuszy na pewno.
+
+00:16:57.360 --> 00:17:00.340
+Zupełnie inną mają perspektywę niż ja, na pewno.
+
+00:17:00.360 --> 00:17:03.340
+Chociaż też nie ma co żyć w urojeniach.
+
+00:17:03.360 --> 00:17:06.340
+Cena 400 zł była napompowana do przesady
+
+00:17:06.360 --> 00:17:08.340
+i chyba wszyscy w zasadzie,
+
+00:17:08.360 --> 00:17:10.340
+kiedy pamiętam jak była ta cena,
+
+00:17:10.360 --> 00:17:12.340
+to wszyscy mówili o tym, że to nie ma szansy.
+
+00:17:12.340 --> 00:17:14.320
+Skąd to się bierze? Jakim cudem? Dlaczego?
+
+00:17:14.340 --> 00:17:16.320
+Możesz nie śmiać się już ze Stanowskiego.
+
+00:17:16.340 --> 00:17:19.320
+Naprawdę Remigiusz, ta twoja szydera.
+
+00:17:19.340 --> 00:17:24.320
+Nieprawda, to jest pomówienie.
+
+00:17:24.340 --> 00:17:27.320
+Ja się nie zgadzam i ja nikogo nie obrażam.
+
+00:17:27.340 --> 00:17:30.320
+Ludzie popełniają różne błędy, to prawda.
+
+00:17:30.340 --> 00:17:33.320
+Ale to zamykamy ten temat Marcina Iwińskiego.
+
+00:17:33.340 --> 00:17:36.320
+Ja dałem ci odetchnąć trochę i zamieniam się w słuch.
+
+00:17:36.340 --> 00:17:39.320
+Dobrze, proszę państwa, Redzi zaprezentowali 7 gier.
+
+00:17:39.340 --> 00:17:41.320
+W ogóle co to jest za nowy zwyczaj,
+
+00:17:41.320 --> 00:17:43.300
+który chyba wyszedł od Ubisoftu?
+
+00:17:43.320 --> 00:17:45.300
+Zwyczaj prezentowania.
+
+00:17:45.320 --> 00:17:48.300
+Może nie od Ubisoftu, teraz, ostatnio.
+
+00:17:48.320 --> 00:17:52.300
+Ja mam takie bardzo zbieżne.
+
+00:17:52.320 --> 00:17:55.300
+Mogę to porównać, to co zaprezentował Ubisoft.
+
+00:17:55.320 --> 00:17:57.300
+Takie dalekosiężne plany,
+
+00:17:57.320 --> 00:18:01.300
+mówienie o tytułach po kryptonimach.
+
+00:18:01.320 --> 00:18:03.300
+Ja nie wiem, czy inwestorzy to lubią.
+
+00:18:03.320 --> 00:18:05.300
+Ubisoft raczej na giełdzie stracił
+
+00:18:05.320 --> 00:18:09.300
+po tej prezentacji i cały czas straci.
+
+00:18:09.300 --> 00:18:12.280
+Wydaje mi się, jak tak zastanawiam się,
+
+00:18:12.300 --> 00:18:17.280
+dlaczego pokazali takie plany dalekosiężne,
+
+00:18:17.300 --> 00:18:19.280
+to oczywiście giełda,
+
+00:18:19.300 --> 00:18:23.280
+to jest jakby coś muszą tam im sprzedać.
+
+00:18:23.300 --> 00:18:25.280
+Drugi powód to jest taki,
+
+00:18:25.300 --> 00:18:27.280
+że może to jest prosty sposób,
+
+00:18:27.300 --> 00:18:29.280
+żeby zapobiegać leakom.
+
+00:18:29.300 --> 00:18:32.280
+Ok, oni pracują nad tym, to już wiemy.
+
+00:18:32.300 --> 00:18:38.280
+I to nie nakręca zainteresowania.
+
+00:18:38.280 --> 00:18:42.260
+Ale z drugiej strony CD-ROM robił tak od bardzo dawna.
+
+00:18:42.280 --> 00:18:44.260
+Tylko o tym nie mówił,
+
+00:18:44.280 --> 00:18:46.260
+znaczy raz mówił,
+
+00:18:46.280 --> 00:18:49.260
+bo to też będziemy o tym sobie mówić,
+
+00:18:49.280 --> 00:18:55.260
+że w 2012 czy 2013 Marcin Kosman wrzucił takiego tweeta,
+
+00:18:55.280 --> 00:18:59.260
+gdzie jest informacja o tym,
+
+00:18:59.280 --> 00:19:07.260
+że Redzi zapowiedzieli grę AAA na 2014
+
+00:19:07.260 --> 00:19:14.240
+i z 2013 AA to był 2011 czy 2012 rok.
+
+00:19:14.260 --> 00:19:17.240
+Więc te obietnice już robili.
+
+00:19:17.260 --> 00:19:19.240
+Nie dotrzymywali ich oczywiście,
+
+00:19:19.260 --> 00:19:22.240
+więc też to, o czym będziemy tutaj mówić,
+
+00:19:22.260 --> 00:19:27.240
+będziemy brali w nawiazek.
+
+00:19:27.260 --> 00:19:30.240
+Nie chciałem ci przerwać, nie śmiałem w ogóle.
+
+00:19:30.260 --> 00:19:34.240
+Tak zrobiłem, to było od krząknięcia.
+
+00:19:34.240 --> 00:19:39.220
+I jak kończył się Wiedźmin pierwszy,
+
+00:19:39.240 --> 00:19:43.220
+to już był zaklepany drugi i trzeci treatment.
+
+00:19:43.240 --> 00:19:47.220
+Już zarząd zaklepał te gry,
+
+00:19:47.240 --> 00:19:49.220
+więc oni też wiedzieli, co będzie.
+
+00:19:49.240 --> 00:19:51.220
+Oczywiście ten treatment z trójki,
+
+00:19:51.240 --> 00:19:54.220
+który był zaklepany przed premierą jedynki,
+
+00:19:54.240 --> 00:19:55.220
+nigdy nie powstał.
+
+00:19:55.240 --> 00:19:57.220
+Powstała zupełnie inna gra.
+
+00:19:57.240 --> 00:19:59.220
+Więc też jakby...
+
+00:19:59.240 --> 00:20:01.220
+Ale żebym dobrze zrozumiał,
+
+00:20:01.240 --> 00:20:03.220
+to mi przeszkadza trochę to,
+
+00:20:03.220 --> 00:20:05.200
+że grają gry posługując się nazwami kodowymi.
+
+00:20:05.220 --> 00:20:06.200
+Nie, nie, nie.
+
+00:20:06.220 --> 00:20:08.200
+Ja mówię o tym, że oni zawsze tak robili
+
+00:20:08.220 --> 00:20:09.200
+i to jest jakaś taka...
+
+00:20:09.220 --> 00:20:11.200
+Tylko teraz mówią o tym otwarcie.
+
+00:20:11.220 --> 00:20:13.200
+Mówią o swoich dalekosiężnych planach.
+
+00:20:13.220 --> 00:20:14.200
+Czy mi to przeszkadza?
+
+00:20:14.220 --> 00:20:16.200
+Nie, ale to takie dziwne jest trochę.
+
+00:20:16.220 --> 00:20:17.200
+Nie bardzo rozumiem.
+
+00:20:17.220 --> 00:20:22.200
+Znaczy rozumiem, że tytuł gry jest bardzo ważny
+
+00:20:22.220 --> 00:20:25.200
+i wymyślanie tytułu do gry
+
+00:20:25.220 --> 00:20:27.200
+10 lat przed jej premierą,
+
+00:20:27.220 --> 00:20:30.200
+bo mówimy tutaj o takiej skali,
+
+00:20:30.220 --> 00:20:32.200
+no nie jest rozsądne.
+
+00:20:32.200 --> 00:20:34.180
+Tak, tak. No i dlatego chyba posługują się
+
+00:20:34.200 --> 00:20:35.180
+tymi nazwami kodowymi.
+
+00:20:35.200 --> 00:20:36.180
+A tym bardziej, że one w zasadzie
+
+00:20:36.200 --> 00:20:37.180
+nie dotyczą pojedynczych tytułów,
+
+00:20:37.200 --> 00:20:39.180
+tylko wręcz serii całych.
+
+00:20:39.200 --> 00:20:41.180
+Więc tym bardziej trudno to...
+
+00:20:41.200 --> 00:20:42.180
+Ale zidentyfikowali.
+
+00:20:42.200 --> 00:20:44.180
+To nie była jakaś wielka rzecz
+
+00:20:44.200 --> 00:20:46.180
+do odkrycia co stoi za jaką nazwą.
+
+00:20:46.200 --> 00:20:48.180
+Nie. Kto zidentyfikował?
+
+00:20:48.200 --> 00:20:49.180
+Znaczy w jakim sensie?
+
+00:20:49.200 --> 00:20:50.180
+Nie rozumiem.
+
+00:20:50.200 --> 00:20:52.180
+W sensie każda nazwa kodowa
+
+00:20:52.200 --> 00:20:53.180
+kryje się za nią projekt
+
+00:20:53.200 --> 00:20:54.180
+i wiemy jaki to jest projekt.
+
+00:20:54.200 --> 00:20:55.180
+Tak, tak.
+
+00:20:55.200 --> 00:20:56.180
+Bo ją opisali w dokumentach,
+
+00:20:56.200 --> 00:20:58.180
+więc jak najbardziej.
+
+00:20:58.200 --> 00:21:00.180
+I tak.
+
+00:21:00.200 --> 00:21:01.180
+Możemy w sumie się cieszyć,
+
+00:21:01.180 --> 00:21:03.160
+że mimo, że to była taka prezentacja
+
+00:21:03.180 --> 00:21:04.160
+dla inwestorów,
+
+00:21:04.180 --> 00:21:07.160
+nie było praktycznie ani słowa
+
+00:21:07.180 --> 00:21:09.160
+o mobilkach.
+
+00:21:09.180 --> 00:21:10.160
+Nie było też ani słowa
+
+00:21:10.180 --> 00:21:13.160
+o nowych remasterach.
+
+00:21:13.180 --> 00:21:14.160
+Ani o Gwincie,
+
+00:21:14.180 --> 00:21:16.160
+który pewnie będzie miał swoją konferencję
+
+00:21:16.180 --> 00:21:19.160
+w grudniu.
+
+00:21:19.180 --> 00:21:21.160
+Pojawiły się tam też takie ciekawe...
+
+00:21:21.180 --> 00:21:22.160
+Bo do gier sobie zaraz przejdziemy.
+
+00:21:22.180 --> 00:21:25.160
+Pojawiły się tam też takie ciekawe wątki,
+
+00:21:25.180 --> 00:21:27.160
+na przykład jak wprowadzenie zasady
+
+00:21:27.180 --> 00:21:28.160
+zawsze działającej gry.
+
+00:21:28.180 --> 00:21:30.160
+Czyli już od początku
+
+00:21:30.160 --> 00:21:35.140
+ta gra musi działać.
+
+00:21:35.160 --> 00:21:37.140
+W niej trzeba testować
+
+00:21:37.160 --> 00:21:38.140
+i ona musi działać
+
+00:21:38.160 --> 00:21:41.140
+na wszystkich platformach,
+
+00:21:41.160 --> 00:21:43.140
+na którą kierujemy tę grę.
+
+00:21:43.160 --> 00:21:44.140
+Nie wiedziałem,
+
+00:21:44.160 --> 00:21:45.140
+że to jest jakaś nowa zasada,
+
+00:21:45.160 --> 00:21:46.140
+którą trzeba wprowadzić,
+
+00:21:46.160 --> 00:21:49.140
+bo do tej pory nie było jej.
+
+00:21:49.160 --> 00:21:50.140
+Ja myślałem w ogóle,
+
+00:21:50.160 --> 00:21:51.140
+jak przeczytałem tą nazwę kodową,
+
+00:21:51.160 --> 00:21:53.140
+pozwolę sobie jeszcze raz ci przerwać,
+
+00:21:53.160 --> 00:21:54.140
+to byłem przekonany,
+
+00:21:54.160 --> 00:21:55.140
+że tu chodzi o to,
+
+00:21:55.160 --> 00:21:56.140
+że nie ważne czy jesteś online,
+
+00:21:56.160 --> 00:21:57.140
+czy jesteś offline,
+
+00:21:57.160 --> 00:21:58.140
+albo cokolwiek.
+
+00:21:58.160 --> 00:21:59.140
+A tu się okazuje,
+
+00:21:59.140 --> 00:22:01.120
+że po prostu jest przyjęcie założenia,
+
+00:22:01.140 --> 00:22:02.120
+że jak sprzedajemy produkt,
+
+00:22:02.140 --> 00:22:03.120
+to on jest sprawny, tak?
+
+00:22:03.140 --> 00:22:06.120
+Tak, dokładnie.
+
+00:22:06.140 --> 00:22:10.120
+Takie czasy mamy.
+
+00:22:10.140 --> 00:22:12.120
+Powiedzieli, że już zaczęli
+
+00:22:12.140 --> 00:22:16.120
+robić dwie gry na raz.
+
+00:22:16.140 --> 00:22:18.120
+Już się zaczęła produkcja
+
+00:22:18.140 --> 00:22:20.120
+dwóch gier na raz.
+
+00:22:20.140 --> 00:22:22.120
+Rozumiem, że pierwszy to jest ten
+
+00:22:22.140 --> 00:22:25.120
+z nowej trylogii Wiedźmina.
+
+00:22:25.120 --> 00:22:29.100
+Nie wiemy, jaka będzie druga,
+
+00:22:29.120 --> 00:22:30.100
+a w przyszłości jeszcze chcą
+
+00:22:30.120 --> 00:22:32.100
+więcej gier na raz robić,
+
+00:22:32.120 --> 00:22:35.100
+czyli co najmniej trzy.
+
+00:22:35.120 --> 00:22:37.100
+Pojawiło się to koło zamachowe,
+
+00:22:37.120 --> 00:22:39.100
+czyli to, z czego wychodzą
+
+00:22:39.120 --> 00:22:41.100
+i co dalej się dzieje z marką,
+
+00:22:41.120 --> 00:22:43.100
+czyli wychodzimy od gier wideo,
+
+00:22:43.120 --> 00:22:47.100
+potem są seriale telewizyjne i filmy,
+
+00:22:47.120 --> 00:22:49.100
+gry mobilne, książki i komiksy,
+
+00:22:49.120 --> 00:22:52.100
+współpraca i merch.
+
+00:22:52.100 --> 00:22:55.080
+Pierwszy raz ta współpraca to jest,
+
+00:22:55.100 --> 00:22:59.080
+że udzielają licencji
+
+00:22:59.100 --> 00:23:01.080
+dla jakiegoś studia zewnętrznego.
+
+00:23:01.100 --> 00:23:03.080
+To jest w ogóle bardzo ciekawy wątek,
+
+00:23:03.100 --> 00:23:05.080
+będziemy o tym mówić.
+
+00:23:05.100 --> 00:23:07.080
+Zostało potwierdzone też to,
+
+00:23:07.100 --> 00:23:09.080
+że Cyberpunk otrzyma jedno duże
+
+00:23:09.100 --> 00:23:12.080
+rozszerzenie w czacie dla inwestorów.
+
+00:23:12.100 --> 00:23:15.080
+Nielubowicz o tym powiedział.
+
+00:23:15.100 --> 00:23:17.080
+Zostało to, wydaje mi się,
+
+00:23:17.100 --> 00:23:19.080
+że też mocno zakomunikowane,
+
+00:23:19.100 --> 00:23:21.080
+że w przyszłym roku dostaniemy
+
+00:23:21.080 --> 00:23:23.060
+jedną rzecz dużą od CDP-u,
+
+00:23:23.080 --> 00:23:25.060
+czyli rozszerzenie do Cyberpunka.
+
+00:23:25.080 --> 00:23:27.060
+Też to powiedział Nielubowicz
+
+00:23:27.080 --> 00:23:29.060
+na tym czacie.
+
+00:23:29.080 --> 00:23:32.060
+Myślę, że możemy sobie przejść do...
+
+00:23:32.080 --> 00:23:34.060
+Jeszcze zatrzymam się na chwilę.
+
+00:23:34.080 --> 00:23:35.060
+Pewnie będziesz chciał o tym
+
+00:23:35.080 --> 00:23:36.060
+dokładniej porozmawiać.
+
+00:23:36.080 --> 00:23:38.060
+Jeżeli tak, to mnie powstrzymaj.
+
+00:23:38.080 --> 00:23:40.060
+Chodzi mi o zewnętrzne studia,
+
+00:23:40.080 --> 00:23:42.060
+które pracują nad markami.
+
+00:23:42.080 --> 00:23:44.060
+To jest podobny zamysł,
+
+00:23:44.080 --> 00:23:47.060
+jaki miał Marajot odnośnie Ligi Legend,
+
+00:23:47.080 --> 00:23:49.060
+że są mniejsze studia, które robią
+
+00:23:49.060 --> 00:23:51.040
+jakieś indyki, grypa wychodziły.
+
+00:23:51.060 --> 00:23:53.040
+To nie było robione przez Marajot,
+
+00:23:53.060 --> 00:23:55.040
+tylko trochę pod nadzorem Marajotu.
+
+00:23:55.060 --> 00:23:57.040
+Chodzi o takie projekty?
+
+00:23:57.060 --> 00:24:00.040
+Nie wiem dokładnie, jak robi Marajot.
+
+00:24:00.060 --> 00:24:02.040
+To licencje oddają.
+
+00:24:02.060 --> 00:24:04.040
+Dają licencje na produkcję.
+
+00:24:04.060 --> 00:24:06.040
+Zaraz sobie o tym
+
+00:24:06.060 --> 00:24:09.040
+przy tej pierwszej grze powiemy.
+
+00:24:09.060 --> 00:24:12.040
+Jest ten wątek z nazwami kodowymi,
+
+00:24:12.060 --> 00:24:15.040
+które odnoszą się do gwiazd
+
+00:24:15.060 --> 00:24:17.040
+czy gwiazdozbiorców.
+
+00:24:17.040 --> 00:24:20.020
+Kiciński powiedział,
+
+00:24:20.040 --> 00:24:22.020
+że oni zaczynali od zera
+
+00:24:22.040 --> 00:24:24.020
+i chcieli sięgnąć gwiazd.
+
+00:24:24.040 --> 00:24:27.020
+Rozumiem, że to jest taka analogia.
+
+00:24:27.040 --> 00:24:30.020
+Bardzo dużo osób szuka tej analogii
+
+00:24:30.040 --> 00:24:33.020
+w tym, o czym będą te gry.
+
+00:24:33.040 --> 00:24:36.020
+Nie wiem, czy to jest dobry trop.
+
+00:24:36.040 --> 00:24:38.020
+Może tam jest coś zaszyte.
+
+00:24:38.040 --> 00:24:41.020
+Ja się na tym nie znam za bardzo,
+
+00:24:41.040 --> 00:24:43.020
+ale to sobie omówimy,
+
+00:24:43.040 --> 00:24:45.020
+bo pierwszym projektem
+
+00:24:45.020 --> 00:24:48.000
+o którym będziemy rozmawiać
+
+00:24:48.020 --> 00:24:50.000
+to jest projekt Sirius.
+
+00:24:50.020 --> 00:24:53.000
+To jest gra tworzona przez Molasses Flott
+
+00:24:53.020 --> 00:24:56.000
+osadzona w uniwersum wiedźmińskim
+
+00:24:56.020 --> 00:24:59.000
+i powstająca we współpracy z CD Projekt Red.
+
+00:24:59.020 --> 00:25:02.000
+W porównaniu z dotychczasowymi grami CD Projekt Red
+
+00:25:02.020 --> 00:25:04.000
+gra skierowana jest
+
+00:25:04.020 --> 00:25:06.000
+do znacznie szerszej grupy odbiorców.
+
+00:25:06.020 --> 00:25:08.000
+Sirius zaoferuje graczom
+
+00:25:08.020 --> 00:25:10.000
+rozrywkę jednoosobową
+
+00:25:10.020 --> 00:25:12.000
+oraz w trybie multiplayer.
+
+00:25:12.020 --> 00:25:14.000
+Ja tylko przypomnę,
+
+00:25:14.000 --> 00:25:16.980
+że studio ma obecnie 16 osób.
+
+00:25:17.000 --> 00:25:19.980
+To nie jest duże studio,
+
+00:25:20.000 --> 00:25:22.980
+ale rośnie, więc zobaczymy.
+
+00:25:23.000 --> 00:25:25.980
+To nie będzie mała gra,
+
+00:25:26.000 --> 00:25:28.980
+z którymi Molasses Flott jest kojarzone,
+
+00:25:29.000 --> 00:25:31.980
+ale będzie zdecydowanie inna
+
+00:25:32.000 --> 00:25:34.980
+niż gry do tej pory robione przez Redów.
+
+00:25:35.000 --> 00:25:37.980
+Przypomnę, jest to uniwersum Wiedźmina.
+
+00:25:38.000 --> 00:25:39.980
+To jest ciekawe,
+
+00:25:40.000 --> 00:25:42.980
+bo to jest projekt, który brzmi bardzo ambitnie.
+
+00:25:42.980 --> 00:25:44.960
+Natomiast niezależnie od tego,
+
+00:25:44.980 --> 00:25:46.960
+jak dobre jest te 16 osób,
+
+00:25:46.980 --> 00:25:48.960
+zakładam, że są wyśmienite w swoim fachu,
+
+00:25:48.980 --> 00:25:50.960
+to i tak trudno dostarczyć
+
+00:25:50.980 --> 00:25:52.960
+wielki projekt, który w założeniach
+
+00:25:52.980 --> 00:25:54.960
+ma być multiplayerowy.
+
+00:25:54.980 --> 00:25:56.960
+W sensie wielki, nie nazwajmy go wielkim,
+
+00:25:56.980 --> 00:25:58.960
+ale powiedzmy duży, nawet AA
+
+00:25:58.980 --> 00:26:00.960
+to nie byłoby takie proste.
+
+00:26:00.980 --> 00:26:03.960
+Tryb multiplayer to też jest na przykład co-op.
+
+00:26:03.980 --> 00:26:05.960
+Ok, niezależnie od wszystkiego.
+
+00:26:05.980 --> 00:26:08.960
+Jeżeli gra ma być duża, rozbudowana
+
+00:26:08.980 --> 00:26:11.960
+i dopuszczać jeszcze jakiś tryb sieciowy,
+
+00:26:11.960 --> 00:26:14.940
+to powiedziałbym, że to jest niezwykle ambitne zadanie
+
+00:26:14.960 --> 00:26:16.940
+dla 16-osobowego zespołu.
+
+00:26:16.960 --> 00:26:18.940
+Ale oni powiedzieli, że to jest na razie
+
+00:26:18.960 --> 00:26:20.940
+na etapie preprodukcji.
+
+00:26:20.960 --> 00:26:22.940
+Tak jak większość tych rzeczy.
+
+00:26:22.960 --> 00:26:24.940
+Studio będzie rozwijane
+
+00:26:24.960 --> 00:26:26.940
+i będzie robione oczywiście
+
+00:26:26.960 --> 00:26:28.940
+na Unreal Engine 5,
+
+00:26:28.960 --> 00:26:30.940
+więc ok, te technologiczne rzeczy
+
+00:26:30.960 --> 00:26:33.940
+w tym zamyśle, w planie odchodzą.
+
+00:26:33.960 --> 00:26:36.940
+Wiele rzeczy można zrobić outsourcem
+
+00:26:36.960 --> 00:26:38.940
+i oni tam by musieli
+
+00:26:38.960 --> 00:26:40.940
+jeszcze z 50 osób zatrudnić.
+
+00:26:40.940 --> 00:26:43.920
+Wdrażanie tych ludzi,
+
+00:26:43.940 --> 00:26:45.920
+robienie tego.
+
+00:26:45.940 --> 00:26:47.920
+No to tak 4 lata pewnie
+
+00:26:47.940 --> 00:26:49.920
+będziemy czekać sobie na tą grę.
+
+00:26:49.940 --> 00:26:51.920
+Ale jak myślisz,
+
+00:26:51.940 --> 00:26:54.920
+jaka gra w uniwersum Wiedźmina,
+
+00:26:54.940 --> 00:26:57.920
+jaki to może być rodzaj gry,
+
+00:26:57.940 --> 00:27:01.920
+która jest dla szerszej grupy odbiorców?
+
+00:27:01.940 --> 00:27:03.920
+Ja widzę tam dwie opcje.
+
+00:27:03.940 --> 00:27:05.920
+Jedną pozytywną, drugą negatywną.
+
+00:27:05.940 --> 00:27:07.920
+Pierwsza pozytywna to mamy do czynienia
+
+00:27:07.940 --> 00:27:09.920
+z jakąś przygodą, którą można przechodzić
+
+00:27:09.920 --> 00:27:12.900
+single playerowo, jakiś action adventure
+
+00:27:12.920 --> 00:27:14.900
+z możliwością współpracy
+
+00:27:14.920 --> 00:27:16.900
+w ramach jakiejś kooperacji.
+
+00:27:16.920 --> 00:27:18.900
+I to, że jest to gra skupiona na przygodzie.
+
+00:27:18.920 --> 00:27:20.900
+Druga, gorsza opcja,
+
+00:27:20.920 --> 00:27:22.900
+która mi do końca nie pasuje,
+
+00:27:22.920 --> 00:27:24.900
+ale też może się udać,
+
+00:27:24.920 --> 00:27:26.900
+to jest coś w rodzaju tych gier
+
+00:27:26.920 --> 00:27:28.900
+Warhammer Vermintide,
+
+00:27:28.920 --> 00:27:30.900
+czy teraz taki shooter wychodzi
+
+00:27:30.920 --> 00:27:32.900
+też w świecie Warhammera, ale 40 tysięcy,
+
+00:27:32.920 --> 00:27:34.900
+że mamy do czynienia z czwórką znajomków,
+
+00:27:34.920 --> 00:27:36.900
+którzy walczą z przeciwnościami
+
+00:27:36.920 --> 00:27:38.900
+na jakimś tam niewielkim obszarze.
+
+00:27:38.900 --> 00:27:40.880
+Więc z tego typu gra
+
+00:27:40.900 --> 00:27:42.880
+to także może być.
+
+00:27:42.900 --> 00:27:44.880
+Która z tych opcji do nas trafi?
+
+00:27:44.900 --> 00:27:46.880
+Trudno powiedzieć.
+
+00:27:46.900 --> 00:27:48.880
+Pierwszą bym wolał, drugą możemy dostać.
+
+00:27:48.900 --> 00:27:50.880
+Też się nic złego nie stanie,
+
+00:27:50.900 --> 00:27:52.880
+zależnie od tego, jak będzie zrobiona.
+
+00:27:52.900 --> 00:27:54.880
+Więc spekulowałbym w tych granicach,
+
+00:27:54.900 --> 00:27:56.880
+ale to może być też oczywiście
+
+00:27:56.900 --> 00:27:58.880
+coś zupełnie innego.
+
+00:27:58.900 --> 00:28:00.880
+Ja stawiam, że to jest studio
+
+00:28:00.900 --> 00:28:02.880
+założone przez weteranów z Bioshocka,
+
+00:28:02.900 --> 00:28:04.880
+którzy robili Bioshocka,
+
+00:28:04.900 --> 00:28:06.880
+no to stawiam właśnie
+
+00:28:06.880 --> 00:28:09.860
+jako jakiś action-adventure w świecie Wiedźmina.
+
+00:28:09.880 --> 00:28:11.860
+Myślę, że to jest dobry świat
+
+00:28:11.880 --> 00:28:13.860
+do tego, żeby opowiedzieć
+
+00:28:13.880 --> 00:28:15.860
+taką filmową historię
+
+00:28:15.880 --> 00:28:17.860
+i nie bawić się
+
+00:28:17.880 --> 00:28:19.860
+w te elementy RPG,
+
+00:28:19.880 --> 00:28:21.860
+żeby skupić się
+
+00:28:21.880 --> 00:28:23.860
+na ciekawej akcji
+
+00:28:23.880 --> 00:28:25.860
+i na ciekawej historii,
+
+00:28:25.880 --> 00:28:27.860
+to RPG sobie trochę zostawić.
+
+00:28:27.880 --> 00:28:29.860
+No bo dla szerszej grupy odbiorców
+
+00:28:29.880 --> 00:28:31.860
+to mi się tak...
+
+00:28:31.880 --> 00:28:33.860
+Oczywiście możemy mówić,
+
+00:28:33.880 --> 00:28:35.860
+że to jakieś MMO...
+
+00:28:35.860 --> 00:28:37.840
+Chociaż MMO oczywiście zatacza
+
+00:28:37.860 --> 00:28:39.840
+dosyć szerokie kręgi ostatnio.
+
+00:28:39.860 --> 00:28:41.840
+Dużo osób się interesuje nowymi tytułami.
+
+00:28:41.860 --> 00:28:43.840
+Ale dla szerszej grupy odbiorców
+
+00:28:43.860 --> 00:28:45.840
+to też mi tak brzmi trochę,
+
+00:28:45.860 --> 00:28:47.840
+bo jak wiesz, gra jest dla wszystkich,
+
+00:28:47.860 --> 00:28:49.840
+to tak naprawdę jest dla nikogo.
+
+00:28:49.860 --> 00:28:51.840
+No właśnie ja nie wiem,
+
+00:28:51.860 --> 00:28:53.840
+co oni dokładnie przez to mieli na myśli.
+
+00:28:53.860 --> 00:28:55.840
+Na pewno action-adventure
+
+00:28:55.860 --> 00:28:57.840
+to są przystępniejsze gry niż RPG.
+
+00:28:57.860 --> 00:28:59.840
+Tak, są przystępniejsze.
+
+00:28:59.860 --> 00:29:01.840
+Tak, zdecydowanie.
+
+00:29:01.860 --> 00:29:03.840
+Więc może to...
+
+00:29:03.840 --> 00:29:05.820
+Jak sobie to wyobrażacie?
+
+00:29:05.840 --> 00:29:07.820
+Co według was znaczy
+
+00:29:07.840 --> 00:29:09.820
+to...
+
+00:29:09.840 --> 00:29:11.820
+Jakby dostępniejsze?
+
+00:29:11.840 --> 00:29:13.820
+Nie wiem.
+
+00:29:13.840 --> 00:29:15.820
+Ja nie wiem.
+
+00:29:15.840 --> 00:29:17.820
+Szersze grono odbiorców.
+
+00:29:17.840 --> 00:29:19.820
+Może też dla babci będzie.
+
+00:29:19.840 --> 00:29:21.820
+Nie wiem.
+
+00:29:21.840 --> 00:29:23.820
+Albo możesz tylko jedną ręką grać.
+
+00:29:23.840 --> 00:29:25.820
+Tak. Projekt Polaris
+
+00:29:25.840 --> 00:29:27.820
+to jest kolejny projekt.
+
+00:29:27.840 --> 00:29:29.820
+To jest projekt, który otwiera
+
+00:29:29.840 --> 00:29:31.820
+nową wiedźmińską trylogię.
+
+00:29:31.820 --> 00:29:34.800
+Także ta nowa saga to będą trzy gry.
+
+00:29:34.820 --> 00:29:36.800
+Rozszerzając świat przedstawiony
+
+00:29:36.820 --> 00:29:38.800
+w dotychczasowych grach serii Wiedźmin,
+
+00:29:38.820 --> 00:29:40.800
+saga będzie składać się z trzech gier,
+
+00:29:40.820 --> 00:29:42.800
+które planujemy wydać
+
+00:29:42.820 --> 00:29:44.800
+w trakcie sześcioletniego cyklu
+
+00:29:44.820 --> 00:29:46.800
+wydawniczo-produkcyjnego
+
+00:29:46.820 --> 00:29:49.800
+licząc od premiery Polaris.
+
+00:29:49.820 --> 00:29:51.800
+Druga i trzecia część sagi
+
+00:29:51.820 --> 00:29:53.800
+pod względem technologicznym
+
+00:29:53.820 --> 00:29:55.800
+będzie wyrastała z podwaliń
+
+00:29:55.820 --> 00:29:57.800
+stworzonych przy produkcji Polaris.
+
+00:29:57.820 --> 00:29:59.800
+W ten sposób chcemy usprawnić
+
+00:29:59.800 --> 00:30:01.780
+proces powstawania gier,
+
+00:30:01.800 --> 00:30:03.780
+nie rezygnując jednocześnie
+
+00:30:03.800 --> 00:30:05.780
+z naszych ambicji
+
+00:30:05.800 --> 00:30:07.780
+pod względem artystycznym
+
+00:30:07.800 --> 00:30:09.780
+oraz każdorazowego ulepszania
+
+00:30:09.800 --> 00:30:12.780
+naszych kolejnych produkcji.
+
+00:30:12.800 --> 00:30:14.780
+I tu podkreślam,
+
+00:30:14.800 --> 00:30:16.780
+bo jest bardzo dużo zamoty.
+
+00:30:16.800 --> 00:30:18.780
+Nie mamy daty premiery.
+
+00:30:18.800 --> 00:30:20.780
+Nie wiemy, kiedy ta gra powstanie,
+
+00:30:20.800 --> 00:30:22.780
+ale wiemy jedno,
+
+00:30:22.800 --> 00:30:24.780
+że od momentu premiery,
+
+00:30:24.800 --> 00:30:26.780
+powiedzmy, nie wiemy też,
+
+00:30:26.800 --> 00:30:28.780
+czy co trzy lata,
+
+00:30:28.780 --> 00:30:30.760
+ale w ciągu sześciu lat od premiery
+
+00:30:30.780 --> 00:30:32.760
+będą miały kolejne dwa
+
+00:30:32.780 --> 00:30:34.760
+Wiedźminy premiery.
+
+00:30:34.780 --> 00:30:36.760
+Trzy lata.
+
+00:30:36.780 --> 00:30:38.760
+To jest taki projekt,
+
+00:30:38.780 --> 00:30:40.760
+który wydaje się,
+
+00:30:40.780 --> 00:30:42.760
+na podstawie naszych aktualnych doświadczeń
+
+00:30:42.780 --> 00:30:44.760
+trudno przewidywać,
+
+00:30:44.780 --> 00:30:46.760
+żeby to mogło się wydarzyć.
+
+00:30:46.780 --> 00:30:48.760
+To nie jest takie pewne.
+
+00:30:48.780 --> 00:30:50.760
+Za naszego życia.
+
+00:30:50.780 --> 00:30:52.760
+Bo boi się, że tu się mogą pojawić
+
+00:30:52.780 --> 00:30:54.760
+jakieś poślizgi.
+
+00:30:54.780 --> 00:30:56.760
+Zresztą to nie byłaby żadna niespodzianka.
+
+00:30:56.760 --> 00:30:59.740
+Nie możemy budżetowe gry wypuszczać co trzy lata.
+
+00:30:59.760 --> 00:31:01.740
+Ale z drugiej strony,
+
+00:31:01.760 --> 00:31:03.740
+jeżeli mamy do czynienia z...
+
+00:31:03.760 --> 00:31:05.740
+Jeżeli faktycznie główna myśl,
+
+00:31:05.760 --> 00:31:07.740
+jaka za tym stoi,
+
+00:31:07.760 --> 00:31:09.740
+to opracowanie jakichś technologicznych możliwości,
+
+00:31:09.760 --> 00:31:11.740
+by móc potem te gry kontynuować.
+
+00:31:11.760 --> 00:31:13.740
+Budować je na bazie tej wcześniejszej historii.
+
+00:31:13.760 --> 00:31:15.740
+Trochę mi się kojarzy to ze scenariuszem God of War,
+
+00:31:15.760 --> 00:31:17.740
+gdzie mamy do czynienia z grą
+
+00:31:17.760 --> 00:31:19.740
+i potem na bazie tego,
+
+00:31:19.760 --> 00:31:21.740
+co zostało już stworzone,
+
+00:31:21.760 --> 00:31:23.740
+dobudowujemy kolejne rzeczy,
+
+00:31:23.760 --> 00:31:25.740
+robiąc zdecydowanie lepszą grę
+
+00:31:25.740 --> 00:31:27.720
+i taki jest scenariusz.
+
+00:31:27.740 --> 00:31:29.720
+Pytanie, czy uda się stworzyć tą technologię
+
+00:31:29.740 --> 00:31:31.720
+w oparciu o Unreal Engine 5,
+
+00:31:31.740 --> 00:31:33.720
+która pozwoli wielokrotnie wydawać
+
+00:31:33.740 --> 00:31:35.720
+na tej bazie gry.
+
+00:31:35.740 --> 00:31:37.720
+Bo to brzmi jak dobry plan.
+
+00:31:37.740 --> 00:31:39.720
+Czyli tworzymy sobie plan,
+
+00:31:39.740 --> 00:31:41.720
+gdzie na jednym silniku robisz trzy gry.
+
+00:31:41.740 --> 00:31:43.720
+Brzmi to bardzo sensownie.
+
+00:31:43.740 --> 00:31:45.720
+No tak, więc plan brzmi sensownie.
+
+00:31:45.740 --> 00:31:47.720
+Natomiast czy się Redom uda
+
+00:31:47.740 --> 00:31:49.720
+ten plan zachować i dotrzymać wszystkiego,
+
+00:31:49.740 --> 00:31:51.720
+to już jest zupełnie...
+
+00:31:51.740 --> 00:31:53.720
+Bo scenariusz podstawowy zakłada to,
+
+00:31:53.720 --> 00:31:55.700
+że ten Polaris technologicznie będzie
+
+00:31:55.720 --> 00:31:57.700
+dopracowanym projektem, zrobionym poprawnie,
+
+00:31:57.720 --> 00:31:59.700
+tak żeby na jego bazie można było budować dalej.
+
+00:31:59.720 --> 00:32:01.700
+Ale jeżeli ten projekt się nie do końca uda,
+
+00:32:01.720 --> 00:32:03.700
+jeżeli nie będzie sprawnie działał,
+
+00:32:03.720 --> 00:32:05.700
+jeżeli będą potrzebne zmiany,
+
+00:32:05.720 --> 00:32:07.700
+to się może okazać, że konieczność zmian
+
+00:32:07.720 --> 00:32:09.700
+spowoduje, że kolejne projekty
+
+00:32:09.720 --> 00:32:11.700
+nie będą mogły być budowane na tej podbudowie.
+
+00:32:11.720 --> 00:32:13.700
+Więc wiesz, to wszystko zależy od tego,
+
+00:32:13.720 --> 00:32:15.700
+jak wyjdzie ta pierwsza gra.
+
+00:32:15.720 --> 00:32:17.700
+Jeżeli ona się technologicznie uda,
+
+00:32:17.720 --> 00:32:19.700
+to potem możemy liczyć na kontynuację.
+
+00:32:19.720 --> 00:32:21.700
+Jeżeli ona nie wypali z jakiegoś powodu
+
+00:32:21.700 --> 00:32:23.680
+to właściwie ten cały pomysł
+
+00:32:23.700 --> 00:32:25.680
+trochę bierze w łeb.
+
+00:32:25.700 --> 00:32:27.680
+Więc jeżeli wszystko pójdzie dobrze,
+
+00:32:27.700 --> 00:32:29.680
+to możemy zakładać, że to jest fantastyczny plan
+
+00:32:29.700 --> 00:32:31.680
+i może się uda go zrealizować.
+
+00:32:31.700 --> 00:32:33.680
+Tak, wielokrotnie też mówiliśmy o tym,
+
+00:32:33.700 --> 00:32:35.680
+że jakimś tam metodą na to,
+
+00:32:35.700 --> 00:32:40.680
+żeby robić bardzo dopracowane produkcje,
+
+00:32:40.700 --> 00:32:43.680
+to jest robienie tych samych gier
+
+00:32:43.700 --> 00:32:45.680
+co ileś tam czasu.
+
+00:32:45.700 --> 00:32:47.680
+Mamy Assassiny, Fify, Kody.
+
+00:32:47.700 --> 00:32:49.680
+Ubisoft wypracowuje z pytania.
+
+00:32:49.680 --> 00:32:55.660
+To jest bardzo mocno plan à la Ubisoft.
+
+00:32:55.680 --> 00:32:59.660
+Wydaje mi się to rozsądne,
+
+00:32:59.680 --> 00:33:01.660
+ale patrząc na to,
+
+00:33:01.680 --> 00:33:03.660
+że CD Projekt chyba nigdy
+
+00:33:03.680 --> 00:33:08.660
+nie dotrzymał żadnego terminu przy dużej grze,
+
+00:33:08.680 --> 00:33:10.660
+to takie bardzo optymistyczne podejście
+
+00:33:10.680 --> 00:33:12.660
+muszę przyznać.
+
+00:33:12.680 --> 00:33:15.660
+Tak jak mówiłem,
+
+00:33:15.680 --> 00:33:18.660
+w związku z tym, że nie podano terminu Polaris,
+
+00:33:18.660 --> 00:33:20.640
+to mogą sobie tam grzebać.
+
+00:33:20.660 --> 00:33:22.640
+Aż zbudują sobie takie narzędzia,
+
+00:33:22.660 --> 00:33:25.640
+które pozwolą potem regularnie na tym pracować.
+
+00:33:25.660 --> 00:33:26.640
+Więc może tak jest.
+
+00:33:26.660 --> 00:33:28.640
+A czy doczekamy tego?
+
+00:33:28.660 --> 00:33:31.640
+To nie wiem.
+
+00:33:31.660 --> 00:33:33.640
+Ale patrzmy.
+
+00:33:33.660 --> 00:33:35.640
+Zobaczymy.
+
+00:33:35.660 --> 00:33:37.640
+Bardzo ważną rzecz powiedziałeś.
+
+00:33:37.660 --> 00:33:39.640
+Co się stanie,
+
+00:33:39.660 --> 00:33:41.640
+jak z pierwszym będzie coś nie tak?
+
+00:33:41.660 --> 00:33:43.640
+No właśnie.
+
+00:33:43.640 --> 00:33:48.620
+Kolejny to jest Project Kanias Majoris.
+
+00:33:48.640 --> 00:33:50.620
+I to jest pełnoprawna produkcja
+
+00:33:50.640 --> 00:33:52.620
+ze świata Wiedźmina,
+
+00:33:52.640 --> 00:33:56.620
+która będzie rozwijana przez zewnętrzne studio,
+
+00:33:56.640 --> 00:33:58.620
+kierowane przez doświadczonych twórców
+
+00:33:58.640 --> 00:34:03.620
+związanych w przeszłości z Wiedźmińskim uniwersum.
+
+00:34:03.640 --> 00:34:06.620
+Pod względem technologii planujemy użyć
+
+00:34:06.640 --> 00:34:09.620
+do jej stworzenia silnik Unreal Engine 5
+
+00:34:09.640 --> 00:34:11.620
+i zestawu narzędzi,
+
+00:34:11.620 --> 00:34:15.600
+który tworzymy z myślą o Polaris.
+
+00:34:15.620 --> 00:34:17.600
+Czyli znowu jest ta sama technologia.
+
+00:34:17.620 --> 00:34:18.600
+Wychodzimy z założenia,
+
+00:34:18.620 --> 00:34:20.600
+że ta technologia się sprawdzi
+
+00:34:20.620 --> 00:34:22.600
+i będzie można ją gdzieś tam wykorzystać
+
+00:34:22.620 --> 00:34:24.600
+przez inne studio.
+
+00:34:24.620 --> 00:34:26.600
+No właśnie.
+
+00:34:26.620 --> 00:34:30.600
+Jest to studio kierowane przez doświadczonych twórców
+
+00:34:30.620 --> 00:34:34.600
+związanych w przeszłości z Wiedźmińskim uniwersum.
+
+00:34:34.620 --> 00:34:36.600
+Nie podano, jakie tych twórców
+
+00:34:36.620 --> 00:34:38.600
+i tych studiów jest ograniczona ilość.
+
+00:34:38.620 --> 00:34:40.600
+Konrad Tomaszkiewicz,
+
+00:34:40.600 --> 00:34:42.580
+założyciel Rebel Wolves,
+
+00:34:42.600 --> 00:34:44.580
+już zaprzeczył, że to oni,
+
+00:34:44.600 --> 00:34:46.580
+bo to bardzo dużo osób się pytało.
+
+00:34:46.600 --> 00:34:48.580
+Muszę przyznać, że dużo osób
+
+00:34:48.600 --> 00:34:51.580
+związanych z CD Projektem i z Wiedźminem,
+
+00:34:51.600 --> 00:34:54.580
+którzy już nie pracują w tej firmie,
+
+00:34:54.600 --> 00:34:56.580
+szuka.
+
+00:34:56.600 --> 00:34:59.580
+Ja się podpytałem kilku osób
+
+00:34:59.600 --> 00:35:01.580
+i w sumie nie wiem kto.
+
+00:35:01.600 --> 00:35:03.580
+Mam nadzieję, że na tym PGA Nagitsu
+
+00:35:03.600 --> 00:35:05.580
+coś się dowiemy.
+
+00:35:05.600 --> 00:35:07.580
+Ja nie wiem, co obecnie robi
+
+00:35:07.600 --> 00:35:09.580
+na przykład Mateusz Kanik,
+
+00:35:09.580 --> 00:35:12.560
+który był bardzo ważną osobą
+
+00:35:12.580 --> 00:35:14.560
+i w Wiedźminie, i w Cyberpunku.
+
+00:35:14.580 --> 00:35:16.560
+Na LinkedIn idzie, marzy,
+
+00:35:16.580 --> 00:35:18.560
+jakiś swój projekt robi,
+
+00:35:18.580 --> 00:35:20.560
+nic nie jest ogłoszone.
+
+00:35:20.580 --> 00:35:22.560
+No więc zobaczymy.
+
+00:35:22.580 --> 00:35:24.560
+Zobaczymy.
+
+00:35:24.580 --> 00:35:27.560
+Podobnie on robi jakieś swoje rzeczy,
+
+00:35:27.580 --> 00:35:30.560
+ale tak naprawdę, jeżeli miałbym stawiać,
+
+00:35:30.580 --> 00:35:33.560
+no to stawiam, że to będzie jakieś studio,
+
+00:35:33.580 --> 00:35:35.560
+które będzie po prostu nowe
+
+00:35:35.580 --> 00:35:38.560
+i będzie ogłoszone
+
+00:35:38.560 --> 00:35:41.540
+i po prostu ci weterani założą je
+
+00:35:41.560 --> 00:35:44.540
+i niedługo o tym usłyszymy.
+
+00:35:44.560 --> 00:35:47.540
+Bo takie istniejące to chyba nie.
+
+00:35:47.560 --> 00:35:49.540
+Trudno w ogóle.
+
+00:35:49.560 --> 00:35:51.540
+To już należałoby traktować
+
+00:35:51.560 --> 00:35:53.540
+jako piąty projekt,
+
+00:35:53.560 --> 00:35:55.540
+jeżeli to poprzednie bierzemy jako trzy.
+
+00:35:55.560 --> 00:35:57.540
+Studio Bostońskie robi pierwszy.
+
+00:35:57.560 --> 00:35:59.540
+Zastanawiam się,
+
+00:35:59.560 --> 00:36:01.540
+nie mamy żadnego punktu zaczepienia,
+
+00:36:01.560 --> 00:36:02.540
+żeby się zorientować,
+
+00:36:02.560 --> 00:36:04.540
+o jakie gry może chodzić.
+
+00:36:04.560 --> 00:36:06.540
+Bo to jest jakby niezależna produkcja
+
+00:36:06.540 --> 00:36:08.520
+ze świata Wiedźmina.
+
+00:36:08.540 --> 00:36:10.520
+Piąta, tworzona przez niezależne studio.
+
+00:36:10.540 --> 00:36:12.520
+Właściwie trochę odrębne studio.
+
+00:36:12.540 --> 00:36:14.520
+Co oni zamierzają z tym zrobić?
+
+00:36:14.540 --> 00:36:16.520
+W jakiej formie?
+
+00:36:16.540 --> 00:36:18.520
+Pewnie to się będzie znacząco różniło
+
+00:36:18.540 --> 00:36:20.520
+od tych otwartych RPG-owych światów,
+
+00:36:20.540 --> 00:36:22.520
+które Redzi planują.
+
+00:36:22.540 --> 00:36:24.520
+A właśnie ja tak miałem wrażenie,
+
+00:36:24.540 --> 00:36:26.520
+że tutaj mówimy o dużej grze RPG
+
+00:36:26.540 --> 00:36:28.520
+z otwartym światem.
+
+00:36:28.540 --> 00:36:30.520
+Że to jest pełnoprawna produkcja
+
+00:36:30.540 --> 00:36:32.520
+ze świata Wiedźmina.
+
+00:36:32.540 --> 00:36:34.520
+Ja tak wywnioskowałem sobie,
+
+00:36:34.520 --> 00:36:36.500
+że to jest fajny, duży RPG,
+
+00:36:36.520 --> 00:36:38.500
+tylko ktoś ma na to jakiś inny pomysł.
+
+00:36:38.520 --> 00:36:40.500
+I poszedł z Pitchem do CDP-u
+
+00:36:40.520 --> 00:36:42.500
+i jakoś się tam dogadali.
+
+00:36:42.520 --> 00:36:44.500
+Być może tak jest.
+
+00:36:44.520 --> 00:36:47.500
+Bo to jest takie bardzo górnolotne hasło.
+
+00:36:47.520 --> 00:36:49.500
+Pełnoprawna produkcja.
+
+00:36:49.520 --> 00:36:51.500
+A potem się okazuje,
+
+00:36:51.520 --> 00:36:53.500
+że to MOBA jest w świecie Wiedźmina.
+
+00:36:53.520 --> 00:36:55.500
+Wiesz co, ja cały czas oczywiście
+
+00:36:55.520 --> 00:36:59.500
+jest to trochę takie życzeniowe myślenie.
+
+00:36:59.520 --> 00:37:02.500
+Ale ja mam jakieś takie wrażenie,
+
+00:37:02.500 --> 00:37:08.480
+że oddzielając designerów, powiedzmy, art
+
+00:37:08.500 --> 00:37:14.480
+od produkcji, od silnika, od inżynierów,
+
+00:37:14.500 --> 00:37:19.480
+to dużo łatwiej można robić te gry.
+
+00:37:19.500 --> 00:37:25.480
+Jeżeli to będzie dobrze zarządzane,
+
+00:37:25.500 --> 00:37:28.480
+to design czy art
+
+00:37:28.500 --> 00:37:30.480
+nie może za bardzo mieszać.
+
+00:37:30.480 --> 00:37:33.460
+Że mają to robić i tyle.
+
+00:37:33.480 --> 00:37:35.460
+Też chciałem zauważyć,
+
+00:37:35.480 --> 00:37:37.460
+że bardzo dużą różnicą
+
+00:37:37.480 --> 00:37:39.460
+i ułatwieniem dla designu
+
+00:37:39.480 --> 00:37:41.460
+są blueprinty.
+
+00:37:41.480 --> 00:37:43.460
+Kiedy twórcy mogą sobie sami
+
+00:37:43.480 --> 00:37:45.460
+prototypować pewne pomysły w grach
+
+00:37:45.480 --> 00:37:47.460
+bez cały czas chodzenia do silnika
+
+00:37:47.480 --> 00:37:51.460
+i proszenia, żeby im zrobili coś na próbę.
+
+00:37:51.480 --> 00:37:55.460
+Jak to, ile jest osób wtedy potrzebnych?
+
+00:37:55.480 --> 00:37:57.460
+Musielibyśmy mieć tutaj,
+
+00:37:57.480 --> 00:37:59.460
+zrobić jakiś taki podcast
+
+00:37:59.460 --> 00:38:02.440
+ze specem od Unreal Engine 5.
+
+00:38:02.460 --> 00:38:04.440
+Czyli nie ma takich dużo ludzi,
+
+00:38:04.460 --> 00:38:06.440
+bo to jest cały czas nowość.
+
+00:38:06.460 --> 00:38:08.440
+I żeby on nam wytłumaczył,
+
+00:38:08.460 --> 00:38:10.440
+czy to jest możliwe,
+
+00:38:10.460 --> 00:38:13.440
+na jaką skalę, ile osób jest potrzebnych.
+
+00:38:13.460 --> 00:38:15.440
+Jak wyszedł Unreal Engine 5,
+
+00:38:15.460 --> 00:38:17.440
+ogłoszony został,
+
+00:38:17.460 --> 00:38:19.440
+to był taki hura optymizm,
+
+00:38:19.460 --> 00:38:21.440
+że tutaj nagle pojedyncze osoby
+
+00:38:21.460 --> 00:38:23.440
+robiły jakieś na tych asetach,
+
+00:38:23.460 --> 00:38:25.440
+które były, otwarte gry w mieście
+
+00:38:25.460 --> 00:38:27.440
+i to wszystko działało.
+
+00:38:27.440 --> 00:38:30.420
+To znaczy, że jedna osoba może zrobić coś,
+
+00:38:30.440 --> 00:38:32.420
+co kiedyś zajmowało dwa lata
+
+00:38:32.440 --> 00:38:34.420
+całemu teamowi.
+
+00:38:34.440 --> 00:38:36.420
+Ale tu mówimy o takich prostych asetach,
+
+00:38:36.440 --> 00:38:38.420
+prostych rozwiązaniach.
+
+00:38:38.440 --> 00:38:40.420
+Parę razy żeśmy mieli rozmowienie
+
+00:38:40.440 --> 00:38:41.420
+na ten temat.
+
+00:38:41.440 --> 00:38:43.420
+Ten Unreal Engine 5 jest obiecujący
+
+00:38:43.440 --> 00:38:45.420
+i na pewno Redzi go przetestują
+
+00:38:45.440 --> 00:38:47.420
+na wszystkie możliwe sposoby.
+
+00:38:47.440 --> 00:38:49.420
+I to będzie tak naprawdę obraz tego,
+
+00:38:49.440 --> 00:38:51.420
+co Unreal Engine może zrobić.
+
+00:38:51.440 --> 00:38:53.420
+Bo wychodzą inne gry,
+
+00:38:53.440 --> 00:38:55.420
+ale nie w takiej skali,
+
+00:38:55.420 --> 00:38:57.400
+jak pierwsza gra na Unreal Engine.
+
+00:38:57.420 --> 00:38:59.400
+Myślę, że jeszcze poczekamy sobie
+
+00:38:59.420 --> 00:39:01.400
+za trzy lata, to spokojnie.
+
+00:39:01.420 --> 00:39:04.400
+Kolejną grą to jest projekt Orion.
+
+00:39:04.420 --> 00:39:06.400
+I to jest gra z serii Cyberpunk,
+
+00:39:06.420 --> 00:39:09.400
+która będzie dalej rozwijać potencjał
+
+00:39:09.420 --> 00:39:11.400
+leżący w tym uniwersum.
+
+00:39:11.420 --> 00:39:13.400
+Za realizację projektu Orion
+
+00:39:13.420 --> 00:39:16.400
+odpowiedzialne będzie studio CD Projekt
+
+00:39:16.420 --> 00:39:18.400
+Red North America,
+
+00:39:18.420 --> 00:39:20.400
+w którego skład wchodzić będzie
+
+00:39:20.420 --> 00:39:22.400
+nowo utworzony podmiot w Bostonie
+
+00:39:22.420 --> 00:39:24.400
+wraz z istniejącym zespołem
+
+00:39:24.400 --> 00:39:26.380
+z Vancouver.
+
+00:39:26.400 --> 00:39:28.380
+Powstanie ono niezależnie
+
+00:39:28.400 --> 00:39:30.380
+od funkcjonującego już w Bostonie
+
+00:39:30.400 --> 00:39:32.380
+Demolasses Float,
+
+00:39:32.400 --> 00:39:34.380
+realizującego projekt Sirius.
+
+00:39:34.400 --> 00:39:36.380
+Utworzenie nowego studia CD Projekt Red
+
+00:39:36.400 --> 00:39:38.380
+North America umożliwi nam
+
+00:39:38.400 --> 00:39:40.380
+pełen dostęp do puli talentów
+
+00:39:40.400 --> 00:39:42.380
+z Ameryki Północnej.
+
+00:39:42.400 --> 00:39:44.380
+No to na tego Oriona,
+
+00:39:44.400 --> 00:39:46.380
+czyli kolejnego Cyberpunka
+
+00:39:46.400 --> 00:39:48.380
+to ja już czekałem od dłuższego czasu.
+
+00:39:48.400 --> 00:39:50.380
+Nie wiem, czy to się pojawiło
+
+00:39:50.400 --> 00:39:52.380
+w naszych rozmowach.
+
+00:39:52.380 --> 00:39:54.360
+Czy w związku z tym sukcesem Edge Runners
+
+00:39:54.380 --> 00:39:56.360
+jest możliwość, że Redzi zrobią
+
+00:39:56.380 --> 00:39:58.360
+drugie DLC być może?
+
+00:39:58.380 --> 00:39:59.360
+Nie.
+
+00:39:59.380 --> 00:40:01.360
+No to to nie wchodzi w rachubę,
+
+00:40:01.380 --> 00:40:03.360
+ja to za każdym razem mówię
+
+00:40:03.380 --> 00:40:05.360
+i nawet powinniśmy się cieszyć,
+
+00:40:05.380 --> 00:40:07.360
+że to nie wchodzi w rachubę,
+
+00:40:07.380 --> 00:40:09.360
+bo na tej starej technologii
+
+00:40:09.380 --> 00:40:11.360
+nie ma co się za bardzo męczyć.
+
+00:40:11.380 --> 00:40:13.360
+Jeżeli Unreal daje więcej możliwości
+
+00:40:13.380 --> 00:40:15.360
+to niech Redzi z niego korzystają
+
+00:40:15.380 --> 00:40:17.360
+i im mniej DLC, tym szybciej pojawi się
+
+00:40:17.380 --> 00:40:19.360
+ten projekt Orion, czyli kolejny Cyberpunk
+
+00:40:19.380 --> 00:40:21.360
+już na Unreal 5, więc na to należy czekać,
+
+00:40:21.360 --> 00:40:23.340
+no to może nam Paweł Sasko
+
+00:40:23.360 --> 00:40:25.340
+tutaj trochę wytłumaczy,
+
+00:40:25.360 --> 00:40:27.340
+bo napisał na Twitterze,
+
+00:40:27.360 --> 00:40:29.340
+że po wydaniu Phantom Liberty
+
+00:40:29.360 --> 00:40:31.340
+skupię się przede wszystkim
+
+00:40:31.360 --> 00:40:33.340
+na nowym projekcie Cyberpunk 2077
+
+00:40:33.360 --> 00:40:35.340
+o kryptonimie Orion.
+
+00:40:35.360 --> 00:40:37.340
+Przenoszę się do Bostonu
+
+00:40:37.360 --> 00:40:39.340
+razem z głównym zespołem
+
+00:40:39.360 --> 00:40:41.340
+odpowiedzialnym za Cyberpunk 2077,
+
+00:40:41.360 --> 00:40:43.340
+aby założyć nowe studio
+
+00:40:43.360 --> 00:40:45.340
+i być fundamentem zespołu północnoamerykańskiego.
+
+00:40:45.360 --> 00:40:47.340
+Współpracując z ekipą Vancouver
+
+00:40:47.360 --> 00:40:49.340
+i twórcami z Warszawy
+
+00:40:49.340 --> 00:40:51.320
+wam kolejną świetną grę.
+
+00:40:51.340 --> 00:40:53.320
+I to jest moim zdaniem
+
+00:40:53.340 --> 00:40:55.320
+najważniejsze ogłoszenie
+
+00:40:55.340 --> 00:40:57.320
+całego eventu.
+
+00:40:57.340 --> 00:40:59.320
+To, że powstaje
+
+00:40:59.340 --> 00:41:01.320
+nowe studio.
+
+00:41:01.340 --> 00:41:03.320
+No dobrze, no to może
+
+00:41:03.340 --> 00:41:05.320
+jest to ważne, ale z perspektywy gracza
+
+00:41:05.340 --> 00:41:07.320
+będzie ważniejsze, co to studio zrobi
+
+00:41:07.340 --> 00:41:09.320
+i kiedy. To jest tak.
+
+00:41:09.340 --> 00:41:11.320
+I w ogóle tworzenie nowego studia.
+
+00:41:11.340 --> 00:41:13.320
+Ilu speców od Cyberpunka
+
+00:41:13.340 --> 00:41:15.320
+Sasko ze sobą zabiera
+
+00:41:15.340 --> 00:41:17.320
+do tego amerykańskiego studia?
+
+00:41:17.320 --> 00:41:19.300
+Czy to jest szukanie zupełnie nowych talentów
+
+00:41:19.320 --> 00:41:21.300
+i tworzenie studia od podstaw?
+
+00:41:21.320 --> 00:41:23.300
+Czy to już jakiś fundament jest?
+
+00:41:23.320 --> 00:41:25.300
+Bo wiem, że już teraz
+
+00:41:25.320 --> 00:41:27.300
+pracują nad, redzi pracują nad
+
+00:41:27.320 --> 00:41:29.300
+tymi dwoma projektami.
+
+00:41:29.320 --> 00:41:31.300
+Zakładamy oczywiście, że pierwszym jest Wiedźmin,
+
+00:41:31.320 --> 00:41:33.300
+a że drugim jest Cyberpunk dalej.
+
+00:41:33.320 --> 00:41:35.300
+Bo w tej chwili
+
+00:41:35.320 --> 00:41:37.300
+z tego co, z tego, że ja może trochę
+
+00:41:37.320 --> 00:41:39.300
+wybiegam za daleko w przyszłość.
+
+00:41:39.320 --> 00:41:41.300
+Wiemy, że najwięcej ludzi teraz pracuje
+
+00:41:41.320 --> 00:41:43.300
+nad dodatkiem do Cyberpunka
+
+00:41:43.320 --> 00:41:45.300
+i wiemy, że część studia pracuje nad nowym Wiedźminem.
+
+00:41:45.300 --> 00:41:47.280
+To co mówią, to że pracują nad dwoma
+
+00:41:47.300 --> 00:41:49.280
+projektami, to jest Wiedźmin
+
+00:41:49.300 --> 00:41:51.280
+i dodatek do Cyberpunka, a nie trzecia gra.
+
+00:41:51.300 --> 00:41:53.280
+Czyli, okej, okej, okej.
+
+00:41:53.300 --> 00:41:55.280
+Bo to też jest jasne,
+
+00:41:55.300 --> 00:41:57.280
+że dopiero po zakończeniu,
+
+00:41:57.300 --> 00:41:59.280
+zresztą Paweł Sasko też o tym mówi,
+
+00:41:59.300 --> 00:42:01.280
+że po zakończeniu prac nad Phantom Liberty
+
+00:42:01.300 --> 00:42:03.280
+zabierają się za tego Cyberpunka
+
+00:42:03.300 --> 00:42:05.280
+już w Ameryce Północnej.
+
+00:42:05.300 --> 00:42:07.280
+I że tam będzie to studio zakładane,
+
+00:42:07.300 --> 00:42:09.280
+tylko jestem ciekaw, jak dużo osób
+
+00:42:09.300 --> 00:42:11.280
+związanych z Cyberpunkiem, które pracowały w Polsce,
+
+00:42:11.300 --> 00:42:13.280
+też będzie częścią tego studia, bo to są
+
+00:42:13.280 --> 00:42:15.260
+specjaliści, nie? No, nie wiemy,
+
+00:42:15.280 --> 00:42:18.260
+kto dokładnie, ale wiemy, że ileś tam osób
+
+00:42:18.280 --> 00:42:20.260
+przeprowadzi się do Bostonu.
+
+00:42:20.280 --> 00:42:22.260
+Ty byłeś w Bostonie, podobnież piękne miasto.
+
+00:42:22.280 --> 00:42:24.260
+Bardzo ładne, bardzo takie,
+
+00:42:24.280 --> 00:42:26.260
+bardzo, zderzenie starej architektury,
+
+00:42:26.280 --> 00:42:28.260
+co w amerykańskim języku jest dosyć
+
+00:42:28.280 --> 00:42:30.260
+trudne do zrozumienia, bo tam jak coś ma 100 lat,
+
+00:42:30.280 --> 00:42:32.260
+to już jest super stare, ale tak,
+
+00:42:32.280 --> 00:42:34.260
+starej amerykańskiej architektury
+
+00:42:34.280 --> 00:42:36.260
+z taką nowoczesną, współczesną,
+
+00:42:36.280 --> 00:42:38.260
+bardzo ładne miasto. Boston jest,
+
+00:42:38.280 --> 00:42:40.260
+jest super fajny, jest dobre sushi, bo mają
+
+00:42:40.280 --> 00:42:42.260
+blisko, mogą łączyć ryby.
+
+00:42:42.260 --> 00:42:45.240
+O, co? Tak. To prawda, no i blisko Europy.
+
+00:42:45.260 --> 00:42:48.240
+No i Follow Us tam był też, cztery.
+
+00:42:48.260 --> 00:42:50.240
+No, więc ja zrobiłem sobie, no i to
+
+00:42:50.260 --> 00:42:52.240
+oczywiście będzie na, tak jak mówisz,
+
+00:42:52.260 --> 00:42:54.240
+na Unreal Engine 5, czyli oni jakby już
+
+00:42:54.260 --> 00:42:56.240
+przechodzą całkowicie na tą technologię
+
+00:42:56.260 --> 00:42:58.240
+bardzo dobrze. Ja zrobiłem sobie trochę
+
+00:42:58.260 --> 00:43:00.240
+research i zastanowiłem się i zacząłem
+
+00:43:00.260 --> 00:43:03.240
+szukać, jak wygląda gamedev w Bostonie.
+
+00:43:03.260 --> 00:43:05.240
+Okej.
+
+00:43:05.260 --> 00:43:07.240
+I wygląda bardzo słabo.
+
+00:43:07.260 --> 00:43:09.240
+Wygląda bardzo słabo, bo bostońskie
+
+00:43:09.260 --> 00:43:11.240
+firmy... Za to mają świetne kluby
+
+00:43:11.240 --> 00:43:13.220
+komediowe. Wielu stand-upperów się
+
+00:43:13.240 --> 00:43:16.220
+wywodzi z Bostonu. Tak, tak.
+
+00:43:16.240 --> 00:43:18.220
+Przynajmniej będzie śmiesznie, okej?
+
+00:43:18.240 --> 00:43:22.220
+Na pewno, na pewno ich tam zatrudnią.
+
+00:43:22.240 --> 00:43:24.220
+No więc mamy oczywiście ileś tam
+
+00:43:24.240 --> 00:43:27.220
+firm robiących VRy, mobilki,
+
+00:43:27.240 --> 00:43:30.220
+gry dla lekarzy, ale mamy
+
+00:43:30.240 --> 00:43:32.220
+Demiurge Studio, to jest część
+
+00:43:32.240 --> 00:43:34.220
+Embracer Group i oni robią mobilki.
+
+00:43:34.240 --> 00:43:37.220
+Mamy iRacing od...
+
+00:43:37.240 --> 00:43:39.220
+iRacing.
+
+00:43:39.220 --> 00:43:42.200
+Chyba niewiele muszę tłumaczyć.
+
+00:43:42.220 --> 00:43:45.200
+Mamy Turbin, czyli kiedyś Lords of the
+
+00:43:45.220 --> 00:43:47.200
+Ring Online, teraz robią mobilki.
+
+00:43:47.220 --> 00:43:49.200
+Mamy Harmonix, czyli Rock Band
+
+00:43:49.220 --> 00:43:52.200
+Diffuser. Mamy Crate Entertainment
+
+00:43:52.220 --> 00:43:54.200
+od Grim Dawn.
+
+00:43:54.220 --> 00:43:56.200
+I praktycznie to jest tyle. Ale
+
+00:43:56.220 --> 00:43:59.200
+są dwie jeszcze...
+
+00:43:59.220 --> 00:44:01.200
+dwie rzeczy, które moim zdaniem
+
+00:44:01.220 --> 00:44:04.200
+zadecydowały, że właśnie Boston
+
+00:44:04.220 --> 00:44:06.200
+jest tym dobrym miejscem.
+
+00:44:06.200 --> 00:44:10.180
+I nie mówię tu o tym, że mają
+
+00:44:10.200 --> 00:44:13.180
+Molasses Flot tam, więc już
+
+00:44:13.200 --> 00:44:15.180
+mają kogoś, kto tam mieszka, zna ludzi,
+
+00:44:15.200 --> 00:44:17.180
+wiesz, i tam może pomagać. Ale
+
+00:44:17.200 --> 00:44:19.180
+pierwszą rzeczą, i to jest w tej
+
+00:44:19.200 --> 00:44:21.180
+książce, czyli Wciśnij Reset,
+
+00:44:21.200 --> 00:44:23.180
+Schreyera, bardzo dobrze zaznaczone,
+
+00:44:23.200 --> 00:44:25.180
+ponieważ ta książka w dużej mierze
+
+00:44:25.200 --> 00:44:27.180
+opowiada o Irrational Games, czyli
+
+00:44:27.200 --> 00:44:29.180
+twórcach Bioshocka, właśnie firmie,
+
+00:44:29.200 --> 00:44:31.180
+która miała... znaczy wiadomo, że tam
+
+00:44:31.200 --> 00:44:33.180
+ileś tam tych studiów robiło
+
+00:44:33.200 --> 00:44:35.180
+Bioshocka, ale właśnie
+
+00:44:35.180 --> 00:44:37.160
+było studio też w Bostonie,
+
+00:44:37.180 --> 00:44:40.160
+ono upadło, właśnie weterani
+
+00:44:40.180 --> 00:44:42.160
+z tego studia
+
+00:44:42.180 --> 00:44:44.160
+Molasses Flot założyli.
+
+00:44:44.180 --> 00:44:47.160
+I tam jest też taki wątek,
+
+00:44:47.180 --> 00:44:50.160
+że jakby ten kryzys, który wtedy
+
+00:44:50.180 --> 00:44:53.160
+się odbył i to, że ludzie tracili
+
+00:44:53.180 --> 00:44:56.160
+pracę z dnia na dzień i na przykład
+
+00:44:56.180 --> 00:44:58.160
+byli zmuszeni przeprowadzać się
+
+00:44:58.180 --> 00:45:01.160
+do innego stanu, to jest dla wielu,
+
+00:45:01.180 --> 00:45:03.160
+wiesz, jakby stany są ogromne.
+
+00:45:03.180 --> 00:45:04.160
+To nie jest tak, że do innego
+
+00:45:04.160 --> 00:45:06.140
+województwa się przeprowadzisz, nie?
+
+00:45:06.160 --> 00:45:08.140
+To jest tak, jakbyś się przeprowadził
+
+00:45:08.160 --> 00:45:10.140
+z Wrocławia do Lizbony.
+
+00:45:10.160 --> 00:45:12.140
+No nie jest tak fajnie, jak masz
+
+00:45:12.160 --> 00:45:14.140
+rodzinę na przykład w Bostonie.
+
+00:45:14.160 --> 00:45:15.140
+Wiele osób jest związanych z rodziną,
+
+00:45:15.160 --> 00:45:17.140
+chce być blisko.
+
+00:45:17.160 --> 00:45:20.140
+I on tam powiedział, że ileś tam osób
+
+00:45:20.160 --> 00:45:22.140
+i to nie musiałbym wrócić
+
+00:45:22.160 --> 00:45:23.140
+do tej książki, ale im się wydawało,
+
+00:45:23.160 --> 00:45:26.140
+że to całkiem spora grupa
+
+00:45:26.160 --> 00:45:29.140
+przebranżowiła się i zostawiała w Bostonie.
+
+00:45:29.160 --> 00:45:30.140
+Ponieważ nie ma w Bostonie
+
+00:45:30.160 --> 00:45:32.140
+dużego gamedevu, nie było miejsca,
+
+00:45:32.140 --> 00:45:34.120
+żeby ich tam przyjąć, to robią sobie tam
+
+00:45:34.140 --> 00:45:36.120
+w jakimś IT pewnie.
+
+00:45:36.140 --> 00:45:41.120
+Spokojna robota i dobrze płacą.
+
+00:45:41.140 --> 00:45:43.120
+Więc stawiam, że jeszcze jest szansa,
+
+00:45:43.140 --> 00:45:45.120
+żeby ich wyciągnąć do tego projektu,
+
+00:45:45.140 --> 00:45:48.120
+że tam są ludzie zamrożeni.
+
+00:45:48.140 --> 00:45:50.120
+No i najważniejsza rzecz.
+
+00:45:50.140 --> 00:45:53.120
+Tam jest MIT, czyli najbardziej
+
+00:45:53.140 --> 00:45:57.120
+prestiżowy i najbardziej chyba znany
+
+00:45:57.140 --> 00:46:00.120
+uniwersytet technologiczny na świecie.
+
+00:46:00.120 --> 00:46:03.100
+Tak, tak.
+
+00:46:03.120 --> 00:46:05.100
+Tu nie mam nic do dodania.
+
+00:46:05.120 --> 00:46:11.100
+Massachusetts Institute of Technology.
+
+00:46:11.120 --> 00:46:14.100
+I to ogłoszenie w ogóle,
+
+00:46:14.120 --> 00:46:17.100
+myślę, że w dużym stopniu
+
+00:46:17.120 --> 00:46:22.100
+ma charakter rekrutacyjny.
+
+00:46:22.120 --> 00:46:24.100
+Bo nagle może się okazać,
+
+00:46:24.120 --> 00:46:26.100
+że część ludzi, którzy właśnie
+
+00:46:26.120 --> 00:46:28.100
+wyjechało za chlebem z Bostonu
+
+00:46:28.100 --> 00:46:33.080
+i pracuje w Seattle, pracują w San Francisco,
+
+00:46:33.100 --> 00:46:36.080
+będą chcieli wrócić, czy w Austin,
+
+00:46:36.100 --> 00:46:38.080
+bo to też jest taka kolebka gamedevu.
+
+00:46:38.100 --> 00:46:42.080
+Będą mieli szansę robić dużą grę
+
+00:46:42.100 --> 00:46:44.080
+w swoim rodzinnym mieście.
+
+00:46:44.100 --> 00:46:46.080
+Tak, to jest...
+
+00:46:46.100 --> 00:46:48.080
+Okej.
+
+00:46:48.100 --> 00:46:51.080
+Wiesz, jedną sprawę trzeba sobie postawić jasno.
+
+00:46:51.100 --> 00:46:53.080
+Niezależnie od tego, jak tam
+
+00:46:53.100 --> 00:46:55.080
+redzi wydają gry, no to nikt tam
+
+00:46:55.100 --> 00:46:57.080
+raczej kostką po mapie nie rzuca
+
+00:46:57.080 --> 00:46:59.060
+miasto losowo.
+
+00:46:59.080 --> 00:47:01.060
+Po pierwsze, Molasses Flat,
+
+00:47:01.080 --> 00:47:03.060
+o którym żeśmy już mówili kilka razy,
+
+00:47:03.080 --> 00:47:05.060
+oni tam funkcjonują i na pewno wiedzą,
+
+00:47:05.080 --> 00:47:07.060
+że jest to dobre miejsce i że tam są ludzie,
+
+00:47:07.080 --> 00:47:09.060
+których można będzie zgarnąć do pracy.
+
+00:47:09.080 --> 00:47:11.060
+No bo to nie może być losowe miasto,
+
+00:47:11.080 --> 00:47:14.060
+w którym może się pojawią nowi kandydaci do pracy
+
+00:47:14.080 --> 00:47:16.060
+albo się może nie pojawią.
+
+00:47:16.080 --> 00:47:18.060
+To musi być jasne, że tam są ludzie do pracy.
+
+00:47:18.080 --> 00:47:20.060
+No i tyle. To jest w zasadzie jakby
+
+00:47:20.080 --> 00:47:22.060
+podstawowa rzecz.
+
+00:47:22.080 --> 00:47:24.060
+Tam można doszukiwać się,
+
+00:47:24.080 --> 00:47:26.060
+że faktycznie z tej ekipy z Bioshocka
+
+00:47:26.060 --> 00:47:28.040
+są ludzie, że jest uniwersytet,
+
+00:47:28.060 --> 00:47:30.040
+ale redzi musieli to przebadać
+
+00:47:30.060 --> 00:47:32.040
+i na pewno wiedzą,
+
+00:47:32.060 --> 00:47:34.040
+że znajdą tam ludzi.
+
+00:47:34.060 --> 00:47:36.040
+Bo nie wierzę, żeby, wiesz,
+
+00:47:36.060 --> 00:47:38.040
+żeby otworzyli studio w miejscu,
+
+00:47:38.060 --> 00:47:40.040
+w którym totalnie nie masz czas,
+
+00:47:40.060 --> 00:47:42.040
+żeby się pojawili nowi kandydaci do pracy.
+
+00:47:42.060 --> 00:47:44.040
+Więc na pewno wzięli to pod uwagę.
+
+00:47:44.060 --> 00:47:46.040
+No ale też łatwiej na pewno
+
+00:47:46.060 --> 00:47:48.040
+komuś z Nowego Jorku
+
+00:47:48.060 --> 00:47:50.040
+przenieść się do Bostonu niż do Warszawy.
+
+00:47:50.060 --> 00:47:52.040
+No zdecydowanie, tak.
+
+00:47:52.060 --> 00:47:54.040
+Myślę, że to też jest taki problem,
+
+00:47:54.040 --> 00:47:56.020
+że kogo ściągnęli do Warszawy,
+
+00:47:56.040 --> 00:47:58.020
+to ściągnęli, ale mają realny...
+
+00:47:58.040 --> 00:48:00.020
+W ogóle będziemy sobie o tym rozmawiać
+
+00:48:00.040 --> 00:48:02.020
+w podcaście w weekend
+
+00:48:02.040 --> 00:48:04.020
+z Niką Darowską,
+
+00:48:04.040 --> 00:48:06.020
+która jest HR-owczynią
+
+00:48:06.040 --> 00:48:08.020
+w Creepy Jar, szefową,
+
+00:48:08.040 --> 00:48:10.020
+panią dyrektorką
+
+00:48:10.040 --> 00:48:12.020
+i która pracowała w Techlandzie,
+
+00:48:12.040 --> 00:48:14.020
+która pracowała w Huge'a,
+
+00:48:14.040 --> 00:48:16.020
+która pracowała w Beat'ach
+
+00:48:16.040 --> 00:48:18.020
+i w tych firmach zatrudniała ludzi.
+
+00:48:18.040 --> 00:48:20.020
+To jest bardzo duży problem
+
+00:48:20.040 --> 00:48:22.020
+dla firm gamedevowych,
+
+00:48:22.020 --> 00:48:24.000
+żeby znaleźć dobrego pracownika.
+
+00:48:24.020 --> 00:48:26.000
+Bardzo duży problem
+
+00:48:26.020 --> 00:48:28.000
+i myślę, że im się po prostu
+
+00:48:28.020 --> 00:48:30.000
+coś wyczerpało.
+
+00:48:30.020 --> 00:48:32.000
+No wiesz, jakby w Polsce
+
+00:48:32.020 --> 00:48:34.000
+to nie jest tak, że każdy
+
+00:48:34.020 --> 00:48:36.000
+doświadczony
+
+00:48:36.020 --> 00:48:38.000
+tak zwany
+
+00:48:38.020 --> 00:48:40.000
+rzeźnik gamedevowy
+
+00:48:40.020 --> 00:48:43.000
+to chce pracować w CD Projekcie.
+
+00:48:43.020 --> 00:48:45.000
+Większość ludzi,
+
+00:48:45.020 --> 00:48:47.000
+która tam pracowała,
+
+00:48:47.020 --> 00:48:49.000
+to wracać już za bardzo nie chce.
+
+00:48:49.020 --> 00:48:51.000
+Oni muszą po nowych jeździć do Bydgoszczy.
+
+00:48:51.000 --> 00:48:52.980
+Więc to jest jakiś tam problem.
+
+00:48:53.000 --> 00:48:54.980
+A tak to otwierają się
+
+00:48:55.000 --> 00:48:56.980
+na bardzo duży rynek.
+
+00:48:57.000 --> 00:48:58.980
+No koszty pewnie
+
+00:48:59.000 --> 00:49:00.980
+też są dużo większe.
+
+00:49:01.000 --> 00:49:02.980
+Ale pewnie w Bostonie są mniejsze
+
+00:49:03.000 --> 00:49:04.980
+niż na przykład w Nowym Jorku.
+
+00:49:05.000 --> 00:49:06.980
+Więc zakładam, że spośród
+
+00:49:07.000 --> 00:49:08.980
+amerykańskich miast Boston akurat
+
+00:49:09.000 --> 00:49:10.980
+nie należy do najdroższy.
+
+00:49:11.000 --> 00:49:12.980
+Ja mam wrażenie, że jeżeli chodzi o gamedev,
+
+00:49:13.000 --> 00:49:14.980
+to tam są wszędzie bardzo wysokie stawki.
+
+00:49:15.000 --> 00:49:16.980
+Nie chodzi tylko o ludzi.
+
+00:49:17.000 --> 00:49:18.980
+Nie chodzi tylko o ludzi,
+
+00:49:18.980 --> 00:49:20.960
+ale także o...
+
+00:49:20.980 --> 00:49:22.960
+No i pewnie ceny nieruchomości.
+
+00:49:22.980 --> 00:49:24.960
+Zakładam, że w Bostonie mogą być odrobinę...
+
+00:49:24.980 --> 00:49:26.960
+W Bostonie jest zimniej na przykład
+
+00:49:26.980 --> 00:49:28.960
+niż w Kalifornii.
+
+00:49:28.980 --> 00:49:30.960
+No i to nie jest takie ogromne miasto,
+
+00:49:30.980 --> 00:49:32.960
+bo tam ma jakieś 700 tysięcy mieszkańców.
+
+00:49:32.980 --> 00:49:34.960
+No i nie ma w pobliżu żadnej doliny krzemowej,
+
+00:49:34.980 --> 00:49:36.960
+która by podbijała stawki.
+
+00:49:36.980 --> 00:49:38.960
+To prawda.
+
+00:49:38.980 --> 00:49:40.960
+Dobrze, no i ostatni projekt.
+
+00:49:40.980 --> 00:49:42.960
+Najbardziej tajemniczy.
+
+00:49:42.980 --> 00:49:44.960
+Nowe IP, proszę państwa.
+
+00:49:44.980 --> 00:49:46.960
+Projekt Hadar.
+
+00:49:46.960 --> 00:49:49.940
+Najpierwszy w historii studio CD Projekt Red
+
+00:49:49.960 --> 00:49:51.940
+jest w pełni odpowiedzialne
+
+00:49:51.960 --> 00:49:53.940
+za stworzenie nowego uniwersum.
+
+00:49:53.960 --> 00:49:55.940
+Wczesne prace koncepcyjne
+
+00:49:55.960 --> 00:49:57.940
+rozpoczęły się w 2021 roku.
+
+00:49:57.960 --> 00:50:00.940
+Na dzień wydania nimniejszego dokumentu
+
+00:50:00.960 --> 00:50:04.940
+trwają prace nad podstawowymi założeniami
+
+00:50:04.960 --> 00:50:06.940
+i światem pod walinami
+
+00:50:06.960 --> 00:50:08.940
+do uruchomienia w przyszłości
+
+00:50:08.960 --> 00:50:12.940
+trzeciej linii produktowej.
+
+00:50:12.960 --> 00:50:15.940
+To wygląda bardzo apetycznie
+
+00:50:15.940 --> 00:50:17.920
+i można dużo spekulować na ten temat,
+
+00:50:17.940 --> 00:50:19.920
+chociaż teraz już mniej po tej konferencji
+
+00:50:19.940 --> 00:50:21.920
+niż wcześniej można było.
+
+00:50:21.940 --> 00:50:23.920
+Redzi na pewno dojrzeli już do tego,
+
+00:50:23.940 --> 00:50:25.920
+żeby stworzyć swoje własne IP.
+
+00:50:25.940 --> 00:50:26.920
+Zaczęli od Wiedźmina,
+
+00:50:26.940 --> 00:50:28.920
+do którego mieli prawa tylko do gier
+
+00:50:28.940 --> 00:50:30.920
+i to też takie skomplikowane dosyć,
+
+00:50:30.940 --> 00:50:32.920
+co skończyło się z licznymi sporami
+
+00:50:32.940 --> 00:50:33.920
+z Sapkowskim.
+
+00:50:33.940 --> 00:50:35.920
+Do Cyberpunka z Mikem Pondsmithem
+
+00:50:35.940 --> 00:50:37.920
+podpisali już rozsądniejszą umowę
+
+00:50:37.940 --> 00:50:39.920
+i mają prawa do wszystkiego.
+
+00:50:39.940 --> 00:50:42.920
+I teraz nadal muszą się z kimś dzielić.
+
+00:50:42.940 --> 00:50:44.920
+Teraz postanowili założyć trzecie IP,
+
+00:50:44.920 --> 00:50:46.900
+które na początku do końca będzie ich,
+
+00:50:46.920 --> 00:50:48.900
+będą mogli z nim robić co chcą,
+
+00:50:48.920 --> 00:50:50.900
+będą mogli je spieniężać tak jak chcą,
+
+00:50:50.920 --> 00:50:52.900
+a zważywszy na ich doświadczenia
+
+00:50:52.920 --> 00:50:53.900
+i tym kole zamachowym,
+
+00:50:53.920 --> 00:50:55.900
+o którym opowiadałeś na początku,
+
+00:50:55.920 --> 00:50:57.900
+czyli filmy, seriale, książki,
+
+00:50:57.920 --> 00:51:01.900
+merch, to oni mają ogromną wiedzę
+
+00:51:01.920 --> 00:51:02.900
+w tym zakresie.
+
+00:51:02.920 --> 00:51:04.900
+Jeżeli chodzi w ogóle o współpracę
+
+00:51:04.920 --> 00:51:05.900
+między telewizją a grami,
+
+00:51:05.920 --> 00:51:07.900
+to chyba oni są najlepsi aktualnie
+
+00:51:07.920 --> 00:51:08.900
+albo mają najwięcej sukcesów
+
+00:51:08.920 --> 00:51:10.900
+z różnych powodów.
+
+00:51:10.920 --> 00:51:13.900
+Więc to jest taki bardzo naturalny krok
+
+00:51:13.900 --> 00:51:15.880
+i masz wątpliwości?
+
+00:51:15.900 --> 00:51:16.880
+Co do sukcesów Redów
+
+00:51:16.900 --> 00:51:20.880
+odnośnie realizacji ich dzieł.
+
+00:51:20.900 --> 00:51:21.880
+A to jakie mieli,
+
+00:51:21.900 --> 00:51:24.880
+to na razie zrobili Edgerunnera jednak.
+
+00:51:24.900 --> 00:51:25.880
+Tak, zrobili Edgerunnera,
+
+00:51:25.900 --> 00:51:27.880
+który wpłynął pozytywnie na Cyberpunka,
+
+00:51:27.900 --> 00:51:29.880
+plus mają też te doświadczenia,
+
+00:51:29.900 --> 00:51:31.880
+że i Wiedźmin Netflixowy
+
+00:51:31.900 --> 00:51:32.880
+obejrzał się dobrze,
+
+00:51:32.900 --> 00:51:34.880
+dzięki czemu i Viceversa.
+
+00:51:34.900 --> 00:51:35.880
+No więc to tak.
+
+00:51:35.900 --> 00:51:37.880
+Oczywiście nazywanie Wiedźmina,
+
+00:51:37.900 --> 00:51:39.880
+serialu Wiedźmin sukcesem Redów
+
+00:51:39.900 --> 00:51:40.880
+to błędem jest.
+
+00:51:40.900 --> 00:51:41.880
+Jeżeli coś takiego powiedziałem,
+
+00:51:41.880 --> 00:51:43.860
+to nie miałem na myśli.
+
+00:51:43.880 --> 00:51:44.860
+Ale tak czy inaczej
+
+00:51:44.880 --> 00:51:45.860
+mają doświadczenia, mają wiedzę
+
+00:51:45.880 --> 00:51:48.860
+i na pewno mają chrapkę na to,
+
+00:51:48.880 --> 00:51:50.860
+żeby posiadać dzieło na wyłączność.
+
+00:51:50.880 --> 00:51:52.860
+No właśnie, więc my musimy założyć,
+
+00:51:52.880 --> 00:51:53.860
+że to dzieło na wyłączność,
+
+00:51:53.880 --> 00:51:56.860
+ich nowe IP jest też takim światem,
+
+00:51:56.880 --> 00:51:58.860
+który się sprawdzi w filmach
+
+00:51:58.880 --> 00:52:00.860
+i serialach, w animacjach.
+
+00:52:00.880 --> 00:52:01.860
+Anime na przykład,
+
+00:52:01.880 --> 00:52:06.860
+który będzie i też moim zdaniem
+
+00:52:06.880 --> 00:52:08.860
+to jest taki IP, taki świat,
+
+00:52:08.860 --> 00:52:13.840
+który musi pomieścić różne rodzaje gier.
+
+00:52:13.860 --> 00:52:15.840
+I teraz pytanie do ciebie Remigiuszu.
+
+00:52:15.860 --> 00:52:17.840
+Jak myślisz albo co byś chciał,
+
+00:52:17.860 --> 00:52:19.840
+to się nazywa Hadar,
+
+00:52:19.860 --> 00:52:23.840
+to jest też po arabsku Ziemia.
+
+00:52:23.860 --> 00:52:27.840
+Co byś chciał, żeby to było?
+
+00:52:27.860 --> 00:52:28.840
+Albo co uważasz,
+
+00:52:28.860 --> 00:52:31.840
+że najbardziej prawdopodobne jest?
+
+00:52:31.860 --> 00:52:32.840
+Są dwie opcje aktualnie.
+
+00:52:32.860 --> 00:52:33.840
+W związku z tym,
+
+00:52:33.860 --> 00:52:34.840
+że eksplorują fantasy
+
+00:52:34.860 --> 00:52:35.840
+przy użyciu Wiedźmina
+
+00:52:35.860 --> 00:52:37.840
+i eksplorują dosyć sensownie,
+
+00:52:37.840 --> 00:52:40.820
+mają science fiction w postaci cyberpunka,
+
+00:52:40.840 --> 00:52:41.820
+to jest taka mroczna przyszłość,
+
+00:52:41.840 --> 00:52:43.820
+więc w zasadzie pozostały dwie opcje.
+
+00:52:43.840 --> 00:52:45.820
+Albo mowa o jakimś
+
+00:52:45.840 --> 00:52:49.820
+i tutaj pewnie jest to forma ironii,
+
+00:52:49.840 --> 00:52:51.820
+być może ta Ziemia oznacza tak naprawdę
+
+00:52:51.840 --> 00:52:53.820
+coś pozaziemskiego,
+
+00:52:53.840 --> 00:52:54.820
+czyli podróże kosmiczne,
+
+00:52:54.840 --> 00:52:56.820
+eksploracja kosmosu,
+
+00:52:56.840 --> 00:52:58.820
+albo też może być to projekt post-apo,
+
+00:52:58.840 --> 00:53:00.820
+który także na pewno będzie się cieszył
+
+00:53:00.840 --> 00:53:01.820
+sporym zainteresowaniem,
+
+00:53:01.840 --> 00:53:03.820
+bo wiele osób liczy na post-apo.
+
+00:53:03.840 --> 00:53:05.820
+Więc jedna z tych dwóch rzeczy.
+
+00:53:05.820 --> 00:53:08.800
+No to cyberpunk trochę zahacza o post-apo.
+
+00:53:08.820 --> 00:53:09.800
+Jakby nie patrzeć,
+
+00:53:09.820 --> 00:53:11.800
+badlancy są świetnym tematem
+
+00:53:11.820 --> 00:53:13.800
+do zrealizowania jakiegoś post-apo.
+
+00:53:13.820 --> 00:53:15.800
+Ale też zahacza o sci-fi, nie?
+
+00:53:15.820 --> 00:53:16.800
+Nie, nie, tak, tak,
+
+00:53:16.820 --> 00:53:18.800
+ale nie zahacza tam
+
+00:53:18.820 --> 00:53:22.800
+o jakieś tam międzygwiezdne loty kosmiczne.
+
+00:53:22.820 --> 00:53:25.800
+Jakieś tam księżyc tam latają.
+
+00:53:25.820 --> 00:53:27.800
+Powiedziałbym, że raczej będą mierzyli
+
+00:53:27.820 --> 00:53:29.800
+w te uniwersa.
+
+00:53:29.820 --> 00:53:31.800
+Na początku liczyłem trochę na Torgala,
+
+00:53:31.820 --> 00:53:34.800
+ale tak szczerze mówiąc
+
+00:53:34.800 --> 00:53:36.780
+same plusy są tego, co prawda,
+
+00:53:36.800 --> 00:53:37.780
+ale by po raz kolejny
+
+00:53:37.800 --> 00:53:38.780
+robili uniwersum fantasy,
+
+00:53:38.800 --> 00:53:40.780
+które byłoby pokrewne trochę do Wiedźmina
+
+00:53:40.800 --> 00:53:41.780
+przez to, że jest fantasy.
+
+00:53:41.800 --> 00:53:42.780
+Lepiej chyba robić sci-fi.
+
+00:53:42.800 --> 00:53:44.780
+Ale to też jest trochę kosmosu, nie?
+
+00:53:44.800 --> 00:53:45.780
+Znaczy w ogóle ja uważam,
+
+00:53:45.800 --> 00:53:47.780
+że Torgal to jest takie trudne uniwersum
+
+00:53:47.800 --> 00:53:49.780
+do prostego wytłumaczenia klientowi,
+
+00:53:49.800 --> 00:53:50.780
+co to jest.
+
+00:53:50.800 --> 00:53:51.780
+Tak, tak.
+
+00:53:51.800 --> 00:53:52.780
+Ja nawet nie wiem,
+
+00:53:52.800 --> 00:53:53.780
+co to jest tak naprawdę,
+
+00:53:53.800 --> 00:53:54.780
+więc po prostu nie pamiętam.
+
+00:53:54.800 --> 00:54:00.780
+Więc ja mam przemyślenia takie,
+
+00:54:00.780 --> 00:54:04.760
+że jest oczywiście teraz hype
+
+00:54:04.780 --> 00:54:08.760
+na te gwiezdne simy.
+
+00:54:08.780 --> 00:54:09.760
+Mamy Starfielda,
+
+00:54:09.780 --> 00:54:10.760
+który zaraz wyjdzie.
+
+00:54:10.780 --> 00:54:14.760
+Mamy od Robertsa Star Citizena,
+
+00:54:14.780 --> 00:54:17.760
+który 500 milionów dolarów już zebrał,
+
+00:54:17.780 --> 00:54:21.760
+więc to na pewno rozbudza wyobraźnię
+
+00:54:21.780 --> 00:54:23.760
+każdego księgowego w tej branży
+
+00:54:23.780 --> 00:54:29.760
+i być może dlatego może to być to.
+
+00:54:29.760 --> 00:54:32.740
+Ale to jest za późno.
+
+00:54:32.760 --> 00:54:33.740
+Ale wydaje mi się,
+
+00:54:33.760 --> 00:54:34.740
+że to może być za późno,
+
+00:54:34.760 --> 00:54:37.740
+że te gry mogą już wysączyć jakby,
+
+00:54:37.760 --> 00:54:40.740
+że to jest za duże ryzyko.
+
+00:54:40.760 --> 00:54:43.740
+W post-apo nie ma takiej konkurencji.
+
+00:54:43.760 --> 00:54:45.740
+Fallout jest tylko chyba jedynym.
+
+00:54:45.760 --> 00:54:46.740
+Bethesda sobie strzeliła w stopę
+
+00:54:46.760 --> 00:54:49.740
+bardzo, bardzo ładnie z Falloutem.
+
+00:54:49.760 --> 00:54:52.740
+Tak i nie ma konkurencji,
+
+00:54:52.760 --> 00:54:56.740
+nie ma na horyzoncie nic.
+
+00:54:56.760 --> 00:54:57.740
+Ja w ogóle uważam,
+
+00:54:57.740 --> 00:55:00.720
+że mimo mojego takiego masochistycznego
+
+00:55:00.740 --> 00:55:02.720
+zamiłowania do świata Fallouta 76,
+
+00:55:02.740 --> 00:55:04.720
+to uważam, że ludzie grają w Fallouta 76
+
+00:55:04.740 --> 00:55:06.720
+nie dlatego, że to jest gra coraz lepsza,
+
+00:55:06.740 --> 00:55:07.720
+bo tam jest coraz lepsza,
+
+00:55:07.740 --> 00:55:09.720
+ale nadal jest to fatalna technologia,
+
+00:55:09.740 --> 00:55:11.720
+ale dlatego, że nie mają alternatywy.
+
+00:55:11.740 --> 00:55:12.720
+Gdyby dla Fallouta 76
+
+00:55:12.740 --> 00:55:14.720
+pojawiła się alternatywa,
+
+00:55:14.740 --> 00:55:15.720
+to naprawdę koniec z rzędem temu,
+
+00:55:15.740 --> 00:55:17.720
+kto zostanie przy Falloutie.
+
+00:55:17.740 --> 00:55:19.720
+I też trzeba sobie zadać,
+
+00:55:19.740 --> 00:55:20.720
+tego nie wiemy,
+
+00:55:20.740 --> 00:55:21.720
+ale trzeba zadać to pytanie,
+
+00:55:21.740 --> 00:55:24.720
+na ile oni mają prawa do Wiedźmin.
+
+00:55:24.740 --> 00:55:26.720
+Bo jeżeli mają prawa tylko na te gry,
+
+00:55:26.720 --> 00:55:27.700
+które teraz zapowiedzieli
+
+00:55:27.720 --> 00:55:29.700
+i potem już nie ma,
+
+00:55:29.720 --> 00:55:30.700
+to może być tak,
+
+00:55:30.720 --> 00:55:32.700
+że to może być też świat fantasy,
+
+00:55:32.720 --> 00:55:34.700
+który zastąpi to dowiedzenie.
+
+00:55:34.720 --> 00:55:35.700
+Ale patrząc na to,
+
+00:55:35.720 --> 00:55:37.700
+że oni robią 3, 4, 5 gier
+
+00:55:37.720 --> 00:55:40.700
+ze świata Wiedźmina,
+
+00:55:40.720 --> 00:55:42.700
+to teraz inwestowanie
+
+00:55:42.720 --> 00:55:45.700
+w nowy świat fantasy,
+
+00:55:45.720 --> 00:55:47.700
+to lepiej to już mu zapłacić z góry.
+
+00:55:47.720 --> 00:55:49.700
+I 5 razy tyle.
+
+00:55:49.720 --> 00:55:51.700
+I też myślę,
+
+00:55:51.720 --> 00:55:53.700
+że po przejażdżce z Cyberpunkiem
+
+00:55:53.720 --> 00:55:55.700
+raczej będą szukali takiego świata,
+
+00:55:55.700 --> 00:55:57.680
+który nie będzie zbyt skomplikowany
+
+00:55:57.700 --> 00:55:58.680
+w konstrukcji.
+
+00:55:58.700 --> 00:56:00.680
+I takie wyprawy międzygwiezdne
+
+00:56:00.700 --> 00:56:01.680
+raczej zakładają
+
+00:56:01.700 --> 00:56:03.680
+dosyć proste lokalizacje,
+
+00:56:03.700 --> 00:56:04.680
+w których ludzie się znajdują,
+
+00:56:04.700 --> 00:56:06.680
+a światy post-apo to już zupełnie
+
+00:56:06.700 --> 00:56:07.680
+takie proste.
+
+00:56:07.700 --> 00:56:08.680
+Więc tam skomplikowanego
+
+00:56:08.700 --> 00:56:10.680
+ruchu ulicznego, policji,
+
+00:56:10.700 --> 00:56:12.680
+nie ma co robić.
+
+00:56:12.700 --> 00:56:13.680
+Tak, mamy wybitne,
+
+00:56:13.700 --> 00:56:16.680
+tak, to jest też bardzo ważna uwaga,
+
+00:56:16.700 --> 00:56:17.680
+że to produkcyjnie
+
+00:56:17.700 --> 00:56:19.680
+nigdy nie jest tak skomplikowane
+
+00:56:19.700 --> 00:56:23.680
+jak wielkie miasto przyszłości.
+
+00:56:23.680 --> 00:56:26.660
+I też mamy The Last of Us,
+
+00:56:26.680 --> 00:56:28.660
+które długo nie będzie miało
+
+00:56:28.680 --> 00:56:30.660
+kolejnej części.
+
+00:56:30.680 --> 00:56:32.660
+I mamy serial,
+
+00:56:32.680 --> 00:56:34.660
+którego zwiastuny
+
+00:56:34.680 --> 00:56:36.660
+biją rekordy popularności,
+
+00:56:36.680 --> 00:56:37.660
+więc widać,
+
+00:56:37.680 --> 00:56:39.660
+że jest zapotrzebowanie.
+
+00:56:39.680 --> 00:56:42.660
+I leś tam też jest bardzo ważne,
+
+00:56:42.680 --> 00:56:44.660
+że akurat post-apo w kinie
+
+00:56:44.680 --> 00:56:46.660
+potrafi się udawać
+
+00:56:46.680 --> 00:56:48.660
+i potrafi się udawać bardzo dobrze.
+
+00:56:48.680 --> 00:56:51.660
+Dużo lepiej niż fantasy na przykład.
+
+00:56:51.680 --> 00:56:52.660
+Więc to jest też marka,
+
+00:56:52.660 --> 00:56:53.640
+która…
+
+00:56:53.660 --> 00:56:54.640
+Ale co tam było?
+
+00:56:54.660 --> 00:56:56.640
+Mad Max na pewno się udał ostatni.
+
+00:56:56.660 --> 00:56:59.640
+Mad Max się udał.
+
+00:56:59.660 --> 00:57:00.640
+Bug of Elia.
+
+00:57:00.660 --> 00:57:01.640
+O tak, tak,
+
+00:57:01.660 --> 00:57:03.640
+ale to jest kawał czasu już.
+
+00:57:03.660 --> 00:57:06.640
+No tak, ale wiesz, jakby…
+
+00:57:06.660 --> 00:57:07.640
+Boże, jak to się nazywało?
+
+00:57:07.660 --> 00:57:09.640
+W sensie to są dobre filmy, o tak.
+
+00:57:09.660 --> 00:57:11.640
+Tak.
+
+00:57:11.660 --> 00:57:12.640
+Ostatnie dziecko,
+
+00:57:12.660 --> 00:57:15.640
+nie wiem jak to się nazywało.
+
+00:57:15.660 --> 00:57:16.640
+Boże, zgubiłem nazwę filmu,
+
+00:57:16.660 --> 00:57:17.640
+ale to…
+
+00:57:17.660 --> 00:57:19.640
+Taka była bardzo długa scena
+
+00:57:19.660 --> 00:57:21.640
+na jednym ujęciu,
+
+00:57:21.640 --> 00:57:23.620
+nagrana, epicka.
+
+00:57:23.640 --> 00:57:24.620
+Boże, ja się nawet u niej
+
+00:57:24.640 --> 00:57:26.620
+w szkole uczyłem.
+
+00:57:26.640 --> 00:57:27.620
+No nie wiem,
+
+00:57:27.640 --> 00:57:28.620
+to żeś mnie teraz zaskoczył.
+
+00:57:28.640 --> 00:57:29.620
+No takie post-apo,
+
+00:57:29.640 --> 00:57:32.620
+że przestają się dzieci rodzić.
+
+00:57:32.640 --> 00:57:34.620
+Aha, cholera.
+
+00:57:34.640 --> 00:57:35.620
+Nie pamiętam,
+
+00:57:35.640 --> 00:57:36.620
+nie przypomnę sobie też tego.
+
+00:57:36.640 --> 00:57:38.620
+Państwo napiszą w komentarzu.
+
+00:57:38.640 --> 00:57:39.620
+Clive Owen tam grał?
+
+00:57:39.640 --> 00:57:40.620
+Nie pamiętam, kto tam grał,
+
+00:57:40.640 --> 00:57:44.620
+ale to Boże, jak to się nazywało?
+
+00:57:44.640 --> 00:57:45.620
+Może nam się uda znaleźć do końca.
+
+00:57:45.640 --> 00:57:46.620
+Jak się nam nie uda,
+
+00:57:46.640 --> 00:57:49.620
+to państwo będą nas tutaj ratować.
+
+00:57:49.640 --> 00:57:50.620
+Ale zgadzam się co do tego,
+
+00:57:50.620 --> 00:57:51.600
+że potencjał jest ogromny.
+
+00:57:51.620 --> 00:57:52.600
+I ja bym chciał
+
+00:57:52.620 --> 00:57:53.600
+i takie filmy oglądać,
+
+00:57:53.620 --> 00:57:54.600
+i seriale.
+
+00:57:54.620 --> 00:57:55.600
+Station Eleven chyba
+
+00:57:55.620 --> 00:57:56.600
+z tej kategorii?
+
+00:57:56.620 --> 00:57:57.600
+Tak, tak, dokładnie.
+
+00:57:57.620 --> 00:57:58.600
+No to jest kolejny,
+
+00:57:58.620 --> 00:57:59.600
+kolejny serial.
+
+00:57:59.620 --> 00:58:01.600
+No mi się bardzo podobał ten serial.
+
+00:58:01.620 --> 00:58:05.600
+Więc jest to…
+
+00:58:05.620 --> 00:58:08.600
+My, twórcy,
+
+00:58:08.620 --> 00:58:09.600
+jeżeli chcielibyśmy przenieść
+
+00:58:09.620 --> 00:58:11.600
+tą grę na inne medium,
+
+00:58:11.620 --> 00:58:12.600
+twórcy już są przygotowani.
+
+00:58:12.620 --> 00:58:13.600
+Już mają referencje,
+
+00:58:13.620 --> 00:58:15.600
+wiedzą jak to zrobić.
+
+00:58:15.620 --> 00:58:17.600
+Chciałbym przypomnieć Państwu też,
+
+00:58:17.600 --> 00:58:20.580
+że produkcja post-apo,
+
+00:58:20.600 --> 00:58:23.580
+na przykład dziejącego się w lesie,
+
+00:58:23.600 --> 00:58:26.580
+jest łatwa, tania.
+
+00:58:26.600 --> 00:58:27.580
+To jest taki świat,
+
+00:58:27.600 --> 00:58:29.580
+w którym ludzi nie potrzeba zbyt wielu,
+
+00:58:29.600 --> 00:58:30.580
+żeby pokazać coś ciekawego,
+
+00:58:30.600 --> 00:58:33.580
+więc to jest znaczące.
+
+00:58:33.600 --> 00:58:35.580
+A porusza wyobraźnię mocno.
+
+00:58:35.600 --> 00:58:37.580
+Porusza, porusza wyobraźnię.
+
+00:58:37.600 --> 00:58:41.580
+Oczywiście też na tym czacie inwestorskim
+
+00:58:41.600 --> 00:58:43.580
+Nielubowicz potwierdził,
+
+00:58:43.600 --> 00:58:45.580
+że nie kupili prawa do Torgala,
+
+00:58:45.580 --> 00:58:47.560
+bo się pojawiły takie plotki,
+
+00:58:47.580 --> 00:58:52.560
+to już można zdementować.
+
+00:58:52.580 --> 00:58:56.560
+No i mają trzy franczyzy.
+
+00:58:56.580 --> 00:58:58.560
+To jest takie rozszerzenie,
+
+00:58:58.580 --> 00:59:01.560
+które wydaje się abstrakcyjne.
+
+00:59:01.580 --> 00:59:02.560
+Nie będę ukrywał,
+
+00:59:02.580 --> 00:59:04.560
+że fajnie o tym się mówi,
+
+00:59:04.580 --> 00:59:07.560
+o tych wszystkich grach z perspektywy,
+
+00:59:07.580 --> 00:59:10.560
+że wow, będę sobie grał,
+
+00:59:10.580 --> 00:59:11.560
+ale stawiam,
+
+00:59:11.560 --> 00:59:16.540
+że połowa nigdy nie dojdzie do skutku.
+
+00:59:16.560 --> 00:59:18.540
+CD Projekt w swojej historii
+
+00:59:18.560 --> 00:59:20.540
+miał tyle zawirowań,
+
+00:59:20.560 --> 00:59:23.540
+tyle problemów produkcyjnych.
+
+00:59:23.560 --> 00:59:25.540
+Każda gra...
+
+00:59:25.560 --> 00:59:27.540
+Nigdy im się nie zdarzało
+
+00:59:27.560 --> 00:59:29.540
+dowieźć produktu,
+
+00:59:29.560 --> 00:59:32.540
+który byłby wypolerowany na premierę,
+
+00:59:32.560 --> 00:59:35.540
+który by zdążył na premierę przede wszystkim.
+
+00:59:35.560 --> 00:59:39.540
+Więc powiem szczerze,
+
+00:59:39.540 --> 00:59:41.520
+życzę im, żeby się udało.
+
+00:59:41.540 --> 00:59:43.520
+Niestety nie wierzę.
+
+00:59:43.540 --> 00:59:44.520
+To jest tak.
+
+00:59:44.540 --> 00:59:46.520
+Plany trzeba mieć ambitne.
+
+00:59:46.540 --> 00:59:47.520
+Wiadoma sprawa,
+
+00:59:47.540 --> 00:59:49.520
+bo jak masz mało ambitne plany
+
+00:59:49.540 --> 00:59:50.520
+i jeszcze ich nie dowodzisz,
+
+00:59:50.540 --> 00:59:52.520
+to już w ogóle jest fatalnie.
+
+00:59:52.540 --> 00:59:53.520
+Jeżeli z tych siedmiu rzeczy,
+
+00:59:53.540 --> 00:59:55.520
+które żeśmy dzisiaj wymienili trochę,
+
+00:59:55.540 --> 00:59:57.520
+uda im się dowieźć trzy
+
+00:59:57.540 --> 00:59:59.520
+na przestrzeni najbliższych dziesięciu lat,
+
+00:59:59.540 --> 01:00:00.520
+to już jest coś.
+
+01:00:00.540 --> 01:00:02.520
+To już jest coś, co dostaniemy
+
+01:00:02.540 --> 01:00:04.520
+i ja jestem podekscytowany tym.
+
+01:00:04.540 --> 01:00:06.520
+Ostatecznie odkryłem
+
+01:00:06.540 --> 01:00:08.520
+całą masę gier survivalowych,
+
+01:00:08.520 --> 01:00:10.500
+od których się do tej pory trzymałem z daleka,
+
+01:00:10.520 --> 01:00:12.500
+więc ja mam co robić na razie.
+
+01:00:12.520 --> 01:00:13.500
+Tak, to prawda.
+
+01:00:13.520 --> 01:00:15.500
+Nie starzeję się tak szybko jak kiedyś,
+
+01:00:15.520 --> 01:00:17.500
+więc mogę czekać.
+
+01:00:17.520 --> 01:00:18.500
+Doskonałe.
+
+01:00:18.520 --> 01:00:19.500
+Proszę Państwa,
+
+01:00:19.520 --> 01:00:21.500
+ten film to jest Ludzkie Dzieci.
+
+01:00:21.520 --> 01:00:22.500
+Ludzkie Dzieci.
+
+01:00:22.520 --> 01:00:23.500
+Byłeś blisko,
+
+01:00:23.520 --> 01:00:25.500
+już tam prawie ci na końcu języka widziałem.
+
+01:00:25.520 --> 01:00:26.500
+Ach, co się dzieje.
+
+01:00:26.520 --> 01:00:28.500
+No nic, no słuchajcie.
+
+01:00:28.520 --> 01:00:33.500
+Ja mam do Was jedno pytanie.
+
+01:00:33.520 --> 01:00:35.500
+Jak sobie wyobrażacie
+
+01:00:35.520 --> 01:00:37.500
+nowe IP CD Projektu?
+
+01:00:37.500 --> 01:00:39.480
+CD Projektu, Hadar.
+
+01:00:39.500 --> 01:00:41.480
+Ach, tutaj możecie,
+
+01:00:41.500 --> 01:00:43.480
+co, jakie lore.
+
+01:00:43.500 --> 01:00:45.480
+Możecie popuścić wyobraźni.
+
+01:00:45.500 --> 01:00:46.480
+Tak, wodzy wyobraźni.
+
+01:00:46.500 --> 01:00:47.480
+Wodzy, wodzy.
+
+01:00:47.500 --> 01:00:48.480
+I zaszalejcie.
+
+01:00:48.500 --> 01:00:50.480
+My się widzimy na PGA.
+
+01:00:50.500 --> 01:00:53.480
+No i niedługo,
+
+01:00:53.500 --> 01:00:55.480
+nie ma streamu dzisiaj,
+
+01:00:55.500 --> 01:00:56.480
+przynajmniej u mnie.
+
+01:00:56.500 --> 01:00:57.480
+U mnie.
+
+01:00:57.500 --> 01:00:58.480
+U mnie może być,
+
+01:00:58.500 --> 01:00:59.480
+bo ja wcześniej zaczynam.
+
+01:00:59.500 --> 01:01:01.480
+Aha, dadłotrzycy.
+
+01:01:01.500 --> 01:01:03.480
+Nie, to kończy.
+
+01:01:03.500 --> 01:01:06.480
+Widzimy się proszę Państwa na PGA
+
+01:01:06.480 --> 01:01:08.460
+i jeżeli,
+
+01:01:08.480 --> 01:01:10.460
+przypominam, że będziemy mieli gości
+
+01:01:10.480 --> 01:01:11.460
+na grupie,
+
+01:01:11.480 --> 01:01:13.460
+na facebookowej grupie Rogi Boris
+
+01:01:13.480 --> 01:01:14.460
+można zadać pytania
+
+01:01:14.480 --> 01:01:15.460
+do tych gości,
+
+01:01:15.480 --> 01:01:17.460
+w szczególności jak ktoś ma jakieś ambicje
+
+01:01:17.480 --> 01:01:20.460
+albo pytania dotyczące wejścia
+
+01:01:20.480 --> 01:01:23.460
+w świat polskiego gamedevu.
+
+01:01:23.480 --> 01:01:24.460
+Zapraszamy, zapraszamy.
+
+01:01:24.480 --> 01:01:29.460
+Myślę, że to będą bardzo, bardzo ciekawe tematy.
+
+01:01:29.480 --> 01:01:30.460
+Jak najbardziej.
+
+01:01:30.480 --> 01:01:31.460
+Zapraszamy i pozdrawiamy.
+
+01:01:31.480 --> 01:01:32.460
+Powiedz mi,
+
+01:01:32.480 --> 01:01:35.460
+następny podcast puszczamy dokładnie kiedy?
+
+01:01:35.460 --> 01:01:37.440
+Wydaje mi się, że…
+
+01:01:37.460 --> 01:01:39.440
+Jutro rano?
+
+01:01:39.460 --> 01:01:42.440
+Chyba w piątek, tak.
+
+01:01:42.460 --> 01:01:43.440
+Wydaje mi się,
+
+01:01:43.460 --> 01:01:45.440
+że piątek, sobota i poniedziałek
+
+01:01:45.460 --> 01:01:46.440
+będą podcasty
+
+01:01:46.460 --> 01:01:48.440
+albo piątek, sobota, niedziela i poniedziałek.
+
+01:01:48.460 --> 01:01:50.440
+To proszę przygotować się
+
+01:01:50.460 --> 01:01:51.440
+na intensywne oglądanie,
+
+01:01:51.460 --> 01:01:53.440
+bo się Państwo nie wyrobią.
+
+01:01:53.460 --> 01:01:55.440
+Pozdrawiamy bardzo serdecznie
+
+01:01:55.460 --> 01:01:57.440
+i do zobaczenia i do usłyszenia.
+
+01:01:57.460 --> 01:01:58.440
+Trzymajcie się, cześć.
+
+01:01:58.440 --> 01:02:18.440
+Pa, pa.
+

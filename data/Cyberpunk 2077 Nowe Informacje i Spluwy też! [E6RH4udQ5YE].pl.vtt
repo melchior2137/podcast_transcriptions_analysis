@@ -1,0 +1,2983 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.400
+Dzień dobry, witam Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:05.400 --> 00:00:07.000
+Dzień dobry, Remgiusz.
+
+00:00:07.000 --> 00:00:12.760
+Ja jestem Rock i jak tam u Państwa i jak tam u Ciebie? Dobrze wszystko?
+
+00:00:12.760 --> 00:00:16.600
+Nie wiem jak u Państwa. Trzeba byłoby się Państwa spytać.
+
+00:00:16.600 --> 00:00:23.400
+Co też spytałem się. To nie było pytanie do Ciebie, tylko było pytanie do Państwa, do Ciebie było osobne.
+
+00:00:23.400 --> 00:00:33.560
+To lepiej to brzmi. U mnie dobrze. Byłem na pierwszym evencie branżowym w tym roku, czyli na GDE, Game Dev Evening.
+
+00:00:33.560 --> 00:00:40.000
+To jest takie bardziej networkingowe spotkanie, że tak to gładko powiem.
+
+00:00:40.000 --> 00:00:46.720
+Ale fajnie było zobaczyć dużo, dużo znajomych i dowiedzieć się co nieco ważnych rzeczy.
+
+00:00:46.720 --> 00:00:56.440
+Ale na GDE jest taka zasada, że coś się wydarzyło na GDE zostaje na GDE, więc i tak nic nie mogę powiedzieć.
+
+00:00:56.440 --> 00:00:58.640
+Ale to by były same dobre wiadomości.
+
+00:00:58.640 --> 00:01:06.240
+A, to dobrze, to dobrze. Ja natomiast, bo zakładam, że również jesteście, co tam u mnie?
+
+00:01:06.240 --> 00:01:07.320
+Co tam u Ciebie, Remgiusz?
+
+00:01:07.320 --> 00:01:10.520
+Ale widzę, że popijasz, bo zajęte masz usta, bo pewnie strasznie gorąco.
+
+00:01:10.520 --> 00:01:14.360
+Jest gorąco? Tak, potwierdzam bardzo.
+
+00:01:14.360 --> 00:01:18.760
+No, we Wrocławiu bardzo mocno. Ja byłem schorowany potwornie.
+
+00:01:18.760 --> 00:01:23.600
+Jak żeśmy w czwartek rozmawiali ze sobą, w czwartek mieliśmy o State of Play pogadać po konferencji,
+
+00:01:23.600 --> 00:01:28.080
+o czym pogadamy także między innymi dzisiaj, to ja już nie miałem siły za bardzo.
+
+00:01:28.080 --> 00:01:30.960
+I następnego dnia już byłem potwornie chory.
+
+00:01:30.960 --> 00:01:36.880
+Po prostu jak na prawdziwego mężczyznę przystało, byłem gotów umierać przy temperaturze 38 stopni.
+
+00:01:36.880 --> 00:01:37.880
+Korona.
+
+00:01:37.880 --> 00:01:43.280
+Właśnie myślałem, że korona, bo mnie płuca bolały, nie mogłem oddychać i w ogóle miałem gorączkę.
+
+00:01:43.280 --> 00:01:50.680
+Ale chyba bardziej się czymś zatrułem i to przez żołądek, całe wnętrzności bolały, więc ciężko to przecierpiałem.
+
+00:01:50.680 --> 00:01:57.920
+I myślałem sobie, boże, no pora umierać, no trudno, 43 lata, spoko, coś tam przeżyłem, coś tam zobaczyłem.
+
+00:01:57.920 --> 00:02:01.320
+No, ale dzisiaj już się czuję bardzo dobrze, ale swoje przyszedłem.
+
+00:02:01.320 --> 00:02:04.320
+Moja żona, aż była przestraszona, zaczęła szukać mi tam...
+
+00:02:04.320 --> 00:02:05.920
+Miejsca na cmentarzu.
+
+00:02:05.920 --> 00:02:07.920
+Nie, nie, nie, nie, nie.
+
+00:02:07.920 --> 00:02:13.520
+Wypadała mnie z symptomy i wychodziło, że albo korona, albo zawał serca, jakiś taki długoterminowy.
+
+00:02:13.520 --> 00:02:17.520
+Nie wiedziałem, co lepsze, na szczęście chyba ani jedno, ani drugie, więc już jestem w porządku.
+
+00:02:17.520 --> 00:02:20.520
+Dwa kilogramy schudłem przez trzy dni, więc odwodniłem się po to.
+
+00:02:20.520 --> 00:02:24.520
+Oczywiście jakieś żołądkowe problemy.
+
+00:02:24.520 --> 00:02:28.520
+Już nie chcę się w szczegóły wdawać.
+
+00:02:28.520 --> 00:02:37.520
+No to dobrze, ja byłem na koncercie Małolata, znaczy był na GDE, a Małolat to taki raper znany.
+
+00:02:37.520 --> 00:02:39.520
+Z dawnych lat, przede wszystkim.
+
+00:02:39.520 --> 00:02:48.520
+Bardzo, a jako, że teraz jest prezesem spółki gamedevowej, no to przyjechał też, zrobił koncert taki szybki.
+
+00:02:48.520 --> 00:02:53.520
+W ogóle fajnie, ja super fanem byłem, więc z dawnych, dawnych lat nie będę ukrywał.
+
+00:02:53.520 --> 00:03:02.520
+Ale super, w ogóle dawno nie byłem na żadnym koncercie i to tak, wiesz, nawet taki malutki, kameralny, super był.
+
+00:03:02.520 --> 00:03:06.520
+W sensie dużo osób mogłoby powiedzieć, że dawno już nie było na koncercie, zważywszy na ostatnie problemy.
+
+00:03:06.520 --> 00:03:11.520
+A powiedz mi, w związku z tym, znaczy dużo było ludzi, nie miałeś jakichś obaw?
+
+00:03:11.520 --> 00:03:16.520
+Wiesz co, nie no, miałem oczywiście, ale były bardzo wysokie takie standardy bezpieczeństwa.
+
+00:03:16.520 --> 00:03:23.520
+Znaczy każdemu mierzono temperaturkę indywidualnie na starcie, wszędzie były płyny.
+
+00:03:23.520 --> 00:03:28.520
+Wysoko procentów, przed i po.
+
+00:03:28.520 --> 00:03:34.520
+No wiesz, zawsze są obawy, no pójdziesz do Biedronki i wiesz, ludzie nie noszą maseczki.
+
+00:03:34.520 --> 00:03:42.520
+Więc raczej tak było z zachowaniem dyscypliny, powiem tak.
+
+00:03:42.520 --> 00:03:47.520
+Więc oczywiście troszeczkę się tam obawiałem, ale też...
+
+00:03:47.520 --> 00:03:49.520
+Rozumiem, że wszystko dobrze.
+
+00:03:49.520 --> 00:03:56.520
+Wspominam o tym, bo ja mam 15, mam imprezę Mojko we Wrocławiu i też będzie trochę ludzi z internetów.
+
+00:03:56.520 --> 00:04:01.520
+To ten internet, to Mojko. Dlatego ludzie z internetu przybędą.
+
+00:04:01.520 --> 00:04:05.520
+O Mojko, tak. No i też trochę się dygam.
+
+00:04:05.520 --> 00:04:10.520
+I zastanawiam się, czy ja tu nie będę nosicielem jakiejś zarazy, zważywszy na moje ostatnie parę dni.
+
+00:04:10.520 --> 00:04:15.520
+Ale zobaczymy. Jak ja jestem nosicielem zarazy, to mi tak nie przeszkadza.
+
+00:04:15.520 --> 00:04:18.520
+To mogę iść na każdą imprezę teraz.
+
+00:04:18.520 --> 00:04:21.520
+Bardzo altruistyczne podejście.
+
+00:04:21.520 --> 00:04:25.520
+Tak, tak, bardzo. Trzeba się dzielić.
+
+00:04:25.520 --> 00:04:27.520
+Dobre żarty.
+
+00:04:27.520 --> 00:04:31.520
+Nie, no żartuję. Jak się okaże, że jestem chory, to oczywiście nie pójdę. Proszę się nie bać.
+
+00:04:31.520 --> 00:04:34.520
+Może jesteś zdrowy, no to wiesz.
+
+00:04:34.520 --> 00:04:36.520
+No chyba, że jestem zdrowy.
+
+00:04:36.520 --> 00:04:38.520
+Night City Wire, epizod drugi.
+
+00:04:38.520 --> 00:04:41.520
+Tak jest. Był przed chwilą. Jesteśmy na świeżo.
+
+00:04:41.520 --> 00:04:43.520
+Na świeżutko, tak. Dokładnie.
+
+00:04:43.520 --> 00:04:50.520
+Ze wstępnych rzeczy mogę od razu powiedzieć, że nie wiem, czy taki plan tego pokazu był od początku.
+
+00:04:50.520 --> 00:04:54.520
+Taki, jak żeśmy zobaczyli. No jakby zapowiedzi były jasne.
+
+00:04:54.520 --> 00:04:58.520
+Więc wydaje mi się, że pierwszy pokaz miał takie elementy szybkie i ciekawe,
+
+00:04:58.520 --> 00:05:01.520
+i takie też wolniejsze, które nie do końca fajnie pasowały do streama,
+
+00:05:01.520 --> 00:05:04.520
+bo ludzie mają jednak oczekiwania, żeby cały czas coś się działo.
+
+00:05:04.520 --> 00:05:08.520
+I na tym Night City Wire 2 zdecydowanie cały czas coś się działo.
+
+00:05:08.520 --> 00:05:15.520
+Było trochę wstępu, trochę muzyki, trochę obroni i trochę o tych takich pochodzeniu naszego bohatera.
+
+00:05:15.520 --> 00:05:19.520
+I wszystko dynamicznie, fajnie zrobione i ciekawie się to oglądało.
+
+00:05:19.520 --> 00:05:25.520
+Jeżeli mówisz o Twitchu, to na oficjalnym Twitchu było około 86 tysięcy.
+
+00:05:25.520 --> 00:05:31.520
+Na całym Twitchu jakieś 236 i na całym YouTubie 100 tysięcy.
+
+00:05:31.520 --> 00:05:38.520
+Czyli dużo, dużo mniej niż poprzednie Night City Wire i dużo mniej niż poprzednie konferencje,
+
+00:05:38.520 --> 00:05:42.520
+na przykład MS czy State of Play.
+
+00:05:42.520 --> 00:05:48.520
+Nie wiem z czego to wynika. Może z sytuacji na świecie, że dużo się dzieje.
+
+00:05:48.520 --> 00:05:53.520
+Nie wiem, może wakacje po prostu już weszły na pełnej.
+
+00:05:53.520 --> 00:05:57.520
+Tak, tak, mi się wydaje, że wakacje mają duże znaczenie.
+
+00:05:57.520 --> 00:06:02.520
+Lipiec, patrząc na wyniki swojego, tego drugiego kanału, to miałem takie wrażenie,
+
+00:06:02.520 --> 00:06:05.520
+że lipiec jest takim miesiącem, jakby w ogóle wakacji nie było.
+
+00:06:05.520 --> 00:06:08.520
+Znaczy ruch był cały czas taki sam na dosyć dużym poziomie.
+
+00:06:08.520 --> 00:06:13.520
+Natomiast sierpień taki zauważalny spadek dostrzegam, więc ludzie wyjeżdżali.
+
+00:06:13.520 --> 00:06:16.520
+Zresztą i ty chyba planujesz wyjazd i ja planuję wyjazd w sierpniu,
+
+00:06:16.520 --> 00:06:18.520
+więc może to jest taki miesiąc.
+
+00:06:18.520 --> 00:06:22.520
+Dwa ostatnie tygodnie, to nie wiem czy będziemy. Coś wymyślimy, nie?
+
+00:06:22.520 --> 00:06:23.520
+No, coś wymyślimy.
+
+00:06:23.520 --> 00:06:29.520
+Dokładnie. Więc też ciekawa rzecz, że dzieją się bardzo ważne rzeczy.
+
+00:06:29.520 --> 00:06:38.520
+Białoruś walczy o wolność i po tych jakże prawilnie zrobionych wyborach,
+
+00:06:38.520 --> 00:06:45.520
+gdzie niezależne badania pokazują, że na Łukaszenkę praktycznie nikt nie zagłosuje,
+
+00:06:45.520 --> 00:06:48.520
+a dostaje 70% głosów.
+
+00:06:48.520 --> 00:06:53.520
+Wczoraj do późna w nocy oglądałem to, co się tam dzieje.
+
+00:06:53.520 --> 00:06:58.520
+Bielsat jest taka telewizja, to jest polska telewizja nadająca po ukraińsku
+
+00:06:58.520 --> 00:07:03.520
+i zajmująca się ukraińskim, niezależna od Łukaszenki oczywiście.
+
+00:07:03.520 --> 00:07:06.520
+Mówisz o białoruskiej czy o ukraińskiej?
+
+00:07:06.520 --> 00:07:07.520
+O białoruskiej.
+
+00:07:07.520 --> 00:07:09.520
+O białoruskiej, bo jest ukraińska dla tego.
+
+00:07:09.520 --> 00:07:15.520
+Przepraszam bardzo, białoruska, ale telewizja jest polska, bo to jest pod TVP.
+
+00:07:15.520 --> 00:07:21.520
+Słuszna inicjatywa, dużo też śledzę tematu na Twitterze.
+
+00:07:21.520 --> 00:07:27.520
+No i też mnie takie nadeszły myśli, że rozmawialiśmy o tym w podcaście,
+
+00:07:27.520 --> 00:07:36.520
+że przesuwanie eventów jest związane bardziej nie to, co się dzieje,
+
+00:07:36.520 --> 00:07:38.520
+tylko gdzie to się dzieje.
+
+00:07:38.520 --> 00:07:44.520
+Był taki artykuł na Poligaminie, też się przyglądałem temu
+
+00:07:44.520 --> 00:07:48.520
+i tam redaktor zasugerował, że właściwie dobrze byłoby przesunąć
+
+00:07:48.520 --> 00:07:51.520
+ten kolejny pokaz Cyberpunka z względu na to, co się dzieje.
+
+00:07:51.520 --> 00:07:54.520
+Po pierwsze na Białorusi, po drugie w Polsce też tam jakieś łopanki były,
+
+00:07:54.520 --> 00:07:57.520
+chociaż te w Polsce sytuacje są takie bardzo niejednoznaczne.
+
+00:07:57.520 --> 00:08:03.520
+W Polsce mamy bardzo jednoznaczne sytuacje od wielu, wielu miesięcy.
+
+00:08:03.520 --> 00:08:11.520
+To pałowanie na przykład na proteście przedsiębiorców, niewiele się to różni.
+
+00:08:11.520 --> 00:08:20.520
+Więc to nadużywanie władzy i pałowanie obywatela dotyka jednej i drugiej strony.
+
+00:08:20.520 --> 00:08:28.520
+A że władza bardzo nie lubi tych środowisk LGBT, to śledzi,
+
+00:08:28.520 --> 00:08:34.520
+może śledzi to jest złe słowo, ale obserwuje ich i wyłapuje wszystkie rzeczy.
+
+00:08:34.520 --> 00:08:40.520
+Ja mówię, że to jest niejednoznaczne, ponieważ tych aktywistów,
+
+00:08:40.520 --> 00:08:48.520
+którzy są głównymi bohaterami tej historii, to dosyć nierozważnie
+
+00:08:48.520 --> 00:08:54.520
+się wykazali trochę agresją w stosunku do pro-life'owego pojazdu.
+
+00:08:54.520 --> 00:08:58.520
+I to była oczywista prowokacja. Ja nie mówię, że tam zasadna czy niezasadna,
+
+00:08:58.520 --> 00:09:01.520
+ale się dali strasznie wciągnąć w to niepotrzebnie.
+
+00:09:01.520 --> 00:09:06.520
+Widać też, że nie ma wyrazistego lidera tego środowiska,
+
+00:09:06.520 --> 00:09:11.520
+który mógłby... też organizacyjnie to jest kiepsko zrobione.
+
+00:09:11.520 --> 00:09:15.520
+Wiadomo, że to jest jakiś tam ruch oddolny, no ale przydałaby się
+
+00:09:15.520 --> 00:09:21.520
+jakaś organizacja, żeby w jakiś sensowny sposób walczyć swoje prawa.
+
+00:09:21.520 --> 00:09:26.520
+Dla mnie jak najbardziej słuszne, bo to są po prostu prawa człowieka.
+
+00:09:26.520 --> 00:09:33.520
+No ale takie, wiesz, dać się jak dzieci nabierać po prostu na takie prowokacje
+
+00:09:33.520 --> 00:09:36.520
+to jest po prostu słabe.
+
+00:09:36.520 --> 00:09:38.520
+Słabe, słabe.
+
+00:09:38.520 --> 00:09:43.520
+No ale z drugiej strony, wiesz co, ja przez wiele lat byłem fotoreporterem
+
+00:09:43.520 --> 00:09:49.520
+i chodziłem na różne demonstracje i też na fety kibicowskie
+
+00:09:49.520 --> 00:09:53.520
+i naprawdę różne rzeczy na pomnikach były wieszane.
+
+00:09:53.520 --> 00:09:57.520
+Flagi klubów czy różne rzeczy.
+
+00:09:57.520 --> 00:10:02.520
+Nie było to jakby, nie było tak mocno ścigane, że tak powiem.
+
+00:10:02.520 --> 00:10:03.520
+Nie, nie, to tak.
+
+00:10:03.520 --> 00:10:09.520
+Więc zależy od tego, kto co robi, tak jest, no tak, ta temida ślepa,
+
+00:10:09.520 --> 00:10:11.520
+która w Polsce chyba...
+
+00:10:11.520 --> 00:10:12.520
+Wyjątkowo ślepa.
+
+00:10:12.520 --> 00:10:15.520
+Raczej nie jest ślepa, tego głucha, więc...
+
+00:10:15.520 --> 00:10:20.520
+To jest, wiesz co, to też jest tak, że środowisko LGBT
+
+00:10:20.520 --> 00:10:24.520
+i przez jedną, i przez drugą stronę w polityce jest wykorzystywane dosyć mocno
+
+00:10:24.520 --> 00:10:29.520
+i to są konsekwencje, to znaczy jakby władza stosuje siłę
+
+00:10:29.520 --> 00:10:32.520
+i w żadnym razie ta siła nie jest usprawiedliwiona,
+
+00:10:32.520 --> 00:10:38.520
+ale to są konsekwencje tego, że w jedną i w drugą stronę są rozciągane te środowiska.
+
+00:10:38.520 --> 00:10:42.520
+To bardzo niedobrze, to powinna być jakby niezależnie kwestia od polityki.
+
+00:10:42.520 --> 00:10:46.520
+No ale co tu możemy zrobić, tylko ewentualnie pokazywać palcem.
+
+00:10:46.520 --> 00:10:49.520
+Tak, no nie no, warto o tym mówić, warto pokazywać takie rzeczy.
+
+00:10:49.520 --> 00:10:51.520
+Tak, tak, tak, zgadza się, zgadza się.
+
+00:10:51.520 --> 00:10:57.520
+Wracając jednak do Białorusi, ja też ten zarzut, że Redzi zwrócili uwagę
+
+00:10:57.520 --> 00:11:00.520
+na to, co się dzieje w Ameryce, a tutaj, co blisko się dzieje na wschodzie,
+
+00:11:00.520 --> 00:11:02.520
+to niespecjalnie zwracają uwagę.
+
+00:11:02.520 --> 00:11:05.520
+Myślę sobie, że no, pewnie, pewnie, ale to, co się dzieje w takich
+
+00:11:05.520 --> 00:11:10.520
+niedemokratycznych państwach, to cały czas właściwie woła o pomysły do nieba
+
+00:11:10.520 --> 00:11:14.520
+i gdyby tak popatrzeć po świecie, to żaden pokaz gry musiałby się nie odbyć,
+
+00:11:14.520 --> 00:11:18.520
+bo cały czas są miejsca, gdzie te wolności są...
+
+00:11:18.520 --> 00:11:19.520
+Łamane.
+
+00:11:19.520 --> 00:11:24.520
+No właśnie, łamane, więc trudno od Redów wymagać, żeby na każdą taką sytuację reagowali.
+
+00:11:24.520 --> 00:11:28.520
+Oczywiście no, w idealnym świecie, no pewnie takie rzeczy nie miałyby miejsca
+
+00:11:28.520 --> 00:11:30.520
+po prostu i tyle, nie? Ale świat mamy taki, jaki mamy.
+
+00:11:30.520 --> 00:11:35.520
+Poza tym jakby Redzi opowiadają też historię w swojej grze tego, co się dzieje w Ameryce,
+
+00:11:35.520 --> 00:11:38.520
+więc te wszelkie protesty, które w Ameryce się odbywają, gdzieś tam dużo łatwiej
+
+00:11:38.520 --> 00:11:44.520
+powiązać z tym, co się w grze znajdzie, bo jednak Cyberpunk 2077 pokazuje historię,
+
+00:11:44.520 --> 00:11:49.520
+która nie do końca jest pozytywna. Tam są wojny korporacji, tam właściwie rządy
+
+00:11:49.520 --> 00:11:56.520
+nie mają absolutnie już żadnej władzy, więc sama prezentacja podczas tych wydarzeń
+
+00:11:56.520 --> 00:12:00.520
+w Stanach Zjednoczonych byłaby traktowana jako manifest czegoś tam, nie?
+
+00:12:00.520 --> 00:12:04.520
+Więc to lepiej się było nie pakować. A poza tym z biznesowego punktu widzenia
+
+00:12:04.520 --> 00:12:05.520
+to też niespecjalnie rozsądne, bo...
+
+00:12:05.520 --> 00:12:07.520
+Myślę, że to jest najważniejszy punkt widzenia...
+
+00:12:07.520 --> 00:12:08.520
+No oczywiście, oczywiście.
+
+00:12:08.520 --> 00:12:12.520
+Czyli biznesowe, czyli jakby zależy ci na tych najważniejszych rękach,
+
+00:12:12.520 --> 00:12:16.520
+no to patrzysz na nie, na resztę po prostu nie patrzysz, no.
+
+00:12:16.520 --> 00:12:17.520
+No okej.
+
+00:12:17.520 --> 00:12:20.520
+Znaczy ja to rozumiem, nagraliśmy o tym podcast.
+
+00:12:20.520 --> 00:12:21.520
+Nie ma co się...
+
+00:12:21.520 --> 00:12:27.520
+Jak będę pamiętał, to tam gdzieś wrzucę tam odnośnik do tego podcastu o tym jak
+
+00:12:27.520 --> 00:12:33.520
+i dlaczego marki angażują się w pewien aktywizm społeczny czy polityczny.
+
+00:12:33.520 --> 00:12:39.520
+Jak najbardziej. A już teraz wracając do samego pokazu, coś co zwróciło na pewno muzyka.
+
+00:12:39.520 --> 00:12:41.520
+Bo to jest coś o czym często mówisz.
+
+00:12:41.520 --> 00:12:47.520
+Zwróciło nam, na moją uwagę to, że cienie schodkują.
+
+00:12:47.520 --> 00:12:50.520
+Okej, okej, słuchaj.
+
+00:12:50.520 --> 00:12:53.520
+A to są chyba, cały czas to były nagrania.
+
+00:12:53.520 --> 00:12:56.520
+Wiele nagrań były już tych starszych, które były pokazywane podczas tam,
+
+00:12:56.520 --> 00:12:58.520
+na przykład ta ścieżka życiowa Nomada.
+
+00:12:58.520 --> 00:13:01.520
+No to tam były te nagrania, które wcześniej żeśmy już widzieli
+
+00:13:01.520 --> 00:13:03.520
+i tam pewnie też schodkowały.
+
+00:13:03.520 --> 00:13:05.520
+To się nie zmieniło od tego czasu.
+
+00:13:05.520 --> 00:13:06.520
+Nie, no żartuję oczywiście.
+
+00:13:06.520 --> 00:13:09.520
+Znaczy podobały mi się jak ta gra wygląda.
+
+00:13:09.520 --> 00:13:12.520
+Przede wszystkim podobało mi się to jak wygląda w pomieszczeniach,
+
+00:13:12.520 --> 00:13:16.520
+ponieważ na zewnątrz wygląda trochę gorzej.
+
+00:13:16.520 --> 00:13:21.520
+Fajnie to jest zrobione.
+
+00:13:21.520 --> 00:13:24.520
+Znaczy jest duży detal.
+
+00:13:24.520 --> 00:13:31.520
+Ja też zastanawiam od razu tutaj tak, że tam jest, w ogóle nie było tego HUD-u.
+
+00:13:31.520 --> 00:13:33.520
+Nie był widoczny, tak?
+
+00:13:33.520 --> 00:13:37.520
+Nie był widoczny, nie było widocznych tych cyferek jak strzelasz.
+
+00:13:37.520 --> 00:13:39.520
+Może to jest na podstawie prezentacji.
+
+00:13:39.520 --> 00:13:42.520
+Wydaje mi się, że nad HUD-em to jest jeszcze coś nad czym ledzi pracują,
+
+00:13:42.520 --> 00:13:46.520
+bo podczas pokazu zwrócono uwagę, że jest trochę interfejs nieczytelny,
+
+00:13:46.520 --> 00:13:49.520
+więc może żeby nie wprowadzać dodatkowego zamieszania
+
+00:13:49.520 --> 00:13:51.520
+to się go teraz nie umieszcza na tych gameplayach.
+
+00:13:51.520 --> 00:13:54.520
+Zresztą dużo ładniej widać grę jak nie ma tych elementów dodatkowych,
+
+00:13:54.520 --> 00:13:56.520
+więc to może być taka przyczyna.
+
+00:13:56.520 --> 00:13:59.520
+Sądzę, że w grze to będzie widoczne, ale nie ma ostatecznego jeszcze.
+
+00:13:59.520 --> 00:14:02.520
+Nie, no ja wiem, ale zastanawiam się czy to jest jakaś duża zmiana,
+
+00:14:02.520 --> 00:14:07.520
+że trzeba będzie opuścić.
+
+00:14:07.520 --> 00:14:08.520
+Zobaczymy, zobaczymy.
+
+00:14:08.520 --> 00:14:13.520
+Nie, to już powiem tak, z pewnego źródła mam informacje.
+
+00:14:13.520 --> 00:14:17.520
+Duże prawdopodobieństwo do otrzymania tej trójki.
+
+00:14:17.520 --> 00:14:18.520
+To dobrze.
+
+00:14:18.520 --> 00:14:21.520
+Ale mówisz o Refused, tak?
+
+00:14:21.520 --> 00:14:22.520
+Tak, tak.
+
+00:14:22.520 --> 00:14:25.520
+Jak mówiłem o muzyce, parę razy o tym wspominałem,
+
+00:14:25.520 --> 00:14:28.520
+że to jest dosyć ważny element tej gry.
+
+00:14:28.520 --> 00:14:33.520
+Nie tylko ze względu na to, że ta muzyka jest robiona z takim namaszczeniem,
+
+00:14:33.520 --> 00:14:36.520
+że jest mnóstwo kawałków nagrywanych na potrzeby,
+
+00:14:36.520 --> 00:14:38.520
+że to są współprace ze znanymi zespołami,
+
+00:14:38.520 --> 00:14:42.520
+ale też ze względu na to, że naszym trochę pobocznym bohaterem,
+
+00:14:42.520 --> 00:14:45.520
+ale też do pewnego stopnia głównym jest Johnny Silverhand,
+
+00:14:45.520 --> 00:14:46.520
+który był muzykiem,
+
+00:14:46.520 --> 00:14:49.520
+więc muzyka tam jest bardzo istotna dla tego świata.
+
+00:14:49.520 --> 00:14:55.520
+I też jakby pod kątem nagrywania czegokolwiek na YouTube'a z Cyberpunk'a,
+
+00:14:55.520 --> 00:14:56.520
+co będzie niezwykle trudne,
+
+00:14:56.520 --> 00:14:59.520
+bo żeby to nagrać i nie mieć żadnych tam obostrzeń dodatkowych
+
+00:14:59.520 --> 00:15:00.520
+ze strony YouTube'a,
+
+00:15:00.520 --> 00:15:02.520
+trzeba by totalnie wyłączyć muzykę z gry.
+
+00:15:02.520 --> 00:15:05.520
+A mam wrażenie takie, że granie w Cyberpunk'a z wyłączoną muzyką
+
+00:15:05.520 --> 00:15:08.520
+to jest jakby zabijanie połowy przyjemności płynącej z gry,
+
+00:15:08.520 --> 00:15:11.520
+więc wolałbym tego nie robić.
+
+00:15:11.520 --> 00:15:15.520
+Wiemy, że YouTube ma rozwiązanie tego problemu.
+
+00:15:15.520 --> 00:15:18.520
+Takie sprawiedliwe w miarę,
+
+00:15:18.520 --> 00:15:22.520
+żeby dzielić się w jakiś sposób tymi pieniędzmi na przykład z muzykami.
+
+00:15:22.520 --> 00:15:25.520
+Bodajże tak Nintendo ma ze swoimi grami,
+
+00:15:25.520 --> 00:15:28.520
+że nie dostajesz całość z reklam,
+
+00:15:28.520 --> 00:15:32.520
+tylko Nintendo bierze jakiś swój procent.
+
+00:15:32.520 --> 00:15:36.520
+No i myślę, że w takich przypadkach gier CD,
+
+00:15:36.520 --> 00:15:42.520
+myślę, że po premierze będzie to ważny element YouTube'a,
+
+00:15:42.520 --> 00:15:47.520
+Twitch'a i myślę, że takie rzeczy powinny być dopilnowane,
+
+00:15:47.520 --> 00:15:51.520
+że jeżeli jest to muzyka wykorzystana w grze,
+
+00:15:51.520 --> 00:15:56.520
+no to nie jest to traktowana tak, jakbyś sobie puszczał jako tło do swojego gadania
+
+00:15:56.520 --> 00:15:59.520
+albo po prostu puszczał muzykę na YouTube'ie,
+
+00:15:59.520 --> 00:16:01.520
+znaczy wgrywał muzykę na YouTube'a czy na Twitch'a,
+
+00:16:01.520 --> 00:16:06.520
+czyli wtedy ci wszystkie prawa zabierają ci pieniądze.
+
+00:16:06.520 --> 00:16:11.520
+Fajnie by było, gdyby 30% zysku z tego filmu idzie do artysty.
+
+00:16:11.520 --> 00:16:15.520
+To by było idealne rozwiązanie, tylko nie sądzę, żeby YouTube to ogarnął.
+
+00:16:15.520 --> 00:16:17.520
+To jest jednak instytucja, która jest tytaniczna
+
+00:16:17.520 --> 00:16:20.520
+i algorytmy potrafią działać przez bardzo długi czas źle, zanim zaczną.
+
+00:16:20.520 --> 00:16:23.520
+Ale ja myślę, że to jest proste, to może nie,
+
+00:16:23.520 --> 00:16:29.520
+ale YouTube wykrywa całą muzykę, nie ma z tym problemu,
+
+00:16:29.520 --> 00:16:32.520
+jest to automatycznie robione,
+
+00:16:32.520 --> 00:16:37.520
+więc wystarczyłoby, żeby CD po prostu dał listę tracków
+
+00:16:37.520 --> 00:16:42.520
+i algorytm by się nauczył, jak wygląda gra, żeby ją rozpoznawał.
+
+00:16:42.520 --> 00:16:47.520
+Zresztą wpisuje się tam, w jaką grę grasz, to też jest ułatwienie duże.
+
+00:16:47.520 --> 00:16:52.520
+Jeżeli to jest ze sobą połączone, to nie działa to ogólne prawo,
+
+00:16:52.520 --> 00:16:57.520
+tylko działa to ustalone pod streamerów, ale wątpię, żeby to w ogóle miało.
+
+00:16:57.520 --> 00:17:02.520
+Właśnie, bo to jest tak, że jeżeli pojawią się w grze jakieś totalnie nowe tracki,
+
+00:17:02.520 --> 00:17:05.520
+których nie ma nigdzie indziej, to YouTube nie będzie ich wychwytywał,
+
+00:17:05.520 --> 00:17:08.520
+bo nie ma ich w bibliotekach nigdzie, więc z tym nie powinno być problemów,
+
+00:17:08.520 --> 00:17:13.520
+ale tam będzie też dużo muzyki, która funkcjonuje już w sieci.
+
+00:17:13.520 --> 00:17:19.520
+Myślę, że dużo czasu i zanim YouTube się nauczy odróżniać tę w grze
+
+00:17:19.520 --> 00:17:23.520
+od takiej, która wykorzystywana jest niezależnie i twórca nie ma do niej prawa.
+
+00:17:23.520 --> 00:17:26.520
+Myślę, że to jest kwestia chęci.
+
+00:17:26.520 --> 00:17:32.520
+Gdyby był ten system, gdzie sprawiedliwie się dzieli czas na filmie, na muzykę
+
+00:17:32.520 --> 00:17:36.520
+i tam oddawanie części tych pieniędzy twórcom, to wszyscy by na tym skorzystali.
+
+00:17:36.520 --> 00:17:41.520
+YouTuberzy byliby skłonni używać fajnej muzyki, to by wpłynęło pozytywnie na filmy,
+
+00:17:41.520 --> 00:17:45.520
+widzowie by lepszą rzecz mieli do obejrzenia, a twórcy by zarabiali dodatkowe pieniądze,
+
+00:17:45.520 --> 00:17:50.520
+co byłoby rozwiązaniem wielu problemów, bo jak wiadomo, np. puszczanie muzyki na Spotify,
+
+00:17:50.520 --> 00:17:54.520
+co jest najbardziej powszechne, nie przynosi jakichś ogromnych zysków twórcy.
+
+00:17:54.520 --> 00:17:58.520
+A się może okazać potem, że z YouTube nagle ktoś może zarobić więcej niż na Spotify,
+
+00:17:58.520 --> 00:18:02.520
+tylko dlatego, że to się pojawiło w jakimś super znanym vlogu albo coś,
+
+00:18:02.520 --> 00:18:05.520
+więc to byłoby fajne rozwiązanie, ale na razie chęci nie ma,
+
+00:18:05.520 --> 00:18:08.520
+a może możliwości prawnych, to trudno powiedzieć, co za tym stoi.
+
+00:18:08.520 --> 00:18:12.520
+Może YouTube w jakąś tam prawidłową stronę idzie, ale mniejsze z tym.
+
+00:18:12.520 --> 00:18:18.520
+Chciałem Cię zapytać przede wszystkim o to, co myślisz o tej muzyce, która tam się pojawiła.
+
+00:18:18.520 --> 00:18:23.520
+Ja już wielokrotnie mówiłem, że wszystko, co do tej pory pokazywali,
+
+00:18:23.520 --> 00:18:28.520
+no to trafia w moje gusta i raczej jestem zadowolony
+
+00:18:28.520 --> 00:18:33.520
+i czekam po prostu też na to, żeby zanurzyć się w tym.
+
+00:18:33.520 --> 00:18:39.520
+Właśnie teraz czwarty track miał trafić, chyba Samurai'a na YouTube i na Spotify,
+
+00:18:39.520 --> 00:18:44.520
+natomiast jestem bardzo ciekaw, w jaki sposób ta muzyka będzie po premierze prezentowana,
+
+00:18:44.520 --> 00:18:48.520
+bo tam będzie więcej niż jedna kapela tworzyła tę muzykę,
+
+00:18:48.520 --> 00:18:52.520
+tam będzie więcej niż jeden gatunek tej muzyki, tworzonej na potrzeby gry tylko i wyłącznie.
+
+00:18:52.520 --> 00:18:55.520
+Czy to trafi gdzieś tam na płyty albo na Spotify'a?
+
+00:18:55.520 --> 00:19:01.520
+Na Spotify'a tak, wszystko trafi, ale to nie jest problem, ponieważ Spotify w pewien sposób agreguje kawałki
+
+00:19:01.520 --> 00:19:11.520
+i mimo, że to jest w tym albumie cyberpunk, no to artysta rozlicza się ze Spotify tak jakby to była jego piosenka,
+
+00:19:11.520 --> 00:19:14.520
+więc myślę, że to będzie ogarnięte.
+
+00:19:14.520 --> 00:19:17.520
+No to czekam na to, bo się zapowiada nieźle.
+
+00:19:17.520 --> 00:19:21.520
+Nomad Street Kid i Corpo, chyba to już widzieliśmy wszystko.
+
+00:19:21.520 --> 00:19:24.520
+Nie wydaje mi się, żeby to było dużo nowego.
+
+00:19:24.520 --> 00:19:28.520
+Ładnie narracyjnie to zostało powiedziane, przede wszystkim, żeśmy znali wcześniej Nomada,
+
+00:19:28.520 --> 00:19:33.520
+bo on był tak pokazywany obszernie i żeśmy też mieli okazję oglądać wcześniej Street Kida,
+
+00:19:33.520 --> 00:19:36.520
+bo tam nawet była jakaś misja w oparciu o niego przedstawiona.
+
+00:19:36.520 --> 00:19:41.520
+Teraz więcej było na temat Corpo, o czym wcześniej w zasadzie nie mówiono za bardzo.
+
+00:19:41.520 --> 00:19:47.520
+Bardzo ciekawe było to podejście, ta prezentacja bohatera, który gdzieś tam jest związany z Corpo,
+
+00:19:47.520 --> 00:19:52.520
+jak tam V podchodzi do lustra i wymiotuje z powodu stresu, że tam takie ciśnienia.
+
+00:19:52.520 --> 00:19:55.520
+Pomyślałem sobie, kurde, że z jednej strony to mi się wydawało takie ciekawe,
+
+00:19:55.520 --> 00:20:00.520
+bo to jest jednak człowiek, który pochodzi z tych bogatych sfer, więc on zna te sfery biznesowe,
+
+00:20:00.520 --> 00:20:02.520
+to może ułatwić parę rzeczy.
+
+00:20:02.520 --> 00:20:07.520
+Natomiast nie sądziłem, że V to będzie taki bohater, który swoje, jako Corpo, szczur odpracuje
+
+00:20:07.520 --> 00:20:10.520
+i do tego stopnia, że będzie miał rzody na żołądku z tego powodu,
+
+00:20:10.520 --> 00:20:12.520
+bo mu tam stresu szefowie dostarczą.
+
+00:20:12.520 --> 00:20:14.520
+To jest ciekawy element tej historii.
+
+00:20:14.520 --> 00:20:19.520
+Chciałem zaczynać od Corpo, bo wydawało mi się, że to nie będzie taka ścieżka wybierana
+
+00:20:19.520 --> 00:20:21.520
+zbyt często przez graczy.
+
+00:20:21.520 --> 00:20:24.520
+Corpo się wydaje bardzo interesująca.
+
+00:20:24.520 --> 00:20:31.520
+Tak, ona mi się wydaje bardzo interesująca, ale Corpo kojarzy się z czymś negatywnym,
+
+00:20:31.520 --> 00:20:35.520
+że jesteś częścią wielkiej machiny, że porzucasz, rezygnujesz z własnej duszy.
+
+00:20:35.520 --> 00:20:39.520
+Pozdrawiamy wszystkich pracowników Corpo, którzy nas słuchają.
+
+00:20:39.520 --> 00:20:41.520
+Pozdrawiacie się własnej duszy.
+
+00:20:41.520 --> 00:20:46.520
+Ej, ja tego nie powiedziałem, to nie jest moja opinia, to jest stereotyp pewien.
+
+00:20:46.520 --> 00:20:50.520
+I dlatego Corpo nie jest postrzegane zbyt pozytywnie, więc uznałem,
+
+00:20:50.520 --> 00:20:54.520
+że być może w cyberpunku nie będzie takie modne, a ja lubię takie ścieżki wybierać
+
+00:20:54.520 --> 00:20:56.520
+niespecjalnie popularne.
+
+00:20:56.520 --> 00:20:59.520
+No, ale teraz się zastanawiam, bo nie chcę jednak być bohaterem,
+
+00:20:59.520 --> 00:21:04.520
+który wymiotuje przed lustrem, bo się nie może oprzeć temu stresowi.
+
+00:21:04.520 --> 00:21:09.520
+Wiesz, taki motyw często w popkulturze wykorzystywany jest.
+
+00:21:09.520 --> 00:21:11.520
+Sportowcy często wymiotują.
+
+00:21:11.520 --> 00:21:12.520
+Nie tylko w popkulturze.
+
+00:21:12.520 --> 00:21:13.520
+Muzycy.
+
+00:21:13.520 --> 00:21:15.520
+Często.
+
+00:21:15.520 --> 00:21:17.520
+Okej, okej, okej.
+
+00:21:17.520 --> 00:21:21.520
+Tak, tak, to nie dziwię się, że tam został ten motyw wykorzystany.
+
+00:21:21.520 --> 00:21:25.520
+No więc mamy te ścieżki pochodzenia, no i bronie też,
+
+00:21:25.520 --> 00:21:27.520
+które moim zdaniem ciekawie przedstawione.
+
+00:21:27.520 --> 00:21:29.520
+Dużo więcej niż do tej pory.
+
+00:21:29.520 --> 00:21:30.520
+Fajnie wyglądają.
+
+00:21:30.520 --> 00:21:35.520
+W ogóle pokazali wreszcie coś sensownego o broniach.
+
+00:21:35.520 --> 00:21:37.520
+Tak, tak, tak.
+
+00:21:37.520 --> 00:21:43.520
+I jeszcze na tyle dobrze to pokazali, że wszelkie takie uwagi wcześniejsze,
+
+00:21:43.520 --> 00:21:48.520
+pewnie bardzo sensowne na temat tego, że nie czuć tak dobrze tego strzelania,
+
+00:21:48.520 --> 00:21:52.520
+że to nie jest najmocniejszy aspekt tej gry, to trochę straciły na znaczeniu,
+
+00:21:52.520 --> 00:21:55.520
+bo to jest z jednej strony masz nawet rzetelne dziennikarstwo,
+
+00:21:55.520 --> 00:21:57.520
+gdzie cię ludzie informują, słuchajcie, nie strzela się tak dobrze,
+
+00:21:57.520 --> 00:22:01.520
+jakbyśmy chcieli, a potem oglądasz taki film i już masz totalnie w nosie to,
+
+00:22:01.520 --> 00:22:03.520
+co słyszeli wcześniej, bo ja zdaję sobie sprawę z tego,
+
+00:22:03.520 --> 00:22:06.520
+że to akurat nie musi być najważniejszy aspekt tej gry,
+
+00:22:06.520 --> 00:22:10.520
+ale teraz to nie ma dla mnie znaczenia, bo to, co zobaczyłem tutaj, to mnie zachwyciło.
+
+00:22:10.520 --> 00:22:15.520
+Fajnie te pociski latają, fajnie przeciwnicy trafieni, fajny jest ragdoll,
+
+00:22:15.520 --> 00:22:17.520
+więc to się wydaje bardzo sensowne.
+
+00:22:17.520 --> 00:22:20.520
+Może być trochę takiego przekłamania, trochę czarowania tej rzeczywistości,
+
+00:22:20.520 --> 00:22:21.520
+ale ładnie to wygląda.
+
+00:22:21.520 --> 00:22:23.520
+No wiesz, oglądaliśmy reklamę.
+
+00:22:23.520 --> 00:22:24.520
+Tak.
+
+00:22:24.520 --> 00:22:25.520
+Ale działa.
+
+00:22:25.520 --> 00:22:29.520
+Absolutnie, na mnie działa bardzo dobrze.
+
+00:22:29.520 --> 00:22:34.520
+Podoba mi się to, że te bronie wymagają innego podejścia.
+
+00:22:34.520 --> 00:22:37.520
+Znaczy wiesz, możesz sobie po prostu strzelać do wroga,
+
+00:22:37.520 --> 00:22:43.520
+ale masz zupełnie inne możliwości przeprowadzania tych walk.
+
+00:22:43.520 --> 00:22:46.520
+Te rykoszety, czy broń biała.
+
+00:22:46.520 --> 00:22:47.520
+Tak, tak.
+
+00:22:47.520 --> 00:22:51.520
+Z tego, co nie wiem, czy każda, ale ta broń, która była demonstrowana,
+
+00:22:51.520 --> 00:22:54.520
+to była sześć elementów, z których się składała i rozumiem,
+
+00:22:54.520 --> 00:22:56.520
+każdy mogłeś sobie customizować.
+
+00:22:56.520 --> 00:22:59.520
+Tak, tak. Tam są takie podstawowe elementy, które znamy dzisiaj,
+
+00:22:59.520 --> 00:23:05.520
+jak tam tłumiki, celowniki, lunety, ale tam jeszcze są jakieś takie wewnętrzne elementy
+
+00:23:05.520 --> 00:23:08.520
+jakiegoś interfejsu, gdzieś tam czipy, którymi można modyfikować broń,
+
+00:23:08.520 --> 00:23:10.520
+uzyskując jakieś tam specyficzne efekty.
+
+00:23:10.520 --> 00:23:13.520
+Jakieś obrażenia chemiczne, obrażenia ogniowe,
+
+00:23:13.520 --> 00:23:16.520
+że jakby zmienia się totalnie specyfika broni
+
+00:23:16.520 --> 00:23:18.520
+i pewnie to jakby trzeba będzie dostosować broń do przeciwników.
+
+00:23:18.520 --> 00:23:22.520
+Jak mamy jakichś ciężko opancerzonych, no to sięgamy po jakiś kwas czy coś.
+
+00:23:22.520 --> 00:23:26.520
+Są takie trochę rozwiązania, które już gdzieś tam w Borderlands były.
+
+00:23:26.520 --> 00:23:30.520
+To nie jest, The Outer Worlds też się przytrafiały,
+
+00:23:30.520 --> 00:23:33.520
+ale to fajne jest, że można tą broń modyfikować do tego stopnia,
+
+00:23:33.520 --> 00:23:36.520
+że można zmieniać te rzeczy, więc jak najbardziej okej.
+
+00:23:36.520 --> 00:23:37.520
+Tak, bardzo dobrze.
+
+00:23:37.520 --> 00:23:41.520
+Przepraszam, jeszcze jakby nie należy zapominać o tym,
+
+00:23:41.520 --> 00:23:44.520
+że owszem mamy do czynienia z RPG-iem, w którym historia jest bardzo ważna
+
+00:23:44.520 --> 00:23:48.520
+i w zasadzie jest taką dominującą rzeczą w tej cyberpunku,
+
+00:23:48.520 --> 00:23:51.520
+no to jednak mamy też do czynienia trochę z looter-shooterem
+
+00:23:51.520 --> 00:23:54.520
+i te bronie będzie się często zbierało, będzie się kolekcjonowało,
+
+00:23:54.520 --> 00:23:58.520
+więc tam musi być sporo rozwiązań, żeby to było ciekawe,
+
+00:23:58.520 --> 00:24:02.520
+żebyśmy chcieli zdobywać nowy sprzęt, bo to jest bardzo, bardzo ważne.
+
+00:24:02.520 --> 00:24:04.520
+O, looter-shooter to tak.
+
+00:24:04.520 --> 00:24:07.520
+Ja wiem, wiem, to nie każdego przekonuje, ale można to zrobić dobrze.
+
+00:24:07.520 --> 00:24:10.520
+W Borderlands to jest zrobione dobrze, niekoniecznie dobrze jest to zrobione
+
+00:24:10.520 --> 00:24:13.520
+na przykład w Marvel Avengers, których ogrywałem ostatnio
+
+00:24:13.520 --> 00:24:16.520
+i tam chęć na zdobywanie nowego sprzętu jest żadna.
+
+00:24:16.520 --> 00:24:19.520
+O, jego ogrywałeś? Na ten? Przez co ogrywałeś?
+
+00:24:19.520 --> 00:24:22.520
+BT, BT, BT grałem na PS4.
+
+00:24:22.520 --> 00:24:26.520
+O, nice. A to już jest tak dostępne, czy tylko dla wybranych?
+
+00:24:26.520 --> 00:24:29.520
+Wiesz co, chyba trzeba się było zgłaszać. My żeśmy dostali,
+
+00:24:29.520 --> 00:24:33.520
+jako że jesteśmy streamerami, tam kilka osób dostało.
+
+00:24:33.520 --> 00:24:36.520
+I tak na szybko mogę powiedzieć, że to jest taka gra,
+
+00:24:36.520 --> 00:24:39.520
+jakby pewnym kłopotem tej gry jest to, że ona jest planowana
+
+00:24:39.520 --> 00:24:42.520
+jakaś gra usługa, czyli coś, co ma trwać przez ileś lat
+
+00:24:42.520 --> 00:24:45.520
+i w związku z tym na tym pierwszym etapie myślę,
+
+00:24:45.520 --> 00:24:48.520
+że to nie będzie produkcja wybitna. To znaczy ona ma potencjał niewątpliwie,
+
+00:24:48.520 --> 00:24:51.520
+ale wymaga ten potencjał dopracowania i podejrzewam,
+
+00:24:51.520 --> 00:24:54.520
+że za rok, dwa będziemy mieli do czynienia
+
+00:24:54.520 --> 00:24:57.520
+z bardzo fajnym looterem, takim superbohaterskim,
+
+00:24:57.520 --> 00:25:01.520
+ale teraz niekoniecznie to się może wydarzyć już przy premierze.
+
+00:25:01.520 --> 00:25:04.520
+Ale ja jestem gotów poczekać. Mam nadzieję, że będzie to wspierane
+
+00:25:04.520 --> 00:25:07.520
+przez długo i że ostatecznie dostaniemy super fajną grę.
+
+00:25:07.520 --> 00:25:10.520
+Ja dwie rzeczy jeszcze zauważyłem.
+
+00:25:10.520 --> 00:25:13.520
+Wydaje mi się, że istnieje takie coś jak zbrojownia,
+
+00:25:13.520 --> 00:25:16.520
+bo tam było takie pomieszczenie, gdzie się te broń...
+
+00:25:16.520 --> 00:25:19.520
+i bagażnik był pełen broni.
+
+00:25:19.520 --> 00:25:22.520
+Tak jest.
+
+00:25:22.520 --> 00:25:25.520
+I zastanawiam się, czy to nie będzie po prostu,
+
+00:25:25.520 --> 00:25:28.520
+że będziesz miał ze sobą na przykład tylko dwie broni albo jedną.
+
+00:25:28.520 --> 00:25:31.520
+W ogóle w czasie misji, a dopiero
+
+00:25:31.520 --> 00:25:34.520
+przy samochodzie albo w mieszkaniu tam będziesz mógł sobie
+
+00:25:34.520 --> 00:25:37.520
+je zmieniać i dobierać.
+
+00:25:37.520 --> 00:25:40.520
+No trochę tak jak w Borderlandsach.
+
+00:25:40.520 --> 00:25:43.520
+Tak, tak. Miałoby to sens niewątpliwie.
+
+00:25:43.520 --> 00:25:46.520
+Podejrzewam, że ilość broni będzie zależna od jakichś tam statystyk,
+
+00:25:46.520 --> 00:25:49.520
+może to będzie jakieś tam defoltowe, że tam od poziomu.
+
+00:25:49.520 --> 00:25:52.520
+Masz taki wszczep, taki
+
+00:25:52.520 --> 00:25:55.520
+haczyk na broń.
+
+00:25:55.520 --> 00:25:58.520
+Pod pachą.
+
+00:25:58.520 --> 00:26:01.520
+Może to zależeć od siły, od udźwigu, od różnych tam czynników,
+
+00:26:01.520 --> 00:26:04.520
+ale na pewno będzie ograniczona ilość tej broni.
+
+00:26:04.520 --> 00:26:07.520
+To niemożliwe, żebyś tam 8 albo 9 pokawek jak w dumie mógł przy sobie nosić.
+
+00:26:07.520 --> 00:26:10.520
+Więc trzeba będzie się przygotowywać wcześniej do misji.
+
+00:26:10.520 --> 00:26:13.520
+Może jest to też pole dla jakichś takich dodatkowych
+
+00:26:13.520 --> 00:26:16.520
+aktywności jak jakiś rekonesans czy
+
+00:26:16.520 --> 00:26:19.520
+sprawdzanie danych, na kogo można trafić, kogo się można spodziewać.
+
+00:26:19.520 --> 00:26:22.520
+To jest zawsze okazja do jakiejś dodatkowej przygody.
+
+00:26:22.520 --> 00:26:25.520
+Można to wykorzystać.
+
+00:26:25.520 --> 00:26:28.520
+Czy coś jeszcze mamy tutaj
+
+00:26:28.520 --> 00:26:31.520
+tam ciekawego do powiedzenia?
+
+00:26:31.520 --> 00:26:34.520
+Odnośnie? Jedyne co mogę powiedzieć to właśnie od tego zacząłem,
+
+00:26:34.520 --> 00:26:37.520
+że moim zdaniem ten pokaz lepszy, lepiej zorganizowany,
+
+00:26:37.520 --> 00:26:40.520
+taki bardziej dynamiczny, ciekawiej się oglądało.
+
+00:26:40.520 --> 00:26:43.520
+Mam wrażenie, że też trochę był krótszy od poprzedniego,
+
+00:26:43.520 --> 00:26:46.520
+ale to akurat nie ma dużego znaczenia.
+
+00:26:46.520 --> 00:26:49.520
+Mogę przewidywać, że raczej będą pozytywne głosy na temat
+
+00:26:49.520 --> 00:26:52.520
+tej gry po tym pokazie. Poprzednio się przytrafiło trochę
+
+00:26:52.520 --> 00:26:55.520
+negatywnych, ale to głównie dlatego, że ten braindance,
+
+00:26:55.520 --> 00:26:58.520
+prezentacja jego była dosyć powolna i to był taki
+
+00:26:58.520 --> 00:27:01.520
+moment zatrzymania tej płynności.
+
+00:27:01.520 --> 00:27:04.520
+Ja byłem zadowolony, podobało mi się.
+
+00:27:04.520 --> 00:27:07.520
+Ten braindance wydaje mi się, że jest takim dobrym przełamaniem.
+
+00:27:07.520 --> 00:27:10.520
+Szczególności, że ja teraz grałem chwilę w Gamedecka
+
+00:27:10.520 --> 00:27:13.520
+i rzeczywiście czuję, że brakuje mi
+
+00:27:13.520 --> 00:27:16.520
+detektywistycznej gry
+
+00:27:16.520 --> 00:27:19.520
+albo takiej z elementami detektywistycznymi.
+
+00:27:19.520 --> 00:27:22.520
+Rozumiem, że Gamedeck ci takiej ochoty dostarczył.
+
+00:27:22.520 --> 00:27:25.520
+Tak, tak.
+
+00:27:25.520 --> 00:27:28.520
+Czyli pobudził cię krótko mówiąc.
+
+00:27:28.520 --> 00:27:31.520
+Nie, nie, bo zmierzam, bo przez chwilę miałem wrażenie,
+
+00:27:31.520 --> 00:27:34.520
+że czegoś ci w Gamedecku brakuje.
+
+00:27:34.520 --> 00:27:37.520
+Właśnie o to chodzi, że
+
+00:27:37.520 --> 00:27:40.520
+daje mi Gamedeck to, co mi brakowało
+
+00:27:40.520 --> 00:27:43.520
+od lat w grach.
+
+00:27:43.520 --> 00:27:46.520
+Mam już dostęp do Gamedecka,
+
+00:27:46.520 --> 00:27:49.520
+ale powiedziałem, że nie, że dziękuję.
+
+00:27:49.520 --> 00:27:52.520
+Ja na GD rozmawiałem z Grześkiem, on mówi, że
+
+00:27:52.520 --> 00:27:55.520
+jest tyle możliwości,
+
+00:27:55.520 --> 00:27:58.520
+że tą pierwszą misję, ja sobie ją pewnie
+
+00:27:58.520 --> 00:28:01.520
+przejdę, zaekonuję chwilę czasu.
+
+00:28:01.520 --> 00:28:04.520
+Bo też tak pograłem chwilę i nie skończyłem.
+
+00:28:04.520 --> 00:28:07.520
+Mówię, dobra, zostawiam, bo czekam na całą grę.
+
+00:28:07.520 --> 00:28:10.520
+Mówisz, że tam jest tyle możliwości, tyle opcji,
+
+00:28:10.520 --> 00:28:13.520
+że nie przetrawiam ci się, że nie zrobisz tego na
+
+00:28:13.520 --> 00:28:16.520
+drugi raz tak samo.
+
+00:28:16.520 --> 00:28:19.520
+Tak się mówi, ja grałem dwa razy w The Walking Dead,
+
+00:28:19.520 --> 00:28:22.520
+którąś część.
+
+00:28:22.520 --> 00:28:25.520
+Walking Dead to był Proszę Cię.
+
+00:28:25.520 --> 00:28:28.520
+To nie jest dobry szyk.
+
+00:28:28.520 --> 00:28:31.520
+Ta iluzja była
+
+00:28:31.520 --> 00:28:34.520
+bardzo mocna.
+
+00:28:34.520 --> 00:28:37.520
+To jest jednak RPG.
+
+00:28:37.520 --> 00:28:40.520
+Ja się boję, że się wkręcę
+
+00:28:40.520 --> 00:28:43.520
+i potem się skończy ta opowieść i będę
+
+00:28:43.520 --> 00:28:46.520
+schodził sfrustrowany.
+
+00:28:46.520 --> 00:28:49.520
+Miałem dostęp do bety Wasteland 3
+
+00:28:49.520 --> 00:28:52.520
+i dwugodzinną rozgrywkę pięć razy grałem.
+
+00:28:52.520 --> 00:28:55.520
+Dziesięć godzin mi to zajęło.
+
+00:28:55.520 --> 00:28:58.520
+Tylko głód w sobie wzbudziłem,
+
+00:28:58.520 --> 00:29:01.520
+więc wolę tego sobie nie robić przy gamedecu,
+
+00:29:01.520 --> 00:29:04.520
+bo nie będę miał czym tego głodu zaspokoić przez najbliższy czas.
+
+00:29:04.520 --> 00:29:07.520
+Ale czekam bardzo mocno, jestem z tym ciekaw ostatecznej wersji.
+
+00:29:07.520 --> 00:29:10.520
+No to Cyberpunka chyba zamykamy.
+
+00:29:10.520 --> 00:29:13.520
+Jak najbardziej.
+
+00:29:13.520 --> 00:29:16.520
+I drugi temat, czyli State of Play,
+
+00:29:16.520 --> 00:29:19.520
+który się odbył 7 sierpnia.
+
+00:29:19.520 --> 00:29:22.520
+Chyba, że pamiętam.
+
+00:29:22.520 --> 00:29:25.520
+No i to była konferencja,
+
+00:29:25.520 --> 00:29:28.520
+która była bardzo mocno reklamowana przez Sony,
+
+00:29:28.520 --> 00:29:31.520
+że nic tam ciekawego nie będzie.
+
+00:29:31.520 --> 00:29:34.520
+Pierwszy raz spotkałem się z czymś takim w branży.
+
+00:29:34.520 --> 00:29:37.520
+Robimy konferencję, pokażemy wam gry,
+
+00:29:37.520 --> 00:29:40.520
+ale pochamujcie entuzjazm.
+
+00:29:40.520 --> 00:29:43.520
+Nic nie pokażemy wam ciekawego.
+
+00:29:43.520 --> 00:29:46.520
+To jest oficjalny komunikat z Sony.
+
+00:29:46.520 --> 00:29:49.520
+Czego nie będzie na tej konferencji? Dużych ogłoszeń nie będzie.
+
+00:29:49.520 --> 00:29:52.520
+Ja muszę skończyć ten mój wywód.
+
+00:29:52.520 --> 00:29:55.520
+Oni się nauczyli, ale w zły sposób.
+
+00:29:55.520 --> 00:29:58.520
+Nauczka po tym,
+
+00:29:58.520 --> 00:30:01.520
+i to nie mówię, że tylko na ich błędach, ale też na Microsoftu oczywiście,
+
+00:30:01.520 --> 00:30:04.520
+jest taka, że nie rób konferencji,
+
+00:30:04.520 --> 00:30:07.520
+jak nie masz co do pokazania.
+
+00:30:07.520 --> 00:30:10.520
+Rób, jak rzeczywiście jest coś ważnego.
+
+00:30:10.520 --> 00:30:13.520
+Przez ten okres pandemii okazało się,
+
+00:30:13.520 --> 00:30:16.520
+że konferencje się zdewaluowały.
+
+00:30:16.520 --> 00:30:19.520
+Na co rzeczywiście mocno czekamy, tylko się już przejadły.
+
+00:30:19.520 --> 00:30:22.520
+Wszystko to była konferencja.
+
+00:30:22.520 --> 00:30:25.520
+Oni po prostu zamiast poczekać,
+
+00:30:25.520 --> 00:30:28.520
+żeby pokazać nam coś dużego,
+
+00:30:28.520 --> 00:30:31.520
+to powiedzieli, że pokażemy wam to samo,
+
+00:30:31.520 --> 00:30:34.520
+bo będziecie wieć co zawsze,
+
+00:30:34.520 --> 00:30:37.520
+ale podejdźcie do tego bez entuzjazmu.
+
+00:30:37.520 --> 00:30:40.520
+Muszę przyznać, że tak masz rację.
+
+00:30:40.520 --> 00:30:43.520
+Nie wiem, czy myśmy takiej rozmowy nie mieli
+
+00:30:43.520 --> 00:30:46.520
+po kilku takich mniej udanych konferencjach,
+
+00:30:46.520 --> 00:30:49.520
+gdzie żeśmy przewidywali to,
+
+00:30:49.520 --> 00:30:52.520
+że one się zdewaluują mocno po jakimś czasie.
+
+00:30:52.520 --> 00:30:55.520
+Masz rację, ja nie pomyślałem o tym.
+
+00:30:55.520 --> 00:30:58.520
+Z jednej strony podobało mi się to,
+
+00:30:58.520 --> 00:31:01.520
+że PlayStation bardzo rzeczowo ogłaszało,
+
+00:31:01.520 --> 00:31:04.520
+czego tam nie będzie, żebyśmy się mogli spodziewać,
+
+00:31:04.520 --> 00:31:07.520
+co nie zmienia faktu, że do ludzi nie docierają takie informacje.
+
+00:31:07.520 --> 00:31:10.520
+Są ludzie, którzy są zahajpowani, bo jest konferencja
+
+00:31:10.520 --> 00:31:13.520
+i to, co Sony mówi, i potem są niespecjalnie zadowoleni z tego,
+
+00:31:13.520 --> 00:31:16.520
+co się tam przydarzyło.
+
+00:31:16.520 --> 00:31:19.520
+I takie głosy negatywne na temat tego State of Play było.
+
+00:31:19.520 --> 00:31:22.520
+W ogóle State of Play to nie jest taka impreza,
+
+00:31:22.520 --> 00:31:25.520
+która jest konferencją z reguły.
+
+00:31:25.520 --> 00:31:28.520
+My żeśmy tak wszystko zaczęli traktować jako konferencję,
+
+00:31:28.520 --> 00:31:31.520
+ale te pokazy State of Play to już są od dłuższego czasu.
+
+00:31:31.520 --> 00:31:34.520
+No tak, bo konferencja musi być w salce konferencyjnej.
+
+00:31:34.520 --> 00:31:37.520
+One po prostu gdzieś tam coś prezentują.
+
+00:31:37.520 --> 00:31:40.520
+Informujące, co jest z PS Plus i tak dalej.
+
+00:31:40.520 --> 00:31:43.520
+To były takie małe rzeczy na kanale PlayStation.
+
+00:31:43.520 --> 00:31:46.520
+Ja wiem, ale poczekaj chwilę. Była obietnica i była umowa pewna społeczna
+
+00:31:46.520 --> 00:31:49.520
+między Sony a nami graczami,
+
+00:31:49.520 --> 00:31:52.520
+że rezygnują z E3 i z dużych imprez
+
+00:31:52.520 --> 00:31:55.520
+i zmienią to na częstsze, skompresowane,
+
+00:31:55.520 --> 00:31:58.520
+ale ciekawsze pokazy State of Play.
+
+00:31:58.520 --> 00:32:01.520
+I tak mi się wydaje, że tak to było.
+
+00:32:01.520 --> 00:32:04.520
+No pewnie. Ja ich tam nie bronię w żadnym razie.
+
+00:32:04.520 --> 00:32:07.520
+Zdecydowanie teraz jest taki czas, że jeżeli chcemy coś pokazać,
+
+00:32:07.520 --> 00:32:10.520
+to niech to będzie coś konkretnego,
+
+00:32:10.520 --> 00:32:13.520
+a nie jakaś tam taka sieczka.
+
+00:32:13.520 --> 00:32:16.520
+Ale to nie było takie straszne na tym State of Play.
+
+00:32:16.520 --> 00:32:19.520
+Tylko że jako, że to jest Sony, jako, że to jest PlayStation,
+
+00:32:19.520 --> 00:32:22.520
+to żeśmy oczekiwali wielkich rzeczy. One nie zostały ogłoszone.
+
+00:32:22.520 --> 00:32:25.520
+Ale muszę powiedzieć, że pojawiły się informacje.
+
+00:32:25.520 --> 00:32:28.520
+Myślę, że jeszcze teraz są kuluarowe trochę,
+
+00:32:28.520 --> 00:32:31.520
+ale niedługo będzie się mówiło o tym głośno.
+
+00:32:31.520 --> 00:32:34.520
+Że jest kolejnych ruchów ze strony PlayStation.
+
+00:32:34.520 --> 00:32:37.520
+I że przyszłość tej generacji następnej
+
+00:32:37.520 --> 00:32:40.520
+ma wyglądać w ten sposób,
+
+00:32:40.520 --> 00:32:43.520
+że bardzo mocno PlayStation postawi na rzeczy ekskluzywne.
+
+00:32:43.520 --> 00:32:46.520
+Ale nie tylko ekskluzywne w ramach tego,
+
+00:32:46.520 --> 00:32:49.520
+co robią sami dla siebie,
+
+00:32:49.520 --> 00:32:52.520
+ale także wobec tego, co jest normalnie multiplatformowe.
+
+00:32:52.520 --> 00:32:55.520
+I są plotki na temat tego, że na przykład GTA 6
+
+00:32:55.520 --> 00:32:58.520
+może być do pewnego stopnia czasowo ekskluzywne dla PlayStation 5.
+
+00:32:58.520 --> 00:33:01.520
+I to jest jakby świeża informacja,
+
+00:33:01.520 --> 00:33:04.520
+ją gdzieś tam w ciągu, w trakcie weekendu złapałem.
+
+00:33:04.520 --> 00:33:07.520
+To opowiadał jeden z współprowadzących podcastu Funny Games.
+
+00:33:07.520 --> 00:33:10.520
+Kinda Funny, taki jest podcast.
+
+00:33:10.520 --> 00:33:13.520
+Dosyć popularny.
+
+00:33:13.520 --> 00:33:16.520
+Oni często są ostatnio mi proponowani przez widzów.
+
+00:33:16.520 --> 00:33:19.520
+I jeden z tych prowadzących
+
+00:33:19.520 --> 00:33:22.520
+właśnie taką informację gdzieś tam udzielił,
+
+00:33:22.520 --> 00:33:25.520
+że Sony bardzo mocno idzie w ekskluzywność.
+
+00:33:25.520 --> 00:33:28.520
+I to ekskluzywność, która normalnie dotyczy
+
+00:33:28.520 --> 00:33:31.520
+nie tylko ich produktów,
+
+00:33:31.520 --> 00:33:34.520
+ale też takich właśnie multiplatformowych gier.
+
+00:33:34.520 --> 00:33:37.520
+Więc może być ciekawy rok,
+
+00:33:37.520 --> 00:33:40.520
+taki agresywny, jeżeli chodzi o konkurencję.
+
+00:33:40.520 --> 00:33:43.520
+Pytanie, czy to są rzeczywiście jakieś inside info,
+
+00:33:43.520 --> 00:33:46.520
+czy to są takie przemyślenia raczej,
+
+00:33:46.520 --> 00:33:49.520
+albo nie wiem.
+
+00:33:49.520 --> 00:33:52.520
+Nie pamiętam, jak się nazywa ten facet.
+
+00:33:52.520 --> 00:33:55.520
+Pamiętam, że się nazywa dokładnie tak,
+
+00:33:55.520 --> 00:33:58.520
+jak premier Pakistanu, więc łatwo go znaleźć.
+
+00:33:58.520 --> 00:34:01.520
+Mówi, że to są inside,
+
+00:34:01.520 --> 00:34:04.520
+że będziemy w szoku, jak zobaczymy listę rzeczy,
+
+00:34:04.520 --> 00:34:07.520
+w których PlayStation sobie wywalczyło czasową ekskluzywność.
+
+00:34:07.520 --> 00:34:10.520
+Ja powiem Ci tak,
+
+00:34:10.520 --> 00:34:13.520
+co ja o tym myślę.
+
+00:34:13.520 --> 00:34:16.520
+A myślę, że nikt nie podpisuje takich umów
+
+00:34:16.520 --> 00:34:19.520
+przed pierwszymi wynikami sprzedaży.
+
+00:34:19.520 --> 00:34:22.520
+Po prostu.
+
+00:34:22.520 --> 00:34:25.520
+Ale czekaj, czekaj.
+
+00:34:25.520 --> 00:34:28.520
+Jeżeli tu jest informacja o tym,
+
+00:34:28.520 --> 00:34:31.520
+że idzie w ekskluzywność
+
+00:34:31.520 --> 00:34:34.520
+i że jest duże prawdopodobieństwo,
+
+00:34:34.520 --> 00:34:37.520
+że na przykład GTA 6 będzie ekskluzywem czasowym...
+
+00:34:37.520 --> 00:34:40.520
+Nie powiedziałbym duże,
+
+00:34:40.520 --> 00:34:43.520
+powiedziałbym, że to jest najmocniejsza część tej informacji.
+
+00:34:43.520 --> 00:34:46.520
+Czyli jest to informacja z wewnątrz?
+
+00:34:46.520 --> 00:34:49.520
+To mi się wydaje mało wiarygodne.
+
+00:34:49.520 --> 00:34:52.520
+Tak, tak.
+
+00:34:52.520 --> 00:34:55.520
+Oczywiście biorę to pod uwagę.
+
+00:34:55.520 --> 00:34:58.520
+Rozumiem, że PlayStation może mieć taki zamysł.
+
+00:34:58.520 --> 00:35:01.520
+Tak, to jest firma, której prezes powiedział,
+
+00:35:01.520 --> 00:35:04.520
+że najwięcej pieniędzy zarabiają na pecetach.
+
+00:35:04.520 --> 00:35:07.520
+To rzeczywiście Sony musiałoby wyłożyć jakiś haj.
+
+00:35:07.520 --> 00:35:10.520
+Chyba, że plan jest taki.
+
+00:35:10.520 --> 00:35:13.520
+Robimy GTA 6 za 3 lata
+
+00:35:13.520 --> 00:35:16.520
+i idziemy tą samą drogą.
+
+00:35:16.520 --> 00:35:19.520
+Rok powiedzmy na Playaku albo nawet pół.
+
+00:35:19.520 --> 00:35:22.520
+Potem pół roku na Playaku i na Xboksie będzie.
+
+00:35:22.520 --> 00:35:25.520
+Potem po roku jest już na pecetach i na wszystkich
+
+00:35:25.520 --> 00:35:28.520
+i my wszystko po kolei.
+
+00:35:28.520 --> 00:35:31.520
+Ale świat nie jest taki jak tamte 5 czy 6 lat temu,
+
+00:35:31.520 --> 00:35:34.520
+więc może być różnie.
+
+00:35:34.520 --> 00:35:37.520
+No właśnie, ale tak czy inaczej te plotki dotyczą
+
+00:35:37.520 --> 00:35:40.520
+głamowo GTA 6, Final Fantasy 16
+
+00:35:40.520 --> 00:35:43.520
+i Starfield, czyli tej produkcji Bethesdy
+
+00:35:43.520 --> 00:35:46.520
+takiej zapowiadanej mocno.
+
+00:35:46.520 --> 00:35:49.520
+Ale to są właściwie tylko takie spekulacje.
+
+00:35:49.520 --> 00:35:52.520
+To nie jest mowa o tej imprezie, a właściwie o tym mieliśmy rozmawiać,
+
+00:35:52.520 --> 00:35:55.520
+o State of Play.
+
+00:35:55.520 --> 00:35:58.520
+Nie, ale to wiesz co, State of Play było nieciekawe.
+
+00:35:58.520 --> 00:36:01.520
+Każdy poboczny temat wydaje mi się bardziej interesujący niż State of Play.
+
+00:36:01.520 --> 00:36:04.520
+No to wiesz, bo taki poboczny temat, który mocno związany jest z State of Play
+
+00:36:04.520 --> 00:36:07.520
+i on ma zdaje, o którym żeśmy rozmawiali wcześniej.
+
+00:36:07.520 --> 00:36:10.520
+Kiedy rozmawialiśmy wcześniej?
+
+00:36:10.520 --> 00:36:13.520
+My? Ja? Z tobą?
+
+00:36:13.520 --> 00:36:16.520
+No nie, nie zaczęliśmy przed podcastem, nie opowiadałem się z tobą.
+
+00:36:16.520 --> 00:36:19.520
+A tak, rzeczywiście. Ja też o tym czytałem.
+
+00:36:19.520 --> 00:36:22.520
+To jest pierwszy w historii gamedevu chyba zorganizowany strajk.
+
+00:36:22.520 --> 00:36:25.520
+Nie nazwałbym tego strajkiem,
+
+00:36:25.520 --> 00:36:28.520
+ale nie wiem jak to nazwać.
+
+00:36:28.520 --> 00:36:31.520
+Ta historia wygląda w taki sposób, że pracownicy studia
+
+00:36:31.520 --> 00:36:34.520
+Limestone Games
+
+00:36:34.520 --> 00:36:37.520
+zbiorczo rezygnują z pracy
+
+00:36:37.520 --> 00:36:40.520
+po pokazie produkcji na State of Play.
+
+00:36:40.520 --> 00:36:43.520
+Powodem jest to, że bardzo mało zarabiają
+
+00:36:43.520 --> 00:36:46.520
+i mają bardzo duże nadgodziny.
+
+00:36:46.520 --> 00:36:49.520
+Do tego tam jest jakiś problem z prawami.
+
+00:36:49.520 --> 00:36:52.520
+Do tego wszystkiego.
+
+00:36:52.520 --> 00:36:55.520
+Więc jest bardzo skomplikowana sprawa.
+
+00:36:55.520 --> 00:36:58.520
+Ale to też jest bomba dla Sony,
+
+00:36:58.520 --> 00:37:01.520
+bo nagle oni pokazują zwiastun gry,
+
+00:37:01.520 --> 00:37:04.520
+którą patrząc na stan obecny nigdy nie powstanie.
+
+00:37:04.520 --> 00:37:07.520
+Ale jak sami mówili,
+
+00:37:07.520 --> 00:37:10.520
+bez entuzjazmu podchodzimy do tych rzeczy.
+
+00:37:10.520 --> 00:37:13.520
+Nie należy tego traktować jakoś super poważnie,
+
+00:37:13.520 --> 00:37:16.520
+ale to też jest pewna ciekawostka w odniesieniu do innej wiadomości,
+
+00:37:16.520 --> 00:37:19.520
+która niedawno do mnie dotarła.
+
+00:37:19.520 --> 00:37:22.520
+PlayStation bardzo mocno naciska na to, żeby te wszystkie gry,
+
+00:37:22.520 --> 00:37:25.520
+które są pokazywane u nich na tych konferencjach,
+
+00:37:25.520 --> 00:37:28.520
+były prezentowane za pośrednictwem konsoli PlayStation 5.
+
+00:37:28.520 --> 00:37:31.520
+Ponoć dlatego Resident Evil wyglądał tak średnio,
+
+00:37:31.520 --> 00:37:34.520
+ponieważ jeszcze nie za dobrze chodzi na tej konsoli,
+
+00:37:34.520 --> 00:37:37.520
+ale byli wierni tej zasadzie.
+
+00:37:37.520 --> 00:37:40.520
+Wydaje mi się, że w przypadku State of Play trochę tę zasadę złamali,
+
+00:37:40.520 --> 00:37:43.520
+bo gra nie wygląda tak jak na tym trailerze,
+
+00:37:43.520 --> 00:37:46.520
+że tam zostało trochę przerobione to, żeby wyglądało ładniej.
+
+00:37:46.520 --> 00:37:49.520
+Więc tu chyba sobie pozwolili na odpalenie tego z playbacku.
+
+00:37:49.520 --> 00:37:52.520
+Wiele na to wskazuje.
+
+00:37:52.520 --> 00:37:55.520
+To też jest pewna ciekawostka.
+
+00:37:55.520 --> 00:37:58.520
+W obliczu tego, co w Blizzardzie ma miejsce,
+
+00:37:58.520 --> 00:38:01.520
+czyli też są protesty pracowników,
+
+00:38:01.520 --> 00:38:04.520
+też się zaczynają organizować,
+
+00:38:04.520 --> 00:38:07.520
+też przekazują sobie swoje wynagrodzenia,
+
+00:38:07.520 --> 00:38:10.520
+żeby się zorientować, jak w ogóle wygląda sytuacja.
+
+00:38:10.520 --> 00:38:13.520
+To też jest pierwszy raz takie działanie wspólne ludzi.
+
+00:38:13.520 --> 00:38:16.520
+Nie słyszałem o takich akcjach wcześniej.
+
+00:38:16.520 --> 00:38:19.520
+Czyżby nadchodziły związki zawodowe w gamedevie?
+
+00:38:19.520 --> 00:38:22.520
+Wiele osób mówi, że ja nie jestem miłośnikiem związków,
+
+00:38:22.520 --> 00:38:25.520
+związków zawodowych,
+
+00:38:25.520 --> 00:38:28.520
+ale nie wiem.
+
+00:38:28.520 --> 00:38:31.520
+Może jakby to było ogarnięte dobrze,
+
+00:38:31.520 --> 00:38:34.520
+to może by ten dziki zachód trochę się uspokoił,
+
+00:38:34.520 --> 00:38:37.520
+bo to, co się dzieje w branży,
+
+00:38:37.520 --> 00:38:40.520
+trochę wychodzi spod kontroli.
+
+00:38:40.520 --> 00:38:43.520
+I to w wielu miejscach.
+
+00:38:43.520 --> 00:38:46.520
+Ubisoft, Blizzard.
+
+00:38:46.520 --> 00:38:49.520
+Wszędzie są jakieś problemy i niezadowolenia.
+
+00:38:49.520 --> 00:38:52.520
+Może rzeczywiście
+
+00:38:52.520 --> 00:38:55.520
+te związki mogłyby to poprawić.
+
+00:38:55.520 --> 00:38:58.520
+Znając historię związków zawodowych,
+
+00:38:58.520 --> 00:39:01.520
+to nie zawsze jest różowo.
+
+00:39:01.520 --> 00:39:04.520
+Związki nie naprawiają z automatu problemów.
+
+00:39:04.520 --> 00:39:07.520
+Często też powodują nowe.
+
+00:39:07.520 --> 00:39:10.520
+Na pewno to wydłuży cykl produkcyjny gier.
+
+00:39:10.520 --> 00:39:13.520
+Nie ma co do tego.
+
+00:39:13.520 --> 00:39:16.520
+Sam wielokrotnie powtarzałeś. Poczekasz.
+
+00:39:16.520 --> 00:39:19.520
+Tak, oczywiście poczekam.
+
+00:39:19.520 --> 00:39:22.520
+Technologia idzie do przodu,
+
+00:39:22.520 --> 00:39:25.520
+więc może to, co zdejmie się z ludzi, przejdzie na komputery.
+
+00:39:25.520 --> 00:39:28.520
+Chociaż ile lat temu było mówione,
+
+00:39:28.520 --> 00:39:31.520
+nie ucz się programowania,
+
+00:39:31.520 --> 00:39:34.520
+bo to już zaraz maszyny będą.
+
+00:39:34.520 --> 00:39:37.520
+A wracając do State of Play,
+
+00:39:37.520 --> 00:39:40.520
+mnie tam zainteresowały chyba tylko dwie gry.
+
+00:39:40.520 --> 00:39:43.520
+Przez pięć sekund ekscytowałem się Braidem 2,
+
+00:39:43.520 --> 00:39:46.520
+bo okazało się, że to jest remaster.
+
+00:39:46.520 --> 00:39:49.520
+Ale za to bardzo ładny.
+
+00:39:49.520 --> 00:39:52.520
+No ale jakby...
+
+00:39:52.520 --> 00:39:55.520
+Spelunky 2.
+
+00:39:55.520 --> 00:39:58.520
+I to była druga gra?
+
+00:39:58.520 --> 00:40:01.520
+Tak, druga gra.
+
+00:40:01.520 --> 00:40:04.520
+A ta gra o Robin Hoodzie?
+
+00:40:04.520 --> 00:40:07.520
+Czy to było takie fajne,
+
+00:40:07.520 --> 00:40:10.520
+dopóki się nie okazało, że jest multiplayerem?
+
+00:40:10.520 --> 00:40:13.520
+Ja myślałem, o kurde, robią Asasyna w świecie Robin Hooda,
+
+00:40:13.520 --> 00:40:16.520
+a potem się okazało, że to For Honor jednak jest.
+
+00:40:16.520 --> 00:40:19.520
+Tak, więc podobało mi się na początku.
+
+00:40:19.520 --> 00:40:22.520
+Ja nawet myślałem, że to jest jakaś zupełnie inna gra,
+
+00:40:22.520 --> 00:40:25.520
+że to będą jakieś Soulsowate,
+
+00:40:25.520 --> 00:40:28.520
+jakieś takie rzeczy czy coś.
+
+00:40:28.520 --> 00:40:31.520
+Ale potem, no to jakby...
+
+00:40:31.520 --> 00:40:34.520
+Entuzjazm.
+
+00:40:34.520 --> 00:40:37.520
+Sony miało rację.
+
+00:40:37.520 --> 00:40:40.520
+Warto było angażować się w to.
+
+00:40:40.520 --> 00:40:43.520
+Jeszcze była jedna w miarę ciekawa rzecz, czyli Hitman na VR-ze.
+
+00:40:43.520 --> 00:40:46.520
+I o ile ja nie jestem wielkim fanem VR-u,
+
+00:40:46.520 --> 00:40:49.520
+o tyle przeżywanie przygód tego typu
+
+00:40:49.520 --> 00:40:52.520
+z perspektywy pierwszej osoby może być czymś takim nietuzinkowym.
+
+00:40:52.520 --> 00:40:55.520
+Okej, tylko czy to wyglądało jak
+
+00:40:55.520 --> 00:40:58.520
+gra na VR-ze od PlayStation?
+
+00:40:58.520 --> 00:41:01.520
+Na PS4?
+
+00:41:01.520 --> 00:41:04.520
+Nie, to wyglądało jak delikatny żarcik.
+
+00:41:04.520 --> 00:41:07.520
+Nie wyglądało zbyt dobrze jak na VR i kamera była zbyt statyczna.
+
+00:41:07.520 --> 00:41:10.520
+Ja myślę, że to był taki wstępny projekt,
+
+00:41:10.520 --> 00:41:13.520
+taki mock-up trochę.
+
+00:41:13.520 --> 00:41:16.520
+Podejrzewam, że to bardziej przypominało
+
+00:41:16.520 --> 00:41:19.520
+jak pierwszoosobową rozgrywkę
+
+00:41:19.520 --> 00:41:22.520
+normalnie widzianą na ekranie, nie w VR-ze.
+
+00:41:22.520 --> 00:41:25.520
+Tak, ja teraz sobie puściłem zwiastun, żeby sobie przypomnieć.
+
+00:41:25.520 --> 00:41:28.520
+Rzeczywiście ten ruch głowy jest dość taki...
+
+00:41:28.520 --> 00:41:31.520
+Tak, statyczny.
+
+00:41:31.520 --> 00:41:34.520
+Może to jakiś, wiesz, android grał.
+
+00:41:34.520 --> 00:41:37.520
+Może, może. Może to na potrzeby prezentacji.
+
+00:41:37.520 --> 00:41:40.520
+No i tak poza tym wiele rzeczy innych mi do głowy nie przychodzi
+
+00:41:40.520 --> 00:41:43.520
+z tego State of Play.
+
+00:41:43.520 --> 00:41:46.520
+No Control, jakby to połączenie w końcu z Alan Wake'a.
+
+00:41:46.520 --> 00:41:49.520
+Ale ja nie grałem jeszcze w Control, więc...
+
+00:41:49.520 --> 00:41:52.520
+O Jezu, Control jest...
+
+00:41:52.520 --> 00:41:55.520
+Nie skończyłem tej gry, ale polecam gorąco tam.
+
+00:41:55.520 --> 00:41:58.520
+Niesamowicie łamanie tej czwartej ściany
+
+00:41:58.520 --> 00:42:01.520
+jest fantastycznie zrobione.
+
+00:42:01.520 --> 00:42:04.520
+Historia jest też ciekawa, tylko cała ta gra
+
+00:42:04.520 --> 00:42:07.520
+jest zbudowana na bazie budynku, którego struktura
+
+00:42:07.520 --> 00:42:10.520
+cały czas się zmienia. Odnalezienie drogi tam
+
+00:42:10.520 --> 00:42:13.520
+jest wyzwaniem samym w sobie. Ja nie do końca
+
+00:42:13.520 --> 00:42:16.520
+przepadam za grami, w których nie wiem, gdzie się udać.
+
+00:42:16.520 --> 00:42:19.520
+Dla mnie wyzwaniem jest to, co zrobię,
+
+00:42:19.520 --> 00:42:22.520
+jak dojdę na miejsce, a nie to, jak dojdę na miejsce.
+
+00:42:22.520 --> 00:42:25.520
+Więc ta gra tutaj jest wyzwaniem
+
+00:42:25.520 --> 00:42:28.520
+nie w tym aspekcie, który ja najbardziej lubię.
+
+00:42:28.520 --> 00:42:31.520
+Ale spoko. Ludzie doceniają to,
+
+00:42:31.520 --> 00:42:34.520
+co ja miałem okazję ograć. Też mi sprawiło trochę przyjemność.
+
+00:42:34.520 --> 00:42:37.520
+No i też w okolicach pojawiła się taka informacja,
+
+00:42:37.520 --> 00:42:40.520
+bo chyba już ten State of Play to już nie będziemy przeciągać,
+
+00:42:40.520 --> 00:42:43.520
+bo to już hashtag nikogo totalnie.
+
+00:42:43.520 --> 00:42:46.520
+No, Crasha pokazali, no sorry.
+
+00:42:46.520 --> 00:42:49.520
+Na pewno będzie fajna gra, to widać, ale jakby...
+
+00:42:49.520 --> 00:42:52.520
+Kontroler
+
+00:42:52.520 --> 00:42:55.520
+od PlayStation 4 nie będzie
+
+00:42:55.520 --> 00:42:58.520
+kompatybilny z PlayStation 5.
+
+00:42:58.520 --> 00:43:01.520
+I tak, i nie.
+
+00:43:01.520 --> 00:43:04.520
+Znaczy będzie kompatybilny, jeżeli odpalisz grę
+
+00:43:04.520 --> 00:43:07.520
+z PlayStation 4, ale to wydaje się wręcz już
+
+00:43:07.520 --> 00:43:10.520
+obowiązkowe.
+
+00:43:10.520 --> 00:43:13.520
+Tak, tak.
+
+00:43:13.520 --> 00:43:16.520
+Kompatybilność w zasadzie to jest trochę uzasadnione.
+
+00:43:16.520 --> 00:43:19.520
+W związku z tym, że ten, jak to się nazywa?
+
+00:43:19.520 --> 00:43:22.520
+DualSense? DualSense to się nazywa.
+
+00:43:22.520 --> 00:43:25.520
+W związku z tym, że ten kontroler ma jakieś dodatkowe funkcjonalności
+
+00:43:25.520 --> 00:43:28.520
+związane np. z siłą naciągu, łuku
+
+00:43:28.520 --> 00:43:31.520
+i z siłą wciśnięcia triggera, no to gry, które będą
+
+00:43:31.520 --> 00:43:34.520
+opierały się o te mechaniki, z oczywistych powodów
+
+00:43:34.520 --> 00:43:37.520
+nie będą mogły wykorzystywać kontrolera DualShocka,
+
+00:43:37.520 --> 00:43:40.520
+bo on nie ma tych funkcjonalności.
+
+00:43:40.520 --> 00:43:43.520
+Jeżeli np. masz grę, w której siła nacisku
+
+00:43:43.520 --> 00:43:46.520
+na trigger wpływa na to, jak mechanika działa,
+
+00:43:46.520 --> 00:43:49.520
+no to oczywiste jest, że kontroler stary
+
+00:43:49.520 --> 00:43:52.520
+tego nie zaoferuje, więc nie będzie mógł być wykorzystywany
+
+00:43:52.520 --> 00:43:55.520
+w tej grze.
+
+00:43:55.520 --> 00:43:58.520
+Rozumiem, ale pytanie jest teraz jedno. Czy to jest OK?
+
+00:43:58.520 --> 00:44:01.520
+Czy może
+
+00:44:01.520 --> 00:44:04.520
+po prostu poziom nacisku powinien być,
+
+00:44:04.520 --> 00:44:07.520
+jeżeli gra wykryje, że jest stary kontroler,
+
+00:44:07.520 --> 00:44:10.520
+to po prostu zmienia trochę to sterowanie?
+
+00:44:10.520 --> 00:44:13.520
+To byłoby pewnie jakieś rozwiązanie.
+
+00:44:13.520 --> 00:44:16.520
+Zobaczymy sobie, ile będzie tych gier,
+
+00:44:16.520 --> 00:44:19.520
+bo wiesz, może być tak
+
+00:44:19.520 --> 00:44:22.520
+i wtedy to, co ja zaraz powiem, nie będzie miało sensu,
+
+00:44:22.520 --> 00:44:25.520
+ale może być tak, że każda gra będzie tak do bólu wykorzystywać
+
+00:44:25.520 --> 00:44:28.520
+wszystkie te nowe rzeczy z tego kontrolera, że po prostu
+
+00:44:28.520 --> 00:44:31.520
+niemożliwe jest to, bo to jest zupełnie na pewno
+
+00:44:31.520 --> 00:44:34.520
+inny kontroler i wszystko jest tam inne
+
+00:44:34.520 --> 00:44:37.520
+i to nie działa, ale znając życie
+
+00:44:37.520 --> 00:44:40.520
+i przykład Gładzika od PlayStation 3
+
+00:44:40.520 --> 00:44:43.520
+to wydaje mi się, że jest to decyzja
+
+00:44:43.520 --> 00:44:46.520
+czysto Excelowa, biznesowa.
+
+00:44:46.520 --> 00:44:49.520
+Że więcej sprzedać kontrolerów.
+
+00:44:49.520 --> 00:44:52.520
+Możesz mieć rację. W zasadzie mamy dwie ścieżki.
+
+00:44:52.520 --> 00:44:55.520
+Jedną, którą idzie Xbox, czyli nawet kontroler
+
+00:44:55.520 --> 00:44:58.520
+Xboxa 360.
+
+00:44:58.520 --> 00:45:01.520
+Nadal jest kompatybilny ze wszystkim, co robią nowym.
+
+00:45:01.520 --> 00:45:04.520
+I to jest chyba rozwiązanie, które mi się bardziej podoba.
+
+00:45:04.520 --> 00:45:07.520
+Z perspektywy użytkownika fajnie wchodzić do tej samej rzeki.
+
+00:45:07.520 --> 00:45:10.520
+W tym sensie, że masz urządzenia, które rozumiesz,
+
+00:45:10.520 --> 00:45:13.520
+które cały czas działają tak samo.
+
+00:45:13.520 --> 00:45:16.520
+Ale z drugiej strony PlayStation oferuje pewnego rodzaju innowacje
+
+00:45:16.520 --> 00:45:19.520
+i dzięki temu możemy odkryć nowe rzeczy
+
+00:45:19.520 --> 00:45:22.520
+i się może okazać, że coś fajnego można wprowadzić,
+
+00:45:22.520 --> 00:45:25.520
+czego nie można było wcześniej zrobić.
+
+00:45:25.520 --> 00:45:28.520
+Tylko pojawia się ten problem kompatybilności.
+
+00:45:28.520 --> 00:45:31.520
+I ta wymuszona kompatybilność może zmniejszać
+
+00:45:31.520 --> 00:45:34.520
+rozwój danej rzeczy.
+
+00:45:34.520 --> 00:45:37.520
+I to się z Tobą całkowicie zgadzam.
+
+00:45:37.520 --> 00:45:40.520
+Zobaczymy, jak ta innowacyjność będzie wykorzystywana.
+
+00:45:40.520 --> 00:45:43.520
+Dla mnie w tym momencie
+
+00:45:43.520 --> 00:45:46.520
+to jest takie antykonsumenckie działanie.
+
+00:45:46.520 --> 00:45:49.520
+Wyobraź sobie taką sytuację,
+
+00:45:49.520 --> 00:45:52.520
+że jest tak jak u Ciebie.
+
+00:45:52.520 --> 00:45:55.520
+Ty głównie grasz na tej konsoli sam.
+
+00:45:55.520 --> 00:45:58.520
+Masz jednego pada, którego dostajesz w komplecie.
+
+00:45:58.520 --> 00:46:01.520
+No i ja przychodzę do Ciebie na herbatę z cukrem
+
+00:46:01.520 --> 00:46:04.520
+i mówię, że chodź Remi, zagramy w naszą ulubioną grę
+
+00:46:04.520 --> 00:46:07.520
+FIFA 28.
+
+00:46:07.520 --> 00:46:10.520
+I Ty mówisz, że nie mam pada,
+
+00:46:10.520 --> 00:46:13.520
+bo jestem cebulą.
+
+00:46:13.520 --> 00:46:16.520
+I ja mówię, że masz tego starego.
+
+00:46:16.520 --> 00:46:19.520
+To może on by działał.
+
+00:46:19.520 --> 00:46:22.520
+Więc wydaje mi się to słabą zagrywką.
+
+00:46:22.520 --> 00:46:25.520
+Zresztą świat idzie do przodu.
+
+00:46:25.520 --> 00:46:28.520
+Zresztą Microsoft nieźle troluje teraz z Sony.
+
+00:46:28.520 --> 00:46:31.520
+Chyba to jest odwet za premierę Xboxa,
+
+00:46:31.520 --> 00:46:34.520
+gdzie Sony tam pojechało
+
+00:46:34.520 --> 00:46:37.520
+i wtedy za ten sprzęt do oglądania sportu.
+
+00:46:37.520 --> 00:46:40.520
+To oni sobie teraz odbili.
+
+00:46:40.520 --> 00:46:43.520
+O, a nasze wszystkie kontrolery będą działać.
+
+00:46:43.520 --> 00:46:46.520
+Tak, tak, tak.
+
+00:46:46.520 --> 00:46:49.520
+Na pewno jest to marketingowo wykorzystywane.
+
+00:46:49.520 --> 00:46:52.520
+FIFA 28, czy FIFA nie zmienia się tak szybko,
+
+00:46:52.520 --> 00:46:55.520
+żeby w 21 wersji?
+
+00:46:55.520 --> 00:46:58.520
+No dlatego, że za 8 lat se pograłem.
+
+00:46:58.520 --> 00:47:01.520
+Ale wiesz co, to jest tak.
+
+00:47:01.520 --> 00:47:04.520
+Z tym godzikiem przy DualShocku to masz rację.
+
+00:47:04.520 --> 00:47:07.520
+To moim zdaniem totalnie słaba funkcjonalność,
+
+00:47:07.520 --> 00:47:10.520
+którą można zupełnie spokojnie zastąpić już guzikami,
+
+00:47:10.520 --> 00:47:13.520
+które tam funkcjonują.
+
+00:47:13.520 --> 00:47:16.520
+I to się nie sprawdziło.
+
+00:47:16.520 --> 00:47:19.520
+Natomiast to, co w DualSense jest,
+
+00:47:19.520 --> 00:47:22.520
+to jest to, o czym mówiłem.
+
+00:47:22.520 --> 00:47:25.520
+I jeżeli się okaże, że to był dobry kierunek,
+
+00:47:25.520 --> 00:47:28.520
+to ta innowacyjność ma bardzo dużo sensu.
+
+00:47:28.520 --> 00:47:31.520
+Ja mam wrażenie, że większość tych rzeczy
+
+00:47:31.520 --> 00:47:34.520
+to będzie to, jak my odczuwamy grę w kontrolerze.
+
+00:47:34.520 --> 00:47:37.520
+Oczywiście te spusty będą ogarnięte,
+
+00:47:37.520 --> 00:47:40.520
+ale ja mam takie wrażenie,
+
+00:47:40.520 --> 00:47:43.520
+że cały czas mówimy jednak o pewnym odbiorze
+
+00:47:43.520 --> 00:47:46.520
+jakichś drgań i takich rzeczy.
+
+00:47:46.520 --> 00:47:49.520
+Gdyby to było tak jak mówisz,
+
+00:47:49.520 --> 00:47:52.520
+czyli tylko informacje,
+
+00:47:52.520 --> 00:47:55.520
+którą ma nam dostarczać kontroler,
+
+00:47:55.520 --> 00:47:58.520
+to byłoby to nadużycie.
+
+00:47:58.520 --> 00:48:01.520
+Bo zupełnie spokojnie można by do pewnego stopnia
+
+00:48:01.520 --> 00:48:04.520
+symulować to na starych wibracjach w tych kontrolerach.
+
+00:48:04.520 --> 00:48:07.520
+Może to będzie mniej odczuwalne.
+
+00:48:07.520 --> 00:48:10.520
+Ja tak myślę sobie, że siła nacisku
+
+00:48:10.520 --> 00:48:13.520
+może być tak rewolucyjna,
+
+00:48:13.520 --> 00:48:16.520
+jak sobie porównasz sterowanie na klawiaturze
+
+00:48:16.520 --> 00:48:19.520
+do sterowania na kontrolerze,
+
+00:48:19.520 --> 00:48:22.520
+to siła wychylenia gałki decyduje o szybkości obrotu
+
+00:48:22.520 --> 00:48:25.520
+albo szybkości poruszania się postaci.
+
+00:48:25.520 --> 00:48:28.520
+To jest coś, czego na PC nie udało się
+
+00:48:28.520 --> 00:48:31.520
+do tej pory odwzorować.
+
+00:48:31.520 --> 00:48:34.520
+I to jest fajna funkcjonalność,
+
+00:48:34.520 --> 00:48:37.520
+mimo mojej miłości do myszki i klawiatury.
+
+00:48:37.520 --> 00:48:40.520
+Jeżeli siła nacisku będzie też dawała taką różnicę,
+
+00:48:40.520 --> 00:48:43.520
+to jest to kierunek, w który warto pójść.
+
+00:48:43.520 --> 00:48:46.520
+Na pewno z perspektywy Sony,
+
+00:48:46.520 --> 00:48:49.520
+z jednej strony Excelowo to może mieć sens.
+
+00:48:49.520 --> 00:48:52.520
+Sprzedamy więcej kontrolerów, to dobrze dla nas więcej pieniędzy.
+
+00:48:52.520 --> 00:48:55.520
+Ale z drugiej strony to też jest marketingowe ryzyko.
+
+00:48:55.520 --> 00:48:58.520
+W związku z tym, że ludzie muszą brać pod uwagę to,
+
+00:48:58.520 --> 00:49:01.520
+żeby pograć sobie z kimś, to trzeba kupić dwa kontrolery.
+
+00:49:01.520 --> 00:49:04.520
+To cena konsoli, która i tak może się okazać wyższa
+
+00:49:04.520 --> 00:49:07.520
+niż byśmy chcieli, będzie jeszcze wyższa.
+
+00:49:07.520 --> 00:49:10.520
+W związku ze sprzedaży konsoli.
+
+00:49:10.520 --> 00:49:13.520
+Więc to rozwiązanie ma dwie strony medalną.
+
+00:49:13.520 --> 00:49:16.520
+Nie wiem, ja mam cały czas wrażenie, że to jest takie podejście
+
+00:49:16.520 --> 00:49:19.520
+do naszego PlayStation 5,
+
+00:49:19.520 --> 00:49:26.520
+żebyście mieli pełne wrażenia z gier.
+
+00:49:26.520 --> 00:49:32.520
+Konsola będzie działać tylko z telewizorami 4K.
+
+00:49:32.520 --> 00:49:37.520
+A wiesz co, może to jest takie podejście,
+
+00:49:37.520 --> 00:49:40.520
+taki kierunek, który obrało dawno temu Apple,
+
+00:49:40.520 --> 00:49:43.520
+robiąc urządzenia zdecydowanie wyższej jakości,
+
+00:49:43.520 --> 00:49:46.520
+przynajmniej na papierze,
+
+00:49:46.520 --> 00:49:49.520
+i tworząc taką zamkniętą strukturę,
+
+00:49:49.520 --> 00:49:52.520
+w której ludzie bardzo dobrze funkcjonują, ten ekosystem.
+
+00:49:52.520 --> 00:49:55.520
+Więc może Sony myśli tak,
+
+00:49:55.520 --> 00:49:58.520
+Microsoft idzie w Game Pass, oferują usługę,
+
+00:49:58.520 --> 00:50:01.520
+z którą nie mamy szans w ogóle konkurować na obecnym etapie,
+
+00:50:01.520 --> 00:50:04.520
+no to spróbujmy pójść w trochę inną stronę.
+
+00:50:04.520 --> 00:50:07.520
+Zróbmy sprzęt, który jest wyjątkowy, który jest innowacyjny.
+
+00:50:07.520 --> 00:50:10.520
+Zróbmy konsolę, która będzie się fantastycznie sprawdzała w ekskluzjwach,
+
+00:50:10.520 --> 00:50:13.520
+chociaż może mieć trochę problemy w multiplatformowych grach,
+
+00:50:13.520 --> 00:50:16.520
+ale stwórzmy taki swój ekosystem.
+
+00:50:16.520 --> 00:50:19.520
+Dostarczmy ekskluzywnego produktu,
+
+00:50:19.520 --> 00:50:22.520
+który trzeba mieć,
+
+00:50:22.520 --> 00:50:25.520
+trzeba kupić dwa te kontrolery,
+
+00:50:25.520 --> 00:50:29.520
+że to może stworzyć też pewną filozofię wokół tego urządzenia.
+
+00:50:29.520 --> 00:50:32.520
+Filozofia sprzedawania drogich rzeczy graczom.
+
+00:50:32.520 --> 00:50:35.520
+To jest świetny pomysł.
+
+00:50:35.520 --> 00:50:38.520
+Apple też ma taką filozofię, która im bardzo dobrze działa.
+
+00:50:38.520 --> 00:50:41.520
+No tak, ale przy czym na przykład przez wiele lat Apple,
+
+00:50:41.520 --> 00:50:44.520
+powiedzmy sobie szczerze, Apple zarabia z iPhone'ów.
+
+00:50:44.520 --> 00:50:47.520
+iPhone'y przez wiele lat,
+
+00:50:47.520 --> 00:50:50.520
+teraz się to bardzo zmieniło,
+
+00:50:50.520 --> 00:50:53.520
+ale cały czas nam serwowały jakieś rzeczywiście przydatne nowości,
+
+00:50:53.520 --> 00:50:56.520
+to były telefony.
+
+00:50:56.520 --> 00:50:59.520
+iPhone'a nawet, bezsensowna rzecz.
+
+00:50:59.520 --> 00:51:02.520
+Realnie jest tak zabezpieczony, że nic z nim nie zrobisz po to.
+
+00:51:02.520 --> 00:51:05.520
+Nie wiem, czy to jest dobra analogia.
+
+00:51:05.520 --> 00:51:08.520
+Na pewno do marżowości tak.
+
+00:51:08.520 --> 00:51:11.520
+Pojawiły się też plotki, że Playak będzie droższy trochę.
+
+00:51:11.520 --> 00:51:14.520
+Może oczywiście idą w taką ekskluzywność,
+
+00:51:14.520 --> 00:51:17.520
+że tutaj masz droższą konsolę,
+
+00:51:17.520 --> 00:51:20.520
+zamknięty ekosystem,
+
+00:51:20.520 --> 00:51:23.520
+ale pytanie, co wybiorą gracze.
+
+00:51:23.520 --> 00:51:26.520
+Wybiorą gry, a tych gier
+
+00:51:26.520 --> 00:51:29.520
+ani jedna, ani druga strona jeszcze nam tutaj nie zaprezentowała
+
+00:51:29.520 --> 00:51:32.520
+żadnego system selera, więc pewnie jeszcze sobie poczekamy rok.
+
+00:51:32.520 --> 00:51:35.520
+Pewnie tak,
+
+00:51:35.520 --> 00:51:38.520
+chociaż w tym wyścigu, jeżeli chodzi o produkty ekskluzywne,
+
+00:51:38.520 --> 00:51:41.520
+no to stawiałbym na konia od PlayStation jednak.
+
+00:51:41.520 --> 00:51:44.520
+Jest to możliwe.
+
+00:51:44.520 --> 00:51:47.520
+Zobaczymy.
+
+00:51:47.520 --> 00:51:50.520
+Zobaczymy.
+
+00:51:50.520 --> 00:51:53.520
+Wydaje mi się, że
+
+00:51:53.520 --> 00:51:56.520
+powtarzam, ale może za rzadko,
+
+00:51:56.520 --> 00:51:59.520
+że to pro-konsumenckie podejście,
+
+00:51:59.520 --> 00:52:02.520
+które ma Microsoft, a którego Sony nie ma.
+
+00:52:02.520 --> 00:52:05.520
+Tak, zgadza się.
+
+00:52:05.520 --> 00:52:08.520
+Wydaje mi się, że to hasło
+
+00:52:08.520 --> 00:52:11.520
+For The Players jest For The Sellers chyba.
+
+00:52:11.520 --> 00:52:14.520
+Tak.
+
+00:52:14.520 --> 00:52:17.520
+Że trochę zapomniało o graczach.
+
+00:52:17.520 --> 00:52:20.520
+Więc wszystko się
+
+00:52:20.520 --> 00:52:23.520
+rozegra w tytułach.
+
+00:52:23.520 --> 00:52:26.520
+I być może to będzie taka waga,
+
+00:52:26.520 --> 00:52:29.520
+że tutaj mamy 1-2 ekskluzywy,
+
+00:52:29.520 --> 00:52:32.520
+a tutaj mamy Game Passa i ja nie wiem jak to obliczyć.
+
+00:52:32.520 --> 00:52:35.520
+Każdy pewnie będzie podejmował
+
+00:52:35.520 --> 00:52:38.520
+te decyzje indywidualnie.
+
+00:52:38.520 --> 00:52:41.520
+Ja też dostrzegam to, że Microsoft jest na tyle pro-konsumencki,
+
+00:52:41.520 --> 00:52:44.520
+że tutaj praktyki PlayStation boleśnie są obnażone.
+
+00:52:44.520 --> 00:52:47.520
+To, że np. ten Spider-Man będzie dostępny tylko na PlayStation.
+
+00:52:47.520 --> 00:52:50.520
+Niezależnie od tego, kto ma prawa akurat do tej postaci
+
+00:52:50.520 --> 00:52:53.520
+w przypadku gier, bo to nie jest takie oczywiste.
+
+00:52:53.520 --> 00:52:56.520
+PlayStation ma prawa do postaci w filmach, natomiast w grach
+
+00:52:56.520 --> 00:52:59.520
+to są kwestie indywidualnych umów.
+
+00:52:59.520 --> 00:53:02.520
+I jeżeli takie podejście będzie częściej,
+
+00:53:02.520 --> 00:53:05.520
+o tym mówiłem, że jeżeli PlayStation będzie bardzo mocno cisnęło
+
+00:53:05.520 --> 00:53:08.520
+na ekskluzywności czasowe w multiplatformowych tytułach,
+
+00:53:08.520 --> 00:53:11.520
+to to jest bardzo nie pro-konsumenckie,
+
+00:53:11.520 --> 00:53:14.520
+ale też może przynieść jakiś sukces.
+
+00:53:14.520 --> 00:53:17.520
+Tylko, że zobaczymy na jak długą metę.
+
+00:53:17.520 --> 00:53:20.520
+To ciekawe zderzenie dwóch filozofii. Zobaczymy jak to się będzie rozwijało.
+
+00:53:20.520 --> 00:53:23.520
+Możemy sobie gdybać, ale czas pokaże i to już niedługo.
+
+00:53:23.520 --> 00:53:26.520
+Może być też tak, że rozejdą się te drogi,
+
+00:53:26.520 --> 00:53:29.520
+że będzie jedna albo dwie konsole.
+
+00:53:29.520 --> 00:53:32.520
+Będzie Sony, Nintendo,
+
+00:53:32.520 --> 00:53:35.520
+a w gry od Microsoftu zagrasz sobie na wszystkim.
+
+00:53:35.520 --> 00:53:38.520
+X-Cloud wiemy, że będzie w Polsce.
+
+00:53:38.520 --> 00:53:41.520
+Ja na pewno będę go testował.
+
+00:53:41.520 --> 00:53:44.520
+Ty też masz Game Passa.
+
+00:53:44.520 --> 00:53:47.520
+Szkoda, że na iPadzie się nie da.
+
+00:53:47.520 --> 00:53:50.520
+Walczą podobnie, ale jest coraz gorzej,
+
+00:53:50.520 --> 00:53:53.520
+więc to też nie jest tak różowo.
+
+00:53:53.520 --> 00:53:56.520
+Może być tak, że nie będzie X-Clouda na iPadzie.
+
+00:53:56.520 --> 00:53:59.520
+Szkoda.
+
+00:53:59.520 --> 00:54:02.520
+Ale zobaczymy.
+
+00:54:02.520 --> 00:54:05.520
+Dla mnie to jest...
+
+00:54:05.520 --> 00:54:08.520
+Oczywiście to jest mobilne,
+
+00:54:08.520 --> 00:54:11.520
+ale ja bym chciał, żeby to było na wszystkim.
+
+00:54:11.520 --> 00:54:14.520
+Poszerzać pole klientów do tych ze starymi komputerami,
+
+00:54:14.520 --> 00:54:17.520
+do tych tylko z telewizorami, z Macami.
+
+00:54:17.520 --> 00:54:20.520
+To jest kierunek, który powinien być obrany.
+
+00:54:20.520 --> 00:54:23.520
+Widać, że coś tam działają,
+
+00:54:23.520 --> 00:54:26.520
+ale zobaczymy, co z tego będzie.
+
+00:54:26.520 --> 00:54:29.520
+Kończymy na dzisiaj.
+
+00:54:29.520 --> 00:54:32.520
+Pozdrawiamy Państwa bardzo serdecznie,
+
+00:54:32.520 --> 00:54:35.520
+których nie zaplanowaliśmy.
+
+00:54:35.520 --> 00:54:38.520
+Rzadko nagrywamy, więc nie mamy kiedy się wygadać.
+
+00:54:38.520 --> 00:54:41.520
+Mamy jakieś pytania do widzów?
+
+00:54:41.520 --> 00:54:44.520
+Night City Wire.
+
+00:54:44.520 --> 00:54:47.520
+Czy pójdzie chociaż 720p na Xboxie?
+
+00:54:47.520 --> 00:54:50.520
+Cyberpunk.
+
+00:54:50.520 --> 00:54:53.520
+Zobaczymy.
+
+00:54:53.520 --> 00:54:56.520
+Pozdrawiamy Państwa bardzo serdecznie i do zobaczenia.
+
+00:54:56.520 --> 00:54:59.520
+Prawdziwe pytanie.
+
+00:54:59.520 --> 00:55:02.520
+Jakie są wrażenia po Night City Wire i State of Play?
+
+00:55:02.520 --> 00:55:05.520
+Napiszcie, czy jakieś gry ze State of Play
+
+00:55:05.520 --> 00:55:08.520
+serduszko Wam zadrżało?
+
+00:55:08.520 --> 00:55:11.520
+Jako, żeśmy o tym rozmawiali,
+
+00:55:11.520 --> 00:55:14.520
+to mam pytanie odnośnie tych innowacji,
+
+00:55:14.520 --> 00:55:17.520
+które PlayStation oferuje w przypadku kontrolera.
+
+00:55:17.520 --> 00:55:20.520
+Czy warto iść w tę stronę?
+
+00:55:20.520 --> 00:55:23.520
+Czy to jest tylko i wyłącznie skok na waszą gotówkę,
+
+00:55:23.520 --> 00:55:26.520
+kiedy kupujecie dwa kontrolery?
+
+00:55:26.520 --> 00:55:29.520
+Czy to jest jednak sposób na to,
+
+00:55:29.520 --> 00:55:32.520
+żeby wymyślić coś nowego, nietypowego,
+
+00:55:32.520 --> 00:55:35.520
+co się może potem fantastycznie sprawdzić w przyszłości?
+
+00:55:35.520 --> 00:55:38.520
+To jest pytanie ode mnie.
+
+00:55:38.520 --> 00:55:58.520
+Do zobaczenia.
+

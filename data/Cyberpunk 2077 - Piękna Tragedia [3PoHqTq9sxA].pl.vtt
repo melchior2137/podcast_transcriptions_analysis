@@ -1,0 +1,4331 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.840
+Dzień dobry. Witam państwa bardzo, bardzo serdecznie w podcaście Rock i Borys. Dzień dobry, Borys.
+
+00:00:05.840 --> 00:00:07.840
+Dzień dobry, Remigiusz.
+
+00:00:07.840 --> 00:00:23.040
+Dzisiaj temat, jakiego należało oczekiwać od takiego znacnego podcastu, jakim jesteśmy, więc żadnej niespodzianki nie będzie, ale zanim przejdziemy do rzeczy, no to może mi powiesz, co tam słychać u ciebie ciekawego, bo co u mnie to wiadomo, ale może u ciebie, może ty masz życie moje.
+
+00:00:23.040 --> 00:00:38.400
+U mnie bardzo podobnie, jak u ciebie, czyli nic. Znaczy prawie nic, bo mam nową kartę graficzną i od razu się pochwalę. To zasługa MSI-a, proszę bardzo, taką dostałem piękną od nich.
+
+00:00:38.400 --> 00:00:54.640
+3080? 3080. To ładnie, gratuluję. I super, znaczy to jest fajne, bo akurat wysłali mi ją przed Cyberpunkiem, więc na niej mogłem ograć Cyberpunka, ale też ograłem na Xboksie, jakby się ktoś martwił, więc…
+
+00:00:54.640 --> 00:00:59.280
+Poważnie grałeś na Xboksie? Tak, chyba z 5 godzin, cały prolog przeszedłem, jeszcze grałem tam trochę.
+
+00:00:59.280 --> 00:01:04.000
+Ale na tym starej generacji? Nie, ja mam Xboks One X, znaczy tak, starej generacji.
+
+00:01:04.000 --> 00:01:09.560
+O Jezus, no to dobrze, no to mamy doświadczenia z każdego spektrum.
+
+00:01:09.560 --> 00:01:29.360
+Stwierdziłem, że warto. Ta karta, czyli to 3080, to oczywiście jest, znaczy to jest fajna rzecz, bo mogę pograć rzeczywiście z Raytracingiem, czy z DLSS-em, który bardzo się przydaje przy Cyberpunku.
+
+00:01:29.360 --> 00:01:38.280
+Ale przede wszystkim my możemy sobie o tych nowych technologiach też porozmawiać, bo ja pamiętam, że ty tam proponowałeś, żebyśmy rozmawiali o tych technologiach.
+
+00:01:38.280 --> 00:01:49.880
+Ja tak stwierdziłem, że trochę na sucho jest i to może nie, więc na pewno ta rozbudowa tego mojego kompa też pozytywnie wpłynie na podcast.
+
+00:01:49.880 --> 00:02:03.680
+O, no pewnie, że tak, no jak najbardziej. Podróbnie mnie też interesują takie rzeczy, gdzie w tych GeForce'ach jest na przykład to odszumianie na żywo, to takie ja to będę sobie na pewno testował za jakiś czas.
+
+00:02:03.680 --> 00:02:04.680
+Bardzo mnie cieszy.
+
+00:02:04.680 --> 00:02:10.880
+Więc MSI dziękuję bardzo jeszcze za kartę. Link do karty oczywiście macie w opisie.
+
+00:02:10.880 --> 00:02:22.120
+Ja też wymyślałem, że to jest taki żart, bo MSI samo się do mnie zgłosiło z tym tematem. Ja mówię, oczywiście, czemu nie? Ale tak pomyślałem, że jak omawialiśmy Valhallę,
+
+00:02:22.120 --> 00:02:35.760
+to powiedziałem, że ja grałem na porządnym sprzęcie, tam mam 980 TI GeForce'a i pewnie chłopaki z MSI jak się już skończyli śmiać, to stwierdzili, że to jest dobry adres dla tej karty.
+
+00:02:35.760 --> 00:02:37.160
+Najwyraźniej, tak.
+
+00:02:37.160 --> 00:02:41.400
+No więc jakby u mnie no to w sumie tyle.
+
+00:02:41.400 --> 00:02:47.560
+Czyli kartę wymieniłeś. Ja nie wymieniałem, ale też mam sporo doświadczeń, bo tam różne opcje graficzne testowałem.
+
+00:02:47.560 --> 00:02:49.360
+Ty też masz 3080.
+
+00:02:49.360 --> 00:03:03.440
+Tak, tak, tak. Ale miałem pełen zakres tam różnych testów, bo w związku z tym, że streamowałem część mojego grania, no to streamowałem Full HD, bo tam mam pewne problemy z przenoszeniem tych rozdzielczości na kompa do streamowania.
+
+00:03:03.440 --> 00:03:11.120
+Więc od Full HD do 1440p przy Ray Tracingach włączonych, wyłączonych, także też mam coś do opowiedzenia.
+
+00:03:11.120 --> 00:03:15.040
+Ale na pewno nic nie przebije twoich doświadczeń z Xboksa, chociaż to pewnie sobie na końcu omówimy.
+
+00:03:15.040 --> 00:03:27.760
+Tak, tak. Może zaczniemy już, bo pytanie co u ciebie, ale ja jak patrzę na ilość godzin, które spędziłeś w Cyberpunku i czas jaki minął od premiery, to wydaje mi się, że...
+
+00:03:27.760 --> 00:03:30.000
+Tak, że ja żyję w innej strefie czasowej.
+
+00:03:30.000 --> 00:03:42.080
+Nie, nie spałem prawie w ogóle, ja dzisiaj, u nas jest dzisiaj, co, co u nas, 13 jest, 13 grudnia, godzina 18, ja mam 60 godzin spędzonych w grze, proszę sobie policzyć ile ja spałem.
+
+00:03:42.080 --> 00:03:44.640
+A wy startowałeś w środę o 12, o 13 jakoś tak?
+
+00:03:44.640 --> 00:03:54.560
+O 12, o 12 środa, 12, tak, tak, że miałem, miałem, ja w ogóle byłem zaskoczony, bo nie wiedziałem, że dostanę ten kluczyk i w ogóle przygotowałem sobie cały plan, rano streamowałem przed tą 12 i mówię,
+
+00:03:54.560 --> 00:04:05.120
+dobra, teraz się zdrzemnę, żeby całą nockę być na nogach, a tu patrzę klucz, nie, ja taki zmęczony totalnie mówię, ale kurde, nie mam, nie ma opcji, nie, trzeba, trzeba grać, bo tam już inni streamują, konkurencja ucieka.
+
+00:04:05.120 --> 00:04:11.760
+Byłem, byłem przy tym. Może trochę zrobię wstępu i już sobie porozmawiamy.
+
+00:04:11.760 --> 00:04:21.920
+Proszę Państwa, po 8 latach od pierwszej zapowiedzi, 10 grudnia odbyła się premiera Cyberpunka 2077. Czy ja mogę mówić Cyberpunk, czy muszę mówić Cyber?
+
+00:04:21.920 --> 00:04:24.960
+Mów, możesz Cyber mówić, możesz mówić, co?
+
+00:04:24.960 --> 00:04:41.920
+Dobrze, będę mówił jak Cyberpunka. Przedpremierowe recenzje praktycznie jednogłośnie okrzyknęły grę wielkim hitem, bardzo dużo redakcji dało 10 na 10, a Metacritic, ten dla redakcji zatrzymał się obecnie na 90 punktach.
+
+00:04:41.920 --> 00:05:04.480
+Ogłoszono, że przedsprzedaż osiągnęła 8 milionów kopii, to ja tutaj muszę głowę popiołem posypać, bo ja stawiałem, że do końca roku sprzeda się w 5 milionach max, czy tam w 4 nawet, a tutaj w preorderze 8, więc no, posypuję i koszty gry już przy tych preorderach się zwróciły.
+
+00:05:04.480 --> 00:05:17.040
+Na Steamie grało w piku ponad milion osób i to jest niesamowity wynik. W RMF-ie premier Morawiecki powiedział, że docenia, ale nie będzie grał.
+
+00:05:17.040 --> 00:05:20.240
+Aha, tak, tak, ziomro mu nie pozwoli.
+
+00:05:20.240 --> 00:05:31.520
+Jest nawet taki żart, że za Tuska wychodziły mniej zabugowane gry CD Projekta.
+
+00:05:31.520 --> 00:05:52.160
+I my sobie porozmawiamy dzisiaj o naszych wrażeniach i od tego zaczniemy, ale też porozmawiamy sobie o recenzjach, ich znaczeniu, przyszłości, o tym wszystkim, co się wydarzyło i o, już jak taką truskawkę na torcie, tak to było wczoraj, porozmawiamy sobie o wersjach konsolowych.
+
+00:05:52.160 --> 00:06:09.280
+Ale zanim pójdziesz dalej, to też sobie pozwolę na mały żarcik, skoro żeśmy w politykę się zaczęli bawić, w związku z tym, że wyszła nowa gra Redów, no to teraz jakby amerykański prezydent do nas przyjechał, to nasz prezydent będzie miał móc oddać w prezencie Cyberpunka na PlayStation 4, tak czy co?
+
+00:06:09.280 --> 00:06:26.400
+Słuchaj, najgorsze jest to, że ja dałem na urodziny mojemu bratu Cyberpunka na PlayStation 4, a oprócz tego, bo on ma urodziny we wrześniu, więc musiał sobie poczekać zdrowo, no to jeszcze, przepraszam cię, coś innego.
+
+00:06:26.400 --> 00:06:30.640
+Trzeba mu było teraz, to musisz mu pod choinkę dać PS5, żeby mógł w to pograć.
+
+00:06:30.640 --> 00:06:51.360
+Kupił już, albo kupuje, nie wiem. Jeszcze ważna rzecz, mogą pojawić się spoilery, raczej nie będziemy chyba chcieli opowiadać jakoś głęboko o treści tej fabuły, no ale jeżeli ktoś jest bardzo wrażliwy, no to jak wiecie, czasami nam coś się wymsknie.
+
+00:06:51.360 --> 00:06:53.360
+Okej, jak najbardziej.
+
+00:06:53.360 --> 00:07:23.120
+Zacznijmy od tego, na czym graliśmy, bo ja grę kupiłem sobie na GOG-u, Proceq mam Ryzena 7 3800, 32 giga RAM-u, RTX-a 3080 MSI-a i bardzo szybki dysk twardy, znaczy SSD, grałem na monitorze o rozdzielczości 440p, wszystko na Ultra z włączonym Ray Tracingiem i DSLL-em.
+
+00:07:23.120 --> 00:07:44.240
+Grałem też na Xboksie One i klucz dostałem, to jest też bardzo zabawne, klucz dostałem od agencji, która pracuje dla Microsoftu, czyli od Microsoftu i grałem Nomadem na PC, grałem Corpo na Xboksie, w sumie mam jakieś 36 godzin, przy czym na X to mam Z4, tak mniej więcej.
+
+00:07:44.240 --> 00:08:03.680
+To zabrzmiała twoja historia jak taki wstęp do opowieści w klubie anonimowego alkoholika, wiesz? Dzień dobry, jestem Borys, grałem już 36 godzin w Cyberpunka, czekam, a ty jesteś widzę weteranem, to ja jestem, no jak wspomniałem, mam 60 godzin ograne,
+
+00:08:03.680 --> 00:08:19.840
+też ja w zasadzie gram, mam tyle godzin, ponieważ gram dwie ścieżki równolegle, to znaczy na streamie gram Corpo, a osobiście gram Nomadem i na streamie gram po polsku, a sam sobie gram po angielsku i z włączonym całym tym seksem, który tam jest dostępny.
+
+00:08:19.840 --> 00:08:27.280
+A to na streamie masz, ten stream, masz odcenzurowaną wersję, taką wersję stream, bo ja myślałem, że to wersja streamerska tylko muzyka, ale to rozumiem też konto.
+
+00:08:27.280 --> 00:08:45.440
+Nie, nie, nie, znaczy wiesz, jest tak, jest wersja streamerska oczywiście i ona dotyczy muzyki, ale oprócz tego można te wszystkie na gości powyłączać, więc wyłączyłem, no bo YouTube bywa bardzo w tych kwestiach ostry, w sensie nie, że zablokuje film, tylko że potrafi nawet ostrzeżenie na kanał wrzucić, więc tego wolałem uniknąć, więc dużo, dużo pograłem.
+
+00:08:45.440 --> 00:09:07.760
+Mogę przy okazji też porównać wersje językowe, to gdzieś tam pewnie w trakcie się rozmowy przydarzy, natomiast ja powiem Państwu o tych moich pierwszych wrażeniach, tak tam wstępię, bo to jest taka historia, która, jest coś takiego, że czasami jest taki hype, że choćbyś nie wiem, jak dobrą grę dostał, to i tak będziesz niezadowolony, i tak będziesz wytykał błędy, i tak będziesz widział, i tak one będą ci przeszkadzały.
+
+00:09:07.760 --> 00:09:30.080
+A jest jeszcze inny poziom hype'u, którego ja jestem tutaj posiadaczem, że choćbyś nie wiem, jaką grę dostał, to i tak będziesz zadowolony, i tak wszystko będziesz, wszystkie błędy będziesz pomijał, i będziesz się cieszył tym jak cholera, i ja jestem zachwycony, jakby dla mnie lepszej gry nie było, i chyba przez wiele, wiele lat nie będzie pod każdym możliwym względem, oczywiście jestem świadom tego, że są błędy, i od czasu do czasu.
+
+00:09:30.080 --> 00:09:33.280
+Wyprostujmy to, grasz na mocnym PC-cie, tak?
+
+00:09:33.280 --> 00:09:58.320
+A tak, tak, tak, oczywiście, nie opowiedziałem o tym, bo bardzo ma podobnego PC-ta do ciebie teraz po tej karcie, więc tutaj nic więcej nie dodam, no więc jestem zachwycony, dla mnie to jest takie spełnienie marzeń, ja o tym mówiłem już przed premierą, że to jest taki idealny świat, który ja zawsze chciałem zobaczyć, i Redzi zrobili to dokładnie tak, jak ja bym chciał, to znaczy, jakby wszystkie moje potrzeby odnośnie wirtualnej rzeczywistości zostały zaspokojone.
+
+00:09:58.320 --> 00:10:16.880
+Mam takie silne podejrzenie też, że w związku z tym, że Redzi tak bardzo mocno się upierali przy tej perspektywie pierwszej osoby, to prędzej czy później, może za pięć, może za dziesięć lat dostaniemy VR-ową wersję tej gry, i to będzie dopiero ciekawe przeżycie, bo tam poziom imersji, jak już wyszlifują wszystkie błędy, no to w VRze będzie można coś ciekawego przeżyć z tą grą.
+
+00:10:16.880 --> 00:10:20.880
+Zastanawiam się, że za pięć, sześć lat dostaniemy wreszcie na PlayStation 4 wersję.
+
+00:10:20.880 --> 00:10:36.880
+Nie sądzę, wiesz, to też o tym będziemy wspominać, ale dużym błędem było to, że ta gra się pojawiła z napisem PlayStation 4 i Xbox One, bo ona powinna się pojawić z napisem PlayStation 5 z możliwością odpalenia na starej generacji.
+
+00:10:36.880 --> 00:10:58.880
+Do tego sobie dojdziemy, ja się zgadzam z tobą. A propos fabuły, te historie, które są pokazane w grze, to jest arcydzieło. Ja nie mam tutaj wątpliwości, że pierwszy raz, może nie pierwszy, ale to jest tak rzadkie odczucie takich głębokich emocji.
+
+00:10:58.880 --> 00:11:22.880
+To chyba pierwszy raz w grze miałem takie, no bo oczywiście ja często wspominam o Detroit Become Human, że tam jest ta misja, która jakby mówi o obozie koncentracyjnym albo o Gone Home, ale ja nie pamiętam gry i może w jakichś japońszczyznach albo w jakichś grach, których ja nie grałem, żeby był dobrze zrealizowany romans.
+
+00:11:22.880 --> 00:11:36.880
+Zawsze te romansy w grach, które często odbywają się po prostu w RPGach i wygląda to tak, że tam przesuwa się ten pasek z serduszkiem, że tam dajesz prezenty i wykonujesz zadania i potem jest seks. I to tam jakiś mazerw.
+
+00:11:36.880 --> 00:11:38.880
+I potem młodzi gracze myślą, że tak rzeczywistość wygląda.
+
+00:11:38.880 --> 00:11:58.880
+No to zawsze to było płytkie. Tutaj jest romans, ja nie chcę mówić jaki, bo jest chyba opcjonalny z tego, co kojarzę. Jest romans, który jest takim pełnoprawnym, wręcz takim filmowym doświadczeniem.
+
+00:11:58.880 --> 00:12:09.880
+Ja sobie wszedłem w ten romans i dla mnie to było totalne zaskoczenie.
+
+00:12:09.880 --> 00:12:12.880
+Ale poczekaj, o którym romansie mówisz, bo to jest też niezwykle istotne.
+
+00:12:12.880 --> 00:12:14.880
+A czy ja mam mówić?
+
+00:12:14.880 --> 00:12:17.880
+No nie, powiedziałaś, że wszedłeś w romans, bo jestem ciekaw, który.
+
+00:12:17.880 --> 00:12:20.880
+No ja nie wiem, na razie miałem opcję na jeden.
+
+00:12:20.880 --> 00:12:22.880
+Mówisz o Judy?
+
+00:12:22.880 --> 00:12:24.880
+Nie.
+
+00:12:24.880 --> 00:12:25.880
+Mówisz o Pam?
+
+00:12:25.880 --> 00:12:33.880
+Tak, ale to może nie spojlerujmy, bo tam jest ileś opcji.
+
+00:12:33.880 --> 00:12:49.880
+I to, co się dzieje, to takie zaloty, takie odrzucenia, taka niepewność, ten kontakt, który odbywa się za pomocą smsów.
+
+00:12:49.880 --> 00:12:58.880
+Mnie to kupiło, po prostu. Ja nie pamiętam gry, która na tej warstwie emocjonalnej by nam nie zadziałała.
+
+00:12:58.880 --> 00:13:00.880
+Nie pamiętam, po prostu.
+
+00:13:00.880 --> 00:13:12.880
+I taki moment w grze jest, gdzie ten romans trwa, ja gdzieś jadę robić jakąś misję, odpala się kawałek grime
+
+00:13:12.880 --> 00:13:23.880
+i wtedy poczułem, że to jest nowe doświadczenie, że gry nie oferowały jeszcze takiej imersji, takiego spektrum emocji.
+
+00:13:23.880 --> 00:13:34.880
+Bardzo dużo się mówi przez ostatnie kilka lat, że gry są super ograniczone, że tak naprawdę większość gier można zmieścić w dwóch słowach.
+
+00:13:34.880 --> 00:13:37.880
+Skakać i strzelać.
+
+00:13:37.880 --> 00:13:43.880
+A tutaj jest głębiej, w tej warstwie oczywiście fabularnej.
+
+00:13:43.880 --> 00:13:45.880
+Kupiło mnie to, podoba mi się.
+
+00:13:45.880 --> 00:13:56.880
+Oczywiście nie wszystkie te sidequesty, w szczególności początek, nie za bardzo mi się podobało to, co się tam działo.
+
+00:13:56.880 --> 00:13:59.880
+Bo ty też robiłeś, rozumiem, dwa początki.
+
+00:13:59.880 --> 00:14:08.880
+Te wybory, które tam się odbywają, są na zasadzie Walking Dead, czyli ty niby coś wybierasz,
+
+00:14:08.880 --> 00:14:15.880
+ale to wszystko i tak się łączy w jednym miejscu i tym samym nic to absolutnie nie zmienia jakichś tam detali.
+
+00:14:15.880 --> 00:14:22.880
+Więc jako, że jeszcze nie skończyłem, to do końca nie wiem, ale ufam.
+
+00:14:22.880 --> 00:14:32.880
+Gra stoi fabułą, robi to ekstremalnie dobrze i w ogóle gratuluję całej ekipie CDP-u,
+
+00:14:32.880 --> 00:14:42.880
+że dowieźli, że to się skończyło, że to jest na takim poziomie fabularnym w szczególności.
+
+00:14:42.880 --> 00:14:51.880
+Trochę mi przykro, co się dzieje i tam już dewi obrywają, ale do tego sobie jeszcze dojdziemy.
+
+00:14:51.880 --> 00:14:55.880
+Dobrze, teraz trochę mojej historii faktycznie.
+
+00:14:55.880 --> 00:14:58.880
+To, co jest ważne w fabule, to, że się skazał.
+
+00:14:58.880 --> 00:15:03.880
+Ona jest bardzo emocjonująca i to pod wieloma względami w wielu momentach potrafi zaskoczyć,
+
+00:15:03.880 --> 00:15:07.880
+ale potrafi tak przykleić totalnie do monitora, że człowiek się nie może oderwać
+
+00:15:07.880 --> 00:15:12.880
+i ma taką potrzebę dowiedzenia się, co będzie za chwilę, co się wydarzy.
+
+00:15:12.880 --> 00:15:15.880
+To też rzadko coś takiego się zdarza.
+
+00:15:15.880 --> 00:15:17.880
+Natomiast ja popowiem trochę o tej warstwie pobocznej.
+
+00:15:17.880 --> 00:15:22.880
+Oczywiście te trzy pierwsze ścieżki, które są, to one faktycznie wiele nie wprowadzają,
+
+00:15:22.880 --> 00:15:29.880
+natomiast już potem w dialogach w trakcie gry bardzo często są te takie opcje dialogowe związane z naszą przeszłością
+
+00:15:29.880 --> 00:15:31.880
+i one bardzo ciekawie wpływają na fabułę.
+
+00:15:31.880 --> 00:15:36.880
+Ja muszę powiedzieć, że jakby do tej pory testowałem Nomada i Corpo i Corpo ma dużo ciekawsze te opcje,
+
+00:15:36.880 --> 00:15:40.880
+bo wiele rzeczy się dzieje w mieście i ma wpływ z takimi osobami, z tego świadka wyższego,
+
+00:15:40.880 --> 00:15:42.880
+więc tam jest dużo rozmów.
+
+00:15:42.880 --> 00:15:46.880
+Te opcje Nomada są takie trudne do zastosowania, ponieważ jego wiedza pochodzi spoza miasta
+
+00:15:46.880 --> 00:15:49.880
+i od czasu do czasu się przytrafia, ale Nomad wydaje mi się...
+
+00:15:49.880 --> 00:15:55.880
+Ja robiłem dużo misji Nomadem na tych pustkowiach i bardzo często miałem tą możliwość.
+
+00:15:55.880 --> 00:15:57.880
+Tak, tak, tak. To ma sens, to ma sens.
+
+00:15:57.880 --> 00:16:03.880
+Ja w zasadzie większość czasu spędzałem w mieście, a to dlatego, że ja zwłaszcza przy tym swoim drugim przejściu,
+
+00:16:03.880 --> 00:16:06.880
+który robię sobie sam, to bardzo dużo...
+
+00:16:06.880 --> 00:16:11.880
+Ja mówiłem o tym, że to jest dla mnie taka wirtualna rzeczywistość, że ja sobie zaczynam dzień,
+
+00:16:11.880 --> 00:16:15.880
+wstaję z łóżka, idę na miasto, wykonuję jakieś zadania, potem wracam,
+
+00:16:15.880 --> 00:16:19.880
+znowu się kładę, wiesz, ten ekipunek sobie przerabiam.
+
+00:16:19.880 --> 00:16:22.880
+Dla mnie mam takie segmenty, które niewiele mają związku z fabułą.
+
+00:16:22.880 --> 00:16:28.880
+Fabułę sobie robię tam raz na dwa, trzy dni tego czasu gry, więc tak sobie bardzo, bardzo dawkuję
+
+00:16:28.880 --> 00:16:30.880
+i tak przeżywam i chłonę ten świat.
+
+00:16:30.880 --> 00:16:34.880
+I muszę powiedzieć też, że w zadaniach pobocznych jest tyle ciekawych historii.
+
+00:16:34.880 --> 00:16:39.880
+Jedna, która kompletnie mnie rozbroiła, to jest taka historia, w której gdzieś w trakcie tej historii
+
+00:16:39.880 --> 00:16:41.880
+jedziesz na cmentarz.
+
+00:16:41.880 --> 00:16:45.880
+Właściwie to jest coś w rodzaju, to taki zbiór takich monolitów, do których podjeżdżasz
+
+00:16:45.880 --> 00:16:47.880
+i tam są ludzie wypisani, którzy zmarli.
+
+00:16:47.880 --> 00:16:50.880
+I gdzieś przez przypadek słyszę rozmowę dziewczynki i ojca,
+
+00:16:50.880 --> 00:16:54.880
+gdzieś zupełnie w jakimś miejscu odległym od tego, do którego zmierzałem.
+
+00:16:54.880 --> 00:16:58.880
+I ta dziewczynka opowiada, czemu nie mogą już się spotykać z matką.
+
+00:16:58.880 --> 00:17:01.880
+Ten ojciec jej tłumaczy, że matka umarła, jest teraz w niebie.
+
+00:17:01.880 --> 00:17:06.880
+A on mówi, a tam ojciec mojego, tam kolegi z klasy cały czas mogą z nim rozmawiać.
+
+00:17:06.880 --> 00:17:11.880
+I jakby wszystko jest, wszystko sprowadza się do tego, że warasace przechowują jakby świadomość tych ludzi,
+
+00:17:11.880 --> 00:17:16.880
+którzy odeszli. I ten ojciec próbuje swojej córce wytłumaczyć, że jej matka poszła do nieba,
+
+00:17:16.880 --> 00:17:20.880
+a ona jednak woli tę wersję, w której mogłaby się z nią spotykać.
+
+00:17:20.880 --> 00:17:23.880
+I dlaczego nie mają pieniędzy, dlaczego ich nie stać na to, z takim wyrzutem.
+
+00:17:23.880 --> 00:17:27.880
+I ten biedny ojciec nie bardzo sobie może z tym poradzić.
+
+00:17:27.880 --> 00:17:31.880
+Poczekaj chwilkę. Aga, to chyba jest super ważne, co?
+
+00:17:31.880 --> 00:17:36.880
+W cyberpunku. Przepraszam, zaraz wrócę.
+
+00:17:36.880 --> 00:17:40.880
+Wszystkie pieniądze wydał w cyberpunku.
+
+00:17:50.880 --> 00:17:54.880
+Przepraszam, zakupy przyjechały, moja żona, coś jej karta nie działa, musiałem jej drugą dać.
+
+00:17:54.880 --> 00:17:57.880
+Wszystkie pieniądze w cyberpunku wydałeś.
+
+00:17:57.880 --> 00:18:01.880
+Czekaj, na czym skończyłem?
+
+00:18:01.880 --> 00:18:04.880
+Na tej córce i o ojcu.
+
+00:18:04.880 --> 00:18:08.880
+Aha, no to już opowiedziałem chyba wszystko.
+
+00:18:08.880 --> 00:18:13.880
+Cała rzecz polega na tym, że w tych zadaniach pobocznych jest wiele takich historyjek,
+
+00:18:13.880 --> 00:18:17.880
+które mają coś głębszego do opowiedzenia i kompletnie byś się tego nie spodziewał.
+
+00:18:17.880 --> 00:18:22.880
+Jakby całe miasto, rozmowy między ludźmi, jakaś wymiana takiej informacji,
+
+00:18:22.880 --> 00:18:26.880
+na którą trafisz przypadkowo. Już o notatkach nie wspomnę,
+
+00:18:26.880 --> 00:18:30.880
+ale głębisz bardzo, tych historyjek jest tak dużo, że nie sposób tego ogarnąć,
+
+00:18:30.880 --> 00:18:33.880
+ale od czasu do czasu coś przeczytasz. Wiesz, tam są takie rzeczy wręcz,
+
+00:18:33.880 --> 00:18:39.880
+że jak w zadaniu pobocznym zrobisz jakąś aktywność i potem w zadaniu głównym
+
+00:18:39.880 --> 00:18:42.880
+trafisz na człowieka, który był w jakiś sposób z tą aktywnością związany,
+
+00:18:42.880 --> 00:18:46.880
+to potrafi się pojawić wzmianka o tym i potrafisz na przykład przekonać gościa
+
+00:18:46.880 --> 00:18:50.880
+do tego, żeby zrobił coś dla ciebie na przykład taniej albo za darmo,
+
+00:18:50.880 --> 00:18:53.880
+bo gdzieś tam wcześniej robiłeś zadanie poboczne, na którym on skorzystał.
+
+00:18:53.880 --> 00:18:57.880
+Więc jest dużo takich niezwykłych powiązań i to jest fenomenalnie zbudowane,
+
+00:18:57.880 --> 00:19:01.880
+to robi na mnie ogromne wrażenie. Jak mówię, ale to jest od początku do końca,
+
+00:19:01.880 --> 00:19:04.880
+jestem tutaj mało rzetelny, bo to jest takie spełnienie moich marzeń,
+
+00:19:04.880 --> 00:19:07.880
+więc ten hype mnie tutaj, gra przerosła moje oczekiwania.
+
+00:19:07.880 --> 00:19:12.880
+Ale powiem ci, że jak robiłem notatki o recenzjach, to tak stwierdziłem,
+
+00:19:12.880 --> 00:19:17.880
+że my jesteśmy najgorsi do robienia recenzji, bo ty masz za duże serce do gier,
+
+00:19:17.880 --> 00:19:24.880
+a ja mam za małe i to z tej naszej rozmowy coś wyjdzie.
+
+00:19:24.880 --> 00:19:29.880
+Warstwa dźwiękowa to jest kolejna rzecz, do której absolutnie nie jestem w stanie
+
+00:19:29.880 --> 00:19:36.880
+się doczepić, a wręcz zachwyca mnie. Na razie słucham chyba jednej stacji,
+
+00:19:36.880 --> 00:19:40.880
+tam gdzie jest Grimes i chyba Churches też, nie wiem jak to się nazywało,
+
+00:19:40.880 --> 00:19:49.880
+ale coś tam Body Heat chyba, ale to jak słyszymy to miasto, jak słyszymy tą grę,
+
+00:19:49.880 --> 00:19:55.880
+wszystko tam się zgadza. Nie wiem co więcej miałbym o tym dźwięku powiedzieć,
+
+00:19:55.880 --> 00:19:58.880
+jest doskonały.
+
+00:19:58.880 --> 00:20:07.880
+Tak, muzycznie jest fenomenalnie trudno cokolwiek na ten temat dyskutować.
+
+00:20:07.880 --> 00:20:13.880
+Grając prywatnie mam ten tryb streamera wyłączony, więc można słuchać praktycznie
+
+00:20:13.880 --> 00:20:17.880
+całej muzyki, ale nie zauważyłem jakiejś różnicy na korzyść jednej albo drugiej.
+
+00:20:17.880 --> 00:20:22.880
+Po prostu muzyka jest świetnie dobrana wszędzie i też radia słucham losowo,
+
+00:20:22.880 --> 00:20:26.880
+jakoś nie przywiązuję się do jakiegoś konkretnego. Są czasami jakieś historie,
+
+00:20:26.880 --> 00:20:30.880
+opowieści, dziennikarze, czasami jest muzyka. W zasadzie ja bardzo mało czasu
+
+00:20:30.880 --> 00:20:32.880
+spędzam w samochodzie tak naprawdę.
+
+00:20:32.880 --> 00:20:35.880
+A ja bardzo dużo, bardzo dużo.
+
+00:20:35.880 --> 00:20:39.880
+Widzisz, ja mam tak, że wyznaczam sobie miejsce do którego idę i po prostu idę
+
+00:20:39.880 --> 00:20:42.880
+przez to miasto i słucham ludzi, gdzieś tam od czasu do czasu jakaś jest
+
+00:20:42.880 --> 00:20:45.880
+bójka, to się do tego przyłączę, ale idę przed siebie.
+
+00:20:45.880 --> 00:20:52.880
+Ja nie mogę tak robić. Ja mam bardzo dużo problemów z tym jak miasto się zachowuje,
+
+00:20:52.880 --> 00:20:56.880
+jak ludzie się zachowują. Czy ty jeszcze chcesz coś dodać jeżeli chodzi o to
+
+00:20:56.880 --> 00:21:03.880
+co cię zachwyciło? Bo ja bym chciał przejść do mojej dość obszernej listy problemów
+
+00:21:03.880 --> 00:21:06.880
+jakie mam z tym tytułem.
+
+00:21:06.880 --> 00:21:09.880
+Dobrze, dobrze. To przechodź.
+
+00:21:09.880 --> 00:21:13.880
+Przechodzę. Tu proszę bardzo efekty specjalne.
+
+00:21:13.880 --> 00:21:20.880
+Więc już wspomniałem o początku fabuły, który może mnie nie zachwycił za bardzo.
+
+00:21:20.880 --> 00:21:25.880
+Trochę nierównych misji popocznych, ale ja zauważyłem, że robiąc misję
+
+00:21:25.880 --> 00:21:32.880
+tak naprawdę mamy dwie ścieżki. Albo po cichu to robimy, albo głośno.
+
+00:21:32.880 --> 00:21:38.880
+I to nie jest takie, nie mamy takiej swobody wielkiej.
+
+00:21:38.880 --> 00:21:47.880
+Wiesz co, to jest też tak, że w zasadzie podałeś dwa takie archetypy
+
+00:21:47.880 --> 00:21:51.880
+podchodzenia do problemu. W rzeczywistości dokładnie też są takie.
+
+00:21:51.880 --> 00:21:54.880
+Albo to robisz cicho, albo to robisz głośno, ale też po pierwsze,
+
+00:21:54.880 --> 00:21:58.880
+pewne rzeczy można przegadać gdzieś tam poza misją, co ułatwi nam podejście.
+
+00:21:58.880 --> 00:22:02.880
+Po drugie można też, wiesz, bo to nawet nie chodzi o to w jaki sposób
+
+00:22:02.880 --> 00:22:07.880
+rozwiązujesz problem, tylko po cichu masz kilka różnych opcji.
+
+00:22:07.880 --> 00:22:10.880
+Możesz na przykład chodzić z tłumikiem i strzelać do wszystkich.
+
+00:22:10.880 --> 00:22:14.880
+Możesz się skradać i ułamać karki. Możesz hakować i w ten sposób
+
+00:22:14.880 --> 00:22:16.880
+przechodzić z miejsca do miejsca.
+
+00:22:16.880 --> 00:22:22.880
+Ale to nie zmienia jakby nic. Z tym pistoletem i z tłumikiem to ciężko jest.
+
+00:22:22.880 --> 00:22:28.880
+Ja próbowałem tak robić i praktycznie za każdym... Może byłem za słaby,
+
+00:22:28.880 --> 00:22:31.880
+może to w późniejszej części gry ma się te mocniejsze spluwy,
+
+00:22:31.880 --> 00:22:35.880
+bo to też zmienia gameplay bardzo mocno. Jak na przykład dostałem
+
+00:22:35.880 --> 00:22:40.880
+porządną snajperkę, to już dużo lepiej mi się grało po prostu.
+
+00:22:40.880 --> 00:22:46.880
+Ale chodzi mi o to, że obiecywano nam pewną taką swobodę,
+
+00:22:46.880 --> 00:22:50.880
+a mamy takie dość klasyczne rozwiązania growe.
+
+00:22:50.880 --> 00:22:56.880
+Wiesz co, być może masz rację. Ja w zasadzie tutaj nie mogę ponarzekać,
+
+00:22:56.880 --> 00:23:01.880
+bo raz, że testowałem to na dwa sposoby, ale ja mam takie poczucie,
+
+00:23:01.880 --> 00:23:07.880
+że po pierwsze mam tak postać zrobioną, że jak mam wielką ochotę,
+
+00:23:07.880 --> 00:23:11.880
+to idę z pięściami na przeciwników i ich tam tłukę po twarzach.
+
+00:23:11.880 --> 00:23:15.880
+Jak mam ochotę, to wezmę shotguna, który strzela przez ściany.
+
+00:23:15.880 --> 00:23:18.880
+Z drugiej strony mam też smartłącze, więc mogę się posługiwać bronią,
+
+00:23:18.880 --> 00:23:22.880
+która trafia samodzielnie, albo sobie wybiorę ten pistolecik.
+
+00:23:22.880 --> 00:23:26.880
+Okazało się, ja przede wszystkim w drugim moim przejściu postawiłem
+
+00:23:26.880 --> 00:23:29.880
+na umiejętności techniczne, czyli mogę sobie sam sprzęt robić
+
+00:23:29.880 --> 00:23:32.880
+i mogę zrobić ten sprzęt do tego stopnia, że mam zawsze świetne bronie
+
+00:23:32.880 --> 00:23:35.880
+i niezależnie od tego, jaki sposób rozwiązywania problemu podejmę,
+
+00:23:35.880 --> 00:23:39.880
+to czuję się tam dosyć swobodnie, mimo tego, że gram na poziomie trudności
+
+00:23:39.880 --> 00:23:43.880
+oznaczonym jako trudny, jako hard.
+
+00:23:43.880 --> 00:23:48.880
+Tam w ogóle ścieżka skradania się w wersji hard jest dosyć trudna
+
+00:23:48.880 --> 00:23:52.880
+na początku, bo jeżeli faktycznie nie załatwisz sprawy po cichu
+
+00:23:52.880 --> 00:23:56.880
+i oni się na ciebie rzucą, to śmierć nadchodzi szybko.
+
+00:23:56.880 --> 00:24:00.880
+Na streamie grając miałem takie przypuszczenie, że chyba fatalnie
+
+00:24:00.880 --> 00:24:03.880
+zrobiłem postać, bo ginąłem po prostu non stop.
+
+00:24:03.880 --> 00:24:06.880
+Potem się okazało, że za mało w budowę ciała, byłem po prostu za miękki
+
+00:24:06.880 --> 00:24:10.880
+i ginąłem, ale mam taką, zwłaszcza przy tym drugim podejściu,
+
+00:24:10.880 --> 00:24:16.880
+mam poczucie dużej swobody, wbrew temu, co ty mówisz.
+
+00:24:16.880 --> 00:24:19.880
+Rozumiem twoje argumenty, ale ja się dosyć dobrze bawię za każdym razem
+
+00:24:19.880 --> 00:24:22.880
+inaczej rozwiązuję problemy.
+
+00:24:22.880 --> 00:24:26.880
+Minimapa. To jest jakiś koszmar ta minimapa.
+
+00:24:26.880 --> 00:24:30.880
+Ona po pierwsze się gubi, źle pokazuje.
+
+00:24:30.880 --> 00:24:34.880
+Na przykład pokazuje mi, że mam iść do jakiegoś miejsca,
+
+00:24:34.880 --> 00:24:37.880
+ja idę po sznurku i nigdy nie mogę dojść, bo ona się zawiesza
+
+00:24:37.880 --> 00:24:40.880
+i gdzieś mnie w kółko. Albo jak jadę po pustkowiach,
+
+00:24:40.880 --> 00:24:44.880
+pokazuje mi, żebym jechał prosto i nagle jest koniec mapy,
+
+00:24:44.880 --> 00:24:48.880
+bo mapa jest w ogóle taka wycięta
+
+00:24:48.880 --> 00:24:52.880
+i to po prostu nie działa.
+
+00:24:52.880 --> 00:24:55.880
+Po drugie, nie oddala się minimapa, kiedy jedziesz szybciej,
+
+00:24:55.880 --> 00:24:59.880
+więc cały czas obszar, w szczególności jak masz gdzieś iść po linii,
+
+00:24:59.880 --> 00:25:02.880
+jak jadę szybko po tym mieście,
+
+00:25:02.880 --> 00:25:07.880
+to nie potrafię zdążyć skręcić.
+
+00:25:07.880 --> 00:25:09.880
+Tak, tak, tak.
+
+00:25:09.880 --> 00:25:12.880
+I to jest takie dość... Wydaje mi się, że to tam
+
+00:25:12.880 --> 00:25:15.880
+akurat nie jest jakiś koszmarnie wielki błąd,
+
+00:25:15.880 --> 00:25:18.880
+ale to jest taka rzecz, która nie działa.
+
+00:25:18.880 --> 00:25:21.880
+Jazda samochodem. Mam tutaj wielkie ambiwalentne...
+
+00:25:21.880 --> 00:25:24.880
+Chciałbym się odnieść tylko tak szybko do tego, co mówiłeś o minimapie.
+
+00:25:24.880 --> 00:25:27.880
+Ja na takie błędy nie trafiłem, o których mówisz,
+
+00:25:27.880 --> 00:25:29.880
+natomiast faktycznie ona jest za mała.
+
+00:25:29.880 --> 00:25:32.880
+Znaczy za mała jest skala i przydałaby się odrobinę większa,
+
+00:25:32.880 --> 00:25:35.880
+zwłaszcza przy tej jeździe szybkiej.
+
+00:25:35.880 --> 00:25:38.880
+Natomiast to tak jak mówię, ja przeważnie chodzę po tym mieście
+
+00:25:38.880 --> 00:25:41.880
+i jeżeli mam jakiś punkt docelowy, to już w zasadzie nie patrzę nawet
+
+00:25:41.880 --> 00:25:44.880
+na ten GPS, tylko już do tego stopnia poznałem miasto,
+
+00:25:44.880 --> 00:25:46.880
+że wiem, gdzie są jakieś kładki w górę, w dół.
+
+00:25:46.880 --> 00:25:48.880
+Poza tym mam implant, który pozwala skakać wysoko,
+
+00:25:48.880 --> 00:25:50.880
+więc w ogóle się nie przejmuję.
+
+00:25:50.880 --> 00:25:51.880
+A ten podwójny skok masz, tak?
+
+00:25:51.880 --> 00:25:54.880
+Nie, nie, nie podwójny. Mam ten drugi, że mam takie siłowniki,
+
+00:25:54.880 --> 00:25:56.880
+że się potrafię odbić i skoczyć wysoko.
+
+00:25:56.880 --> 00:25:59.880
+Rezultat jest dla mnie taki, że jak ostatecznie jest jakiś
+
+00:25:59.880 --> 00:26:01.880
+kłopotliwy budynek, ale nie jest specjalnie wysoki,
+
+00:26:01.880 --> 00:26:03.880
+to po prostu przechodzę po nim, nie?
+
+00:26:03.880 --> 00:26:05.880
+I to też mi pozwala znaleźć kilka fajnych miejsc.
+
+00:26:05.880 --> 00:26:08.880
+Na przykład są anteny na dachach takich niższych budynków,
+
+00:26:08.880 --> 00:26:11.880
+które możesz hakować i zarobić pieniądze dodatkowe.
+
+00:26:11.880 --> 00:26:13.880
+Więc tak sobie chodzę po tym mieście.
+
+00:26:13.880 --> 00:26:16.880
+Ale masz rację, minimapa mogłaby być trochę w innej skali,
+
+00:26:16.880 --> 00:26:18.880
+żeby było widać wyraźnie, gdzie się jedzie.
+
+00:26:18.880 --> 00:26:21.880
+Jazda samochodem.
+
+00:26:21.880 --> 00:26:24.880
+Mi się nie podoba ten model, ale to nie ma wpływu jakoś
+
+00:26:24.880 --> 00:26:26.880
+specjalnie na moją opinię o tej grze.
+
+00:26:26.880 --> 00:26:30.880
+Bo wiem, że istnieją ludzie, którym się taki model podoba.
+
+00:26:30.880 --> 00:26:34.880
+Ja mam raczej problem z tym, że jeździ się bardzo wolno.
+
+00:26:34.880 --> 00:26:40.880
+Nieważne, dopiero te samochody, co 200 mają na liczniku,
+
+00:26:40.880 --> 00:26:42.880
+nie wiem czego, czy mil czy kilometrów,
+
+00:26:42.880 --> 00:26:44.880
+bo tego nie da się zmienić.
+
+00:26:44.880 --> 00:26:48.880
+No to czuć jakoś ten pęd, a tak to wsiadam do samochodu
+
+00:26:48.880 --> 00:26:50.880
+i czuję się jakbym wszędzie jechał 40 na godzinę.
+
+00:26:50.880 --> 00:26:56.880
+Po drugie, sterowanie tymi samochodami to jest jakieś takie, że...
+
+00:26:56.880 --> 00:26:59.880
+Nie wiem nawet jak to powiedzieć, bo tutaj...
+
+00:26:59.880 --> 00:27:02.880
+Ale nie pasuje mi to po prostu.
+
+00:27:02.880 --> 00:27:05.880
+Ja mam w ogóle wrażenie, że ten tryb jazdy
+
+00:27:05.880 --> 00:27:08.880
+jest za bardzo zbliżony do rzeczywistości.
+
+00:27:08.880 --> 00:27:10.880
+W sensie takim, że...
+
+00:27:10.880 --> 00:27:12.880
+Ja jeździłem samochodem, naprawdę.
+
+00:27:12.880 --> 00:27:14.880
+Nie, nie, poczekaj.
+
+00:27:14.880 --> 00:27:16.880
+Wiem, że to może brzmieć jak komplement,
+
+00:27:16.880 --> 00:27:18.880
+ale to nie jest komplement w moim mniemaniu.
+
+00:27:18.880 --> 00:27:20.880
+To znaczy, jak masz duży samochód,
+
+00:27:20.880 --> 00:27:22.880
+to ten kąt, który potrzebujesz, żeby zawrócić,
+
+00:27:22.880 --> 00:27:24.880
+jest przerażająco duży.
+
+00:27:24.880 --> 00:27:26.880
+Bardzo często jadąc ciężkim samochodem,
+
+00:27:26.880 --> 00:27:28.880
+po prostu zawracam na wstecznym,
+
+00:27:28.880 --> 00:27:30.880
+bo tak jest szybciej i wygodniej.
+
+00:27:30.880 --> 00:27:32.880
+I tak jest szybciej i wygodniej w rzeczywistości.
+
+00:27:32.880 --> 00:27:34.880
+Szybciej obrócisz przed nimi kołami, żeby zakręcić autem.
+
+00:27:34.880 --> 00:27:36.880
+No i sobie na to pozwalam,
+
+00:27:36.880 --> 00:27:39.880
+ale tak naprawdę odnalazłem się dopiero
+
+00:27:39.880 --> 00:27:42.880
+jeżdżąc na motocyklu z perspektywy pierwszej osoby.
+
+00:27:42.880 --> 00:27:46.880
+Bo wtedy widać bardzo ciekawie i bardzo wyraźnie
+
+00:27:46.880 --> 00:27:48.880
+ten motocykl też się zachowuje w taki sposób naturalny.
+
+00:27:48.880 --> 00:27:50.880
+Parę razy wpadłem w poślizg,
+
+00:27:50.880 --> 00:27:52.880
+to miałem takie poczucie, że kurde,
+
+00:27:52.880 --> 00:27:54.880
+jakbym jechał na prawdziwym motocyklu.
+
+00:27:54.880 --> 00:27:56.880
+Ale to z perspektywy gry nie jest specjalnie udany pomysł.
+
+00:27:56.880 --> 00:27:58.880
+Ale ja mam wrażenie, że wszystkie te poślizgi,
+
+00:27:58.880 --> 00:28:00.880
+to jest jedna animacja,
+
+00:28:00.880 --> 00:28:02.880
+która się po prostu odpala.
+
+00:28:02.880 --> 00:28:04.880
+Z perspektywy pierwszej osoby ci nie powiem,
+
+00:28:04.880 --> 00:28:06.880
+jak wygląda animacja.
+
+00:28:06.880 --> 00:28:08.880
+Okej.
+
+00:28:08.880 --> 00:28:12.880
+Interpretacja tego, co chcę zrobić w grze.
+
+00:28:12.880 --> 00:28:14.880
+To, jak to gra interpretuje.
+
+00:28:14.880 --> 00:28:16.880
+To są takie problemy,
+
+00:28:16.880 --> 00:28:18.880
+że klikam na jakiś przedmiot,
+
+00:28:18.880 --> 00:28:20.880
+albo podchodzę do kogoś,
+
+00:28:20.880 --> 00:28:22.880
+nie odpala się lista dialogowa.
+
+00:28:22.880 --> 00:28:25.880
+Czasami muszę trochę ten wskaźnik,
+
+00:28:25.880 --> 00:28:27.880
+poza ten obszar.
+
+00:28:27.880 --> 00:28:29.880
+No tutaj są jakieś takie niezgodności.
+
+00:28:29.880 --> 00:28:31.880
+W ogóle glitches, pełno glitches.
+
+00:28:31.880 --> 00:28:33.880
+Na konsoli to jest po prostu masakra.
+
+00:28:33.880 --> 00:28:36.880
+Dobra, ale teraz się skupmy na PC.
+
+00:28:36.880 --> 00:28:39.880
+Ja tych problemów,
+
+00:28:39.880 --> 00:28:41.880
+które podzieliłem sobie na takie,
+
+00:28:41.880 --> 00:28:44.880
+które przymykam oko, gram dalej.
+
+00:28:44.880 --> 00:28:47.880
+Ale są takie, które po prostu rozwalają mi
+
+00:28:47.880 --> 00:28:49.880
+czerpanie radości z gry.
+
+00:28:49.880 --> 00:28:51.880
+Na przykład,
+
+00:28:51.880 --> 00:28:53.880
+kiedy postać ma coś powiedzieć,
+
+00:28:53.880 --> 00:28:55.880
+np. jakiś,
+
+00:28:55.880 --> 00:28:57.880
+nic nie mówi,
+
+00:28:57.880 --> 00:29:00.880
+nie pokazuje się dialog,
+
+00:29:00.880 --> 00:29:03.880
+i ja mam na to odpowiedzieć po chwili.
+
+00:29:03.880 --> 00:29:05.880
+A to mi się nie zdarzyło.
+
+00:29:05.880 --> 00:29:07.880
+Kilka razy tak miałem.
+
+00:29:07.880 --> 00:29:10.880
+Jest taka scena z kartami Tarota,
+
+00:29:10.880 --> 00:29:14.880
+i babka wykłada te karty Tarota,
+
+00:29:14.880 --> 00:29:16.880
+i wykłada pustkę.
+
+00:29:16.880 --> 00:29:18.880
+Tak, tak, to prawda.
+
+00:29:18.880 --> 00:29:20.880
+To u mnie też jest.
+
+00:29:20.880 --> 00:29:22.880
+No po prostu,
+
+00:29:22.880 --> 00:29:25.880
+bardzo często nie działa mi ta mechanika
+
+00:29:25.880 --> 00:29:27.880
+skanowania otoczenia.
+
+00:29:27.880 --> 00:29:30.880
+Bardzo często najeżdżam na jakiś przedmiot,
+
+00:29:30.880 --> 00:29:32.880
+i on jakby nie działa.
+
+00:29:32.880 --> 00:29:34.880
+Dopiero muszę wyłączyć, włączyć,
+
+00:29:34.880 --> 00:29:36.880
+i działa dopiero wtedy.
+
+00:29:36.880 --> 00:29:39.880
+Albo przesunąć na jakiś inny,
+
+00:29:39.880 --> 00:29:41.880
+inny obiekt.
+
+00:29:41.880 --> 00:29:44.880
+No i to jest,
+
+00:29:44.880 --> 00:29:46.880
+to jest spory problem.
+
+00:29:46.880 --> 00:29:47.880
+Znaczy, takie błędy fabularne,
+
+00:29:47.880 --> 00:29:49.880
+albo na przykład cutscenki,
+
+00:29:49.880 --> 00:29:51.880
+w których bohaterowie jakoś dziwnie
+
+00:29:51.880 --> 00:29:52.880
+trzymają przedmioty,
+
+00:29:52.880 --> 00:29:55.880
+albo są w pośrodku,
+
+00:29:55.880 --> 00:29:57.880
+stoją w samochodzie w środku,
+
+00:29:57.880 --> 00:29:59.880
+i to nie w takim samochodzie z szyberdachem,
+
+00:29:59.880 --> 00:30:00.880
+czy tam z czymś,
+
+00:30:00.880 --> 00:30:01.880
+tylko po prostu stoją.
+
+00:30:01.880 --> 00:30:03.880
+To często mi się,
+
+00:30:03.880 --> 00:30:04.880
+często mi się zdarzało.
+
+00:30:04.880 --> 00:30:06.880
+Albo na przykład animacje podczas dialogów
+
+00:30:06.880 --> 00:30:08.880
+i cutscenek,
+
+00:30:08.880 --> 00:30:10.880
+że tak na sztywno zmieniają pozy,
+
+00:30:10.880 --> 00:30:11.880
+w sekundę.
+
+00:30:11.880 --> 00:30:13.880
+Nie ma takiego błędnego przejścia,
+
+00:30:13.880 --> 00:30:14.880
+tylko jest buh, nagle i buh.
+
+00:30:14.880 --> 00:30:16.880
+I to jest takie,
+
+00:30:16.880 --> 00:30:19.880
+no,
+
+00:30:19.880 --> 00:30:22.880
+wywala mnie trochę z tej imersji.
+
+00:30:22.880 --> 00:30:24.880
+Albo na przykład nie możesz,
+
+00:30:24.880 --> 00:30:25.880
+czasami ja mam tak,
+
+00:30:25.880 --> 00:30:27.880
+i to miałem kilka razy, tak,
+
+00:30:27.880 --> 00:30:29.880
+że po skończonym questie
+
+00:30:29.880 --> 00:30:31.880
+nie mogłem wyciągnąć broni.
+
+00:30:31.880 --> 00:30:33.880
+I nie mogłem wyciągnąć tej broni,
+
+00:30:33.880 --> 00:30:35.880
+ani zmienić,
+
+00:30:35.880 --> 00:30:37.880
+dopóki nie wziąłem następnego questa.
+
+00:30:37.880 --> 00:30:38.880
+Czyli gdzieś jeździłem,
+
+00:30:38.880 --> 00:30:40.880
+jechałem do miasta.
+
+00:30:40.880 --> 00:30:41.880
+Nic, nie mogłem.
+
+00:30:41.880 --> 00:30:43.880
+Zablokowana akcja.
+
+00:30:43.880 --> 00:30:44.880
+To ciekawe.
+
+00:30:44.880 --> 00:30:46.880
+To faktycznie dużo ci się tych glitchów przytrafiło.
+
+00:30:46.880 --> 00:30:48.880
+I to na pcecie, powtarzam.
+
+00:30:48.880 --> 00:30:49.880
+Wiesz co,
+
+00:30:49.880 --> 00:30:51.880
+ja do pewnego stopnia jestem zaślepiony na pewno
+
+00:30:51.880 --> 00:30:52.880
+i wiele rzeczy,
+
+00:30:52.880 --> 00:30:54.880
+które tam się przytrafiają na ekranie,
+
+00:30:54.880 --> 00:30:55.880
+to pomijam jakby,
+
+00:30:55.880 --> 00:30:56.880
+udaję, że ich nie widzę,
+
+00:30:56.880 --> 00:30:57.880
+nawet sam przed sobą,
+
+00:30:57.880 --> 00:30:58.880
+pewnie podświadomie.
+
+00:30:58.880 --> 00:30:59.880
+Ale aż tak dużo,
+
+00:30:59.880 --> 00:31:00.880
+jak ty wymieniasz to,
+
+00:31:00.880 --> 00:31:01.880
+to nie miałem.
+
+00:31:01.880 --> 00:31:02.880
+Mam faktycznie problemy z podnoszeniem przedmiotu,
+
+00:31:02.880 --> 00:31:03.880
+ale to jest kwestia raczej związana
+
+00:31:03.880 --> 00:31:05.880
+z kiepską mechaniką tego podnoszenia,
+
+00:31:05.880 --> 00:31:07.880
+niż z jakimś glitchem.
+
+00:31:07.880 --> 00:31:08.880
+Bo mogliby po prostu zrobić guzik
+
+00:31:08.880 --> 00:31:09.880
+do podnoszenia przedmiotów,
+
+00:31:09.880 --> 00:31:11.880
+który ci tam z okolicy bezpośredniej podnosi,
+
+00:31:11.880 --> 00:31:12.880
+bo i tak właściwie cały staff,
+
+00:31:12.880 --> 00:31:13.880
+jaki tylko jest,
+
+00:31:13.880 --> 00:31:14.880
+to od razu podnoszę.
+
+00:31:14.880 --> 00:31:16.880
+Bo to przerabiam potem na części,
+
+00:31:16.880 --> 00:31:18.880
+więc mogli to jakoś zrobić mądrzej.
+
+00:31:18.880 --> 00:31:19.880
+I przypuszczam,
+
+00:31:19.880 --> 00:31:20.880
+że zrobią z czasem.
+
+00:31:20.880 --> 00:31:22.880
+To zobaczymy.
+
+00:31:22.880 --> 00:31:24.880
+My możemy mówić o tym,
+
+00:31:24.880 --> 00:31:25.880
+co jest teraz.
+
+00:31:25.880 --> 00:31:27.880
+System detekcji kolizji.
+
+00:31:27.880 --> 00:31:28.880
+Co tam się dzieje,
+
+00:31:28.880 --> 00:31:29.880
+jak jeździ się samochodami,
+
+00:31:29.880 --> 00:31:31.880
+przejeżdża się przez budynki,
+
+00:31:31.880 --> 00:31:33.880
+postacie przez siebie przechodzą.
+
+00:31:33.880 --> 00:31:35.880
+No tutaj to jest jakiś koszmar.
+
+00:31:35.880 --> 00:31:39.880
+Na pececie zdarzyło mi się to kilkanaście razy.
+
+00:31:39.880 --> 00:31:41.880
+No max trzydzieści razy.
+
+00:31:41.880 --> 00:31:42.880
+Ale to, że przejechałeś przez budynek?
+
+00:31:42.880 --> 00:31:43.880
+Tak, że przejechałem przez budynek,
+
+00:31:43.880 --> 00:31:45.880
+przez samochód.
+
+00:31:45.880 --> 00:31:47.880
+Jakieś postacie przechodziły.
+
+00:31:47.880 --> 00:31:49.880
+Na Xboksie,
+
+00:31:49.880 --> 00:31:51.880
+to w prologu mi się chyba
+
+00:31:51.880 --> 00:31:53.880
+z pięćdziesiąt razy tak zdarzyło.
+
+00:31:53.880 --> 00:31:55.880
+A ja mam Xboks One X,
+
+00:31:55.880 --> 00:31:57.880
+przypominam.
+
+00:31:57.880 --> 00:31:58.880
+Kolejna rzecz.
+
+00:31:58.880 --> 00:32:00.880
+I ja już w ogóle w pewnym momencie
+
+00:32:00.880 --> 00:32:02.880
+zacząłem nagrywać na pececie
+
+00:32:02.880 --> 00:32:04.880
+to, co mi się dzieje.
+
+00:32:04.880 --> 00:32:06.880
+Może wrzucę na grupę za jakiś czas,
+
+00:32:06.880 --> 00:32:09.880
+jak przejdę taką kompilację samych moich.
+
+00:32:09.880 --> 00:32:10.880
+Trochę mi się nie podoba
+
+00:32:10.880 --> 00:32:12.880
+relacja bohatera z Silverhandem.
+
+00:32:12.880 --> 00:32:14.880
+Ten początek taki jest gimnazjalny,
+
+00:32:14.880 --> 00:32:17.880
+że mamy tam bardzo dużo emocji,
+
+00:32:17.880 --> 00:32:20.880
+które trochę są nie...
+
+00:32:20.880 --> 00:32:22.880
+są jakby za mocne na to,
+
+00:32:22.880 --> 00:32:24.880
+co się dzieje.
+
+00:32:24.880 --> 00:32:25.880
+Za to podoba mi się to,
+
+00:32:25.880 --> 00:32:27.880
+że on jest i bardzo często
+
+00:32:27.880 --> 00:32:29.880
+komentuje to, co my robimy.
+
+00:32:29.880 --> 00:32:31.880
+To jest fajny patent.
+
+00:32:31.880 --> 00:32:32.880
+Bardzo mi się podoba.
+
+00:32:32.880 --> 00:32:34.880
+Tak, tak, tak.
+
+00:32:34.880 --> 00:32:36.880
+To jest też tak, że ja
+
+00:32:36.880 --> 00:32:38.880
+w tym moim drugim przejściu
+
+00:32:38.880 --> 00:32:41.880
+szybko ogarnąłem Silverhanda,
+
+00:32:41.880 --> 00:32:42.880
+żeby on był ze mną.
+
+00:32:42.880 --> 00:32:43.880
+I wyobraź sobie, że on się też
+
+00:32:43.880 --> 00:32:44.880
+czasami w takich totalnie
+
+00:32:44.880 --> 00:32:46.880
+zadaniach pobocznych pojawia
+
+00:32:46.880 --> 00:32:48.880
+i komentuje coś, co jest...
+
+00:32:48.880 --> 00:32:49.880
+On jest...
+
+00:32:49.880 --> 00:32:51.880
+Ja mam takie spostrzeżenie jakby
+
+00:32:51.880 --> 00:32:52.880
+polska wersja językowa
+
+00:32:52.880 --> 00:32:53.880
+jest bardzo dobrze zrobiona.
+
+00:32:53.880 --> 00:32:55.880
+Naprawdę świetnie są aktorzy dobrani.
+
+00:32:55.880 --> 00:32:56.880
+Natomiast mam wrażenie,
+
+00:32:56.880 --> 00:32:57.880
+że w wersji angielskiej
+
+00:32:57.880 --> 00:32:58.880
+między Silverhandem a V
+
+00:32:58.880 --> 00:33:00.880
+jest jakaś chemia.
+
+00:33:00.880 --> 00:33:02.880
+Taka, która jest zauważalna.
+
+00:33:02.880 --> 00:33:04.880
+Ja testowałem obie.
+
+00:33:04.880 --> 00:33:05.880
+Tak?
+
+00:33:05.880 --> 00:33:07.880
+Tak. I nie jakoś specjalnie.
+
+00:33:07.880 --> 00:33:08.880
+Na angielskiej grałem
+
+00:33:08.880 --> 00:33:10.880
+dwie, trzy godziny.
+
+00:33:10.880 --> 00:33:12.880
+I stwierdziłem,
+
+00:33:12.880 --> 00:33:13.880
+że to nie jest dla mnie
+
+00:33:13.880 --> 00:33:16.880
+aż jakaś taka wielka różnica.
+
+00:33:16.880 --> 00:33:17.880
+Ja też nie mówię,
+
+00:33:17.880 --> 00:33:19.880
+że to jest jakaś gigantyczna korzyść,
+
+00:33:19.880 --> 00:33:20.880
+ale zależało mi też,
+
+00:33:20.880 --> 00:33:22.880
+żeby posłuchać trochę Keanu Reevesa.
+
+00:33:22.880 --> 00:33:23.880
+Mam w ogóle takie wrażenie,
+
+00:33:23.880 --> 00:33:24.880
+że gdzieś na jakimś etapie
+
+00:33:24.880 --> 00:33:26.880
+tej przygody
+
+00:33:26.880 --> 00:33:27.880
+nasz bohater zaczyna akcentować
+
+00:33:27.880 --> 00:33:29.880
+podobnie wyrazy jak Silverhand.
+
+00:33:29.880 --> 00:33:30.880
+Jak Reeves.
+
+00:33:30.880 --> 00:33:31.880
+I nie wiem, czy to jest przypadek,
+
+00:33:31.880 --> 00:33:32.880
+czy to jest zamierzone,
+
+00:33:32.880 --> 00:33:33.880
+bo tam jednak zbliżenie
+
+00:33:33.880 --> 00:33:34.880
+tych dwóch osobowości
+
+00:33:34.880 --> 00:33:36.880
+następuje.
+
+00:33:36.880 --> 00:33:37.880
+I to nie jest żaden spoiler,
+
+00:33:37.880 --> 00:33:38.880
+bo to chyba było wiadomo
+
+00:33:38.880 --> 00:33:39.880
+od początku,
+
+00:33:39.880 --> 00:33:40.880
+że Johnny Silverhand się pojawi
+
+00:33:40.880 --> 00:33:41.880
+w jakiej postaci.
+
+00:33:41.880 --> 00:33:44.880
+Myślę, że tak.
+
+00:33:44.880 --> 00:33:46.880
+Świat.
+
+00:33:46.880 --> 00:33:50.880
+Nie mam za bardzo pretensji
+
+00:33:50.880 --> 00:33:51.880
+do tego, jak jest zbudowane miasto.
+
+00:33:51.880 --> 00:33:53.880
+Jest zbudowane świetnie.
+
+00:33:53.880 --> 00:33:55.880
+Tak architektonicznie
+
+00:33:55.880 --> 00:33:58.880
+to, jak wygląda, jest spoko.
+
+00:33:58.880 --> 00:34:00.880
+Jest to ciekawe,
+
+00:34:00.880 --> 00:34:03.880
+jest to coś bardzo nowego.
+
+00:34:03.880 --> 00:34:04.880
+Ale ja mam problem z tym,
+
+00:34:04.880 --> 00:34:06.880
+jak to miasto żyje
+
+00:34:06.880 --> 00:34:08.880
+poza tymi questami
+
+00:34:08.880 --> 00:34:10.880
+i side questami.
+
+00:34:10.880 --> 00:34:12.880
+Trochę mi brakowało
+
+00:34:12.880 --> 00:34:14.880
+w szczególności w tym romansie,
+
+00:34:14.880 --> 00:34:15.880
+jak już jakby
+
+00:34:15.880 --> 00:34:17.880
+zakończył się ten etap randkowania.
+
+00:34:17.880 --> 00:34:19.880
+Potem nie było za bardzo co robić.
+
+00:34:19.880 --> 00:34:20.880
+Nie mogłem sobie dziewczyny
+
+00:34:20.880 --> 00:34:22.880
+wziąć na jakieś nawet
+
+00:34:22.880 --> 00:34:23.880
+sushi jakieś,
+
+00:34:23.880 --> 00:34:25.880
+bo tam są takie bary sushi.
+
+00:34:25.880 --> 00:34:29.880
+Albo zdrady podchodziło, Borys.
+
+00:34:29.880 --> 00:34:32.880
+Słuchaj, tam są automaty pachinko.
+
+00:34:32.880 --> 00:34:33.880
+Nie można na nich grać.
+
+00:34:33.880 --> 00:34:35.880
+Nie można grać na automatach normalnych.
+
+00:34:35.880 --> 00:34:36.880
+To miasto jest...
+
+00:34:36.880 --> 00:34:38.880
+Ja miałem wczoraj w nocy
+
+00:34:38.880 --> 00:34:40.880
+i w grze też w nocy
+
+00:34:40.880 --> 00:34:42.880
+testowałem i chodziłem
+
+00:34:42.880 --> 00:34:45.880
+po mieście po prostu.
+
+00:34:45.880 --> 00:34:47.880
+I miałem pół godziny,
+
+00:34:47.880 --> 00:34:51.880
+gdzie miałem bardzo dużo klonów.
+
+00:34:51.880 --> 00:34:52.880
+Co chwilę pojawiali mi się
+
+00:34:52.880 --> 00:34:53.880
+te same postacie,
+
+00:34:53.880 --> 00:34:55.880
+a łaziłem po naprawdę
+
+00:34:55.880 --> 00:34:56.880
+dużym obszarze.
+
+00:34:56.880 --> 00:34:59.880
+Do tego nic się nie wydarzyło.
+
+00:34:59.880 --> 00:35:01.880
+Nawet poszedłem do klubu
+
+00:35:01.880 --> 00:35:03.880
+ze Striptease'em
+
+00:35:03.880 --> 00:35:05.880
+i nic tam nie mogłem zrobić.
+
+00:35:05.880 --> 00:35:06.880
+Tam nie było żadnej aktywności.
+
+00:35:06.880 --> 00:35:08.880
+Przypomnę, że GTA
+
+00:35:08.880 --> 00:35:10.880
+ciutkę lepiej sobie tam poradziło.
+
+00:35:10.880 --> 00:35:11.880
+Jak poszedłeś do klubu
+
+00:35:11.880 --> 00:35:12.880
+ze Striptease'em,
+
+00:35:12.880 --> 00:35:13.880
+to mogłeś sobie na przykład
+
+00:35:13.880 --> 00:35:15.880
+zamówić Striptease.
+
+00:35:15.880 --> 00:35:17.880
+Tutaj oczywiście możesz skorzystać
+
+00:35:17.880 --> 00:35:21.880
+z sexworkerki czy workera,
+
+00:35:21.880 --> 00:35:23.880
+ale to nie wiem,
+
+00:35:23.880 --> 00:35:24.880
+czy to był jakiś glitch,
+
+00:35:24.880 --> 00:35:28.880
+bo ja wtedy szukając tych rozrywek
+
+00:35:28.880 --> 00:35:30.880
+nic takiego nie znalazłem.
+
+00:35:30.880 --> 00:35:32.880
+Wiem o czym mówisz.
+
+00:35:32.880 --> 00:35:35.880
+I puste jest.
+
+00:35:35.880 --> 00:35:37.880
+Na PC jeszcze nie jest straszne,
+
+00:35:37.880 --> 00:35:38.880
+przepraszam, że ci przerwę,
+
+00:35:38.880 --> 00:35:40.880
+ale na PC jeszcze nie jest straszne,
+
+00:35:40.880 --> 00:35:43.880
+ale na Xboxie to jest po prostu
+
+00:35:43.880 --> 00:35:45.880
+zawiercie nocą.
+
+00:35:45.880 --> 00:35:46.880
+Tyle mam.
+
+00:35:46.880 --> 00:35:48.880
+Pozdrawiam wszystkich z zawiercia.
+
+00:35:48.880 --> 00:35:50.880
+Nawet w Watch Dogs Legion
+
+00:35:50.880 --> 00:35:51.880
+było bardzo dużo takich aktywności,
+
+00:35:51.880 --> 00:35:52.880
+gdzieś tam w barach,
+
+00:35:52.880 --> 00:35:54.880
+jakieś rzutki, inne takie pierdoły.
+
+00:35:54.880 --> 00:35:56.880
+To tworzy jednak atmosferę miasta,
+
+00:35:56.880 --> 00:35:57.880
+bo ja na przykład w GTA
+
+00:35:57.880 --> 00:35:59.880
+dużo z tego korzystałem.
+
+00:35:59.880 --> 00:36:00.880
+Ja myślę, że o tym
+
+00:36:00.880 --> 00:36:01.880
+też będziemy rozmawiać.
+
+00:36:01.880 --> 00:36:03.880
+Ja myślę, że nie wyrobili się
+
+00:36:03.880 --> 00:36:05.880
+z implementacją tych wszystkich rzeczy,
+
+00:36:05.880 --> 00:36:06.880
+że to jest coś,
+
+00:36:06.880 --> 00:36:08.880
+co może się pojawić z czasem,
+
+00:36:08.880 --> 00:36:10.880
+ale na razie faktycznie tego nie ma.
+
+00:36:10.880 --> 00:36:11.880
+Ja nie miałem co robić,
+
+00:36:11.880 --> 00:36:12.880
+nie miałem takiego poczucia,
+
+00:36:12.880 --> 00:36:13.880
+że się nudzę.
+
+00:36:13.880 --> 00:36:14.880
+Ja wręcz nawet...
+
+00:36:14.880 --> 00:36:15.880
+Ale ja nie powiedziałem,
+
+00:36:15.880 --> 00:36:16.880
+że ja się nudzę.
+
+00:36:16.880 --> 00:36:17.880
+Ja powiedziałem, że to miasto
+
+00:36:17.880 --> 00:36:19.880
+jest puste i nudne.
+
+00:36:19.880 --> 00:36:21.880
+Okej, okej, okej, okej.
+
+00:36:21.880 --> 00:36:22.880
+Potwierdzam to,
+
+00:36:22.880 --> 00:36:24.880
+co mówiłeś pod względem architektury,
+
+00:36:24.880 --> 00:36:26.880
+bo wygląda moim zdaniem fantastycznie.
+
+00:36:26.880 --> 00:36:27.880
+Każda lokacja jest inna.
+
+00:36:27.880 --> 00:36:28.880
+Widać, że wszystko
+
+00:36:28.880 --> 00:36:30.880
+to jest ręczna robota.
+
+00:36:30.880 --> 00:36:31.880
+Niezwykła rzecz nawet wnętrza,
+
+00:36:31.880 --> 00:36:33.880
+nawet budynki, które odwiedzasz
+
+00:36:33.880 --> 00:36:35.880
+są, mam wrażenie, niepowtarzalne.
+
+00:36:35.880 --> 00:36:38.880
+Natomiast co do ruchu w mieście,
+
+00:36:38.880 --> 00:36:39.880
+ja w ogóle zmniejszyłem ilość osób
+
+00:36:39.880 --> 00:36:41.880
+na ulicach do minimum.
+
+00:36:41.880 --> 00:36:42.880
+Właściwie gram na średniej,
+
+00:36:42.880 --> 00:36:43.880
+bo już mnie trochę ludzie
+
+00:36:43.880 --> 00:36:44.880
+na streamie męczyli.
+
+00:36:44.880 --> 00:36:45.880
+Ja lubię, jak jest...
+
+00:36:45.880 --> 00:36:46.880
+Ja nie przepadam za ludźmi,
+
+00:36:46.880 --> 00:36:48.880
+ja lubię, jak jest taka, wiesz,
+
+00:36:48.880 --> 00:36:51.880
+taka...
+
+00:36:51.880 --> 00:36:54.880
+Nawet tych wirtualnych wyłączam.
+
+00:36:54.880 --> 00:36:55.880
+A może to też jest takie
+
+00:36:55.880 --> 00:36:57.880
+podświadoma potrzeba
+
+00:36:57.880 --> 00:36:59.880
+usuwania potencjalnych gliczy, wiesz?
+
+00:36:59.880 --> 00:37:00.880
+Że jest im mniej ludzi,
+
+00:37:00.880 --> 00:37:01.880
+tym mniej widzę
+
+00:37:01.880 --> 00:37:02.880
+ich nierzeczywistych zachowań,
+
+00:37:02.880 --> 00:37:04.880
+więc może to zadziałało.
+
+00:37:04.880 --> 00:37:05.880
+Oni nie przechodzą przez siebie,
+
+00:37:05.880 --> 00:37:07.880
+bo nie ma ich tak dużo na ulicach.
+
+00:37:07.880 --> 00:37:09.880
+Więc to...
+
+00:37:09.880 --> 00:37:10.880
+Pewnie masz rację, wiesz?
+
+00:37:10.880 --> 00:37:11.880
+To jest tak...
+
+00:37:11.880 --> 00:37:12.880
+Ja mam...
+
+00:37:12.880 --> 00:37:13.880
+Albo mam jakieś szczęście straszne.
+
+00:37:13.880 --> 00:37:14.880
+Mam może pecet,
+
+00:37:14.880 --> 00:37:15.880
+na którym było to
+
+00:37:15.880 --> 00:37:16.880
+najwięcej testowane,
+
+00:37:16.880 --> 00:37:17.880
+w sensie taka konfiguracja.
+
+00:37:17.880 --> 00:37:18.880
+Bo ja jakby
+
+00:37:18.880 --> 00:37:19.880
+znakomitej większości
+
+00:37:19.880 --> 00:37:20.880
+tych rzeczy nie widziałem.
+
+00:37:20.880 --> 00:37:21.880
+Nigdy mi się nie zdarzyło
+
+00:37:21.880 --> 00:37:22.880
+przyjechać przez budynek.
+
+00:37:22.880 --> 00:37:24.880
+Ale ja też jeżdżę po tym mieście.
+
+00:37:24.880 --> 00:37:25.880
+Ja chyba też tak gram,
+
+00:37:25.880 --> 00:37:26.880
+że nie prowokuję
+
+00:37:26.880 --> 00:37:27.880
+tego typu gliczy, nie?
+
+00:37:27.880 --> 00:37:28.880
+To znaczy nie mam stłuczek,
+
+00:37:28.880 --> 00:37:30.880
+nie wjeżdżam w budynki,
+
+00:37:30.880 --> 00:37:32.880
+nie rozpędzam się za bardzo.
+
+00:37:32.880 --> 00:37:33.880
+Chodzę sobie powoli,
+
+00:37:33.880 --> 00:37:34.880
+gdzieś tam przeskakuję
+
+00:37:34.880 --> 00:37:35.880
+przez kładki.
+
+00:37:35.880 --> 00:37:37.880
+Rozpędzanie się powoduje
+
+00:37:37.880 --> 00:37:39.880
+kosmos po prostu w tej grze.
+
+00:37:39.880 --> 00:37:40.880
+Co się tam dzieje
+
+00:37:40.880 --> 00:37:41.880
+z tymi teksturami?
+
+00:37:41.880 --> 00:37:43.880
+To jest po prostu...
+
+00:37:43.880 --> 00:37:44.880
+No właśnie, no.
+
+00:37:44.880 --> 00:37:46.880
+No więc ja tego nie doświadczę.
+
+00:37:46.880 --> 00:37:48.880
+Nie doświadczam.
+
+00:37:48.880 --> 00:37:49.880
+Więc moje doświadczenia
+
+00:37:49.880 --> 00:37:51.880
+są tylko i wyłącznie pozytywne.
+
+00:37:51.880 --> 00:37:53.880
+Ale trudno dyskutować
+
+00:37:53.880 --> 00:37:54.880
+z tym, co mówisz,
+
+00:37:54.880 --> 00:37:55.880
+bo większość recenzji,
+
+00:37:55.880 --> 00:37:57.880
+które widziałem przed premierą,
+
+00:37:57.880 --> 00:37:58.880
+o tych samych problemach,
+
+00:37:58.880 --> 00:37:59.880
+które ty wymieniasz,
+
+00:37:59.880 --> 00:38:00.880
+też ludzie inni mówili.
+
+00:38:00.880 --> 00:38:02.880
+Więc na pewno takie są.
+
+00:38:02.880 --> 00:38:04.880
+Kolejna rzecz to
+
+00:38:04.880 --> 00:38:06.880
+sztuczna inteligencja.
+
+00:38:06.880 --> 00:38:08.880
+I tu mam duży problem.
+
+00:38:08.880 --> 00:38:10.880
+Ta sztuczna inteligencja,
+
+00:38:10.880 --> 00:38:12.880
+wrogowie...
+
+00:38:12.880 --> 00:38:14.880
+Ja nie widzę tam wyzwań.
+
+00:38:14.880 --> 00:38:15.880
+Gram na normalu,
+
+00:38:15.880 --> 00:38:16.880
+więc może dlatego.
+
+00:38:16.880 --> 00:38:18.880
+No ale zachowują się raczej
+
+00:38:18.880 --> 00:38:19.880
+tak samo wszyscy,
+
+00:38:19.880 --> 00:38:21.880
+czyli takie klasyczne,
+
+00:38:21.880 --> 00:38:23.880
+growe chowanie się za zasłony
+
+00:38:23.880 --> 00:38:25.880
+i wychodzenie.
+
+00:38:25.880 --> 00:38:27.880
+Nie wiem, jak ty grasz na trudnym,
+
+00:38:27.880 --> 00:38:29.880
+to coś tam kombinują?
+
+00:38:29.880 --> 00:38:30.880
+Wiesz co,
+
+00:38:30.880 --> 00:38:32.880
+ja nie sądzę, żeby poziom trudności
+
+00:38:32.880 --> 00:38:33.880
+wpływał na zachowanie
+
+00:38:33.880 --> 00:38:34.880
+sztucznej inteligencji.
+
+00:38:34.880 --> 00:38:36.880
+Miałem takie jednostarcie,
+
+00:38:36.880 --> 00:38:38.880
+nawet dzisiaj sobie grając,
+
+00:38:38.880 --> 00:38:39.880
+że jeden koleżka
+
+00:38:39.880 --> 00:38:41.880
+z karabinem do mnie strzelał
+
+00:38:41.880 --> 00:38:42.880
+i za każdym razem,
+
+00:38:42.880 --> 00:38:43.880
+jak podchodziłem do niego,
+
+00:38:43.880 --> 00:38:44.880
+to szukał osłony gdzieś dalej,
+
+00:38:44.880 --> 00:38:46.880
+żeby dystans powiększyć.
+
+00:38:46.880 --> 00:38:47.880
+Więc gdzieś tam
+
+00:38:47.880 --> 00:38:48.880
+mają takie zachowania.
+
+00:38:48.880 --> 00:38:50.880
+Natomiast to ja mam tak,
+
+00:38:50.880 --> 00:38:52.880
+kiedy gram z pistoletem
+
+00:38:52.880 --> 00:38:54.880
+i nagle ktoś mnie wykryje,
+
+00:38:54.880 --> 00:38:55.880
+to po prostu zbiega się
+
+00:38:55.880 --> 00:38:56.880
+ten cały tłum.
+
+00:38:56.880 --> 00:38:57.880
+Nawet nie mam za bardzo,
+
+00:38:57.880 --> 00:38:58.880
+jak patrzeć na ich zachowania.
+
+00:38:58.880 --> 00:39:00.880
+Próbuję życie uratować.
+
+00:39:00.880 --> 00:39:02.880
+Ten poziom, ten trudny poziom jest,
+
+00:39:02.880 --> 00:39:03.880
+zwłaszcza na początku,
+
+00:39:03.880 --> 00:39:04.880
+był bardzo wymagający
+
+00:39:04.880 --> 00:39:06.880
+i zwłaszcza przy cichym podejściu do gry
+
+00:39:06.880 --> 00:39:08.880
+był bardzo wymagający.
+
+00:39:08.880 --> 00:39:09.880
+Natomiast teraz
+
+00:39:09.880 --> 00:39:10.880
+ta druga postać,
+
+00:39:10.880 --> 00:39:13.880
+to jest taki trochę brutalny bokser
+
+00:39:13.880 --> 00:39:15.880
+i on sobie dużo lepiej
+
+00:39:15.880 --> 00:39:17.880
+w starciach bezpośrednich radzi
+
+00:39:17.880 --> 00:39:19.880
+i właśnie nawet się zastanawiam,
+
+00:39:19.880 --> 00:39:20.880
+czy na bardzo trudny nie przestawić,
+
+00:39:20.880 --> 00:39:22.880
+żeby znowu mieć to wrażenie
+
+00:39:22.880 --> 00:39:24.880
+takiego trudnego wyzwania.
+
+00:39:24.880 --> 00:39:27.880
+Ale na pewno jest to lepiej zbalansowane,
+
+00:39:27.880 --> 00:39:28.880
+bo już zacząłem mówić o...
+
+00:39:28.880 --> 00:39:29.880
+Ty mówiłeś o sztucznej inteligencji,
+
+00:39:29.880 --> 00:39:31.880
+ja zacząłem mówić o poziomie trudności,
+
+00:39:31.880 --> 00:39:32.880
+ale już tak zakończę.
+
+00:39:32.880 --> 00:39:33.880
+Na pewno jest to lepiej zbalansowane
+
+00:39:33.880 --> 00:39:34.880
+niż w Wiedźminie 3.
+
+00:39:34.880 --> 00:39:35.880
+W Wiedźminie 3 bardzo szybko,
+
+00:39:35.880 --> 00:39:36.880
+na wysokim poziomie trudności
+
+00:39:36.880 --> 00:39:38.880
+nie miałeś wyzwania.
+
+00:39:38.880 --> 00:39:39.880
+Tutaj jednak wyzwanie potrafi...
+
+00:39:39.880 --> 00:39:41.880
+Tak, jest też fajne
+
+00:39:41.880 --> 00:39:42.880
+i fajnie jest zbalansowane
+
+00:39:42.880 --> 00:39:44.880
+np. ekonomia w grze.
+
+00:39:44.880 --> 00:39:45.880
+Cały czas brakuje ci kasy.
+
+00:39:45.880 --> 00:39:46.880
+O Jezu, to odprawdają.
+
+00:39:46.880 --> 00:39:47.880
+Cały czas mi brakuje kasy.
+
+00:39:47.880 --> 00:39:48.880
+Fantastyczna sprawa.
+
+00:39:48.880 --> 00:39:49.880
+Fajnie to jest ogarnięte.
+
+00:39:49.880 --> 00:39:51.880
+No już nawet nie chcę mówić
+
+00:39:51.880 --> 00:39:53.880
+o sztucznej inteligencji samochodów
+
+00:39:53.880 --> 00:39:55.880
+i przechodniów, bo to jest...
+
+00:39:55.880 --> 00:39:56.880
+bo jej nie ma.
+
+00:39:56.880 --> 00:39:59.880
+Nie wiem, jak to inaczej mam zrobić,
+
+00:39:59.880 --> 00:40:00.880
+powiedzieć...
+
+00:40:00.880 --> 00:40:02.880
+Samochody się zatrzymują same na autostradzie,
+
+00:40:02.880 --> 00:40:04.880
+na pustej autostradzie bardzo często.
+
+00:40:04.880 --> 00:40:05.880
+Nie wiem czemu autostrady
+
+00:40:05.880 --> 00:40:07.880
+te mam puściutkie w tej grze.
+
+00:40:07.880 --> 00:40:08.880
+No się wcale nie dziwię.
+
+00:40:08.880 --> 00:40:10.880
+Zostaw samochód swój własny w centrum miasta,
+
+00:40:10.880 --> 00:40:12.880
+zobaczysz co się stanie, nie?
+
+00:40:12.880 --> 00:40:13.880
+No nie wiem, bo parkingi...
+
+00:40:13.880 --> 00:40:15.880
+Takie jest misja przecież z tym...
+
+00:40:15.880 --> 00:40:17.880
+z tą korporacją taksówkową
+
+00:40:17.880 --> 00:40:19.880
+i ona dzieje się na parkingu
+
+00:40:19.880 --> 00:40:20.880
+i on też jest pusty.
+
+00:40:20.880 --> 00:40:22.880
+A, nie, no ja mam tak...
+
+00:40:22.880 --> 00:40:24.880
+Raz, zostawiłem auto w niewłaściwym miejscu,
+
+00:40:24.880 --> 00:40:26.880
+to się korek zrobił oczywiście gigantyczny,
+
+00:40:26.880 --> 00:40:27.880
+a dwa, to zrobiłem...
+
+00:40:27.880 --> 00:40:28.880
+zostawiam auto w miejscu,
+
+00:40:28.880 --> 00:40:30.880
+w którym potem w misji fabularnej
+
+00:40:30.880 --> 00:40:33.880
+zespołnował się militechu ten pojazd
+
+00:40:33.880 --> 00:40:35.880
+i wiesz, eksplozje jakieś gigantyczne.
+
+00:40:35.880 --> 00:40:37.880
+Ludzie, wiesz, uciekają w krzyku,
+
+00:40:37.880 --> 00:40:39.880
+a babka mi opowiada historię.
+
+00:40:39.880 --> 00:40:43.880
+I pojawiające się na przykład samochody znikąd,
+
+00:40:43.880 --> 00:40:45.880
+obrócisz się, wrócisz potem kamerą,
+
+00:40:45.880 --> 00:40:47.880
+pojawia się samochód przed tobą.
+
+00:40:47.880 --> 00:40:48.880
+No dużo tam jest problemu.
+
+00:40:48.880 --> 00:40:50.880
+No samochody...
+
+00:40:50.880 --> 00:40:53.880
+W GTA, naprawdę, w ogóle ta gra przypomina mi GTA.
+
+00:40:53.880 --> 00:40:55.880
+Muszę przyznać.
+
+00:40:55.880 --> 00:40:59.880
+Przede wszystkim to jest Los Angeles.
+
+00:40:59.880 --> 00:41:01.880
+Mamy podobną strukturę,
+
+00:41:01.880 --> 00:41:03.880
+dużo podobnych misji.
+
+00:41:03.880 --> 00:41:06.880
+Ja tam widziałem dużo podobieństw.
+
+00:41:06.880 --> 00:41:09.880
+No i tam na przykład zaparkowałeś to na ulicy,
+
+00:41:09.880 --> 00:41:11.880
+na środku, to ludzie cię objeżdżali.
+
+00:41:11.880 --> 00:41:13.880
+No tutaj robi się nagle korek,
+
+00:41:13.880 --> 00:41:16.880
+mimo że dwa pasy wolne po bokach.
+
+00:41:16.880 --> 00:41:18.880
+No to jest dziwne.
+
+00:41:18.880 --> 00:41:21.880
+No i dzisiaj już się tak wkurzyłem,
+
+00:41:21.880 --> 00:41:23.880
+że wyłączyłem grę.
+
+00:41:23.880 --> 00:41:25.880
+Po tych trzydziestu paru godzinach
+
+00:41:25.880 --> 00:41:28.880
+miałem taką sytuację.
+
+00:41:28.880 --> 00:41:30.880
+Od paru godzin jest tak,
+
+00:41:30.880 --> 00:41:32.880
+że coś mi nie gra.
+
+00:41:32.880 --> 00:41:35.880
+Zmieniam na bronię
+
+00:41:35.880 --> 00:41:37.880
+i one jakieś są słabe.
+
+00:41:37.880 --> 00:41:39.880
+Po jakimś czasie.
+
+00:41:39.880 --> 00:41:41.880
+I mówię, nie wiem, co chodzi.
+
+00:41:41.880 --> 00:41:43.880
+Więc patrzę.
+
+00:41:43.880 --> 00:41:45.880
+Znalazłem broń, która miała tam 200...
+
+00:41:45.880 --> 00:41:47.880
+Czego tam jest w broni?
+
+00:41:47.880 --> 00:41:49.880
+DPS-u.
+
+00:41:49.880 --> 00:41:51.880
+A tak to miałem, patrzę, mam 160.
+
+00:41:51.880 --> 00:41:52.880
+No to super.
+
+00:41:52.880 --> 00:41:54.880
+Zmieniam sobie na tą 200.
+
+00:41:54.880 --> 00:41:56.880
+Fajnie się gra, strzela, coś tam.
+
+00:41:56.880 --> 00:41:58.880
+Sejwuję, wyłączam grę.
+
+00:41:58.880 --> 00:42:00.880
+Odpalam ją znowu.
+
+00:42:00.880 --> 00:42:02.880
+I co?
+
+00:42:02.880 --> 00:42:05.880
+Loaduje się w tym samym miejscu.
+
+00:42:05.880 --> 00:42:08.880
+Tam nie ma problemu, że tam coś z sejwem.
+
+00:42:08.880 --> 00:42:11.880
+I gra wkłada mi znowu broń,
+
+00:42:11.880 --> 00:42:13.880
+która ma 162 DPS-ów.
+
+00:42:13.880 --> 00:42:15.880
+A moja broń, która miała 200 coś,
+
+00:42:15.880 --> 00:42:17.880
+już jej nie mam. W ogóle.
+
+00:42:17.880 --> 00:42:19.880
+Więc co robię?
+
+00:42:19.880 --> 00:42:21.880
+Idę na jakąś misję, szukam broni lepszej.
+
+00:42:21.880 --> 00:42:23.880
+Znajduję tą broń, zamieniam,
+
+00:42:23.880 --> 00:42:26.880
+sejwuję, wyłączam grę,
+
+00:42:26.880 --> 00:42:28.880
+loaduję i znowu to samo.
+
+00:42:28.880 --> 00:42:31.880
+Stara broń się pojawia.
+
+00:42:31.880 --> 00:42:33.880
+Sprzed kilku godzin, którą znalazłem.
+
+00:42:33.880 --> 00:42:35.880
+A ta znika.
+
+00:42:35.880 --> 00:42:37.880
+No już mnie po prostu szlag trafił.
+
+00:42:37.880 --> 00:42:40.880
+Bo co odpalam,
+
+00:42:40.880 --> 00:42:41.880
+to pierwsze co muszę robić,
+
+00:42:41.880 --> 00:42:43.880
+to szukać broni,
+
+00:42:43.880 --> 00:42:45.880
+bo gra mi się loaduje z bronią
+
+00:42:45.880 --> 00:42:47.880
+sprzed pięciu czy tam sześciu godzin.
+
+00:42:47.880 --> 00:42:48.880
+To jest takie...
+
+00:42:48.880 --> 00:42:50.880
+To ci się musi jakiś sejw zglitchować.
+
+00:42:50.880 --> 00:42:52.880
+Super mnie to...
+
+00:42:52.880 --> 00:42:54.880
+Super mnie zafrustrowało.
+
+00:42:54.880 --> 00:42:56.880
+Nie wiem, jeszcze po...
+
+00:42:56.880 --> 00:42:58.880
+Próbowałeś rozłożyć na części tą broń,
+
+00:42:58.880 --> 00:43:00.880
+co dostałeś?
+
+00:43:00.880 --> 00:43:01.880
+Ta, co ci się zglitchuje?
+
+00:43:01.880 --> 00:43:03.880
+Tak, tak, tak.
+
+00:43:03.880 --> 00:43:05.880
+Ja to robię, bo ja w ogóle wszystko rozkładam,
+
+00:43:05.880 --> 00:43:07.880
+nie trzymam nic w tym.
+
+00:43:07.880 --> 00:43:09.880
+Nie wiem z czego to...
+
+00:43:09.880 --> 00:43:11.880
+To musi być jakiś błąd zapisu.
+
+00:43:11.880 --> 00:43:15.880
+Myślę, że tak, że jest to jakiś błąd.
+
+00:43:15.880 --> 00:43:17.880
+Słuchajcie,
+
+00:43:17.880 --> 00:43:19.880
+no ja w sumie tyle mam.
+
+00:43:19.880 --> 00:43:23.880
+Podsumowując już to, jakie miałem wrażenia w ogóle z gry
+
+00:43:23.880 --> 00:43:25.880
+i mam dalej, bo gram dalej w tą grę,
+
+00:43:25.880 --> 00:43:28.880
+no to poza tym dzisiejszym takim wkurzeniem się strasznym,
+
+00:43:28.880 --> 00:43:30.880
+no to grając na mocnym PC-cie,
+
+00:43:30.880 --> 00:43:32.880
+to gra jest cudowna.
+
+00:43:32.880 --> 00:43:34.880
+Znaczy, ja się świetnie bawię.
+
+00:43:34.880 --> 00:43:38.880
+Dla mnie to jest na pewno gra roku.
+
+00:43:38.880 --> 00:43:42.880
+Fabularnie myślałem, że długo będziemy musieli czekać na coś,
+
+00:43:42.880 --> 00:43:46.880
+co się chociaż zbliży na trochę do Red Dead Redemption 2.
+
+00:43:46.880 --> 00:43:48.880
+No a tutaj...
+
+00:43:48.880 --> 00:43:51.880
+No, Cyberpunk przebija fabularnie,
+
+00:43:51.880 --> 00:43:56.880
+bo technologicznie to oni tam są po prostu...
+
+00:43:56.880 --> 00:43:59.880
+No nie dali rady niestety.
+
+00:43:59.880 --> 00:44:02.880
+I to jest bardzo duży problem.
+
+00:44:02.880 --> 00:44:04.880
+Muszę się zgodzić jakby tutaj.
+
+00:44:04.880 --> 00:44:08.880
+Mimo tego, że ja z jednej strony albo odmawiam sobie
+
+00:44:08.880 --> 00:44:11.880
+widzenia tych błędów, albo mam ich faktycznie mniej,
+
+00:44:11.880 --> 00:44:16.880
+natomiast jest zabugowana bardzo mocno gra
+
+00:44:16.880 --> 00:44:19.880
+i wielu osób na to zwraca uwagę.
+
+00:44:19.880 --> 00:44:21.880
+Nawet ci, którzy dają wysokie noty,
+
+00:44:21.880 --> 00:44:23.880
+to też mówią o tych błędach.
+
+00:44:23.880 --> 00:44:26.880
+No i trudno mi analizować, czemu tak się stało.
+
+00:44:26.880 --> 00:44:28.880
+No Redzie się po prostu nie wyrobili.
+
+00:44:28.880 --> 00:44:30.880
+Ten projekt musiał jakby przekroczyć ich możliwości.
+
+00:44:30.880 --> 00:44:32.880
+Czas to pokazał zresztą.
+
+00:44:32.880 --> 00:44:34.880
+Ale wiesz, ja też patrzę tak na ten projekt,
+
+00:44:34.880 --> 00:44:37.880
+też już podsumowując, bo mi oczywiście wszystko się bardzo podoba
+
+00:44:37.880 --> 00:44:39.880
+i świetnie się bawię i tyle godzin bym nie spalił,
+
+00:44:39.880 --> 00:44:42.880
+nie przepalił, gdyby ku temu nie było powodu.
+
+00:44:42.880 --> 00:44:44.880
+Natomiast dla mnie to jest tak naprawdę świat,
+
+00:44:44.880 --> 00:44:46.880
+który dopiero on do nas trafił,
+
+00:44:46.880 --> 00:44:49.880
+a tak naprawdę będzie się zmieniał i poprawiał z czasem.
+
+00:44:49.880 --> 00:44:51.880
+Bo wiadomo, że dostaniemy dodatki,
+
+00:44:51.880 --> 00:44:53.880
+opowiedzą dodatkowo fabularnie,
+
+00:44:53.880 --> 00:44:55.880
+ale ja liczę też przede wszystkim na tą wersję online,
+
+00:44:55.880 --> 00:44:59.880
+która pewnie pozwoli się bawić i spowoduje,
+
+00:44:59.880 --> 00:45:03.880
+że będzie warto tę grę rozwijać jeszcze bardziej z czasem.
+
+00:45:03.880 --> 00:45:08.880
+To miasto jest tak wymagające i nawet dla mocnych pecetów,
+
+00:45:08.880 --> 00:45:10.880
+dlatego że wydaje mi się, że to jest projekt,
+
+00:45:10.880 --> 00:45:12.880
+który został pomyślany na lata.
+
+00:45:12.880 --> 00:45:14.880
+Na wiele, wiele lat będzie można go rozwijać,
+
+00:45:14.880 --> 00:45:16.880
+bo już podstawy są.
+
+00:45:16.880 --> 00:45:19.880
+Teraz sprzęt pewnie nadgoni i z czasem optymalizacja
+
+00:45:19.880 --> 00:45:22.880
+i te błędy będą usuwane i gdzieś tam za dwa lata,
+
+00:45:22.880 --> 00:45:24.880
+jak dostaniemy wersję online,
+
+00:45:24.880 --> 00:45:27.880
+to podejrzewam, że ona będzie już zbudowana na fantastycznej bazie.
+
+00:45:27.880 --> 00:45:30.880
+No i na pewno nie będzie na starych konsolach.
+
+00:45:30.880 --> 00:45:33.880
+Myślę, że to jest nierealne, żeby online w takiej grze
+
+00:45:33.880 --> 00:45:36.880
+był na PlayStation 4 czy Xboxie One.
+
+00:45:36.880 --> 00:45:38.880
+Tak, tak. To jest...
+
+00:45:38.880 --> 00:45:41.880
+Ja też uważam, że wiesz, to teraz po szkodzie
+
+00:45:41.880 --> 00:45:43.880
+to każdy mądry może dawać rady dobre,
+
+00:45:43.880 --> 00:45:45.880
+ale wydaje mi się, że gdzieś tam...
+
+00:45:45.880 --> 00:45:48.880
+Wiesz, wtedy kiedy Ty się opowiadał o tych problemach...
+
+00:45:48.880 --> 00:45:50.880
+W styczniu, przypomnę.
+
+00:45:50.880 --> 00:45:53.880
+Przepraszam, bo nie dosłyszałem, co mówisz.
+
+00:45:53.880 --> 00:45:56.880
+Mówisz, to rok temu, w kwietniu,
+
+00:45:56.880 --> 00:45:59.880
+dowiedzieliśmy się najpierw, że są duże problemy,
+
+00:45:59.880 --> 00:46:02.880
+a potem w styczniu, dlaczego zostało przesunięte.
+
+00:46:02.880 --> 00:46:04.880
+Tak jest.
+
+00:46:04.880 --> 00:46:07.880
+Te pierwsze błędy już w zasadzie powinny Redom uświadomić,
+
+00:46:07.880 --> 00:46:10.880
+że wydawanie tego na starą generację konsol nie ma sensu.
+
+00:46:10.880 --> 00:46:12.880
+Natomiast też jeszcze chyba wtedy nie było wiadomo,
+
+00:46:12.880 --> 00:46:14.880
+jak będzie w ogóle z nową generacją, kiedy będzie
+
+00:46:14.880 --> 00:46:16.880
+i w jakiej formie.
+
+00:46:16.880 --> 00:46:18.880
+Ale to był duży błąd.
+
+00:46:18.880 --> 00:46:21.880
+Ta gra powinna trafić na nową generację konsol
+
+00:46:21.880 --> 00:46:23.880
+od samego początku.
+
+00:46:23.880 --> 00:46:28.880
+Remik, ta gra była zapowiedziana przed startem PlayStation 4.
+
+00:46:28.880 --> 00:46:30.880
+Nie no, oczywiście, że tak.
+
+00:46:30.880 --> 00:46:32.880
+To nie da się przewidzieć, jaka będzie.
+
+00:46:32.880 --> 00:46:34.880
+Wiesz, jeżeli robisz grę...
+
+00:46:34.880 --> 00:46:36.880
+No ja nie mówię, że...
+
+00:46:36.880 --> 00:46:38.880
+Wiesz, to jest takie...
+
+00:46:38.880 --> 00:46:40.880
+Oczywiście, że została zapowiedziana 8 lat temu,
+
+00:46:40.880 --> 00:46:43.880
+ale przez te lata wiele się wydarzyło, nie?
+
+00:46:43.880 --> 00:46:46.880
+Że ludzie byli świadomi tego, absolutnie byli świadomi,
+
+00:46:46.880 --> 00:46:50.880
+bo nie bez powodu nie dali tej gry konsolowej do recenzji.
+
+00:46:50.880 --> 00:46:52.880
+Oni wiedzieli, że po pierwsze...
+
+00:46:52.880 --> 00:46:54.880
+O tym sobie zaraz porozmawiamy.
+
+00:46:54.880 --> 00:46:56.880
+Oni musieli wiedzieć, że nie są w stanie tego zrobić
+
+00:46:56.880 --> 00:46:58.880
+na starą generację konsol.
+
+00:46:58.880 --> 00:47:00.880
+To nieważne, kiedy grę zapowiadałeś, ważne jest, co masz.
+
+00:47:00.880 --> 00:47:02.880
+Jeżeli masz coś, co nie działa,
+
+00:47:02.880 --> 00:47:04.880
+no to nie lecisz w kulę i nie wydajesz tego,
+
+00:47:04.880 --> 00:47:07.880
+tylko mówisz, no sorry, nowa generacja tylko i wyłącznie.
+
+00:47:07.880 --> 00:47:09.880
+Przepraszamy wszystkich bardzo.
+
+00:47:09.880 --> 00:47:11.880
+Lepiej przepraszać przed faktem niż po...
+
+00:47:11.880 --> 00:47:14.880
+Miliony preorderów na PlayStation 4 i Xboxa.
+
+00:47:14.880 --> 00:47:15.880
+No wiem, że to jest...
+
+00:47:15.880 --> 00:47:17.880
+Oczywiście, że biznesowo to się nie klei.
+
+00:47:17.880 --> 00:47:19.880
+Przez te 8 lat jedna rzecz...
+
+00:47:19.880 --> 00:47:21.880
+Przez 7 lat jedna rzecz się nie zmieniła.
+
+00:47:21.880 --> 00:47:26.880
+Nie zmieniła się specyfikacja PlayStation 4 i Xbox One.
+
+00:47:26.880 --> 00:47:28.880
+To się na pewno nie zmieniło.
+
+00:47:28.880 --> 00:47:33.880
+Myślę, że wiedzieli, jaką grę robią na jakie konsole.
+
+00:47:33.880 --> 00:47:35.880
+Ale o tym sobie jeszcze porozmawiamy,
+
+00:47:35.880 --> 00:47:39.880
+ponieważ przechodzimy płynnie do naszego kolejnego punktu,
+
+00:47:39.880 --> 00:47:43.880
+czyli oceny recenzentów i graczy.
+
+00:47:43.880 --> 00:47:49.880
+Gra zebrała w przedpremierowych recenzjach niezwykle wysokie noty.
+
+00:47:49.880 --> 00:47:51.880
+Posypał się deszcz dziesiątek,
+
+00:47:51.880 --> 00:47:55.880
+a Metacritic zatrzymał się na 90, na PC.
+
+00:47:55.880 --> 00:47:59.880
+No i ja chciałbym zadać takie ogólne pytanie.
+
+00:47:59.880 --> 00:48:02.880
+Co oznacza ocena 10 na 10?
+
+00:48:02.880 --> 00:48:05.880
+O Jezu, to będzie straszne filozofię, byśmy się bawili.
+
+00:48:05.880 --> 00:48:12.880
+10 na 10 to jest najlepsza gra, w jaką grałem do tej pory.
+
+00:48:12.880 --> 00:48:14.880
+Co to oznacza?
+
+00:48:14.880 --> 00:48:18.880
+Każdy ma inną definicję tego, co jest najlepszą grą, w jaką grał do tej pory.
+
+00:48:18.880 --> 00:48:21.880
+My nie robimy recenzji.
+
+00:48:21.880 --> 00:48:22.880
+Ani ty, ani ja.
+
+00:48:22.880 --> 00:48:24.880
+Jako Rocky Boris, ani ja jako Rocky w ogóle nie.
+
+00:48:24.880 --> 00:48:27.880
+Ani ja jako Boris też nie robię recenzji.
+
+00:48:27.880 --> 00:48:34.880
+Ale będąc recenzentem masz pewnego rodzaju odpowiedzialność przed graczami.
+
+00:48:34.880 --> 00:48:39.880
+Ja rozumiem, jak ktoś daje 9,
+
+00:48:39.880 --> 00:48:43.880
+ale nie rozumiem, jak ktoś daje tej grze 10.
+
+00:48:43.880 --> 00:48:47.880
+Bo 10, okej, to jest najlepsza gra, w jaką grałem,
+
+00:48:47.880 --> 00:48:55.880
+ale nie ma możliwości, żeby być szczerym w tej opinii, nie mówiąc ale.
+
+00:48:55.880 --> 00:48:57.880
+Okej, okej.
+
+00:48:57.880 --> 00:49:01.880
+Przypomnę, że recenzenci grali na jeszcze gorszej kopii niż my.
+
+00:49:01.880 --> 00:49:04.880
+Tak, to prawda.
+
+00:49:04.880 --> 00:49:05.880
+Ja mam tak.
+
+00:49:05.880 --> 00:49:10.880
+Po pierwsze, nie będę tu bronił recenzentów, bo nie o to chodzi.
+
+00:49:10.880 --> 00:49:18.880
+Natomiast to jest tak, że rzetelność recenzencka to jest oparta relacja na zaufaniu
+
+00:49:18.880 --> 00:49:22.880
+między recenzentem a jego czytelnikami, czy tam jego widzami.
+
+00:49:22.880 --> 00:49:29.880
+I jeżeli recenzent ocenia grę w niewłaściwy sposób albo daje za wysokie noty,
+
+00:49:29.880 --> 00:49:33.880
+to najwyraźniej narusza to zaufanie i może na tym stracić.
+
+00:49:33.880 --> 00:49:37.880
+Jeżeli ktoś jest gotów dać dziesiątkę, to znaczy, że wszystko to, co zobaczył,
+
+00:49:37.880 --> 00:49:40.880
+co było negatywne, w żaden sposób nie pogorszyło jego doświadczenia,
+
+00:49:40.880 --> 00:49:42.880
+które nadal jest najlepszym doświadczeniem na świecie.
+
+00:49:42.880 --> 00:49:44.880
+To wiesz, nie o to chodzi.
+
+00:49:44.880 --> 00:49:48.880
+Recenzja jest na tyle subiektywna, że ona nie musi być w 100% rzetelna
+
+00:49:48.880 --> 00:49:51.880
+i opisywać wszystkie błędy i wartościować te błędy.
+
+00:49:51.880 --> 00:49:55.880
+To jest tylko i wyłącznie relacja między twórcą, czyli pisarzem tej recenzji,
+
+00:49:55.880 --> 00:50:03.880
+a czytelnikiem. I tyle. To nie jest rzetelna ocena dzieła.
+
+00:50:03.880 --> 00:50:05.880
+To nie jest jakaś analityka.
+
+00:50:05.880 --> 00:50:09.880
+To ja się nie zgodzę z tobą. Uważam, że to musi być rzetelna ocena dzieła.
+
+00:50:09.880 --> 00:50:15.880
+Przede wszystkim dobry dziennikarz musi być krytyczny.
+
+00:50:15.880 --> 00:50:23.880
+To jest podstawa, ponieważ tylko postawa krytyczna jest szczera wobec odbiorców.
+
+00:50:23.880 --> 00:50:28.880
+Pytanie jest wobec kogo mamy być okej.
+
+00:50:28.880 --> 00:50:35.880
+Czy recenzenci mają być fair wobec CDP-u, który powie,
+
+00:50:35.880 --> 00:50:38.880
+słuchajcie, nie patrzcie na te błędy, bo my to poprawimy,
+
+00:50:38.880 --> 00:50:42.880
+czy mają być wobec graczy, którzy kupują teraz tę grę.
+
+00:50:42.880 --> 00:50:51.880
+To jest po raz kolejny. Rozumiem twoje argumenty dotyczące dzieła literackiego,
+
+00:50:51.880 --> 00:50:54.880
+którym jest recenzja. To wszystko ma jak najbardziej sens.
+
+00:50:54.880 --> 00:50:59.880
+Natomiast moim zdaniem to jest tylko i wyłącznie tak, że jeżeli jesteś graczem
+
+00:50:59.880 --> 00:51:02.880
+albo oglądasz filmy, to z reguły masz wybranych recenzentów,
+
+00:51:02.880 --> 00:51:05.880
+których czytasz, z którymi często się zgadzasz, może nie,
+
+00:51:05.880 --> 00:51:08.880
+może szukasz takich, którzy ci włożą kij w szprychy,
+
+00:51:08.880 --> 00:51:13.880
+ale dobierasz sobie ludzi na podstawie ich wcześniejszych recenzji.
+
+00:51:13.880 --> 00:51:22.880
+To jest jedyna relacja, która ma znaczenie. Oczywiście, że uważam, że ja muszę bronić recenzentów,
+
+00:51:22.880 --> 00:51:27.880
+jestem ostatnią osobą. Dla mnie recenzja to jest taka gamingowa ginekologia.
+
+00:51:27.880 --> 00:51:30.880
+Ja nienawidzę, to jest najgorszy zawód, jaki można mieć w tej branży.
+
+00:51:30.880 --> 00:51:35.880
+Natomiast jeżeli ktoś przesadził z oceną, to dostanie od swoich czytelników po tyłku
+
+00:51:35.880 --> 00:51:39.880
+i to jest w zasadzie jedyna kara, jaka go powinna spotkać w tym zakresie.
+
+00:51:39.880 --> 00:51:45.880
+A cała reszta, wiesz, jakie to ma w zeszłym znaczeniu, jak ta gra jest na Metacritic-u oceniana?
+
+00:51:45.880 --> 00:51:50.880
+Oczywiście, że ma, ponieważ jest to jedna z podstaw decyzji zakupowej.
+
+00:51:50.880 --> 00:51:58.880
+Jeżeli ja czytam te recenzje, a przeczytałem tych recenzji sporo
+
+00:51:58.880 --> 00:52:01.880
+i czytam, że gra ma błędy, że to nie działa, tam nie działa,
+
+00:52:01.880 --> 00:52:08.880
+a potem widzę ocenę 10 na 10, to nie treść recenzji wyświetli się na Metacritic-u
+
+00:52:08.880 --> 00:52:18.880
+czy na okładce, czy na Steamie, czy gdziekolwiek, gdzie twórcy będą mogli użyć tego 10 na 10.
+
+00:52:18.880 --> 00:52:25.880
+Tylko właśnie, nie treść nie to ale, tylko ta liczba i ta liczba mówi 10 na 10.
+
+00:52:25.880 --> 00:52:29.880
+Dla mnie to oznacza, że nie można nic zarzucić tej grze.
+
+00:52:29.880 --> 00:52:34.880
+Bo trochę to jest tak, jak ty powiedziałeś, że to jest najlepsza gra, w jaką grałem.
+
+00:52:34.880 --> 00:52:41.880
+To jest bardzo, bardzo prywatna opinia, a recenzja to jest trochę więcej.
+
+00:52:41.880 --> 00:52:44.880
+To nie jest esej.
+
+00:52:44.880 --> 00:52:48.880
+Ale musisz brać pod uwagę, że nigdy nie znajdziesz recenzenta, który byłby obiektywny.
+
+00:52:48.880 --> 00:52:53.880
+Jakby subiektywizm jest częścią tego, co jest wpisane w ogóle w recenzji.
+
+00:52:53.880 --> 00:52:55.880
+Oczywiście, ja się z tobą zgadzam.
+
+00:52:55.880 --> 00:53:02.880
+Jeżeli to jest poważna decyzja zakupowa i dokonujesz ją patrząc na średnią ocenę na Metacritic-u,
+
+00:53:02.880 --> 00:53:04.880
+to nie wykonałeś wystarczająco dobrej roboty.
+
+00:53:04.880 --> 00:53:09.880
+Bo musisz, jeżeli to jest dla ciebie ważne, no to czytasz te recenzje i sprawdzasz, co tam napisali.
+
+00:53:09.880 --> 00:53:11.880
+A najważniejsze, masz dobranych recenzentów.
+
+00:53:11.880 --> 00:53:14.880
+Oczywiście, większość casualowych graczy pewnie spojrzy na Metacritica.
+
+00:53:14.880 --> 00:53:17.880
+No i na tej podstawie kupi grę i być może się zawiodą.
+
+00:53:17.880 --> 00:53:25.880
+Być może wiele wskazuje na to, że recenzenci, ja wiem, nie wykonali dobrze swojej roboty w tym przypadku.
+
+00:53:25.880 --> 00:53:29.880
+Natomiast wydaje mi się, że jakby nie broniąc, mogę zupełnie spokojnie przyjąć,
+
+00:53:29.880 --> 00:53:34.880
+że ta ocena jest zawyżona, że powinna być niższa i powinna brać pod uwagę te błędy,
+
+00:53:34.880 --> 00:53:38.880
+które są wyraźne, widoczne i o których żeśmy mówili, to się zgodzę.
+
+00:53:38.880 --> 00:53:43.880
+Ja nawet pierwsza recenzja, ktoś mnie tam próbował wkręcić, że jest 7 na 10 i uznałem,
+
+00:53:43.880 --> 00:53:46.880
+że okej, mi to w ogóle nie robi, nie ma dla mnie żadnego znaczenia.
+
+00:53:46.880 --> 00:53:49.880
+I być może to 7 na 10 byłoby bliższe rzeczywistości tak naprawdę,
+
+00:53:49.880 --> 00:53:52.880
+bo jakby zwracałoby uwagę na te błędy.
+
+00:53:52.880 --> 00:53:55.880
+No ale jest jak jest.
+
+00:53:55.880 --> 00:53:58.880
+To nie ma co patrzeć na te recenzje niezależnie od tego, czy one są dobre, czy one są złe.
+
+00:53:58.880 --> 00:54:01.880
+Ale to nie jest tak, że nie warto, bo ludzie patrzą,
+
+00:54:01.880 --> 00:54:07.880
+bo te recenzje są potem wykorzystane w marketingu na przykład.
+
+00:54:07.880 --> 00:54:11.880
+To one są tym powodem, dla których ludzie kupują gry.
+
+00:54:11.880 --> 00:54:18.880
+Oczywiście to nie jest wszystko, ale mamy recenzje, pamiętaj o tym,
+
+00:54:18.880 --> 00:54:20.880
+bo tu mamy bardzo specyficzną sytuację.
+
+00:54:20.880 --> 00:54:24.880
+Mamy recenzje, które poszły przed premierą
+
+00:54:24.880 --> 00:54:30.880
+oraz mamy ogromną sprzedaż i na PC, i na konsolach,
+
+00:54:30.880 --> 00:54:33.880
+te 8 milionów przed premierą.
+
+00:54:33.880 --> 00:54:38.880
+Czyli te 8 milionów graczy to jest ogrom ludzi,
+
+00:54:38.880 --> 00:54:41.880
+którzy zdecydowali się kupić grę przed premierą,
+
+00:54:41.880 --> 00:54:47.880
+oparli się o marketing, który był bardzo długi i bardzo, bardzo dobry,
+
+00:54:47.880 --> 00:54:51.880
+jak widać skuteczny oraz o te recenzje, no bo o co jeszcze?
+
+00:54:51.880 --> 00:54:57.880
+Jasne, ja nie chcę bronić tutaj recenzentów,
+
+00:54:57.880 --> 00:54:59.880
+nie chcę się za bardzo wdawać w te dyskusje,
+
+00:54:59.880 --> 00:55:02.880
+ale też jest dużo takich graczy, którzy mają podobne podejście jak ja.
+
+00:55:02.880 --> 00:55:06.880
+Gdyby mnie ktoś zapytał, jaką ocenę daję Cyberpunkowi,
+
+00:55:06.880 --> 00:55:09.880
+to bym powiedział z czystym sumieniem 10 na 10,
+
+00:55:09.880 --> 00:55:11.880
+ale ci, którym to mówię, muszą mnie znać trochę
+
+00:55:11.880 --> 00:55:14.880
+i wiedzieć, jaki mam gust i na które rzeczy zwracam uwagę,
+
+00:55:14.880 --> 00:55:15.880
+a na które nie.
+
+00:55:15.880 --> 00:55:18.880
+To jest ta kwestia znajomości z recenzentem,
+
+00:55:18.880 --> 00:55:21.880
+tego jego widzacza, słuchacza czy czytelnika.
+
+00:55:21.880 --> 00:55:24.880
+Więc okej, no ale tu nie ma kogo właściwie winić,
+
+00:55:24.880 --> 00:55:27.880
+nie ma kogo karać, no takie wyszły noty.
+
+00:55:27.880 --> 00:55:31.880
+Czy one oddają rzeczywistość czy nie, no to już jest kwestia gustu.
+
+00:55:31.880 --> 00:55:36.880
+Dla mnie nie oddają rzeczywistości, bo dla mnie to jest 10 na 10.
+
+00:55:36.880 --> 00:55:37.880
+Czyli kłamią.
+
+00:55:37.880 --> 00:55:38.880
+Są zaniżone.
+
+00:55:38.880 --> 00:55:44.880
+Ale mamy kolejny aspekt taki, że
+
+00:55:44.880 --> 00:55:49.880
+te recenzje odbyły się na zasadach CD Projektu,
+
+00:55:49.880 --> 00:55:54.880
+czyli był zakaz wstawiania swojego gameplayu do recenzji,
+
+00:55:54.880 --> 00:55:59.880
+nikt nie dostał kopii recenzenckiej na konsolę
+
+00:55:59.880 --> 00:56:02.880
+i nikt wcześniej nie ograł tej gry na konsoli.
+
+00:56:02.880 --> 00:56:03.880
+Nigdy.
+
+00:56:03.880 --> 00:56:05.880
+Nigdy wcześniej.
+
+00:56:05.880 --> 00:56:09.880
+I teraz pytanie jest takie, czy te redakcje,
+
+00:56:09.880 --> 00:56:12.880
+które zrobiły recenzję na PC,
+
+00:56:12.880 --> 00:56:18.880
+czy one powinny robić teraz osobną recenzję na konsolę
+
+00:56:18.880 --> 00:56:20.880
+i też to wbić na Metacritic?
+
+00:56:20.880 --> 00:56:24.880
+Bo ja mam wrażenie, że jeżeli to tak zostanie,
+
+00:56:24.880 --> 00:56:26.880
+bo oczywiście teraz pojawiają się artykuły,
+
+00:56:26.880 --> 00:56:31.880
+porównanie wersji pecetowej do konsolowej i tak dalej,
+
+00:56:31.880 --> 00:56:34.880
+że każdy teraz dziennikarz się rozpisuje,
+
+00:56:34.880 --> 00:56:37.880
+ale została ta jedna recenzja.
+
+00:56:37.880 --> 00:56:41.880
+Każdy portal zrobił po jednej recenzji praktycznie
+
+00:56:41.880 --> 00:56:46.880
+i na Metacritic nie wyświetla się nawet przy Xboxie
+
+00:56:46.880 --> 00:56:50.880
+i przy PlayStation,
+
+00:56:50.880 --> 00:56:53.880
+nie wyświetla się żadna recenzja tak naprawdę.
+
+00:56:53.880 --> 00:56:55.880
+Jeszcze w żadnym nie ma czterech recenzji,
+
+00:56:55.880 --> 00:56:58.880
+żeby ten Metacritic mógł to zrobić.
+
+00:56:58.880 --> 00:57:03.880
+Oczywiście są decyzje graczy, tam widać,
+
+00:57:03.880 --> 00:57:05.880
+które są bardzo, bardzo niskie.
+
+00:57:05.880 --> 00:57:07.880
+Review Bombing klasyczny,
+
+00:57:07.880 --> 00:57:10.880
+chociaż tutaj w przypadku konsolowej się nie dziwię,
+
+00:57:10.880 --> 00:57:16.880
+ale mamy sytuację, kiedy mamy jako gracze
+
+00:57:16.880 --> 00:57:20.880
+i widzimy jedną numerację gry,
+
+00:57:20.880 --> 00:57:23.880
+ale gry, która ma dwie podstawowe wersje,
+
+00:57:23.880 --> 00:57:25.880
+bo powiedzmy razem traktujemy tą konsolową
+
+00:57:25.880 --> 00:57:27.880
+i osobno pecetową
+
+00:57:27.880 --> 00:57:29.880
+i to są zupełnie inne doświadczenia.
+
+00:57:29.880 --> 00:57:31.880
+Tak, tak, ja się zgadzam.
+
+00:57:31.880 --> 00:57:32.880
+To już jest błąd Metacritica,
+
+00:57:32.880 --> 00:57:34.880
+że on pokazuje te oceny w ten sposób.
+
+00:57:34.880 --> 00:57:35.880
+Może błąd recenzentów,
+
+00:57:35.880 --> 00:57:37.880
+ale recenzenci pracowali na takim materiale,
+
+00:57:37.880 --> 00:57:38.880
+jaki mieli.
+
+00:57:38.880 --> 00:57:42.880
+Oczywiście to wszystko jest za tym ukryte.
+
+00:57:42.880 --> 00:57:45.880
+To jest winna redów, to co zostało zrobione
+
+00:57:45.880 --> 00:57:48.880
+i to, że recenzenci dostali tylko wersję pecetową,
+
+00:57:48.880 --> 00:57:50.880
+to też jest jakby z premedytacją działalność,
+
+00:57:50.880 --> 00:57:52.880
+która nie do końca zasługuje na pochwałę.
+
+00:57:52.880 --> 00:57:54.880
+Ale czekaj chwilę, ale recenzenci
+
+00:57:54.880 --> 00:57:58.880
+to nie jest zbrojne ramię PR-owe branży growej,
+
+00:57:58.880 --> 00:58:00.880
+tylko to są ludzie,
+
+00:58:00.880 --> 00:58:03.880
+którzy są pewnego rodzaju filtrem
+
+00:58:03.880 --> 00:58:06.880
+i przez recenzję jakąś wyrocznią.
+
+00:58:06.880 --> 00:58:08.880
+To są ludzie, którzy decydują.
+
+00:58:08.880 --> 00:58:11.880
+To są ludzie, którzy zajmują się poważnymi rzeczami,
+
+00:58:11.880 --> 00:58:13.880
+jak recenzję gier.
+
+00:58:13.880 --> 00:58:18.880
+Więc pytanie, czy mogli zrobić coś innego?
+
+00:58:18.880 --> 00:58:21.880
+Po raz kolejny mam takie poczucie,
+
+00:58:21.880 --> 00:58:22.880
+że trochę bronie recenzentów
+
+00:58:22.880 --> 00:58:25.880
+pracowali na tym, co dostali od dewelopera.
+
+00:58:25.880 --> 00:58:29.880
+Przychylam się do twojego zdania,
+
+00:58:29.880 --> 00:58:32.880
+że to jest bardzo nierzetelna robota
+
+00:58:32.880 --> 00:58:34.880
+i z takiej literackiej perspektywy,
+
+00:58:34.880 --> 00:58:37.880
+czyli jak się nazywa ta recenzja,
+
+00:58:37.880 --> 00:58:39.880
+to jest w języku polskim
+
+00:58:39.880 --> 00:58:41.880
+jako określana...
+
+00:58:41.880 --> 00:58:42.880
+Mniejsza z tym,
+
+00:58:42.880 --> 00:58:44.880
+bo nie jest na pewno to dzieło literackie,
+
+00:58:44.880 --> 00:58:46.880
+to ma inną swoją nazwę.
+
+00:58:46.880 --> 00:58:49.880
+Tak czy inaczej, ta forma tekstu
+
+00:58:49.880 --> 00:58:52.880
+raczej nie zostały tutaj,
+
+00:58:52.880 --> 00:58:55.880
+nie jest to wykonane rzetelnie.
+
+00:58:55.880 --> 00:58:57.880
+Zgadzam się absolutnie.
+
+00:58:57.880 --> 00:58:59.880
+Ale to też z ludzkiej perspektywy
+
+00:58:59.880 --> 00:59:02.880
+podejrzewam, że oni też ulegli temu hype'owi,
+
+00:59:02.880 --> 00:59:03.880
+być może błędnie.
+
+00:59:03.880 --> 00:59:06.880
+Nie mam pojęcia, no źle to zrobili.
+
+00:59:06.880 --> 00:59:08.880
+Ale mogli się nie zgodzić na to.
+
+00:59:08.880 --> 00:59:10.880
+To jest prosta decyzja.
+
+00:59:10.880 --> 00:59:14.880
+I tak na przykład Destructoid zrobił.
+
+00:59:14.880 --> 00:59:17.880
+Nawet Archon tak zrobił.
+
+00:59:17.880 --> 00:59:21.880
+Który nie kryje swojej miłości do CDP-u,
+
+00:59:21.880 --> 00:59:24.880
+ale wiedział, że...
+
+00:59:24.880 --> 00:59:26.880
+Rozumiesz, dostajesz pewne reguły
+
+00:59:26.880 --> 00:59:28.880
+i wtedy co się dzieje?
+
+00:59:28.880 --> 00:59:29.880
+Wtedy okazuje się,
+
+00:59:29.880 --> 00:59:31.880
+czy jesteś dziennikarzem, czy nie jesteś.
+
+00:59:31.880 --> 00:59:33.880
+I mówisz tak.
+
+00:59:33.880 --> 00:59:35.880
+No to dobra, to opieprzamy dziennikarzy.
+
+00:59:35.880 --> 00:59:38.880
+Bo mówisz o takim micie, który kiedyś był,
+
+00:59:38.880 --> 00:59:40.880
+czyli ambitnym dziennikarstwie.
+
+00:59:40.880 --> 00:59:42.880
+Ale to dalej jest.
+
+00:59:42.880 --> 00:59:45.880
+Ja polecam przeczytać recenzję
+
+00:59:45.880 --> 00:59:47.880
+z komputer świata Bartłomieja Siei,
+
+00:59:47.880 --> 00:59:49.880
+który dał 8 na 10.
+
+00:59:49.880 --> 00:59:50.880
+I to jest chyba z tych,
+
+00:59:50.880 --> 00:59:52.880
+które czytałem recenzji,
+
+00:59:52.880 --> 00:59:54.880
+najlepsza recenzja,
+
+00:59:54.880 --> 00:59:56.880
+która się pojawiła w Polsce.
+
+00:59:56.880 --> 00:59:59.880
+No i facet, jeżeli zrobi dobrą i rzetelną recenzję,
+
+00:59:59.880 --> 01:00:01.880
+to jest wielce prawdopodobne,
+
+01:00:01.880 --> 01:00:03.880
+że potem znowu jak gracze będą ciekawi
+
+01:00:03.880 --> 01:00:05.880
+czyjegoś zdania, to sprawdzą jego.
+
+01:00:05.880 --> 01:00:07.880
+Mam nadzieję.
+
+01:00:07.880 --> 01:00:09.880
+Taka jest korzyść z tego.
+
+01:00:09.880 --> 01:00:11.880
+Ja też mam nadzieję, że taka jest korzyść,
+
+01:00:11.880 --> 01:00:13.880
+że ludzie szanują tą rzetelność.
+
+01:00:13.880 --> 01:00:16.880
+Natomiast, kurde, no masz rację.
+
+01:00:16.880 --> 01:00:18.880
+Można było odmówić tej recenzji.
+
+01:00:18.880 --> 01:00:20.880
+Tylko z perspektywy dziennikarzy
+
+01:00:20.880 --> 01:00:22.880
+i z perspektywy tych serwisów
+
+01:00:22.880 --> 01:00:24.880
+to tak naprawdę były niezwykle istotne
+
+01:00:24.880 --> 01:00:26.880
+te kliki, które się uda zgromadzić
+
+01:00:26.880 --> 01:00:28.880
+po opublikowaniu recenzji.
+
+01:00:28.880 --> 01:00:31.880
+Kto da jaką notę, że tam będą odwiedziny
+
+01:00:31.880 --> 01:00:33.880
+i jak odmówisz wykonania tej roboty,
+
+01:00:33.880 --> 01:00:35.880
+no to biznesowo jesteś w plecy.
+
+01:00:35.880 --> 01:00:37.880
+I oczywiście, że ambitne dziennikarstwo
+
+01:00:37.880 --> 01:00:39.880
+powinno wychodzić poza to,
+
+01:00:39.880 --> 01:00:41.880
+ale świat jest taki, że pieniądz kręci.
+
+01:00:41.880 --> 01:00:43.880
+To zawsze kręciło, a teraz tym bardziej.
+
+01:00:43.880 --> 01:00:45.880
+Ja się zgadzam.
+
+01:00:45.880 --> 01:00:47.880
+Więc ktoś by zrobił tę recenzję.
+
+01:00:47.880 --> 01:00:49.880
+Nawet jakby jeden dziennikarz powiedział nie,
+
+01:00:49.880 --> 01:00:51.880
+to zaraz ktoś by się przytrafił na jego miejsce.
+
+01:00:51.880 --> 01:00:53.880
+Kogoś by wyznaczył innego.
+
+01:00:53.880 --> 01:00:55.880
+Ludzie, którzy robią recenzję dla portali,
+
+01:00:55.880 --> 01:00:57.880
+no to to jest ich robota.
+
+01:00:57.880 --> 01:00:59.880
+Nie ma za bardzo wyboru.
+
+01:00:59.880 --> 01:01:01.880
+Ale to jest tak,
+
+01:01:01.880 --> 01:01:05.880
+że ja nie jestem w stanie wyobrazić sobie,
+
+01:01:05.880 --> 01:01:07.880
+że ktoś poważnie podchodzi
+
+01:01:07.880 --> 01:01:09.880
+do dziennikarstwa growego
+
+01:01:09.880 --> 01:01:12.880
+i na podstawie tej gorszej wersji gry
+
+01:01:12.880 --> 01:01:14.880
+niż Day One Patch
+
+01:01:14.880 --> 01:01:16.880
+daje 10 na 10.
+
+01:01:16.880 --> 01:01:18.880
+Mimo, że to są moi koledzy.
+
+01:01:18.880 --> 01:01:20.880
+Pozdrawiam.
+
+01:01:20.880 --> 01:01:22.880
+Nie bierzcie tego osobiście.
+
+01:01:22.880 --> 01:01:24.880
+Czytałem tę recenzję.
+
+01:01:24.880 --> 01:01:26.880
+Parę osób już się tam tłumaczyło.
+
+01:01:26.880 --> 01:01:29.880
+IGN się chyba tłumaczył już w ogóle oficjalnie.
+
+01:01:29.880 --> 01:01:31.880
+Dlaczego taką dał recenzję.
+
+01:01:31.880 --> 01:01:34.880
+Ale to jest super nie fair.
+
+01:01:34.880 --> 01:01:36.880
+Będąc dziennikarzem,
+
+01:01:36.880 --> 01:01:38.880
+ja wiem, że to jest trudna robota,
+
+01:01:38.880 --> 01:01:40.880
+bo to trzeba teraz balansować
+
+01:01:40.880 --> 01:01:43.880
+między tą komercją a ideałami.
+
+01:01:43.880 --> 01:01:45.880
+Ale naprawdę
+
+01:01:45.880 --> 01:01:48.880
+waszymi klientami są ludzie,
+
+01:01:48.880 --> 01:01:51.880
+a nie twórcy gier.
+
+01:01:51.880 --> 01:01:53.880
+Ani wydawcy.
+
+01:01:53.880 --> 01:01:57.880
+Tylko ludzie, którzy grają, gracze.
+
+01:01:57.880 --> 01:01:59.880
+Masz rację.
+
+01:01:59.880 --> 01:02:01.880
+Dlatego zawsze mówiłem,
+
+01:02:01.880 --> 01:02:04.880
+że recenzent to jest najgorsza robota w tej branży.
+
+01:02:04.880 --> 01:02:06.880
+Bo z jednej strony gry to jest coś,
+
+01:02:06.880 --> 01:02:08.880
+co musisz kochać,
+
+01:02:08.880 --> 01:02:10.880
+a z drugiej strony musisz je rozbierać
+
+01:02:10.880 --> 01:02:12.880
+na czynniki pierwsze.
+
+01:02:12.880 --> 01:02:14.880
+Ja sięgałem po tę analogię,
+
+01:02:14.880 --> 01:02:16.880
+która jest bardzo zrozumiała
+
+01:02:16.880 --> 01:02:18.880
+i mi się przypomina.
+
+01:02:18.880 --> 01:02:20.880
+Ona jest może nie kulturalna tak do końca,
+
+01:02:20.880 --> 01:02:22.880
+ale jest związana z seksem.
+
+01:02:22.880 --> 01:02:24.880
+Dobra gra jest jak dobry seks,
+
+01:02:24.880 --> 01:02:26.880
+a jak musisz to analizować
+
+01:02:26.880 --> 01:02:28.880
+i w każdym momencie się zatrzymywać
+
+01:02:28.880 --> 01:02:30.880
+i wyłapywać błędy np. partnerki,
+
+01:02:30.880 --> 01:02:32.880
+no to nie masz tej przyjemności z tego grania.
+
+01:02:32.880 --> 01:02:34.880
+I dlatego recenzent ma przechlapane.
+
+01:02:34.880 --> 01:02:36.880
+Bo po pierwsze nie może się cieszyć grą
+
+01:02:36.880 --> 01:02:38.880
+tak jak każdy inny gracz.
+
+01:02:38.880 --> 01:02:40.880
+To jeszcze dodatkowo potem dostaje opierdziel
+
+01:02:40.880 --> 01:02:42.880
+jeżeli da niewłaściwą notę
+
+01:02:42.880 --> 01:02:44.880
+i wyróżniającą się opinii ludzi.
+
+01:02:44.880 --> 01:02:46.880
+Dlatego ja nigdy nie byłem recenzentem,
+
+01:02:46.880 --> 01:02:48.880
+może gdzieś tam przez przypadek ze dwa razy.
+
+01:02:48.880 --> 01:02:50.880
+Ale po tym doświadczeniu nigdy nie zamierzałem być
+
+01:02:50.880 --> 01:02:52.880
+bo to jest okropna rzecz.
+
+01:02:52.880 --> 01:02:54.880
+To jest straszne.
+
+01:02:54.880 --> 01:02:56.880
+Ja się trochę z tobą nie zgodzę.
+
+01:02:56.880 --> 01:02:58.880
+Ja znam wielu recenzentów filmów,
+
+01:02:58.880 --> 01:03:00.880
+którzy czerpią bardzo dużo radości.
+
+01:03:00.880 --> 01:03:02.880
+Zresztą to jest rzecz,
+
+01:03:02.880 --> 01:03:04.880
+którą ja uwielbiam robić.
+
+01:03:04.880 --> 01:03:06.880
+Jak jeżdżę na festiwale filmowe
+
+01:03:06.880 --> 01:03:08.880
+to aż po prostu się wiesz
+
+01:03:08.880 --> 01:03:10.880
+nie mogę doczekać,
+
+01:03:10.880 --> 01:03:12.880
+aż spotkam się z ludźmi,
+
+01:03:12.880 --> 01:03:14.880
+z którymi będę mógł
+
+01:03:14.880 --> 01:03:16.880
+podyskutować o tym filmie.
+
+01:03:16.880 --> 01:03:18.880
+Rozebrać go po prostu na czynniki pierwsze.
+
+01:03:18.880 --> 01:03:20.880
+Ponarzekać na te rzeczy,
+
+01:03:20.880 --> 01:03:22.880
+które mi się nie podobają.
+
+01:03:22.880 --> 01:03:24.880
+Oczywiście, że masz rację.
+
+01:03:24.880 --> 01:03:26.880
+Oczywiście, że masz rację w kwestii filmów.
+
+01:03:26.880 --> 01:03:28.880
+Wydaje mi się, że gry to jest dłuższe przeżycie
+
+01:03:28.880 --> 01:03:30.880
+i czasami może być głębsze
+
+01:03:30.880 --> 01:03:32.880
+w zależności od tego,
+
+01:03:32.880 --> 01:03:34.880
+na jaką pozwolisz sobie
+
+01:03:34.880 --> 01:03:36.880
+interakcję z tym światem,
+
+01:03:36.880 --> 01:03:38.880
+jak bardzo w niego uwierzysz.
+
+01:03:38.880 --> 01:03:40.880
+Bardzo mocno trzeba zawiesić
+
+01:03:40.880 --> 01:03:42.880
+rozsądek zdrowy podczas grania w gry.
+
+01:03:42.880 --> 01:03:44.880
+Tam jest dużo uproszczeń,
+
+01:03:44.880 --> 01:03:46.880
+jest dużo symulacji.
+
+01:03:46.880 --> 01:03:48.880
+Relacje między postaciami są bardzo umowne
+
+01:03:48.880 --> 01:03:50.880
+i musisz trochę własną wyobraźnią
+
+01:03:50.880 --> 01:03:52.880
+je wzbogacić, żeby się dobrze
+
+01:03:52.880 --> 01:03:54.880
+z tym wszystkim bawić, więc gry są dużo bardziej
+
+01:03:54.880 --> 01:03:56.880
+złożone pod tym względem.
+
+01:03:56.880 --> 01:03:58.880
+Filmy dużo łatwiej oddają relacje międzyludzkie
+
+01:03:58.880 --> 01:04:00.880
+na przykład, więc tam jest
+
+01:04:00.880 --> 01:04:02.880
+gry są odrobinę bardziej skomplikowane
+
+01:04:02.880 --> 01:04:04.880
+pod tym względem,
+
+01:04:04.880 --> 01:04:06.880
+ale wiesz, może się mylę, może są też ludzie,
+
+01:04:06.880 --> 01:04:08.880
+którzy fantastycznie bawią się, będąc
+
+01:04:08.880 --> 01:04:10.880
+recenzentami, ja bym nie mógł,
+
+01:04:10.880 --> 01:04:12.880
+ale to jest moje osobiste doświadczenie i przekonanie.
+
+01:04:12.880 --> 01:04:14.880
+Ja myślę, że są
+
+01:04:14.880 --> 01:04:24.880
+właśnie po 2-3 miliardy
+graczy,
+
+01:04:24.880 --> 01:04:28.880
+którzy cały czas
+
+01:04:28.880 --> 01:04:33.080
+To nie chodzi o to, że ty nie idziesz na układ z CDP-em i dajesz od razu 2 na 10.
+
+01:04:33.080 --> 01:04:41.880
+Nie. Ty mówisz, ja robię to na takich, a nie innych warunkach, bo chcę być fair wobec moich czytelników, widzów.
+
+01:04:41.880 --> 01:04:44.880
+Wydaje mi się, że to jest podstawa pewna.
+
+01:04:44.880 --> 01:04:48.880
+No dobra, zgadzam się, to jest dyskusyjne nawet.
+
+01:04:48.880 --> 01:04:58.880
+8 milionów preorderów, to jest 8 milionów ludzi, którzy chcą potwierdzenia swojej decyzji zakupowej.
+
+01:04:58.880 --> 01:05:05.880
+I też rozumiem, nawet jak ktoś wystawił 8 na 10, czy zdarzały się też niższe oceny, bo tam chyba 7 była najniższa?
+
+01:05:05.880 --> 01:05:08.880
+Dokładnie, czy 6,5 nawet? Nie, nie pamiętam.
+
+01:05:08.880 --> 01:05:15.880
+To był zalew hejtu. Inaczej chyba tego nie można nazwać.
+
+01:05:15.880 --> 01:05:19.880
+Do premiery, bo po premierze już jakby się to odwróciło.
+
+01:05:19.880 --> 01:05:25.880
+Oczywiście kładziemy nacisk na wartość recenzji i być może dla wielu graczy są one niezwykle istotne.
+
+01:05:25.880 --> 01:05:27.880
+Dla mnie nie mają żadnego znaczenia, nigdy nie miały.
+
+01:05:27.880 --> 01:05:32.880
+Natomiast wydaje mi się, że gro tych preorderów nastąpiło jeszcze przed pojawieniem się tych pierwszych recenzji.
+
+01:05:32.880 --> 01:05:36.880
+Nie, na pewno, to półtora roku chyba to sprzedawali.
+
+01:05:36.880 --> 01:05:41.880
+Poza tym, to jest tak, że ta decyzja zakupowa, którą mogłeś podjąć...
+
+01:05:41.880 --> 01:05:49.880
+Zazwyczaj, bo ja mówię o tych preorderach, mówię, że jest 8 milionów ludzi, którzy oczekuje potwierdzenia swojej decyzji.
+
+01:05:49.880 --> 01:05:53.880
+Dobrze Cię zrozumiałem, tylko inną myśl tutaj opowiadam.
+
+01:05:53.880 --> 01:05:58.880
+Że w zasadzie między publikacją recenzji a dostępem do gry to był jeden dzień i ludzie szybko mogli się...
+
+01:05:58.880 --> 01:06:01.880
+Chociaż nie, bo na Metacritic trzeba dwa dni poczekać.
+
+01:06:01.880 --> 01:06:02.880
+Tak.
+
+01:06:02.880 --> 01:06:04.880
+Dziewiątego były chyba, czy ósmego były te recenzje?
+
+01:06:04.880 --> 01:06:12.880
+Dziewiątego były recenzje, a dopiero w piątek można było na Metacritic o 21, czyli 11.
+
+01:06:12.880 --> 01:06:14.880
+No to pięć dni, nie?
+
+01:06:14.880 --> 01:06:17.880
+Oczywiście, że to pewnie sprzedało trochę gier.
+
+01:06:17.880 --> 01:06:23.880
+Chociaż przyznam, że to pięciodniowe okno w odniesieniu do ośmiu lat czekania to pewnie nie ma dużego znaczenia.
+
+01:06:23.880 --> 01:06:27.880
+Przypomnę, że najwięcej gier się sprzedaje na premierę.
+
+01:06:27.880 --> 01:06:39.880
+Okej, okej, przestań przyciskać do ściany. Zgadzam się, że te recenzje były błędne i zgadzam się, że powinno być bardziej brać pod uwagę wiele rzeczy, o których żeś dzisiaj wspomniał.
+
+01:06:39.880 --> 01:06:45.880
+Dla mnie nie ma to żadnego znaczenia, ale może dla ludzi, którzy kupują, może być ogromne.
+
+01:06:45.880 --> 01:06:57.880
+Ja cały czas liczę na jakąś taką, jakiś trochę rikczu ze strony recenzentów na całym świecie i że rzetelnie zrobią kolejne recenzje na konsolę.
+
+01:06:57.880 --> 01:07:11.880
+Ja sobie nie wyobrażam, że miałbym wrzucić recenzję, która pojawia się na Metacritic i po tym, co się wydarzyło z konsolami, nie próbować tego zrekompensować w jakiś sposób.
+
+01:07:11.880 --> 01:07:27.880
+Szczerze powiedzieć o tych wersjach na konsolę, bo na razie prasa oceniła dziesięć na dziesięć, dziewięć na dziesięć, a na konsolę to tylko mówią, że słabo chodzi. Nie ma tutaj, wiesz…
+
+01:07:27.880 --> 01:07:41.880
+W jaki sposób mnie to dotyka, że wersja na konsoli źle chodzi? Mam świadomość, że Redzi polecieli w kulki i oszukali ludzi w ten sposób.
+
+01:07:41.880 --> 01:07:50.880
+Ale nie rozmawiamy tylko tutaj w naszym programie o tym, czy Cię coś obchodzi, czy nie. To jest problem, który dotyczy dużej liczby graczy.
+
+01:07:50.880 --> 01:07:58.880
+Czekaj, bo to nie chodzi o mnie. Podałem swój przykład, zakładając, że jest wielu graczy, którzy się bawią na tym PC-cie i bawią się dobrze.
+
+01:07:58.880 --> 01:08:09.880
+Oczywiście i mamy na to dowody. Recenzji na Steam jest 135 tysięcy, tak? Czy ja dobrze to przeczytałem? Chyba już tyle jest.
+
+01:08:09.880 --> 01:08:22.880
+79% jest pozytywnych, a te negatywne mówią, że minął się trochę CD Projekt z tym, co to znaczy rekomendowane wymagania.
+
+01:08:22.880 --> 01:08:34.880
+Bo w tym, co podali, te rekomendowane to są minimalne. Na GOG-u ocenę ma 3,8 na 5, ale jest bardzo dużo negatywów,
+
+01:08:34.880 --> 01:08:44.880
+które mówią o problemach z uruchomieniem gry w premierę, ponieważ tam było takie okno.
+
+01:08:44.880 --> 01:08:51.880
+U mnie to trwało 15 minut, zanim mi się uruchomił Cyberpunk, ale ludzie mogli się sfrustrować.
+
+01:08:51.880 --> 01:09:00.880
+Ja zwykle biorę poprawkę, że tak duże premiery mogą mieć start technicznie. Nie jest to wykonalne, żeby się zabezpieczyć.
+
+01:09:00.880 --> 01:09:10.880
+Można zupełnie spokojnie przyjąć, że 8 na 10 to jest taka w miarę rzetelna ocena i że z czasem będzie pewnie szło do przodu, że będzie lepiej.
+
+01:09:10.880 --> 01:09:17.880
+Na PC-cie podkreślamy, na bardzo mocnym PC-cie wprost z NASA.
+
+01:09:17.880 --> 01:09:26.880
+A na konsolach tej starej generacji trzeba jasno powiedzieć, że to jest 2 na 10 i lepiej już nie będzie, bo to się nie da tego poprawić.
+
+01:09:26.880 --> 01:09:30.880
+No właśnie, więc sobie zacznijmy temat wersji konsolowych.
+
+01:09:30.880 --> 01:09:33.880
+Jezu Borys, to mi zaraz się miejsce na dysku skończy.
+
+01:09:33.880 --> 01:09:40.880
+Nie, ci się nie skończy, spokojnie. Przez 20 minut i kończy. Najdłuższy podcast, coś czuję, że będzie dzisiaj najdłuższy.
+
+01:09:40.880 --> 01:09:46.880
+Nikt nie dostał wersji recenzenckiej na konsolę, przynajmniej przed premierą.
+
+01:09:46.880 --> 01:09:59.880
+Po pierwszych opiniach takich, że gra jest niegrywalna na tych podstawowych wersjach, czyli na Facie i na pierwszym Xboxie.
+
+01:09:59.880 --> 01:10:06.880
+Trochę jest opinii, że na Pro i na One X da się grać, ale i tak to wygląda źle i chodzi źle.
+
+01:10:06.880 --> 01:10:09.880
+Dużo lepiej jest na konsolach nowej generacji.
+
+01:10:09.880 --> 01:10:20.880
+Praktycznie od samego dnia premiery internet zalały, totalnie z każdego konta wychodziły filmiki, jak ta gra źle potrafi wyglądać na konsolach.
+
+01:10:20.880 --> 01:10:28.880
+Ja polecam też dla jasności, w jakiej sytuacji my jesteśmy teraz, zobaczyć sobie,
+
+01:10:28.880 --> 01:10:36.880
+chyba 19 listopada pojawiły się oficjalne zwiastuny gameplayu z Xboxa i z PlayStation.
+
+01:10:36.880 --> 01:10:45.880
+Poradzam sobie porównać jak to wygląda, bo ja gram na Xbox One X, czyli najmocniejszej konsoli poprzedniej generacji.
+
+01:10:45.880 --> 01:10:51.880
+I co ciekawe, Prolog, czyli to co zajmuje jakieś 4 godziny jest OK.
+
+01:10:51.880 --> 01:10:58.880
+Oczywiście to tak nie wygląda, gliczy jest tyle, że masakra, ale da się w to grać, jest w miarę płynnie.
+
+01:10:58.880 --> 01:11:03.880
+Gra jest jakaś taka płaska, z oświetleniem jest problem, jest taka szara.
+
+01:11:03.880 --> 01:11:11.880
+Mało ludzi, to od razu widać, tam wchodzisz do klubu, to na PC miałem pół klubu, tutaj cztery osoby stały.
+
+01:11:11.880 --> 01:11:23.880
+Miałem jeden bloker, wywaliła mi się gra na konsoli, a już mówię o tej wersji, bo dzisiaj grałem na tej wersji 1.0.4, żeby była jasność.
+
+01:11:23.880 --> 01:11:36.880
+I jak przeszedłem ten Prolog i wyjechałem na miasto, to ja już odpadłem. To jak to wyglądało na Xbox One X, to jest po prostu tragedia.
+
+01:11:36.880 --> 01:11:47.880
+Ta gra w takim stanie nie nadaje się do testów, a co dopiero do wypuszczania ją na konsolę.
+
+01:11:47.880 --> 01:11:53.880
+I mamy tutaj kilka aspektów tej sprawy. Pierwszy, jak to zdobyło certyfikację.
+
+01:11:53.880 --> 01:12:05.880
+To jest podstawowa rzecz, o której chciałem się dowiedzieć. Jakim cudem PlayStation i Microsoft przepuściło grę w takim stanie przez te certyfikacje? To jest jakaś tragedia.
+
+01:12:05.880 --> 01:12:14.880
+Nie mam zielonego pojęcia. PlayStation już chyba ogłosiło, przynajmniej nie wiem czy oficjalnie czy nie, że będzie zwracać.
+
+01:12:14.880 --> 01:12:19.880
+No i wcale się nie dziwię. Ja też podejrzewam, że zwroty to będą normą w przypadku tej starej generacji.
+
+01:12:19.880 --> 01:12:29.880
+Co ciekawe, wydaje mi się, że bardzo dużo zwrotów było na Steamie, ponieważ Steam pokazuje zgłoszenia do helpdesku, czym są zwroty.
+
+01:12:29.880 --> 01:12:40.880
+Możesz sobie taki wykres zrobić i dzień po premierze Cyberpunka albo dzień w premiery był taki pik o 270 tysięcy.
+
+01:12:40.880 --> 01:12:47.880
+Co jest raczej dużo, ale rozumiem, że to jest pewnie związane z wymaganiami sprzętowymi.
+
+01:12:47.880 --> 01:12:59.880
+Michał Mielcarek, znany polski dziennikarz, obecnie game developer, napisał, że jeżeli chodzi o certyfikacje na Twitterze,
+
+01:12:59.880 --> 01:13:10.880
+że tak duże studia mające rozhajpowane gry dostają ulgowe traktowanie, bo Sony i Microsoft dobrze wiedzą, ile na Cyberpunku zarobią.
+
+01:13:10.880 --> 01:13:13.880
+Tak, to jest ten argument, który pewnie przeważył tam.
+
+01:13:13.880 --> 01:13:24.880
+I zastanawiam się, bo pewnie te zwroty będą. Ja nie wiem jak wygląda w Polsce na przykład zwrot otwartego pudełka z grą. Czy to jest takie proste do realizacji?
+
+01:13:24.880 --> 01:13:27.880
+Nie wiem, nie mam pojęcia.
+
+01:13:27.880 --> 01:13:34.880
+Pytanie, czy zrobią coś więcej, bo ja nie przypominam sobie takiej historii.
+
+01:13:34.880 --> 01:13:44.880
+Przypominam sobie, jak Arkham Knight wychodziło na PeCeta i to było totalnie niegrywalne i wydawca cofnął grę.
+
+01:13:44.880 --> 01:13:57.880
+Pamiętasz? Tak, tak, pamiętam, ale totalnie u mnie chodziło. Po raz kolejny to jest case kosmicznego PeCeta, więc ja przyszedłem tam na premierę tę grę.
+
+01:13:57.880 --> 01:14:09.880
+Tak, ale oni cofnęli i tam po paru miesiącach chyba wydali ją ponownie. Fallout 76 to też jest takie, że ta gra fatalnie wyglądała, wywalała się na PlayStation.
+
+01:14:09.880 --> 01:14:16.880
+To taka najświeższa rzecz, gdzie rzeczywiście gra źle chodziła i oni ją tam ułatali, obiecywali.
+
+01:14:16.880 --> 01:14:26.880
+Ja sobie odinstalowałem ostatnio tę grę, bo nie mam serca już do tego, mimo mojego wielkiego serduszka do Fallouta.
+
+01:14:26.880 --> 01:14:33.880
+Niby zmieniają coś, psują coś innego, cały czas jest taki rollercoaster.
+
+01:14:33.880 --> 01:14:42.880
+Jeżeli sobie popatrzymy, jak ta gra wygląda, a wygląda naprawdę na tych bazowych konsolach bardzo źle, wygląda jak GTA Vice City tak naprawdę.
+
+01:14:42.880 --> 01:14:56.880
+Nie ma... są dropy klatek do 15 sekund. Oczywiście, tak jak na Xbox One X, jak dzieje się akcja w budynku, to spoko mi się gra, naprawdę.
+
+01:14:56.880 --> 01:15:03.880
+Ale odpala się to miasto i w szczególności w dzień jest bardzo, bardzo źle.
+
+01:15:03.880 --> 01:15:11.880
+Ja tylko przypomnę, że twórcy jeszcze jakiś czas temu mówili, że ta gra będzie ukoronowaniem obecnej generacji konsol.
+
+01:15:11.880 --> 01:15:19.880
+I mówili to jakiś czas temu jeszcze przed PlayStation 5, więc dla pewności mówili to o PlayStation 4 i Xbox One.
+
+01:15:19.880 --> 01:15:26.880
+Miesiąc temu Adam Kiciński powiedział, że wygląda zaskakująco dobrze na obecnych konsolach.
+
+01:15:26.880 --> 01:15:30.880
+I też to mówił o tej poprzedniej generacji.
+
+01:15:30.880 --> 01:15:39.880
+Już nawet nie wspomnę o takich rzeczach, że jak twórcy mówili, że tam jest taki detal, że każdy śmieć jest ustawiany ręcznie.
+
+01:15:39.880 --> 01:15:53.880
+I to, że były zmieniane wymagania sprzętowe, zmniejszone były wymagania sprzętowe na PC, które okazały się nieprawdziwe po prostu.
+
+01:15:53.880 --> 01:16:00.880
+Podobnie Cascade Shadows, rozdzielczość tych cieni kaskadowych, to się tak nazywa.
+
+01:16:00.880 --> 01:16:04.880
+Tak, tak, tak. Wszyscy polecają zredukować do średnich. Ja też mam.
+
+01:16:04.880 --> 01:16:06.880
+U mnie to nic nie zmieniło.
+
+01:16:06.880 --> 01:16:09.880
+W sensie Xboxa?
+
+01:16:09.880 --> 01:16:10.880
+Nie, w PC-ta.
+
+01:16:10.880 --> 01:16:14.880
+A, no nie, nie. U mnie też nie, ale skoro mówią, że to strasznie pożera wydajność, to zredukowałem.
+
+01:16:14.880 --> 01:16:26.880
+Jeżeli ktoś jeszcze pamięta, jakie mamy komputery, to ta gra, ja grałem oczywiście na Ultra, ona mi spadała do 35 klatek w tym mieście, gdzie jechałem.
+
+01:16:26.880 --> 01:16:34.880
+Ja mam odpalony cały czas licznik klatek w prawym górnym rogu, więc sobie to sprawdzam.
+
+01:16:34.880 --> 01:16:38.880
+Okej, okej, okej. No jest, jest, jest zabugowana.
+
+01:16:38.880 --> 01:16:44.880
+To całą filozofię produkcji, reklamy tej gry trzeba by sobie na spokojnie omówić.
+
+01:16:44.880 --> 01:16:51.880
+Wiesz, ja mam tak z perspektywy gracza pecetowego, który teraz się bawi bardzo dobrze i właściwie gra jest spełnieniem jego marzeń, to myślę sobie,
+
+01:16:51.880 --> 01:17:00.880
+Boże, no to gdyby ta gra nie była taka fatalna na PS4, gdyby ją zoptymalizowali pod starą generację, to pewnie dzisiaj nie miałbym takiej cudownej gry na PC.
+
+01:17:00.880 --> 01:17:12.880
+Ale z jakiejś uczciwości, która mogłaby być bardzo fajna dla Redów, fajnie by było, gdyby podarowali sobie tą premierę na starej generacji.
+
+01:17:12.880 --> 01:17:13.880
+Ale to się już było.
+
+01:17:13.880 --> 01:17:17.880
+No wiem, to już jest po fakcie i to nie jest coś, z czego będą dumni.
+
+01:17:17.880 --> 01:17:27.880
+Nie sądzę, żeby to się dało naprawić na starą generację. Myślę, że to będzie już taki grzech, który do nich przylgnie i na pewno na zaufaniu stracą.
+
+01:17:27.880 --> 01:17:35.880
+Zwłaszcza, wiesz, ja operuję w tym środowisku graczy pecetowych albo moich widzów na streamie, którzy są zadowoleni z tego, jak to wygląda tutaj u mnie.
+
+01:17:35.880 --> 01:17:43.880
+Natomiast to środowisko graczy, którzy bawią się tylko na konsolach, no to na pewno nie są szczęśliwi, co najmniej mówiąc.
+
+01:17:43.880 --> 01:17:51.880
+Więc to duży grzech Redów. Duży grzech firmy, która uchodziła za najlepszą, najbardziej godną zaufania w branży.
+
+01:17:51.880 --> 01:17:53.880
+Najbardziej pro-konsumencką.
+
+01:17:53.880 --> 01:17:59.880
+No, no, więc tak. To jest też tak, wiesz, Wiedźmin 3 też miał swoje wady przy premierze.
+
+01:17:59.880 --> 01:18:01.880
+I na konsolach też chodził słabo.
+
+01:18:01.880 --> 01:18:06.880
+Nawet powiem szczerze, że Wiedźmin 3 chodził mi gorzej, niż teraz chodzi mi Cyberpunk.
+
+01:18:06.880 --> 01:18:12.880
+Ja miałem tam błędy, że na początku gry mi parę razy wywaliło ją totalnie, musiałem parę opcji tam powyłączać, więc miałem dużo więcej problemów z Wiedźminem 3.
+
+01:18:12.880 --> 01:18:15.880
+Tam był ten ubershampling, to się nazywało, to pamiętam, to zabijało.
+
+01:18:15.880 --> 01:18:24.880
+Fireworksy, jakieś NVIDI też tam nie działały, więc musiałem to lokalizować. Cyberpunk mi trochę lepiej chodzi, znaczy dużo lepiej mi chodzi, niż Wiedźmin 3.
+
+01:18:24.880 --> 01:18:32.880
+To z czasem, wiesz, oni będą pracowali nad tym, żeby ulepszyć. Nie sądzę, żeby byli w stanie to zrobić na starej generacji, jeżeli nie zrobili tego do tej pory.
+
+01:18:32.880 --> 01:18:43.880
+Wiesz, jest takie bardzo proste przypuszczenie, i ono się zdaje być prawdziwe, że ten rok opóźnień to właśnie wynikał z tej starej generacji, że nie byli w stanie tego przez rok poprawić.
+
+01:18:43.880 --> 01:18:48.880
+Nie sądzę, żeby to poprawili przez najbliższe 10, tego się nie da, to nie jest sprzęt, który jest w stanie to udźwignąć.
+
+01:18:48.880 --> 01:19:01.880
+To na pewno nie będzie taka gra, jaką obiecywali. Ja przypomnę tutaj spiżowe słowa słynnego, może nie słynnego, ale polskiego dewelopera Adama Bieniasa,
+
+01:19:01.880 --> 01:19:07.880
+który powiedział, że w gamedevie wszystko jest możliwe, ale jest to kwestia czasu i pieniędzy.
+
+01:19:07.880 --> 01:19:14.880
+Jest szansa dla starej generacji z Cyberpunkiem?
+
+01:19:14.880 --> 01:19:29.880
+Nie wiem, nie wiem, czy oni są w stanie. Plotki chodzą takie, że to nie jest kwestia naprawienia jakichś błędów, że nie ma planu na to.
+
+01:19:29.880 --> 01:19:40.880
+Zresztą widać, że nie ma planu na patche, tam widać, że jest jakiś straszny chaos, większość studia jest na urlopach, reszta łata.
+
+01:19:40.880 --> 01:19:58.880
+Nie wygląda to za dobrze, bo to nie jest tak, że weźmiesz sobie teraz nawet Wiedźmina i tak go zmienisz, że odpali się w takiej samej jakości na pierwszym Xboksie oryginalnym.
+
+01:19:58.880 --> 01:20:12.880
+No nie do końca tak to działa. Czy to jest możliwe, że oni to ogarną? Tak, jest to możliwe. Moim zdaniem jest to mało prawdopodobne.
+
+01:20:12.880 --> 01:20:29.880
+Prędzej ludzie przejdą na nową generację. Jedyne co broni tą wersję gry na starej generacji to to, że masz za darmo upgrade do kolejnej, czyli nie musisz kupować nowej gry, żeby sobie pograć, więc w zasadzie kupiłeś grę na nową generację, na starą nie odpalisz.
+
+01:20:29.880 --> 01:20:44.880
+Mi bardzo zależy na tym, żeby ten świat się rozwijał, żeby trafiały dodatki, bo jak oni teraz się skupią na patchowaniu gry na starej generacji, to w ogóle nigdzie nie pójdziemy do przodu. Będziemy się kisić na tych pecetach i na nowej generacji konsol do czasu, aż oni tego nie naprawią.
+
+01:20:44.880 --> 01:21:00.880
+Ja myślę, że Sony i Microsoft nie odpuści tego, znaczy gracze też nie odpuszczą i wyobraź sobie, że jesteś w takiej sytuacji, że np. nie wziąłeś sobie, przecież nie ma nowych konsol, do tej pory nie idzie ich kupić.
+
+01:21:00.880 --> 01:21:05.880
+No to na czym masz grać? Złożysz sobie peceta za 8 tysięcy?
+
+01:21:05.880 --> 01:21:20.880
+No nie, no wiem, to jest idiotyczne, brak mi słów, żeby opisać to i to nikomu z graczy konsolowych nie rekompensuje dobra ocena na pececie, to nie ma żadnego znaczenia.
+
+01:21:20.880 --> 01:21:38.880
+Ja mam wrażenie, że żyję w trochę innym świecie, to jest tak, że my tutaj mamy w Polsce takie warunki, jak ktoś mi opowiada, w Afryce to nie mają co jeść i ty wiesz, nie czujesz tego, no bo ty masz, to niestety cyberpunk na konsolach to jest taka konsolowa Afryka.
+
+01:21:38.880 --> 01:21:45.880
+No tak to wygląda, tam ludzie umierają z głodu, jest gorąco i w ogóle to chrzaną.
+
+01:21:45.880 --> 01:21:52.880
+Ja się zastanawiam, jakie będą konsekwencje, giełda leci strasznie dla CDP-u.
+
+01:21:52.880 --> 01:22:05.880
+Nie wiązałbym tego z giełdą, w sensie giełda, jak się prześledzi, ja też przed premierą Cyberpunka prześledziłem wyniki Wiedźmina 3, jakby na giełdzie wyglądała sytuacja, więc po premierze też poleciał bardzo mocno.
+
+01:22:05.880 --> 01:22:20.880
+Oczywiście, bo jest szczyt, więc ludzie sprzedają, ale zobaczymy co po tym, to ma ogromny wpływ, że Sony pozwala bez problemu zwracać tą grę, to już będzie miało wpływ na ceny.
+
+01:22:20.880 --> 01:22:23.880
+Tak, bo to wpłynie na te przychody.
+
+01:22:23.880 --> 01:22:35.880
+To jak wygląda, to co biorą, bo wiesz, oczywiście giełda, ja tego nie rozumiem, ale to jak gracze oceniają grę na Metacritic-u, to też będzie miało wpływ.
+
+01:22:35.880 --> 01:22:36.880
+Tak, tak.
+
+01:22:36.880 --> 01:22:56.880
+I nie wiem, zastanawiam się, bo dla mnie problem jest podstawowy tutaj i to jest taki problem, o którym mało kto mówi, bo teraz gracze, którzy są bardzo zawiedzieni, a byli super podhypowani,
+
+01:22:56.880 --> 01:23:11.880
+przez ostatnie dwa lata to już była masakra i dostają produkt, który nie spełnia warunków tego, żeby była pełnowartościową grą na konsolę, nie spełnia.
+
+01:23:11.880 --> 01:23:19.880
+I to nawet Digital Foundry napisało, że nie rekomendują zakupu na konsolę.
+
+01:23:19.880 --> 01:23:21.880
+To nie trzeba być Digital Foundry, żeby to widzieć.
+
+01:23:21.880 --> 01:23:38.880
+Wystarczy sobie odpalić jakikolwiek stream z PS4 i baty za to zbiorą devowie, już zbierają, już się wylewa na nich hejt, a kto jest za to odpowiedzialny?
+
+01:23:38.880 --> 01:23:44.880
+Oczywiście, że tutaj to nie macie niewątpliwości, że będzie to zarząd, no bo kto inny?
+
+01:23:44.880 --> 01:23:53.880
+Kto decyduje kiedy i jak wydawać jaką grę? Kto to wszystko akceptuje? Kto od strony Sony zaakceptował te gry? Jak to się odbyło?
+
+01:23:53.880 --> 01:24:14.880
+Przecież u mnie we Wszystko z Nami w Porządku jest taka scena, gdzie chłopaki robią Liśpira, tak, ale jakby wrzucają go do Sony i dostają odrzucenie, ponieważ na którejś tam grafice jest spacja.
+
+01:24:14.880 --> 01:24:25.880
+To się nie zgadza, bo to musi być wszystko od PlayStation. Takie drobne rzeczy wyłapują tam bez problemu, ale to, że gra nie działa na konsoli, to wypuszczają.
+
+01:24:25.880 --> 01:24:44.880
+Ja zastanawiam się, czy to będzie miało, bo to jest gruba rzecz, nie przypominam sobie takiego zderzenia się z rzeczywistością.
+
+01:24:44.880 --> 01:24:57.880
+Samego PlayStation jest 120 milionów, 50 milionów Xboxa.
+
+01:24:57.880 --> 01:25:06.880
+To jest dla mnie niewyobrażalne, bo ludzie w studiu musieli wiedzieć, jak to wygląda. Ja nie wiem, jak oni rozmawiali na ten temat.
+
+01:25:06.880 --> 01:25:21.880
+Wypuścimy to, może się nic nie zdarzy. Ale to jest ogromny projekt, tam jest dział, który to wszystko składa i ty pracujesz nad jakimś swoim wycinkiem gry.
+
+01:25:21.880 --> 01:25:26.880
+Ale wiesz, że to jest niegrywalne totalnie. Gdzieś tam siedzi na szczycie facet i mówi…
+
+01:25:26.880 --> 01:25:37.880
+Ale przychodzi szef i mówi, mamy to wydać, ale to jest niegrywalne. No i co z tego? Mamy to wydać, musimy to wydać teraz. Przecież kupione reklamy były na finale NBA. No to musimy to wydać.
+
+01:25:37.880 --> 01:25:40.880
+Oczywiście, że to jest…
+
+01:25:40.880 --> 01:25:42.880
+Tutaj rządzi marketing.
+
+01:25:42.880 --> 01:26:00.880
+Wiem, wiem. Ja też tego nie chcę się w to wgłębiać. Wiem, że oczywiście pieniądze o tym zadecydowały. Moje pytania, dlaczego tak zrobili, są czysto retoryczne, bo jestem świadom tego. Jakby tutaj pieniądze zadecydowały. Natomiast wydaje mi się, że konsekwencje będą dużo gorsze niż te pieniądze przyniosą zyski.
+
+01:26:00.880 --> 01:26:10.880
+Bo to jest tak, gdyby zdecydowali się, chociaż pół roku temu, nawet rok temu poinformować, że to wychodzi na PS5. Chociaż pewnie rok temu jeszcze podejrzewali, że dadzą radę.
+
+01:26:10.880 --> 01:26:26.880
+Ja tylko przypomnę, że rok temu w styczniu, pod koniec stycznia, kiedy poszła informacja o przesunięciu, pierwszym przesunięciu Cyberpunka z tej kwietniowej daty, to my zrobiliśmy taki podcast, dlaczego został przesunięty.
+
+01:26:26.880 --> 01:26:46.880
+Ja tam powiedziałem, że został przesunięty przez to, że nie potrafią zoptymalizować gry na konsolę, te pierwsze, w szczególności na Xboxa. I to rzeczywiście tutaj wydaje mi się, że w całym tym szumie Microsoft jakoś tak siedzi cicho i się nie odzywa, a wszyscy mówią o tym, jak źle chodzi gra na PlayStation 4. To jest bardzo ciekawe.
+
+01:26:46.880 --> 01:27:00.880
+Jak ja to powiedziałem, to ja w ogóle zebrałem dużo, dużo naprawdę pomyj w moją stronę, że gówno się z nami to w ogóle i będzie, i że chcą dopracować, i że to wszystko dla graczy i ta gra ma być diamencikiem.
+
+01:27:00.880 --> 01:27:14.880
+Po czym znowu przesunęli z tych samych powodów, po czym jeszcze niedawno mówiliśmy w podcaście, że dlatego przesunęli, bo mieli warunkową certyfikację od Sony.
+
+01:27:14.880 --> 01:27:20.880
+Dlatego ona była 21 dni dokładnie, bo tyle czasu trzeba, żeby tą następną certyfikację przetrać.
+
+01:27:20.880 --> 01:27:31.880
+Mi się tutaj raczej wszystko zgadza, w szczególności, że jak widzę, jak ta gra działa na konsolach, no to ciężko tu się kłócić. Oni wiedzieli o tym od dawna.
+
+01:27:31.880 --> 01:27:56.880
+Tak, zgadza się. W ogóle w głowie mi się nie mieści, bo nie podejrzewałem, wiesz, że cały czas podejrzewałem. Nie no nie mam pojęcia. Dla mnie ludzie, którzy wydali Wiedźmina 3, taką dobrą grę i mają taką dobrą opinię, że decydują się tą opinię, wiesz, zaryzykować tą opinią, żeby wydać grę, która jest w sposób oczywisty niegrywalna.
+
+01:27:56.880 --> 01:28:08.880
+To jest tak jak, wiesz, jeszcze miesiąc temu do mnie też przychodzą od czasu do czasu ludzie, którzy gdzieś tam jakby nie przyznają się oficjalnie, ale podają mi takie informacje, które trochę ze studia jakby.
+
+01:28:08.880 --> 01:28:21.880
+I też dostawałem takie komentarze, że słuchaj, wiesz, to miesiąc temu, że to jest tragedia na starej generacji, że to jest tragedia i że to się nie ma prawa udać.
+
+01:28:21.880 --> 01:28:36.880
+I to ludzie wiedzieli także gdzieś tam testując tę grę, albo którzy robiąc tę grę, to wszyscy wiedzieli, że to się nie ma prawa udać. Zarząd też musiał wiedzieć, że to się nie ma prawa udać, a tymczasem podjęli świadomą decyzję z premedytacją, że i tak pierniczę, że wydajemy.
+
+01:28:36.880 --> 01:28:53.880
+Wiesz, ja lubię sobie zadawać pytanie, co powinni zrobić, albo co ja bym zrobił na ich miejscu. Ja już bym zaryzykował, bym powiedział, no przykro nam, nie udało nam się tego zrobić na starą generację, wychodzi gra tylko na nową. I ludzie byliby wkurzeni, ale przynajmniej by mieli takie poczucie, że zostali uczciwie potraktowani.
+
+01:28:53.880 --> 01:29:06.880
+A tak mają poczucie, że zostali oszukani. I to nie dlatego, że ktoś się pomylił i popełnił błąd, tylko z premedytacją ktoś ich oszukał, od początku do końca mając świadomość tego, jakie ci ludzie będą mieli wrażenia.
+
+01:29:06.880 --> 01:29:20.880
+I to jest coś, co mi się w głowie nie mieści i bym w życiu nie podejrzewał, że o redach będę tak myślał. Wiesz, trochę zmuszasz mnie do tych refleksji, bo ja siedzę sobie na PC-ciku i jestem cały szczęśliwy z tej gry i każdy detal mnie cieszy.
+
+01:29:20.880 --> 01:29:26.880
+No ale prawda jest taka, że gdzieś coś się dzieje. No widzę, no widzę, nie założę okularów.
+
+01:29:26.880 --> 01:29:46.880
+Oczywiście, branża przez lata wielu twórców miało taką zasadę, że wydaj najpierw, napraw potem. I myślę, że to jest po prostu w taki sposób, że oni zadecydowali to i uznali, że to naprawią ludzie.
+
+01:29:46.880 --> 01:30:14.880
+Wydaje mi się, że tutaj jest trochę inna sytuacja. To jest tak duży problem i tak złożona gra, że chyba nie ma takiej możliwości. Ja się też nie znam. Mówię o tym, co słyszałem, że może być z tym problem, w szczególności, że jeżeli od roku ponad jest gra obsuwana przez to, że na tych konsolach źle działa, no to coś musi w tym być.
+
+01:30:14.880 --> 01:30:32.880
+Inna sprawa, CD wielokrotnie decydował pod względem, że więcej zyskają marketingowo. No to samo było z Wiedźminem Pierwszym, z ogłoszeniem Enhanced Edition, z przesuwaniem dwójki, z przesuwaniem trójki.
+
+01:30:32.880 --> 01:31:00.880
+Dlatego było przesunięcie każdej z tej gry, ponieważ decyzja padła z powodów najprawdopodobniej marketingowych. Bo nie była decyzja o wydaniu gry, no raczej... Ja znam historię z Enhanced Edition z jedynki, że została podana data chyba majowa, ostatecznie ta gra wyszła w październiku bodajże czy we wrześniu.
+
+01:31:00.880 --> 01:31:17.880
+Ludzie byli bardzo zdziwieni, dowiedzieli się z tej konferencji po prostu, że taka data była i nikt nie przyznał się do tego, że powiedział, że tak, dowieziemy spokojnie tę Enhanced Edition do maja. Nikt.
+
+01:31:17.880 --> 01:31:35.880
+Po prostu była to dobra decyzja marketingowa i ktoś tak zadecydował, że tak trzeba robić. I właśnie to jest też problem, że do tej pory to się udawało. Wszyscy wybaczali CDP-owi, CDP mówił naprawimy, zrobimy i rzeczywiście to robili.
+
+01:31:35.880 --> 01:32:03.880
+Bo nie dlatego ludzie kochają CDP, że wydaje kiepską grę na początku, bo każda gra w CDP-u miała swoje problemy. Jedynka, dwójka, trójka jakie miała problemy, ale wiedzieliśmy, że oni nad nią pracują i zrobią wszystko, żeby ona dobrze zadziałała. Za miesiąc, za dwa, nie wiem ile.
+
+01:32:03.880 --> 01:32:24.880
+W tym przypadku mi się ciężko wyobrazić, jak z czegoś takiego zrobić dobrze działającą grę. Może dlatego, że się nie znam, ale śmiem wątpić. Wszyscy mówią, ci którzy bronią, o zobaczycie miesiąc, dwa będzie, patrz i wszystko naprawią.
+
+01:32:24.880 --> 01:32:47.880
+Może masz rację, ja też czasami uderzam w takie tony, które są nie do końca przemyślane. Może faktycznie jest tak, że na podstawie tego co mówisz, że ktoś tam uznał, ktoś decyzyjny uznał, że skoro do tej pory dawali radę poprawiać to, to też dadzą radę tym razem.
+
+01:32:47.880 --> 01:33:03.880
+Może jest taka naiwna wiara, może to nie jest oszustwo z premedytacją po prostu, tylko jest taka naiwna wiara, bardzo dziecięca, że to się da dowieźć, a może nasza niewiedza, o której wspominasz, ogranicza nas na tyle, że nie jesteśmy w stanie tego rozróżnić.
+
+01:33:03.880 --> 01:33:26.880
+Może faktycznie da się, może za miesiąc dwa to będzie śmigało jak burza, tylko co się nagle stało przez ten miesiąc i dwa? Skoro były problemy z wersją starej generacji, no to czemu wersja PC-towa nie wyszła perfekcyjna? Przecież wygląda na to, że mieli rok, żeby to idealnie dopieścić, skoro pracowali nad starą, a jednak nawet wersja PC-towa trafiła się z błędami.
+
+01:33:26.880 --> 01:33:45.880
+Więc nie jest łatwo usuwać tam to wszystko. Masz mniej, ale ja mam dużo, bardzo dużo tych błędów. Już nawet nie wspomnę, teraz zaczyna się w internecie rozliczanie CD Projektu. Bierze się te wszystkie wypowiedzi, które, te materiały, wszystkie…
+
+01:33:45.880 --> 01:34:14.880
+Jak z Seanem Murrayem będą memy. Tak, dokładnie, ale widzisz, tutaj mamy jednak happy end. Ja nie wiem jak będzie z CD-pem. Jeszcze raz, dla mnie najgorsze jest to, że ludzie, którzy wyprowadzili żyły przy tej grze, no bo crunch był tam straszliwy i ludzie naprawdę poświęcali swoje życie prywatne, swoje zdrowie i całe serce wkładali, żeby ta gra była świetna i ona na tak wielu etapach jest genialna, w warstwach.
+
+01:34:14.880 --> 01:34:34.880
+Jest po prostu genialna, genialna gra, ale ktoś zadecydował, że to ma tak wychodzić, tak wyglądać i tyle. Te konsekwencje nie będzie przyjmował tylko ten, który zadecydował, ale wszyscy, którzy robili przy tej grze.
+
+01:34:34.880 --> 01:34:42.880
+Zgadza się. Zgadza się i wielka szkoda, że tak się stało i mam nadzieję, że to już zamyka naszą rozmowę dzisiaj.
+
+01:34:42.880 --> 01:34:45.880
+Myślę, że tak.
+
+01:34:45.880 --> 01:35:01.880
+Tak, no to pozdrawiamy Państwa bardzo serdecznie. Mimo tego, żeśmy ten temat obgadali długo, to i tak jestem pewny, że gdzieś tam po drodze się trafiło mnóstwo rzeczy, których żeśmy nie dokończyli, wątków, których żeśmy nie opowiedzieli albo pewnych niedomówień, które gdzieś się pojawiają w ramach dyskusji.
+
+01:35:01.880 --> 01:35:10.880
+Tak czy inaczej, niezależnie od tego wszystkiego, pozdrawiamy Państwa bardzo serdecznie, czekamy na komentarze w tej sprawie. No i pozdrawiamy, nie?
+
+01:35:10.880 --> 01:35:18.880
+I tak, jak macie porządne pecety albo konsolę nowej generacji, to dajcie szansę tej grze, bo jest świetna.
+
+01:35:18.880 --> 01:35:24.880
+Tak, a jak macie starą generację, to dajcie szansę sobie, żeby się nie skrzywdzić.
+
+01:35:24.880 --> 01:35:43.880
+Aha, jeszcze jedna rzecz, bo ja nie mówiłem tego. Ja jeszcze ogrywałem tą grę na GeForce Now, plus moi znajomi ogrywali na Stadii i wrażenia były super. Ja muszę przyznać, chociaż ja mam dobry internet, to też warto sobie sprawdzić, że GeForce Now naprawdę dał radę.
+
+01:35:43.880 --> 01:35:55.880
+Ja na niego narzekałem i nie wiem, czy oni coś w międzyczasie robili, bo nie grałem dużo przez Clouda, ale Cyberpunk naprawdę chodzi świetnie i byłem zadowolony.
+
+01:35:55.880 --> 01:36:09.880
+Wiesz, to jest single player gra, więc myślę, że w Cloudzie ciut łatwiej ogarnąć. I podobnie jak w wersji na Stadii, w Polsce gra działa też świetnie. Koniec, już kończę.
+
+01:36:09.880 --> 01:36:13.880
+Pozdrawiam Państwa bardzo, bardzo serdecznie. Ty już musisz wrócić do grania.
+
+01:36:13.880 --> 01:36:19.880
+Muszę wrócić, bo ten MV, kurde, zostawiłem go na czerwonym świetle. Trzymajcie się, pozdrawiam bardzo serdecznie.
+
+01:36:19.880 --> 01:36:20.880
+Trzymajcie się serdecznie.
+

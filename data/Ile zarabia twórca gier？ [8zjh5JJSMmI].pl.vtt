@@ -1,0 +1,4369 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:04.500
+Dzień dobry. Witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys.
+
+00:00:04.500 --> 00:00:06.500
+Dzisiaj naszym gościem jest Artur Ganszyniec.
+
+00:00:06.500 --> 00:00:07.500
+Dzień dobry.
+
+00:00:07.500 --> 00:00:08.500
+Dzień dobry.
+
+00:00:08.500 --> 00:00:09.500
+Dzień dobry.
+
+00:00:09.500 --> 00:00:10.500
+Dzień dobry.
+
+00:00:10.500 --> 00:00:12.500
+Ja mam parę historii do powiedzenia. Będą szybkie.
+
+00:00:12.500 --> 00:00:15.500
+Po pierwsze, proszę Państwa, Artur jest naszym gościem na podcaście
+
+00:00:15.500 --> 00:00:19.500
+znacznie częściej niż mu się wydaje, ponieważ często jest wspominany
+
+00:00:19.500 --> 00:00:22.500
+i Borys mówi, a Garnek powiedział to, Garnek zrobił tamto.
+
+00:00:22.500 --> 00:00:23.500
+To prawda.
+
+00:00:23.500 --> 00:00:27.500
+I to jest właśnie Artur Ganszyniec i witamy bardzo serdecznie teraz w osobie własnej.
+
+00:00:27.500 --> 00:00:28.500
+Dzień dobry.
+
+00:00:28.500 --> 00:00:34.500
+Witamy znanego Garnka z fandomu i z gamedevu i z różnych ciekawych historii.
+
+00:00:34.500 --> 00:00:39.500
+Dzisiaj będziemy rozmawiać sobie o tych rzeczach, o których mówiłeś
+
+00:00:39.500 --> 00:00:44.500
+i będziesz jeszcze mówił na Game Industry Conference,
+
+00:00:44.500 --> 00:00:48.500
+czyli takiej części gamedevowej PGA, jakby ktoś z Państwa nie widział,
+
+00:00:48.500 --> 00:00:52.500
+ale myślę, że zaczniemy sobie od wstępniaczka, co tam u nas słychać,
+
+00:00:52.500 --> 00:00:56.500
+ale może na przykład, co tam Artur ostatnio czytałeś?
+
+00:00:56.500 --> 00:00:57.500
+No...
+
+00:00:57.500 --> 00:00:58.500
+Przestań!
+
+00:00:58.500 --> 00:00:59.500
+Przestań, proszę!
+
+00:00:59.500 --> 00:01:02.500
+Tak, bo tą rozmowę już żeśmy odbyli przed.
+
+00:01:02.500 --> 00:01:08.500
+Ja teraz czytam właśnie trzeci tom bardzo fajnego cyklu o nastoletnich lesbijkach,
+
+00:01:08.500 --> 00:01:10.500
+nekromantkach w kosmosie.
+
+00:01:10.500 --> 00:01:14.500
+To brzmi dużo gorzej niż jest, ale książka super.
+
+00:01:14.500 --> 00:01:16.500
+Bardzo dobra fantastyka.
+
+00:01:16.500 --> 00:01:17.500
+Bardzo dobra.
+
+00:01:17.500 --> 00:01:19.500
+Remigiusz, co ty ostatnio czytasz?
+
+00:01:19.500 --> 00:01:21.500
+Dlaczego od razu o czytelnictwo?
+
+00:01:21.500 --> 00:01:23.500
+To jest takie pytanie, pułapka na mnie.
+
+00:01:23.500 --> 00:01:27.500
+Wszystkie rzeczy, o których ostatnio czytałem, Państwu opowiadałem na bieżąco,
+
+00:01:27.500 --> 00:01:30.500
+bo często rozmawiamy o audiobookach i się wystrzelałem.
+
+00:01:30.500 --> 00:01:33.500
+Ale na pewno ty masz coś do przekazania, bo już widzę, otworzyłeś stronę.
+
+00:01:33.500 --> 00:01:38.500
+Ja ostatnio czytam i już prawie skończyłem najnowszą powieść Filipa Zawady,
+
+00:01:38.500 --> 00:01:42.500
+czyli Weź nią zatańcz, którą bardzo Państwu polecam.
+
+00:01:42.500 --> 00:01:44.500
+To o byciu mężczyzną.
+
+00:01:44.500 --> 00:01:45.500
+O byciu mężczyzną.
+
+00:01:45.500 --> 00:01:47.500
+O tym, jak trudno jest być mężczyzną.
+
+00:01:47.500 --> 00:01:51.500
+I to nie prawdziwym mężczyzną, tylko takim regular mężczyzną.
+
+00:01:51.500 --> 00:01:57.500
+To jest o relacjach z matką, albo o relacjach z ojcem, którego nigdy się nie miało.
+
+00:01:57.500 --> 00:02:02.500
+Bardzo ciekawa, bardzo, bardzo ciekawa książka.
+
+00:02:02.500 --> 00:02:05.500
+Byliśmy dzisiaj na PGA, byliśmy dzisiaj na GIT-u.
+
+00:02:05.500 --> 00:02:10.500
+Przejrzeliśmy sporo gier z tej strefy indyczej.
+
+00:02:10.500 --> 00:02:12.500
+Ograliśmy i zobaczyliśmy dużo.
+
+00:02:12.500 --> 00:02:17.500
+O tym pewnie w poniedziałek będziemy rozmawiać, więc już Państwa zapraszam.
+
+00:02:17.500 --> 00:02:25.500
+A z Arturem będziemy rozmawiać o zarobkach w gamedevie i o zdrowiu psychicznym w gamedevie.
+
+00:02:25.500 --> 00:02:27.500
+Czy to w ogóle się łączy ze sobą?
+
+00:02:27.500 --> 00:02:31.500
+Wiesz co? No, to jest dobre pytanie.
+
+00:02:31.500 --> 00:02:40.500
+Myślę, że się łączy o tyle, że ponieważ zarobki w gamedevie są jednak chyba lepsze niż przeciętne zarobki w Polsce,
+
+00:02:40.500 --> 00:02:45.500
+to może częściej stać na dobrego psychoterapeuta.
+
+00:02:45.500 --> 00:02:47.500
+Więc łatwiej jest.
+
+00:02:47.500 --> 00:02:49.500
+Dobrze, w ten sposób.
+
+00:02:49.500 --> 00:02:53.500
+Ale wiesz co? Myślę, że przede wszystkim zapomnieliśmy Cię przedstawić.
+
+00:02:53.500 --> 00:02:55.500
+Tak.
+
+00:02:55.500 --> 00:02:57.500
+Czy ja mogę to zrobić?
+
+00:02:57.500 --> 00:02:59.500
+Dobrze.
+
+00:02:59.500 --> 00:03:03.500
+Bo jesteś dość, nie wiem, czy typowym, czy nietypowym twórcą,
+
+00:03:03.500 --> 00:03:08.500
+który zaczynał od razu swoją przygodę z gamedevu od pierwszego Wiedźmina.
+
+00:03:08.500 --> 00:03:11.500
+Przy pierwszym Wiedźminie byłeś szefem fabuły.
+
+00:03:11.500 --> 00:03:13.500
+No, tak.
+
+00:03:13.500 --> 00:03:15.500
+Przy drugim Wiedźminie.
+
+00:03:15.500 --> 00:03:17.500
+I odpuściłeś CDEP.
+
+00:03:17.500 --> 00:03:23.500
+Przechodząc... Nie wiem, czy mam dziurę, czy Ty przeszedłeś i zacząłeś pracować w AT Games?
+
+00:03:23.500 --> 00:03:26.500
+Tak, przez chwilkę jeszcze miałem taki krótki romansik z Techlandem.
+
+00:03:26.500 --> 00:03:28.500
+Techlandem, oj.
+
+00:03:28.500 --> 00:03:30.500
+Kartel.
+
+00:03:30.500 --> 00:03:37.500
+To znaczy, tak, dotknąłem kartela, ale tylko dlatego, że myśmy tam z paroma innymi osobami...
+
+00:03:37.500 --> 00:03:39.500
+Czyli z Jackiem i Mięsikiem.
+
+00:03:39.500 --> 00:03:45.500
+Tak. I chyba Maćkiem Czermonką przez chwilę, tak mi się wydaje, żeśmy robili taki prototyp,
+
+00:03:45.500 --> 00:03:51.500
+z którego niewiele wyszło, ale ponieważ jednocześnie był wtedy crunchek pod koniec kartela,
+
+00:03:51.500 --> 00:03:55.500
+to żeśmy też robili jakiś jeden level w kartelu.
+
+00:03:55.500 --> 00:04:01.500
+Ja się wtedy nauczyłem paru rzeczy, że nie lubię strzelanek i nie umiem w level design,
+
+00:04:01.500 --> 00:04:04.500
+więc na szczęście ktoś to po mnie poprawił.
+
+00:04:04.500 --> 00:04:08.500
+Więc tak, to był taki epizodzik wrocławski wtedy.
+
+00:04:08.500 --> 00:04:13.500
+Znam bardzo dużo niezwykle ciekawych historii z tego kartela.
+
+00:04:13.500 --> 00:04:19.500
+Każdy, kto grał w kartel, na pewno potrafi sobie wyobrazić kilka ciekawych historii.
+
+00:04:19.500 --> 00:04:25.500
+Historia produkcji kartela, myślę, że zasługuje na coś więcej niż tylko kilka anegdot.
+
+00:04:25.500 --> 00:04:28.500
+Mam szczerą nadzieję, że kiedyś z kimś o tym porozmawiamy,
+
+00:04:28.500 --> 00:04:31.500
+ale potem zacząłeś robić mobilki w AT Games.
+
+00:04:31.500 --> 00:04:32.500
+Tak.
+
+00:04:32.500 --> 00:04:34.500
+I tam parę rzeczy zrobiłeś.
+
+00:04:34.500 --> 00:04:38.500
+Tak, pamiętam, żeśmy zrobili dwa Puzzle Crafty, Another Case Solved.
+
+00:04:38.500 --> 00:04:42.500
+I to o gwiazdach, czekaj, ale to chyba już nie powinno być Full of Stars.
+
+00:04:42.500 --> 00:04:46.500
+Jeszcze wcześniej żeśmy zrobili Muniax, znany również jako Moonstars,
+
+00:04:46.500 --> 00:04:50.500
+o takich stworkach, które odskaczą się, odbijają i zbierają takie żółte.
+
+00:04:50.500 --> 00:04:53.500
+Tak, czyli spore doświadczenie w mobilkach.
+
+00:04:53.500 --> 00:04:57.500
+I potem przeszedłeś do Eleven Bitów?
+
+00:04:57.500 --> 00:05:02.500
+Tak, i tam spędziłem chyba z półtorej roku, robiąc pewien prototyp.
+
+00:05:02.500 --> 00:05:08.500
+Projekt ósmy, który jeszcze do tej pory nie wyszedł.
+
+00:05:08.500 --> 00:05:10.500
+I jest zrobiony.
+
+00:05:10.500 --> 00:05:13.500
+Tak, ale ja myślę, że tak jak mogę sobie wydedukować,
+
+00:05:13.500 --> 00:05:16.500
+to on był pewno od tamtego czasu tak gdzieś z trzy razy
+
+00:05:16.500 --> 00:05:19.500
+prototypowany w różnych kierunkach, więc podejrzewam,
+
+00:05:19.500 --> 00:05:22.500
+że ma dokładnie zero wspólnego z tego, co ja tam robiłem wtedy.
+
+00:05:22.500 --> 00:05:25.500
+Po tobie przyszła Marta, która była szefą,
+
+00:05:25.500 --> 00:05:29.500
+która teraz zresztą pracuje razem z tobą w Anszarach.
+
+00:05:29.500 --> 00:05:31.500
+I teraz szefem jest Patryk.
+
+00:05:31.500 --> 00:05:34.500
+Więc czekamy, może coś z tego będzie.
+
+00:05:34.500 --> 00:05:38.500
+Mam nadzieję, bo koncept to bardzo ciekawy.
+
+00:05:38.500 --> 00:05:40.500
+Po czym?
+
+00:05:40.500 --> 00:05:43.500
+Założyłeś firmę z Jackiem Rzezińskim?
+
+00:05:43.500 --> 00:05:45.500
+Tak. Współ założyłem.
+
+00:05:45.500 --> 00:05:48.500
+Zobaczcie, Jacek zakładał ją tam.
+
+00:05:48.500 --> 00:05:50.500
+No ale byliście jakby...
+
+00:05:50.500 --> 00:05:52.500
+Tak, tak.
+
+00:05:52.500 --> 00:05:54.500
+Przynajmniej jakiś czas prowadziliśmy ją razem.
+
+00:05:54.500 --> 00:05:56.500
+Potem się okazało, że ja przynajmniej bardzo lubię
+
+00:05:56.500 --> 00:05:59.500
+i umiem prowadzić firmę.
+
+00:05:59.500 --> 00:06:03.500
+No i żeśmy wtedy wyprodukowali Wanderlusta
+
+00:06:03.500 --> 00:06:06.500
+i dodatek do niego Nabil Kołaka.
+
+00:06:06.500 --> 00:06:08.500
+Za którego dostałeś paszport polityki.
+
+00:06:08.500 --> 00:06:10.500
+No, dostaliśmy do niego paszport polityki, tak.
+
+00:06:10.500 --> 00:06:12.500
+To było fajne.
+
+00:06:12.500 --> 00:06:16.500
+No a teraz pracuję w Anszar Studio.
+
+00:06:16.500 --> 00:06:19.500
+Ja jestem bardzo ciekawy, co robisz,
+
+00:06:19.500 --> 00:06:22.500
+jak wygląda twoja praca w Anszarach
+
+00:06:22.500 --> 00:06:24.500
+i nad czym pracujesz.
+
+00:06:24.500 --> 00:06:29.500
+Pracuję nad nieogłoszonym jeszcze projektem.
+
+00:06:29.500 --> 00:06:33.500
+Chyba codename Hatsura mówił nawet u nas w podcaście.
+
+00:06:33.500 --> 00:06:34.500
+Możliwe.
+
+00:06:34.500 --> 00:06:36.500
+Nie pamiętam, jak to się nazywa.
+
+00:06:36.500 --> 00:06:39.500
+Jedno jest Bischoff, a drugie jest...
+
+00:06:39.500 --> 00:06:40.500
+A drugie jest Ruki.
+
+00:06:40.500 --> 00:06:42.500
+Ruki, tak.
+
+00:06:42.500 --> 00:06:44.500
+Ja tam jestem narratywem,
+
+00:06:44.500 --> 00:06:46.500
+także zajmuję się historią, dialogami,
+
+00:06:46.500 --> 00:06:49.500
+już jakimiś takimi mechanizmami między gameplayem
+
+00:06:49.500 --> 00:06:53.500
+a, powiedzmy, fabułą.
+
+00:06:53.500 --> 00:06:56.500
+Więc tak, to tam jesteśmy w pierwszych,
+
+00:06:56.500 --> 00:06:59.500
+w początkowych fazach projektu, więc...
+
+00:06:59.500 --> 00:07:01.500
+No jak to w gamedevie.
+
+00:07:01.500 --> 00:07:03.500
+Przez parę lat nie można nic mówić,
+
+00:07:03.500 --> 00:07:04.500
+potem się przez chwilę dużo mówi,
+
+00:07:04.500 --> 00:07:06.500
+potem znowu przez parę lat nie można nic mówić
+
+00:07:06.500 --> 00:07:08.500
+i tak też.
+
+00:07:08.500 --> 00:07:10.500
+To prawda.
+
+00:07:10.500 --> 00:07:12.500
+A tak na przestrzeni lat,
+
+00:07:12.500 --> 00:07:14.500
+jak zajmowałeś się...
+
+00:07:14.500 --> 00:07:17.500
+Byłeś pisarzem w gamedevie.
+
+00:07:17.500 --> 00:07:19.500
+Pisałeś story do gier.
+
+00:07:19.500 --> 00:07:24.500
+Jak w ogóle wygląda taka praca pisarza?
+
+00:07:24.500 --> 00:07:27.500
+Wiesz co, to jest na...
+
+00:07:27.500 --> 00:07:30.500
+Bo jakby pisarz, to ja jestem paroklasowy,
+
+00:07:30.500 --> 00:07:34.500
+pisarz to jest tylko taka część mojej roboty.
+
+00:07:34.500 --> 00:07:36.500
+Stricte pisarska czy taka scenopisarska,
+
+00:07:36.500 --> 00:07:39.500
+to zwykle jest tak, że masz jakiś zarys sceny
+
+00:07:39.500 --> 00:07:42.500
+i teraz zależy nad jakim gatunkiem gry pracujesz
+
+00:07:42.500 --> 00:07:44.500
+albo piszesz np. scenariusz,
+
+00:07:44.500 --> 00:07:46.500
+tokat scenki, co praktycznie wygląda
+
+00:07:46.500 --> 00:07:49.500
+jak pisanie scenariusza do filmu.
+
+00:07:49.500 --> 00:07:52.500
+Czasami nawet format jest bardzo podobny.
+
+00:07:52.500 --> 00:07:54.500
+No a jak im bardziej interaktywna gra,
+
+00:07:54.500 --> 00:07:57.500
+tym pewno częściej pracujesz nie na dokumentach,
+
+00:07:57.500 --> 00:07:59.500
+ale już na jakichś konkretnych narzędziach
+
+00:07:59.500 --> 00:08:02.500
+do pisania takich już interaktywnych dialogów.
+
+00:08:02.500 --> 00:08:04.500
+No i wtedy piszesz konkretny dialog
+
+00:08:04.500 --> 00:08:06.500
+albo opis jakichś przedmiotów albo coś.
+
+00:08:06.500 --> 00:08:08.500
+Dokumentacji też sporo.
+
+00:08:08.500 --> 00:08:10.500
+Ja oprócz tego się też zajmuję takimi rzeczami
+
+00:08:10.500 --> 00:08:12.500
+powiedzmy poziom wyżej czasami,
+
+00:08:12.500 --> 00:08:15.500
+czyli jakby całą strukturą historii,
+
+00:08:15.500 --> 00:08:17.500
+kto tam występuje, jakie wydarzenia się dzieją itd.
+
+00:08:17.500 --> 00:08:19.500
+czy raczej takimi ramami,
+
+00:08:19.500 --> 00:08:22.500
+w którymi potem ja albo ktoś inny pisze same teksty.
+
+00:08:22.500 --> 00:08:24.500
+Ale też czasami zajmuję się
+
+00:08:24.500 --> 00:08:26.500
+takimi rzeczami trochę z boku,
+
+00:08:26.500 --> 00:08:29.500
+np. tym jak mechanika wpływa na dialog,
+
+00:08:29.500 --> 00:08:32.500
+czy jak dialog wpływa na jakąś tam mechanikę,
+
+00:08:32.500 --> 00:08:37.500
+czy czym jeszcze można opowiedzieć historię.
+
+00:08:37.500 --> 00:08:40.500
+Okej, to już znamy tą opowieść teraz
+
+00:08:40.500 --> 00:08:42.500
+z tej perspektywy już Twoich doświadczeń.
+
+00:08:42.500 --> 00:08:46.500
+Jak to się zaczęło, że akurat narracja i fabuła...
+
+00:08:46.500 --> 00:08:51.500
+Wiesz co, zaczęło się to tak, że...
+
+00:08:51.500 --> 00:08:54.500
+No bo na etapie pierwszego Wiedźmina
+
+00:08:54.500 --> 00:08:56.500
+to jeszcze był taki przeuroczy czas,
+
+00:08:56.500 --> 00:08:59.500
+kiedy w zasadzie mało kto w Polsce potrafił robić gry,
+
+00:08:59.500 --> 00:09:05.500
+więc studia szukały ludzi w bardzo desperacki sposób
+
+00:09:05.500 --> 00:09:08.500
+z bardzo różnych dziedzin życia.
+
+00:09:08.500 --> 00:09:10.500
+Ja z wykształcenia jestem analitykiem danych,
+
+00:09:10.500 --> 00:09:13.500
+wtedy właśnie kończyłem pracować w telekomunikacji polskiej,
+
+00:09:13.500 --> 00:09:16.500
+gdzie zajmowałem się analizą sprzedaży
+
+00:09:16.500 --> 00:09:19.500
+i migracjami danych między różnymi bazami danych,
+
+00:09:19.500 --> 00:09:22.500
+takie bardzo nudne rzeczy.
+
+00:09:22.500 --> 00:09:25.500
+Byłem właśnie na etapie rzucania tego.
+
+00:09:25.500 --> 00:09:28.500
+Ale jednocześnie ja jestem bardzo blisko od lat
+
+00:09:28.500 --> 00:09:30.500
+związany z fundamentem fantastyki,
+
+00:09:30.500 --> 00:09:32.500
+także tam pisałem jakiegoś swojego papierowego RPGa
+
+00:09:32.500 --> 00:09:34.500
+i jeździłem we wszystkie konwenty itd.
+
+00:09:34.500 --> 00:09:36.500
+I na którymś z tych konwentów poznałem Michała Medeja,
+
+00:09:36.500 --> 00:09:38.500
+który wtedy pracował w CD Projekt,
+
+00:09:38.500 --> 00:09:41.500
+szefem designu.
+
+00:09:41.500 --> 00:09:44.500
+No i jak się dowiedział, że rzuciłem pracę w telekomunikacji,
+
+00:09:44.500 --> 00:09:46.500
+no to się do mnie dozwolił.
+
+00:09:46.500 --> 00:09:49.500
+Powiedział, słuchaj, szukamy kogoś do pisania dialogów.
+
+00:09:49.500 --> 00:09:51.500
+A właśnie z tej takiej hobbystycznej rzeczy,
+
+00:09:51.500 --> 00:09:54.500
+rzeczy, które gdzieś tam publikowałem hobbystycznie,
+
+00:09:54.500 --> 00:09:58.500
+no to on miał jakieś wyczucie tego, w jaki sposób ja piszę.
+
+00:09:58.500 --> 00:10:01.500
+Więc żeśmy... poszedłem na rozmowę.
+
+00:10:01.500 --> 00:10:04.500
+Ja się tak wtedy zastanawiałem, że to taka niepoważna branża trochę.
+
+00:10:04.500 --> 00:10:06.500
+No ale dobra, spróbuję.
+
+00:10:06.500 --> 00:10:08.500
+W tamtym czasach, jak się wchodziło w dorosłość,
+
+00:10:08.500 --> 00:10:10.500
+to tak, gry były niepoważną branżą, zgadzę się.
+
+00:10:10.500 --> 00:10:12.500
+No tak.
+
+00:10:12.500 --> 00:10:15.500
+To było ile? 15, 16 lat temu?
+
+00:10:15.500 --> 00:10:17.500
+Jakoś tak.
+
+00:10:17.500 --> 00:10:19.500
+No i co, najpierw tam pisałem dialogi,
+
+00:10:19.500 --> 00:10:21.500
+potem zacząłem się zajmować w ogóle questami,
+
+00:10:21.500 --> 00:10:24.500
+potem w którymś momencie się okazało,
+
+00:10:24.500 --> 00:10:27.500
+że w zasadzie jest taka potrzeba w tej strukturze,
+
+00:10:27.500 --> 00:10:30.500
+żeby ktoś ogarniał całość historii, tylko historię,
+
+00:10:30.500 --> 00:10:34.500
+no i więc spotkając Wiedźmina, to ja się już tym zajmowałem.
+
+00:10:34.500 --> 00:10:38.500
+Mówcie dalej, ja przesunę to, żeby było wszystko w porządku.
+
+00:10:38.500 --> 00:10:42.500
+Okej, czyli w tym Wiedźminie
+
+00:10:42.500 --> 00:10:46.500
+ta fabuła w dużej mierze zależała od twojej wizji.
+
+00:10:46.500 --> 00:10:48.500
+Wiesz co, to ja...
+
+00:10:48.500 --> 00:10:50.500
+Mi się wydaje, że w pierwszym Wiedźminie
+
+00:10:50.500 --> 00:10:53.500
+to była bardziej robota tak chirurga i akuszerki,
+
+00:10:53.500 --> 00:10:57.500
+bo ja tam wszedłem już na bardzo dużo nawarstwionej historii.
+
+00:10:57.500 --> 00:11:02.500
+Wcześniej już był jakiś scenariusz napisany przez Komudę i Jurewicza,
+
+00:11:02.500 --> 00:11:05.500
+on potem w zasadzie cały poszedł do kosza,
+
+00:11:05.500 --> 00:11:08.500
+ale coś tam na jego podstawie powstały już jakieś lokacje,
+
+00:11:08.500 --> 00:11:12.500
+więc w tych lokacjach trzeba było coś ułożyć.
+
+00:11:12.500 --> 00:11:14.500
+Już jakaś historia została obiecana graczom,
+
+00:11:14.500 --> 00:11:17.500
+już wiadomo było, że to jest okradzieży wiedźmińskich tajemnic,
+
+00:11:17.500 --> 00:11:20.500
+już były jakieś tam założenia,
+
+00:11:20.500 --> 00:11:23.500
+a potem jeszcze w połowie produkcji się okazało,
+
+00:11:23.500 --> 00:11:26.500
+że nie zdążymy zrobić połowy planowanych lokacji
+
+00:11:26.500 --> 00:11:29.500
+i połowy planowanych postaci,
+
+00:11:29.500 --> 00:11:32.500
+więc trzeba było tą samą historię opowiedzieć w połowie
+
+00:11:32.500 --> 00:11:35.500
+czy ją jakby pociąć i przerobić.
+
+00:11:35.500 --> 00:11:38.500
+Więc ja tam prawdę powiedziawszy to nie jest tak,
+
+00:11:38.500 --> 00:11:40.500
+że ja tam wymyślałem historię,
+
+00:11:40.500 --> 00:11:43.500
+ja tam raczej byłem od tego, żeby to się nie rozpadło.
+
+00:11:43.500 --> 00:11:46.500
+Żeby skleić te historie, które wcześniej powstawały.
+
+00:11:46.500 --> 00:11:49.500
+Tak, bo to jest robota grupowa.
+
+00:11:49.500 --> 00:11:52.500
+Ja nie chciałem ci przypisać całej odpowiedzialności za to.
+
+00:11:52.500 --> 00:11:54.500
+Nie, ja też chcę doprecyzować,
+
+00:11:54.500 --> 00:11:56.500
+więc ja tam myślę raczej byłem osobą,
+
+00:11:56.500 --> 00:11:59.500
+która może była taką bramką, przez którą przechodziły pomysły.
+
+00:11:59.500 --> 00:12:02.500
+No i też moim zadaniem było
+
+00:12:02.500 --> 00:12:05.500
+szukanie wątków, które są niespójne
+
+00:12:05.500 --> 00:12:07.500
+i spinanie ich ze sobą,
+
+00:12:07.500 --> 00:12:10.500
+taka może trochę nawet montażowo-postprodukcyjna rzecz,
+
+00:12:10.500 --> 00:12:12.500
+jakby na filmy patrzeć.
+
+00:12:12.500 --> 00:12:15.500
+Czyli taka analityczna trochę a propos tej telekomunikacji.
+
+00:12:15.500 --> 00:12:18.500
+No w zasadzie trochę tak.
+
+00:12:18.500 --> 00:12:21.500
+Był tam taki element zagadki mamigłówki,
+
+00:12:21.500 --> 00:12:23.500
+to rzeczywiście.
+
+00:12:23.500 --> 00:12:26.500
+Ja też słyszałem taką opinię, że Jacek Brzeziński
+
+00:12:26.500 --> 00:12:29.500
+i też razem z tobą, że wy byliście
+
+00:12:29.500 --> 00:12:32.500
+finisherami tego projektu.
+
+00:12:32.500 --> 00:12:35.500
+Że to wy właśnie, że był ten, to Jacek nawet powiedział,
+
+00:12:35.500 --> 00:12:38.500
+że z tego tortu trzeba było
+
+00:12:38.500 --> 00:12:41.500
+bardzo dużo odkroić
+
+00:12:41.500 --> 00:12:44.500
+i potem trzeba było to złożyć, żeby to znowu wyglądało jak gra
+
+00:12:44.500 --> 00:12:47.500
+i że wy jakby się tym
+
+00:12:47.500 --> 00:12:50.500
+w dużej mierze zajmowaliście pod koniec projektu.
+
+00:12:50.500 --> 00:12:53.500
+To już było bardzo dawno temu, więc ja tylko mogę tak
+
+00:12:53.500 --> 00:12:56.500
+powiedzieć, tak jak ja to teraz pamiętam.
+
+00:12:56.500 --> 00:12:59.500
+I na ten temat, o którym mówisz, to miałem takie
+
+00:12:59.500 --> 00:13:02.500
+dwa może spostrzeżenia z perspektywy czasu.
+
+00:13:02.500 --> 00:13:05.500
+Jedno jest takie, że ten projekt przez długi czas nie miał szefa,
+
+00:13:05.500 --> 00:13:08.500
+więc było tak, że powstawały gdzieś może z cztery Wiedźminy naraz,
+
+00:13:08.500 --> 00:13:11.500
+w sensie Art robił swojego Wiedźmina,
+
+00:13:11.500 --> 00:13:14.500
+programyści programowali featury do Wiedźmina,
+
+00:13:14.500 --> 00:13:17.500
+którego oni myśleli, design pisał. Jak ja przyszedłem, to było 300 stron dokumentacji,
+
+00:13:17.500 --> 00:13:20.500
+która była do chyba jakiegoś zupełnie innego Wiedźmina,
+
+00:13:20.500 --> 00:13:23.500
+a QA wybierał z tego sobie jakieś rzeczy,
+
+00:13:23.500 --> 00:13:26.500
+które pasowały do ich wizji. Wiedźmina je testował.
+
+00:13:26.500 --> 00:13:29.500
+Rozumiem. Czyli jakby plan był taki, z tych czterech Wiedźminów
+
+00:13:29.500 --> 00:13:32.500
+trzeba było zrobić jednego, zupełnie inaczej niż dzisiaj.
+
+00:13:32.500 --> 00:13:35.500
+No i wiesz co, i wtedy...
+
+00:13:35.500 --> 00:13:38.500
+Gdzie z innego trzeba zrobić pięć.
+
+00:13:38.500 --> 00:13:41.500
+No i wtedy był taki moment, jak Jacek został kierownikiem całego projektu
+
+00:13:41.500 --> 00:13:44.500
+i to od strony produkcyjnej wtedy mogło ruszyć głównie dlatego,
+
+00:13:44.500 --> 00:13:47.500
+że się pojawił taki punkt decyzji. Wcześniej strasznie trudno było zdecydować,
+
+00:13:47.500 --> 00:13:50.500
+która z tych wizji... którą część, z której z tych wizji
+
+00:13:50.500 --> 00:13:53.500
+tak naprawdę powinna trafić do gotowego produktu,
+
+00:13:53.500 --> 00:13:56.500
+bo jakby każda z nich miała dużo fajnych elementów,
+
+00:13:56.500 --> 00:13:59.500
+tylko one czasami do siebie nie przestawały.
+
+00:13:59.500 --> 00:14:02.500
+Na przykład był fajny design, który tak naprawdę był
+
+00:14:02.500 --> 00:14:05.500
+na przykład w tym czasie i w tych pieniądzach w ogóle nierealizowalny,
+
+00:14:05.500 --> 00:14:08.500
+jakby był do trochę innej gry.
+
+00:14:08.500 --> 00:14:11.500
+Ja z mojej strony, to ja już wtedy byłem bardzo tak
+
+00:14:11.500 --> 00:14:14.500
+hiper sfokusowany na tej samej fabule,
+
+00:14:14.500 --> 00:14:17.500
+więc też może dużo rzeczy gdzieś tam mi przelatywało wokół głowy,
+
+00:14:17.500 --> 00:14:20.500
+ale jeśli chodzi o fabułę, to tak, to trzeba było ją pokroić
+
+00:14:20.500 --> 00:14:23.500
+i złożyć jeszcze raz.
+
+00:14:23.500 --> 00:14:26.500
+Swoją drogą, to był szalenie stresujący moment w moim życiu,
+
+00:14:26.500 --> 00:14:29.500
+ale też tak z perspektywy widza, że się bardzo dużo nauczyłem.
+
+00:14:29.500 --> 00:14:32.500
+Nawet... Znaczy, to dobrze zrobiło Wiedźminowi,
+
+00:14:32.500 --> 00:14:35.500
+tak ogólnie, to całe doświadczenie,
+
+00:14:35.500 --> 00:14:38.500
+bo na przykład, wiesz, było takie coś, że
+
+00:14:38.500 --> 00:14:41.500
+w początkowym scenariuszu,
+
+00:14:41.500 --> 00:14:44.500
+w każdym z aktów Wiedźmina miał być oddzielny przewód,
+
+00:14:44.500 --> 00:14:47.500
+inne elfy, inni partyzanci elfi
+
+00:14:47.500 --> 00:14:50.500
+i miał być inny przywódca albo przywódczyni elfich partyzantów,
+
+00:14:50.500 --> 00:14:53.500
+czyli gdzieś cztery postacie. Ale się okazało, że będzie tylko jeden model.
+
+00:14:53.500 --> 00:14:56.500
+No więc, żeśmy musieli wymyślić historię,
+
+00:14:56.500 --> 00:14:59.500
+dla którego ten... To chyba był jej win,
+
+00:14:59.500 --> 00:15:02.500
+jeśli dobrze pamiętam,
+
+00:15:02.500 --> 00:15:05.500
+dlaczego on podróżuje w te same miejsca, co Geralt,
+
+00:15:05.500 --> 00:15:08.500
+gdzie Geralt go spotyka. I nagle się okazało, że jest postać,
+
+00:15:08.500 --> 00:15:11.500
+z którą mamy relację z wcześniejszego aktu, znowu się pojawia,
+
+00:15:11.500 --> 00:15:14.500
+możemy porozmawiać o czymś, co się wydarzyło wcześniej,
+
+00:15:14.500 --> 00:15:17.500
+nagle te relacje się zrobiły dużo fajniejsze
+
+00:15:17.500 --> 00:15:20.500
+i cała gra i cała historia na tym bardzo zyskała.
+
+00:15:20.500 --> 00:15:23.500
+Tylko sam proces dochodzenia do tego był
+
+00:15:23.500 --> 00:15:26.500
+niezaplanowany na początku
+
+00:15:26.500 --> 00:15:29.500
+i taki trochę stresujący.
+
+00:15:29.500 --> 00:15:32.500
+Wyobrażam sobie, jakby to...
+
+00:15:32.500 --> 00:15:35.500
+Oczywiście, że to była duża produkcja, zwłaszcza wtedy.
+
+00:15:35.500 --> 00:15:38.500
+A jako wieloletni pracownik
+
+00:15:38.500 --> 00:15:41.500
+CDP-u,
+
+00:15:41.500 --> 00:15:44.500
+jeden z najważniejszych osób
+
+00:15:44.500 --> 00:15:47.500
+przy Wiedźminie I, patrzysz na to,
+
+00:15:47.500 --> 00:15:50.500
+te ogłoszenia, które mieliśmy ostatnio.
+
+00:15:50.500 --> 00:15:53.500
+Trochę nie fair pytanie.
+
+00:15:53.500 --> 00:15:56.500
+Wiecie,
+
+00:15:56.500 --> 00:15:59.500
+z jednej strony, jeśli chodzi o politykę firmy,
+
+00:15:59.500 --> 00:16:02.500
+to są bardzo fajne zapowiedzi.
+
+00:16:02.500 --> 00:16:05.500
+Giełda rośnie.
+
+00:16:05.500 --> 00:16:08.500
+Z drugiej strony, w branży na to teraz przez parę dni
+
+00:16:08.500 --> 00:16:11.500
+jednak będzie krążył taki dowcip pod tytułem
+
+00:16:11.500 --> 00:16:14.500
+na którego z pięciu Wiedźminów czekasz najbardziej?
+
+00:16:14.500 --> 00:16:17.500
+Fakt, prawda?
+
+00:16:17.500 --> 00:16:20.500
+Co mogę powiedzieć?
+
+00:16:20.500 --> 00:16:23.500
+Mi to trochę się kojarzy z takim momentem po I Wiedźminie,
+
+00:16:23.500 --> 00:16:26.500
+kiedy było dużo pieniędzy.
+
+00:16:26.500 --> 00:16:29.500
+Zaczęli wtedy na raz robić
+
+00:16:29.500 --> 00:16:32.500
+Wiedźmina na konsolę z Francuzami,
+
+00:16:32.500 --> 00:16:35.500
+tam jakiegoś Wiedźmina flashowego,
+
+00:16:35.500 --> 00:16:38.500
+dwa dodatki do Wiedźmina zewnętrzne,
+
+00:16:38.500 --> 00:16:41.500
+jedynkę na Aurorze,
+
+00:16:41.500 --> 00:16:44.500
+wewnętrzne dodatki do Wiedźmina,
+
+00:16:44.500 --> 00:16:47.500
+duży dodatek do Wiedźmina, który z czasem zmienił się
+
+00:16:47.500 --> 00:16:50.500
+w Wiedźmina dwójkę
+
+00:16:50.500 --> 00:16:53.500
+i prototyp pierwszej wersji Wiedźmina trzeciego
+
+00:16:53.500 --> 00:16:56.500
+na nowej technologii,
+
+00:16:56.500 --> 00:16:59.500
+który potem został skasowany i tylko technologia z niego została
+
+00:16:59.500 --> 00:17:02.500
+i strasznie dużo rzeczy na raz się zaczęło dziać.
+
+00:17:02.500 --> 00:17:05.500
+No i potem był taki zapas na rynku, gdzie tam poszedł rynek wydawniczy,
+
+00:17:05.500 --> 00:17:08.500
+kredyty skoczyły dużo na rynku bankowym,
+
+00:17:08.500 --> 00:17:11.500
+był kryzys i nagle brakło na to wszystko kasy.
+
+00:17:11.500 --> 00:17:14.500
+No i tam wiem, że co najmniej jedno zagraniczne studio,
+
+00:17:14.500 --> 00:17:17.500
+które podpisało kontrakt z CDP-em upadło
+
+00:17:17.500 --> 00:17:20.500
+w wyniku tego, że...
+
+00:17:20.500 --> 00:17:23.500
+w Polsce bardzo dużo zostało zwolnionych,
+
+00:17:23.500 --> 00:17:26.500
+więc to jest...
+
+00:17:26.500 --> 00:17:29.500
+ten taki moment, że zapowiadamy bardzo dużo,
+
+00:17:29.500 --> 00:17:32.500
+mi się trochę z tym kojarzy, z drugiej strony to są inne momenty.
+
+00:17:32.500 --> 00:17:35.500
+Tam jest parę takich założeń, które jak się uda spełnić,
+
+00:17:35.500 --> 00:17:38.500
+to będzie bardzo fajnie. Na przykład to, że się uda to zrobić
+
+00:17:38.500 --> 00:17:41.500
+na jednej technologii.
+
+00:17:41.500 --> 00:17:44.500
+Żeby nie było, ja nie jestem programistą,
+
+00:17:44.500 --> 00:17:47.500
+ja tak trochę na chłopski, ale branżowy rozum mówię,
+
+00:17:47.500 --> 00:17:50.500
+że spoko, robimy wszystko na tym jednym Unrealu,
+
+00:17:50.500 --> 00:17:53.500
+ale Bogiem a prawdą, co my wiemy o rynku za dziewięć lat?
+
+00:17:53.500 --> 00:17:56.500
+O tym, co to będzie za rynek,
+
+00:17:56.500 --> 00:17:59.500
+jak będzie wyglądał hardware, jaki będzie poziom gier,
+
+00:17:59.500 --> 00:18:02.500
+ile trzeba będzie...
+
+00:18:02.500 --> 00:18:05.500
+w sensie, czy będzie się dało zrobić te skoki,
+
+00:18:05.500 --> 00:18:08.500
+które na pewno będą jakoś wymagane przez rynek między...
+
+00:18:08.500 --> 00:18:11.500
+Mówię o tej nowej trylogii.
+
+00:18:11.500 --> 00:18:14.500
+Ale właśnie dlaczego? Bo rozumiem, że chodzi ci o to,
+
+00:18:14.500 --> 00:18:17.500
+że gry za dziewięć, osiem lat muszą być technologicznie
+
+00:18:17.500 --> 00:18:20.500
+dużo, dużo lepsze.
+
+00:18:20.500 --> 00:18:23.500
+Mówię, że nie wiemy, jakie będą.
+
+00:18:23.500 --> 00:18:26.500
+Ja sobie to porównuję do tego, co teraz jest.
+
+00:18:26.500 --> 00:18:29.500
+Teraz mamy nowe konsole, niby skok technologiczny,
+
+00:18:29.500 --> 00:18:32.500
+w ogóle tego nie widać. Gry niektóre potrafią wyglądać gorzej
+
+00:18:32.500 --> 00:18:35.500
+niż te najlepsze, te, które były na PlayStation 3.
+
+00:18:35.500 --> 00:18:38.500
+No tak, bo one teraz przez jakiś czas będą tę nową technologię
+
+00:18:38.500 --> 00:18:41.500
+wszyscy poznawać i za jakiś czas będą w stanie z niej wyciągnąć
+
+00:18:41.500 --> 00:18:44.500
+naprawdę wszystko, bo już to będzie znana technologia.
+
+00:18:44.500 --> 00:18:47.500
+No ale potem nie daj Boże się zmieni technologia
+
+00:18:47.500 --> 00:18:50.500
+albo się okaże, że jakieś kawałki
+
+00:18:50.500 --> 00:18:53.500
+np. stosowania AI-a, nie wiem,
+
+00:18:53.500 --> 00:18:56.500
+do robienia asetów, czy do jakichś kawałków,
+
+00:18:56.500 --> 00:18:59.500
+że teraz to będzie to,
+
+00:18:59.500 --> 00:19:02.500
+a teraz... I trzeba będzie na to jakoś zareagować
+
+00:19:02.500 --> 00:19:05.500
+też od strony technologicznej. Chodzi mi o to, że teraz
+
+00:19:05.500 --> 00:19:08.500
+w zasadzie chyba nikt nie ma danych. Dużo ludzi może mieć nadzieję
+
+00:19:08.500 --> 00:19:11.500
+o PlayStation, ale nikt nie ma takich twardych danych,
+
+00:19:11.500 --> 00:19:14.500
+czy między, weźmy tą nową serię Wiedźmina,
+
+00:19:14.500 --> 00:19:17.500
+między tym nowym Wiedźminem 2, a nowym Wiedźminem 3
+
+00:19:17.500 --> 00:19:20.500
+albo nowym Wiedźminem 1, a nowym Wiedźminem 2
+
+00:19:20.500 --> 00:19:23.500
+nie trzeba będzie przeszyć całej technologii
+
+00:19:23.500 --> 00:19:26.500
+albo przeszyć dużego kawałka technologii. I jak patrzę na same terminy,
+
+00:19:26.500 --> 00:19:29.500
+że co 3 lata wychodzi nowa gra, to jeśli chodzi o zrobienie
+
+00:19:29.500 --> 00:19:32.500
+samego contentu, to brzmi dobrze? I jeśli tam trzeba by przeszyć
+
+00:19:32.500 --> 00:19:35.500
+technologię, to mi się wydaje, że to się przesunie.
+
+00:19:35.500 --> 00:19:38.500
+Też dużo o tym myślałem
+
+00:19:38.500 --> 00:19:41.500
+i oczywiście można się śmiać, że to jest science fiction.
+
+00:19:41.500 --> 00:19:44.500
+Z drugiej strony, jeżeli pomyślimy, co jest
+
+00:19:44.500 --> 00:19:47.500
+ideą CDP-u w robieniu gier,
+
+00:19:47.500 --> 00:19:50.500
+co jest podstawą, to tam nie ma technologii.
+
+00:19:50.500 --> 00:19:53.500
+Ale jednak, gdyby tak było,
+
+00:19:53.500 --> 00:19:56.500
+jak mówisz, to między Wiedźminem 3 nie trzeba było
+
+00:19:56.500 --> 00:19:59.500
+przeszyć całego silnika do Cyberpunka
+
+00:19:59.500 --> 00:20:02.500
+i po Cyberpunku dałoby się na nim zacząć robić nową produkcję, a się nie da.
+
+00:20:02.500 --> 00:20:05.500
+No tak, nie da się, ale to są problemy...
+
+00:20:05.500 --> 00:20:08.500
+Te problemy, które były w Cyberpunku,
+
+00:20:08.500 --> 00:20:11.500
+to były też u Was przy Wiedźminie 2.
+
+00:20:11.500 --> 00:20:14.500
+Tak, ale chodzi o to...
+
+00:20:14.500 --> 00:20:17.500
+Sam znasz te same problemy.
+
+00:20:17.500 --> 00:20:20.500
+Tak, ale chodzi o to, na czym zakładamy, że tych problemów nie będzie.
+
+00:20:20.500 --> 00:20:23.500
+Ale my też o tym chodzimy.
+
+00:20:23.500 --> 00:20:26.500
+Ja bardziej mówię...
+
+00:20:26.500 --> 00:20:29.500
+Bo popatrzcie, to czasami się rozbija o takie naprawdę pierdółki.
+
+00:20:29.500 --> 00:20:32.500
+To jest bardzo przerysowany przykład.
+
+00:20:32.500 --> 00:20:35.500
+Przy przejściu z Wiedźmina do Cyberpunka
+
+00:20:35.500 --> 00:20:38.500
+w silniku nie było obsługi broni palnej.
+
+00:20:38.500 --> 00:20:41.500
+Więc anegdotycznie, nie było mnie przy tym,
+
+00:20:41.500 --> 00:20:44.500
+ale wiem, że w pierwszych prototypach Cybera
+
+00:20:44.500 --> 00:20:47.500
+broń była technologicznie rzecz biorąc
+
+00:20:47.500 --> 00:20:50.500
+od strony kodu mieczem, który w momencie strzału
+
+00:20:50.500 --> 00:20:53.500
+wydłużał się na jakieś 100 metrów, żeby kogoś dźgnąć,
+
+00:20:53.500 --> 00:20:56.500
+bo nie dało się inaczej zrobić strzał.
+
+00:20:56.500 --> 00:20:59.500
+I teraz popatrzmy się na takie rzeczy,
+
+00:20:59.500 --> 00:21:02.500
+które teoretycznie mogą się zadziać na rynku.
+
+00:21:02.500 --> 00:21:05.500
+Na przykład się okaże, że z jakichś przyczyn
+
+00:21:05.500 --> 00:21:08.500
+we wszystkich grach głównonurtowych
+
+00:21:08.500 --> 00:21:11.500
+zawsze jest dobry kompanion gameplay.
+
+00:21:11.500 --> 00:21:14.500
+Że zawsze gram w dwie osoby z kimś tam, dajmy na to.
+
+00:21:14.500 --> 00:21:17.500
+Albo że nagle wszystkie muszą być z drużyną.
+
+00:21:17.500 --> 00:21:20.500
+Czy cokolwiek, czego w tym momencie...
+
+00:21:20.500 --> 00:21:23.500
+Co nawet nie jest modne.
+
+00:21:23.500 --> 00:21:26.500
+Nie są wspierane.
+
+00:21:26.500 --> 00:21:29.500
+I to zawsze jest jakiś narzut czasu i technologii.
+
+00:21:29.500 --> 00:21:32.500
+Ja nie mówię o tym, że ktoś wchodzi źle przygotowany,
+
+00:21:32.500 --> 00:21:35.500
+tylko że bardzo często wchodzą takie piłki,
+
+00:21:35.500 --> 00:21:38.500
+których po prostu są nieznane, nie wiadomo na początku planowania.
+
+00:21:38.500 --> 00:21:41.500
+I wydaje mi się, że ten plan co czy
+
+00:21:41.500 --> 00:21:44.500
+nowa gra AAA, nowy Super Wiedźmin,
+
+00:21:44.500 --> 00:21:47.500
+on może nie brać tego pod uwagę?
+
+00:21:47.500 --> 00:21:50.500
+Ale z drugiej strony, jako że jest na Unrealu,
+
+00:21:50.500 --> 00:21:53.500
+nie chcą tego wykorzystywać, tylko wykorzystają to, co nam jest potrzebne,
+
+00:21:53.500 --> 00:21:56.500
+to w razie czego, jeżeli potrzebują, to biorą sobie jakiś moduł
+
+00:21:56.500 --> 00:21:59.500
+i to...
+
+00:21:59.500 --> 00:22:02.500
+Ja wiem oczywiście, że mówię to trochę abstrakcyjnie,
+
+00:22:02.500 --> 00:22:05.500
+ale z drugiej strony...
+
+00:22:05.500 --> 00:22:08.500
+Oczywiście, to jest lepiej niż szyć własną technologię.
+
+00:22:08.500 --> 00:22:11.500
+Ja też w ogóle tutaj nie robię tego porównania.
+
+00:22:11.500 --> 00:22:14.500
+Jedyne, co ja mówię, to mnie zapytałeś, co sądzisz o czterech Wiedźminach.
+
+00:22:14.500 --> 00:22:17.500
+Ja mówię, po pierwsze jestem zajarany.
+
+00:22:17.500 --> 00:22:20.500
+Pięciu Wiedźminach.
+
+00:22:20.500 --> 00:22:23.500
+Ja teraz mówię o tej głównej, rzeczywiście pięciu Wiedźminach,
+
+00:22:23.500 --> 00:22:26.500
+o tej nowej, zapowiedzianej trylogii, ale jednocześnie jak patrzę na ten timeline,
+
+00:22:26.500 --> 00:22:29.500
+to mi się wydaje, że to jest taki czynnik, który może spowodować,
+
+00:22:29.500 --> 00:22:32.500
+że ten timeline się rozsłoni w czasie. Tylko to chciałem powiedzieć.
+
+00:22:32.500 --> 00:22:35.500
+Ja też na podcaście o tym mówiłem,
+
+00:22:35.500 --> 00:22:38.500
+że CDP nie dowiózł chyba nigdy nic na czas.
+
+00:22:38.500 --> 00:22:41.500
+Więc to jest też ważne.
+
+00:22:41.500 --> 00:22:44.500
+Ja też wrócę do Cyberpunka.
+
+00:22:44.500 --> 00:22:47.500
+Cyberpunk do tej pory technicznie
+
+00:22:47.500 --> 00:22:50.500
+jeszcze nawet nie jest średni.
+
+00:22:50.500 --> 00:22:53.500
+Może teraz już jest średni.
+
+00:22:53.500 --> 00:22:56.500
+Ale że fabuła jest fascynująca,
+
+00:22:56.500 --> 00:22:59.500
+bo ja jestem wielkim fanem tego,
+
+00:22:59.500 --> 00:23:02.500
+jak ta historia została tam opowiedziana,
+
+00:23:02.500 --> 00:23:05.500
+to, że jest moim zdaniem
+
+00:23:05.500 --> 00:23:08.500
+najlepszy romans w historii G,
+
+00:23:08.500 --> 00:23:11.500
+to wiem, że nawet jak oni będą
+
+00:23:11.500 --> 00:23:14.500
+ciut technologicznie czy wizualnie
+
+00:23:14.500 --> 00:23:17.500
+nawet zacofani, ale będzie ta jedna rzecz,
+
+00:23:17.500 --> 00:23:20.500
+która robi robotę, no to to jest do zrobienia.
+
+00:23:20.500 --> 00:23:23.500
+Po drugie jest tam Paweł Zawodny
+
+00:23:23.500 --> 00:23:26.500
+i wydaje się być... Jacek chwalił.
+
+00:23:26.500 --> 00:23:29.500
+Ja nie mówiłem o jakości.
+
+00:23:29.500 --> 00:23:32.500
+Tylko o terminach.
+
+00:23:32.500 --> 00:23:35.500
+Ja nie mam jakichś takich dużych wątpliwości,
+
+00:23:35.500 --> 00:23:38.500
+że jak oni przesiądą, to zrobią.
+
+00:23:38.500 --> 00:23:41.500
+Wiem, że w Gamedevie wszystko jest możliwe.
+
+00:23:41.500 --> 00:23:44.500
+Jest to kwestia pieniędzy i czasu.
+
+00:23:44.500 --> 00:23:47.500
+No tak, ale też każdy studio ma jakiś taki swój
+
+00:23:47.500 --> 00:23:50.500
+wydaje mi się unikalny odcisk palca,
+
+00:23:50.500 --> 00:23:53.500
+a jednak w CDP, przynajmniej póki co,
+
+00:23:53.500 --> 00:23:56.500
+fabuła zawsze była zajebista.
+
+00:23:56.500 --> 00:23:59.500
+To nigdy tego nie...
+
+00:23:59.500 --> 00:24:02.500
+Tam jest też parę innych eksperymentów,
+
+00:24:02.500 --> 00:24:05.500
+jakby przesadzenie tego teamu cyberowego
+
+00:24:05.500 --> 00:24:08.500
+z Bostonu, na przykład.
+
+00:24:08.500 --> 00:24:11.500
+Na razie wiemy, że tylko Paweł Sasko jedzie.
+
+00:24:11.500 --> 00:24:14.500
+Z tego, co pisał gdzieś na Twitterze,
+
+00:24:14.500 --> 00:24:17.500
+to pisał z grupą ludzi z coru cybera.
+
+00:24:17.500 --> 00:24:20.500
+Nie wiemy, co to oznacza.
+
+00:24:20.500 --> 00:24:23.500
+Nie wiemy, co to oznacza.
+
+00:24:23.500 --> 00:24:26.500
+Jeszcze jakiś żaden się nie przyznał na razie.
+
+00:24:26.500 --> 00:24:29.500
+Ale wiesz, chodzi mi o to, że z jednej strony niby w porząd,
+
+00:24:29.500 --> 00:24:32.500
+ale znowu się odwołam do swoich doświadczeń
+
+00:24:32.500 --> 00:24:35.500
+z tego kawałka, kiedy był taki rozwój
+
+00:24:35.500 --> 00:24:38.500
+po pierwszym Wiedźminie, a potem to wszystko skolapsowało,
+
+00:24:38.500 --> 00:24:41.500
+że też był taki plan, żeby tym core teamem
+
+00:24:41.500 --> 00:24:44.500
+obsadzić ileś zespołów,
+
+00:24:44.500 --> 00:24:47.500
+zasiać ze szczepki nowych zespołów.
+
+00:24:47.500 --> 00:24:50.500
+Zespół do tego, zespół do tego.
+
+00:24:50.500 --> 00:24:53.500
+No i potem w którymś momencie i tak trzeba było
+
+00:24:53.500 --> 00:24:56.500
+zrobić wszystkie ręce na pokład
+
+00:24:56.500 --> 00:24:59.500
+i ten zespół skonsolidować.
+
+00:24:59.500 --> 00:25:02.500
+Z tego, co rozumiem,
+
+00:25:02.500 --> 00:25:05.500
+pod koniec Wiedźmina 3 ludzie preprodukujący
+
+00:25:05.500 --> 00:25:08.500
+cybera przecież poszli do Wiedźmina 3.
+
+00:25:08.500 --> 00:25:11.500
+Tak, tak, to jest stały scenariusz.
+
+00:25:11.500 --> 00:25:14.500
+I teraz jak ja sobie myślę, mamy kolejkę i iluś gier.
+
+00:25:14.500 --> 00:25:17.500
+Ja wiem, że trudniej ściągnąć kogoś niby z Bostonu.
+
+00:25:17.500 --> 00:25:20.500
+Ale czekaj.
+
+00:25:20.500 --> 00:25:23.500
+Myślisz, że to jest taki plan, że po to się do Bostonu wysłałem?
+
+00:25:23.500 --> 00:25:26.500
+Nie, nie, nie.
+
+00:25:26.500 --> 00:25:29.500
+Ale z drugiej strony
+
+00:25:29.500 --> 00:25:32.500
+historię polskich studiów satelit
+
+00:25:32.500 --> 00:25:35.500
+czy Techlandu, CEDEP ma Wrocław, Kraków
+
+00:25:35.500 --> 00:25:38.500
+no nie wiem, no jeden tytykorze, ten Repta i Ujacka.
+
+00:25:38.500 --> 00:25:41.500
+To w jakiś sposób wyszło,
+
+00:25:41.500 --> 00:25:44.500
+a tak to chciałbym przypomnieć, że Wrocław miał robić swoją grę,
+
+00:25:44.500 --> 00:25:47.500
+Kraków chyba też miał robić swoją grę,
+
+00:25:47.500 --> 00:25:50.500
+no i a potem mamy problemy
+
+00:25:50.500 --> 00:25:53.500
+w ogóle naszej głównej, kasujemy i wszyscy macie pracę.
+
+00:25:53.500 --> 00:25:56.500
+Nawet Krew i Wino, które było robione przez długi czas
+
+00:25:56.500 --> 00:25:59.500
+przez Kraków, w sumie było kończone przez Warszawę.
+
+00:25:59.500 --> 00:26:02.500
+Przynajmniej tak słyszałem.
+
+00:26:02.500 --> 00:26:05.500
+Ostatecznie jest tak, że te wszystkie projekty
+
+00:26:05.500 --> 00:26:08.500
+gdzieś tam są łączone potem przez różnych ludzi,
+
+00:26:08.500 --> 00:26:11.500
+ale tu chyba jest taki scenariusz, że w zasadzie jest jeden nurt
+
+00:26:11.500 --> 00:26:14.500
+tego Wiedźmina i to jest robienie tej technologii,
+
+00:26:14.500 --> 00:26:17.500
+a powiedzmy do 2026. Drugim nurtem jest cyberpunk,
+
+00:26:17.500 --> 00:26:20.500
+a te pozostałe, ten projekt czwarty i piąty, to już są zewnętrzne studia.
+
+00:26:20.500 --> 00:26:23.500
+To są zewnętrzne studia.
+
+00:26:23.500 --> 00:26:26.500
+No może jest ich studiem.
+
+00:26:26.500 --> 00:26:29.500
+I liczmy na to, że ten chaos się nie wkradnie tym razem.
+
+00:26:29.500 --> 00:26:32.500
+Kurczę, ale właśnie to jest takie coś, że...
+
+00:26:32.500 --> 00:26:35.500
+Nie wiem.
+
+00:26:35.500 --> 00:26:38.500
+Życie pokazuje, że chaos jest rzeczą naturalną w tej branży.
+
+00:26:38.500 --> 00:26:41.500
+Chodzi mi o to, że ja mam wrażenie, że
+
+00:26:41.500 --> 00:26:44.500
+bo ja teraz mówię trochę jak fan,
+
+00:26:44.500 --> 00:26:47.500
+że z punktu widzenia fana to ja mam taką
+
+00:26:47.500 --> 00:26:50.500
+wrażenie z branżą albo z niektórymi studiami,
+
+00:26:50.500 --> 00:26:53.500
+że ja mam nadzieję, że tym razem będzie w porządnie,
+
+00:26:53.500 --> 00:26:56.500
+ale nie jest w porządnie, nigdy nie jest w porządnie.
+
+00:26:56.500 --> 00:26:59.500
+W sensie...
+
+00:26:59.500 --> 00:27:02.500
+Dobra, tym razem temu studiu się uda poprowadzić
+
+00:27:02.500 --> 00:27:05.500
+i nieważne, czy mówię o Techlandzie,
+
+00:27:05.500 --> 00:27:08.500
+czy mówię o CTP, dwa równoległe projekty.
+
+00:27:08.500 --> 00:27:11.500
+Aki z tym? Raczej się nie uda.
+
+00:27:11.500 --> 00:27:14.500
+Ale może tym razem się uda i wiesz, za każdym razem
+
+00:27:14.500 --> 00:27:17.500
+mam nadzieję, że się uda.
+
+00:27:17.500 --> 00:27:20.500
+Tak, mamy nadzieję.
+
+00:27:20.500 --> 00:27:23.500
+Przejdźmy do tematu pieniędzy.
+
+00:27:23.500 --> 00:27:26.500
+Miałeś dzisiaj wykład i już od dłuższego czasu
+
+00:27:26.500 --> 00:27:29.500
+zajmujesz się
+
+00:27:29.500 --> 00:27:32.500
+zbieraniem danych
+
+00:27:32.500 --> 00:27:35.500
+od polskich twórców gier
+
+00:27:35.500 --> 00:27:38.500
+dotyczących zarobków.
+
+00:27:38.500 --> 00:27:41.500
+Opowiedz o tym projekcie, o tym badaniu.
+
+00:27:41.500 --> 00:27:44.500
+To się gdzieś zaczęło w czerwcu,
+
+00:27:44.500 --> 00:27:47.500
+jak żeśmy w takiej jakiejś grupce twórców gier
+
+00:27:47.500 --> 00:27:50.500
+sobie nieformalnie gadali
+
+00:27:50.500 --> 00:27:53.500
+i ktoś tam mówi, ty słuchaj, bo mnie znajomy pyta,
+
+00:27:53.500 --> 00:27:56.500
+jak wchodzi do branży, to w sumie ile pieniędzy
+
+00:27:56.500 --> 00:27:59.500
+sobie może zaśpiewać za takie i takie stanowisko.
+
+00:27:59.500 --> 00:28:02.500
+I tak żeśmy sobie pomyśleli, kurczę, w sumie nie wiemy.
+
+00:28:02.500 --> 00:28:05.500
+W sensie każdy wie, ile u niego w firmie,
+
+00:28:05.500 --> 00:28:08.500
+być może wie, ile u niego w firmie płacą,
+
+00:28:08.500 --> 00:28:11.500
+czy są jakieś takie szeroko dostępne dane,
+
+00:28:11.500 --> 00:28:14.500
+to żeśmy tak trochę poszukali.
+
+00:28:14.500 --> 00:28:17.500
+No nic takiego stricte o zarobkach
+
+00:28:17.500 --> 00:28:20.500
+nie było, więc tak
+
+00:28:20.500 --> 00:28:23.500
+na szybko, myśląc wtedy, że to tylko
+
+00:28:23.500 --> 00:28:26.500
+w gronie znajomych sobie zrobimy taki
+
+00:28:26.500 --> 00:28:29.500
+prosty ten, zrobiłem ankietkę
+
+00:28:29.500 --> 00:28:32.500
+na Google Forumsach,
+
+00:28:32.500 --> 00:28:35.500
+puściłem linka, no i się zebrało ponad dziewięćset
+
+00:28:35.500 --> 00:28:38.500
+tych ankiet. To jest siedem procent
+
+00:28:38.500 --> 00:28:41.500
+branży według takich danych, które gdzieś tam mam z raportu właśnie
+
+00:28:41.500 --> 00:28:44.500
+GIT-a z zeszłego roku. Czyli to już są nagle
+
+00:28:44.500 --> 00:28:47.500
+takie istotne wielkości. Więc je sobie,
+
+00:28:47.500 --> 00:28:50.500
+więc jak już tyle się zebrało, to je podsumowałem, zrobiłem raport
+
+00:28:50.500 --> 00:28:53.500
+i dzisiaj o nim opowiedziałem i gdzieś tam jest dostępny.
+
+00:28:53.500 --> 00:28:56.500
+No i mam nadzieję w związku z tym, że w przyszłym roku zrobię
+
+00:28:56.500 --> 00:28:59.500
+po prostu kolejną edycję tej ankiety.
+
+00:28:59.500 --> 00:29:02.500
+Zważywszy na zainteresowanie i na to, ile ludzie mieli pomysłów, jak tą ankietę
+
+00:29:02.500 --> 00:29:05.500
+kupić, to warto. Rozumiem, że to już będzie,
+
+00:29:05.500 --> 00:29:08.500
+bo to też z tego wykładu, że będzie to cykliczna rzecz.
+
+00:29:08.500 --> 00:29:11.500
+No ja bym chciał, żeby to było cykliczne, bo uważam, że takie dane są
+
+00:29:11.500 --> 00:29:14.500
+potrzebne po prostu, nie? Ale są też studia, które nie do końca
+
+00:29:14.500 --> 00:29:17.500
+chcą się tymi danymi dzielić. No dlatego...
+
+00:29:17.500 --> 00:29:20.500
+Właśnie nie wiem skąd ta, skąd ta, jeżeli, jeżeli,
+
+00:29:20.500 --> 00:29:23.500
+bo to była taka część tego, tego panelu, której się przesłuchiwałem
+
+00:29:23.500 --> 00:29:26.500
+z uwagą. Jeżeli mamy do czynienia z totalnie anonimowymi
+
+00:29:26.500 --> 00:29:29.500
+odpowiedziami i w zasadzie jedyne, co trzeba byłoby napisać
+
+00:29:29.500 --> 00:29:32.500
+to, czy pracujesz w małym studiu, czy w dużym, no to te duże studia
+
+00:29:32.500 --> 00:29:35.500
+nie mają się za bardzo zaoprzejmować, ale...
+
+00:29:35.500 --> 00:29:38.500
+Ja wiem, znaczy, w sensie, wiesz, ja liczę, że też przez to, że ja wyszedłem
+
+00:29:38.500 --> 00:29:41.500
+z tymi wynikami publicznie, że one są publicznie dostępne, że one już,
+
+00:29:41.500 --> 00:29:44.500
+już są częścią rozmowy, w sensie już
+
+00:29:44.500 --> 00:29:47.500
+czasami do mnie ktoś mówi, a słuchaj, dzięki, użyłem
+
+00:29:47.500 --> 00:29:50.500
+tej ankiety podczas rozmowy o pracę albo podczas rozmowy
+
+00:29:50.500 --> 00:29:53.500
+o podwyżkę i oczywiście usłyszałem, że chujowa metodologia i że
+
+00:29:53.500 --> 00:29:56.500
+w ogóle te dane, nie ten, ale... Ale to trochę prawda jest.
+
+00:29:56.500 --> 00:29:59.500
+No tak, to trochę prawda jest, nie? No bo to jest pierwsza taka ankieta.
+
+00:29:59.500 --> 00:30:02.500
+Tak, ale chodzi o to, że jakby już, jak to się mówi, mleko się już ozlało,
+
+00:30:02.500 --> 00:30:05.500
+nie? To już ludzie wiedzą, że takie dane mogą być
+
+00:30:05.500 --> 00:30:08.500
+i teraz myślę, że to znaczy, że
+
+00:30:08.500 --> 00:30:11.500
+wszystkim nagle na rynku, myślę, może zacząć
+
+00:30:11.500 --> 00:30:14.500
+zależeć na tym, żeby te dane były raczej lepsze niż gorsze.
+
+00:30:14.500 --> 00:30:17.500
+Okej. Nie? Więc, a póki co
+
+00:30:17.500 --> 00:30:20.500
+miałem taką, bo ja to albo po grupkach facebookowych,
+
+00:30:20.500 --> 00:30:23.500
+na LinkedInie, w jakichś tam, wiesz, zamkniętych forach dla
+
+00:30:23.500 --> 00:30:26.500
+twórców gier i też wśród znajomych, no ale
+
+00:30:26.500 --> 00:30:29.500
+jak próbowałem to pchnąć do znajomych, którzy pracują w dużych firmach i mówię
+
+00:30:29.500 --> 00:30:32.500
+słuchaj, weź, pójdź na wewnętrznym komunikatorze tą
+
+00:30:32.500 --> 00:30:35.500
+ankietę, żeby gdzieś dotarło na to. W paru miejscach
+
+00:30:35.500 --> 00:30:38.500
+usłyszałem, no wiesz, nie, bo to niezgodne z naszą
+
+00:30:38.500 --> 00:30:41.500
+polityką komunikacji albo u nas źle się patrzą
+
+00:30:41.500 --> 00:30:44.500
+na takie ankiety,
+
+00:30:44.500 --> 00:30:47.500
+a myślę, że dzięki temu, no to wiesz, no po prostu
+
+00:30:47.500 --> 00:30:50.500
+danych... Okej, ale dlaczego się źle patrzą?
+
+00:30:50.500 --> 00:30:53.500
+No, padły cztery firmy. Padły CDEP,
+
+00:30:53.500 --> 00:30:56.500
+Bity... W Bitach mi się w końcu udało. Udało ci.
+
+00:30:56.500 --> 00:30:59.500
+Znajomości masz może. Cztery największe polskie.
+
+00:30:59.500 --> 00:31:02.500
+Techland? People Can Fly, Techland.
+
+00:31:02.500 --> 00:31:05.500
+Wiesz co? Tak, że oni się nie chcą dzielić.
+
+00:31:05.500 --> 00:31:08.500
+Ja podejrzewam, że
+
+00:31:08.500 --> 00:31:11.500
+z przyzwyczajenia. Tak, tak, że się blokuje
+
+00:31:11.500 --> 00:31:14.500
+tego typu... Że z przyzwyczajenia na wszelki wypadek, jakby ludzie
+
+00:31:14.500 --> 00:31:17.500
+nie wiedzieli, bo ja to usłyszałem od...
+
+00:31:17.500 --> 00:31:20.500
+W rozmowach od paru
+
+00:31:20.500 --> 00:31:23.500
+szefów albo właścicieli firm, mi jest wygodniej,
+
+00:31:23.500 --> 00:31:26.500
+jak ludzie nie wiedzą, ile inni zarabiają, bo tak,
+
+00:31:26.500 --> 00:31:29.500
+jak ktoś nie przychodzi często po podwyżkę, to nie dostanie tej podwyżki,
+
+00:31:29.500 --> 00:31:32.500
+a tak jak... Aha, że to taka... Tak, że...
+
+00:31:32.500 --> 00:31:35.500
+Spora medytacja, nie? Lepiej, żeby nie wiedzieli, ile tu się płaci,
+
+00:31:35.500 --> 00:31:38.500
+to można mniej zaproponować nowemu.
+
+00:31:38.500 --> 00:31:41.500
+No, w sensie dokładnie tak. W sensie dokładnie tak. I teraz ja to rozumiem
+
+00:31:41.500 --> 00:31:44.500
+pewno, jakbym wydawał własne pieniądze, to może też bym tak myślał,
+
+00:31:44.500 --> 00:31:47.500
+no ale że raczej jestem po stronie
+
+00:31:47.500 --> 00:31:50.500
+odbiorczej, to ja tak lubię raczej przejrzystość niż
+
+00:31:50.500 --> 00:31:53.500
+brak przejrzystości, nie? To jest takie trochę security by obscurity,
+
+00:31:53.500 --> 00:31:56.500
+nie? Że nikomu nie powiemy, gdzie jest
+
+00:31:56.500 --> 00:31:59.500
+przyklejona karteczka z hasłem, to może nikt jej nie znajdzie, wiesz?
+
+00:31:59.500 --> 00:32:02.500
+A to jest trochę na zasadzie... Nie będziemy mówić...
+
+00:32:02.500 --> 00:32:05.500
+To akurat historia, wiesz, anegdejta, ale zasłyszana od kogoś, nie?
+
+00:32:05.500 --> 00:32:08.500
+Że w którymś momencie ktoś się zorientował, że pracuje
+
+00:32:08.500 --> 00:32:11.500
+w tej firmie 10 lat i zarabia mniej pieniędzy
+
+00:32:11.500 --> 00:32:14.500
+niż ludzie, którzy na jego poziomie przychodzą
+
+00:32:14.500 --> 00:32:17.500
+teraz jako, wiesz,
+
+00:32:17.500 --> 00:32:20.500
+tam, powiedzmy, świeży specjaliści,
+
+00:32:20.500 --> 00:32:23.500
+bo się nie upominał. No i oczywiście
+
+00:32:23.500 --> 00:32:26.500
+co? No i już rzeczywiście wkurw był na tyle duży, że
+
+00:32:26.500 --> 00:32:29.500
+od razu zmienił pracę, nie? No tak, tak, tak.
+
+00:32:29.500 --> 00:32:32.500
+Więc to jest też takie coś, co pracodawcę też może w którymś momencie ugryźć
+
+00:32:32.500 --> 00:32:35.500
+w dupę, nie? No, no, no. A nie wszyscy mają,
+
+00:32:35.500 --> 00:32:38.500
+znaczy, bo niektóre firmy mają na przykład takie coś, tak? Co roku
+
+00:32:38.500 --> 00:32:41.500
+możesz liczyć na co najmniej, wiesz,
+
+00:32:41.500 --> 00:32:44.500
+podwyżkę w wysokości inflacji, nie? Ale niektóre firmy
+
+00:32:44.500 --> 00:32:47.500
+tak nie mają, no. To duża podwyżka w tym roku. No właśnie.
+
+00:32:47.500 --> 00:32:50.500
+Właśnie jestem ciekawy. Już jestem ciekawy, tak.
+
+00:32:50.500 --> 00:32:53.500
+Dla kogo ty to robisz tak naprawdę? No bo wy mówicie
+
+00:32:53.500 --> 00:32:56.500
+staży, ale dla was
+
+00:32:56.500 --> 00:32:59.500
+jakby weteranów co to zmienia?
+
+00:32:59.500 --> 00:33:02.500
+Czy dla starszy? No to dużo było młodych, którzy...
+
+00:33:02.500 --> 00:33:05.500
+Ja to robię tak po prostu, no nie wiem, tak...
+
+00:33:05.500 --> 00:33:08.500
+Znaczy, robisz to dla siebie, ale raport się przydaje innym.
+
+00:33:08.500 --> 00:33:11.500
+Tak. No więc w teorii
+
+00:33:11.500 --> 00:33:14.500
+nie robisz tego dla siebie. Tak, no ale chodzi mi o to, że nie robię tego
+
+00:33:14.500 --> 00:33:17.500
+na niczynie zlecenia w tym znaczeniu.
+
+00:33:17.500 --> 00:33:20.500
+A mam nadzieję, że tak ogólnie rzecz biorąc dla branży.
+
+00:33:20.500 --> 00:33:23.500
+Okej. Mówisz, że będzie cykliczne, tak? Rok,
+
+00:33:23.500 --> 00:33:26.500
+rok, rok albo... No właśnie, prawdę powiedziawszy, teraz jestem na etapie,
+
+00:33:26.500 --> 00:33:29.500
+że się zastanawiam, czy to robić raz w roku,
+
+00:33:29.500 --> 00:33:32.500
+czy to robić co pół roku.
+
+00:33:32.500 --> 00:33:35.500
+Może być za często. Raz w roku brzmi
+
+00:33:35.500 --> 00:33:38.500
+tak w miarę sensownie. Też trochę się zastanawiam, czy
+
+00:33:38.500 --> 00:33:41.500
+nie skumać się z którąś
+
+00:33:41.500 --> 00:33:44.500
+z konferencji, które są w Polsce i tego nie zgrać
+
+00:33:44.500 --> 00:33:47.500
+zbieranych danych na przykład z geekiem czy
+
+00:33:47.500 --> 00:33:50.500
+z Dragonsami, nie? Bo to... No właśnie, zbierać dane to
+
+00:33:50.500 --> 00:33:53.500
+nie musi... To jakby ogłoszenie wyników może się odbywać
+
+00:33:53.500 --> 00:33:56.500
+raz w roku, natomiast zbieranie danych to praktycznie... Tylko widzisz,
+
+00:33:56.500 --> 00:33:59.500
+tylko ja sobie na to myślałem. Okej. Weźmy ten rok teraz,
+
+00:33:59.500 --> 00:34:02.500
+nie? Z wysoką inflacją.
+
+00:34:02.500 --> 00:34:05.500
+Mogą być duże podwyżki w ciągu roku. Wolałbym powiedzieć,
+
+00:34:05.500 --> 00:34:08.500
+że to są dane z czerwca, a nie... Część danych
+
+00:34:08.500 --> 00:34:11.500
+jest ze stycznia, część danych jest z września, a w międzyczasie
+
+00:34:11.500 --> 00:34:14.500
+ktoś dwa razy dostał podwyżkę i rozmienił pracę.
+
+00:34:14.500 --> 00:34:17.500
+Ja wiem, że może to w dłuższym, w takim
+
+00:34:17.500 --> 00:34:20.500
+szerszej perspektywie nic nie zmieni, ale ja już wtedy
+
+00:34:20.500 --> 00:34:23.500
+czułbym taki dyskomfort z tymi danymi. A jeden miesiąc to jest jeden miesiąc.
+
+00:34:23.500 --> 00:34:26.500
+To wiadomo, to jest wycinek konkretnie czerwca, dajmy na to,
+
+00:34:26.500 --> 00:34:29.500
+w tym przypadku. Okej, okej. To dobrze, to ile się w tym
+
+00:34:29.500 --> 00:34:32.500
+polskim gamedewie zarabia? No, zarabia się więcej niż się
+
+00:34:32.500 --> 00:34:35.500
+zarabia... Poza gamedewem. Tak.
+
+00:34:35.500 --> 00:34:38.500
+Jak pozwolisz, sięgnę po telefon i tam mam
+
+00:34:38.500 --> 00:34:41.500
+jakieś dane, bo ja
+
+00:34:41.500 --> 00:34:44.500
+oczywiście nie pamiętam tego
+
+00:34:44.500 --> 00:34:47.500
+prawdę powiedziawszy.
+
+00:34:47.500 --> 00:34:50.500
+To jest najważniejsze pytanie
+
+00:34:50.500 --> 00:34:53.500
+młodych początkujących. Słuchajcie.
+
+00:34:53.500 --> 00:34:56.500
+Od czego mamy zacząć? Jaką pierwszą?
+
+00:34:56.500 --> 00:34:59.500
+Wiesz, opłaca się być programistą. To zdecydowanie.
+
+00:34:59.500 --> 00:35:02.500
+Polecamy gorąco. Tak jak kiedyś rodzice mówili
+
+00:35:02.500 --> 00:35:05.500
+zostań prawnikiem, lekarzem
+
+00:35:05.500 --> 00:35:08.500
+tudzież dentystą, to teraz zostań programistą.
+
+00:35:08.500 --> 00:35:11.500
+Taka ciekawostka. Średnia
+
+00:35:11.500 --> 00:35:14.500
+ja pytałem o zarobki brutto, nie? Czyli
+
+00:35:14.500 --> 00:35:17.500
+to też jest
+
+00:35:17.500 --> 00:35:20.500
+tak, zaraz wam powiem.
+
+00:35:20.500 --> 00:35:23.500
+Przed podatkami i przed ubezpieczeniem.
+
+00:35:23.500 --> 00:35:26.500
+No i to jest takie coś. Jak jestem na umowę o pracę
+
+00:35:26.500 --> 00:35:29.500
+to po prostu patrzę ile jest brutto
+
+00:35:29.500 --> 00:35:32.500
+i jak wystawiam fakturę, to pytałem o kwotę
+
+00:35:32.500 --> 00:35:35.500
+przed VAT-em, nie? Wylicząc VAT-u.
+
+00:35:35.500 --> 00:35:38.500
+Natomiast to nie przestaje tak do końca
+
+00:35:38.500 --> 00:35:41.500
+ze sobą, bo czasami w wielu
+
+00:35:41.500 --> 00:35:44.500
+firmach dostajesz taki wybór, nie? Ja jako
+
+00:35:44.500 --> 00:35:47.500
+pracodawca mam na ciebie dyszkę i teraz
+
+00:35:47.500 --> 00:35:50.500
+jak chcesz przejść na B2B, to wystawiasz mi
+
+00:35:50.500 --> 00:35:53.500
+fakturę na dyszkę. B2B, czyli? Czyli fakturę.
+
+00:35:53.500 --> 00:35:56.500
+Czyli ja niby jestem jednoosobową działalnością gospodarczą
+
+00:35:56.500 --> 00:35:59.500
+i jestem kontraktorem tej firmy, broń Boże, w niej nie pracuję
+
+00:35:59.500 --> 00:36:02.500
+tylko jestem jej kontraktorem i wystawiam co miesiąc
+
+00:36:02.500 --> 00:36:05.500
+fakturę za swoje usługi. Jasne. To w IT jest niezwykle
+
+00:36:05.500 --> 00:36:08.500
+powszechnie. Tak. No i wtedy
+
+00:36:08.500 --> 00:36:11.500
+ja jako pracodawca mam na ciebie dyszkę, ty mi wystawiasz fakturę na dyszkę
+
+00:36:11.500 --> 00:36:14.500
+plus VAT, jesteś zadowolony, masz dyszkę
+
+00:36:14.500 --> 00:36:17.500
+na rękę, znaczy nie, dla siebie, ale płacisz
+
+00:36:17.500 --> 00:36:20.500
+za to ZUS. I dochodówkę.
+
+00:36:20.500 --> 00:36:23.500
+Dochodówkę, księgową, może jeszcze
+
+00:36:23.500 --> 00:36:26.500
+jakieś transkrypcje. Ale to już nikomu nie interesuje. Natomiast
+
+00:36:26.500 --> 00:36:29.500
+jeśli ty byś do mnie przyszedł na umowę
+
+00:36:29.500 --> 00:36:32.500
+o pracę, to ja bym powiedział moje koszty
+
+00:36:32.500 --> 00:36:35.500
+pracodawcy to jest 10, więc
+
+00:36:35.500 --> 00:36:38.500
+to pewno brutto jest wtedy dla ciebie
+
+00:36:38.500 --> 00:36:41.500
+jakieś niecałe 8 i na rękę dostajesz koło 5,
+
+00:36:41.500 --> 00:36:44.500
+nie? No to
+
+00:36:44.500 --> 00:36:47.500
+ludzie nie wiedzą jakie są ich koszty pracodawcy, więc ja pytam
+
+00:36:47.500 --> 00:36:50.500
+o to brutto, więc może nie do końca są
+
+00:36:50.500 --> 00:36:53.500
+w 100% spójne te dane między
+
+00:36:53.500 --> 00:36:56.500
+ten, ale to też... No nie da się wszystkiego zrobić.
+
+00:36:56.500 --> 00:36:59.500
+Tak. No więc generalnie tak liczona średnia
+
+00:36:59.500 --> 00:37:02.500
+średnia to jest 11 tysięcy złotych miesięcznie.
+
+00:37:02.500 --> 00:37:05.500
+Średnia z maja
+
+00:37:05.500 --> 00:37:08.500
+zeszłego roku ogólnie za roków w Polsce tak jak
+
+00:37:08.500 --> 00:37:11.500
+opowiadaje Gus, to było tam 6600. Tylko
+
+00:37:11.500 --> 00:37:14.500
+teraz knyw jest taki, że
+
+00:37:14.500 --> 00:37:17.500
+według raportów, do których się
+
+00:37:17.500 --> 00:37:20.500
+dostałem, które gdzieś tam krążą w przestrzeni publicznej
+
+00:37:20.500 --> 00:37:23.500
+w miarę wiarygodnych, to się wydaje, że może być tak, że w Polsce
+
+00:37:23.500 --> 00:37:26.500
+tą średnią to
+
+00:37:26.500 --> 00:37:29.500
+powyżej tej średniej zarabia tylko 20% osób.
+
+00:37:29.500 --> 00:37:32.500
+Że 20% osób zarabia...
+
+00:37:32.500 --> 00:37:35.500
+Znaczy 80% osób zarabia poniżej tej średniej. Tak, tak, tak.
+
+00:37:35.500 --> 00:37:38.500
+W gamedevie to jest takie coś,
+
+00:37:38.500 --> 00:37:41.500
+że 80% osób zarabia poniżej
+
+00:37:41.500 --> 00:37:44.500
+15 tysięcy, a
+
+00:37:44.500 --> 00:37:47.500
+20% osób zarabia powyżej 15 tysięcy. Czyli
+
+00:37:47.500 --> 00:37:50.500
+jak się popatrzy jeszcze na ten 80%
+
+00:37:50.500 --> 00:37:53.500
+to gamedevie jest w jeszcze lepszej sytuacji.
+
+00:37:53.500 --> 00:37:56.500
+Generalnie rzecz biorąc wydaje się, że gdzieś tam
+
+00:37:56.500 --> 00:37:59.500
+połowa ludzi w gamedevie zarabia mniej niż 9000
+
+00:37:59.500 --> 00:38:02.500
+złotych, a połowa zarabia więcej niż 9000 złotych.
+
+00:38:02.500 --> 00:38:05.500
+Jakoś tak. A programiści ile zarabiają?
+
+00:38:05.500 --> 00:38:08.500
+No, programiści to zarabiają więcej. To nas
+
+00:38:08.500 --> 00:38:11.500
+interesuje, Państwo słuchają. Tak.
+
+00:38:11.500 --> 00:38:14.500
+Teraz czy trzeba iść po podwyżkę? No to
+
+00:38:14.500 --> 00:38:17.500
+połowa programistów zarabia
+
+00:38:17.500 --> 00:38:20.500
+do 12, a połowa powyżej 12 tysięcy.
+
+00:38:20.500 --> 00:38:23.500
+No, to jest tak. Każdy może sobie porównać
+
+00:38:23.500 --> 00:38:26.500
+bo tam średnie, nieśrednie. I potem jeśli chodzi o te
+
+00:38:26.500 --> 00:38:29.500
+najwyższe zarobki, to też potem
+
+00:38:29.500 --> 00:38:32.500
+dla programistów te najwyższe zarobki są wyższe
+
+00:38:32.500 --> 00:38:35.500
+i jakby idą szybciej do góry niż w arcie czy w designie.
+
+00:38:35.500 --> 00:38:38.500
+Najgorzej zarabia QA. I to w sumie mi się wydaje
+
+00:38:38.500 --> 00:38:41.500
+z jakimś takim trochę błędem w tym systemie
+
+00:38:41.500 --> 00:38:44.500
+bo jak się okazuje, że na przykład
+
+00:38:44.500 --> 00:38:47.500
+połowa dyrektorów QA
+
+00:38:47.500 --> 00:38:50.500
+zarabia gorzej niż specjalista programista
+
+00:38:50.500 --> 00:38:53.500
+albo senior designer
+
+00:38:53.500 --> 00:38:56.500
+no to
+
+00:38:56.500 --> 00:38:59.500
+trudno się dziwić takim trendowi, który ja obserwuję, że
+
+00:38:59.500 --> 00:39:02.500
+doświadczonego QA'a, bardzo doświadczonego QA'a
+
+00:39:02.500 --> 00:39:05.500
+nie ma, bo jak QA jest
+
+00:39:05.500 --> 00:39:08.500
+sensowny, to mu się udaje przekwalifikować
+
+00:39:08.500 --> 00:39:11.500
+na designera albo na programistę
+
+00:39:11.500 --> 00:39:14.500
+albo zmienić branżę. Więc oczywiście
+
+00:39:14.500 --> 00:39:17.500
+ostatnio to jest takie trochę anegdejta, że nie mam
+
+00:39:17.500 --> 00:39:20.500
+bardzo twardych danych, które za tym stoją, ale dużo takich historii
+
+00:39:20.500 --> 00:39:23.500
+widziałem po prostu. Ok. A jest
+
+00:39:23.500 --> 00:39:26.500
+coś takiego, jak zbierasz te dane i je
+
+00:39:26.500 --> 00:39:29.500
+analizujesz, to masz takie wrażenie, że one są
+
+00:39:29.500 --> 00:39:32.500
+czymś na tym etapie zafałszowane. Na przykład
+
+00:39:32.500 --> 00:39:35.500
+bardzo mało dyrektorów
+
+00:39:35.500 --> 00:39:38.500
+albo jest za dużo
+
+00:39:38.500 --> 00:39:41.500
+jako, że ty jesteś weteranem branży
+
+00:39:41.500 --> 00:39:44.500
+to odzew jest taki, że seniorów jest dużo. Mi się wydaje, że może być
+
+00:39:44.500 --> 00:39:47.500
+mało juniorów, że tutaj
+
+00:39:47.500 --> 00:39:50.500
+możemy mieć nie do końca zeksplorowaną tą
+
+00:39:50.500 --> 00:39:53.500
+jakby tę grupę.
+
+00:39:53.500 --> 00:39:56.500
+Druga rzecz jest taka, że to są, no...
+
+00:39:56.500 --> 00:39:59.500
+To nie jest losowa próbka, ale nie mam zielonego pojęcia
+
+00:39:59.500 --> 00:40:02.500
+w jaki sposób fizycznie komukolwiek udałoby się
+
+00:40:02.500 --> 00:40:05.500
+uzyskać losową próbkę, prawdziwą losową
+
+00:40:05.500 --> 00:40:08.500
+próbkę ludzi pracujących w gamedevie, nie? To trzeba by mieć
+
+00:40:08.500 --> 00:40:11.500
+telefony do wszystkich, wrzucić je do puli, wylosować,
+
+00:40:11.500 --> 00:40:14.500
+no ale skąd wziąć telefony do wszystkich w gamedevie, nie?
+
+00:40:14.500 --> 00:40:17.500
+Dobry był, bardzo ciekawy był
+
+00:40:17.500 --> 00:40:20.500
+jedno z pytań. Właściwie taki był wniosek
+
+00:40:20.500 --> 00:40:23.500
+dotyczący tego, żeby też zbierać dane
+
+00:40:23.500 --> 00:40:26.500
+z ofert pracy, gdzie są podawane
+
+00:40:26.500 --> 00:40:29.500
+widełki i pytanie, czy to jest w ogóle...
+
+00:40:29.500 --> 00:40:32.500
+To by było inne bananie.
+
+00:40:32.500 --> 00:40:35.500
+Chociażby dlatego, że ludzie, którzy teraz idą do pracy
+
+00:40:35.500 --> 00:40:38.500
+bardzo często te widełki
+
+00:40:38.500 --> 00:40:41.500
+są wyższe niż ludzi, którzy rzeczywiście już są na tych stanowiskach
+
+00:40:41.500 --> 00:40:44.500
+od ileś lat i zarabiają, także to też nie byłoby
+
+00:40:44.500 --> 00:40:47.500
+nie mówiłoby... To co mnie interesuje to jest to
+
+00:40:47.500 --> 00:40:50.500
+ile rzeczywiście się teraz zarabia, nie? A nie
+
+00:40:50.500 --> 00:40:53.500
+ile trzeba napisać w widełkach, żeby ściągnąć nowego pracownika
+
+00:40:53.500 --> 00:40:56.500
+bo to są trochę inne rzeczy. A jaki masz plan
+
+00:40:56.500 --> 00:40:59.500
+w takim razie, żeby... No bo rozumiem, że losowa
+
+00:40:59.500 --> 00:41:02.500
+próba, nie da się tego wykonać, więc teraz
+
+00:41:02.500 --> 00:41:05.500
+celem jest zdobycie jak największej ilości ankiet
+
+00:41:05.500 --> 00:41:08.500
+Jaki masz tutaj... No część planu już zacząłem, to znaczy
+
+00:41:08.500 --> 00:41:11.500
+wbijam się z tym na konferencje, poopowiadałem, więcej ludzi
+
+00:41:11.500 --> 00:41:14.500
+usłyszało, może będzie... Państwo słyszą
+
+00:41:14.500 --> 00:41:17.500
+Państwo słyszą, może będą skłonni
+
+00:41:17.500 --> 00:41:20.500
+No ja też zacząłem wymieniać kontakty z ludźmi
+
+00:41:20.500 --> 00:41:23.500
+gdzieś tam z HR-ów czy tego typu rzeczy
+
+00:41:23.500 --> 00:41:26.500
+z dużych firm i po prostu będę im podsyłał kolejne rzeczy
+
+00:41:26.500 --> 00:41:29.500
+i odnośnie dzięki temu
+
+00:41:29.500 --> 00:41:32.500
+będę miał po prostu...
+
+00:41:32.500 --> 00:41:35.500
+Też dobry był pomysł, żeby
+
+00:41:35.500 --> 00:41:38.500
+promować tą ankietę na
+
+00:41:38.500 --> 00:41:41.500
+GIT-u czy na... Przepraszam, nie wolno mówić
+
+00:41:41.500 --> 00:41:44.500
+GIT-u, nie wolno, Kuba zabrania
+
+00:41:44.500 --> 00:41:47.500
+GIK? GIK. No GIK, tak jak GIK
+
+00:41:47.500 --> 00:41:50.500
+Ale ja zawsze mówię GIT-u Ja zawsze mówię GIK, bo ja
+
+00:41:50.500 --> 00:41:53.500
+rozpoznałem te dwie słowy już od razu
+
+00:41:53.500 --> 00:41:56.500
+Tylko to jest też ta sama sugestia, którą
+
+00:41:56.500 --> 00:41:59.500
+wcześniej poczyniłem, że gdybyś
+
+00:41:59.500 --> 00:42:02.500
+zbierał dane na konferencjach, no bo też tam była taka
+
+00:42:02.500 --> 00:42:05.500
+propozycja, żeby kod QR podać do ankiety i tyle
+
+00:42:05.500 --> 00:42:08.500
+No, ale to jakby konferencje w różnych okresach
+
+00:42:08.500 --> 00:42:11.500
+są i w rezultacie dostajesz dane
+
+00:42:11.500 --> 00:42:14.500
+trochę niespójne. Pewno bym sobie musiał wtedy wybrać
+
+00:42:14.500 --> 00:42:17.500
+na przykład, że robię tą ankietę w październiku
+
+00:42:17.500 --> 00:42:20.500
+i wtedy po prostu łączyć ją na to z GIK-iem
+
+00:42:20.500 --> 00:42:23.500
+albo gdzieś tam w maju, czy nie pamiętam
+
+00:42:23.500 --> 00:42:26.500
+kiedy są Dragonsy i wtedy łączyć je z Dragonsami
+
+00:42:26.500 --> 00:42:29.500
+To są w zasadzie takie dwa... No ale jest to jakiś...
+
+00:42:29.500 --> 00:42:32.500
+Jest ciekawe. My oczywiście podlinkujemy
+
+00:42:32.500 --> 00:42:35.500
+wyniki, tak? Bo to jest jeszcze
+
+00:42:35.500 --> 00:42:38.500
+ankieta. A nie boisz się na przykład, że
+
+00:42:38.500 --> 00:42:41.500
+w jakiś sposób weryfikujesz, czy ktoś rzeczywiście pracuje w branży
+
+00:42:41.500 --> 00:42:44.500
+czy nie? Wiesz co? Nie.
+
+00:42:44.500 --> 00:42:47.500
+Nie, bo to jest w stu procentach
+
+00:42:47.500 --> 00:42:50.500
+anonimowa ankieta. Ja nie mam żadnego sposobu, żeby namierzyć
+
+00:42:50.500 --> 00:42:53.500
+poszczególne osoby. I to jest trochę celowo
+
+00:42:53.500 --> 00:42:56.500
+i ja jakby nie chcę być odpowiedzialny za nieczyje dane
+
+00:42:56.500 --> 00:42:59.500
+wrażliwe. W sensie tam po prostu nie ma nic
+
+00:42:59.500 --> 00:43:02.500
+pozwalające zidentyfikować, kto tą ankietę wypełnił.
+
+00:43:02.500 --> 00:43:05.500
+Ale czy jest jakiś sposób na to, żeby rzeczywiście
+
+00:43:05.500 --> 00:43:08.500
+wypełniały to tylko osoby, które są z gamedevu?
+
+00:43:08.500 --> 00:43:11.500
+Poza tym, że nie puszczałem tego
+
+00:43:11.500 --> 00:43:14.500
+w miejsca na przykład, nie wiem
+
+00:43:14.500 --> 00:43:17.500
+w miejsca takie publicznie dostępne, nie?
+
+00:43:17.500 --> 00:43:20.500
+No trudno mi powiedzieć.
+
+00:43:20.500 --> 00:43:23.500
+Nie wiem, czy poznałbym, jakby się pojawił jakiś trolling, który ma na celu
+
+00:43:23.500 --> 00:43:26.500
+nie wiem co. W jakiejś tam firmie
+
+00:43:26.500 --> 00:43:29.500
+wraża się bardzo mało.
+
+00:43:29.500 --> 00:43:32.500
+W ankietach zawsze jest jakiś tam promil ludzi, którzy robią to
+
+00:43:32.500 --> 00:43:35.500
+robią żart z tego, więc nie sądzę, żeby to wpłynęło
+
+00:43:35.500 --> 00:43:38.500
+w ogóle na... To co, jak w każdej ankiecie
+
+00:43:38.500 --> 00:43:41.500
+na przykład
+
+00:43:41.500 --> 00:43:44.500
+bardzo często jak się zbiera dane takie jak zarobki, to się odcina ilość
+
+00:43:44.500 --> 00:43:47.500
+najwyższych i najniższych, bo także
+
+00:43:47.500 --> 00:43:50.500
+na przykład nie wiem
+
+00:43:50.500 --> 00:43:53.500
+jedną, jakby punkt danych czy ankietę
+
+00:43:53.500 --> 00:43:56.500
+w której ktoś napisał, że zarabia 155 tysięcy
+
+00:43:56.500 --> 00:43:59.500
+złotych miesięcznie, no to był, to jest ten
+
+00:43:59.500 --> 00:44:02.500
+górna część, którą odciąłem. Też jak były jakieś, że ktoś
+
+00:44:02.500 --> 00:44:05.500
+pisał, że zarabia 20 albo 200 złotych, to też
+
+00:44:05.500 --> 00:44:08.500
+to odciąłem, bo... Czyli jakby jestem w stanie zidentyfikować
+
+00:44:08.500 --> 00:44:11.500
+te dwie firmy.
+
+00:44:11.500 --> 00:44:14.500
+No bo nawet jeśli tak jest, to
+
+00:44:14.500 --> 00:44:17.500
+w zestawieniach takich dużych, to by bardzo fałszowało
+
+00:44:17.500 --> 00:44:20.500
+obraz, nie? Także to jest takie jakby trochę
+
+00:44:20.500 --> 00:44:23.500
+statystyczne, żeby...
+
+00:44:23.500 --> 00:44:26.500
+Czyli takie analityczne, nie? Pieniądze, fajne wyniki
+
+00:44:26.500 --> 00:44:29.500
+wyniki też interesujące, chociaż
+
+00:44:29.500 --> 00:44:32.500
+rzeczywiście mi się bardzo podoba to, że
+
+00:44:32.500 --> 00:44:35.500
+też odzew z
+
+00:44:35.500 --> 00:44:38.500
+tego panelu był taki, że ludzie jakby chcieli trochę
+
+00:44:38.500 --> 00:44:41.500
+pomóc, bo też czuję, że
+
+00:44:41.500 --> 00:44:44.500
+jest to taka ankieta, te dane
+
+00:44:44.500 --> 00:44:47.500
+są wartościowe dla
+
+00:44:47.500 --> 00:44:50.500
+pracowników, ale mogą utrudnić życie
+
+00:44:50.500 --> 00:44:53.500
+pracodawcom. Czy będą musieli czasami
+
+00:44:53.500 --> 00:44:56.500
+więcej zapłacić? No ja w sumie jestem ciekawy,
+
+00:44:56.500 --> 00:44:59.500
+nie? Ja tak mam ochotę trochę umyć ręce i powiedzieć, że
+
+00:44:59.500 --> 00:45:02.500
+to są dane, nie? Ale...
+
+00:45:02.500 --> 00:45:05.500
+Ale tak. Ale uciekniesz chichocząc, jak
+
+00:45:05.500 --> 00:45:08.500
+wyjdzie dobrze. Ale tak, no jest to oddolna inicjatywa
+
+00:45:08.500 --> 00:45:11.500
+i jako taka mi się podoba, nie? No to jest
+
+00:45:11.500 --> 00:45:14.500
+dobrze wiedzieć też dla ludzi, którzy wchodzą, przebranżowują
+
+00:45:14.500 --> 00:45:17.500
+się, nie wiedzą dokładnie, nie mają znajomych, żeby
+
+00:45:17.500 --> 00:45:20.500
+podpytać, no to wydaje mi się, że to nawet te dane,
+
+00:45:20.500 --> 00:45:23.500
+które mogą być obarczone jakimś błędem, no to
+
+00:45:23.500 --> 00:45:26.500
+sobie dodajesz 20% i jedziesz.
+
+00:45:26.500 --> 00:45:29.500
+Powiem Ci, że dostałem już w ciągu
+
+00:45:29.500 --> 00:45:32.500
+ostatnich miesięcy parę telefonów. Z pogórzkami?
+
+00:45:32.500 --> 00:45:35.500
+Nie, nie, w stylu na przykład, ty słuchaj, moja znajoma
+
+00:45:35.500 --> 00:45:38.500
+właśnie gdzieś tam idzie na juniora i
+
+00:45:38.500 --> 00:45:41.500
+zaoferowali jej tyle, czy to jest dużo, czy to jest mało, nie?
+
+00:45:41.500 --> 00:45:44.500
+Albo zatrudniał właśnie producenta, on sobie
+
+00:45:44.500 --> 00:45:47.500
+zażyczył tyle, czy to jest dużo, czy to jest mało, nie?
+
+00:45:47.500 --> 00:45:50.500
+Mogłem powiedzieć, przeczytaj sobie
+
+00:45:50.500 --> 00:45:53.500
+raport, ale mówię, zaraz Ci powiem, czytam sobie raport
+
+00:45:53.500 --> 00:45:56.500
+i mówię, nie wiem, czy to jest mało, ale
+
+00:45:56.500 --> 00:45:59.500
+zgodnie z ankietą, to średnia była tyle albo
+
+00:45:59.500 --> 00:46:02.500
+mediana była tyle, nie? Dobrze.
+
+00:46:02.500 --> 00:46:05.500
+Przejdźmy może, czy jeszcze? Nie, nie, to jest, wyczerpał się moim zdaniem
+
+00:46:05.500 --> 00:46:08.500
+temat, bardzo jest budujący dla młodych ludzi szukających
+
+00:46:08.500 --> 00:46:11.500
+przyszłości w branży. Jutro za to masz
+
+00:46:11.500 --> 00:46:14.500
+siedzenie z panel, znaczy to jest panel dyskusyjny?
+
+00:46:14.500 --> 00:46:17.500
+Tak, run table to jest taka forma, że wszyscy siedzą i mogą gadać.
+
+00:46:17.500 --> 00:46:20.500
+Właśnie, o zdrowiu psychicznym w branży, o której godzinie masz?
+
+00:46:20.500 --> 00:46:23.500
+No bo my puszczamy to... Między 18 a 20. Tak, czyli
+
+00:46:23.500 --> 00:46:26.500
+w sobotę, czyli dzisiaj, jak Państwo to oglądają w dniu premiery
+
+00:46:26.500 --> 00:46:29.500
+Tak, bo jesteśmy wczoraj. Tak, my jesteśmy
+
+00:46:29.500 --> 00:46:32.500
+jeszcze wczorajsi przede wszystkim.
+
+00:46:32.500 --> 00:46:35.500
+Odbędzie się ten run table o zdrowiu
+
+00:46:35.500 --> 00:46:38.500
+psychicznym i tak naprawdę
+
+00:46:38.500 --> 00:46:41.500
+jakie są główne problemy? O czym chcecie rozmawiać?
+
+00:46:41.500 --> 00:46:44.500
+Wiesz co?
+
+00:46:44.500 --> 00:46:47.500
+W ogóle po prostu chciałbym o tym porozmawiać.
+
+00:46:47.500 --> 00:46:50.500
+Po prostu. Teraz, żeby nie było
+
+00:46:50.500 --> 00:46:53.500
+bo to jest, ja już się nauczyłem, że
+
+00:46:53.500 --> 00:46:56.500
+przy każdej takiej rozmowie muszę dać jeden disclaimer.
+
+00:46:56.500 --> 00:46:59.500
+Nie uważam, żeby branża gier
+
+00:46:59.500 --> 00:47:02.500
+była jakoś wyjątkowa, jeśli chodzi o
+
+00:47:02.500 --> 00:47:05.500
+spowodowanie kryzysów psychicznych. Naprawdę?
+
+00:47:05.500 --> 00:47:08.500
+Tak. Uważam, że jak
+
+00:47:08.500 --> 00:47:11.500
+zapierdalam w Amazonie 30 godzin, to też
+
+00:47:11.500 --> 00:47:14.500
+mnie czeka depresja. Ja uważam, że
+
+00:47:14.500 --> 00:47:17.500
+dużo bardziej jest narażony. No możliwe.
+
+00:47:17.500 --> 00:47:20.500
+W każdym razie, nie wiem. Zakładam, że może nie być.
+
+00:47:20.500 --> 00:47:23.500
+Wiem, natomiast wydaje mi się, że
+
+00:47:23.500 --> 00:47:26.500
+może mieć jakiś swój własny
+
+00:47:26.500 --> 00:47:29.500
+profil tego, z jakimi problemami
+
+00:47:29.500 --> 00:47:32.500
+się wiążę, a w szczególności jest to branża, w której ja pracuję,
+
+00:47:32.500 --> 00:47:35.500
+więc jestem nią zainteresowany. I jakby
+
+00:47:35.500 --> 00:47:38.500
+w takim troszkę podejściu
+
+00:47:38.500 --> 00:47:41.500
+jakoś tak idę, czy
+
+00:47:41.500 --> 00:47:44.500
+od paru lat
+
+00:47:44.500 --> 00:47:47.500
+przyświeca mi jakby jakaś taka, czy łazi za mną
+
+00:47:47.500 --> 00:47:50.500
+taka myśl, że tak jak to się dzieje w ogóle
+
+00:47:50.500 --> 00:47:53.500
+w szerszym kontekście, tak w ramach tej branży ja bym bardzo chciał
+
+00:47:53.500 --> 00:47:56.500
+odstygmatyzować całe właśnie myślenie
+
+00:47:56.500 --> 00:47:59.500
+czy mówienie o kryzysach psychicznych, nie wiem, depresji,
+
+00:47:59.500 --> 00:48:02.500
+wytaleniu i tak dalej. Zwłaszcza, że
+
+00:48:02.500 --> 00:48:05.500
+spotyka to dużo osób, nie?
+
+00:48:05.500 --> 00:48:08.500
+I też to jest jakiś taki koszt
+
+00:48:08.500 --> 00:48:11.500
+trochę ukryty. Wiesz, idę do tej branży,
+
+00:48:11.500 --> 00:48:14.500
+będę zarabiał te 12 czy 15 tysięcy,
+
+00:48:14.500 --> 00:48:17.500
+no ale może warto wiedzieć, że
+
+00:48:17.500 --> 00:48:20.500
+po dwóch, trzech latach średnio warto sobie
+
+00:48:20.500 --> 00:48:23.500
+zacząć odkładać pięć, sześć, osiem stów
+
+00:48:23.500 --> 00:48:26.500
+koniecznie na psychoterapię, nie?
+
+00:48:26.500 --> 00:48:29.500
+Czyli przełożenie jest zauważalne i niezaprzeczalne.
+
+00:48:29.500 --> 00:48:32.500
+Znaczy, wiesz no, znowuż
+
+00:48:32.500 --> 00:48:35.500
+nie mam danych, może trzeba będzie zrobić na to jakieś
+
+00:48:35.500 --> 00:48:38.500
+takie badanie, ale z Anecdata
+
+00:48:38.500 --> 00:48:41.500
+to tak jest, że bardzo trudno spotkać kogoś, kto
+
+00:48:41.500 --> 00:48:44.500
+nie miał jakiegoś takiego momentu kryzysu psychicznego,
+
+00:48:44.500 --> 00:48:47.500
+nie chodzi na terapię albo nie jest na lekach
+
+00:48:47.500 --> 00:48:50.500
+albo nie ma problemu z alkoholem, nie? Bo to też jest jakiś sposób
+
+00:48:50.500 --> 00:48:53.500
+autoregulacji, nie?
+
+00:48:53.500 --> 00:48:56.500
+No ale to już w zeszłym roku czy dwa lata temu
+
+00:48:56.500 --> 00:48:59.500
+pojawiła się już taka pierwsza
+
+00:48:59.500 --> 00:49:02.500
+jakaś taka poważniejsza rozmowa o problemie alkoholowym
+
+00:49:02.500 --> 00:49:05.500
+w branży. Ciebie nie było tak.
+
+00:49:05.500 --> 00:49:08.500
+Tak, no to nie mogło nie być wtedy, nie?
+
+00:49:08.500 --> 00:49:11.500
+To jest w ogóle jakby...
+
+00:49:11.500 --> 00:49:14.500
+To może wtedy, jak ja sobie robiłem przerwę, bo byłem wypalony
+
+00:49:14.500 --> 00:49:17.500
+i byłem we własnym kryzysie psychicznym, tak mogło być.
+
+00:49:17.500 --> 00:49:20.500
+To jest tak, że to o czym Borys wspomniał wcześniej,
+
+00:49:20.500 --> 00:49:23.500
+że można mieć takie podejrzenie, że w tej branży
+
+00:49:23.500 --> 00:49:26.500
+takie sytuacje mogą się częściej zdarzać niż w innych,
+
+00:49:26.500 --> 00:49:29.500
+bo to jest jedna z takich nielicznych, gdzie w zasadzie czynnikiem
+
+00:49:29.500 --> 00:49:32.500
+decydującym, bo zaczęliśmy tę rozmowę od pieniędzy
+
+00:49:32.500 --> 00:49:35.500
+i to jest jak najbardziej zasadne, ale nie sądzę, żeby ktoś usłyszał
+
+00:49:35.500 --> 00:49:38.500
+dzisiaj, okej, tu się dobrze zarabia, to teraz będę robił gry.
+
+00:49:38.500 --> 00:49:41.500
+Ja myślę, że więcej ludzi zaczyna... Zwłaszcza, że jako programista
+
+00:49:41.500 --> 00:49:44.500
+to lepiej zarabiam w innych branżach. A no, to też. Więc zaczynamy
+
+00:49:44.500 --> 00:49:47.500
+od czegoś, co mnie totalnie pasjonuje, więc nie tylko się
+
+00:49:47.500 --> 00:49:50.500
+oddaję temu dlatego, że to jest praca i dobre pieniądze, tylko dlatego, że to
+
+00:49:50.500 --> 00:49:53.500
+mnie pasjonuje i potem zderzenie z rzeczywistością może być
+
+00:49:53.500 --> 00:49:56.500
+dużo bardziej bolesne. I zakładam, że stąd ten wniosek,
+
+00:49:56.500 --> 00:49:59.500
+że to wypalenie przychodzi szybciej, jest bolesniejsze.
+
+00:49:59.500 --> 00:50:02.500
+Ze znajomymi jakiś rok temu
+
+00:50:02.500 --> 00:50:05.500
+zaczęliśmy taką inicjatywę takiej internetowej grupy
+
+00:50:05.500 --> 00:50:08.500
+wsparcia gamedevowej, nie? Teraz to
+
+00:50:08.500 --> 00:50:11.500
+tam się spotykamy co tydzień na Discordzie,
+
+00:50:11.500 --> 00:50:14.500
+to jest taka grupka, gdzie tam, powiedzmy, jest
+
+00:50:14.500 --> 00:50:17.500
+koło dziesięciu osób
+
+00:50:17.500 --> 00:50:20.500
+takich, które się zjawiają praktycznie
+
+00:50:20.500 --> 00:50:23.500
+co tydzień, koło dwudziestu takich
+
+00:50:23.500 --> 00:50:26.500
+orbitujących, czasami ktoś przychodzi, tylko jak mu się
+
+00:50:26.500 --> 00:50:29.500
+bardzo pali, czasami ktoś przychodzi trochę, pochodzi sobie, znika.
+
+00:50:29.500 --> 00:50:32.500
+No i
+
+00:50:32.500 --> 00:50:35.500
+to plus jakieś tam rozmowy wcześniejsze
+
+00:50:35.500 --> 00:50:38.500
+z ludźmi, no to widać, że jest dużo historii, które się po prostu
+
+00:50:38.500 --> 00:50:41.500
+powtarzają, nie? Że jest dużo takich mechanizmów,
+
+00:50:41.500 --> 00:50:44.500
+które się powtarzają. I jakie są te mechanizmy
+
+00:50:44.500 --> 00:50:47.500
+na przykład? Wydaje mi się, że bardzo
+
+00:50:47.500 --> 00:50:50.500
+dużo to jest to, co ty powiedziałeś, czy
+
+00:50:50.500 --> 00:50:53.500
+co wynika z tego, co powiedziałeś, że skoro ja przychodzę do pracy,
+
+00:50:53.500 --> 00:50:56.500
+bo
+
+00:50:56.500 --> 00:50:59.500
+to jest moja pasja, to jest coś, co jest
+
+00:50:59.500 --> 00:51:02.500
+dla mnie bardzo ważne, jako dla osoby,
+
+00:51:02.500 --> 00:51:05.500
+co jest jakąś dużą częścią mojej osobowości, co być może
+
+00:51:05.500 --> 00:51:08.500
+jest, ja z tym wiążę bardzo swoją
+
+00:51:08.500 --> 00:51:11.500
+identyfikację, jestem tak dobry, jak mój ostatni produkt
+
+00:51:11.500 --> 00:51:14.500
+czy coś takiego, to tworzy
+
+00:51:14.500 --> 00:51:17.500
+pole do świadomych albo nie takich manipulacji
+
+00:51:17.500 --> 00:51:20.500
+bardzo, bardzo częstych, nie?
+
+00:51:20.500 --> 00:51:23.500
+Tak, tak, jesteś wystawiony, jesteś, bo otwierasz się.
+
+00:51:23.500 --> 00:51:26.500
+Zwłaszcza jak jesteś, jak wchodzisz do tej, znaczy są dwie rzeczy,
+
+00:51:26.500 --> 00:51:29.500
+jak wchodzisz do tej branży, to to jest
+
+00:51:29.500 --> 00:51:32.500
+zajebiste, też mówię trochę ze swojego punktu widzenia
+
+00:51:32.500 --> 00:51:35.500
+i bardzo łatwo przekroczyć jakieś takie swoje
+
+00:51:35.500 --> 00:51:38.500
+zdrowe granice i zacząć dawać za dużo
+
+00:51:38.500 --> 00:51:41.500
+albo traktować tę firmę jak przedłużenie
+
+00:51:41.500 --> 00:51:44.500
+siebie, rodziny czy coś, nie? Jasne.
+
+00:51:44.500 --> 00:51:47.500
+Dużo pracuję, się tworzą świetne więzi,
+
+00:51:47.500 --> 00:51:50.500
+ale potem, jak się pojawia
+
+00:51:50.500 --> 00:51:53.500
+konflikt albo jak tracę tę pracę,
+
+00:51:53.500 --> 00:51:56.500
+to tracę też całą swoją społeczną siatkę wsparcia, nie?
+
+00:51:56.500 --> 00:51:59.500
+Tracę to, z czym się identyfikowałem, już nie jestem twórcą Wiedźmina,
+
+00:51:59.500 --> 00:52:02.500
+daj mi na to, albo to tak mówię, żeby
+
+00:52:02.500 --> 00:52:05.500
+nie wymyślać za kogoś, tylko tak trochę mówić o swoich
+
+00:52:05.500 --> 00:52:08.500
+też doświadczeniach, nie? I nagle to, kim ja jestem,
+
+00:52:08.500 --> 00:52:11.500
+to czy ja mam w ogóle jakąś wartość, nie? Czy coś mi
+
+00:52:11.500 --> 00:52:14.500
+w życiu będzie dawało jeszcze taką frajdę,
+
+00:52:14.500 --> 00:52:17.500
+jak dawało mi robienie Wiedźmina
+
+00:52:17.500 --> 00:52:20.500
+w sposób, który na przykład wykluczał zupełnie, żebym miał życie prywatne,
+
+00:52:20.500 --> 00:52:23.500
+bo nie miałem na to czasu, nie? No, no, rozumiem.
+
+00:52:23.500 --> 00:52:26.500
+A potem, jak pracujesz długo, to już albo jesteś, wiesz,
+
+00:52:26.500 --> 00:52:29.500
+z gryźliwym cynikiem, albo naprawdę masz
+
+00:52:29.500 --> 00:52:32.500
+narastające problemy ze zdrowiem, czy fizycznym,
+
+00:52:32.500 --> 00:52:35.500
+wiesz, z braku ruchu, czy czegoś, czy rzeczywiście psychicznym, wiesz, no.
+
+00:52:35.500 --> 00:52:38.500
+Ja od lat gdzieś tam
+
+00:52:38.500 --> 00:52:41.500
+poruszam się na obrzeżach i depresji, i stanów lękowych,
+
+00:52:41.500 --> 00:52:44.500
+także jestem regularnie w terapii, jestem na lekach
+
+00:52:44.500 --> 00:52:47.500
+od paru lat. Dobrze funkcjonuję teraz, no, ale
+
+00:52:47.500 --> 00:52:50.500
+myślę, że część z tego to ma
+
+00:52:50.500 --> 00:52:53.500
+związek z tym, w jaki sposób
+
+00:52:53.500 --> 00:52:56.500
+ja podchodziłem do pracy wcześniej, nie? Także trochę
+
+00:52:56.500 --> 00:52:59.500
+zbieram... Ale wcześniej, czyli kiedy wcześniej?
+
+00:52:59.500 --> 00:53:02.500
+Jak tylko zacząłem pracować, na przykład w CDP, nie?
+
+00:53:02.500 --> 00:53:05.500
+Ale to jest... Jest w ogóle jakaś metoda
+
+00:53:05.500 --> 00:53:08.500
+na to, bo z tego, co opowiadasz, to jest jakby...
+
+00:53:08.500 --> 00:53:11.500
+Problem polega na tym, że do tego stopnia identyfikujesz się z projektem,
+
+00:53:11.500 --> 00:53:14.500
+że on się staje na tyle ważną
+
+00:53:14.500 --> 00:53:17.500
+częścią ciebie, że po wyrwaniu z tego projektu przestajesz
+
+00:53:17.500 --> 00:53:20.500
+jakby w ogóle myśleć o sobie jako pełnym, pełnym
+
+00:53:20.500 --> 00:53:23.500
+człowieku. Czyli czy jest w ogóle sposób... No, nie miałem takiego doświadczenia, nie?
+
+00:53:23.500 --> 00:53:26.500
+No właśnie, czy jest sposób wejścia w tą branżę
+
+00:53:26.500 --> 00:53:29.500
+bez myślenia w ten sposób? Bo jakby częścią
+
+00:53:29.500 --> 00:53:32.500
+pracy ze swoją pasją jest to, że
+
+00:53:32.500 --> 00:53:35.500
+oddajesz samego siebie w stu procentach. Czy da się,
+
+00:53:35.500 --> 00:53:38.500
+wiesz, czy da się nad tym zapanować, zwłaszcza jak zaczynasz?
+
+00:53:38.500 --> 00:53:41.500
+Wiesz co? To jest jakby... To jest dużo ciekawych
+
+00:53:41.500 --> 00:53:44.500
+pytań. Mi się wydaje, że częścią
+
+00:53:44.500 --> 00:53:47.500
+z tego... Bo ja też nie wierzę w to,
+
+00:53:47.500 --> 00:53:50.500
+że się da jakoś super świat zmienić. Ja na przykład wierzę, że
+
+00:53:50.500 --> 00:53:53.500
+warto, żeby to była powszechna wiedza.
+
+00:53:53.500 --> 00:53:56.500
+No tak, to się zgadzam. Że to nie jest bezkosztowe.
+
+00:53:56.500 --> 00:53:59.500
+Nie? Że ja... Bo ja jako dorosła osoba
+
+00:53:59.500 --> 00:54:02.500
+mogę na przykład podjąć taki wybór, że teraz będę zapierdalał
+
+00:54:02.500 --> 00:54:05.500
+przez pięć lat czy przez trzy lata,
+
+00:54:05.500 --> 00:54:08.500
+a potem dam sobie trochę na wstrzymanie albo
+
+00:54:08.500 --> 00:54:11.500
+potem sobie wezmę roczny urlop, ale
+
+00:54:11.500 --> 00:54:14.500
+wolałbym, żeby
+
+00:54:14.500 --> 00:54:17.500
+ludzie wchodzący wreszcie wiedzieli, że to nie jest tak, że jak ja teraz zapierdalam,
+
+00:54:17.500 --> 00:54:20.500
+to ja będę w stanie dokładnie tak samo zapierdalać przez najbliższe dziesięć lat.
+
+00:54:20.500 --> 00:54:23.500
+Nie? Albo takie rzeczy, które się zauważa
+
+00:54:23.500 --> 00:54:26.500
+po dłuższym czasie, nie? Teraz tak...
+
+00:54:26.500 --> 00:54:29.500
+Miałem duży kreatywny wpływ... I to jest doświadczenie bardzo wielu ludzi z branży,
+
+00:54:29.500 --> 00:54:32.500
+bo ta branża tak działa. Tak że ja się teraz tutaj
+
+00:54:32.500 --> 00:54:35.500
+trochę żalę, ale chodzi o to, że... Nie chodzi o to, że się żalę,
+
+00:54:35.500 --> 00:54:38.500
+tylko też jest takie coś, co...
+
+00:54:38.500 --> 00:54:41.500
+Do mnie to przyszło po iluś latach, nie?
+
+00:54:41.500 --> 00:54:44.500
+Miałem duży kreatywny wpływ na
+
+00:54:44.500 --> 00:54:47.500
+wiele gier, produktów, które trafiły na rynek.
+
+00:54:47.500 --> 00:54:50.500
+Tylko, no na przykład... Co z tego, że się teraz
+
+00:54:50.500 --> 00:54:53.500
+Wiedźmin dobrze sprzedaje? Nie?
+
+00:54:53.500 --> 00:54:56.500
+To nie ma ze mną już nic wspólnego.
+
+00:54:56.500 --> 00:54:59.500
+Ani prestiżowo, ani finansowo, nie?
+
+00:54:59.500 --> 00:55:02.500
+Ani w żadnych kredycjach kolejnych części
+
+00:55:02.500 --> 00:55:05.500
+nie jestem, no bo ich nie robiłem. Ani żadnej kasy
+
+00:55:05.500 --> 00:55:08.500
+z tego dodatkowej nie mam. Ale tak jest z każdą
+
+00:55:08.500 --> 00:55:11.500
+firmą, w której pracuję, nie?
+
+00:55:11.500 --> 00:55:14.500
+W sensie, że coś tam robię, mam w to duży
+
+00:55:14.500 --> 00:55:17.500
+kreatywny wpływ, potem to wychodzi i wszyscy mówią
+
+00:55:17.500 --> 00:55:20.500
+Och, Garnek, ty robiłeś Wiedźmina, zajebiście.
+
+00:55:20.500 --> 00:55:23.500
+Ja mówię, no wtedy było zajebiście, ale tak na dłuższą metę,
+
+00:55:23.500 --> 00:55:26.500
+to w sumie poza wiedzą...
+
+00:55:26.500 --> 00:55:29.500
+Co z tego masz? Co ja z tego mam tak naprawdę, nie?
+
+00:55:29.500 --> 00:55:32.500
+To nie jest tak, że zagrałem kiedyś jakąś rolę,
+
+00:55:32.500 --> 00:55:35.500
+miałem podpisany super kontrakt i teraz żyję,
+
+00:55:35.500 --> 00:55:38.500
+wiesz, z royalties, nie?
+
+00:55:38.500 --> 00:55:41.500
+Ale to jest tak, że towarzyszy temu to poczucie straty,
+
+00:55:41.500 --> 00:55:44.500
+że uczestniczyłeś w czymś, co było wielkie wtedy,
+
+00:55:44.500 --> 00:55:47.500
+teraz nadal jest wielkie, a ty w tym już nie uczestniczysz?
+
+00:55:47.500 --> 00:55:50.500
+To jest to, o czym mówisz?
+
+00:55:50.500 --> 00:55:53.500
+Myślę, że były momenty, kiedy o tym mówię, no i ja
+
+00:55:53.500 --> 00:55:56.500
+na pewno jak... Miałem takie dwa momenty. Jak odszedłem z CD Projektu,
+
+00:55:56.500 --> 00:55:59.500
+to pamiętam, jak jeszcze szedłem na ulicę i nagle
+
+00:55:59.500 --> 00:56:02.500
+ale już nie robię dużych AAA-ów.
+
+00:56:02.500 --> 00:56:05.500
+To... To co ja w ogóle robię?
+
+00:56:05.500 --> 00:56:08.500
+To co ja oznaczę w ogóle, tak?
+
+00:56:08.500 --> 00:56:11.500
+Tak, na mobilki i to niby jest to samo, ale...
+
+00:56:11.500 --> 00:56:14.500
+Gdzie jest ten dreszczyk? Gdzie jest ta adrenalina?
+
+00:56:14.500 --> 00:56:17.500
+Gdzie jest to siedzenie po nocach? Wiesz, tak trochę...
+
+00:56:17.500 --> 00:56:20.500
+Trochę jest syndrom odstawienia, nie? Ja się cieszę, że z tego wyszedłem,
+
+00:56:20.500 --> 00:56:23.500
+bo to się czułem trochę jak alkoholik, który odstawił wódkę
+
+00:56:23.500 --> 00:56:26.500
+i mu smutno, bo już nie pije, nie?
+
+00:56:26.500 --> 00:56:29.500
+Ale druga rzecz jest taka, że wyszedł Wiedźmin Trójka
+
+00:56:29.500 --> 00:56:32.500
+i mnie nie podobał. Kupiłem, zagrałem, siedziałem w domu
+
+00:56:32.500 --> 00:56:35.500
+i tak mówiłem...
+
+00:56:35.500 --> 00:56:38.500
+Co ja... Co... Jakby... Co ja robię, nie?
+
+00:56:38.500 --> 00:56:41.500
+W sensie tak się czuję, jak tu siedzę, jakiegoś jelenia
+
+00:56:41.500 --> 00:56:44.500
+na rykowisku robi, a on się nawet sprzedaje. To jest bardzo ładny jelenie
+
+00:56:44.500 --> 00:56:47.500
+na rykowisku. Przychodzi moja ex
+
+00:56:47.500 --> 00:56:50.500
+i stawia Mona Lisa i sobie idzie, a ja tak...
+
+00:56:50.500 --> 00:56:53.500
+Wiesz, w sensie... No miałem
+
+00:56:53.500 --> 00:56:56.500
+takie momenty, tak zupełnie szczerze...
+
+00:56:56.500 --> 00:56:59.500
+Szczerze mówiąc. No, w szczególności, że
+
+00:56:59.500 --> 00:57:02.500
+też jest taka rzecz, że robili go po części
+
+00:57:02.500 --> 00:57:05.500
+ludzie, z którymi ty pracowałeś.
+
+00:57:05.500 --> 00:57:08.500
+Tak, tak. No, bo twoje miejsce trochę zajął Blacha.
+
+00:57:08.500 --> 00:57:11.500
+Trochę Blacha, trochę Sebas Tępień
+
+00:57:11.500 --> 00:57:14.500
+to zależy w którym momencie, nie?
+
+00:57:14.500 --> 00:57:17.500
+No wiesz co, ale tak z drugiej strony potem sobie
+
+00:57:17.500 --> 00:57:20.500
+nad tym posiedzę i tak sobie myślę... Z drugiej strony teraz mam...
+
+00:57:20.500 --> 00:57:23.500
+W samym istotę małżeńskiej chciałbym powiedzieć, że mam żonę.
+
+00:57:23.500 --> 00:57:26.500
+Mam żonę, mam trzy koty, nie?
+
+00:57:26.500 --> 00:57:29.500
+Jest mi dobrze w życiu.
+
+00:57:29.500 --> 00:57:32.500
+I w sumie się cieszę, że mam
+
+00:57:32.500 --> 00:57:35.500
+czas na robienie rzeczy, które są nie tylko
+
+00:57:35.500 --> 00:57:38.500
+robieniem gier. No, ale to jest skomplikowane.
+
+00:57:38.500 --> 00:57:41.500
+To jest trudne. Są takie momenty, kiedy to kłuję.
+
+00:57:41.500 --> 00:57:44.500
+Więc trochę mówiłem o tym, a trochę mówiłem tak po prostu
+
+00:57:44.500 --> 00:57:47.500
+o Kasie, nie? W sensie takim, że...
+
+00:57:47.500 --> 00:57:50.500
+że czasami to jest tak.
+
+00:57:50.500 --> 00:57:53.500
+Przychodzę, zapierdalam, dostaję mniej pieniędzy
+
+00:57:53.500 --> 00:57:56.500
+niż mogę dostać w innej branży, ale dostaję za to trochę wypalenia.
+
+00:57:56.500 --> 00:57:59.500
+I potem, wiesz, ktoś
+
+00:57:59.500 --> 00:58:02.500
+dostaje...
+
+00:58:02.500 --> 00:58:05.500
+Zarząd wypłaca sobie
+
+00:58:05.500 --> 00:58:08.500
+100 milionów złotych premii w ciągu roku, nie?
+
+00:58:08.500 --> 00:58:11.500
+No i wtedy tak sobie myślę, no kurwa
+
+00:58:11.500 --> 00:58:14.500
+trochę część z tej kasy jest akurat tyci
+
+00:58:14.500 --> 00:58:17.500
+trochę jest moja, nie? W sensie...
+
+00:58:17.500 --> 00:58:20.500
+Ja tam dołożyłem, żeby ktoś mógł mieć jeszcze jeden dom
+
+00:58:20.500 --> 00:58:23.500
+na, wiesz, Costa del Sol, czy coś takiego.
+
+00:58:23.500 --> 00:58:26.500
+No i wtedy się trochę czuję jak frajer.
+
+00:58:26.500 --> 00:58:29.500
+Potem mi to przychodzi, ale no tak bywa, no.
+
+00:58:29.500 --> 00:58:32.500
+Czyli to jest taka raczej rzecz, o której trzeba mówić,
+
+00:58:32.500 --> 00:58:35.500
+żeby każdy, pewnie i siedzący w branży, po pierwsze
+
+00:58:35.500 --> 00:58:38.500
+rozumiał, co sam przeżywa, bo to chyba ciężko
+
+00:58:38.500 --> 00:58:41.500
+samemu funkcjonować tylko w takim stanie.
+
+00:58:41.500 --> 00:58:44.500
+Jeżeli wiesz, że w ogóle, jeżeli idziesz do...
+
+00:58:44.500 --> 00:58:47.500
+Próbuję wyciągnąć wnioski
+
+00:58:47.500 --> 00:58:50.500
+z tego, co mówiłeś. Jeżeli idziesz do tej branży, to musisz
+
+00:58:50.500 --> 00:58:53.500
+wiedzieć, z czym to się wiąże. I jeżeli jesteś już w tej branży,
+
+00:58:53.500 --> 00:58:56.500
+to musisz wiedzieć, jakie są konsekwencje później
+
+00:58:56.500 --> 00:58:59.500
+i musisz już na początku, od razu musisz się godzić z tym,
+
+00:58:59.500 --> 00:59:02.500
+że kiedyś ta ważna część ciebie
+
+00:59:02.500 --> 00:59:05.500
+ona nie będzie już częścią ciebie i będziesz musiał sobie z tym radzić.
+
+00:59:05.500 --> 00:59:08.500
+Fajnie powiedziane, ale to właśnie chyba o coś takiego
+
+00:59:08.500 --> 00:59:11.500
+chodzi. Wiesz, kolejna rzecz jest taka, żeby w ogóle
+
+00:59:11.500 --> 00:59:14.500
+móc czasami rozmawiać.
+
+00:59:14.500 --> 00:59:17.500
+Na przykład mam teraz
+
+00:59:17.500 --> 00:59:20.500
+kiepski czas, nie?
+
+00:59:20.500 --> 00:59:23.500
+No, no, no. Bo to jest takie coś...
+
+00:59:23.500 --> 00:59:26.500
+Dajmy na to, wpadnę pod samochód, nie? I będę miał połamaną nogi
+
+00:59:26.500 --> 00:59:29.500
+czy coś, wyląduję w szpitalu. Raczej nie ma problemu, żeby wtedy
+
+00:59:29.500 --> 00:59:32.500
+wziąć sobie sporo wolnego.
+
+00:59:32.500 --> 00:59:35.500
+Okej, jak ktoś pół roku musi być w szpitalu,
+
+00:59:35.500 --> 00:59:38.500
+to pewnie zawsze będzie miał problem z powrotem do...
+
+00:59:38.500 --> 00:59:41.500
+do studia, nie?
+
+00:59:41.500 --> 00:59:44.500
+Ale tak jak obserwuję, to jak ktoś jest pół roku na zwolnieniu
+
+00:59:44.500 --> 00:59:47.500
+ze względu na problemy psychiczne,
+
+00:59:47.500 --> 00:59:50.500
+to to już nie jest tak ewidentne ze strony pracodawcy
+
+00:59:50.500 --> 00:59:53.500
+czy współpracowników, jak to, że ktoś leży w szpitalu, nie?
+
+00:59:53.500 --> 00:59:56.500
+Okej, ale jako że to jest
+
+00:59:56.500 --> 00:59:59.500
+dość powszechny problem i Kamil
+
+00:59:59.500 --> 01:00:02.500
+z naszej grupy zadał to też bardzo pasujące pytanie.
+
+01:00:02.500 --> 01:00:05.500
+Czy w miejscu pracy masz w pakiecie
+
+01:00:05.500 --> 01:00:08.500
+benefitów, tak jak masz opiekę zdrowotną,
+
+01:00:08.500 --> 01:00:11.500
+czy są jakieś dostępne
+
+01:00:11.500 --> 01:00:14.500
+taka opieka psychologiczna, nie? Czy w ogóle
+
+01:00:14.500 --> 01:00:17.500
+czy Ty znasz jakieś takie przykłady
+
+01:00:17.500 --> 01:00:20.500
+że pracodawca czy team liderzy
+
+01:00:20.500 --> 01:00:23.500
+w jakiś sposób dbają o zdrowie psychiczne?
+
+01:00:23.500 --> 01:00:26.500
+Słyszałem historię
+
+01:00:26.500 --> 01:00:29.500
+jednej firmy i teraz ja celowo nawet nie pamiętam
+
+01:00:29.500 --> 01:00:32.500
+czy to była firma w Polsce, bo to po prostu ktoś mi opowiadał,
+
+01:00:32.500 --> 01:00:35.500
+gdzie był etatowy taki
+
+01:00:35.500 --> 01:00:38.500
+psycholog, psychiatra, rzeczywiście przy firmie
+
+01:00:38.500 --> 01:00:41.500
+jak taka pielęgniarka szkolna,
+
+01:00:41.500 --> 01:00:44.500
+no ale to się sprowadzało do niego, że szedłeś do niego,
+
+01:00:44.500 --> 01:00:47.500
+mówiłeś, że masz doła i dostawałeś tabletki, nie?
+
+01:00:47.500 --> 01:00:50.500
+Więc to też jest takie pytanie, że nawet jak się pojawia
+
+01:00:50.500 --> 01:00:53.500
+takie coś, to czy on służy zdrowiu psychicznemu
+
+01:00:53.500 --> 01:00:56.500
+czy służy temu, żeby dowieść projekt po prostu, nie?
+
+01:00:56.500 --> 01:00:59.500
+Żeby ludzie na tyle się trzymali, żeby dowieść projekt,
+
+01:00:59.500 --> 01:01:02.500
+a potem to już niech się sami sobie zajmują.
+
+01:01:02.500 --> 01:01:05.500
+Wiesz, bo dużo też
+
+01:01:05.500 --> 01:01:08.500
+z takich rozmów, jak mamy
+
+01:01:08.500 --> 01:01:11.500
+na tej naszej grupie, wychodzi takich tematów,
+
+01:01:11.500 --> 01:01:14.500
+że to jest takie coś, że bardzo
+
+01:01:14.500 --> 01:01:17.500
+część z tego pewno wymaga
+
+01:01:17.500 --> 01:01:20.500
+dużych rozwiązań systemowych, nie?
+
+01:01:20.500 --> 01:01:23.500
+I pandemia i przejście na proces dalny troszkę zaczęło ten
+
+01:01:23.500 --> 01:01:26.500
+projekt, bo na przykład, wiesz,
+
+01:01:26.500 --> 01:01:29.500
+takie rozkminki
+
+01:01:29.500 --> 01:01:32.500
+i o ile lepiej się pracuje, jeżeli
+
+01:01:32.500 --> 01:01:35.500
+możesz mieć takie kawałki pracy,
+
+01:01:35.500 --> 01:01:38.500
+że robisz ją w lesie
+
+01:01:38.500 --> 01:01:41.500
+albo tuż przy lesie, albo trochę za popracujesz
+
+01:01:41.500 --> 01:01:44.500
+pójdziesz na spacer, nie? Albo pracujesz sobie w ciszy,
+
+01:01:44.500 --> 01:01:47.500
+w warunkach, w które ci pasują, nie?
+
+01:01:47.500 --> 01:01:50.500
+Więc na przykład
+
+01:01:50.500 --> 01:01:53.500
+pandemia bardzo pomogła w tym, że jeśli ktoś
+
+01:01:53.500 --> 01:01:56.500
+potrzebuje takich warunków, że teoretycznie jest w stanie sobie załatwić fajną
+
+01:01:56.500 --> 01:01:59.500
+pracę hybrydową albo zdalną.
+
+01:01:59.500 --> 01:02:02.500
+No, a część to też jest duża rzecz takiej
+
+01:02:02.500 --> 01:02:05.500
+w sumie... I to nie mówię, że my robimy, tylko, że jest taka
+
+01:02:05.500 --> 01:02:08.500
+potrzeba, nie? Takiej psychoedukacji trochę.
+
+01:02:08.500 --> 01:02:11.500
+Żebym ja pracując wiedział, że ja
+
+01:02:11.500 --> 01:02:14.500
+mogę mieć kryzys psychiczny.
+
+01:02:14.500 --> 01:02:17.500
+Że ja mam jakieś emocje, że to jest zupełnie
+
+01:02:17.500 --> 01:02:20.500
+okej, że coś pracy mnie wkurwi albo mnie...
+
+01:02:20.500 --> 01:02:23.500
+Że okej, nie? Okej jest... Że potem ode mnie w sumie
+
+01:02:23.500 --> 01:02:26.500
+zależy, jak ja na to zareaguję.
+
+01:02:26.500 --> 01:02:29.500
+Że mogą się zdarzać konflikty. Jak ja mogę reagować na te konflikty,
+
+01:02:29.500 --> 01:02:32.500
+ale co więcej, że ja mogę powiedzieć nie w którymś momencie
+
+01:02:32.500 --> 01:02:35.500
+oraz, że to jest zupełnie normalne, że ja kiedyś będę mógł
+
+01:02:35.500 --> 01:02:38.500
+chcieć zmienić pracę, nie? To są takie rzeczy,
+
+01:02:38.500 --> 01:02:41.500
+które wydają się być oczywiste,
+
+01:02:41.500 --> 01:02:44.500
+ale jak się siedzi w tych takich
+
+01:02:44.500 --> 01:02:47.500
+okopach, robiąc to, co się chce i w ogóle, to bardzo często
+
+01:02:47.500 --> 01:02:50.500
+no nie ma co zrobić, bo trzeba dowieść
+
+01:02:50.500 --> 01:02:53.500
+projekt, nie? Myślę, że jest jeszcze innego rodzaju
+
+01:02:53.500 --> 01:02:56.500
+problem i jeżeli ktoś nie doświadczy
+
+01:02:56.500 --> 01:02:59.500
+tego osobiście, to raczej będzie wychodził z założenia, że jego to nie dotyczy.
+
+01:02:59.500 --> 01:03:02.500
+Tak. No ja też tak czasami miałem, że tak myślałem
+
+01:03:02.500 --> 01:03:05.500
+dobra, dobra, ale mi to się
+
+01:03:05.500 --> 01:03:08.500
+uda. Oczywiście, no bo ja przecież
+
+01:03:08.500 --> 01:03:11.500
+jestem mądrzejszy, jestem bardziej doświadczony.
+
+01:03:11.500 --> 01:03:14.500
+Ja to jestem ja przede wszystkim. Ja to jestem ja. No i potem się oczywiście
+
+01:03:14.500 --> 01:03:17.500
+nie udawało i tak, hmm
+
+01:03:17.500 --> 01:03:20.500
+no dobra, być może się czegoś nauczyłem, a być może
+
+01:03:20.500 --> 01:03:23.500
+się nie nauczyłem. Powtórzę ten błąd jeszcze za jakiś czas, ale
+
+01:03:23.500 --> 01:03:26.500
+no dalej. Też mam pytanie
+
+01:03:26.500 --> 01:03:29.500
+z grupy. Czy jakby powszechno, czy
+
+01:03:29.500 --> 01:03:32.500
+często się zdarza, że właśnie
+
+01:03:32.500 --> 01:03:35.500
+czy przez problemy psychiczne, czy nawet
+
+01:03:35.500 --> 01:03:38.500
+przez krancz, czy depresję
+
+01:03:38.500 --> 01:03:41.500
+ludzie opuszczają nie tylko firmy, ale
+
+01:03:41.500 --> 01:03:44.500
+i branże? Wiesz co? Nie mam na to
+
+01:03:44.500 --> 01:03:47.500
+twardych danych, ale co i jakiś
+
+01:03:47.500 --> 01:03:50.500
+i w sensie, hmm
+
+01:03:50.500 --> 01:03:53.500
+bo ja mam 45 lat, nie? I jest
+
+01:03:53.500 --> 01:03:56.500
+bardzo mała grupka
+
+01:03:56.500 --> 01:03:59.500
+starszych game developerów niż ja
+
+01:03:59.500 --> 01:04:02.500
+oczywiście jest miałą siek i tak dalej
+
+01:04:02.500 --> 01:04:05.500
+no ale oni albo są szefami firm
+
+01:04:05.500 --> 01:04:08.500
+wtedy, albo coś tam. I teraz ja
+
+01:04:08.500 --> 01:04:11.500
+nie wiem ile z tego to jest to, że po prostu
+
+01:04:11.500 --> 01:04:14.500
+się dopiero starzejemy, ale też jednak co jakiś czas
+
+01:04:14.500 --> 01:04:17.500
+ktoś z tej branży już w którymś wieku odchodzi, bo to tempo jest
+
+01:04:17.500 --> 01:04:20.500
+za duże i tak dalej. A jak rozmawiam ze znajomymi, którzy pracują
+
+01:04:20.500 --> 01:04:23.500
+we Francji, w Skandynawii, czy gdzieś przy grach
+
+01:04:23.500 --> 01:04:26.500
+to normalnością jest 60-letni programista
+
+01:04:26.500 --> 01:04:29.500
+który już pisał AI do 10 gier
+
+01:04:29.500 --> 01:04:32.500
+na chillu sobie dalej pracuje
+
+01:04:32.500 --> 01:04:35.500
+no bo pracuje, jest mega doświadczony
+
+01:04:35.500 --> 01:04:38.500
+ta wiedza nigdzie nie ucieka
+
+01:04:38.500 --> 01:04:41.500
+no mi się wydaje, że w Polsce może trochę uciekać, że może być taki moment
+
+01:04:41.500 --> 01:04:44.500
+po którym albo zostajesz
+
+01:04:44.500 --> 01:04:47.500
+z gryźliwym Indii we własnej piwnicy, albo jesteś
+
+01:04:47.500 --> 01:04:50.500
+prezesem firmy, albo w zasadzie trudno powiedzieć
+
+01:04:50.500 --> 01:04:53.500
+jakie jest dla ciebie miejsce. To jest ciekawy wątek
+
+01:04:53.500 --> 01:04:56.500
+o którym żeśmy wcześniej nie rozmawiali, czyli to może być
+
+01:04:56.500 --> 01:04:59.500
+do pewnego stopnia polski problem
+
+01:04:59.500 --> 01:05:02.500
+być może... Trudno powiedzieć, bo ja tak mówię też może po prostu
+
+01:05:02.500 --> 01:05:05.500
+wszyscy są jeszcze młodsi, ale
+
+01:05:05.500 --> 01:05:08.500
+widać ludzi, którzy się wykruszają i sobie odchodzą
+
+01:05:08.500 --> 01:05:11.500
+Z tej ostatniej książki Schreiera, która mówi o
+
+01:05:11.500 --> 01:05:14.500
+Bioshocku
+
+01:05:14.500 --> 01:05:17.500
+to tam to jest, ludzie mają bardzo duże problemy
+
+01:05:17.500 --> 01:05:20.500
+Czyli wszędzie nieważnie...
+
+01:05:20.500 --> 01:05:23.500
+Nie mówię o Stanach. Ja celowo podaję dwie przykłady
+
+01:05:23.500 --> 01:05:26.500
+z całkiem spoko miejsc w Europie
+
+01:05:26.500 --> 01:05:29.500
+pod takim względem. No tak, ale są też miejsca, gdzie masz
+
+01:05:29.500 --> 01:05:32.500
+dużo bardziej chroniące pracownika
+
+01:05:32.500 --> 01:05:35.500
+prawo pracy
+
+01:05:35.500 --> 01:05:38.500
+A w Stanach nie masz żadnych. No właśnie, dlatego też mówię, że
+
+01:05:38.500 --> 01:05:41.500
+to jest trochę takie coś, że my sobie mówimy z poziomu
+
+01:05:41.500 --> 01:05:44.500
+co jednostka może zrobić, żeby
+
+01:05:44.500 --> 01:05:47.500
+ochronić swoje zdrowie psychiczne pracując w jakiejś tam branży
+
+01:05:47.500 --> 01:05:50.500
+a odpowiedź jest taka. Gówno. W sensie
+
+01:05:50.500 --> 01:05:53.500
+to co można zrobić
+
+01:05:53.500 --> 01:05:56.500
+to są potrzebne rozwiązania systemowe na poziomie kurde prawa pracy
+
+01:05:56.500 --> 01:05:59.500
+czy czegoś takiego. Do czego da się dojść
+
+01:05:59.500 --> 01:06:02.500
+jakimś dużym lobbyingiem, związki zawodowe, ale
+
+01:06:02.500 --> 01:06:05.500
+wiesz, no...
+
+01:06:05.500 --> 01:06:08.500
+No ale są też firmy w Polsce, gdzie nie ma
+
+01:06:08.500 --> 01:06:11.500
+problemu, gdzie się nie kręczuje
+
+01:06:11.500 --> 01:06:14.500
+bo też jak ja dużo historii ludzi
+
+01:06:14.500 --> 01:06:17.500
+słyszę
+
+01:06:17.500 --> 01:06:20.500
+to często te problemy wynikają
+
+01:06:20.500 --> 01:06:23.500
+z kręczu i z wszystkich patologii, które z niego
+
+01:06:23.500 --> 01:06:26.500
+wychodzą. Tak, tak, tak. Oczywiście. W ogóle
+
+01:06:26.500 --> 01:06:29.500
+mi się wydaje, że teraz ta branża jest dużo
+
+01:06:29.500 --> 01:06:32.500
+fajniejsza niż była te 15 lat temu. Oj, na pewno.
+
+01:06:32.500 --> 01:06:35.500
+15 lat temu to by się w ogóle nie dało pogadać, jeżeli mam jakieś
+
+01:06:35.500 --> 01:06:38.500
+problemy psychiczne, bo z tym wariatem nie będę pracował, nie?
+
+01:06:38.500 --> 01:06:41.500
+Nie, nie, nie. Po drugie nie było czasu na rozmowy, bo...
+
+01:06:41.500 --> 01:06:44.500
+Bo trzeba było zapierdalać, nie?
+
+01:06:44.500 --> 01:06:47.500
+No, tak, tak, masz rację, masz rację. Znaczy ja teraz
+
+01:06:47.500 --> 01:06:50.500
+wiesz, jakby ja, nie wiem... Wiesz, w firmie, w której
+
+01:06:50.500 --> 01:06:53.500
+ja teraz pracuję, nie kręczuję. No tak.
+
+01:06:53.500 --> 01:06:56.500
+Nie kręczuję. Ale ja też na przykład słyszę od ludzi
+
+01:06:56.500 --> 01:06:59.500
+do których mam zaufanie myślę, że
+
+01:06:59.500 --> 01:07:02.500
+wzajemnie, że nawet w CDP już jakby ten kręcz
+
+01:07:02.500 --> 01:07:05.500
+on bardzo mały
+
+01:07:05.500 --> 01:07:08.500
+został bardzo zmniejszony. Ja rozumiem.
+
+01:07:08.500 --> 01:07:11.500
+Oczywiście wszyscy zadajemy sobie pytanie
+
+01:07:11.500 --> 01:07:14.500
+jak to będzie wyglądało, kiedy się będzie zbliżać kolejna premiera.
+
+01:07:14.500 --> 01:07:17.500
+To prawda. Bo na początku każdej produkcji jest
+
+01:07:17.500 --> 01:07:20.500
+luzik i wiesz... Ale chciałbym zauważyć, że teraz kończą
+
+01:07:20.500 --> 01:07:23.500
+dodatek. I to nie jest wcale taki luzik. Okej.
+
+01:07:23.500 --> 01:07:26.500
+No to szacun. Znaczy ja nie wiem, wiesz...
+
+01:07:26.500 --> 01:07:29.500
+Wiesz, to pogadamy w kwietniu 2023.
+
+01:07:29.500 --> 01:07:32.500
+Pogadamy po premierze, jak ludzie się zwolnią i będą
+
+01:07:32.500 --> 01:07:35.500
+z chęcią bardziej otwarcie gadać
+
+01:07:35.500 --> 01:07:38.500
+jak to wyglądało. Ale jest tak, że stąd słyszę, że
+
+01:07:38.500 --> 01:07:41.500
+jest lepiej, stąd słyszę, że jest lepiej. No i to są takie
+
+01:07:41.500 --> 01:07:44.500
+głosy, owszem. Więc to mnie ciekawi
+
+01:07:44.500 --> 01:07:47.500
+i z drugiej strony też Techland, gdzie
+
+01:07:47.500 --> 01:07:50.500
+też nie w każdym dziele było dobrze
+
+01:07:50.500 --> 01:07:53.500
+i też rozmawiam z ludźmi
+
+01:07:53.500 --> 01:07:56.500
+i też mówi ktoś, że się nie kręczuje.
+
+01:07:56.500 --> 01:07:59.500
+Ktoś chce. Albo np. ja to swoich ludzi
+
+01:07:59.500 --> 01:08:02.500
+po godzinach to już ganiam. Już mają
+
+01:08:02.500 --> 01:08:05.500
+nie pracować i wynocha do domu. I bardzo dobrze.
+
+01:08:05.500 --> 01:08:08.500
+Bo ja tą zmianę widzę
+
+01:08:08.500 --> 01:08:11.500
+od trzech lat
+
+01:08:11.500 --> 01:08:14.500
+mniej więcej. Bo wiadomo, że były takie miejsca, gdzie się nie kręczuje.
+
+01:08:14.500 --> 01:08:17.500
+Jest chyba taka myśl
+
+01:08:17.500 --> 01:08:20.500
+jest taka myśl w branży, z którą się spotykam czasami
+
+01:08:20.500 --> 01:08:23.500
+że dla jakości projektu
+
+01:08:23.500 --> 01:08:26.500
+ostatecznej lepiej jednak nie kręczować.
+
+01:08:26.500 --> 01:08:29.500
+I niezależnie od tego, czy to jest prawda, czy to nie jest prawda
+
+01:08:29.500 --> 01:08:32.500
+to już sama wiara w to już jest jakimś dobrym
+
+01:08:32.500 --> 01:08:35.500
+syndromem. Więc wiesz, może być tak, że jutro na tym menu
+
+01:08:35.500 --> 01:08:38.500
+wszyscy powiedzą, nie ma problemu wypalenia i nie ma problemu
+
+01:08:38.500 --> 01:08:41.500
+ze zdrowiem psychicznym. Wypalenie, o czym ty mówisz?
+
+01:08:41.500 --> 01:08:44.500
+Ale zobaczymy. Właśnie, bo kręcz jest jednym z powodów
+
+01:08:44.500 --> 01:08:47.500
+wypalenia. To też trochę takie
+
+01:08:47.500 --> 01:08:50.500
+bardzo często jakieś takie interpersonalne rzeczy
+
+01:08:50.500 --> 01:08:53.500
+poziom kontroli, który idzie
+
+01:08:53.500 --> 01:08:56.500
+z góry w danej firmie, to na ile ja mam wpływ
+
+01:08:56.500 --> 01:08:59.500
+na to, co robię, albo uważam, że to jest sensowne
+
+01:08:59.500 --> 01:09:02.500
+mam relacje. A czasami
+
+01:09:02.500 --> 01:09:05.500
+w moim przypadku np. to było to, że ja po prostu
+
+01:09:05.500 --> 01:09:08.500
+pracowałem za intensywnie. Ja teraz próbuję
+
+01:09:08.500 --> 01:09:11.500
+od jakiegoś roku takie podejście, że pracuję
+
+01:09:11.500 --> 01:09:14.500
+trzy dni w miesiącu. Znaczy w tygodniu. W miesiącu to było super.
+
+01:09:14.500 --> 01:09:17.500
+Trzy dni w tygodniu, nie?
+
+01:09:17.500 --> 01:09:20.500
+Nie wydaje mi się, żebym...
+
+01:09:20.500 --> 01:09:23.500
+Wydaje mi się, że produkuję bardzo zbliżone
+
+01:09:23.500 --> 01:09:26.500
+ilości contentu do tego, gdybym pracował
+
+01:09:26.500 --> 01:09:29.500
+pięć dni w tygodniu tak normalnie,
+
+01:09:29.500 --> 01:09:32.500
+a... Czy HC o tym wie?
+
+01:09:32.500 --> 01:09:35.500
+Tak, tak. To wszystko ładnie wpisane w umowę.
+
+01:09:35.500 --> 01:09:38.500
+Świetnie. Tak sobie to
+
+01:09:38.500 --> 01:09:41.500
+umówiłem.
+
+01:09:41.500 --> 01:09:44.500
+No, a czuję, że w końcu wypoczywam, nie?
+
+01:09:44.500 --> 01:09:47.500
+To teraz jest... To nie jest uniwersalne. To jest konkretnie
+
+01:09:47.500 --> 01:09:50.500
+mój... Ja w tym momencie życia,
+
+01:09:50.500 --> 01:09:53.500
+nie? Wcześniej miałem tak, że teraz już pracuję te trzy dni,
+
+01:09:53.500 --> 01:09:56.500
+potem czwartek, piątek mentalnie wychodzę, hamuję,
+
+01:09:56.500 --> 01:09:59.500
+wychodzę z pracy, jeszcze sobie robię jakieś prywatne
+
+01:09:59.500 --> 01:10:02.500
+projekciki kreatywne na boku, ale weekend już mam wolny.
+
+01:10:02.500 --> 01:10:05.500
+Już mam wolną głowę, sobie mogę odpocząć. A wcześniej
+
+01:10:05.500 --> 01:10:08.500
+to pracowałem do piątku, przez dwa dni hamowałem
+
+01:10:08.500 --> 01:10:11.500
+i zanim zacząłem odpoczywać, już wszedłem do roboty
+
+01:10:11.500 --> 01:10:14.500
+i przez długi czas było spoko, ale ta energia gdzieś tam się wyczerpywała,
+
+01:10:14.500 --> 01:10:17.500
+wyczerpywała, no i po tych piętnastu latach, jak się
+
+01:10:17.500 --> 01:10:20.500
+wywaliłem na twarz, to się wywaliłem na twarz.
+
+01:10:20.500 --> 01:10:23.500
+Powiedz mi, te dni, które pracujesz, one są superintensywne,
+
+01:10:23.500 --> 01:10:26.500
+czy są... Są bardzo wydajne. Są bardzo wydajne.
+
+01:10:26.500 --> 01:10:29.500
+Ja wtedy siadam skupiony i naprawdę siedzę przy tym
+
+01:10:29.500 --> 01:10:32.500
+kompie, wiesz, tam osiem godzin. Tak, tak...
+
+01:10:32.500 --> 01:10:35.500
+Myślę, że jakbym był w biurze, to bym mniej
+
+01:10:35.500 --> 01:10:38.500
+szedł na kawę z tym, se pogadał z tym, se pogadał, a tutaj ja mam coś do zrobienia.
+
+01:10:38.500 --> 01:10:41.500
+Coś, mamy bardzo fajny rytm pracy zdalnej,
+
+01:10:41.500 --> 01:10:44.500
+bardzo fajnie to mamy rozpykane wszystko. I masz takie poczucie, że to działa
+
+01:10:44.500 --> 01:10:47.500
+dobrze, że to jest jakby korzyść i psychiczna i jeżeli chodzi
+
+01:10:47.500 --> 01:10:50.500
+o... Bo jest, jest, jest ja... Ja też mam... Każdy z nas
+
+01:10:50.500 --> 01:10:53.500
+ma różne doświadczenia. Jakby rozumiem, że
+
+01:10:53.500 --> 01:10:56.500
+można się zagubić w pracy i można mieć takie poczucie,
+
+01:10:56.500 --> 01:10:59.500
+że w tym momencie zagubienia odnajdujesz tą prawdziwą
+
+01:10:59.500 --> 01:11:02.500
+kreatywność, tą muzę, która czasami może umykać, kiedy
+
+01:11:02.500 --> 01:11:05.500
+masz dużo czasu na odpoczynek. Ale jeżeli zakładasz
+
+01:11:05.500 --> 01:11:08.500
+taki trzydniowy czas pracy, bardzo intensywny, to zakładam,
+
+01:11:08.500 --> 01:11:11.500
+że to takie flow się pojawia tak czy inaczej.
+
+01:11:11.500 --> 01:11:14.500
+Wiesz co, ja po pierwsze już pracuję na tyle jakby... No właśnie.
+
+01:11:14.500 --> 01:11:17.500
+Na tyle mam warsztat rzemieślniczy rozmienięty, że nawet jak
+
+01:11:17.500 --> 01:11:20.500
+nie mam za bardzo flowu, to sobie umiem usiąść i zapierdalać
+
+01:11:20.500 --> 01:11:23.500
+po prostu. Ale też mam takie momenty, że
+
+01:11:23.500 --> 01:11:26.500
+no jak się wkręcę, to zapominam zjeść na przykład
+
+01:11:26.500 --> 01:11:29.500
+czy się napić, nie? To też pomaga w domu, bo
+
+01:11:29.500 --> 01:11:32.500
+żona przychodzi i mówi... Od oka mówi właśnie, że... Obiad jakiś
+
+01:11:32.500 --> 01:11:35.500
+możesz zjeść. No tak, rzeczywiście, nie?
+
+01:11:35.500 --> 01:11:38.500
+To się przydaje.
+
+01:11:38.500 --> 01:11:41.500
+Naprawdę. Myślę, że możemy
+
+01:11:41.500 --> 01:11:44.500
+powoli kończyć. Dobrze. Super. Zapraszamy
+
+01:11:44.500 --> 01:11:47.500
+na twój dzisiejszy Run Table. O której to jest godzinie?
+
+01:11:47.500 --> 01:11:50.500
+O 18. W której sali macie link
+
+01:11:50.500 --> 01:11:53.500
+na pewno w opisie.
+
+01:11:53.500 --> 01:11:56.500
+My też dziękujemy Puro,
+
+01:11:56.500 --> 01:11:59.500
+czyli hotelowi, który nas tutaj ugościł i
+
+01:11:59.500 --> 01:12:02.500
+mogliśmy się napić pysznej kawki.
+
+01:12:02.500 --> 01:12:05.500
+Jakie lokowanie srogie.
+
+01:12:05.500 --> 01:12:08.500
+Lokowanie produktów.
+
+01:12:08.500 --> 01:12:11.500
+Jest taka lokówka do lokowania produktów.
+
+01:12:11.500 --> 01:12:14.500
+To by było doskonałe.
+
+01:12:14.500 --> 01:12:17.500
+My was jeszcze zapraszamy na nasz standardowy już poniedziałkowy
+
+01:12:17.500 --> 01:12:20.500
+podcast, który będzie o PGA,
+
+01:12:20.500 --> 01:12:23.500
+będzie o rzeczach, których tam widzieliśmy, o grach, w które
+
+01:12:23.500 --> 01:12:26.500
+zagraliśmy, bo w parę rzeczy ciekawych graliśmy.
+
+01:12:26.500 --> 01:12:29.500
+Dziękuję ci bardzo, że byłam otwarta
+
+01:12:29.500 --> 01:12:32.500
+i szczera rozmowa. Cieszę się bardzo.
+
+01:12:32.500 --> 01:12:35.500
+Myślę, że jeszcze się spotkamy kiedyś.
+
+01:12:35.500 --> 01:12:38.500
+Dobrze. Do następnego razu. Dziękuję bardzo.
+
+01:12:38.500 --> 01:12:44.500
+Do widzenia. Pa pa.
+

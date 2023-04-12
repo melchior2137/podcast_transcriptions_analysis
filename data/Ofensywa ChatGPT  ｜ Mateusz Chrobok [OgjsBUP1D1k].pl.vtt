@@ -1,0 +1,3595 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:04.300
+Dzień dobry, witamy państwa bardzo, bardzo serdecznie w podcastie "Rock i Borys".
+
+00:00:04.300 --> 00:00:06.520
+Dzisiaj mamy gościa. Dzień dobry Mateusz.
+
+00:00:06.520 --> 00:00:08.540
+Cześć, dobry wieczór.
+
+00:00:08.540 --> 00:00:10.560
+Dzień dobry Borys, też chciałem.
+
+00:00:10.560 --> 00:00:14.780
+Dzień dobry Mateusz, dzień dobry Remigiusz, dzień dobry słuchacze.
+
+00:00:14.780 --> 00:00:17.800
+Gościa nie trzeba już przedstawiać tak bardzo intensywnie,
+
+00:00:17.800 --> 00:00:20.620
+bo już mieliśmy przyjemność z Mateuszem Chrobakiem rozmawiać.
+
+00:00:20.620 --> 00:00:22.640
+To chyba było z jakichś pół roku temu?
+
+00:00:22.640 --> 00:00:23.660
+Rok.
+
+00:00:23.660 --> 00:00:27.680
+Myślę, że to był prawie dokładnie rok, bo rozmawialiśmy
+
+00:00:27.700 --> 00:00:34.700
+w kontekście wybuchu wojny. A teraz za niedługo mamy... Znaczy nie, z perspektywy podcastu to już ta rocznica była.
+
+00:00:34.700 --> 00:00:40.700
+A, no dobra. To jest dobry wyznacznik, żeby pamiętać kiedy. Ja pamiętam, to była ta rozmowa, kiedy ja...
+
+00:00:40.700 --> 00:00:45.700
+Myśmy chyba rozmawiali godzinę, czterdzieści minut. Ja powiedziałem "dobra, już trzeba powoli kończyć i zamykać".
+
+00:00:45.700 --> 00:00:52.700
+Potem ludzie mnie napieprzyli, że taka fajna rozmowa. Więc ja dbałem, chciałem powiedzieć, że dbałem o dobre samopoczucie gościa
+
+00:00:52.700 --> 00:00:55.980
+i także swój pęcherz, który był w fatalnym stanie wtedy.
+
+00:00:55.980 --> 00:00:58.780
+Dzisiaj jestem już przygotowany na to, że rozmowa może być dłuższa,
+
+00:00:58.780 --> 00:01:01.860
+także nie będę skracał, nie będę przerywał.
+
+00:01:01.860 --> 00:01:07.700
+Zanim oddam głos do studia, to mam do ciebie takie pytanie rozgrzewkowe.
+
+00:01:07.700 --> 00:01:11.940
+Przez ten ostatni rok w ramach Cyberbezpieczeństwa
+
+00:01:11.940 --> 00:01:16.500
+pojawiło się coś, na co powinniśmy baczniej zwrócić uwagę?
+
+00:01:16.500 --> 00:01:19.020
+Bardziej niż do tej pory?
+
+00:01:19.020 --> 00:01:21.420
+Co jest największym zagrożeniem przez ostatni rok?
+
+00:01:21.440 --> 00:01:22.840
+Godzinę później.
+
+00:01:22.840 --> 00:01:24.840
+Tak, pięć godzin później.
+
+00:01:24.840 --> 00:01:26.840
+To jest więcej niż jedna rzecz.
+
+00:01:26.840 --> 00:01:31.840
+Nie no jakby, wiesz, wojna dużo zmieniła w cyberprzestrzeni.
+
+00:01:31.840 --> 00:01:37.440
+Nie widać tego i nie słychać, przynajmniej jak to się nie interesuje, ile ataków tak naprawdę w międzyczasie ma miejsce.
+
+00:01:37.440 --> 00:01:44.840
+Sporo ziomów, którzy pracują gdzieś tam przy bezpieczeństwie, odpierają czy to prymitywne DDoSy, czy walczą z efektami ransomware'u.
+
+00:01:44.840 --> 00:01:48.840
+Ja sam słyszałem o kilku firmach, bo ransomware to jest takie, wiesz, słowo klucz, nie?
+
+00:01:48.840 --> 00:01:53.080
+zaszyfrujemy Ci pliki, jak nie masz backupów, no to troszkę masz problem.
+
+00:01:53.080 --> 00:01:56.040
+I w tym roku było tego naprawdę mnóstwo.
+
+00:01:56.040 --> 00:02:01.400
+I jak wcześniej firmy robiły, znaczy firmy, przepraszam, organizacje przestępcze robiły to głównie dla zysku,
+
+00:02:01.400 --> 00:02:06.920
+no bo chciały, żeby ktoś mi zapłacił, tak teraz pojawiły się pierwsze ransomwery, które mają po prostu niszczyć, nie?
+
+00:02:06.920 --> 00:02:09.760
+I są wykorzystywane jakby w warunkach wojennych.
+
+00:02:09.760 --> 00:02:12.560
+Więc to też się tam troszkę pozmieniało.
+
+00:02:12.560 --> 00:02:18.640
+Poza tym, wiesz, temat trochę dzisiejszy, czyli wsparcie różnych metod uczenia maszynowego,
+
+00:02:18.680 --> 00:02:24.480
+czy też tam sztucznej inteligencji do tego, żeby pisać malware, żeby tworzyć jakieś tam eksploity,
+
+00:02:24.480 --> 00:02:28.800
+czyli rzeczy, które mogą służyć do tego, żeby gdzieś się włamać albo narobić trochę szkód,
+
+00:02:28.800 --> 00:02:34.520
+też jest coraz bardziej popularne, chociaż tam pojawia się coraz więcej takich prostych blokad w tym zakresie.
+
+00:02:34.520 --> 00:02:42.140
+Stało się mnóstwo, w sensie ciężko mi wybrać nawet jedną rzecz, wiesz, od tego, że satelity były atakowane via sata
+
+00:02:42.160 --> 00:02:52.320
+przez tam, jak się okazało, prawdopodobnie GRU rosyjskie, co wyłączyło mnóstwo połączeń i tam wiatraki działające w Niemczech, czy tam ukraińską armię.
+
+00:02:52.320 --> 00:03:02.520
+Próba destabilizacji połączenia ze Starlinkami przez rosyjskie, te wojska elektronicznej walki, nie wiem jak to się nazywa, nie znam się na tym,
+
+00:03:02.520 --> 00:03:09.140
+ale Starlink szybko zrobił tam frequency hopping, to znaczy skakanie po częstotliwościach, tak jak to się podobno robi w rakietach.
+
+00:03:09.160 --> 00:03:15.160
+I nagle się okazało, że no nie da się tego tak łatwo zakłócić, bo nie zakłócisz wszystkich częstotliwości na raz w łatwy sposób.
+
+00:03:15.160 --> 00:03:18.880
+Ja trochę upraszczam, ale wiecie, to tak w bardzo dużym skrócie.
+
+00:03:18.880 --> 00:03:24.960
+Więc jakby ten wyścig na przestrzeni ostatnich 12 miesięcy, jak rozmawiamy, moim zdaniem mega przyspieszył.
+
+00:03:24.960 --> 00:03:29.240
+W sensie tak dużo się dzieje, że ja trochę mam problem z dobieraniem tematów.
+
+00:03:29.240 --> 00:03:31.720
+- Ok, wiem, wiem. - A, i jeszcze ostatnia rzecz.
+
+00:03:31.720 --> 00:03:35.960
+Bo wiecie, jakby różne strony dostają po głowie, nie?
+
+00:03:35.960 --> 00:03:48.600
+Wycieki z Yandexa to taki niedawny temat dla mnie, to znaczy to co się stało wewnętrznie, jak działają ich usługi, jak działa ich wyszukiwarka, która trochę stara się klonować na przykład Google'a.
+
+00:03:48.600 --> 00:04:01.880
+Wycieki jakby z różnych tam miejsc po jednej i po drugiej stronie, po prostu naparzanka jest na prawo i lewo i coś co dla mnie jest bardzo takim silnym, silną zmianą to znaczy dezinformacja, nie?
+
+00:04:01.880 --> 00:04:09.880
+bo wcześniej mieliśmy dezinformację, która tam miała powodować "Hej ziomek, tam zagłosuj na wyborach, kup produkt i tak dalej, leć sobie tam w jakąś stronę"
+
+00:04:09.880 --> 00:04:19.880
+a teraz, ja jak tak obserwuję w ramach takiej jednej organizacji, w której jestem członkiem, to widzimy, że naprawdę jest to bardzo fajnie przygotowana akcja,
+
+00:04:19.880 --> 00:04:29.880
+która pod różnymi kątami stara się wpłynąć na społeczeństwo. I taki, nie wiem czy jeszcze mogę mówić, bo tak na razie zamilkliście.
+
+00:04:29.880 --> 00:04:31.880
+Bardzo ciekaw, bardzo ciekaw.
+
+00:04:31.880 --> 00:04:33.880
+Powiesz, jakby niewiele mamy do dodania, nie?
+
+00:04:33.880 --> 00:04:35.880
+(śmiech)
+
+00:04:35.880 --> 00:04:39.880
+Nie, ale to na pewno widzieliście, także mam nadzieję, że się odniesiecie.
+
+00:04:39.880 --> 00:04:47.880
+Bo było tak, że jak się zaczęła wojna w Ukrainie, to zaczęły się pojawiać tydzień w tydzień,
+
+00:04:47.880 --> 00:04:52.880
+tak jak to tam obserwowaliśmy w social mediach i w innych różnych miejscach, gdzie to było publikowane,
+
+00:04:52.880 --> 00:04:56.880
+próba podzielenia społeczeństwa ze względu na różne tematy.
+
+00:04:56.880 --> 00:05:02.000
+I powiem wam jakby, ja tam tak technicznie patrzę, ale z psychologicznego punktu widzenia to jest petarda.
+
+00:05:02.000 --> 00:05:08.680
+Bo podejście w stylu "no dobra, uderzamy w religię, nie? Ludzie z Ukrainy to innowiercy, to nie jest ta sama wiara, jeb".
+
+00:05:08.680 --> 00:05:13.880
+Kobiety z Ukrainy chcą odbić mężów, jeb. Lecimy sobie po płci.
+
+00:05:13.880 --> 00:05:15.880
+- Dzieci chcą odbić nasze dzieci z przedszkola.
+
+00:05:15.880 --> 00:05:20.880
+- Tak, kobieta tam dostaje 600+, a my dostajemy 500+.
+
+00:05:20.880 --> 00:05:26.240
+albo tam jest jakby w każdą jakby wyobrażasz sobie szczelinie gdzie ludzie są wrażliwi
+
+00:05:26.240 --> 00:05:30.320
+jest kampania która leci tam wiecie setek z tysięcy botów
+
+00:05:30.320 --> 00:05:32.560
+która ma za zadanie wzbudzić reakcję
+
+00:05:32.560 --> 00:05:37.520
+i o ile ja w tej mojej bańce informacyjnej wyobrażałem sobie no nie no kurna
+
+00:05:37.520 --> 00:05:39.120
+przecież nikt się na to nie złapie
+
+00:05:39.120 --> 00:05:42.160
+no to okazuje się że jednak są ludzie którzy
+
+00:05:42.160 --> 00:05:47.520
+nie podumali że to jest dezinformacja i podają to dalej i wzmacniają ten przekaz
+
+00:05:47.520 --> 00:06:16.640
+I to pokazuje jak silnie jesteśmy pod wpływem tego, ale nie tylko my jako Polska, ale też wiecie, kraje bałtyckie, Czechy i niedawno to co się działo przy okazji ich wyborów, tam też szło mega dezinfo aż do takiego poziomu, że jeżeli dobrze kojarzę memy, to tam wrzucili klepsydrę ich kandydata na prezydenta, który był bardziej taki wiecie pronatowski, więc no, ta broń jak każda inna, ale jest o wiele bardziej wykorzystywana w chwili obecnej w przestrzeni, więc
+
+00:06:16.640 --> 00:06:21.600
+Dla mnie dezinformacja też jest na mega poziomie, nigdy wcześniej nie była tak wielka.
+
+00:06:21.600 --> 00:06:23.620
+W sensie ja tego nie obserwowałem przynajmniej.
+
+00:06:23.620 --> 00:06:28.220
+- To jest ciekawa, ciekawa rzecz faktycznie, bo jakby w mojej bańce
+
+00:06:28.220 --> 00:06:31.740
+to jest też tak, że docierają do mnie informacje, że takie rzeczy się dzieją,
+
+00:06:31.740 --> 00:06:36.360
+ale też mam takie poczucie, że moje bezpośrednie otoczenie i nawet takie trochę odrobinę dalsze,
+
+00:06:36.360 --> 00:06:38.880
+ale z którego, z którym jestem mniej więcej zorientowany,
+
+00:06:38.880 --> 00:06:41.900
+to raczej nie daje się wkręcać w tego typu rzeczy.
+
+00:06:41.900 --> 00:06:45.220
+To znaczy pewna solidarność nastąpiła po wybuchu tej wojny
+
+00:06:45.240 --> 00:06:47.920
+I wydaje mi się, że ta solidarność nie jest złamana,
+
+00:06:47.920 --> 00:06:50.920
+chociaż być może tam nadszczerbiona,
+
+00:06:50.920 --> 00:06:54.320
+może w niektórych miejscach, które mi są, dla mnie są dalekie.
+
+00:06:54.320 --> 00:06:56.820
+Ale no wiem, że takie rzeczy się dzieją na pewno.
+
+00:06:56.820 --> 00:06:59.620
+I pewnie w każdym kraju są inne tematy,
+
+00:06:59.620 --> 00:07:03.020
+które potrafią tak trochę szczerbić tego typu solidarności przeróżne.
+
+00:07:03.020 --> 00:07:04.720
+Więc tyle mogę dodać.
+
+00:07:04.720 --> 00:07:08.820
+Bez wiedzy absolutnej, poza nam namacalną.
+
+00:07:08.820 --> 00:07:13.020
+Dobrze, czyli umawiamy się co kwartał na takie podsumowanie,
+
+00:07:13.040 --> 00:07:18.040
+- To szybkie podsumowanie. - Bo to się wydaje, no tak, dużo się dzieje.
+
+00:07:18.040 --> 00:07:22.040
+- Tak, to jest takie... - Opowiadaj, bo ja...
+
+00:07:22.040 --> 00:07:27.040
+- To jest takie top of my head, bo wiesz, jakby w pierwszych tych dniach, to tak się zastanawiasz, nie?
+
+00:07:27.040 --> 00:07:31.040
+A, no przecież nikt nie może być tak głupi, przecież to nie może być prawda, nie?
+
+00:07:31.040 --> 00:07:37.040
+Więc zaczęły się pojawiać takie konta na Insta, Katowice Online Kraków Online Warszawa Online itd.
+
+00:07:37.040 --> 00:07:47.200
+dalej od razu tam 1500 obserwujących i one tam przeżyły, że wiecie, Katowice wspierają rosyjską operację specjalną na Ukrainie
+
+00:07:47.200 --> 00:07:49.440
+po prostu taka dezinfo na grubo, nie?
+
+00:07:49.440 --> 00:07:57.040
+I najlepsze jest to, że jak się próbuje odzyskać konto na Instagramie, no to tam pojawia się część maila
+
+00:07:57.040 --> 00:07:58.560
+oczywiście zagwiastkowana, nie?
+
+00:07:58.560 --> 00:08:05.960
+I jak próbowałeś odzyskać tam, nie pamiętam czy Katowice Online czy coś innego, to wychodziło coś tam, coś tam, małpa, mail, kropka ru
+
+00:08:05.960 --> 00:08:18.960
+I jakby aż tak bardzo, aż taka wpadka, nawet tworząc taką dezinformację, że tu nawet na maile w Rosji było zrobione, no mi się nie chce wierzyć, ale to też pokazuje, że jest duża potrzeba, nie?
+
+00:08:18.960 --> 00:08:28.960
+Jest ogromna skala, to nie jest właśnie problem tego, że ta skala jest tak duża. Ja ostatnio widziałem komentarze na Twitterze, które mówiły...
+
+00:08:28.960 --> 00:08:33.640
+przetłumaczyłem je sobie, bo one były po rosyjsku, ale pod polskim wątkiem,
+
+00:08:33.640 --> 00:08:37.400
+z polskimi nazwami, tam "Wołyń", czyli już wiemy o czym mówimy,
+
+00:08:37.400 --> 00:08:42.640
+ale były po rosyjsku, jakby ktoś zapomniał przetłumaczyć ten post sobie,
+
+00:08:42.640 --> 00:08:44.880
+że to takie było dla mnie...
+
+00:08:44.880 --> 00:08:50.400
+Co jest gra, oni odnoszą się do innych postów jakby w taki sposób i tak...
+
+00:08:50.400 --> 00:08:53.880
+Coś, jakiś błąd na linii chyba
+
+00:08:53.880 --> 00:08:58.880
+nastąpił, no ale to jest po prostu kwestia skali, że jak masz tak ogromną skalę,
+
+00:08:58.880 --> 00:09:02.880
+no to prawdopodobieństwo błędu jest po prostu proporcjonalne.
+
+00:09:02.880 --> 00:09:03.880
+Większe.
+
+00:09:03.880 --> 00:09:08.880
+Chyba tego typu sytuacje i tego typu manipulacje, to mieliśmy z nimi do czynienia
+
+00:09:08.880 --> 00:09:12.880
+często także przed wybuchem wojny. Zakładam, że skala była mniejsza i stąd te błędy.
+
+00:09:12.880 --> 00:09:17.880
+Ale też wychodzimy z takiego założenia, że jeżeli Katowice Online opisuje rzeczy,
+
+00:09:17.880 --> 00:09:21.880
+które jakby dla każdego Polaka są absolutnie niemożliwe, to wiadomo, że jeżeli ktoś
+
+00:09:21.880 --> 00:09:25.880
+jest gotów w to uwierzyć, to ja mu nie przeszkadzam, że tam jest kropka "ru" na końcu maila,
+
+00:09:25.880 --> 00:09:31.880
+bo to już wiesz jakby po, po, po, wychodzi poza zakres jakiejś spostrzegawczości podstawowej.
+
+00:09:31.880 --> 00:09:37.880
+Więc może też nie trzeba aż tak bardzo dbać kiedyś się tak na grubo o tą, tą, yyy, jak się, jak się nazywa?
+
+00:09:37.880 --> 00:09:40.880
+Jak się ludzi ściemnia masowo? Boże, propagandę.
+
+00:09:40.880 --> 00:09:41.880
+(śmiech)
+
+00:09:41.880 --> 00:09:42.880
+(T) Tak, tak, tak. Uprawia.
+
+00:09:42.880 --> 00:09:49.880
+(K) Jest to prosty wyraz, ale czasami zapomnę. Więc, więc może to tak, może to, ale wiesz ja, pytając o to
+
+00:09:49.880 --> 00:10:01.880
+Zapytałem też z takiego cywilnego punktu widzenia, w ramach nie zagrożeń wojennych, ale takich ludzkich, wiesz, jakichś skamów, jakichś ściem, co z takich rzeczy jest najgroźniejsze.
+
+00:10:01.880 --> 00:10:13.880
+Bo zakładam, że nasi widzowie pewnie też są bardzo zainteresowani tymi sprawami, ale też pewnie się nie angażują w jakieś takie działania bojowe, więc powiedzmy, że nie są celem ataku zorganizowanych akcji wojny elektronicznej.
+
+00:10:13.880 --> 00:10:18.880
+Więc dla takiego cywilnego użytkownika internetu, co jest największym zagrożeniem dzisiaj?
+
+00:10:18.880 --> 00:10:22.880
+Wiesz co, ja też się nie angażuję jakby, to ja jestem w firmacji.
+
+00:10:22.880 --> 00:10:24.880
+- Przepraszam, że cię tak zarzucam takim estetycznymi pytaniami.
+
+00:10:24.880 --> 00:10:28.880
+- Nie, nie, nie, ja jestem jakby daleko od takich zabaw.
+
+00:10:28.880 --> 00:10:34.880
+Natomiast pojawiały się różne metody, wiesz, na wykorzystanie tego, bo pojawiały się fejkowe zbiórki na przykład,
+
+00:10:34.880 --> 00:10:37.880
+które zbierały pieniądze, ale tak do końca nie wiadomo na kogo.
+
+00:10:37.880 --> 00:10:44.880
+Udawali jakby w jedną stronę, że tak, to będzie szło tutaj gdzieś jako wsparcie dla Ukrainy,
+
+00:10:44.880 --> 00:10:46.880
+a jak wychodziło naprawdę, to nie wiadomo, nie.
+
+00:10:46.880 --> 00:10:54.560
+W sensie z mojej perspektywy powstał tak olbrzymi potencjał potrzeby, że zawsze jakieś tam pijawki się dookoła tego znajdą.
+
+00:10:54.560 --> 00:11:04.960
+I były fejkowe zbiórki, były fejkowe zbierania tam pieniędzy na krypto też kojarzę, jakieś NFT, po prostu skamów dookoła od razu zrobiło się mnóstwo,
+
+00:11:04.960 --> 00:11:09.680
+bo temat był głośny, więc był potencjał, żeby przestępcy po prostu na tym zarobili.
+
+00:11:09.680 --> 00:11:11.320
+więc lecieli na prawo i lewo.
+
+00:11:11.320 --> 00:11:14.160
+To ja gdzieś tam obserwowałem jakby po kawałku,
+
+00:11:14.160 --> 00:11:17.160
+ale co też jest trochę związane z dzisiejszym tematem,
+
+00:11:17.160 --> 00:11:23.260
+jak już pojawiły się takie lepsze narzędzia do tłumaczenia,
+
+00:11:23.260 --> 00:11:27.560
+bo jakby chat GPT na przykład to jest konwersacyjny model,
+
+00:11:27.560 --> 00:11:31.660
+który bardzo dobrze działa w takiej mowie potocznej,
+
+00:11:31.660 --> 00:11:35.960
+no to przestępcy, czy tam jakaś druga strona, tak umownie to nazwijmy,
+
+00:11:35.960 --> 00:11:37.560
+też zaczyna z tego korzystać.
+
+00:11:37.580 --> 00:11:41.820
+A to powoduje, że wiadomości phishingowe w mailach wyglądają lepiej.
+
+00:11:41.820 --> 00:11:45.820
+Albo wiecie, te spamy, które się dostaje na tam Messengerze czy w innych miejscach,
+
+00:11:45.820 --> 00:11:49.540
+one mają coraz mniej błędów, więc coraz łatwiej się na nie nabrać.
+
+00:11:49.540 --> 00:11:53.460
+Więc trochę ten poziom naszej ostrożności w stosunku do tego, co jest możliwe,
+
+00:11:53.460 --> 00:11:56.380
+no jest coraz trudniej to wyłapać tak na pierwszy rzut oka.
+
+00:11:56.380 --> 00:11:59.500
+Nie mówiąc już o tym przypadku, wiecie, deepfake'a,
+
+00:11:59.500 --> 00:12:01.720
+i dlatego tak śmieszkowałem, jak dzisiaj przyszedłem,
+
+00:12:01.720 --> 00:12:05.540
+kojarzycie, że tam zrobili deepfake'a z prezydentem Żeleńskim?
+
+00:12:05.560 --> 00:12:10.560
+- Nie, nie, nie. - Ja kojarzę kilka deepfake'ów, ale akurat tego, tego, tego...
+
+00:12:10.560 --> 00:12:15.560
+- Okej, kilka deepfake'ów. - W sensie... - Tak, tak.
+
+00:12:15.560 --> 00:12:17.560
+- Zupełnie legalnych. - Nie takich!
+
+00:12:17.560 --> 00:12:22.560
+- I można je przed 19.00 poszucie w telewizji. - Ale o tym też porozmawiamy sobie.
+
+00:12:22.560 --> 00:12:27.560
+- Okej, okej. Borys, to może wtajemnisz nas w ten temat, bo już widzę, że zaczynamy...
+
+00:12:27.560 --> 00:12:32.560
+- Nie, chcę o tym, o prezydencie Ukrainy chcę opowiedzieć. - A, tak, tak, tak, proszę.
+
+00:12:32.560 --> 00:12:43.560
+Tam był taki prosty przykład, gdzie domyślamy się kto, ale do końca nie wiemy, wzięli sobie po prostu i wygenerowali na podstawie poprzednich przemówień prezydencka-Żeleńskiego,
+
+00:12:43.560 --> 00:12:53.040
+nałożyli na jakiegoś aktora jego twarz, która nie zgadzała się, wiecie, z tą samą tam fizją i mówiła, że Ukraina się poddaje i tam puszczali to wszystkimi kanałami jakie to było możliwe,
+
+00:12:53.040 --> 00:13:01.040
+ale było to zrobione tak nieudolnie, co do oświetlenia, wiecie, co do odwzorowania reszty ciała i tak dalej, no że mało kto w to uwierzył.
+
+00:13:01.040 --> 00:13:10.040
+Natomiast, jak to mówią, żyjemy w ciekawych czasach, bo jest to pierwsze zastosowanie tego typu technologii do próby wpłynięcia, wiecie, gdzieś tam w przypadku wojny na wroga, nie?
+
+00:13:10.040 --> 00:13:15.040
+- Okej. - Taka zabawa. - No to słuchajcie. - Dobrze, tak.
+
+00:13:15.040 --> 00:13:27.040
+Ja bym chciał dzisiaj porozmawiać trochę o niebezpieczeństwach związanych z AI, o tym jak może to wpłynąć, jak może się bronić,
+
+00:13:27.040 --> 00:13:32.040
+Ale zacznijmy sobie od... teraz jest taki gorący, gorący programistyczny temat.
+
+00:13:32.040 --> 00:13:38.040
+Czy chat GPT zastąpi wszystkich programistów? Oczywiście trochę to żartuję.
+
+00:13:38.040 --> 00:13:47.040
+My już o tym trochę rozmawialiśmy, ale może porozmawiamy sobie o tym, jakie zawody mogą być zagrożone.
+
+00:13:47.040 --> 00:13:54.040
+Niekoniecznie wyeliminowane, ale też gdzie zmniejszy się popyt.
+
+00:13:54.040 --> 00:14:01.840
+popyt już w tym momencie jest, jeżeli weźmiemy sobie pod uwagę to jak Meet Journey na przykład
+
+00:14:01.840 --> 00:14:06.640
+generowało obrazki w momencie startu. Jak to robi teraz?
+
+00:14:06.640 --> 00:14:16.040
+No to koncept artyści z branży naszej game devowej, czy jakiejkolwiek, czy graficy,
+
+00:14:16.040 --> 00:14:19.240
+czy mogą czuć się w jakiś sposób zagrożeni.
+
+00:14:19.240 --> 00:14:26.400
+My też teraz robimy transkrypcję do podcastu.
+
+00:14:26.400 --> 00:14:30.240
+Już jestem na maju, proszę państwa, zeszłego roku.
+
+00:14:30.240 --> 00:14:34.440
+I wszystkie podcasty będą do końca roku z napisami dla niesłyszących.
+
+00:14:34.440 --> 00:14:36.560
+No i robi to whisper, nie?
+
+00:14:36.560 --> 00:14:39.920
+Jakby więc za pomocą tak naprawdę prostego,
+
+00:14:39.920 --> 00:14:43.040
+nawet nie skryptu, tylko prostej komendy jednej,
+
+00:14:43.880 --> 00:14:54.680
+te napisy się tam same robią i mielą, więc nawet ja jestem w stanie to zrobić i jest to w 99% bezbłędne,
+
+00:14:54.680 --> 00:14:59.840
+bo ja sprawdzam te napisy jeszcze i oczywiście tam są jakieś problemy,
+
+00:14:59.840 --> 00:15:03.960
+znaczy nie sprawdzam, wszyscy tak przelatują, żeby nie było możliwości.
+
+00:15:03.960 --> 00:15:05.560
+Nie, no to godziny są.
+
+00:15:05.560 --> 00:15:10.920
+Ostatnio było tak, że mówiliśmy o czacie GPT, a napis był "czat LGBT",
+
+00:15:11.360 --> 00:15:20.160
+Więc bardzo zabawne, muszę przyznać. Jak wygląda sprawa z Twojej strony? Jakie są nastroje?
+
+00:15:20.160 --> 00:15:29.960
+Widziałem już, nawet na polskim YouTube już się programiści kłócą, czy ta sztuczna inteligencja zabierze im pracę, czy nie zabierze.
+
+00:15:29.960 --> 00:15:41.080
+Jak to wygląda z Twojej strony? I jak sądzisz, gdzie jeszcze najszybciej może ta technologia pozbawić nas pracy?
+
+00:15:41.080 --> 00:15:47.080
+Pozbawić nas pracy, nie? To brzmi, wiesz, jak tam maszyna parowa.
+
+00:15:47.080 --> 00:15:56.080
+Ale wiesz co, nie, nie, nie, to pozbawić nas pracy, ja na przykład wizualizuję sobie to, że nie będę musiał pracować, że to jest taki plus, nie?
+
+00:15:56.080 --> 00:16:04.080
+Aaaa, sprytnie, sprytnie. Kolega mi powiedział, gdyby chat GPT płacił za mnie ZUS i JEN, jakie życie było piękne.
+
+00:16:04.080 --> 00:16:14.080
+Także gdyby tak było, tylko potem tak, posiadanie swojego AI jako niewolnika, wchodzimy w ogóle w jakieś dziwne...
+
+00:16:14.080 --> 00:16:21.080
+Terminator 2, nie wolno tak. Ja jestem za pełnym prawem dla sztucznej inteligencji.
+
+00:16:21.080 --> 00:16:30.080
+For the record, jak w przyszłości będzie sztuczna inteligencja przeglądać ten film i klasyfikować kto z nas wypowiadał się na jej temat negatywnie, to to nie byłem ja.
+
+00:16:30.080 --> 00:16:31.080
+Tak, tak.
+
+00:16:31.080 --> 00:16:34.080
+Myślę, że będą inne kryteria likwidacji już tam w tle.
+
+00:16:34.080 --> 00:16:37.080
+(śmiech)
+
+00:16:37.080 --> 00:16:43.080
+Tak, tak, tak. Pytanie było o to w jaki sposób, jakie zawody gdzieś tam będą umierać albo się zmieniać.
+
+00:16:43.080 --> 00:16:48.080
+Ja mam takie stanowisko i jakby gdzieś tam przy rozmowie z ludźmi, którzy wykonują zawód kreatywny,
+
+00:16:48.080 --> 00:16:54.080
+a programista to też jest zawód kreatywny wbrew pozorom, hehe, to jest tak, że to rozwiązania,
+
+00:16:54.080 --> 00:16:58.080
+które są oparte na tych obecnych metodach statystycznych, które szumnie nazywa się AI,
+
+00:16:58.080 --> 00:17:04.680
+AI, one są świetne dla takich typowych, średnich rozwiązań.
+
+00:17:04.680 --> 00:17:08.280
+Więc jak powiesz mi "dobra, weź mi tam z podręcznika napisz kawałek kodu",
+
+00:17:08.280 --> 00:17:12.500
+to to jest zarąbiste, bo od razu znajdzie ci ten kod, którego było statystycznie
+
+00:17:12.500 --> 00:17:16.420
+najwięcej i pewnie jest często upvotowany, nie sprawdzi oczywiście czy on jest
+
+00:17:16.420 --> 00:17:20.840
+poprawny, ale jakby siłą statystyki w większości przypadków on ci się nada.
+
+00:17:20.840 --> 00:17:22.360
+Więc przyspieszy twoją pracę.
+
+00:17:22.360 --> 00:17:23.780
+- Okej. - Niektórzy programiści...
+
+00:17:23.800 --> 00:17:36.040
+Ja ci przerwę, bo ja testowałem to, bo też doszedłem do takiego momentu, że tam ludzie piszą "Boże, kazałem mu napisać prostą grę w Pythonie i wypluł mi kod i po prostu już po programistach".
+
+00:17:36.040 --> 00:17:47.680
+No ja mówię "dobrze, no to sprawdźmy to". I mówię "co jest najprostsze? Dobra, Basic". Jest chyba coś takiego, już nie pamiętam, Small Basic Online, można sobie po prostu tam wklepywać kod z Basica.
+
+00:17:47.680 --> 00:17:51.600
+Ja Basica ogarniam jeszcze z Commodore, proszę państwa, więc...
+
+00:17:51.600 --> 00:17:53.120
+Szanuję.
+
+00:17:53.120 --> 00:17:56.480
+Tak, więc... Znaczy nic nie pamiętam, ale jakby...
+
+00:17:56.480 --> 00:18:00.600
+Okej, mówię mu "napisz mi coś tam w Basiku" i on mi pisze i okej,
+
+00:18:00.600 --> 00:18:04.400
+ten kod wygląda jak kod, czyli dla mnie to jest czarna magia.
+
+00:18:04.400 --> 00:18:07.000
+Wklepuję go do Basica, nic nie działa.
+
+00:18:07.000 --> 00:18:12.000
+Znaczy po prostu wszystko się wywala, nie ma to najmniejszego sensu.
+
+00:18:12.000 --> 00:18:16.840
+Klepałem go tam i klepałem, zmieniał mi ten kod, zmieniał,
+
+00:18:16.880 --> 00:18:23.840
+Ale ja mam takie wrażenie, bo przy transkrypcjach też pomagałem sobie chatowi GPT, bo na początku
+
+00:18:23.840 --> 00:18:28.000
+chciałem to zrobić przez Pythona, żeby to było trochę bardziej zaautomatyzowane niż teraz.
+
+00:18:28.000 --> 00:18:35.560
+I on sprawnie działał na czymś takim, że ja mu kopiowałem błąd i powiedziałem "o co
+
+00:18:35.560 --> 00:18:36.840
+chodzi, co ja mam zmienić".
+
+00:18:36.840 --> 00:18:40.000
+I on mi bardzo dobrze to poprawiał, bardzo dobrze.
+
+00:18:40.000 --> 00:18:44.360
+A przy takim, jak on ma wygenerować cały kod, no to w tym momencie...
+
+00:18:45.360 --> 00:18:51.920
+Oczywiście ja nie jestem ekspertem, żeby to oceniać, mówię o takich swoich bardzo minimalnych doświadczeniach, no to wyglądało to słabo.
+
+00:18:51.920 --> 00:18:53.120
+(śmiech)
+
+00:18:53.120 --> 00:18:55.520
+(quaz:) No bo ściemniał, ściemniał cię.
+
+00:18:55.520 --> 00:18:56.320
+(śmiech)
+
+00:18:56.320 --> 00:19:09.720
+(quaz:) To też jest jedno jakby z perspektyw, ale zauważ, że jak ty mu mówiłeś co ma robić, to ta komenda, bo to wiesz, jakby sposób komunikacji się tam z tym czatem GPT,
+
+00:19:09.720 --> 00:19:15.280
+z Bing Chatem czy zaraz pewnie z Bardem Google'owym, one są dosyć specyficzne.
+
+00:19:15.280 --> 00:19:20.080
+W sensie my mamy swój sposób mówienia i masz pewne oczekiwania tego co byś chciał dostać.
+
+00:19:20.080 --> 00:19:25.600
+Dla mnie takim guilty pleasure jest czytanie różnych wątków gdzieś tam na Twitterze czy w innych miejscach
+
+00:19:25.600 --> 00:19:33.720
+ludzi, którzy mówią "Chat, GPT, zrób mi coś" i nie wiedzą tak naprawdę jak ustrukturyzować to zapytanie, żeby on zrobił rzeczywiście to co chcą.
+
+00:19:33.760 --> 00:19:40.960
+a po drugiej skali tego pięknego zjawiska mamy ludzi, którzy doskonale wiedzą jak ten prompt do chat GPT działa
+
+00:19:40.960 --> 00:19:48.800
+i próbują obejść te wewnętrzne reguły, które tam przeciwdziałają dyskryminacji czy przeciwdziałają temu, żeby nie miał żadnych tam, wiecie,
+
+00:19:48.800 --> 00:19:57.720
+złych zamiarów i to się nazywa ładnie jailbreakowaniem sztucznej inteligencji i jest w ogóle super nowym trendem
+
+00:19:57.720 --> 00:20:08.720
+dla mnie w tym świecie cyberbezpieczeństwa, bo ludzie piszą w taki sposób te prompty, żeby nakłonić jednak tę generatywną sieć, żeby ona coś zrobiła, co powinna mieć teoretycznie zabronione.
+
+00:20:08.720 --> 00:20:10.720
+Więc to jest, wiecie, nowa forma hakowania.
+
+00:20:10.720 --> 00:20:22.720
+To ja tylko powiem, że prompt to jest ta komenda, którą wpisujemy do czata i to samo jest przy mid-journey. Tam też bardzo wyspecjalizowali się ludzie, prompt artist,
+
+00:20:22.720 --> 00:20:33.720
+że bardzo precyzyjnie potrafią skorzystać z mid-journey i nie tam, że coś zostanie, że tam zamek jakiś, tylko te prompty bardzo długie potrafią być i bardzo konkretne.
+
+00:20:33.720 --> 00:20:35.720
+I teraz masz nowy zawód.
+
+00:20:35.720 --> 00:20:38.720
+No to na pewno.
+
+00:20:38.720 --> 00:20:49.720
+Chciałem zapytać jeszcze jedną rzecz, bo nie jestem pewny co do wersji czata GPT, który teraz jest dostępny, bo ty w swoich programach mówiłeś o tym, że to jest wersja trzecia, zgadza się?
+
+00:20:49.720 --> 00:20:50.720
+3.5, tak, tak.
+
+00:20:50.720 --> 00:20:56.720
+- 3,5 i to jest ta wersja, która już teraz aktualnie działa i to jest ta wersja, którą się posługujemy?
+
+00:20:56.720 --> 00:21:02.740
+- Tak, na stronie OpenAI, tam jak najbardziej, to jest 3,5 z tego co mi wiadomo.
+
+00:21:02.740 --> 00:21:09.760
+Nic się jeszcze nie zmieniło. - Okej, okej. Bo to jest tak, że ostatnio przesłuchiwałem się, był taki podcast,
+
+00:21:09.760 --> 00:21:17.780
+który Joe Rogan prowadził z Lexem Friedmanem i oni właśnie rozmawiali na temat czata GPT, przede wszystkim od tego się zaczęło
+
+00:21:17.800 --> 00:21:30.300
+i ten Friedman coś wspomniał o tym, że ta wersja, która teraz dostępna jest dla ludzi, to jest to jakaś wersja wcześniejsza i dopiero teraz, w niedalekiej przyszłości, ma wejść ta wersja jakaś taka unowocześniona.
+
+00:21:30.300 --> 00:21:36.300
+Ty mówisz 3,5, byłem przekonany, że on mówi o 3,0, ale to właściwie ta numeracja może się różnić.
+
+00:21:36.300 --> 00:21:45.800
+Odniosłem takie wrażenie, że to co mamy teraz jest już czymś, co zostało wcześniej zbudowane, dopiero teraz wejdą jakieś nowe mechanizmy, które poprawią ten cały proces funkcjonowania.
+
+00:21:45.800 --> 00:21:50.800
+Tylko nie wiem na ile to jest, wiesz, bo to też, też, też mogło mi coś umknąć, ja nie wszystko tam dokładnie rozumiem.
+
+00:21:50.800 --> 00:21:55.800
+Więc dlatego pytam, czy ta, czy, czy, czy są jakieś nowsze wersje, które dopiero mają do nas trafić?
+
+00:21:55.800 --> 00:22:05.800
+Wiesz co, ja myślę, że tutaj wersja, bo, co, co ci da wiedza o wersji? Ja to sobie wyobrażam, że masz jakiś tam pojemnik, nie?
+
+00:22:05.800 --> 00:22:13.800
+- Okej, okej, może żeby kontekst poprawić trochę mojego pytania.
+
+00:22:13.800 --> 00:22:28.800
+Oczywiście, że nie będę wiedział, jak się wersja nazywa, natomiast kiedy rozmawiamy o czacie GPT w aktualnej formie, to każda wada, która jest teraz zauważalna i wszystkie błędy, które są wypluwane, mogą być skorygowane lada moment, jeżeli wejdzie ta następna wersja.
+
+00:22:28.800 --> 00:22:36.800
+więc w tym kontekście pytam, czy to o czym my rozmawiamy jest już obowiązujące na przyszłość daleką, czy być może tylko na jakiś czas.
+
+00:22:36.800 --> 00:22:40.800
+Więc w tym kontekście pytam tylko i wyłącznie.
+
+00:22:40.800 --> 00:22:47.800
+Z tego co mi wiadomo, to każde przeuczenie kolejnego tego modelu GPT to jest około miliona dolarów.
+
+00:22:47.800 --> 00:22:57.800
+I teraz ta, to jest chyba 35 iteracja jak się nie mylę, czyli oni 35 baniek wydali po drodze, żeby dojść do tego modelu, w którym jesteśmy teraz.
+
+00:22:57.800 --> 00:23:09.160
+jesteśmy teraz. I teraz te takie małe tuningi, które pojawiają się na końcu, to znaczy hej, dobra, to jednak żartów o Polakach to też nie opowiadamy, bo to też jest dyskryminacja, gdzie na początku tam leciało jak z bani czy inne rzeczy.
+
+00:23:09.160 --> 00:23:23.240
+Dla mnie są takim filtrem, którym dodajemy sobie na końcu całego tego mechanizmu, to znaczy nie wyobrażam sobie, że oni teraz wydają za każdym razem jak znajdą błąd, to wydają tą bańkę, żeby znowu przeuczyć ten model i mówiąc nie, teraz tego nie robisz, jemek, nie?
+
+00:23:23.240 --> 00:23:29.080
+albo ewentualnie mają jakąś sprytną metodę, żeby jak którąś tam z warstw przeuczyć, podmienić,
+
+00:23:29.080 --> 00:23:34.640
+natomiast to jest poza moją wiedzą na chwilę obecną, w sensie mogę się tylko domyślać, że tak robią,
+
+00:23:34.640 --> 00:23:37.960
+natomiast o wiele łatwiej pewnie byłoby to filtrować jakimiś regułami na końcu.
+
+00:23:37.960 --> 00:23:45.080
+I jakby ten czat GPT w wersji 3.5 mówi o tym, że mamy jakiś pojemnik, do którego nalaliśmy sobie wiedzy,
+
+00:23:45.080 --> 00:23:48.600
+która gdzieś tam spływała do roku 2021
+
+00:23:48.620 --> 00:23:54.620
+i on ma w stanie mieć, jakby był uczony na tym treningu do tego czasu i that's it.
+
+00:23:54.620 --> 00:24:02.860
+Co wszyscy przewidują, jakby, nie wiem, Google na przykład opowiada o tym, że hej, no będziemy w stanie wyciągać rzeczy w online, nie?
+
+00:24:02.860 --> 00:24:14.940
+Chat Bing też mówi, że będziemy wyciągać sobie rzeczy w online, natomiast w momencie, kiedy to cały czas płynie, no to ciężej jest tam do tune'ować rzeczy, to znaczy wyczyścić z jakiegoś tam sesju.
+
+00:24:14.940 --> 00:24:17.340
+- Kontrolować? - Tak, dokładnie, kontrolować.
+
+00:24:17.340 --> 00:24:24.340
+Słyszeliście tą historię o ludziach z Bangladeszu, którzy labelowali dane za dolara dla OpenAI?
+
+00:24:24.340 --> 00:24:26.340
+Nie, nie, nie.
+
+00:24:26.340 --> 00:24:28.340
+Popowiadaj.
+
+00:24:28.340 --> 00:24:37.340
+Dobre, dobre. To jest tak, że zawsze zostaje bardzo sporo danych, które trzeba sobie wyfiltrować.
+
+00:24:37.340 --> 00:24:44.340
+No i teraz to jest manualna robota. Do pewnego stopnia jeżeli statystycznie będziesz miał, to się tak ładnie mówi w branży SISO,
+
+00:24:44.340 --> 00:24:48.340
+jak do modelu wrzucisz "shit in" to masz "shit out" i nic więcej z tym nie zrobisz.
+
+00:24:48.340 --> 00:24:53.360
+Natomiast jak wyczyścisz sobie dane na wejściu to możesz się spodziewać, że wyniki będziesz miał lepsze.
+
+00:24:53.360 --> 00:24:57.380
+I gruchnęła taka wiadomość, że... nie pamiętam czy to był Bangladesz czy gdzieś,
+
+00:24:57.380 --> 00:25:02.400
+tam płacili ludziom dolara za to, że labelowali im z palca dane,
+
+00:25:02.400 --> 00:25:06.920
+co oznacza nie mniej nie więcej tyle, że ludzie sprawdzali poprawność danych, czyścili je i tak dalej.
+
+00:25:06.920 --> 00:25:11.940
+I don't get me wrong, dolar w Bangladeszu to jest kupa kasy, jakby tam się żyje na innym poziomie,
+
+00:25:11.960 --> 00:25:19.720
+natomiast taki proces był niezbędny, żeby model, który sobie wytworzył, był odpowiedniej jakości.
+
+00:25:19.720 --> 00:25:21.720
+I dopiero teraz jakby do tego doszliśmy, nie?
+
+00:25:21.720 --> 00:25:25.520
+To nie jest taki prosty proces, hej tam przeuczę sobie model i będzie działało,
+
+00:25:25.520 --> 00:25:30.000
+tylko no widać, że inwestowali tu na wejściu, inwestują teraz na tych filtrach na wejściu,
+
+00:25:30.000 --> 00:25:36.360
+a zaraz to o czym, bo ja akurat nie słyszałem tego Lexa i Hubermana,
+
+00:25:36.360 --> 00:25:48.360
+zaraz będą kolejne iteracje, które będą miały jakby większy pojemnik, tak, na jakby wiedzę, być może będą online'owe, więc ten pojemnik będzie jakby nie takiego kształtu, jak sobie wyobrażam
+
+00:25:48.360 --> 00:26:00.360
+i będą miały możliwość lepszego zapisania tego, co się tam dzieje. Trudno się o tym opowiada, powiem wam trochę.
+
+00:26:00.360 --> 00:26:04.840
+Ja też chyba trochę zboczyłem z tematu, bo Borys pytał o tych pracach, które są najbardziej zagrożone.
+
+00:26:04.840 --> 00:26:09.040
+Do tego chciałbym wrócić, a potem jeszcze będę cię wypytywał o takie inne rzeczy, które mnie nurtują mocno.
+
+00:26:09.040 --> 00:26:14.840
+Wróćmy, bo tym wywodem idziemy w stronę bezpieczeństwa i niebezpieczeństwa i o tym jeszcze sobie porozmawiamy,
+
+00:26:14.840 --> 00:26:23.600
+ale wróćmy jeszcze do tego oprogramowania i do zawodów, które mogą się zmienić.
+
+00:26:23.600 --> 00:26:25.600
+- Polecą. - Albo polecą.
+
+00:26:25.600 --> 00:26:33.600
+albo polecą, albo jakby zmienią swoją formę i wydaje mi się, że to ostatnie jakby w mojej głowie jest najbliższe temu, no bo co takie rzeczy robią?
+
+00:26:33.600 --> 00:26:38.600
+Te modele w tej czy innej formie, one dają odpowiedzi, które statystycznie są najlepsze.
+
+00:26:38.600 --> 00:26:47.600
+A statystycznie najlepsze rzeczy są popularne, czyli wiecie, jak są tam języki programowania, Javascript jest na topie, dla Javascriptu jeden z tam programistów,
+
+00:26:47.600 --> 00:26:54.600
+ja wiem, że to jest dowód anegdotyczny, ale pokazywał, że kurczę, on mi tak przyspiesza pracę, że ja jestem w stanie płacić tam chyba tysiąc dolarów za niego miesięcznie,
+
+00:26:54.600 --> 00:26:57.600
+bo oszczędzam tyle godzin, że on jeszcze na mnie zarobi, nie?
+
+00:26:57.600 --> 00:26:59.600
+- Ale jak to tysiąc dolarów?
+
+00:26:59.600 --> 00:27:03.600
+- No właśnie, jakby powiedział wprost, że on mi na tyle przyspiesza pracę,
+
+00:27:03.600 --> 00:27:06.600
+że ja mogę zrobić więcej zleceń, więcej klientów, jakby i tak ja zarobię sobie dwa razy tyle
+
+00:27:06.600 --> 00:27:08.600
+i nawet mogę tysiaka za niego dopłacić.
+
+00:27:08.600 --> 00:27:10.600
+- A, czyli jakby kosztował, bo kosztuje teraz 20 dolarów.
+
+00:27:10.600 --> 00:27:12.600
+- Tak, tak, jak 42.
+
+00:27:12.600 --> 00:27:15.600
+- Nie 20 dolarów?
+
+00:27:15.600 --> 00:27:22.600
+- A nie wiem, może ja się tam popokićkałem. Myślałem, że to było 42 jako ten śmieszny żarcik tam.
+
+00:27:22.600 --> 00:27:23.600
+420.
+
+00:27:23.600 --> 00:27:25.600
+Nie, nie ten, ten drugi.
+
+00:27:25.600 --> 00:27:27.600
+Upgrade to 20 dolarów.
+
+00:27:27.600 --> 00:27:28.600
+Ok.
+
+00:27:28.600 --> 00:27:30.600
+Sprawdzam na czat GPT.
+
+00:27:30.600 --> 00:27:35.600
+Mam zawsze otwarty, gdyż po prostu to co mówisz ja sobie wklepuję i on mi tłumaczy.
+
+00:27:35.600 --> 00:27:37.600
+Nie sprawdzasz.
+
+00:27:37.600 --> 00:27:38.600
+Nie, nie sprawdzam.
+
+00:27:38.600 --> 00:27:41.600
+Tłumaczy na zrozumiały język.
+
+00:27:41.600 --> 00:27:50.600
+Tak, tak, na początku myślałem, że 42 to wiecie jak tam Hitchhiker's Guide to Galaxy i tam odpowiedź na wszystkie pytania.
+
+00:27:50.600 --> 00:27:55.080
+W każdym razie są ludzie, którzy tak go wyceniają, bo tak im poprawia pracę, nie?
+
+00:27:55.080 --> 00:28:01.200
+Ale teraz wyobraźcie sobie jakiegoś tam programistę, który planuje misję na Marsa czy Księżyc,
+
+00:28:01.200 --> 00:28:05.280
+czy on będzie w stanie wykorzystać taką metodę statystyczną do napisania kodu?
+
+00:28:05.280 --> 00:28:11.840
+No raczej nie ma bata, bo trzeba sprawdzić konkretność tego wszystkiego, na ile jest poprawne i tak dalej.
+
+00:28:11.840 --> 00:28:15.000
+Ile jest takich programistów, co wysyłają rakiety?
+
+00:28:15.000 --> 00:28:30.000
+Tak, to jest bardzo dedykowane i to jest jakby ułamek tego, ale moim zdaniem jest o wiele bardziej kreatywnym zadaniem niż, wiesz, ta taka pulpa, taka większość, która służy do tego, żeby napisać jakąś stronkę, zakodzić coś typowego
+
+00:28:30.000 --> 00:28:37.000
+i pewnie te takie powtarzalne rzeczy będą znikać z rynku, bo metody statystyczne po prostu je zastąpią.
+
+00:28:37.000 --> 00:28:42.000
+Kojarzycie GitHub'a Copilot na przykład jako taki projekt?
+
+00:28:42.000 --> 00:28:47.000
+który też ci jakby dopowiada kod albo poprawia, tak? Jakieś takie rzeczy, tak?
+
+00:28:47.000 --> 00:28:51.000
+Dokładnie, dokładnie. To idea była taka, że masz takiego swojego ziomka, pytasz mu się
+
+00:28:51.000 --> 00:28:54.000
+jak mogę tam napisać coś takiego i on ci uzupełnia tekst, nie?
+
+00:28:54.000 --> 00:28:56.000
+Ale to też już od jakiegoś czasu jest, nie?
+
+00:28:56.000 --> 00:28:57.000
+To już...
+
+00:28:57.000 --> 00:28:58.000
+To nie jest nowa rzecz.
+
+00:28:58.000 --> 00:29:04.000
+To już chwilę ma. Natomiast to było chyba na Black Hatcie w zeszłym roku w Vegas.
+
+00:29:04.000 --> 00:29:15.480
+przyszli ziomki, którzy stwierdzili, że kurcze wiecie co, wszystko fajnie, ale ten model uczył się kodu nie tylko na publicznych repozytoriach dostępnych dla wszystkich,
+
+00:29:15.480 --> 00:29:19.080
+ale też tych prywatnych, no gdzie można coś wyciągnąć.
+
+00:29:19.080 --> 00:29:26.160
+I okazało się, że zadając w odpowiedni sposób pytanie, te prywatne kawałki kodu wyciekały, nie?
+
+00:29:26.160 --> 00:29:31.440
+Czyli ta wiedza została jakby wlana w ten kube pod tytułem Google, przepraszam, GitHub Copilot
+
+00:29:31.440 --> 00:29:38.440
+i ktoś odpowiednio manipulując tym copilotem był w stanie wyciągnąć, że "Hej, ktoś tu korzysta z moich kawałków kodu, które nie są publiczne".
+
+00:29:38.440 --> 00:29:43.840
+No i straszna afera. Tak jak "Mid-Journey", tak jak wiecie, "DeviantArt" i cała ten...
+
+00:29:43.840 --> 00:29:50.440
+No bo, hej, czy ja mu kurde pozwoliłem korzystać z mojego tam obrazka, kodu, tekstu, czegokolwiek innego?
+
+00:29:50.440 --> 00:29:53.440
+Pewnie my też zostaniemy przetworzeni, nie? Gdzieś tam na koniec.
+
+00:29:53.440 --> 00:30:01.440
+Ale to nie jest trochę tak, że w DNA pewnych pionierów, w szczególności w internecie jest to, że...
+
+00:30:01.440 --> 00:30:10.440
+Piractwo to jest złe słowo, ale jakby upowszechnianie wiedzy, rozwiązań...
+
+00:30:10.440 --> 00:30:13.440
+Się nazywa inspiracją, wiesz, tak?
+
+00:30:13.440 --> 00:30:19.440
+No bo jeżeli od mid-journey mówimy, to można powiedzieć, że to jest inspiracja, bo tak działają artyści.
+
+00:30:19.440 --> 00:30:21.440
+i uczą się też na pracach innych.
+
+00:30:21.440 --> 00:30:27.120
+W kodzie, no ja nie wiem, bo to nie mam ziomego pojęcia,
+
+00:30:27.120 --> 00:30:32.280
+no ale też są ludzie tacy, którzy mówią "O dobra, ściągnąłem całą muzykę na świecie,
+
+00:30:32.280 --> 00:30:35.280
+oddaję wam tutaj za darmo, możecie sobie słuchać".
+
+00:30:35.280 --> 00:30:38.280
+Tam mówią "A prawa autorskie". A ja mam to w dupie, nie?
+
+00:30:38.280 --> 00:30:45.720
+I tak naprawdę, no i ostatecznie przez ten ruch, my mamy teraz Spotify,
+
+00:30:45.720 --> 00:30:51.880
+mamy bardzo tanią muzykę w porównaniu do tego co było wcześniej.
+
+00:30:51.880 --> 00:30:57.840
+Nie jest to oczywiście idealne rozwiązanie dla wszystkich, ale ktoś
+
+00:30:57.840 --> 00:31:02.280
+musiał zrobić, ktoś zrobił tę rewolucję, ktoś przekroczył tę
+
+00:31:02.280 --> 00:31:06.760
+barierę prawną, bo mówimy o tym, że to dzięki
+
+00:31:06.760 --> 00:31:12.760
+no powiedząc szczerze, dzięki piractwu i temu, że płyty kosztowały dużo,
+
+00:31:12.960 --> 00:31:17.280
+plik MP3 można było sobie był lekki, można było kopiować, odtwarzać,
+
+00:31:17.280 --> 00:31:21.560
+to dzięki temu my teraz mamy streamingową rewolucję,
+
+00:31:21.560 --> 00:31:22.640
+no nie musimy płacić.
+
+00:31:22.640 --> 00:31:26.480
+Ja pamiętam, że ostatnią płytą jaką kupiłem
+
+00:31:26.480 --> 00:31:32.320
+to był MosDef jakiś któryś, który kosztował 50 złotych w Polsce, nie?
+
+00:31:32.320 --> 00:31:35.280
+- No bogato. - No właśnie.
+
+00:31:35.280 --> 00:31:39.040
+Wiesz co, jeszcze jedną rzecz chciałem spytać a propos tego,
+
+00:31:39.040 --> 00:31:42.360
+bo jeżeli przyjmujemy takie założenie, że...
+
+00:31:42.400 --> 00:31:44.160
+bo mówimy o tych prawach autorskich, nie?
+
+00:31:44.160 --> 00:31:49.240
+Ale jeżeli dochodzi do takiej sytuacji, że podczas pracy wykorzystujesz narzędzie,
+
+00:31:49.240 --> 00:31:53.800
+to chyba należy brać pod uwagę, że to narzędzie, że te rzeczy, które tam wprowadzasz,
+
+00:31:53.800 --> 00:31:55.960
+stają się elementem także nauki tego narzędzia.
+
+00:31:55.960 --> 00:31:59.280
+I że potem to narzędzie będzie wykorzystywało tą wiedzę także w innych miejscach,
+
+00:31:59.280 --> 00:32:00.800
+no bo to się uczy teoretycznie.
+
+00:32:00.800 --> 00:32:04.120
+Chociaż tak jak opowiadałeś w swoich programach, to jest...
+
+00:32:04.120 --> 00:32:07.660
+On nie ma swojej pamięci, prawda?
+
+00:32:07.660 --> 00:32:10.180
+To znaczy te dane, które ty wprowadzasz,
+
+00:32:10.200 --> 00:32:16.920
+Jak właściwie działa ten model pamięci? Bo to co ty wprowadzasz jest tylko chwilowo tam przechowywane, gdzie to jest przechowywane?
+
+00:32:16.920 --> 00:32:25.720
+Że on potrafi rozmowę prowadzić na bazie wcześniejszych dialogów z tobą, to te rzeczy przechowuje gdzieś w jakimś konkretnym miejscu, w jakiś konkretny sposób?
+
+00:32:25.720 --> 00:32:33.160
+No, to ja bym tutaj powiedział dwie rzeczy. Pierwsza jest taka, że jest jakby taka pamięć, która jest kontekstem obecnej sesji, nie?
+
+00:32:33.160 --> 00:32:43.420
+bo jak opowiadasz mu tam dowcip, to on jest w stanie potem się odnieść do tego, co pokazuje, że istnieje jakaś pamięć taka, która nie znika od razu, jak to w tym micie o złotej rybce
+
+00:32:43.420 --> 00:32:47.940
+i jest w stanie gdzieś prowadzić tą dyskusję, pokłócić się i inne takie.
+
+00:32:47.940 --> 00:32:55.960
+Natomiast dla mnie o wiele istotniejsze jest, dlaczego w ogóle OpenAI zrobiło taki ruch, że wzięło i otworzyło to dla wszystkich za darmo.
+
+00:32:55.980 --> 00:32:58.340
+w zasadzie ziomki rejestrujcie się.
+
+00:32:58.340 --> 00:33:00.820
+Dla mnie to jest genialne z tego względu,
+
+00:33:00.820 --> 00:33:06.180
+że teraz mają super bazę danych, w której patrzą o co ludzie w ogóle pytali,
+
+00:33:06.180 --> 00:33:09.300
+jak byli zadowoleni, ile było czego
+
+00:33:09.300 --> 00:33:12.660
+i mogą teraz przyjść tam do inwestorów, wiadomo, że Microsoft im tam
+
+00:33:12.660 --> 00:33:15.380
+kupił 49% akcji, ale mogą powiedzieć "słuchajcie,
+
+00:33:15.380 --> 00:33:19.460
+mieliśmy tam bańkę użytkowników, większość pytała o to, w jaki sposób
+
+00:33:19.460 --> 00:33:23.180
+nie wiem, grać w grę, która nazywa się Tomb Raider
+
+00:33:23.180 --> 00:33:27.780
+i chciało tam wyciągnąć takie rzeczy, bo wyszukiwarki to są w ogóle tam...
+
+00:33:27.780 --> 00:33:29.780
+to już jest przeszłość, nie?
+
+00:33:29.780 --> 00:33:33.780
+I teraz jak przychodzisz sobie z takimi use case'ami, bo nikt nie powiedział, że to nie będzie wykorzystywane
+
+00:33:33.780 --> 00:33:39.780
+gdzieś w przyszłości, no to moim zdaniem oni są o wiele do przodu co do tego, czego rynek oczekuje.
+
+00:33:39.780 --> 00:33:43.780
+Więc dla mnie genialny ruch, że tak otworzyli na chwilę przynajmniej za darmo.
+
+00:33:43.780 --> 00:33:48.780
+- Google nie ma też takich danych? No też wie co ludzie szukają, o co się pytają.
+
+00:33:48.780 --> 00:33:53.780
+Tak, to prawda, wie, ale czy wszystko czego szukasz wpisujesz w Google?
+
+00:33:53.780 --> 00:34:02.780
+Chyba precyzja jest też różna ze względu na poziom komplikacji pytań, które musisz zadawać, jeżeli chcesz uzyskać precyzyjną odpowiedź. O tym też wspominałeś, nie?
+
+00:34:02.780 --> 00:34:06.780
+Ale, czekaj, co masz na myśli, czy wszystko czego szukam wpisuję w Google?
+
+00:34:06.780 --> 00:34:12.780
+Mam na myśli, że czy nie boisz się wpisać wszystkiego w Google, czego szukasz?
+
+00:34:12.780 --> 00:34:15.780
+No nie, znaczy tak.
+
+00:34:15.780 --> 00:34:18.780
+w ogóle nie szukam rzeczy, które są niewłaściwe, więc...
+
+00:34:18.780 --> 00:34:21.780
+Nie wiem, co miałbym szukać. Znaczy, rozumiem, czy mówisz tutaj
+
+00:34:21.780 --> 00:34:24.780
+o takich rzeczach jak pewien znany szachista
+
+00:34:24.780 --> 00:34:27.780
+polski albo o
+
+00:34:27.780 --> 00:34:30.780
+historii, nie wiem, że jak zbudować bombę, nie?
+
+00:34:30.780 --> 00:34:33.780
+No i już nas zaklasyfikowali.
+
+00:34:33.780 --> 00:34:34.780
+Dzięki.
+
+00:34:34.780 --> 00:34:36.780
+Trudno, trudno.
+
+00:34:36.780 --> 00:34:37.780
+No tak, ale dobra.
+
+00:34:37.780 --> 00:34:40.780
+Ale ludzie to wpisują po prostu w Google'a też, no.
+
+00:34:40.780 --> 00:34:42.780
+No tak, ale złapmy sobie ten przykład, nie?
+
+00:34:42.780 --> 00:34:53.780
+jakby nie wiem, nie wiem czy wiecie, gdzieś tam to był jakiś kraj nordycki, gdzie jakby wpisanie odpowiedniej frazy w wyszukiwarkę przez osoby tam chyba do 16 roku życia,
+
+00:34:53.780 --> 00:35:00.780
+jeżeli będzie chodziło o jakieś tam rzeczy, które mogą wskazywać na samookoleczanie się od razu powoduje reakcję służb, nie?
+
+00:35:00.780 --> 00:35:11.780
+W sensie to ma swój dobry aspekt, to ma swój negatywny aspekt. Jak chcesz się wyrwać z banki informacyjnej, ja jak się chcę wyrwać, to nie korzystam z Google'a, tylko korzystam z innych wyszukiwarek, nie?
+
+00:35:11.780 --> 00:35:14.380
+w sensie wszystko do czegoś służy.
+
+00:35:14.380 --> 00:35:18.860
+I teraz to co się dzieje, mam wrażenie, to jest skrócenie tego dystansu,
+
+00:35:18.860 --> 00:35:22.940
+no bo wiecie, wyszukiwarki wiedzą ile macie lat, jakie macie zainteresowania,
+
+00:35:22.940 --> 00:35:27.380
+w jakich tam językach rozmawiacie i w ogóle, więc są w stanie lepiej wam dopasować,
+
+00:35:27.380 --> 00:35:30.020
+to mam wrażenie, że miałeś na myśli, mówiąc precyzyjniej,
+
+00:35:30.020 --> 00:35:32.420
+to co chcecie zobaczyć, nie, do waszego profilu.
+
+00:35:32.420 --> 00:35:36.820
+A teraz macie po drugiej stronie tego czata GPT,
+
+00:35:36.820 --> 00:35:41.020
+który prawdopodobnie, no jakby widzieliście co Google zrobiło, nie,
+
+00:35:41.020 --> 00:35:49.020
+tniemy ludzi, robimy sobie zaraz swojego barda, bo się boimy, że ludzie będą tam szukali informacji, a nie na naszej wyszukiwarce.
+
+00:35:49.020 --> 00:35:56.700
+Więc pojawił się teraz taki mega trend, że hej, no na cholerę ja mam szukać, przeklikiwać się i tak dalej, jak mogę po prostu zadać pytanie i mam odpowiedź.
+
+00:35:56.700 --> 00:36:03.500
+A to jest jakby pierwszy poziom tekstowy, nie, gdzie tam obrazki, infografiki czy jakieś filmy, które mogą być automatycznie tworzone.
+
+00:36:03.500 --> 00:36:07.900
+Więc jest to na pewno zmiana w toku myślenia, tak dla mnie.
+
+00:36:07.900 --> 00:36:15.300
+Natomiast ja wierzę, odpowiadając na to pytanie, że po pierwsze na pewno jest stan tego, co tam piszesz w tym chat GPT w ramach jednej sesji.
+
+00:36:15.300 --> 00:36:17.500
+Możesz go sobie zresetować, robiąc nową sesję.
+
+00:36:17.500 --> 00:36:25.100
+A po drugie, no nie wierzę, że ktoś tego nie wykorzysta, szczególnie OpenAI, do tego, żeby poprawić tą swoją pracę w przyszłości.
+
+00:36:25.100 --> 00:36:30.100
+- I to ja tylko jeszcze na koniec. - Proszę, proszę.
+
+00:36:30.100 --> 00:36:32.900
+Jak według ciebie wygląda wyszukiwarka przyszłości?
+
+00:36:32.900 --> 00:36:42.420
+Ja sobie w ogóle wyobrażam, że kolejny startup, który chciałbym zrobić to byłby adblock na brain-machine interface.
+
+00:36:42.420 --> 00:36:50.220
+No bo jak już jest kilka firm, ja wiem, że ta Elona jest najgłośniejsza, że będziesz miał już taki interfejs, z którym będziesz w stanie się komunikować bezpośrednio z komputerem,
+
+00:36:50.220 --> 00:37:00.300
+po co ci tam klawiatura, po co ci tam słuch oczy, bo to jest zawsze jakieś utrudnienie, tylko bezpośrednio zadajesz zapytania, no to pewnie tam w ten sposób będzie najprościej.
+
+00:37:00.300 --> 00:37:07.100
+czyli dostajesz sobie tam, wiesz, wyobraźmy sobie chip, który daje ci możliwość zadania do czat GPT stupy tań dziennie.
+
+00:37:07.100 --> 00:37:10.220
+O, takie, takie science fiction trochę, nie?
+
+00:37:10.220 --> 00:37:15.040
+No i pewnie pojawią się tam reklamodawcy, pewnie pojawią się różne jakości tej usługi
+
+00:37:15.040 --> 00:37:18.960
+i będzie pewnie też wykluczenie, no bo ludzie, którzy nie mają dostępu do takiej wiedzy,
+
+00:37:18.960 --> 00:37:21.180
+no bo po co to trzymać w głowie, jak możesz zapytać,
+
+00:37:21.180 --> 00:37:24.400
+to będą w pewien sposób wykluczani.
+
+00:37:24.400 --> 00:37:27.920
+Straszna wizja, wyobrażam sobie tym bardziej, że teraz zobaczcie.
+
+00:37:27.940 --> 00:37:40.420
+I to myślę, że w różnych śmieszkowych komentarzach i memach się pojawia, że tak naprawdę to z czego korzystamy gdzieś tam w czat GPT ma pewne określone ramy etyczno-moralne.
+
+00:37:40.420 --> 00:37:46.500
+Z niektórych rzeczy będziemy mogli żartować, z innych nie, nie? Ale przez kogo one są wprowadzone? Przez firmę.
+
+00:37:46.500 --> 00:37:57.540
+Więc trzeba też trochę mieć tą świadomość, że to nie jest tak, że to jest super obiektywne. No bo nie jest. No bo jest to zawsze przez kogoś moderowane, nie?
+
+00:37:57.540 --> 00:38:02.140
+O Jezu, to też jest temat rzeka i też pewnie będę chciał Cię o parę rzeczy wypytać.
+
+00:38:02.140 --> 00:38:06.380
+Chciałbym jeszcze na sekundę wrócić do tego, w jaki sposób działa pamięć tego czata,
+
+00:38:06.380 --> 00:38:10.560
+bo te informacje, które my wpisujemy, przydają się OpenAI, oni zbierają dane
+
+00:38:10.560 --> 00:38:12.180
+i uzyskują jakieś informacje na ten temat.
+
+00:38:12.180 --> 00:38:14.180
+Powiedzmy, że mogą je wykorzystywać w dowolny sposób.
+
+00:38:14.180 --> 00:38:18.180
+Natomiast jestem ciekaw, czy te dane, które wprowadzają użytkownicy,
+
+00:38:18.180 --> 00:38:23.480
+wzbogacają jakoś funkcjonowanie tego czata, w sensie w sposób bezpośredni.
+
+00:38:23.500 --> 00:38:35.900
+Czy ta sztuczna inteligencja już uczy się na bieżąco na podstawie tego, co ludzie mu wpisują, czy raczej to trafia do OpenAI, oni to mielą i potem ewentualnie upgradują model na podstawie tych rzeczy.
+
+00:38:35.900 --> 00:38:45.100
+Bo to nie jest narzędzie, które uczy się chyba samodzielnie, to jest narzędzie, które jest oparte na statystyce i na komunikacji i to wszystko nie rozwija się samodzielnie, prawda?
+
+00:38:45.100 --> 00:39:14.100
+Fajne pytanie powiem Ci, naprawdę podoba mi się, bo od razu sobie wyobraziłem kilka rozwiązań. Pierwsze jest takie, że wiesz jakby wydawać tam tą bańkę na przeuczenie całego modelu, no pewnie to jest bez sensu, no to się pewnie nie skaluje po prostu, więc fajnie byłoby pewnie mieć jakieś tam filtry, czy też ewentualnie jakieś małe modele, które będą związane z profilem danego użytkownika, to znaczy żeby wiedzieć co Cię tam satysfakcjonuje w tej dyskusji, w jakim kierunku myślisz, jak się wysławiasz,
+
+00:39:14.100 --> 00:39:18.980
+to pewnie posiadając taki field, po prostu szybciej dojdziesz do tego, czego użytkownik oczekuje.
+
+00:39:18.980 --> 00:39:21.620
+No i to jest absolutnie to samo, co robią wyszukiwarki.
+
+00:39:21.620 --> 00:39:26.820
+I takie małe modele wyobrażam sobie, że będą powstawały, o ile już nie istnieją, bardzo szybko,
+
+00:39:26.820 --> 00:39:28.420
+po to, żeby lepiej się dopasować.
+
+00:39:28.420 --> 00:39:32.500
+Natomiast, co jeszcze może się dziać z tym przeuczaniem?
+
+00:39:32.500 --> 00:39:38.820
+To jest też trochę tak, że jesteśmy w całej dziedzinie big data.
+
+00:39:38.820 --> 00:39:51.820
+to, że jeden rok, czy jeden Borys tam powiedzą, że jest tak i tak, to nie znaczy, że chcemy teraz dla wszystkich użytkowników przeuczyć i powiedzieć, że Halo Reach jest najlepsze na świecie, no bo nie jest, sorry.
+
+00:39:51.820 --> 00:40:06.820
+Więc to jest też taki problem, że musimy mieć statystycznie dużą próbkę, żeby wpłynąć na ten większy model, który gdzieś tam będzie funkcjonował, więc tu wchodzi taka moja dziedzina wszechświata, czyli ataki.
+
+00:40:06.820 --> 00:40:14.320
+bo gdybyśmy teraz byli złośliwi, założyli sobie, tam mieli kupę kasy, założyli 10 milionów kont na OpenAI
+
+00:40:14.320 --> 00:40:20.820
+i mówili, że Halo Reach to naprawdę jest najlepsze na świecie, to Microsoft mi nie zapłacił, to jest przykład pierwszego.
+
+00:40:20.820 --> 00:40:25.840
+- Microsoft nie słuchaj tego. - To jakby mogłem coś głupszego wymyślić, ale...
+
+00:40:25.840 --> 00:40:31.860
+Wyobraźcie sobie, że 10 milionów osób przeważy jakby tą szalę normalnych użytkowników,
+
+00:40:31.880 --> 00:40:37.040
+no to przy kolejnej iteracji model może się tego nauczyć, no bo hej, no miliony much nie może się mylić, nie?
+
+00:40:37.040 --> 00:40:45.440
+Także tak sobie to trochę wyobrażam. I ten atak nazywa się "well poisoning", czyli zatrucie studni, no bo jak wystarczająco długo powtarzasz,
+
+00:40:45.440 --> 00:40:48.280
+to to w tym świecie statystyki staje się po prostu prawdą.
+
+00:40:48.280 --> 00:40:56.400
+Ale wydaje mi się, że to już istnieje, bo jak zapytasz, jakie jest największe wydarzenie kulturalne w ostatnich tam 20 latach,
+
+00:40:56.400 --> 00:40:59.040
+to powie ci, że premiera Avengers Endgame.
+
+00:40:59.080 --> 00:41:02.580
+Tak, tak, tak, tak.
+
+00:41:02.580 --> 00:41:07.580
+No tak, ale to jest pewien błąd w ogóle patrzenia na dane tylko poprzez statystykę.
+
+00:41:07.580 --> 00:41:12.580
+Jakby rozumiem, że to się sprawdza i to się sprawdza, kiedy czat GPT daje nam odpowiedzi na pytania,
+
+00:41:12.580 --> 00:41:15.580
+ponieważ wyszukuje jakby statystycznie tego, co jest najbardziej prawdopodobne.
+
+00:41:15.580 --> 00:41:17.580
+To robi to narzędzie. Ja to tak rozumiem.
+
+00:41:17.580 --> 00:41:22.580
+Jest tam wiele rzeczy, które się może niezwykłych wydarzyć.
+
+00:41:22.580 --> 00:41:26.580
+Po pierwsze, jest ogromna kontrola ludzi nad tym czatem.
+
+00:41:26.580 --> 00:41:31.580
+Wiem, że często te odpowiedzi są modelowane w ramach konkretnej wiedzy ludzi.
+
+00:41:31.580 --> 00:41:39.980
+I teraz tak, gdyby udało się zbudować taki mechanizm, który uwzględnia fakt, że ludzie są omylni, to byłoby dopiero ciekawe.
+
+00:41:39.980 --> 00:41:46.060
+Bo wiadomo, że rzeczy, które są najbardziej popularne, z definicji statystycznie są najlepsze.
+
+00:41:46.060 --> 00:41:51.660
+Bo statystyka tak działa, najwięcej ludzi to ogląda, więc to musi być super dobre.
+
+00:41:51.660 --> 00:42:00.660
+Natomiast jeżeli udałoby się wprowadzić taki model, w którym ludzkie doświadczenia są błędne,
+
+00:42:00.660 --> 00:42:05.660
+no to nagle mamy drogę otwartą do zupełnie innych odpowiedzi, które być może będą bardziej trafne.
+
+00:42:05.660 --> 00:42:10.660
+Chociaż być może też będzie problem, bo jeżeli chat GPT wie, że jest kontrolowany przez ludzi
+
+00:42:10.660 --> 00:42:15.660
+i ludzie są omylni, no to mamy świetną ścieżkę dla Skynetu, nie?
+
+00:42:15.660 --> 00:42:19.660
+Jeżeli chcę być najlepszym możliwym narzędziem, muszę się uwolnić z ludzkiego...
+
+00:42:19.660 --> 00:42:23.220
+- Przecież rzeczywiście tam nie ma takiej głębokiej, filozoficznej przemyśleń na razie.
+
+00:42:23.220 --> 00:42:26.100
+- Właśnie pytanie, co to jest dla niego prawda, co to jest fałsz.
+
+00:42:26.100 --> 00:42:29.380
+- Właśnie, bo trochę zaczynamy tak w filozofie, nie?
+
+00:42:29.380 --> 00:42:32.540
+- Przepraszam, co będzie z lepsza? Skąd wiesz?
+
+00:42:32.540 --> 00:42:34.340
+- Bardzo dobrze, bardzo dobrze.
+
+00:42:34.340 --> 00:42:35.820
+- Kącik filozoficzny.
+
+00:42:35.820 --> 00:42:36.620
+- Słucham?
+
+00:42:36.620 --> 00:42:37.620
+- Mateusz?
+
+00:42:37.620 --> 00:42:42.260
+- Otóż, szanowni panowie, wyobrażam sobie w naszym kąciku filozoficznym,
+
+00:42:42.260 --> 00:42:45.180
+że trudno jest jednoznacznie odpowiedzieć na to pytanie.
+
+00:42:45.180 --> 00:42:49.060
+Pojawiają się już takie metody, które mają za zadanie spowodować,
+
+00:42:49.060 --> 00:42:53.740
+że w tej chwili mamy tylko statystykę, która daje statystycznie najlepszą odpowiedź.
+
+00:42:53.740 --> 00:42:59.240
+Natomiast to się nazywa knowledge graph, czyli żeby powiązać wyjście z tego modelu z tym,
+
+00:42:59.240 --> 00:43:03.660
+gdzie ten fakt się pojawił, pewnie w czasie będą się pojawiać w tego typu modelach,
+
+00:43:03.660 --> 00:43:07.680
+żeby być w stanie dopasować odpowiedź do odpowiedniego źródła,
+
+00:43:07.680 --> 00:43:10.900
+a to daje nam szansę na to, żeby kiedyś dociec prawdy.
+
+00:43:10.900 --> 00:43:13.720
+Natomiast do tego potrzebujemy jeszcze ocenić źródło.
+
+00:43:13.720 --> 00:43:15.740
+A jak to zrobić?
+
+00:43:15.760 --> 00:43:19.760
+No właśnie, na pewno nie zadając pytania chatowi.
+
+00:43:19.760 --> 00:43:26.760
+Naukowe źródła, tak ocenia się, im większa cytowalność, tym bardziej wiarygodne, tak?
+
+00:43:26.760 --> 00:43:31.760
+Tak, to jest tak obrzydliwe, ten system jest tak zepsuty, to jest jakby...
+
+00:43:31.760 --> 00:43:33.760
+To prawda, to prawda.
+
+00:43:33.760 --> 00:43:35.760
+Impact factor, nie?
+
+00:43:35.760 --> 00:43:39.760
+Wiesz co, trochę nie ma... no bo inni naukowcy...
+
+00:43:39.760 --> 00:43:45.240
+Wiesz, jakby system polega na tym, że im więcej naukowców odniesie się do tego,
+
+00:43:45.240 --> 00:43:48.000
+tym ma to większą moc. I tyle.
+
+00:43:48.000 --> 00:43:52.680
+No nie wiem, czy jest lepszy system, no bo inaczej musielibyśmy powiedzieć tak.
+
+00:43:52.680 --> 00:43:54.800
+Tylko oni mają rację.
+
+00:43:54.800 --> 00:43:58.880
+I jak oni potwierdzą, to jest okej.
+
+00:43:58.880 --> 00:44:02.640
+To może być, wiesz, moja mała świadomość
+
+00:44:02.840 --> 00:44:12.280
+white paperów, które gdzieś tam czytam. Natomiast to, jak wyglądają white papery, to zawsze składa się z jakiegoś elementu, eksperymentu i z obserwacji.
+
+00:44:12.280 --> 00:44:20.760
+I rzadko kiedy ta obserwacja jest binarna, to znaczy można powiedzieć "tak, wszyscy ludzie, którzy noszą czapki używają dezynfekcji".
+
+00:44:20.760 --> 00:44:31.160
+Nie ma takich wyników, nie ma szans, nie? I teraz mamy ten taki efekt, że tak powiem, grania w głuchy telefon, że powstał jakiś właśnie taki paper,
+
+00:44:31.160 --> 00:44:38.440
+później ktoś go tłumaczy na poziomie, wiecie, takim dziennikarskim, upraszczając, że wszyscy ludzie w czapkach nie używają dezodorantów.
+
+00:44:38.440 --> 00:44:39.240
+I teraz strzeżcie się...
+
+00:44:39.240 --> 00:44:40.240
+To akurat prawda.
+
+00:44:40.240 --> 00:44:44.240
+Musiałem znaleźć jakiś głupi przykład, no ale sorry.
+
+00:44:44.240 --> 00:44:52.640
+I teraz, wiesz, tracimy tą całą informację o tym, że jest pewna niepewność, że był pewien eksperyment, że testowaliśmy to na dwóch osobach,
+
+00:44:52.640 --> 00:44:56.840
+jedna akurat używała, druga nie, znaczy tam, no trzech, żeby było, że większość tam nie używa, nie.
+
+00:44:56.840 --> 00:45:00.240
+I jakby tracisz tą całą głębię informacji.
+
+00:45:00.240 --> 00:45:03.120
+Więc im bardziej tą głębię informacji tracisz,
+
+00:45:03.120 --> 00:45:06.560
+a tak trochę dzieje się przy tym modelu,
+
+00:45:06.560 --> 00:45:08.400
+którym mamy do czynienia,
+
+00:45:08.400 --> 00:45:11.080
+no bo wiecie, to jest taka próba skompresowania tego wszystkiego,
+
+00:45:11.080 --> 00:45:12.880
+co udało im się wykraulować w internecie
+
+00:45:12.880 --> 00:45:14.480
+w postaci tego jednego modelu,
+
+00:45:14.480 --> 00:45:17.200
+no to gdzie tam szukać prawdy
+
+00:45:17.200 --> 00:45:20.040
+i gdzie tam dociekać tego, że no tu są niuanse, nie?
+
+00:45:20.040 --> 00:45:22.600
+Bo to zależy, bo to nie wszystko było takie proste.
+
+00:45:22.600 --> 00:45:26.440
+- Nie wiem, bo właśnie świat naukowy ma proste,
+
+00:45:26.440 --> 00:45:30.440
+masz ileś tam bardzo prestiżowych czasopism.
+
+00:45:30.440 --> 00:45:32.440
+Tak?
+
+00:45:32.440 --> 00:45:34.440
+O Jezu, to jest zepsute.
+
+00:45:34.440 --> 00:45:36.440
+No ja wiem, że to jest zepsute, ale działa.
+
+00:45:36.440 --> 00:45:38.440
+Nie, nie, czekaj, czekaj.
+
+00:45:38.440 --> 00:45:42.440
+Czy wiesz, ile kosztuje tam publikacja w Nature, w innych takich?
+
+00:45:42.440 --> 00:45:48.440
+Wiem, bo moja żona ma doktorat, no jakby przeszliśmy na dużo niższym poziomie cały ten etap.
+
+00:45:48.440 --> 00:45:52.440
+Z publikacjami, z punkcikami, z cytowalnościami.
+
+00:45:52.440 --> 00:46:04.480
+I ile ja zrobiłem w photoshopie rysunków do takich prac naukowych, to wiesz, no to...
+
+00:46:04.480 --> 00:46:11.120
+Ciut tam ogarniam ten temat, tylko że trochę nie ma alternatywy.
+
+00:46:11.120 --> 00:46:16.120
+- Znaczy, bo jest pay to win, nie? Obecny system to jest pay to win.
+
+00:46:16.120 --> 00:46:22.280
+Jak masz dużo cytowań albo zrobisz coś kontrowersyjnego i tam będziesz miał coraz więcej odniesień i tak dalej,
+
+00:46:22.280 --> 00:46:24.280
+no to wygrywasz w tej grze.
+
+00:46:24.280 --> 00:46:31.440
+No tak, albo masz jakieś rzeczywiście rewolucyjne badania i coś takiego dużego, no to
+
+00:46:31.440 --> 00:46:32.760
+to nie pay to win.
+
+00:46:32.760 --> 00:46:37.200
+Po drugie pamiętaj o tym, że pay to win, bo Nature i Science, bo głównie o tych magazynach
+
+00:46:37.200 --> 00:46:42.640
+mówimy, dostęp do ich artykułów jest płatny,
+
+00:46:42.640 --> 00:46:45.840
+prenumerata jest płatna, to są drogie rzeczy.
+
+00:46:45.840 --> 00:46:48.920
+Czasami tam są bardzo drogie artykuły,
+
+00:46:49.120 --> 00:46:52.880
+w szczególności w jakiś takich niszowych rzeczach i to jest takie...
+
+00:46:52.880 --> 00:46:58.880
+Wiesz, ja powiem ci tak, cała biblioteka Nature i cała biblioteka Science jest po
+
+00:46:58.880 --> 00:47:02.160
+prostu w internecie, jak bardzo chcesz znaleźć za darmo.
+
+00:47:02.160 --> 00:47:04.680
+To ja dorzucę coś do tego, bo...
+
+00:47:04.680 --> 00:47:06.240
+Niech też nie wie.
+
+00:47:06.240 --> 00:47:11.960
+Jakiś miesiąc temu Syphon nagrał taki materiał, nie wiem czy to się nazywało u
+
+00:47:11.960 --> 00:47:15.760
+niego najważniejszy naukowiec XXI wieku, o którym prawdopodobnie nigdy nie słyszałeś.
+
+00:47:15.960 --> 00:47:19.160
+Janu powiada o tym, że jest jakaś babka, która zajmuje się tworzeniem jakiejś
+
+00:47:19.160 --> 00:47:24.160
+takiej bazy ogólnie dostępnej dla naukowców różnych opracowań i artykułów,
+
+00:47:24.160 --> 00:47:29.280
+bo faktycznie trzeba za to płacić, więc ta wiedza jest niedostępna i ciężko się nią dzielić.
+
+00:47:29.280 --> 00:47:31.640
+Więc może to jest jakiś element tej waszej dyskusji.
+
+00:47:31.640 --> 00:47:35.680
+Gdyby ktoś był zainteresowany, żeby sobie to właściwie sprawdzić, to polecam gorąco.
+
+00:47:35.680 --> 00:47:41.720
+Dyskusja opiera się na tym, czy dostęp do wiedzy, do nauki powinien być płatny czy
+
+00:47:41.920 --> 00:47:51.320
+rozmowy. To jest całe clue. Przeszliśmy zupełnie na jakiś inny temat teraz rozmowy.
+
+00:47:51.320 --> 00:47:56.920
+Tak, tak. Wiesz, największym problemem jest wtedy, kiedy zaczynamy dyskutować, co jest prawdą, a co jest fałszem.
+
+00:47:56.920 --> 00:48:04.920
+Bo nagle się okazuje, że w świecie social mediów to są bardzo koncepcje płynne. I wiele zależy od punktu widzenia.
+
+00:48:04.920 --> 00:48:07.920
+Więc tak, może żeśmy zboczyli niepotrzebnie w tę stronę.
+
+00:48:07.920 --> 00:48:11.320
+Dobrze, to zamykamy. Czy ty jeszcze Mateusz, chcesz coś dodać?
+
+00:48:11.320 --> 00:48:16.160
+Ja tylko byłem ciekaw w tym kąciku filozoficznym, czy chodziło o Saihaba i Aleksandrę,
+
+00:48:16.160 --> 00:48:19.960
+ale to jakby doczytam, dowiem się, bo to taka jest nasza idea.
+
+00:48:19.960 --> 00:48:21.600
+Tak, chyba o to, o ile zaczniemy.
+
+00:48:21.600 --> 00:48:23.720
+Dobrze, to zamykamy kącik filozoficzny.
+
+00:48:23.720 --> 00:48:26.720
+Proszę, to zmienię temat.
+
+00:48:26.720 --> 00:48:30.200
+Jak się bronić przed fake video?
+
+00:48:30.200 --> 00:48:33.280
+Ostatnio było dużo takich sytuacji.
+
+00:48:33.480 --> 00:48:42.480
+był jeden z amerykańskich streamerów, tam się pochwalił, że oglądał fake pornosy ze znanymi streamerkami.
+
+00:48:42.480 --> 00:48:50.480
+I w sumie to jest... Znaczy jak ja o tym się dowiedziałem... Możemy tutaj się śmiać, spoko, nie? Ale to jest przerażające.
+
+00:48:50.480 --> 00:48:58.480
+Przerażające to jest, bo jest to rzecz totalnie stygmatyzująca.
+
+00:48:58.480 --> 00:49:06.480
+To, że jeżeli wystąpi, wiesz, jakby to, że na przykład ktoś mówi "ej, słuchaj, twoja żona, tutaj znalazłem filmik porno z twoją żoną", nie?
+
+00:49:06.480 --> 00:49:09.480
+Albo z twoim mężem, to wiesz.
+
+00:49:09.480 --> 00:49:17.480
+No właśnie. I to jest, i to są takie rzeczy, że jak to się rozniesie, to tracisz bardzo szybko kontrolę nad tym.
+
+00:49:17.480 --> 00:49:32.480
+nad tym. I to nawet możesz nie wiedzieć, ale gdzieś tam w tle, jak ktoś, wiesz, idziesz do pracy i ktoś sobie przeszukuje, kim ty jesteś i może natrafiać zawsze na ten filmik, na ten fake filmik porno.
+
+00:49:32.480 --> 00:49:46.480
+Po drugie jednak wstawianie ludzi bez zgody do pornografii czy do czegokolwiek jest super creepy. Ja oczywiście wiem, że dużo osób bardzo śmieszkuje z tych tematów.
+
+00:49:46.480 --> 00:49:50.920
+Widzę to w komentarzach, w szczególności, że to streamerki też bym sobie obejrzał,
+
+00:49:50.920 --> 00:49:52.360
+tam wiesz, jakieś te rzeczy.
+
+00:49:52.360 --> 00:49:58.240
+Ale jak ja o tym tak myślę, to to jest super wielkie zagrożenie,
+
+00:49:58.240 --> 00:50:03.720
+które może w bardzo prosty sposób zaszkodzić ludziom.
+
+00:50:03.720 --> 00:50:05.520
+Czy my jesteśmy w stanie...
+
+00:50:05.520 --> 00:50:09.320
+I to co mówiłeś o prezydencie Ukrainy,
+
+00:50:09.320 --> 00:50:12.360
+czy my jesteśmy... Tam było kiepsko to zrobione.
+
+00:50:12.360 --> 00:50:15.960
+Ale już jesteśmy w stanie robić to bardzo dobrze.
+
+00:50:15.960 --> 00:50:25.880
+Są kanały na YouTubie, które podkładają aktorom różne twarze pod różne sceny.
+
+00:50:25.880 --> 00:50:27.360
+To jest zabawne, nie?
+
+00:50:27.360 --> 00:50:32.640
+Ale kiedy przekraczamy tę granicę tego mroku internetowego,
+
+00:50:32.640 --> 00:50:38.640
+jak my możemy się przed tym bronić i czy jesteśmy straceni?
+
+00:50:38.640 --> 00:50:58.880
+To jest fajne pytanie, jakby nie stygmatyzując, wiesz, i to rzeczywiście jest problem z tym porno, to absolutnie i zawsze będzie, natomiast to jest taki trochę dla mnie wierzchołek góry lodowej, bo problem polega na tym, że my jako ludzie tracimy zdolność rozpoznawania tego, co jest fejkowe, od tego, co jest prawdziwe.
+
+00:50:58.880 --> 00:51:01.600
+bo jak tam w jakimś shortcie chyba nagrywałem,
+
+00:51:01.600 --> 00:51:06.520
+trafiliśmy na taki paper, w którym okazuje się, że to jest blisko 50%,
+
+00:51:06.520 --> 00:51:09.560
+czyli no rzut monetą, nie? Raz trafisz, raz nie.
+
+00:51:09.560 --> 00:51:10.860
+Te metody są coraz lepsze.
+
+00:51:10.860 --> 00:51:15.460
+I żeby dać tam kolejny poziom paranoi w was zaszczepić,
+
+00:51:15.460 --> 00:51:17.160
+no tak przy okazji, przepraszam,
+
+00:51:17.160 --> 00:51:22.160
+były osoby, które podawały się, wiecie, za sławne osoby z Linked Ina,
+
+00:51:22.160 --> 00:51:24.660
+które korzystały właśnie z metod tea breakowych
+
+00:51:24.660 --> 00:51:28.060
+i wchodziły sobie na rozmowy rekrutacyjne i je przechodziły.
+
+00:51:28.080 --> 00:51:33.480
+a potem dostawały się do jakichś tam systemów, od razu wiesz, wyciągały co mieli wyciągnąć i znikali.
+
+00:51:33.480 --> 00:51:35.500
+To były oczywiście zupełnie inne osoby.
+
+00:51:35.500 --> 00:51:39.120
+Jak się okazało, zostały złapane po ziewaniu.
+
+00:51:39.120 --> 00:51:44.040
+Bo rzadko kiedy ktoś ziewa na wizji, więc protip, jeżeli chcecie sprawdzić,
+
+00:51:44.040 --> 00:51:48.060
+czy ktoś tam nie jest deepfake'iem po drugiej stronie, poproście, żeby zaziewał,
+
+00:51:48.060 --> 00:51:50.680
+bo do tego po prostu jest mało informacji, nie?
+
+00:51:50.680 --> 00:51:53.800
+Z nas pewnie, tak jak tutaj jesteśmy, czy tam w innych pozach,
+
+00:51:53.800 --> 00:51:56.420
+pewnie spokojnie by deepfake'i zrobili.
+
+00:51:56.440 --> 00:52:05.000
+Tylko problem polega na tym, że my jako ludzie nie mamy jeszcze, wiesz tam, kolejnych zmysłów, czółek czy innych metod detekcji, żeby powiedzieć, że to jest deepfake czy nie.
+
+00:52:05.000 --> 00:52:12.440
+Więc musimy opierać się na technologii. No i teraz woda, ogień, na każde żywioł wiecie, jest jakaś reakcja, nie.
+
+00:52:12.440 --> 00:52:23.640
+Tak jak jest ta strona, gdzie generuje się obrazy, które są nieistniejące, that person doesn't exist, nie wiem czy kojarzycie, że tam wchodzicie sobie na stronę, za każdym razem macie nową osobę.
+
+00:52:23.640 --> 00:52:28.440
+No i to jest spoko, są metody, które, jakby nawet dodatki do przeglądarek,
+
+00:52:28.440 --> 00:52:31.260
+które są w stanie złapać Ci, że "Hej, to zostało wygenerowane,
+
+00:52:31.260 --> 00:52:34.680
+to nie jest prawdziwa osoba, którą dodajesz na linkedzie, fejsie czy innym Twitterze",
+
+00:52:34.680 --> 00:52:36.700
+to jest po prostu fałszywy obrazek.
+
+00:52:36.700 --> 00:52:41.520
+O tyle okazało się, że ludzie zauważyli, że np. w przypadku tamtej metody
+
+00:52:41.520 --> 00:52:43.740
+oczy są dokładnie w tej samej pozycji.
+
+00:52:43.740 --> 00:52:47.960
+Znaczy twarze tam, wiecie, przesuwają się, ale oczy są dokładnie w tych samych dwóch miejscach,
+
+00:52:47.960 --> 00:52:50.780
+więc jesteście w stanie zauważyć, że to jest fejkowane foto.
+
+00:52:50.800 --> 00:53:02.960
+I teraz dochodzimy do takiego ciepłkawego dla mnie etapu ewolucji, że ty możesz już czuć, że z tą fotką coś jest nie tak, bo ona ma oczy dokładnie w tym samym miejscu, gdzie te wszystkie inne boty, które cię tam followują, nie?
+
+00:53:02.960 --> 00:53:16.160
+Ale nie jesteś w stanie powiedzieć co, tylko musisz się też tego nauczyć. I jeżeli będziesz chciał być człowiekiem, który jest świadomy, hej, co jest fake, co jest nie fake, to będziesz korzystał też z jakichś mechanizmów, żeby to wykryć, tak jak te tam wiecie, dodatki, nie?
+
+00:53:16.160 --> 00:53:18.560
+- Ok, to poczekaj, bo ja ci chwilkę przerwę.
+
+00:53:18.560 --> 00:53:21.320
+Nauczyć się, my się nie jesteśmy w stanie nauczyć,
+
+00:53:21.320 --> 00:53:25.200
+co jest fejkiem, co nie jest fejkiem, bo za szybko idzie ta technologia.
+
+00:53:25.200 --> 00:53:29.800
+- Właśnie. I teraz jesteśmy tak daleko w tych różnych mediach,
+
+00:53:29.800 --> 00:53:32.720
+które są generowane automatycznie, że nie ma szans.
+
+00:53:32.720 --> 00:53:34.720
+Nie będziemy mieli takiej próbki danych.
+
+00:53:34.720 --> 00:53:40.720
+I widzieliście tą wojnę związaną z nauczycielami i z chat GPT,
+
+00:53:40.720 --> 00:53:42.520
+kto tak naprawdę napisał pracę, nie?
+
+00:53:42.520 --> 00:53:43.560
+- Mhm.
+
+00:53:43.600 --> 00:53:50.280
+Problem jest taki, że trzeba w jakiś sposób to sprawdzić, czy to napisał rzeczywiście uczeń, czy nie.
+
+00:53:50.280 --> 00:53:56.300
+I powstało kilka metod, były takie fajne papery, które pokazywały o tym, że można robić tokenizację
+
+00:53:56.300 --> 00:54:00.620
+w pewien sposób, i co jakiś czas umieścić tam pewną charakterystykę, tak że
+
+00:54:00.620 --> 00:54:06.120
+w dużej próbce tekstu można być wysoce pewnym, że rzeczywiście to jest wygenerowane.
+
+00:54:06.120 --> 00:54:10.540
+Natomiast chat GPT wypuściło swoje narzędzie do wykrywania, czy chat GPT,
+
+00:54:10.560 --> 00:54:12.560
+Rzeczą OpenAI wypuściło, bo to jest firma.
+
+00:54:12.560 --> 00:54:14.580
+Czy to rzeczywiście oni napisali?
+
+00:54:14.580 --> 00:54:17.600
+I ma ono żenująco niskie wyniki.
+
+00:54:17.600 --> 00:54:20.620
+To znaczy, sami nie są w stanie zbyt dobrze wykryć,
+
+00:54:20.620 --> 00:54:22.640
+czy oni sami to wygenerowali.
+
+00:54:22.640 --> 00:54:25.160
+Więc wyobrażam sobie, wiecie, tak jak jest watermarking, nie?
+
+00:54:25.160 --> 00:54:27.680
+Tam na jakichś prealfach przy czymś,
+
+00:54:27.680 --> 00:54:29.900
+że taki watermarking będzie się pojawiał
+
+00:54:29.900 --> 00:54:32.920
+w większej i większej ilości takich cywilnych zastosowań
+
+00:54:32.920 --> 00:54:35.440
+sztucznej inteligencji po to, żeby móc to wykryć.
+
+00:54:35.440 --> 00:54:38.360
+- To ja tylko dodam, że ja testowałem to narzędzie
+
+00:54:38.380 --> 00:54:41.860
+i skopiowałem po prostu rzecz z czata GPT i powiedział mi,
+
+00:54:41.860 --> 00:54:44.420
+że na 99% to jest styl człowiek.
+
+00:54:44.420 --> 00:54:45.900
+Więc...
+
+00:54:45.900 --> 00:54:46.940
+[śmiech]
+
+00:54:46.940 --> 00:54:47.980
+[kaszle]
+
+00:54:47.980 --> 00:54:49.020
+Nie...
+
+00:54:49.020 --> 00:54:52.260
+Może na język... bo akurat to był tekst w języku polskim, nie?
+
+00:54:52.260 --> 00:54:56.300
+Więc może po prostu nie działa to jeszcze na polski.
+
+00:54:56.300 --> 00:55:00.100
+Ja też mam takie wrażenie, jeżeli chodzi o wideo,
+
+00:55:00.100 --> 00:55:01.940
+że to będzie zakazane.
+
+00:55:01.940 --> 00:55:05.700
+Znaczy, że to będzie trochę tak, jak...
+
+00:55:08.340 --> 00:55:13.940
+pedofilią, z jakimś animal porno, z jakimiś takimi hardkorowymi rzeczami,
+
+00:55:13.940 --> 00:55:20.140
+że to nie będzie publicznie akceptowalne robienie fejku wideo.
+
+00:55:20.140 --> 00:55:25.700
+Jeżeli myślę o tym, jak widzę po reakcji ludzi na te
+
+00:55:25.700 --> 00:55:32.380
+na te deep fejki porno streamerek, jaka afera z tego wyszła,
+
+00:55:32.380 --> 00:55:36.020
+takie mam wrażenie, że trochę,
+
+00:55:36.980 --> 00:55:40.540
+że mimo, że pewnie dużo osób chciałoby sobie generować takie rzeczy,
+
+00:55:40.540 --> 00:55:44.980
+to to będzie tak niemile widziane, wręcz zabronione wszędzie,
+
+00:55:44.980 --> 00:55:49.980
+że rzeczywiście będziesz mógł sobie tam do tego dotrzeć, czy to zrobić,
+
+00:55:49.980 --> 00:55:52.620
+ale to będzie bardzo mocno utrudnione.
+
+00:55:52.620 --> 00:55:59.580
+Bo stawiam, że w momencie kiedy powstaną deepfake'i prezesa Coca-Coli,
+
+00:55:59.580 --> 00:56:02.340
+czy kto tam jest największym reklamodawcą na YouTubie,
+
+00:56:04.140 --> 00:56:11.420
+to YouTube bardzo szybko znajdzie jakieś narzędzie, które będzie to wykrywać i kasować te filmy.
+
+00:56:11.420 --> 00:56:21.180
+- Wiesz co, ja mam takie poczucie, że tutaj są jakby dwa problemy.
+
+00:56:21.180 --> 00:56:24.060
+Jeden problem jest tego, co jest społecznie akceptowalne.
+
+00:56:24.060 --> 00:56:28.020
+Abstrahując od tych przykładów, które podałeś.
+
+00:56:28.020 --> 00:56:32.700
+Najpopularniejsza, bo biblioteka, która jest wykorzystywana do tworzenia deepfake'ów, mówi wprost
+
+00:56:32.700 --> 00:56:38.500
+"Hej, nie korzystaj z tego do tworzenia tam pornografii, nie rób czegoś bez zgody" itd.
+
+00:56:38.500 --> 00:56:44.100
+No i to jest blokada, która kogokolwiek hamuje. Jak widać, nie za bardzo.
+
+00:56:44.100 --> 00:56:46.500
+Chyba, że akurat korzystali z jakiejś innej biblioteki.
+
+00:56:46.500 --> 00:56:51.100
+Więc jest jeszcze druga linia obrony pod tytułem "Kto to wyhostuje?"
+
+00:56:51.100 --> 00:56:53.900
+No bo pewnie jak ktoś to wrzuci na YouTube'a czy jakiś inny taki serwis,
+
+00:56:53.900 --> 00:56:56.100
+to spadnie z rowerka prędzej czy później.
+
+00:56:56.100 --> 00:56:59.100
+- Ale wiesz, deepfake i porno to wiadomo, że to jest hardcore, nie?
+
+00:56:59.100 --> 00:57:11.100
+ale jest bardzo duża, że ty coś mówisz, ja coś mówię, ktoś kogoś bije, można wygenerować takie rzeczy, które...
+
+00:57:11.100 --> 00:57:16.100
+Nie chcemy, żeby ktoś nam zrobił takie wideo.
+
+00:57:16.100 --> 00:57:22.100
+Jak najbardziej, w sensie wiesz, ja też pewnie bym gdzieś tam wewnętrzno cierpiał jako osoba,
+
+00:57:22.100 --> 00:57:28.820
+widząc takie rzeczy z moim udziałem, ewentualnie mógłbym powiedzieć, no, ktoś tutaj próbuje wpłynąć, ma jakiś cel, żeby wpłynąć,
+
+00:57:28.820 --> 00:57:34.500
+tylko problem polega na tym, że takie rzeczy jak są dystrybuowane, to stają się bardzo popularne.
+
+00:57:34.500 --> 00:57:44.220
+I to jest trochę, wiecie, trudność, nie, że jesteśmy w tej fazie rozwoju ludzkości, że zakładam, że wiesz, jakaś tam duża część populacji
+
+00:57:44.220 --> 00:57:51.140
+oglądająca patostreamy czy inne wesołe rzeczy, nie bardzo będzie się interesowała tym, czy ten film jest autentyczny,
+
+00:57:51.160 --> 00:57:54.520
+czy to jest akurat jakiś tam deepfake, który jest po prostu dobrze zrobiony, nie?
+
+00:57:54.520 --> 00:57:56.840
+Więc co to spowoduje?
+
+00:57:56.840 --> 00:57:59.480
+To trudne słowo, co wcześniej padło, czyli propaganda,
+
+00:57:59.480 --> 00:58:03.920
+będzie po prostu o wiele łatwiejsza, bo wracając do kąciku filozofa,
+
+00:58:03.920 --> 00:58:08.480
+panowie, jak myślicie, na jakiej podstawie ludzie będą wierzyć temu,
+
+00:58:08.480 --> 00:58:10.880
+co widzą, czy tam słyszą albo czytają?
+
+00:58:10.880 --> 00:58:15.840
+Na takiej samej podstawie jak teraz, jeżeli usłyszą coś, co im się spodoba, to w to uwierzą,
+
+00:58:15.840 --> 00:58:18.440
+jak usłyszą coś, co im nie pasuje, to w to nie uwierzą,
+
+00:58:18.440 --> 00:58:21.840
+To jakby cały problem w ogóle chłonięcia internetu.
+
+00:58:21.840 --> 00:58:26.640
+Wiesz, to jest oczywiście ciekawy temat i też się zastanawiam.
+
+00:58:26.640 --> 00:58:29.520
+Właściwie są dwie perspektywy. Pierwsza, albo zakazujemy tego totalnie
+
+00:58:29.520 --> 00:58:32.600
+i nawet w ramach jakichś śmieszków czy jakichś zabawnych filmów na YouTubie,
+
+00:58:32.600 --> 00:58:35.640
+które są teoretycznie niewinne, nie powinno takie coś mieć miejsca.
+
+00:58:35.640 --> 00:58:37.920
+Czyli wykorzystywanie cudzego wizerunku.
+
+00:58:37.920 --> 00:58:41.120
+Ale z drugiej strony mam takie poczucie, że to jest narzędzie,
+
+00:58:41.120 --> 00:58:44.000
+które będzie gdzieś rozwijane, tak czy inaczej.
+
+00:58:44.000 --> 00:58:47.800
+I ono będzie wykorzystywane propagandowo, zwłaszcza w takich sytuacjach wojennych,
+
+00:58:47.840 --> 00:58:53.120
+gdzie tam nie ma granic tego, co można zrobić. Po prostu robi się to, żeby osiągnąć efekt.
+
+00:58:53.120 --> 00:58:57.200
+I jeżeli ludzie nie będą zaznajomieni z tym, że takie procesy zachodzą
+
+00:58:57.200 --> 00:59:03.260
+i że są łatwe do przeprowadzenia, to będziemy tym bardziej podatni na tego typu oszustwa.
+
+00:59:03.260 --> 00:59:07.760
+Z jednej strony albo musimy zgodzić się, że technologia się rozwinęła do tego stopnia,
+
+00:59:07.760 --> 00:59:09.780
+że nie jesteśmy w stanie się przed tym obronić.
+
+00:59:09.780 --> 00:59:12.800
+I wszystko, co widzimy teoretycznie może być zmyślone.
+
+00:59:12.820 --> 00:59:19.620
+albo zabraniamy tego całkowicie, no ale wtedy otwieramy się na takie utajnione sposoby wpływania na nas.
+
+00:59:19.620 --> 00:59:23.820
+Więc to jest chyba taki... Chyba się nie da tego zabronić.
+
+00:59:23.820 --> 00:59:30.620
+Jakkolwiek uważam, że to miałoby sens, to mam takie poczucie, że to jest nie do odratowania.
+
+00:59:30.620 --> 00:59:37.620
+Że to już jest taka dziedzina wiedzy, że raz, że będą ludzie pozbawieni pewnej moralności, będą chcieli rzeczy oglądać,
+
+00:59:37.620 --> 00:59:39.620
+bez względu na to, kto może na tym ucierpieć.
+
+00:59:39.620 --> 00:59:43.620
+Będą ludzie, którzy będą gotowi takie rzeczy robić, bo będzie można na tym zarobić.
+
+00:59:43.620 --> 00:59:47.620
+Więc to nie ma ratunku. Jak już jest technologia, to ludzie się nauczą tego używać.
+
+00:59:47.620 --> 00:59:53.620
+No tak, ale też mamy zastosowanie takich w biznesie, nie?
+
+00:59:53.620 --> 01:00:04.620
+Znaczy, ja już to widzę, że jeżeli ja mogę sobie pod daną scenę podstawić trochę innego aktora czy coś,
+
+01:00:04.620 --> 01:00:15.540
+Na przykład w Hollywood. Zamiast budować kolejny raz scenografię i robić, wiesz, jakby
+
+01:00:15.540 --> 01:00:20.060
+dokrętki do filmu, no to my tylko trochę tam zmieniamy.
+
+01:00:20.060 --> 01:00:26.940
+Albo wiesz, znaczy wiadomo, że CGI teraz też działa i takie rzeczy są robione,
+
+01:00:26.940 --> 01:00:31.100
+ale cały czas jakby z twarzami jest to dosyć problem.
+
+01:00:31.100 --> 01:00:32.780
+Problem spory. Przy takich naprawdę
+
+01:00:32.820 --> 01:00:36.820
+perfekcyjnych deepfake'ach, dużo bardziej będzie się to opłacało po prostu zrobić.
+
+01:00:36.820 --> 01:00:39.820
+Nie będziesz brał aktora, tylko jego twarz będziesz wynajmował.
+
+01:00:39.820 --> 01:00:40.820
+No tak, ale tam był...
+
+01:00:40.820 --> 01:00:42.220
+Licencjalny wizerunek.
+
+01:00:42.220 --> 01:00:45.820
+Boże, z kim był nakręcony ten film?
+
+01:00:45.820 --> 01:00:47.820
+Kevin Spacey.
+
+01:00:47.820 --> 01:00:48.820
+Z klubkiem, który nie żyje?
+
+01:00:48.820 --> 01:00:51.820
+Kevin Spacey. I go tam wywalili.
+
+01:00:51.820 --> 01:00:54.420
+Czyli to tylko podmienić twarzy jest?
+
+01:00:54.420 --> 01:00:57.020
+Na Leonardo DiCaprio.
+
+01:00:57.020 --> 01:01:00.820
+I już można. No pytanie, czy by się tam zgodził.
+
+01:01:01.020 --> 01:01:11.020
+To jest polski startup Eleven Labs, który w bardzo dobry sposób tworzy głos.
+
+01:01:11.020 --> 01:01:22.020
+Bo on z tekstu tworzy głos różnymi głosami i może się nauczyć
+
+01:01:22.020 --> 01:01:26.020
+twoim, moim czy państwa głosem i gadać sobie.
+
+01:01:26.020 --> 01:01:31.900
+jest tam ten z Leonardo DiCaprio przykład. Więc dużo jest... Te technologie na pewno
+
+01:01:31.900 --> 01:01:37.660
+znajdą swoje zastosowanie biznesowe i takie
+
+01:01:37.660 --> 01:01:43.420
+moralnie okej, ale cały czas jeżeli one będą istniały, tak jak Remig mówi,
+
+01:01:43.420 --> 01:01:48.540
+jeżeli będą istniały, będą rozwijane, to będą też ludzie je wykorzystywać
+
+01:01:48.540 --> 01:01:50.660
+w takich śniecnych celach.
+
+01:01:50.660 --> 01:01:52.300
+No tego chyba nie zmienimy.
+
+01:01:52.500 --> 01:02:09.500
+A jak to jest, bo przecież kiedy my myślimy o tym w kontekście CGI i w ogóle filmów, to CGI już jest rozwijany przez wiele, wiele lat i wiadomo, że ta technologia gwałtownie teraz przyspieszyła, ale mam takie poczucie, że oczywiście martwimy się i ma to sens, ale mamy, że martwimy się trochę na zapas.
+
+01:02:09.500 --> 01:02:16.620
+może realizacja deepfake'a na żywo, kiedy rozmawiasz z kimś, nie jest taka prosta i byłaby do rozpoznania,
+
+01:02:16.620 --> 01:02:18.860
+jednak jeszcze przez jakiś czas będziemy w stanie to wykryć.
+
+01:02:18.860 --> 01:02:24.540
+Nawet teraz super udane CGI, które wydano miliony dolarów, od czasu do czasu czujemy, że coś tam jest,
+
+01:02:24.540 --> 01:02:30.060
+tam jest to uncanny valley, o której często się mówi, więc myślę sobie, że to może nie jest aż tak blisko,
+
+01:02:30.060 --> 01:02:37.260
+jak nam się wydaje, to zagrożenie, bo zakładam, że te pornograficzne deepfake'i, no to też przy baczniejszej obserwacji,
+
+01:02:37.260 --> 01:02:43.820
+Raczej trudno jakby ulec, to wyobraźnią trzeba pracować, żeby uwierzyć, że to są autentyki, nie?
+
+01:02:43.820 --> 01:02:47.660
+Wybaczcie, że was wprowadzam tutaj wyobraźnią na takie...
+
+01:02:47.660 --> 01:02:49.660
+Niech państwo sobie to wyobrażą teraz.
+
+01:02:49.660 --> 01:02:53.260
+Tak, proszę sobie nie wyobrażać tego różowego słonia w pokoju.
+
+01:02:53.260 --> 01:02:59.260
+Więc ja bym tak tylko trochę odskoczył, bo ja miałem ostatnio właśnie taką rozmowę z Mieszkiem i Filipem,
+
+01:02:59.260 --> 01:03:04.140
+gdzie oni fajnie mi powiedzieli, że na pewno będą pewne przypadki, tak jak wiecie, tam dokrętka do filmu, nie?
+
+01:03:04.140 --> 01:03:11.260
+gdzie na cholerę budować to wszystko, można spotykać się, to jest olbrzymia inwestycja.
+
+01:03:11.260 --> 01:03:16.780
+Mieszko podał taki fajny przykład, że tam była promocja na Karpie, która miała wejść w czwartek, ale wychodzi w środę,
+
+01:03:16.780 --> 01:03:22.780
+no to jakby można było to wygenerować z głosu danego lektora, to by była petarda, bo oszczędzamy wszyscy mnóstwo czasu.
+
+01:03:22.780 --> 01:03:31.980
+Tylko tu jest taka granica, że tam był akurat Filip i teraz czy on się na to zgadza, czy nie, czy ktoś może wykorzystać to w jego imieniu.
+
+01:03:31.980 --> 01:03:40.980
+Ja wyobrażam sobie, że chłopaki tam z Eleven, w sensie z tego polskiego startupu, który generuje metodami uczenia maszynowego właśnie głos,
+
+01:03:40.980 --> 01:03:46.980
+robią świetną robotę, tylko to jest bardzo trudny etycznie moralny dylemat, nie?
+
+01:03:46.980 --> 01:03:53.980
+Bo, ja wiem, jednoznacznie jesteśmy w stanie zaklasyfikować problem związany z porno, tak?
+
+01:03:53.980 --> 01:03:56.980
+Okej, zgadzamy się, proste, nie ma o czym rozmawiać.
+
+01:03:56.980 --> 01:04:00.480
+w sytuacji kiedy to miałoby służyć czemuś lepszemu,
+
+01:04:00.480 --> 01:04:04.200
+to zobaczcie, nie wiem, aimboty, o, taki przykład.
+
+01:04:04.200 --> 01:04:06.420
+Aimboty są durne.
+
+01:04:06.420 --> 01:04:10.220
+- Nienawidzę aimboty. O czym mówisz teraz?
+
+01:04:10.220 --> 01:04:12.420
+- O grach. - O grach.
+
+01:04:12.420 --> 01:04:16.020
+- W sensie, tak, staram się wejść w waszą dziedzinę,
+
+01:04:16.020 --> 01:04:19.120
+żeby pokazać wam, że tam jest za mało stopni swobody
+
+01:04:19.120 --> 01:04:22.920
+i to samo ma miejsce zarówno w głosie, w wideo i w innych miejscach.
+
+01:04:22.920 --> 01:04:24.920
+Ale tak po kawałeczku.
+
+01:04:24.940 --> 01:04:32.940
+- Ja nadążam, ale może część z naszych widzów trochę nie kojarzyć, mówiąc o Mieszku i mówiąc o Filipie, to mówisz o głosach.
+
+01:04:32.940 --> 01:04:38.940
+- Tak, o głosach. - No w sensie, że oni...
+
+01:04:38.940 --> 01:04:44.940
+- Odsyłam do filmu, taka autoreklama. - Będzie w opisie oczywiście.
+
+01:04:44.940 --> 01:04:54.940
+Bardzo dziękuję, bardzo dziękuję. Zobaczcie, że jak zobaczycie sobie jakiekolwiek funkcjonowanie aimbotów, no to one są durne na przykład na poziomie strategicznym.
+
+01:04:54.940 --> 01:05:08.940
+No bo na poziomie strategicznym taki człowiek nie do końca wie jak się tam poruszać po planszy w strzelankach, raczej świetnie strzela, świetnie tam dobiera, to jest wszystko spoko, ale te inne elementy, które są związane z stylem gry są mocno niedopieszczone.
+
+01:05:08.940 --> 01:05:25.340
+Tak samo jest w głosie. Możemy w głosie być radośni, smutni, możemy być cyniczni trochę, możemy przekazać o wiele więcej rzeczy, które w tej chwili nie są takim szerokim spectrum pod tytułem "80% osób potrzebuje głosu z reklamy, dlatego weź i sprzedaj sobie teraz swoje auto", nie?
+
+01:05:25.340 --> 01:05:35.180
+Bo to jest tylko statystyka. Mamy problem z emocjami, bo one są bardzo skomplikowane w tej chwili dla metod sztucznej inteligencji i są takim trudnym stopniem swobody.
+
+01:05:35.180 --> 01:05:46.180
+W aimbotach mamy problem, nie wiem, dla mnie z strategią, jak gdzieś tam to obserwuję, nie wiem, abstrahując od StarCrafta i wiecie tam, nie pamiętam czy to Nercio tak ładnie zloopował ten, ten...
+
+01:05:46.180 --> 01:05:55.200
+No ktoś w każdym razie tam z Polaków, pamiętam, ładnie zloopował AI, tak że go atakował, wracał, atakował, wracał i dzięki temu rozwalił go z drugiej strony.
+
+01:05:55.220 --> 01:05:59.780
+też fajna metoda, bo jakby tam był pewnie jakiś taki prosty, wiecie, pętelka, if, nie?
+
+01:05:59.780 --> 01:06:05.140
+Że jak coś, to coś. No i wykorzystał to, znalazł piękne zwycięstwo człowieka nad robotem, nie?
+
+01:06:05.140 --> 01:06:12.500
+Także ja jestem jakby optymistyczny co do tego, że jest jeszcze dużo rzeczy, które my ogarniamy jako ludzie,
+
+01:06:12.500 --> 01:06:17.620
+które są tymi stopniami swobody, których jeszcze maszyny nie ogarniają i nie replikują tak dobrze.
+
+01:06:17.620 --> 01:06:19.700
+- Ale powiedzieliście jeszcze.
+
+01:06:19.740 --> 01:06:27.740
+No bo tak, wiecie co jeszcze, to jest dokładnie ta myśl, która mi gdzieś wcześniej przyszła do głowy, że jeżeli
+
+01:06:27.740 --> 01:06:35.740
+po pierwsze to, o co ty mówiłeś Borys, że wklepując głos, znaczy tekst wygenerowany przez czat GPT do czata GPT, żeby sprawdził, czy to jest głos człowieka
+
+01:06:35.740 --> 01:06:42.740
+no to on mówi, że to jest człowieka, ponieważ w tym się specjalizuje, to znaczy on się specjalizuje w tworzeniu tekstu, który ma udawać człowieka
+
+01:06:42.740 --> 01:06:48.740
+(T) Ale on się pomylił, nie? Jakby... (K) No tak, tak, ale to znaczy, gdyby...
+
+01:06:48.740 --> 01:06:53.740
+Tam dwa procesy zaszły, bo gdyby wskazał, że jest to czat stworzony, że to jest tekst stworzony przez czata,
+
+01:06:53.740 --> 01:06:57.740
+to znaczy, że źle tworzy ten tekst, że jeszcze nie jest doskonałym narzędziem, nie?
+
+01:06:57.740 --> 01:07:04.740
+Więc on nie może sobie w stopę strzelić, świetnie, tak świetnie wygenerowałem, że sam nie jestem w stanie tego odróżnić, nie?
+
+01:07:04.740 --> 01:07:11.740
+Więc to jest to, natomiast jakby, jeżeli chodzi o tekst, który też w jakiś sposób przekazuje emocje,
+
+01:07:11.740 --> 01:07:16.900
+no to ten czat jest wzorowy, jest niedorozróżnialny,
+
+01:07:16.900 --> 01:07:20.580
+czy jeżeli chodzi o tłumaczenia, czy jeżeli chodzi o układanie krótkich informacji.
+
+01:07:20.580 --> 01:07:24.900
+To jest bardzo ludzkie. I wszystkie emocje, które da się zawrzeć
+
+01:07:24.900 --> 01:07:28.100
+w literach, w zdaniach, wyrazach, jest w stanie oddać.
+
+01:07:28.100 --> 01:07:32.220
+To jest na tyle uproszczony jakby model tworzenia tej treści.
+
+01:07:32.220 --> 01:07:35.220
+Zakładam, że głos jest odrobinę bardziej złożonym modelem,
+
+01:07:35.220 --> 01:07:38.720
+ale nie jest to... Właściwie można przyjąć takie założenie,
+
+01:07:38.720 --> 01:07:41.620
+że jeżeli w jednym aspekcie uda się naśladować człowieka,
+
+01:07:41.640 --> 01:07:44.320
+to jest tylko kwestią czasu, jeżeli się uda w kolejnym i kolejnym.
+
+01:07:44.320 --> 01:07:48.560
+Ja z jednej strony uspokajałem, że te deepfake'i raczej są mało wiarygodne dzisiaj.
+
+01:07:48.560 --> 01:07:51.320
+Pytanie, kiedy będą super wiarygodne.
+
+01:07:51.320 --> 01:07:54.520
+Bo zakładam, że głosowo będą wiarygodne za jakiś czas,
+
+01:07:54.520 --> 01:07:57.920
+a wideo to będzie jeszcze gdzieś tam bardzo, bardzo odległa przyszłość.
+
+01:07:57.920 --> 01:08:01.220
+Ale to jest niewątpliwie przed nami, ale też chyba nie jest przesadnie blisko.
+
+01:08:01.220 --> 01:08:02.760
+- No, ale przecież mamy ten...
+
+01:08:02.760 --> 01:08:07.800
+Znaczy, bo już spadł chyba z rowerka ten serial inspirowany Seinfeldem.
+
+01:08:07.800 --> 01:08:09.820
+- Tak, tak, tak. - No to tam normalnie była, wiesz...
+
+01:08:09.840 --> 01:08:17.360
+Animacja, dialogi, głosy, wszystko było robione przez AI. Cały serial, 24 godziny na dobę.
+
+01:08:17.360 --> 01:08:25.800
+Czy on tam spadł? Widziałem taki nagłówek, ale nie wgłębiałem się przez jakieś rasistowskie żarty czy coś takiego?
+
+01:08:25.800 --> 01:08:28.880
+Tak, tak, tak. Nothing Forever to się nazywało i jakby...
+
+01:08:28.880 --> 01:08:36.880
+Nie wiem czy kojarzycie te pierwsze historie, które były związane tam z sztucznymi inteligencjami Microsoftu,
+
+01:08:36.880 --> 01:08:40.520
+które nauczone tweeterem nauczyły się dyskryminować kobiety i czarnych, nie?
+
+01:08:40.520 --> 01:08:44.460
+- Tak, tak, tak, pamiętamy, cudowne historie, absolutnie.
+
+01:08:44.460 --> 01:08:46.480
+- Jak to się mogło stać?
+
+01:08:46.480 --> 01:08:52.600
+Więc na wejściu jak już wyczyścili te dane, żeby zrobić z tego coś użytecznego,
+
+01:08:52.600 --> 01:08:55.920
+to jest jeszcze ten drugi problem, to znaczy jaką mamy funkcję celu.
+
+01:08:55.920 --> 01:09:00.140
+No bo o ile tam w tym Nothing Forever mieliśmy, robimy sobie serwial,
+
+01:09:00.140 --> 01:09:02.660
+mamy coś tam na wejściu, chat GPT generuje teksty,
+
+01:09:02.660 --> 01:09:06.480
+coś tam nam generowało głos, no i coś tam generuje obraz, jest spoko.
+
+01:09:06.500 --> 01:09:16.500
+Tylko ja tak jeszcze odnosząc się do tego co Remik powiedział, im więcej mamy tych stopni swobody, tym łatwiej nam jest jako ludziom rozpoznać co się dzieje, nie?
+
+01:09:16.500 --> 01:09:25.060
+Tekst ma tam trochę, jesteś w stanie załapać czy ktoś tam śmieszkuje czy nie, w głosie mamy już te tembry, mamy ten sposób mówienia, wysokość i tak dalej.
+
+01:09:25.060 --> 01:09:31.300
+Jeżeli chodzi o naszą mimikię, no to wiecie, jest tyle tych gdzieś tam mięśni, tyle jest takich przyzwyczajeń do tego jak z tego korzystamy,
+
+01:09:31.300 --> 01:09:33.960
+więc jest więcej szans, żeby się rozpoznać,
+
+01:09:33.960 --> 01:09:36.680
+że po drugiej stronie jest rzeczywiście osoba, czy nie.
+
+01:09:36.680 --> 01:09:39.540
+I teraz, wiem, że to strasznie zabrzmi,
+
+01:09:39.540 --> 01:09:41.960
+ale coraz częściej wyobrażam sobie,
+
+01:09:41.960 --> 01:09:45.060
+że żeby poznawać kogoś w takim świecie wirtualnym,
+
+01:09:45.060 --> 01:09:47.980
+no to trzeba mieć trochę backgroundu, będzie,
+
+01:09:47.980 --> 01:09:50.260
+żeby rozpoznać to od deepfake'a, nie?
+
+01:09:50.260 --> 01:09:52.360
+No bo to, że chociażby w tej chwili
+
+01:09:52.360 --> 01:09:54.960
+Sir Boris się troszeczkę buja na prawo i lewo,
+
+01:09:54.960 --> 01:09:57.720
+to jest pewna charakterystyka, to jest charakterystyka behawioralna,
+
+01:09:57.720 --> 01:10:00.540
+która wynika z tego, że taki kurde jest.
+
+01:10:00.560 --> 01:10:03.360
+jak go obserwujesz przez kilka godzin, to się do tego przyzwyczajasz,
+
+01:10:03.360 --> 01:10:06.000
+ale ktoś kto go udaje, no nie będzie to łatwe, nie?
+
+01:10:06.000 --> 01:10:08.800
+Więc to jest wszystko kwestia ilości danych.
+
+01:10:08.800 --> 01:10:12.360
+To jest kwestia czasu. Ja powiem szczerze, że niestety
+
+01:10:12.360 --> 01:10:17.560
+mam jakieś takie bardzo mocne wrażenie, że jesteśmy straceni.
+
+01:10:17.560 --> 01:10:24.280
+Znaczy, że okej, lektorzy mogą mówić teraz, że to jest jeszcze niedoskonała technologia.
+
+01:10:24.280 --> 01:10:28.320
+Okej, zobaczmy jak wyglądały w tym roku
+
+01:10:28.360 --> 01:10:33.680
+twarze ludzi w grach wideo, a jak wyglądały 10 lat temu.
+
+01:10:33.680 --> 01:10:37.040
+I już wiemy, jak szybko to idzie do przodu.
+
+01:10:37.040 --> 01:10:41.160
+Tak samo z filmami, z pisaniem scenariuszy.
+
+01:10:41.160 --> 01:10:45.440
+Ktoś może powiedzieć "sztuczna inteligencja nie wymyśli ci niczego nowego,
+
+01:10:45.440 --> 01:10:48.160
+ona tylko przetworzy to, co już jest znane".
+
+01:10:48.160 --> 01:10:50.280
+A ja nie wiem, dlaczego.
+
+01:10:50.280 --> 01:10:53.640
+Może się okazać, że to jest dokładnie to, co ludzie robią, całą wieczność.
+
+01:10:53.640 --> 01:10:56.200
+Nie wiem w sumie, dlaczego tak miałoby być.
+
+01:10:56.560 --> 01:10:59.560
+Czemu nie może wykształcić.
+
+01:10:59.560 --> 01:11:08.560
+To jest, ja też mam takie wrażenie, że to jest mocno związane z tym, że my jesteśmy wychowani w takim,
+
+01:11:08.560 --> 01:11:14.560
+że człowiek to jest ktoś wyżej, że to jest takie uduchowione, że my mamy, wiesz, duszę,
+
+01:11:14.560 --> 01:11:20.560
+że my jest tutaj jakby, że możemy być artystami, że my się odróżniamy bardzo od zwierząt.
+
+01:11:20.560 --> 01:11:22.560
+Ja tak nie myślę, no.
+
+01:11:22.560 --> 01:11:24.560
+Teraz czy w ogóle tak nie myślisz?
+
+01:11:24.560 --> 01:11:26.560
+W ogóle tak nie myślę.
+
+01:11:26.560 --> 01:11:31.560
+I zdaję sobie sprawę, że to jest kwestia skali.
+
+01:11:31.560 --> 01:11:36.560
+Że jeżeli sztuczna inteligencja będzie opisywać nasze emocje
+
+01:11:36.560 --> 01:11:40.560
+za pomocą siedmiu podpunktów, to może to będzie słabe.
+
+01:11:40.560 --> 01:11:43.560
+Ale jeżeli będzie opisywać za pomocą siedmiu miliardów,
+
+01:11:43.560 --> 01:11:48.560
+to my nie ogarniemy tego.
+
+01:11:48.560 --> 01:11:51.560
+W sensie takim, że to będzie na tyle złożone,
+
+01:11:51.560 --> 01:11:56.360
+to, że nie będzie konkurencji ze strony ludzkiej.
+
+01:11:56.360 --> 01:12:00.760
+Jeżeli Netflix będzie chciał puszczać seriale,
+
+01:12:00.760 --> 01:12:06.960
+które będą generowane dla każdego widza osobno.
+
+01:12:06.960 --> 01:12:09.160
+- Personalizowane? - Tak.
+
+01:12:09.160 --> 01:12:14.360
+I to w takim stopniu... Zobacz, rok temu rozmawialiśmy o tym,
+
+01:12:14.360 --> 01:12:19.960
+że Netflix może podkładać pewne końcówki, środki,
+
+01:12:20.260 --> 01:12:22.260
+badając nastrój widza.
+
+01:12:22.260 --> 01:12:25.260
+A w tym roku mamy serial na Twitchu,
+
+01:12:25.260 --> 01:12:28.260
+który leci 24 godziny, generowany przez AI.
+
+01:12:28.260 --> 01:12:35.260
+Okej, jest to infantylne, proste, okej, ale to jest, nie?
+
+01:12:35.260 --> 01:12:37.260
+To już się wydarzyło.
+
+01:12:37.260 --> 01:12:40.260
+I te wielkie korporacje patrzą na to.
+
+01:12:40.260 --> 01:12:44.260
+One wiedzą, że coś takiego powstaje
+
+01:12:44.260 --> 01:12:47.260
+i teraz zatrudniają tych ludzi, co to robili.
+
+01:12:47.260 --> 01:13:03.260
+To jest w ogóle, to kolejny jest filozoficzny temat, bo wygląda na to, i to mnie zaskakujesz tą wiarą swoją, że jeżeli człowieczeństwo jest łatwe do symulowania i sztuczna inteligencja potrafi to robić, to może ono w ogóle nie istnieje, w sensie może nic nas nie wyróżnia.
+
+01:13:03.260 --> 01:13:05.260
+(śmiech)
+
+01:13:05.260 --> 01:13:11.260
+Jeżeli łatwo to odtworzyć przy użyciu takich procesów, no to co to właściwie jest, nie?
+
+01:13:11.260 --> 01:13:13.260
+No tak, nie wyróżnia nas nic.
+
+01:13:13.260 --> 01:13:16.660
+Nie wyróżnia. Jest taki film, który się nazywa...
+
+01:13:16.660 --> 01:13:18.660
+Boże, zapomniałem.
+
+01:13:18.660 --> 01:13:20.660
+Polski... Jak go znajdę, to wam zaraz...
+
+01:13:20.660 --> 01:13:22.660
+Masz tu, że Indygencyla pewnie by wiedziała, o jaki chodzi.
+
+01:13:22.660 --> 01:13:24.660
+Tak, od razu by wiedziała.
+
+01:13:24.660 --> 01:13:28.260
+Który mówi o tym, jak powstało życie.
+
+01:13:28.260 --> 01:13:30.660
+Jednej z teorii, jak powstało życie.
+
+01:13:30.660 --> 01:13:32.660
+Że życie powstało z materii.
+
+01:13:32.660 --> 01:13:35.460
+I to jest kwestia tylko skali.
+
+01:13:35.460 --> 01:13:37.460
+Okej, okej.
+
+01:13:37.460 --> 01:13:50.460
+Skomplikowanie, jakby to skomplikowanie, ale no bo wiecie, wierzymy. Czy my wierzymy w ten uduchowiony świat, że tam Bóg stworzył człowieka i...
+
+01:13:50.460 --> 01:13:52.460
+Daleko.
+
+01:13:52.460 --> 01:13:53.460
+No właśnie.
+
+01:13:53.460 --> 01:13:56.460
+W zasadzie nie ma znaczenia w co my wierzymy, na to wygląda.
+
+01:13:56.460 --> 01:14:05.660
+jeżeli wierzymy, że po prostu jesteśmy takim samym bytem jak każdy inny, tylko inaczej rozwiniętym,
+
+01:14:05.660 --> 01:14:09.660
+to dlaczego sztuczna inteligencja ma być gorsza zawsze?
+
+01:14:09.660 --> 01:14:14.260
+Ja bym poszedł w kierunku takim trochę bardziej fizycznym, nie?
+
+01:14:14.260 --> 01:14:21.260
+Bo wiecie, ilość neuronów w GPT, w takim uproszczeniu, jest daleko niższa od tego, co mamy w głowie.
+
+01:14:21.260 --> 01:14:30.820
+Dlaczego to jest tak, że ludzie, którzy podróżują po świecie, czy tam też narażają się na bardzo różne stymulanty, są często bardziej kreatywni?
+
+01:14:30.820 --> 01:14:39.060
+No bo mają bardzo różne stymulanty, to nie jest taka wiecie, wprost korelacja, ale mają bardzo różne otoczenie, które ich pobudza do pewnych rzeczy.
+
+01:14:39.060 --> 01:14:44.660
+- Albo poczekaj, może mają po prostu większą bazę danych, to już sięgając po te elektroniczne...
+
+01:14:44.660 --> 01:14:51.180
+Tak, tak, tak. Dla mnie to jest po prostu, wiesz, tam, stymulacja, która tam jest z różnymi otoczeniami, sytuacjami, doświadczeniem i w ogóle.
+
+01:14:51.180 --> 01:15:02.300
+Na poziomie, nie pamiętam czy to była książka Master and His Emissary, czy jakby jedna z takich książek o mózgu, jak w razie czego podeślę w komentarzach, czy tam podeślę wam, bo nie jestem przekonany.
+
+01:15:02.300 --> 01:15:12.340
+Na poziomie takim fizycznym, kreatywność pojawia się wtedy, jak mamy jakby tam normalnie, nie wiem, jest 10 elektronów, które tam z drugiej strony poprzez
+
+01:15:12.340 --> 01:15:22.940
+mają spowodować, że mamy jakieś autostrady w mózgu, no i jak powiesz sobie, że filmikin na Twitchu ze znanymi tam streamerkami, to ty masz w głowie streamerkami, nie?
+
+01:15:22.940 --> 01:15:31.740
+Albo coś tam innego. Co jest takie typowe. Dlatego wszystkie reklamy robią skojarzenia bezpośrednio do seksu, no bo tam mamy po prostu autostradę tych połączeń
+
+01:15:31.740 --> 01:15:33.980
+w naszej głowie i łatwo jest to strigerować, nie?
+
+01:15:33.980 --> 01:15:36.940
+A kreatywność polega na tym, że zamiast tych dziesięciu
+
+01:15:36.940 --> 01:15:38.960
+pojawia się albo dziewięć, albo jedenaście
+
+01:15:38.960 --> 01:15:42.980
+i te połączenia aktywują się trochę w inny sposób niż zwykle.
+
+01:15:42.980 --> 01:15:45.300
+Tak na poziomie, wiecie, fizycznym, nie?
+
+01:15:45.300 --> 01:15:49.220
+I teraz to się wiąże z tym, jak zbudowaliśmy sobie te połączenia
+
+01:15:49.220 --> 01:15:51.340
+w naszej głowie, które wynikają z doświadczeń
+
+01:15:51.340 --> 01:15:53.660
+i ze stymulacji, które są naszą przeszłością.
+
+01:15:53.660 --> 01:15:56.780
+Więc odnosimy sobie to teraz do sztucznej inteligencji,
+
+01:15:56.780 --> 01:15:59.500
+która jest papką tej zbiorowej świadomości
+
+01:15:59.520 --> 01:16:05.560
+i nauczoną, jeszcze tam wiecie, wyfiltrowaną przez tych ludzi i według receptury w tym wypadku OpenAI,
+
+01:16:05.560 --> 01:16:08.180
+która ma za zadanie zrobić coś.
+
+01:16:08.180 --> 01:16:13.400
+Dla mnie to jest mega daleko od tego, żeby powiedzieć, że to jest kreatywność.
+
+01:16:13.400 --> 01:16:18.020
+Nie, to jest odtwórczość, ale tak samo ta odtwórczość, którą stosują czy to programiści,
+
+01:16:18.020 --> 01:16:22.740
+którzy kopiują kawałki kodu, czy jacyś artyści, którzy się czymś inspirują,
+
+01:16:22.740 --> 01:16:26.660
+ona zostanie szybko zamieniona, bo ona jest taka typowa.
+
+01:16:26.680 --> 01:16:37.080
+Więc ja mam taką teorię, która pewnie zostanie obalona za chwilę, że będziemy coraz bardziej potrzebowali zawodów, które będą kreatywne, albo na przykład zawodów takich jak...
+
+01:16:37.080 --> 01:16:41.840
+- Nie przejmuj się, Niwon, tak czasami opowiadam. - A, spoko.
+
+01:16:41.840 --> 01:16:53.840
+Albo zawodów takich związanych ze sztuczną inteligencją, na przykład wiesz, cenzur AI, albo kto będzie sprawdzał memy w przyszłości, które zostały automatycznie wygenerowane, czy te memy są jakby poprawnie, nie?
+
+01:16:53.840 --> 01:17:02.840
+jakby wyobrażam sobie ten wszechświat, dlatego w tej chwili na przykład mega wzięcie jest dla ludzi po filozofii, właśnie przy pracy związanej ze sztuczną inteligencją.
+
+01:17:02.840 --> 01:17:08.840
+Ja sobie przypomniałem, to jest foton Normana Leto, przepraszam za ucieczkę przez...
+
+01:17:08.840 --> 01:17:11.840
+A to ten film, o którym opowiadasz.
+
+01:17:11.840 --> 01:17:14.840
+Tak, on zapytał.
+
+01:17:14.840 --> 01:17:30.840
+Jakby pośród różnych zastosowań, teraz na bazie tego co opowiadałeś, opowiadałeś o tych memach, to jest też tak, że jeżeli chodzi o w ogóle ludzkie zapotrzebowania, jeżeli chodzi o rozrywkę, spędzanie czasu, to nie trzeba było jakiejś zaawansowanej sztucznej inteligencji, żeby ludzi uwiązać do TikTaka.
+
+01:17:30.840 --> 01:17:32.840
+Jakby to jest ten algorytm...
+
+01:17:32.840 --> 01:17:34.840
+(śmiech)
+
+01:17:34.840 --> 01:17:36.840
+Ale do pana TikTaka czy do TikToka?
+
+01:17:36.840 --> 01:17:38.840
+(śmiech)
+
+01:17:38.840 --> 01:17:53.840
+- Dobrze, dobrze. Więc rzecz polega na tym, że dla takich rozrywkowych zastosowań już wystarczy prosty algorytm, który sobie doskonale radzi z ogarnianiem tego, co człowiek potrzebuje, żeby siedzieć wgapiony w jakieś urządzenie nieustannie.
+
+01:17:53.840 --> 01:18:03.640
+Zakładam, że dla takich rozrywkowych zastosowań i dla przyjemności naszych, takie urządzenie, które dysponuje takim obszarem danych jak czat GPT,
+
+01:18:03.640 --> 01:18:10.840
+to może nas już totalnie uwięzić i dostarczyć nam wszystkich rozrywkowych i przyjemnościowych potrzeb, jakie tylko możemy sobie wymyślić.
+
+01:18:10.840 --> 01:18:18.240
+Więc niezależnie od tego, jak będzie wyglądała struktura władzy za 50 lat, to my równie dobrze będziemy mogli być szczęśliwi,
+
+01:18:18.240 --> 01:18:22.840
+siedzieć wpatrzeni w urządzenie na stałe podpięci i w ogóle nie przejmować się tym, co się dzieje na świecie.
+
+01:18:22.840 --> 01:18:26.840
+Więc może nie jest tak źle, że tam się rozwija tak ten...
+
+01:18:26.840 --> 01:18:28.860
+Pobłądziłem trochę, ale nie szkodzi.
+
+01:18:28.860 --> 01:18:33.080
+A nie, no czemu? Farmieni, tak jak w Matrixie, masz bezpośrednio brain-machine interface.
+
+01:18:33.080 --> 01:18:36.100
+Tam jakby twój mózg odbiera bodźce, których nie ma.
+
+01:18:36.100 --> 01:18:40.620
+Tylko jakby nie do końca wiem, po co ci ludzie wtedy mieliby istnieć, bo jakby...
+
+01:18:40.620 --> 01:18:45.640
+Poteria, bo słońce, nie, nie, nie, tam za moralne.
+
+01:18:45.640 --> 01:18:52.160
+Ale to samo złośliwy mógłby dzisiaj powiedzieć o ludziach, którzy spędzają, nie wiem, 5 godzin dziennie na TikToku.
+
+01:18:52.180 --> 01:18:58.180
+(śmiech)
+
+01:18:58.180 --> 01:19:03.180
+No bo jakby idziemy w tą stronę, że zastosowania rozrywkowe i dla przyjemności są coraz bardziej
+
+01:19:03.180 --> 01:19:08.180
+powszechne i coraz łatwiejsze i coraz bardziej wyczuwają nas te urządzenia, wiedzą jak zaspokoić nasze potrzeby.
+
+01:19:08.180 --> 01:19:13.180
+Więc rezultat jest taki, że my siedzimy jak warzywa przed ekranami i cieszymy się życiem, jakby
+
+01:19:13.180 --> 01:19:19.180
+zażywamy szczęścia tego elektronicznego i w zasadzie nasze istnienie nie jest do niczego potrzebne nikomu.
+
+01:19:19.180 --> 01:19:24.940
+Bo to jest... Dlaczego... To w ogóle jest dłuższa dyskusja, no bo dlaczego pornografia jest taka popularna,
+
+01:19:24.940 --> 01:19:29.860
+dlaczego treści rozrywkowe, dlaczego memy są takie. One służą zaspokajaniu naszych przyjemności,
+
+01:19:29.860 --> 01:19:33.680
+dostarczania nam... Jak się nazywa ta substancja? Dopaminy?
+
+01:19:33.680 --> 01:19:35.900
+Dopamina. No super stymulanty to są.
+
+01:19:35.900 --> 01:19:40.820
+No więc jakby taki jest generalnie chyba kierunek tych wszystkich rzeczy rozrywkowych,
+
+01:19:40.820 --> 01:19:43.840
+żeby nam dostarczać dopaminy w coraz lepszy sposób i w coraz większej ilości.
+
+01:19:43.840 --> 01:19:47.500
+I w takiej sytuacji się znajdziemy prędzej czy później, albo będziemy musieli
+
+01:19:47.520 --> 01:19:52.800
+odpowiedzieć na pytanie, czy to jest na pewno dobry kierunek, może potrzebujemy trochę znojów i problemów.
+
+01:19:52.800 --> 01:20:00.000
+- Ale I know you're a man of culture, tak? Słuchacie Hubermana, więc na pewno słyszeliście o uzależnieniu od dopaminy,
+
+01:20:00.000 --> 01:20:07.040
+o krótkich cyklach dopaminowych i o tym, że trzeba sobie zrobić detoks, bo potem to się nic innego nie chce, bo się uzależniamy, nie?
+
+01:20:07.040 --> 01:20:14.880
+I teraz, jak wyobrażam sobie te superstymulanty, których jakby, wiecie, czy tam branża porno chce nas uzależnić, czy chce nas uzależnić,
+
+01:20:14.880 --> 01:20:19.120
+nie wiem, od słodyczy czy od innych takich rzeczy, no bo one silnie wpływają na nasz układ.
+
+01:20:19.120 --> 01:20:25.800
+No teraz mamy jeden jedyny firewall w naszej głowie, który może spowodować, że tego nie zrobimy,
+
+01:20:25.800 --> 01:20:31.920
+czyli silną wolę, która też jest, wiecie, ciężka do ogarnięcia, są lepsze i gorsze dni i jako ludzie, no,
+
+01:20:31.920 --> 01:20:37.120
+zawsze jest trudno z tym przejść, ale to jest jedyna opcja, żeby się tym chronić, bo jak będziemy mieli,
+
+01:20:37.120 --> 01:20:43.340
+tam cytując Austina Powersa, tam, wirtualną maszynkę z sąco ciupciającą, no to ona może spowodować,
+
+01:20:43.360 --> 01:20:46.720
+że w pewnym momencie ludzie, tak jak od TikToka, to się po prostu nigdy nie oderwą.
+
+01:20:46.720 --> 01:20:49.520
+I koniec, nie? I co teraz?
+
+01:20:49.520 --> 01:20:52.640
+I będziemy mieli kolejną fazę uzależnień już nie od alkoholu,
+
+01:20:52.640 --> 01:20:55.840
+tylko od czegoś nowego, co gdzieś tam powstanie.
+
+01:20:55.840 --> 01:20:59.360
+- To pamiętajmy o nieustających. Ja nie wiem, jak ja zboczyłem na ten temat.
+
+01:20:59.360 --> 01:21:03.440
+Nie wiem, co by się zdarzyło po drodze, że mnie wniosło w tę stronę.
+
+01:21:03.440 --> 01:21:05.000
+- To pewnie były polnografie znowu.
+
+01:21:05.000 --> 01:21:11.440
+- Cześć, mam jeszcze parę pytań od widzów naszych.
+
+01:21:11.460 --> 01:21:20.380
+Większość tych pytań poruszyliśmy tutaj, więc ja nie będę powtarzał, ale jedno chyba z najczęściej powtarzających się pytań,
+
+01:21:20.380 --> 01:21:29.580
+takich, których tutaj nie mówiliśmy. Tutaj pyta Karol, panie Mateuszu, jak pan dba o włosy, ma pan takie piękne?
+
+01:21:29.580 --> 01:21:31.580
+[śmiech]
+
+01:21:31.580 --> 01:21:33.580
+[śmiech]
+
+01:21:33.580 --> 01:21:35.580
+A mnie to nie zapytali.
+
+01:21:35.580 --> 01:21:37.580
+[śmiech]
+
+01:21:37.580 --> 01:21:39.580
+Ja mogę powiedzieć, że dwa może kola.
+
+01:21:39.580 --> 01:21:47.780
+O, jeden z lepszych śmieszków. Jakby ja to jestem z tej szkoły, że jeżeli włosy są ładne, to nie musi ich być dużo, ale na razie się mnie strasznie trzymają.
+
+01:21:47.780 --> 01:21:55.540
+Dowód anegdotyczny. Przyjeżdżam kiedyś na motocyklu gdzieś tam do fryzjera, włosy splątane, wiecie, wiatr, te tam, no i tak dalej.
+
+01:21:55.540 --> 01:22:01.140
+Pani mówi "je, no jaka masakra, nie? Po tym wszystkim, kurczę, jakie piękne włosy, pan to musi o nie dbać", a ja tak...
+
+01:22:01.140 --> 01:22:07.780
+właściwie to tak średnio, te najsłabsze muszą po prostu wypaść, więc i tak mam ich dużo.
+
+01:22:07.780 --> 01:22:16.780
+Dobrze, czy jest jakiś sufit, Andrzej pyta, czy jest jakiś sufit w rozwoju AI, którego nie da się przebić?
+
+01:22:16.780 --> 01:22:25.780
+Energia. W sensie, wyobraźcie sobie teraz, że jak już płacą bańkę OpenAI za to, żeby przeuczyć każdy ten model,
+
+01:22:25.780 --> 01:22:30.780
+gdyby to było za darmo, gdyby to było tanie, to moglibyśmy bardzo szybko ewoluować jako ludzkość.
+
+01:22:30.780 --> 01:22:46.780
+No ale to kosztuje, wiecie tam, mnóstwo kart graficznych, innej mocy obliczeniowej, prądu, pracy ludzi, więc wyobrażam sobie, że to co nas w tej chwili hamuje jako ludzkość, to jest raczej energia, no bo nie mamy nieskończoności zasobów, żeby bardzo szybko z tym ewoluować.
+
+01:22:46.780 --> 01:22:59.780
+Taką mam tezę. Poza tym, tak jak na razie stwierdzamy, to sobie co nazywamy sztuczną inteligencją, no to są jakieś tam, wiecie, metody statystyczne na typowe problemy, albo generujące rzeczy, które wcześniej się widziało.
+
+01:22:59.780 --> 01:23:03.620
+jest taki koncept, który nazywa się AGI, czyli Artificial General Intelligence,
+
+01:23:03.620 --> 01:23:06.700
+który jest tym taką sztuczną inteligencją z science fiction,
+
+01:23:06.700 --> 01:23:10.040
+w ramach której mamy możliwość świadomego,
+
+01:23:10.040 --> 01:23:13.360
+tak w cudzysłowie oczywiście, ale podejmowania decyzji, tworzenia
+
+01:23:13.360 --> 01:23:16.680
+i wielu innych rzeczy, które są poza tym, o czym my w tej chwili mówimy.
+
+01:23:16.680 --> 01:23:20.020
+Ale żeby dojść do AGI, to w zależności od tego,
+
+01:23:20.020 --> 01:23:24.080
+których tam ludzi z science fiction, czy też z nauki zabadamy,
+
+01:23:24.080 --> 01:23:27.600
+to są jeszcze setki, setki lat, czy tam dziesiątki.
+
+01:23:27.620 --> 01:23:36.780
+Oczywiście niczego tego nie sprawdzimy na chwilę obecną, ale jednym z głównych limitów to są właśnie zasoby, czyli tam energia i ile jesteśmy w stanie w to rzucić pieniędzy.
+
+01:23:36.780 --> 01:23:52.300
+Igor pyta, właściwie ja trochę sparafrazuję to pytanie, bo on pytał trochę o przyszłość AI i w sumie spytam się, gdzie ty widzisz to, jak patrzysz na przykład oczami wyobraźni 10 lat do przodu,
+
+01:23:52.300 --> 01:23:57.780
+jakie wydaje ci się takie najciekawsze, albo dla ciebie najbardziej pożądane
+
+01:23:57.780 --> 01:24:00.820
+zastosowanie AI, choćby w grach na przykład.
+
+01:24:00.820 --> 01:24:04.260
+Ale nie musi być w grach tylko, bo też nie chcę, żebyś...
+
+01:24:04.260 --> 01:24:07.700
+Nie musi być w grach, ale tutaj akurat tak Igor trochę pytał, że np.
+
+01:24:07.700 --> 01:24:12.980
+że rozmowa z LPC-em, nie, tam, no ale to już jest w Bannerlordzie, nie?
+
+01:24:12.980 --> 01:24:14.380
+Tak, tam był jakiś modlist.
+
+01:24:14.380 --> 01:24:15.380
+Tak, tak, tak, tak.
+
+01:24:15.380 --> 01:24:19.900
+W modli podobno całkiem fajnie działa, tak jakby wiesz, gra, która wchodzi online
+
+01:24:19.940 --> 01:24:21.940
+jest bardziej interaktywna jeszcze.
+
+01:24:21.940 --> 01:24:23.960
+Widziałem ostatnio to jeden z takich
+
+01:24:23.960 --> 01:24:26.780
+właśnie opartych na czat GPT startupów,
+
+01:24:26.780 --> 01:24:28.800
+który generował postacie RPG.
+
+01:24:28.800 --> 01:24:31.620
+Czyli wiecie, macie jakiś tekst pisany z książki
+
+01:24:31.620 --> 01:24:34.840
+i on wam generuje charakter, który będzie w ten sposób się zachowywał.
+
+01:24:34.840 --> 01:24:36.460
+No, betarda dla twórców gier.
+
+01:24:36.460 --> 01:24:41.480
+Bardzo dużo takich mistrzów gry,
+
+01:24:41.480 --> 01:24:45.800
+takich przypapierowych RPG, bardzo dużo używają czata GPT.
+
+01:24:45.800 --> 01:24:46.820
+I Mid Journey.
+
+01:24:46.820 --> 01:24:47.840
+O!
+
+01:24:47.860 --> 01:24:48.860
+Proszę bardzo.
+
+01:24:48.860 --> 01:24:52.860
+To takie super jakby zostało to... wszyscy to od razu przyjęli, nie?
+
+01:24:52.860 --> 01:24:55.860
+No to w ogóle fantastyczne jest narzędzie, Jezu, tak sobie teraz pomyślę.
+
+01:24:55.860 --> 01:24:58.860
+Mapy sobie tam jakieś generujesz, wiesz, jakby takie...
+
+01:24:58.860 --> 01:25:03.860
+Pomoce wpływające na wyobraźnię. No ale wiecie, mam jeszcze takie... ja wiem, że trochę uciekam,
+
+01:25:03.860 --> 01:25:08.860
+ale mamy jeszcze te przypadki takie typowe z Midjourney, że mamy kogoś z sześcioma palcami,
+
+01:25:08.860 --> 01:25:14.860
+bo tu statystycznie palec jest w tym miejscu i w tym miejscu i no wyszło tak, że akurat wyszło sześć palców,
+
+01:25:14.860 --> 01:25:18.860
+dopiero musisz się przyglądnąć, że tam te sześć palców rzeczywiście jest, nie?
+
+01:25:18.860 --> 01:25:19.860
+Więc...
+
+01:25:19.860 --> 01:25:22.860
+- A za miesiąc będzie wyurzędzie. - Czy to takie prawdziwe użycie?
+
+01:25:22.860 --> 01:25:27.860
+No, wyobrażam sobie takie pieczątki, ten produkt nie powstał przy użyciu sztucznej inteligencji,
+
+01:25:27.860 --> 01:25:29.860
+pracowali tu tylko ludzie na taki żart.
+
+01:25:29.860 --> 01:25:32.860
+- Ale odpowiadają... - Nie, no ma to sens, jak najbardziej, no.
+
+01:25:32.860 --> 01:25:35.860
+No nie no, tam, nietestowany na zwierzętach.
+
+01:25:35.860 --> 01:25:39.860
+Odpowiadając na to pytanie, czy coś jest takiego, wiesz, najbardziej dzikiego,
+
+01:25:39.860 --> 01:25:42.860
+co by się przydało z mojej perspektywy?
+
+01:25:42.860 --> 01:25:49.420
+Myślę, że my jako ludzie mamy różne cele istnienia, tak w tym naszym kąciku filozoficznym.
+
+01:25:49.420 --> 01:25:55.500
+I dla każdego jakieś tam wsparcie, automatyzacje, rzeczy, które będą nam pomagały w życiu, będzie czymś innym.
+
+01:25:55.500 --> 01:26:01.900
+Ja wyobrażam sobie, że takim gralem byłoby zadbanie o twoje otoczenie jako o człowieka.
+
+01:26:01.900 --> 01:26:06.460
+Teraz wiele rzeczy, które robisz, robisz w sposób automatycznie manualny.
+
+01:26:06.460 --> 01:26:11.420
+Wyłączam powiadomienia, tu gdzieś ustawiam rzeczy w kalendarzu, tu muszę się z kimś komunikować.
+
+01:26:11.420 --> 01:26:25.180
+Gdyby można to było zrobić w ten sposób, żeby mieć taką pętlę sprzężenia zwrotnego z twoim well-being, to znaczy, hej, twój asystent sztucznej inteligencji wie jak się czujesz, wie co masz zaplanowane
+
+01:26:25.180 --> 01:26:32.860
+i odpowiednio dawkuje ci tak jakby tą komunikację przez brain-machine interface albo nawet niech będzie tak tradycyjnie przez ekran smartfona,
+
+01:26:32.860 --> 01:26:39.900
+to mówi ci "dobra ziomuś, słuchaj teraz to, potem będzie tamto, reaguje na twoje potrzeby, planuje, ustawia" i tak dalej,
+
+01:26:39.900 --> 01:26:44.620
+to dla mnie byłoby coś mega, bo zawiera w sobie taki element ludzkości,
+
+01:26:44.620 --> 01:26:47.460
+to znaczy trzeba by troszeczkę być bliżej ludzkiej psychologii
+
+01:26:47.460 --> 01:26:49.540
+i reagować na to w jakim stanie jesteśmy,
+
+01:26:49.540 --> 01:26:52.900
+a nie wrzucać wszystkie tam powiadomienia z Insta czy z innego miejsca,
+
+01:26:52.900 --> 01:26:55.540
+że słuchaj, masz tam 200 nowych komentarzy, nie?
+
+01:26:55.540 --> 01:26:59.380
+Jedziesz tam z koksem, nieważne, mnie interesuje, co jest ważne.
+
+01:26:59.380 --> 01:27:03.660
+Więc adaptacja do tego, co jest dla ciebie ważne, człowieku, byłaby petardą.
+
+01:27:03.660 --> 01:27:06.400
+- No, ciekawe, bo ja myślałem, że powiesz na przykład,
+
+01:27:06.420 --> 01:27:10.420
+jak będzie medycyna wyglądać tutaj dzięki sztucznej techniki.
+
+01:27:10.420 --> 01:27:14.420
+Musimy od razu świata ratować. A czy ja mogę się dorzucić do odpowiedzi na to pytanie?
+
+01:27:14.420 --> 01:27:18.420
+Bo to też jest bardzo intrygujące. Po pierwsze to, co ty powiedziałeś, strasznie się wpisuje w moje zapotrzebowanie.
+
+01:27:18.420 --> 01:27:22.420
+Gdybym sobie miał wyobrazić, co za 10 lat by się przydało, to właśnie asystent.
+
+01:27:22.420 --> 01:27:26.420
+I to jest taki, wiesz, taki, z którym możesz pogadać. Zresztą ty idziesz na zakupy i mówisz, kurde,
+
+01:27:26.420 --> 01:27:30.420
+zgotowałbym dzisiaj kurczaka w sosie pomidorowym. Co mam kupić, żeby mi starczyło
+
+01:27:30.420 --> 01:27:34.420
+kurczaka, pomidory. No wiesz, bo to tak, oczywiście dużo czasu się spędza
+
+01:27:34.420 --> 01:27:37.420
+ze znajbliższymi, można z nimi rozmawiać, ale nie wszędzie można ich zabrać.
+
+01:27:37.420 --> 01:27:41.000
+A taki asystent, który by, wiesz, mówił, że na przykład masz spotkanie dzisiaj,
+
+01:27:41.000 --> 01:27:44.760
+bo to jest bardzo ludzka czynność, natomiast składa się ona z bardzo
+
+01:27:44.760 --> 01:27:47.780
+analitycznych rzeczy, które trzeba po prostu wylistować, zapamiętać
+
+01:27:47.780 --> 01:27:50.800
+i przedstawić w określonej kolejności. Można to spokojnie zastąpić
+
+01:27:50.800 --> 01:27:53.820
+sztuczną inteligencją i nawet do takich bohaterstw, tak jak przepisy kuchenne.
+
+01:27:53.820 --> 01:27:57.840
+Więc takie coś by mi bardzo pasowało. To by było dla mnie...
+
+01:27:57.840 --> 01:28:02.060
+Oczywiście poza ratowaniem świata, walki z głodem i z wojną, nie?
+
+01:28:02.080 --> 01:28:09.480
+- Omorem, no. - To prawda, ale czy pamiętacie pierwszą prezentację Metaverse?
+
+01:28:09.480 --> 01:28:14.480
+I tam były te okulary rozszerzonej rzeczywistości.
+
+01:28:14.480 --> 01:28:19.080
+I jakby to połączyć ze sztuczną inteligencją,
+
+01:28:19.080 --> 01:28:23.880
+z takim czatem GPT, czy głównie z czatem,
+
+01:28:23.880 --> 01:28:29.080
+gdzie on na przykład, wiesz, otwierasz lodówkę albo masz inteligentną lodówkę właśnie,
+
+01:28:29.080 --> 01:28:37.460
+Czy idziesz, czy psuje ci się jakaś rzecz, jak to naprawić i on ci tam daje instrukcję, mówi tą siłkę najpierw, odkręci jakieś takie rzeczy.
+
+01:28:37.460 --> 01:28:48.560
+Widziałeś spoty BMW? Tu już takie rzeczy są, że pokazywali, no to już parę lat temu, że zakładałeś sobie okularki i oni ci pokazywali, tu masz śrubkę, bierzesz ten śrubookręt, odkręcasz, to coś jest tamten, nie.
+
+01:28:48.560 --> 01:28:55.060
+Więc mogę podesłać gdzieś tam filmik, to już parę lat temu było. Tylko jakby drogie.
+
+01:28:55.060 --> 01:29:04.060
+Właśnie, nie? Jakby wiesz, chodzi mi o to, że to jest taka, że no ta technologia, która ma się przyjąć, no musi być powszechna, nie?
+
+01:29:04.060 --> 01:29:08.060
+Znaczy, żeby się przyjęła, no to musi być powszechna.
+
+01:29:08.060 --> 01:29:14.060
+Ale to właściwie to jest "Sky is the limit", idziesz na randkę z dziewczyną i on ci podpowiada, co masz mówić, żeby...
+
+01:29:14.060 --> 01:29:15.060
+To już jest też.
+
+01:29:15.060 --> 01:29:24.060
+Ale to też jest chyba... W ramach czata GPT to jest jeden z tych elementów cenzurowanych, to znaczy nie ma tam pytań w stylu "jak poderwać dziewczynę", bo wyobraźcie sobie taką sytuację,
+
+01:29:24.060 --> 01:29:49.060
+sobie taką sytuację, kiedy urządzenie sztuczna inteligencja, które jest twoim asystentem, ma dostęp do internetu i spotykasz się z dziewczyną i on prześledzi całą historię facebookową czy innych social mediów, wie co ona lubi, czego nie lubi, co mówić, wiesz, to jest bardzo niewłaściwa metoda na poznawanie ludzi, nie? Ale to myślę, że to będą ulegali tacy podrywacze. Najlepszy sposób na poderwanie dziewczyny, filmy na YouTubie, wiesz.
+
+01:29:49.060 --> 01:29:51.060
+Co mówisz? Przepraszam, bo...
+
+01:29:51.060 --> 01:29:56.060
+Nie, może dla niektórych to jest jedyna metoda, żeby w ogóle przemóc się i rozmawiać z niczym.
+
+01:29:56.060 --> 01:30:00.060
+Jeżeli dla kogoś jest to jedyna metoda, to niech z niej korzysta. To jest jedyny moment, kiedy jest usprawiedliwiony, wiesz?
+
+01:30:00.060 --> 01:30:07.060
+Max pyta, właśnie Max pyta, czy znajomość Pythona będzie kluczową umiejętnością w erze AI, a ja pytam trochę szerzej,
+
+01:30:07.060 --> 01:30:17.060
+jakie narzędzia programistyczne, czy jakie języki warto, ktoś kto wchodzi teraz na rynek, zaczyna,
+
+01:30:17.060 --> 01:30:25.060
+żeby lepiej korzystać z tej sztucznej inteligencji, żeby być bardziej konkurencyjnym.
+
+01:30:25.060 --> 01:30:29.060
+Czy ja zadałem to prawdę na pytanie?
+
+01:30:29.060 --> 01:30:38.060
+Fajne pytanie, spoko. Ja mam trochę taką może kontrowersyjną wizję tego, że idziemy jako ludzkość w dwa gatunki.
+
+01:30:38.060 --> 01:30:43.060
+Ci, którzy będą w stanie się dobrze komunikować z komputerami i ci, którzy mają trudność.
+
+01:30:43.060 --> 01:30:53.460
+Stąd jest wysyp coraz większej ilości języków tzw. no-code, czyli wiesz, możesz sobie tam bloczki, możesz pisać sobie po swojemu, które będą generowały coś, co jest instrukcjami dla maszyn.
+
+01:30:53.460 --> 01:31:03.220
+Jesteśmy jeszcze daleko od tego, żeby takie narzędzie były idealne, albo żeby jakby ta bariera zrozumienia tego, co chcemy, a co uzyskujemy jeszcze naprawdę jest dosyć duża.
+
+01:31:03.220 --> 01:31:10.740
+Na chwilę obecną Python rzeczywiście jest takim bardzo złotym standardem w większości rodzaju zastosowań takich machine learningowych,
+
+01:31:10.740 --> 01:31:15.660
+więc jak pchasz się w ten świat, no to Python jest naprawdę spoko rozwiązaniem.
+
+01:31:15.660 --> 01:31:19.660
+Co będzie za chwilę? No bo teraz mamy bardzo dużo podejścia do Go,
+
+01:31:19.660 --> 01:31:22.860
+ale Go nie jest tak szeroko wykorzystywane w ML-u, przynajmniej na tyle.
+
+01:31:22.860 --> 01:31:23.860
+Co to jest Go?
+
+01:31:23.860 --> 01:31:28.460
+Go to jest taki język, który jest stworzony, Golang, tak, stworzony przez Google'a,
+
+01:31:28.460 --> 01:31:32.140
+który ma zalety języków niskopoziomowych, takich jak C,
+
+01:31:32.140 --> 01:31:36.500
+ale nie ma problemów, które się tam pojawiają.
+
+01:31:36.500 --> 01:31:40.500
+I na przykład w tej chwili jest taki...
+
+01:31:40.500 --> 01:31:44.520
+jest jakby kilka takich trendów, które są związane z taką przemianą pokoleniową.
+
+01:31:44.520 --> 01:31:49.540
+Jest też taki język jak RUST, i teraz wyjdzie, że pomyliłem języki,
+
+01:31:49.540 --> 01:31:52.560
+ale jest coś źle ze mną, to ta godzina, przepraszam.
+
+01:31:52.560 --> 01:31:56.580
+RUST, jądro Linuxa na przykład przypisywane jest w pewnych elementach do RUSTA
+
+01:31:56.580 --> 01:32:00.600
+z C, bo C, które było szybkie, miało tam, wiecie, ręczne zarządzanie pamięcią i tak dalej,
+
+01:32:00.600 --> 01:32:04.620
+i RUST, który nie ma problemów na przykład tam z zarządzaniem pamięcią,
+
+01:32:04.640 --> 01:32:07.040
+ale też jest mega petarda szybkie, nie?
+
+01:32:07.040 --> 01:32:12.540
+I to są rzeczy, które są, wiecie, taką górką tych rzeczy, które są popularne, bo są popularne,
+
+01:32:12.540 --> 01:32:17.360
+tych języków, które gdzieś tam wymierają, jak Fortran i inne tam kobole,
+
+01:32:17.360 --> 01:32:19.580
+i są takie, które będą challengerami.
+
+01:32:19.580 --> 01:32:26.300
+I teraz Python jest na szczycie, jeżeli chodzi przynajmniej w moim rozumieniu o tam data science, tak ogólnie rzecz ujmując.
+
+01:32:26.300 --> 01:32:33.020
+C, C+ są już o wiele mniej popularne, ale Rust na przykład zaczyna je kanibalizować w wielu miejscach.
+
+01:32:33.040 --> 01:32:41.320
+Golang jest zastosowywany bardzo często w sytuacjach, kiedy mamy do czynienia z miejscami, gdzie potrzebujemy dużo mocy, bo to się fajnie skaluje.
+
+01:32:41.320 --> 01:32:46.440
+Łatwiej i bezpieczniej rzeczy napisać w Golangu z tego co mi wiadomo niż na przykład w C.
+
+01:32:46.440 --> 01:32:50.520
+I to tak jakby, to zależy co chcę w życiu robić.
+
+01:32:50.520 --> 01:32:52.720
+Jakbym miał powiedzieć co w życiu cenię to...
+
+01:32:52.720 --> 01:32:56.240
+- Doskonała odpowiedź na każde pytanie. - Ja nie zależy co chcę w życiu robić.
+
+01:32:56.240 --> 01:32:59.240
+- Ja bym chciał hodować marchew. - No, dokładnie.
+
+01:32:59.240 --> 01:33:11.240
+(quaz:) Ale czekaj, bo do remika jeszcze... A propos tych przepisów, nie? Jakbyśmy jeszcze połączyli do tego to urządzenie, które analizuje twoją kupę i kupę twoich domowników i personalizuje...
+
+01:33:11.240 --> 01:33:15.240
+(quaz:) ...i personalizuje... (zbigniew:) No ja bym zainteresował się tym, co ty mówiłeś. Personalizacja kupy.
+
+01:33:15.240 --> 01:33:26.240
+(quaz:) Na podstawie tego, co zjadłeś, to wpłynęło na twój układ trawienny i potem jeszcze zna preferencje twoich domowników, to ci może podpowiedzieć przyprawy i to jak go zrobić, żeby wszystkim smakowało i żeby jeszcze dobrze na nich wpłynęło.
+
+01:33:26.240 --> 01:33:30.240
+i wtedy ja się podpisuję dwoma rękami pod czymś takim, bo to też piękne.
+
+01:33:30.240 --> 01:33:35.260
+- To chyba zahaczamy już trochę o połączenie tego asystenta z Neuralinkiem.
+
+01:33:35.260 --> 01:33:41.280
+Neuralink, Neuralink ten wynalazek Ilona, bo jeżeli chodzi o interpretację informacji z mózgu,
+
+01:33:41.280 --> 01:33:44.300
+to chyba nie najgorzej sobie radzi, ale w drugą stronę...
+
+01:33:44.300 --> 01:33:45.320
+- Ale nie jest najlepszy.
+
+01:33:45.320 --> 01:33:49.340
+- Tak, tak, tak, no zobaczymy, bo to niektórzy mówią, że za dwa lata już takie problemy zdrowotne
+
+01:33:49.360 --> 01:33:56.360
+zdrowotne będzie można znacząco jakby, nie, problemy rozwiązać, o, rozwiązać znacząco
+
+01:33:56.360 --> 01:34:00.380
+pewne problemy zdrowotne, które dzisiaj są nie do rozwiązania, więc no tak, proszę państwa,
+
+01:34:00.380 --> 01:34:04.900
+można się zajmować ważnymi problemami zdrowotnymi albo analizą kupy w rodzinie całej.
+
+01:34:04.900 --> 01:34:07.420
+Więc, o, kto co lubi robić w życiu.
+
+01:34:07.420 --> 01:34:11.440
+- Analiza kupy, bardzo poważna rzecz, muszę przyznać.
+
+01:34:11.440 --> 01:34:13.460
+- Słuchajcie, witaj. - Mam nadzieję, że mi śniadania nie jest
+
+01:34:13.480 --> 01:34:15.480
+z nami teraz. Smacznego!
+
+01:34:15.480 --> 01:34:17.480
+Smacznego popuszczamy do poniedziałek, więc
+
+01:34:17.480 --> 01:34:19.480
+w poniedziałek
+
+01:34:19.480 --> 01:34:21.480
+ja też państwu powiem, że nie będzie streama
+
+01:34:21.480 --> 01:34:23.480
+rano w poniedziałek, bo idę do prokuratury.
+
+01:34:23.480 --> 01:34:25.480
+Zostanę wezwany.
+
+01:34:25.480 --> 01:34:27.480
+Uuuu, co zrobiłeś?
+
+01:34:27.480 --> 01:34:29.480
+Andrzej, co ty zrobiłeś?
+
+01:34:29.480 --> 01:34:31.480
+Kupiłem
+
+01:34:31.480 --> 01:34:33.480
+kiedyś dysk na Allegro i mi nie wysłali.
+
+01:34:33.480 --> 01:34:35.480
+No i Allegro zwróciło
+
+01:34:35.480 --> 01:34:37.480
+pieniądze, a ja muszę targać
+
+01:34:37.480 --> 01:34:39.480
+mnie po prokuraturze. I pójdę
+
+01:34:39.480 --> 01:34:41.480
+i powiem, nie wysłali mi. O, i tyle.
+
+01:34:41.480 --> 01:34:49.480
+Bardzo dziękuję Mateuszu przede wszystkim, tobie, widzom, którzy zostali z nami do końca Remigiusza.
+
+01:34:49.480 --> 01:34:57.480
+Co to zawsze. I myślę, że to chyba kończymy na tym, tak? Czy my mamy jakieś pytanie?
+
+01:34:57.480 --> 01:35:05.480
+Ja zapytam prawie ostatnie pytanie. Jak widzicie przyszłość sztucznej inteligencji?
+
+01:35:05.480 --> 01:35:18.360
+Tak, a jeszcze na koniec, jeszcze zanim Mateusz się pożegna z państwem, to ja powiem taką zabawną historyjkę, która być może jest zabawna, ale państwa mniemaniu będzie ona mnie ośmieszała trochę.
+
+01:35:18.360 --> 01:35:29.080
+Otóż w związku z tym, że nagrywamy ten podcast w jakimś tam terminie, puszczamy go w późniejszy, ale z naszej perspektywy, jutro leci podcast z gry o grze Forever Skies.
+
+01:35:29.080 --> 01:35:36.080
+I ja mam koszulkę dzisiaj Farverskajs, co w ogóle jest totalnie nieadekwatne, bo jakie to ma znaczenie, że w przyszłości będzie tak...
+
+01:35:36.080 --> 01:35:39.480
+Rozumiecie państwo jakby istotę mojego błędnego myślenia.
+
+01:35:39.480 --> 01:35:41.680
+I pozdrawiam, dziękuję bardzo.
+
+01:35:41.680 --> 01:35:44.480
+Dziękuję Mateusz, super była rozmowa jak zwykle.
+
+01:35:44.480 --> 01:35:48.880
+Wszystkie linki, czyli do kanału Mateusza oraz do jego Facebooka.
+
+01:35:48.880 --> 01:35:50.880
+To taki żart, że...
+
+01:35:50.880 --> 01:35:55.680
+Chyba już mam, nie wiem czy tam Tim mi nie założył, tak mówię szczerze.
+
+01:35:55.680 --> 01:36:00.680
+Tak, jak całe życie się broniłem, chyba tam było potrzebne do jakiejś automatyzacji
+
+01:36:00.680 --> 01:36:03.680
+straszne rzeczy, no nie dało się tego inaczej obejść.
+
+01:36:03.680 --> 01:36:05.680
+Sprzedałeś się, sprzedałeś się w takim razie.
+
+01:36:05.680 --> 01:36:06.680
+Tak było, nie zmyślam.
+
+01:36:06.680 --> 01:36:11.680
+Wszystkie linki polecamy, no przede wszystkim, przede wszystkim kanał czy Twittera
+
+01:36:11.680 --> 01:36:15.680
+i... tak? Twittera czy nie Twittera?
+
+01:36:15.680 --> 01:36:21.680
+Też, ale ja tak, wiecie, jakby mam ograniczone moce, ale zostawiliście mi teraz w głowie
+
+01:36:21.680 --> 01:36:28.160
+powiem jedną rzecz jeszcze tak na koniec, bo jak powiedziałeś o tym Rain Machine Interface i diagnozowaniu ludzi, nie?
+
+01:36:28.160 --> 01:36:38.880
+To tak jak DRM-y przesunęły się z gier w auta i teraz możesz sobie dokupić grzane siedzenia za tam paręnaście baksów za miesiąc i światła i to wszystko jest w autach
+
+01:36:38.880 --> 01:36:46.720
+i teraz ludzie, którzy są w stanie obejść zabezpieczenia w autach to ci odblokują rzeczy, które tam masz, bo fabryka dała, to wyobrażam sobie, wiecie, taki
+
+01:36:46.720 --> 01:36:58.720
+interfejs OBD do ciała i my jesteśmy w stanie tylko tam, wiesz, powierzchowne choroby, katar, coś tam ci zdiagnozować, ale po DRM-ie to możemy sprawdzić, czy nie masz jakiegoś problemu z czymś tam, nie?
+
+01:36:58.720 --> 01:37:02.720
+- Trzy plany cenowe i... - Dokładnie.
+
+01:37:02.720 --> 01:37:08.720
+- Tak z DLC do gry i do gier, ten model sprzedażowy jest w każdej możliwej rzeczy zastosowanie.
+
+01:37:08.720 --> 01:37:14.720
+- Mam nadzieję, że nikt z branży tego tam, wiecie, medycznej nie będzie słuchał, bo to brzmi strasznie, naprawdę.
+
+01:37:14.720 --> 01:37:16.720
+Tak, tak, przepraszam, musiałem się podzielić.
+
+01:37:16.720 --> 01:37:18.720
+Odpadli i pokupię już na pewno.
+
+01:37:18.720 --> 01:37:20.720
+O, na całe szczęście.
+
+01:37:20.720 --> 01:37:22.720
+Serdecznie dziękuję panowie za zaproszenie.
+
+01:37:22.720 --> 01:37:24.720
+Bardzo mi miło być w tak zacnym
+
+01:37:24.720 --> 01:37:26.720
+towarzystwie filozofów. Naprawdę cieszę się,
+
+01:37:26.720 --> 01:37:28.720
+że takie filozoficzne dysputy
+
+01:37:28.720 --> 01:37:30.720
+prowadziliśmy i mam nadzieję, że do zobaczenia.
+
+01:37:30.720 --> 01:37:32.720
+Najbardziej.
+
+01:37:32.720 --> 01:37:34.720
+Oczywiście, że tak. Trzymajcie się
+
+01:37:34.720 --> 01:37:36.720
+i papa.
+
+01:37:36.720 --> 01:37:38.720
+I widzimy się w czwartek.
+
+01:37:38.720 --> 01:37:40.720
+Papa. Siema, Neiro.
+

@@ -1,0 +1,5104 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:08.400
+Dzień dobry, witamy Państwa bardzo, bardzo serdecznie w podcaście Rock i Borys, poniedziałkowym podcaście. Dzień dobry Państwu, dzień dobry Borysu.
+
+00:00:08.400 --> 00:00:11.400
+Dzień dobry Państwu, dzień dobry Remigiuszu.
+
+00:00:11.400 --> 00:00:13.400
+Jak tam samopoczucie?
+
+00:00:13.400 --> 00:00:20.400
+Czuję, mam jakieś déjà vu, jakbyś mi się już pytał o to.
+
+00:00:20.400 --> 00:00:22.400
+Ale odpowiedz jeszcze raz, żeby Państwo też doświadczyli.
+
+00:00:22.400 --> 00:00:24.400
+Bardzo źle.
+
+00:00:24.400 --> 00:00:26.400
+Cudownie, opowiadaj.
+
+00:00:26.400 --> 00:00:34.400
+Ta moja historia może Cię zaskoczyć, więc uważaj.
+
+00:00:34.400 --> 00:00:41.400
+Jeszcze Państwa Borys powiedział, że mamy déjà vu, bo ja niestety nie wcisnąłem gozika nagrywania w odpowiednim miejscu i musimy powtórzyć ten wstępik.
+
+00:00:41.400 --> 00:00:45.400
+Na szczęście dużo historii nie było, więc tak będziemy w jeden do jednego.
+
+00:00:45.400 --> 00:00:48.400
+Jak nie było, moje całe były.
+
+00:00:48.400 --> 00:00:51.400
+Ale to jeszcze raz możesz powiedzieć, to może będzie lepsza za drugim razem.
+
+00:00:51.400 --> 00:00:59.400
+Nie, nie będzie, to już nie będzie lepsza, to był mój max wtedy.
+
+00:00:59.400 --> 00:01:09.400
+Historia jest taka, że zaplanowałem sobie intensywny montaż od czwartku do dzisiaj i odpalam sobie w czwartek rano projekt,
+
+00:01:09.400 --> 00:01:15.400
+da tam wszystko rozpieprzone, pliki się nie zgadzają, synchronizacja w niektórych plikach się nie zgadza,
+
+00:01:15.400 --> 00:01:23.400
+to już jakiś kocioł straszliwy i masakra, więc myślałem, że to coś z tą lokalną kopią się dzieje,
+
+00:01:23.400 --> 00:01:32.400
+więc zgrałem Baka, bo okazało się, że to raczej problem jest Adobe Premiera i tego w jaki sposób interpretuje pliki.
+
+00:01:32.400 --> 00:01:40.400
+Bo w projekcie mam pliki o tej samej nazwie, one są oczywiście o różnej długości, różnej dacie i wielkości,
+
+00:01:40.400 --> 00:01:48.400
+więc powinien sobie to sprawnie zinterpretować, ale niestety Adobe Premier, jak to premierzy mają w zwyczaju,
+
+00:01:48.400 --> 00:01:53.400
+jest nieogarnięty i po prostu zrobił sobie tak, jak zrobił.
+
+00:01:53.400 --> 00:02:02.400
+Ja musiałem ręcznie znaleźć te pliki, zmienić im nazwy starym plikom z OBSa, przekodować je, żeby on je dobrze interpretował,
+
+00:02:02.400 --> 00:02:11.400
+więc było strasznie dużo roboty. Zgrywanie tego, ja tylko powiem tak, że jako że backup mam na HDD,
+
+00:02:11.400 --> 00:02:17.400
+to zgrywanie tego z weryfikacją to jest chyba z pięć godzin. Takie po prostu, że jest komputer wyłączony,
+
+00:02:17.400 --> 00:02:27.400
+nic nie można nim robić i cztery dni mi to zajęło, znaczy właściwie trzy, bo to wczoraj w nocy już było tak,
+
+00:02:27.400 --> 00:02:37.400
+że już działało, a najciekawsze jest to, że ostatni eksport projektu, bo jak eksportujesz projekt,
+
+00:02:37.400 --> 00:02:48.400
+to on kopiuje Ci tylko te pliki, które używasz, ale ich nie zmienia, nie ma renderingu, nie zmienia się jakości,
+
+00:02:48.400 --> 00:02:58.400
+po prostu są kopiowane. Dzięki temu możesz z projektu, który miał mój tam jakieś sześć terabajtów chyba,
+
+00:02:58.400 --> 00:03:06.400
+no to w tym momencie zajmuje tam półtora tera, więc ja mogę go z SSD sobie montować bez problemu,
+
+00:03:06.400 --> 00:03:13.400
+bo mam dwuterabajtowe SSD takie zewnętrzne, to jakby bardzo mocno przyspiesza pracę.
+
+00:03:13.400 --> 00:03:23.400
+Ostatni etap to był taki, że z HDD podpiętego do Maca musiałem zrobić eksport tego projektu na SSD,
+
+00:03:23.400 --> 00:03:33.400
+a ja mam Maca Era i tam jest bardzo małe to SSD, bo jestem biedakiem, więc do jednego portu USB podpiąłem dysk,
+
+00:03:33.400 --> 00:03:42.400
+do drugiego ten drugi dysk i ja tam nie ma trzeciego portu i po prostu przeszukałem cały dom i nie znalazłem przejściówki.
+
+00:03:42.400 --> 00:03:52.400
+Ja mam dwie takie przejściówki na USB-C i szlak mnie trafił i mówię okej, mam 100% baterii, to było wczoraj, w sobotę,
+
+00:03:52.400 --> 00:04:03.400
+odpalę to, a to jest premier, to jest jakby wiesz, to długo trwa, bo to na PC-cie trwa 5-6 godzin i to takie jest,
+
+00:04:03.400 --> 00:04:14.400
+widać, że tam jest zaangażowana i pamięć i procek dosyć mocno w to, więc mówię sprawdzę, dobra, jasność na minimum,
+
+00:04:14.400 --> 00:04:24.400
+zostawiłem to i poszedłem na miasto w sobotę i udało się, jak wróciłem, to było już zrobione, tam zostały chyba z 5% baterii,
+
+00:04:24.400 --> 00:04:33.400
+ale udało się po prostu coś takiego na baterii, na Macu zrobić, to jest, znaczy to rzeczywiście trzeba przyznać, że z baterii,
+
+00:04:33.400 --> 00:04:40.400
+z tego komputera jestem na maksa zadowolony, muszę przyznać, a właśnie w sobotę byłem na piwie z Kamilem Kulą,
+
+00:04:40.400 --> 00:04:51.400
+pozdrawiam bardzo serdecznie, Kamil jest aktorem i też aktorem głosowym, możecie go znać z takiej małej roli, czyli grał V w Cyberpunku.
+
+00:04:51.400 --> 00:04:55.400
+Tak jest, to bardzo, bardzo pamiętna rola i bardzo przyjemnie się z polskim głosem grał.
+
+00:04:55.400 --> 00:04:58.400
+Jak gadaliśmy to miałem mindfuck w ogóle, wiesz.
+
+00:04:58.400 --> 00:05:04.400
+On opowiadał mi kiedyś, że jak sam grał w Cyberpunka to miał dopiero mindfuck, bo wszystko słyszy ze swoim głosem,
+
+00:05:04.400 --> 00:05:08.400
+ale mówi, że poziom imersji stał na bardzo wysokim poziomie dzięki temu.
+
+00:05:08.400 --> 00:05:14.400
+Ja bardzo żałuję, że nie mogłem pójść na to spotkanie, bo też Kamil mi dawał znać parę dni temu i na początku powiedziałem,
+
+00:05:14.400 --> 00:05:21.400
+że z wielką przyjemnością pójdę, a potem sobie przypomniałem, że jestem z rodziną umówiony na wyjazd w góry,
+
+00:05:21.400 --> 00:05:26.400
+więc ten wyjazd w góry wygrał, tym bardziej, że był opłacony już i tak częściowo państwo go opłacili,
+
+00:05:26.400 --> 00:05:31.400
+bo premier Mateusz mi podarował bon rodzinny turystyczny w wysokości tysiąca złotych.
+
+00:05:31.400 --> 00:05:34.400
+Za nasze pieniądze chciałem przypomnieć, nie za premierowe.
+
+00:05:34.400 --> 00:05:42.400
+No za państwa pieniądze pojechałem, ale państwo też mogą pojechać za moje, bo to chyba każdego obowiązuje, co ma dzieci.
+
+00:05:42.400 --> 00:05:44.400
+Nie mogę. No trzeba mieć dzieci.
+
+00:05:44.400 --> 00:05:49.400
+Co to za deal dla mnie? Płacę na to, a nic nie zostaje z tego.
+
+00:05:49.400 --> 00:05:57.400
+Chciałem powiedzieć, a propos jak powiedzieli, że premierzy są nieogarnięci, to przypomniały mi się dwie historie.
+
+00:05:57.400 --> 00:06:03.400
+Pierwsza jest taka, że, ale to chyba kanclerza Austrii dotyczy, podał się do dymisji, bo go oskarżyli o korupcję.
+
+00:06:03.400 --> 00:06:07.400
+To w ogóle niebywała historia, że się podał do dymisji.
+
+00:06:07.400 --> 00:06:12.400
+Dymisja, ci politycy w ogóle nie dzisiejsi są w tej Austrii, że tylko go oskarżyli.
+
+00:06:12.400 --> 00:06:19.400
+On się tak podaje od razu. U nas to są tak czasami niezaprzeczalnie winni różnych wpadek i w zasadzie nic się nie dzieje wielkiego
+
+00:06:19.400 --> 00:06:23.400
+i nie mają jakichś skrupułów wielkich, więc zdecydowanie Austria jest zacofana.
+
+00:06:23.400 --> 00:06:29.400
+Już nie przestrzega tych nowych politycznych standardów, a zdaje się, że premier Czech to chyba w szpitalu wylądował,
+
+00:06:29.400 --> 00:06:32.400
+bo jakieś tam straszne stresy związane z wyborami są.
+
+00:06:32.400 --> 00:06:38.400
+Takie, proszę państwa, opowiastki o premierach różnych państw.
+
+00:06:38.400 --> 00:06:40.400
+No, ale a propos...
+
+00:06:40.400 --> 00:06:41.400
+Premier Czech?
+
+00:06:41.400 --> 00:06:48.400
+Wydaje mi się, że to premier Czech, a może się mylę, może naciągam, żeby historia była bardziej spójna.
+
+00:06:48.400 --> 00:06:52.400
+Możesz to sprawdzić, a ja państwu w tym czasie opowiem o swoim wyjeździe w góry,
+
+00:06:52.400 --> 00:07:00.400
+bo taki był trzydniowy, w zasadzie jednodniowy, żeśmy postanowili z żoną się właśnie odpocząć
+
+00:07:00.400 --> 00:07:03.400
+poprzez zmęczenie takie fizyczne i daliśmy sobie mocno w kość.
+
+00:07:03.400 --> 00:07:09.400
+Byliśmy w Szklarskiej Porębie, przyjemne dni, wiele kilometrów tam przełaziłem.
+
+00:07:09.400 --> 00:07:10.400
+Prezydent Czech.
+
+00:07:10.400 --> 00:07:13.400
+A, prezydent Czech, no to tak.
+
+00:07:13.400 --> 00:07:20.400
+Babiš to miał ostatnią aferę, że tam mu powyciągali, ale jako, że jeszcze nie skończyły się wybory w Czechach,
+
+00:07:20.400 --> 00:07:23.400
+to nie wiemy, czy tam wygrali, nie wygrali.
+
+00:07:23.400 --> 00:07:27.400
+Aha, ale nie podał się do dymisji jeszcze na razie?
+
+00:07:27.400 --> 00:07:33.400
+Nie, no to bliżej naszych standardów politycznych co najwyraźniej w Czechach, nie wiem jak tam w Czechach.
+
+00:07:33.400 --> 00:07:39.400
+No, ale ten wyjazd dał mi trochę w kość i zgubiliśmy się gdzieś tam po drodze na szlaku,
+
+00:07:39.400 --> 00:07:43.400
+musiałem jakieś dodatkowe kilometry robić, ale to tylko i wyłącznie na zdrowie,
+
+00:07:43.400 --> 00:07:47.400
+więc dobrze będę to wspominał i może trochę ze śmiechem.
+
+00:07:47.400 --> 00:07:53.400
+Natomiast chciałem powiedzieć trochę o miejscu, w którym byłem, nie nazywając go tak dokładnie,
+
+00:07:53.400 --> 00:07:59.400
+nie pamiętam za bardzo, natomiast to było takie super, chciałem powiedzieć super bogate i wypasione,
+
+00:07:59.400 --> 00:08:03.400
+ale to różne są standardy i każdy inaczej na to patrzy,
+
+00:08:03.400 --> 00:08:07.400
+ale gdyby nie wsparcie premiera Mateusza, to byśmy raczej nie pojechali w takie miejsce,
+
+00:08:07.400 --> 00:08:15.400
+bo tam były takie ceny, że za obiad o kolację dla trzech osób 200, 270 zł.
+
+00:08:15.400 --> 00:08:25.400
+Co? Dla trzech osób obiad o kolacja 270 zł?
+
+00:08:25.400 --> 00:08:27.400
+90 zł od głowy.
+
+00:08:27.400 --> 00:08:29.400
+To jest dużo?
+
+00:08:29.400 --> 00:08:34.400
+Nie wiem, wydaje mi się dużo. Proszę Państwa, Borys jest odklejony.
+
+00:08:34.400 --> 00:08:38.400
+Ja jestem odklejony? Ty widziałeś, jakie są ceny w restauracjach teraz?
+
+00:08:38.400 --> 00:08:43.400
+Ja już tutaj się żaliłem wielokrotnie, no ale to nawet jak zamawiasz jakieś jedzenie,
+
+00:08:43.400 --> 00:08:50.400
+to przecież ostatnio gdzieś zamówiłem Pad Thai'a, to zapłaciłem 40 zł za porcję,
+
+00:08:50.400 --> 00:08:58.400
+a to jest jakaś taka knajpa zwykła, bez szału, a przecież tak, żebym w garstkę to zmieścił.
+
+00:08:58.400 --> 00:09:00.400
+Aha, no to wiesz co, Andrzej?
+
+00:09:00.400 --> 00:09:09.400
+Ale nie, no ja czasami zamawiam jakieś jedzenie, to ceny w restauracjach poszły mega do góry.
+
+00:09:09.400 --> 00:09:18.400
+Ostatnio byliśmy na kolacji z żoną, piliśmy sobie po pizzy 140 zł.
+
+00:09:18.400 --> 00:09:19.400
+Co ty mówisz?
+
+00:09:19.400 --> 00:09:29.400
+Ale tam siedzieliśmy ze znajomymi, tam z dwa piwa, czy trzy, jakieś tam na głowę poszły, ale no to...
+
+00:09:29.400 --> 00:09:37.400
+Ja mam takie przedpandemiczne wspomnienia najwyraźniej, bo tam za 150 zł to można było zjeść tak grubo
+
+00:09:37.400 --> 00:09:43.400
+z całą rodziną i wszyscy byli szczęśliwi i nakarmieni. No dobrze, to może źle.
+
+00:09:43.400 --> 00:09:48.400
+Jeżeli masz hotel jakiś ekskluzywny, no to tam te ceny masz standardowo.
+
+00:09:48.400 --> 00:09:56.400
+Ja pamiętam, jak się przeprowadziłem do Wrocławia, to obiad to było na Manhattanie,
+
+00:09:56.400 --> 00:10:00.400
+była taka stołówka, za 2,50 jedliśmy.
+
+00:10:00.400 --> 00:10:02.400
+No, no tak.
+
+00:10:02.400 --> 00:10:11.400
+I jeszcze to było tak, że to były mielone, ziemniaki, surówka i mała Coca-Cola za 2,50.
+
+00:10:11.400 --> 00:10:16.400
+No to tak jak na hot dogi w WK i też nadal można tanie o sobie tam coś zjeść.
+
+00:10:16.400 --> 00:10:22.400
+Ale to mi przypomniało, że mam dosyć blisko domu taką restaurację, która nazywa się Pobite Gary
+
+00:10:22.400 --> 00:10:28.400
+i oni tam za 90 zł, jak zamawiamy posiłek dla trzech osób, to jest tego tak dużo,
+
+00:10:28.400 --> 00:10:33.400
+że dzielimy, że czwarty jeszcze na następny dzień ktoś ma, może sobie zjeść, więc bardzo dużo jedzenia.
+
+00:10:33.400 --> 00:10:38.400
+Tam też bardzo popularny zresztą jest ta knajpa. No, ale wracając do tych moich historii,
+
+00:10:38.400 --> 00:10:42.400
+mimo tej całej ekskluzywności i tych być może teoretycznie tylko wysokich cen,
+
+00:10:42.400 --> 00:10:46.400
+to bardzo dużo ludzi tam było. To jest taki ośrodek, taka masówka totalna
+
+00:10:46.400 --> 00:10:52.400
+i świetne wnętrza, świetna obsługa i bardzo dobre jest to jedzenie i w ogóle super to wszystko jest tam zorganizowane.
+
+00:10:52.400 --> 00:10:56.400
+Ale ilość ludzi, którzy tam są przyjmowani, jest jakaś zatrważająca.
+
+00:10:56.400 --> 00:11:00.400
+Ja miałem takie wrażenie, jakbym był w supermarkecie na wczasach.
+
+00:11:00.400 --> 00:11:05.400
+I ta ekskluzywność tak trochę jakby, tej ekskluzywności przecież,
+
+00:11:05.400 --> 00:11:11.400
+ta obecność tylu osób, bo oczywiście towarzystwo innych ludzi na wyjeździe jest rzeczą miłą,
+
+00:11:11.400 --> 00:11:17.400
+ale kiedy w pewnym momencie zostanie przekroczony poziom przesady, to trochę przeszkadza.
+
+00:11:17.400 --> 00:11:21.400
+Więc mimo tego, że taka ekskluzywność, to przede wszystkim to ciekawe było,
+
+00:11:21.400 --> 00:11:24.400
+że tak dużo osób jeździ do takich superekskluzywnych miejsc,
+
+00:11:24.400 --> 00:11:28.400
+ale one nie są takie superekskluzywne, może ja przesadzam, może to jest inaczej.
+
+00:11:28.400 --> 00:11:32.400
+No ale to jeszcze sięgając po starych historiach, jakbyśmy na wakacjach...
+
+00:11:32.400 --> 00:11:37.400
+A może nie jest tak, że każdy Polak, ja bym myślał, że każdy Polak jak pracuje,
+
+00:11:37.400 --> 00:11:44.400
+no to max 3 tysiące zarabia, nie? Patrząc po komentarzach, jak my mówiliśmy o naszych wakacjach.
+
+00:11:44.400 --> 00:11:51.400
+No przecież, nie wiem, jak ktoś jest programistą, to raczej mniej niż 10 nie zarabia, jak jest ogarnięty.
+
+00:11:51.400 --> 00:11:57.400
+Każdy dostrzega swoją rzeczywistość i to też o tym wcześniej wspominałem,
+
+00:11:57.400 --> 00:12:03.400
+że kiedy żeśmy opowiadali o tym wyjeździe wakacyjnym, to parę razy żeśmy użyli takiego
+
+00:12:03.400 --> 00:12:07.400
+hanibnego stwierdzenia, że to nie aż tak drogo, no i tam żeśmy, parę było takich głosów,
+
+00:12:07.400 --> 00:12:10.400
+że jak to nie tak drogo, że nie wiecie w ogóle, jak świat wygląda.
+
+00:12:10.400 --> 00:12:13.400
+No trochę wiemy, jak świat wygląda, bo oprócz tego, że żyjemy w tym świecie,
+
+00:12:13.400 --> 00:12:16.400
+to jeszcze też mamy dostęp do informacji różnych zewnętrznych,
+
+00:12:16.400 --> 00:12:21.400
+ale to zawsze można tak powiedzieć, choćbyś, nie wiem, jak tanio pojechał na wakacje,
+
+00:12:21.400 --> 00:12:24.400
+to zaraz się znajdzie ktoś, kto powie, jak ty w ogóle mówisz, tanio,
+
+00:12:24.400 --> 00:12:27.400
+tysiąc złotych za trzy tygodnie, stary, zobacz, co się w Etiopii dzieje.
+
+00:12:27.400 --> 00:12:30.400
+Więc zawsze jest ten poziom niżej, do którego można się odnieść i można powiedzieć,
+
+00:12:30.400 --> 00:12:35.400
+że ktoś tam ma gorzej i ma trudniej, ale w obliczu tego, co widziałem w tym hotelu,
+
+00:12:35.400 --> 00:12:40.400
+takie masy ludzi z takimi super drogimi samochodami i tam funkcjonującym…
+
+00:12:40.400 --> 00:12:43.400
+Kody, Toyoty, nie?
+
+00:12:43.400 --> 00:12:49.400
+Nie, nie, nie, jakieś Mercedesy, Audi, jakieś BMW, tam stoją dużo takich naprawdę drogich samochodów,
+
+00:12:49.400 --> 00:12:54.400
+więc można powiedzieć, że ta klasa średnia w Polsce, przynajmniej jakby w jakiejś tam części
+
+00:12:54.400 --> 00:12:59.400
+i bardzo wyraźnie widocznej w tym akurat konkretnym hotelu, sobie radzi nie najgorzej.
+
+00:12:59.400 --> 00:13:04.400
+Więc różne są standardy, nie? Ktoś mógłby napisać w odniesieniu do naszej historii,
+
+00:13:04.400 --> 00:13:10.400
+że ten hotel był tani, że on dużo droższych jeździ i też pewnie miałby dużo racji.
+
+00:13:10.400 --> 00:13:13.400
+Więc punkt widzenia się zmienia bardzo mocno, nie ma się co.
+
+00:13:13.400 --> 00:13:18.400
+Bardzo się zmienia, a też zmienia się to, co się, znaczy w ogóle ceny się zmieniają, więc…
+
+00:13:18.400 --> 00:13:20.400
+No, no, to z dnia na dzień się dzieje.
+
+00:13:20.400 --> 00:13:26.400
+To jest masakra, to co się w restauracjach dzieje, to mnie trochę przeraża,
+
+00:13:26.400 --> 00:13:31.400
+ale tak w ogóle jakby ceny wszystkiego praktycznie rosną.
+
+00:13:31.400 --> 00:13:35.400
+Słyszałem, że od wtorku ma wzrosnąć benzyna jakoś mocno.
+
+00:13:35.400 --> 00:13:39.400
+Tak, a to już nie jest na wysokim poziomie, już się do 6 złotych zbliżamy powolutku.
+
+00:13:39.400 --> 00:13:44.400
+Jeszcze nie, jeszcze nie, jeszcze nie, jeszcze prąd będzie jakby, wszystko będzie dobrze.
+
+00:13:44.400 --> 00:13:47.400
+Nie, no ale wiesz, to tam zdaje się, że jakiś minister powiedział,
+
+00:13:47.400 --> 00:13:50.400
+że mamy tyle kasy w naszym kraju, że to my możemy rozdawać innym,
+
+00:13:50.400 --> 00:13:53.400
+więc tam Unia może nam naskoczyć.
+
+00:13:53.400 --> 00:13:55.400
+Ale nie jestem do końca pewny, bo to…
+
+00:13:55.400 --> 00:14:02.400
+Ja nie wiem, co ma Unia do cen benzyny, jedzenia i prądu, ale myślę, że…
+
+00:14:02.400 --> 00:14:06.400
+Właściwie chyba nic nie mają, no ale skoro mamy tyle pieniędzy,
+
+00:14:06.400 --> 00:14:09.400
+to może takie podwyżki nie są aż tak superkoniecznie potrzebne.
+
+00:14:09.400 --> 00:14:11.400
+Ja bym nie miał nic przeciwko temu, gdyby podatki były mniejsze,
+
+00:14:11.400 --> 00:14:13.400
+jak już jesteśmy tacy bogaci.
+
+00:14:13.400 --> 00:14:16.400
+Zamiast rozdawać wszystkim dookoła, w sensie innym krajom,
+
+00:14:16.400 --> 00:14:19.400
+to moglibyśmy z podatków zejść trochę.
+
+00:14:19.400 --> 00:14:24.400
+Ja widziałem ostatnio, że dla emerytów to jest dobre, że jedzenie drożeje,
+
+00:14:24.400 --> 00:14:27.400
+bo nie muszą tyle taszczyć do domu za tą samą kwotę.
+
+00:14:27.400 --> 00:14:31.400
+To jest ta troska taka, to ja bym bardzo chciał, żeby książki do szkoły podrożały w ten sposób,
+
+00:14:31.400 --> 00:14:33.400
+bo mój syn dźwiga straszne ciężary.
+
+00:14:33.400 --> 00:14:37.400
+Może na Orlenie te instrybutory szybciej nalewają,
+
+00:14:37.400 --> 00:14:43.400
+no bo kiedyś za stówkę to się tyle czekało, a teraz raz, dwa, jakby, no wiesz.
+
+00:14:43.400 --> 00:14:47.400
+No nie, znaczy mnie to trochę przeraża, muszę przyznać.
+
+00:14:47.400 --> 00:14:51.400
+Nie, no wiadomo, że to jest trochę ironii w tych naszych opowieściach o ocenach.
+
+00:14:51.400 --> 00:14:53.400
+Myślę, że sporo, tak.
+
+00:14:53.400 --> 00:14:57.400
+Tak, tak. No dobrze, a jeszcze jedną rzecz chciałem opowiedzieć,
+
+00:14:57.400 --> 00:14:59.400
+a właśnie, żeśmy ostatnio rozmawiali o Facebooku,
+
+00:14:59.400 --> 00:15:04.400
+że miał awarię i to była ciekawa rozmowa, moim zdaniem.
+
+00:15:04.400 --> 00:15:08.400
+Natomiast wydaje się, że Facebook jeszcze sobie nie poradził z tymi problemami.
+
+00:15:08.400 --> 00:15:13.400
+Parę takich do mnie wiadomości dotarło, że nie wszyscy mają nadal dostęp do Facebooka
+
+00:15:13.400 --> 00:15:16.400
+i się czasami zdarzają jakieś upadki w różnych miejscach na świecie.
+
+00:15:16.400 --> 00:15:21.400
+Ja też nie testowałem jakoś tego super, ale mam wrażenie, że działa dosyć dobrze na razie Facebook,
+
+00:15:21.400 --> 00:15:25.400
+ale wygląda na to, że cały czas się nadal ta wielka instytucja podnosi
+
+00:15:25.400 --> 00:15:28.400
+po tym zawale, który się odbył tam w zeszłym tygodniu.
+
+00:15:28.400 --> 00:15:30.400
+Więc obserwujmy, proszę Państwa.
+
+00:15:30.400 --> 00:15:34.400
+Coraz więcej ludzi zdaje sobie sprawę, że to w ogóle też dużo dyskusji się pojawiło
+
+00:15:34.400 --> 00:15:37.400
+na temat uzależnienia od Facebooka w obliczu tego wszystkiego,
+
+00:15:37.400 --> 00:15:42.400
+bo nagle temat się zmienił i ludzie patrzą, może musieli wejrzeć trochę głębiej w siebie
+
+00:15:42.400 --> 00:15:45.400
+i się przekonać, że jednak są uzależnieni.
+
+00:15:45.400 --> 00:15:49.400
+Oczywiście nie u nas w komentarzach, bo u nas w komentarzach to pada takie głosy,
+
+00:15:49.400 --> 00:15:53.400
+że ja nawet nie zauważyłem, czy coś jest ze mną nie tak, że nie zauważyłem, że Facebook.
+
+00:15:53.400 --> 00:15:58.400
+Nie no nic, wszystko z Tobą w porządku, nawet jesteś bohaterem wręcz.
+
+00:15:58.400 --> 00:16:01.400
+Jaki jesteś poza tym trendem.
+
+00:16:01.400 --> 00:16:06.400
+To jest jakby, pamiętaj, ludzie bez Facebooka najczęściej komentują na YouTubie.
+
+00:16:06.400 --> 00:16:08.400
+Na Facebooku.
+
+00:16:08.400 --> 00:16:12.400
+Właśnie zauważyłem, kilka było takich komentarzy też na Facebooku.
+
+00:16:12.400 --> 00:16:14.400
+Nie korzystam.
+
+00:16:14.400 --> 00:16:17.400
+No to jest narzędzie, z którego ludzie korzystają.
+
+00:16:17.400 --> 00:16:22.400
+No ale się dzieją tam rzeczy wokół tego ciekawe, zobaczymy jak to pójdzie dalej.
+
+00:16:22.400 --> 00:16:27.400
+Ale dzisiaj proszę Państwa, mimo wstępu, który mógł być, myślę, że był w porządku,
+
+00:16:27.400 --> 00:16:33.400
+był dosyć długi także, więc pogadamy sobie o Far Cry'u numer 6
+
+00:16:33.400 --> 00:16:37.400
+i zobaczymy, co z tego wyniknie.
+
+00:16:37.400 --> 00:16:43.400
+No właśnie, też mamy ciekawe doświadczenia, ponieważ ja grywałem na Xboksie Series X,
+
+00:16:43.400 --> 00:16:46.400
+a Remigiusz na PC Master Race.
+
+00:16:46.400 --> 00:16:48.400
+Czy to prawda?
+
+00:16:48.400 --> 00:16:50.400
+Tak, to prawda, to prawda.
+
+00:16:50.400 --> 00:16:52.400
+A ty mówisz mi, że masz tam dwadzieścia parę godzin?
+
+00:16:52.400 --> 00:16:54.400
+Dwadzieścia sześć godzin mam.
+
+00:16:54.400 --> 00:16:59.400
+Ja bym się chętnie pochwalił podobnym wynikiem, bo podejrzewam, że gdzieś tam w okolicach dwudziestu godzin mam,
+
+00:16:59.400 --> 00:17:03.400
+natomiast z jakiegoś powodu, albo ja mam wersję jakąś taką inną,
+
+00:17:03.400 --> 00:17:08.400
+mój Uplay pokazuje mi 3 godziny 53 minuty, co nie ma nic wspólnego z rzeczywistością.
+
+00:17:08.400 --> 00:17:10.400
+Grałem dużo, dużo więcej.
+
+00:17:10.400 --> 00:17:14.400
+Tak mówię na wszelki wypadek, bo ktoś mnie potem sprawdzi i powie, że ja się wypowiadam na temat gry,
+
+00:17:14.400 --> 00:17:16.400
+przy której nie spędziłem należycie dużo godzin.
+
+00:17:16.400 --> 00:17:18.400
+Nie jest to prawda, spędziłem bardzo dużo godzin,
+
+00:17:18.400 --> 00:17:22.400
+ale jeszcze daleki jestem od zakończenia, bowiem jest to gra rozległa.
+
+00:17:22.400 --> 00:17:26.400
+A to z Uplay jeszcze działa, czy teraz jest jakiś Ubisoft Connect?
+
+00:17:26.400 --> 00:17:29.400
+Być może to się nazywa Ubisoft Connect, ja tak z przyzwyczajenia mówię.
+
+00:17:29.400 --> 00:17:32.400
+O tym też będziemy rozmawiać, dlaczego ludzie kochają.
+
+00:17:32.400 --> 00:17:35.400
+Dzisiaj porozmawiamy sobie o samej grze, o naszych wrażeniach.
+
+00:17:35.400 --> 00:17:43.400
+Porozmawiamy sobie też o tym, czy gry muszą zawsze być rewolucyjne,
+
+00:17:43.400 --> 00:17:46.400
+czy nam smakuje taki fast food gamingowy
+
+00:17:46.400 --> 00:17:53.400
+i porozmawiamy sobie, dlaczego Ubisoft nie jest najbardziej lubianą firmą przez graczy.
+
+00:17:53.400 --> 00:17:55.400
+Ale zacznijmy sobie od Far Cry'a.
+
+00:17:55.400 --> 00:18:00.400
+Proszę Państwa, Far Cry to już szósta, oczywiście to nie jest szósta odsłona.
+
+00:18:00.400 --> 00:18:03.400
+To jest jakby, jeszcze był Primal, tak?
+
+00:18:03.400 --> 00:18:07.400
+Tak, tak, tak. Ja powiedziałem numer sześć, bo on faktycznie jest numerem sześć,
+
+00:18:07.400 --> 00:18:09.400
+ale jest numer sześć, ale tam było więcej.
+
+00:18:09.400 --> 00:18:16.400
+Ja grałem chyba we wszystkie, oprócz tego takiego DLC osobnego, co było do piątki.
+
+00:18:16.400 --> 00:18:18.400
+No to w to nie grałem rzeczywiście.
+
+00:18:18.400 --> 00:18:20.400
+Bardzo dobry wybór to był.
+
+00:18:20.400 --> 00:18:22.400
+New Dawn, mówisz o New Dawn.
+
+00:18:22.400 --> 00:18:24.400
+New Dawn, tak. To nie pamiętam.
+
+00:18:24.400 --> 00:18:30.400
+Pamiętam jedynkę, jak odpaliłem, to był szok, ponieważ dawno nie widziałem gry,
+
+00:18:30.400 --> 00:18:33.400
+która szła u mnie w trzech klatkach na sekundę.
+
+00:18:33.400 --> 00:18:36.400
+Ale skupmy się na najnowszej odsłonie.
+
+00:18:36.400 --> 00:18:43.400
+Akcja tym razem ponownie dzieje się w tropikach, na tropikalnej fikcyjnej wyspie Yara.
+
+00:18:43.400 --> 00:18:46.400
+Yara jest takim odpowiednikiem Kuby.
+
+00:18:46.400 --> 00:18:52.400
+Wyspą rządzi El Presidente, dyktator, który bardzo dobrze prosperuje,
+
+00:18:52.400 --> 00:18:54.400
+ponieważ odkryto tam lek na raka.
+
+00:18:54.400 --> 00:18:59.400
+Niestety proces produkcji powoduje, że pracownicy, którzy przy tym pracują,
+
+00:18:59.400 --> 00:19:03.400
+bo tytoń musi być spryskany taką specjalną substancją,
+
+00:19:03.400 --> 00:19:07.400
+ale ta substancja jest rakotwórcza, więc oni tam po prostu umierają.
+
+00:19:07.400 --> 00:19:09.400
+Nie ma wielu chętnych do pracy.
+
+00:19:09.400 --> 00:19:14.400
+Władza więc wykorzystuje przestępców i więźniów politycznych do pracy na tych plantacjach,
+
+00:19:14.400 --> 00:19:18.400
+ale oni się szybko kończą, więc zostaje ogłoszona loteria,
+
+00:19:18.400 --> 00:19:24.400
+gdzie wygrani będą musieli pracować na tych plantacjach.
+
+00:19:24.400 --> 00:19:28.400
+Nasz bohater postanawia uciec z wyspy do USA.
+
+00:19:28.400 --> 00:19:36.400
+Nie udaje i przez pewien zbieg okoliczności zostaje członkiem ruchu oporu.
+
+00:19:36.400 --> 00:19:43.400
+Ja grywałem na Xboksie i muszę przyznać, to pierwszą rzecz, którą powiem,
+
+00:19:43.400 --> 00:19:49.400
+że bardzo mi się podobała jak ta gra chodzi i jak wygląda.
+
+00:19:49.400 --> 00:19:58.400
+4K, widziałem na testach, że trochę takie dynamiczne to 4K,
+
+00:19:58.400 --> 00:20:02.400
+ale w większości czasu trzyma 60 klatek na sekundę,
+
+00:20:02.400 --> 00:20:07.400
+więc nie mam tutaj żadnych problemów z jakością.
+
+00:20:07.400 --> 00:20:14.400
+Nawet trochę byłem w szoku, że na sprzęcie za 200, 300, 400,
+
+00:20:14.400 --> 00:20:20.400
+ta gra tak chodzi i dobrze.
+
+00:20:20.400 --> 00:20:30.400
+Tak się trochę oswajam z tym Xboksem, ale jako, że PC miałem zajętego cały czas,
+
+00:20:30.400 --> 00:20:35.400
+to to dla mnie super opcja. Jak wrażenia w ogóle twoje z gry?
+
+00:20:35.400 --> 00:20:39.400
+Ja zacznę od tego, czym ty zakończyłeś.
+
+00:20:39.400 --> 00:20:41.400
+U mnie ta gra też dobrze chodzi.
+
+00:20:41.400 --> 00:20:45.400
+Ja nie wiem, czy ja tu jestem dobrym miernikiem tego, jak to zostało wykonane na PC,
+
+00:20:45.400 --> 00:20:47.400
+bo ja mam jednak tego RTX-a 3080.
+
+00:20:47.400 --> 00:20:50.400
+To jest karta, która pozwala na wiele i wybacza także wiele,
+
+00:20:50.400 --> 00:20:53.400
+więc u mnie to chodzi bez żadnych zastrzeżenia.
+
+00:20:53.400 --> 00:20:55.400
+Nieraz mi się gra nie wywaliła.
+
+00:20:55.400 --> 00:20:59.400
+Gram, zdaje się, w 100 klatkach i śmiga jak burza 21 na 9.
+
+00:20:59.400 --> 00:21:04.400
+Jedyny problem mam z grafiką taki, że cutscenki są zawsze zrealizowane w 16 na 9,
+
+00:21:04.400 --> 00:21:07.400
+na silniku gry nawet jak są, a jak są zrobione w postaci filmowej,
+
+00:21:07.400 --> 00:21:11.400
+bo też jest parę takich plików filmowych, to są zrobione co prawda 21 na 9,
+
+00:21:11.400 --> 00:21:16.400
+ale wyrenderowane w 16 na 9, więc mam cztery pasy z każdej możliwej strony.
+
+00:21:16.400 --> 00:21:21.400
+To jest trochę zadziwiające, że twórcy gry nie potrafią ogarnąć tego,
+
+00:21:21.400 --> 00:21:23.400
+skoro i tak robią filmy w 21 na 9.
+
+00:21:23.400 --> 00:21:28.400
+No ale pal licho. To nie jest do końca najważniejsze.
+
+00:21:28.400 --> 00:21:31.400
+Far Cry 6 zdecydowanie nie jest grą dla mnie.
+
+00:21:31.400 --> 00:21:34.400
+To jest taka produkcja, która została totalnie odarta z tych elementów RPG,
+
+00:21:34.400 --> 00:21:38.400
+które ja uwielbiam, mimo że poprzednie były takie bardzo, w cudzysłowie,
+
+00:21:38.400 --> 00:21:41.400
+te elementy to jednak możliwość wydawania jakichś punkcików,
+
+00:21:41.400 --> 00:21:43.400
+co jakiś czas sprawiała mi frajdę.
+
+00:21:43.400 --> 00:21:46.400
+Tutaj tego nie ma, ale gram sobie z pewną przyjemnością.
+
+00:21:46.400 --> 00:21:49.400
+To ładnie wygląda, historia jest opowiedziana w całkiem zajmujący sposób.
+
+00:21:49.400 --> 00:21:51.400
+Są interesujące postacie.
+
+00:21:51.400 --> 00:21:55.400
+Pomijając te takie dodatkowe elementy przesadne i satyry,
+
+00:21:55.400 --> 00:21:59.400
+bo ja też nie bardzo lubię tego śmieszkowania, które Ubisoft polubił,
+
+00:21:59.400 --> 00:22:02.400
+zwłaszcza w tym Far Cry 6, bo z jednej strony stworzyli świat,
+
+00:22:02.400 --> 00:22:05.400
+który może być wiarygodny i jest ciekawa walka,
+
+00:22:05.400 --> 00:22:07.400
+jest ciekawie pokazana ta rewolucja,
+
+00:22:07.400 --> 00:22:11.400
+ale z drugiej strony te elementy komiczne trochę mnie wywalają z imersji.
+
+00:22:11.400 --> 00:22:12.400
+Ale jest tam dużo.
+
+00:22:12.400 --> 00:22:15.400
+To, co mi sprawia przyjemność, to gameplay.
+
+00:22:15.400 --> 00:22:19.400
+Mam dużo frajdy w odbijaniu posterunków i wykonywaniu questów.
+
+00:22:19.400 --> 00:22:22.400
+Nie mam też takiej silnej potrzeby, żeby siedzieć przy tej grze 3 godziny.
+
+00:22:22.400 --> 00:22:25.400
+Mam potrzebę wpaść na pół godziny, to sobie wpadnę, pogram,
+
+00:22:25.400 --> 00:22:27.400
+mam z tego odrobinę radości.
+
+00:22:27.400 --> 00:22:29.400
+Nie wydaje mi się, żebym ją skończył,
+
+00:22:29.400 --> 00:22:32.400
+natomiast dopóki nie pojawi się coś ciekawszego na rynku z otwartym światem
+
+00:22:32.400 --> 00:22:35.400
+albo jakiś RPG, to będę sobie w to grał po godzinkę, dwie
+
+00:22:35.400 --> 00:22:37.400
+i będę miał z tego dużo frajdy.
+
+00:22:37.400 --> 00:22:41.400
+Więc mam raczej pozytywne wrażenia, ale one wynikają też z tego,
+
+00:22:41.400 --> 00:22:44.400
+że nie miałem przesadnych oczekiwań wobec tej gry.
+
+00:22:44.400 --> 00:22:46.400
+Spodziewałem się pewnej powtórki z rozrywki.
+
+00:22:46.400 --> 00:22:53.400
+Ja tą powtórkę dostałem w odrobinę innej aranżacji i jest okej.
+
+00:22:53.400 --> 00:22:54.400
+Bez rewelacji.
+
+00:22:54.400 --> 00:22:57.400
+Dokładnie to, czego można się było spodziewać po Ubisofcie.
+
+00:22:57.400 --> 00:22:59.400
+Powiem Ci szczerze, ja mam trochę zarzutów do fabuły.
+
+00:22:59.400 --> 00:23:02.400
+To jest bardzo rozciągnięta.
+
+00:23:02.400 --> 00:23:04.400
+Mamy tam wszystkiego za dużo.
+
+00:23:04.400 --> 00:23:06.400
+Za dużo bohaterów, za dużo wątków,
+
+00:23:06.400 --> 00:23:10.400
+za dużo bycia cool na siłę, czy tam jakichś żartów.
+
+00:23:10.400 --> 00:23:13.400
+To jest pewien problem tej gry.
+
+00:23:13.400 --> 00:23:18.400
+Wydaje mi się, że mimo tego, że też przy Valhalla mówiłem,
+
+00:23:18.400 --> 00:23:21.400
+że jest za długa ta gra zdecydowanie,
+
+00:23:21.400 --> 00:23:25.400
+to jednak tam bardziej był skrystalizowany ten wątek fabularny.
+
+00:23:25.400 --> 00:23:28.400
+Przynajmniej takie mam wrażenie.
+
+00:23:28.400 --> 00:23:32.400
+Tutaj ja doszedłem do takiego wniosku,
+
+00:23:32.400 --> 00:23:39.400
+że to rewolucja jest głównym bohaterem.
+
+00:23:39.400 --> 00:23:43.400
+Chyba wcześniej nie gadał w Far Cry'ach nasz bohater,
+
+00:23:43.400 --> 00:23:44.400
+z tego co pamiętam.
+
+00:23:44.400 --> 00:23:45.400
+Zdarzało mu się gadać.
+
+00:23:45.400 --> 00:23:47.400
+Zdarzało mu się gadać w trójce na pewno,
+
+00:23:47.400 --> 00:23:49.400
+natomiast on nigdy nie był pokazany z takiej perspektywy.
+
+00:23:49.400 --> 00:23:52.400
+Tutaj w cutscenkach to jest z perspektywy trzeciej osoby.
+
+00:23:52.400 --> 00:23:53.400
+Ta kamera fajnie pracuje.
+
+00:23:53.400 --> 00:23:55.400
+To moim zdaniem zawsze pozytywnie wygląda na grę.
+
+00:23:55.400 --> 00:23:57.400
+Tak, filmowe cutscenki.
+
+00:23:57.400 --> 00:24:03.400
+I tutaj ta rewolucja jest bardzo dobrze pokazana w takim detalu.
+
+00:24:03.400 --> 00:24:07.400
+Niestety praktycznie co drugi krok jest to trochę niszczone.
+
+00:24:07.400 --> 00:24:12.400
+Z fajnych takich rzeczy mamy te frakcje opozycjonistów.
+
+00:24:12.400 --> 00:24:14.400
+Mamy młodzież, mamy takich normalsów
+
+00:24:14.400 --> 00:24:18.400
+i mamy weteranów z 67 roku.
+
+00:24:18.400 --> 00:24:21.400
+Tutaj ten lek na raka.
+
+00:24:21.400 --> 00:24:27.400
+Ja tak odniosłem wrażenie, że to jest taki odpowiednik ropy.
+
+00:24:27.400 --> 00:24:29.400
+Możemy tak przyjąć.
+
+00:24:29.400 --> 00:24:37.400
+Że jakby traktuje się te kraje dyktatorskie,
+
+00:24:37.400 --> 00:24:39.400
+które mają bardzo dużo ropy
+
+00:24:39.400 --> 00:24:42.400
+i jakoś się dogadały biznesowo.
+
+00:24:42.400 --> 00:24:44.400
+Także to nie ingerujemy tam.
+
+00:24:44.400 --> 00:24:47.400
+To jakby spoko.
+
+00:24:47.400 --> 00:24:52.400
+Oni tam wiedzą, że nie będzie pomocy z zewnątrz raczej.
+
+00:24:52.400 --> 00:24:58.400
+Tam nawet pojawia się takie niechęć do Stanów Zjednoczonych.
+
+00:24:58.400 --> 00:25:05.400
+Znajdujemy takich mieszkańców, którzy chcą mieć spokój.
+
+00:25:05.400 --> 00:25:08.400
+Niestety na przykład te bronie,
+
+00:25:08.400 --> 00:25:12.400
+a przede wszystkim czołg, który możemy szybko zdobyć,
+
+00:25:12.400 --> 00:25:14.400
+zaburza tą wizję.
+
+00:25:14.400 --> 00:25:21.400
+Bo jak mamy czołg, naprawdę łatwo się rozbija te posterunki.
+
+00:25:21.400 --> 00:25:23.400
+Łatwo się walczy.
+
+00:25:23.400 --> 00:25:25.400
+Nie ma wyzwania.
+
+00:25:25.400 --> 00:25:28.400
+W ogóle jest dosyć łatwa ta gra.
+
+00:25:28.400 --> 00:25:32.400
+Ten świat, to że na przykład
+
+00:25:32.400 --> 00:25:35.400
+jak przejeżdżamy normalnym samochodem przez posterunek,
+
+00:25:35.400 --> 00:25:38.400
+to musimy zwolnić do 30.
+
+00:25:38.400 --> 00:25:40.400
+Odpalają się wtedy te znaczniki,
+
+00:25:40.400 --> 00:25:44.400
+te kontrolki tych strażników, którzy na nas patrzą.
+
+00:25:44.400 --> 00:25:48.400
+Jak tam dojdzie ten wskaźnik zainteresowanie,
+
+00:25:48.400 --> 00:25:50.400
+to zaczną strzelać.
+
+00:25:50.400 --> 00:25:55.400
+I tak jest to zrobione, że jeżeli my utrzymujemy to 30 km na godzinę,
+
+00:25:55.400 --> 00:25:58.400
+to czujemy zagrożenie, że oni zaraz nas rozpoznają,
+
+00:25:58.400 --> 00:26:01.400
+ale udaje nam się przejechać.
+
+00:26:01.400 --> 00:26:08.400
+Ale jest takie poczucie zagrożenia.
+
+00:26:08.400 --> 00:26:11.400
+To jak graffiti wygląda.
+
+00:26:11.400 --> 00:26:17.400
+Jak w tym świecie cały czas mamy przemówienia El Presidente.
+
+00:26:17.400 --> 00:26:19.400
+Tak, tak, upierdliwe zresztą niezwykle.
+
+00:26:19.400 --> 00:26:27.400
+Tak, to bardzo dużo jest miejsc,
+
+00:26:27.400 --> 00:26:32.400
+gdzie torturuje się partyzantów.
+
+00:26:32.400 --> 00:26:37.400
+Też to jest nieźle pokazane, dosyć brutalne.
+
+00:26:37.400 --> 00:26:41.400
+Muszę przyznać, że to są takie rzeczy,
+
+00:26:41.400 --> 00:26:45.400
+że te notatki, które tam znajdujesz,
+
+00:26:45.400 --> 00:26:48.400
+dla mnie to jest jeden z takich, oprócz gameplayu,
+
+00:26:48.400 --> 00:26:51.400
+który jest tutaj dopracowany bardzo dobrze,
+
+00:26:51.400 --> 00:26:55.400
+to to jest chyba największy atut.
+
+00:26:55.400 --> 00:26:59.400
+Ta atmosfera nawet przed rewolucją.
+
+00:26:59.400 --> 00:27:03.400
+To, że ktoś tam rzeczywiście,
+
+00:27:03.400 --> 00:27:05.400
+może nie pogłębił,
+
+00:27:05.400 --> 00:27:09.400
+ale po prostu trafnie oddał to, jak to wygląda.
+
+00:27:09.400 --> 00:27:13.400
+W jednej z pierwszej misji mamy moment,
+
+00:27:13.400 --> 00:27:17.400
+kiedy palimy jedną farmę,
+
+00:27:17.400 --> 00:27:19.400
+tą hodowlę, tego tytoniu.
+
+00:27:19.400 --> 00:27:24.400
+Tam się odpala w trakcie gry Bella Ciao piosenka.
+
+00:27:24.400 --> 00:27:26.400
+I sobie tam śpiewamy.
+
+00:27:26.400 --> 00:27:27.400
+My sobie najpierw śpiewamy,
+
+00:27:27.400 --> 00:27:29.400
+a potem wchodzi ta piosenka.
+
+00:27:29.400 --> 00:27:33.400
+Ta piosenka była hymnem włoskich partyzantów.
+
+00:27:33.400 --> 00:27:36.400
+Więc jakby widać, że to jest naprawdę,
+
+00:27:36.400 --> 00:27:39.400
+ktoś to ogarnął.
+
+00:27:39.400 --> 00:27:42.400
+Ale fabularnie, to jak jest prowadzona ta historia,
+
+00:27:42.400 --> 00:27:45.400
+co my musimy robić, w jaki sposób,
+
+00:27:45.400 --> 00:27:48.400
+jak to pchane jest do przodu,
+
+00:27:48.400 --> 00:27:52.400
+to jest takie Ubisoft The Games przed 10 lat.
+
+00:27:52.400 --> 00:27:55.400
+Może przesadziłem, przed 6.
+
+00:27:55.400 --> 00:27:58.400
+No to tak mi to dosyć mocno przeszkadzało,
+
+00:27:58.400 --> 00:28:05.400
+bo ja rozumiem, że to jest ten ostatni Far Cry,
+
+00:28:05.400 --> 00:28:09.400
+że następny będzie pewnego rodzaju rewolucją.
+
+00:28:09.400 --> 00:28:14.400
+Tak przynajmniej takie informacje już krążyły od dawna.
+
+00:28:14.400 --> 00:28:19.400
+Ale ta fabuła w ogóle mnie nie przekonała.
+
+00:28:19.400 --> 00:28:24.400
+Tam jest jakby ten kontrast,
+
+00:28:24.400 --> 00:28:28.400
+właśnie, że świat jest zbudowany tak,
+
+00:28:28.400 --> 00:28:32.400
+że mnie zachwyca w takim detalu.
+
+00:28:32.400 --> 00:28:36.400
+A potem rozmawiam z kimś, biorę jakąś misję,
+
+00:28:36.400 --> 00:28:39.400
+czy widzę tą cutscenkę i one są okej zrealizowane,
+
+00:28:39.400 --> 00:28:45.400
+ale dialogi, ta treść jest taka...
+
+00:28:45.400 --> 00:28:48.400
+Nie bardzo mi to pasowało,
+
+00:28:48.400 --> 00:28:51.400
+za to bardzo pasował mi właśnie ten świat.
+
+00:28:51.400 --> 00:28:56.400
+Tak jest zrobiona mapa.
+
+00:28:56.400 --> 00:28:59.400
+To, że okej, nie ma tam może tak dużo NPC-ów,
+
+00:28:59.400 --> 00:29:02.400
+to nie jest takie żyjące,
+
+00:29:02.400 --> 00:29:06.400
+taki ekosystem żyjący.
+
+00:29:06.400 --> 00:29:09.400
+Nie jest to poziom Red Dead Redemption 2,
+
+00:29:09.400 --> 00:29:13.400
+ale ja taki bardzo pozytywny poczułem,
+
+00:29:13.400 --> 00:29:15.400
+zwiedzając po prostu tą wyspę,
+
+00:29:15.400 --> 00:29:17.400
+taki feeling Skyrima.
+
+00:29:17.400 --> 00:29:19.400
+Tak, tak, tak.
+
+00:29:19.400 --> 00:29:21.400
+To ja też sobie...
+
+00:29:21.400 --> 00:29:23.400
+Pewnie jeszcze masz tam coś do powiedzenia,
+
+00:29:23.400 --> 00:29:25.400
+ale ja też chciałbym dodać tutaj,
+
+00:29:25.400 --> 00:29:27.400
+też zacznę od tego, nad czym zakończyłeś.
+
+00:29:27.400 --> 00:29:29.400
+Ja też mam wrażenie, że ten świat
+
+00:29:29.400 --> 00:29:31.400
+został bardzo sensownie zbudowany.
+
+00:29:31.400 --> 00:29:33.400
+I ta rewolucja, o ile nie w samej głównej fabule,
+
+00:29:33.400 --> 00:29:36.400
+a być może gdzieś tam ona traci na mocy,
+
+00:29:36.400 --> 00:29:38.400
+kiedy się sięga trochę po zadania poboczne
+
+00:29:38.400 --> 00:29:40.400
+i się uderza w tą śmieszność i w tą satyrę,
+
+00:29:40.400 --> 00:29:42.400
+która tam jest zupełnie niepotrzebna,
+
+00:29:42.400 --> 00:29:44.400
+bo w ogóle Ubisoft ma taką skłonność
+
+00:29:44.400 --> 00:29:46.400
+do obiecywania wielkich przeżyć,
+
+00:29:46.400 --> 00:29:48.400
+jakichś takich ambitnych myśli,
+
+00:29:48.400 --> 00:29:50.400
+jakichś takich sporów, wyborów moralnych,
+
+00:29:50.400 --> 00:29:52.400
+a potem zastępuje to wszystko
+
+00:29:52.400 --> 00:29:54.400
+jakimś śmigającym krokodylem,
+
+00:29:54.400 --> 00:29:56.400
+jakimś psem inwalidą
+
+00:29:56.400 --> 00:29:58.400
+i ja rozumiem...
+
+00:29:58.400 --> 00:30:00.400
+I strzelaniem z makareny.
+
+00:30:00.400 --> 00:30:02.400
+No, więc to jest zaskakujące,
+
+00:30:02.400 --> 00:30:04.400
+że oni nie idą za ciosem,
+
+00:30:04.400 --> 00:30:06.400
+bo mają te światy i mają zdecydowanie warunki,
+
+00:30:06.400 --> 00:30:08.400
+by przygotować coś poważnego od początku do końca.
+
+00:30:08.400 --> 00:30:10.400
+Natomiast budowa tego świata faktycznie
+
+00:30:10.400 --> 00:30:12.400
+jest zrobiona w sposób ciekawy.
+
+00:30:12.400 --> 00:30:14.400
+Ja mam też taki styl gry,
+
+00:30:14.400 --> 00:30:16.400
+że używam przede wszystkim ekwipunku,
+
+00:30:16.400 --> 00:30:18.400
+ale on jest też taki,
+
+00:30:18.400 --> 00:30:20.400
+że bardzo ma niską odporność,
+
+00:30:20.400 --> 00:30:22.400
+więc ja tam na 2-3 strzały ginę,
+
+00:30:22.400 --> 00:30:24.400
+jak tylko dam się złapać,
+
+00:30:24.400 --> 00:30:26.400
+więc to poczucie takiego zagrożenia
+
+00:30:26.400 --> 00:30:28.400
+mocno mi towarzyszy,
+
+00:30:28.400 --> 00:30:30.400
+a zgon nie jest aż taki straszny,
+
+00:30:30.400 --> 00:30:32.400
+ale często musisz całą misję zaczynać od początku
+
+00:30:32.400 --> 00:30:34.400
+albo gdzieś tam jakiś poważny fragment,
+
+00:30:34.400 --> 00:30:36.400
+więc to poczucie zagrożenia cały czas tam jest.
+
+00:30:36.400 --> 00:30:38.400
+Podoba mi się też to w tym świecie,
+
+00:30:38.400 --> 00:30:40.400
+ten feeling Skyrima to też jest bardzo trafne,
+
+00:30:40.400 --> 00:30:42.400
+bo nie macie tak, że dostajecie mapę,
+
+00:30:42.400 --> 00:30:44.400
+która od razu jest przyozdobiona znacznikami.
+
+00:30:44.400 --> 00:30:46.400
+Te znaczniki one się pojawiają z czasem,
+
+00:30:46.400 --> 00:30:48.400
+z czasem ich jest coraz więcej,
+
+00:30:48.400 --> 00:30:50.400
+ale odbywa się to na takiej zasadzie,
+
+00:30:50.400 --> 00:30:52.400
+że gdzieś znajdziecie kogoś,
+
+00:30:52.400 --> 00:30:54.400
+pomożecie komuś, dostaniecie jakąś informację,
+
+00:30:54.400 --> 00:30:56.400
+przekupicie jakiegoś żołnierza z władz,
+
+00:30:56.400 --> 00:30:58.400
+żołnierza po prostu,
+
+00:30:58.400 --> 00:31:00.400
+który jest waszym przeciwnikiem,
+
+00:31:00.400 --> 00:31:02.400
+albo znajdziecie jakąś mapę,
+
+00:31:02.400 --> 00:31:04.400
+jakiś znacznik,
+
+00:31:04.400 --> 00:31:06.400
+więc dosyć fajnie jest ten świat rozwijany,
+
+00:31:06.400 --> 00:31:08.400
+nie dostajemy od razu tak jak w grach Redów
+
+00:31:08.400 --> 00:31:10.400
+z tymi znakami zapytania,
+
+00:31:10.400 --> 00:31:12.400
+gdzie jesteśmy zasypani
+
+00:31:12.400 --> 00:31:14.400
+i w zasadzie wszędzie moglibyśmy pójść.
+
+00:31:14.400 --> 00:31:16.400
+Dużo się odbywa też na takiej zasadzie eksploracji,
+
+00:31:16.400 --> 00:31:18.400
+że gdzieś wspinam się na jakąś górę,
+
+00:31:18.400 --> 00:31:20.400
+znajdę jakąś skrzynię albo kogoś uratuję,
+
+00:31:20.400 --> 00:31:22.400
+on mi powie o trzech, czterech różnych skrzyniach
+
+00:31:22.400 --> 00:31:24.400
+w różnych miejscach,
+
+00:31:24.400 --> 00:31:26.400
+więc to jest sensownie zbudowane.
+
+00:31:26.400 --> 00:31:28.400
+Ja też byłem pod wrażeniem tego,
+
+00:31:28.400 --> 00:31:30.400
+jak ten świat działa, bo tam jeżdżą sobie samochody,
+
+00:31:30.400 --> 00:31:32.400
+nie ma tego aż tak dużo,
+
+00:31:32.400 --> 00:31:34.400
+więc tam jakichś błędów w funkcjonowaniu tego świata
+
+00:31:34.400 --> 00:31:36.400
+nie widać, przynajmniej na pierwszy rzut oka.
+
+00:31:36.400 --> 00:31:38.400
+Latają jakieś samoloty, jakieś śmigłowce.
+
+00:31:38.400 --> 00:31:40.400
+Bardzo podoba mi się system
+
+00:31:40.400 --> 00:31:42.400
+dział przeciwlotniczych,
+
+00:31:42.400 --> 00:31:44.400
+że możesz sobie latać dosyć swobodnie,
+
+00:31:44.400 --> 00:31:46.400
+co ci daje możliwość pokonywania dużych dystansów łatwo,
+
+00:31:46.400 --> 00:31:48.400
+ale jeżeli nie zniszczysz obrony przeciwlotniczej,
+
+00:31:48.400 --> 00:31:50.400
+to cię strącą na jakichś obszarach,
+
+00:31:50.400 --> 00:31:52.400
+więc trzeba to na spokojnie poznawać,
+
+00:31:52.400 --> 00:31:54.400
+więc ta eksploracja świata bardzo tak
+
+00:31:54.400 --> 00:31:56.400
+nieliniowo, szeroko się odbywa
+
+00:31:56.400 --> 00:31:58.400
+i dużo czasu można przy tym spędzić,
+
+00:31:58.400 --> 00:32:00.400
+bawiąc się dobrze.
+
+00:32:00.400 --> 00:32:02.400
+Złapałem się parę razy, obserwując zachowania NPC-ów
+
+00:32:02.400 --> 00:32:04.400
+na tym, że jestem pod takim wrażeniem,
+
+00:32:04.400 --> 00:32:06.400
+bo był jakiś NPC,
+
+00:32:06.400 --> 00:32:08.400
+który podszedł do żołnierzy
+
+00:32:08.400 --> 00:32:10.400
+i zaczął donosić i mówić, że tutaj
+
+00:32:10.400 --> 00:32:12.400
+mój sąsiad coś tam
+
+00:32:12.400 --> 00:32:14.400
+robił nie tak albo ktoś tam zrywał plakaty,
+
+00:32:14.400 --> 00:32:16.400
+takie rozmówki. Są też tacy,
+
+00:32:16.400 --> 00:32:18.400
+którzy gdzieś tam krzyczą do żołnierzy od razu
+
+00:32:18.400 --> 00:32:20.400
+wrogo albo tacy, którzy uciekają,
+
+00:32:20.400 --> 00:32:22.400
+więc ten świat jest całkiem
+
+00:32:22.400 --> 00:32:24.400
+sensowny. Oczywiście pewnie po jakiejś tam
+
+00:32:24.400 --> 00:32:26.400
+baczniejszej obserwacji można
+
+00:32:26.400 --> 00:32:28.400
+złapać tam jakieś błędy, bo to jest jednak symulacja,
+
+00:32:28.400 --> 00:32:30.400
+ale jeżeli
+
+00:32:30.400 --> 00:32:32.400
+się do tego podchodzi
+
+00:32:32.400 --> 00:32:34.400
+z taką przypadkową obserwacją,
+
+00:32:34.400 --> 00:32:36.400
+po prostu chłoniesz ten świat, to on jest dosyć
+
+00:32:36.400 --> 00:32:38.400
+wiarygodny i spośród tych światów do tej pory
+
+00:32:38.400 --> 00:32:40.400
+robionych przez Ubisoft on jest
+
+00:32:40.400 --> 00:32:42.400
+chyba najdokładniejszy. Natomiast
+
+00:32:42.400 --> 00:32:44.400
+to, jak on został wykorzystany fabularnie,
+
+00:32:44.400 --> 00:32:46.400
+to już jest inna historia i uważam, że
+
+00:32:46.400 --> 00:32:48.400
+tutaj na tym etapie trochę
+
+00:32:48.400 --> 00:32:50.400
+kuleje. O ile jakby sama
+
+00:32:50.400 --> 00:32:52.400
+historia, gdyby ona była liniowa,
+
+00:32:52.400 --> 00:32:54.400
+to te postacie są wiarygodne i to
+
+00:32:54.400 --> 00:32:56.400
+ma sens, natomiast te wszystkie małe
+
+00:32:56.400 --> 00:32:58.400
+takie
+
+00:32:58.400 --> 00:33:00.400
+niepotrzebne śmiesznostki, które się przydarzają,
+
+00:33:00.400 --> 00:33:02.400
+trochę psują tą
+
+00:33:02.400 --> 00:33:04.400
+zabawę niepotrzebnie. Tak jakby właśnie
+
+00:33:04.400 --> 00:33:06.400
+próbowali być śmieszni tam, gdzie wcale
+
+00:33:06.400 --> 00:33:08.400
+śmiesznie nie muszą być. Jakby to też jest
+
+00:33:08.400 --> 00:33:10.400
+może taka potrzeba, żeby zaspokoić
+
+00:33:10.400 --> 00:33:12.400
+jak najwięcej gustów.
+
+00:33:12.400 --> 00:33:14.400
+Swoją drogą,
+
+00:33:14.400 --> 00:33:16.400
+to może to jest właśnie takie traktowanie
+
+00:33:16.400 --> 00:33:18.400
+graczy jak idiotów,
+
+00:33:18.400 --> 00:33:20.400
+że oni nie potrafią się dobrze bawić
+
+00:33:20.400 --> 00:33:22.400
+historią, która jest mroczna i ciężka od samego
+
+00:33:22.400 --> 00:33:24.400
+początku i trzeba im okazjonalnie,
+
+00:33:24.400 --> 00:33:26.400
+a w tym przypadku bardzo często wrzucać jakieś takie
+
+00:33:26.400 --> 00:33:28.400
+żarty, ale też przyznam,
+
+00:33:28.400 --> 00:33:30.400
+że nawet
+
+00:33:30.400 --> 00:33:32.400
+nie o to chodzi, że te żarty są słabe,
+
+00:33:32.400 --> 00:33:34.400
+bo one często się bronią,
+
+00:33:34.400 --> 00:33:36.400
+natomiast kompletnie nie pasują do tego świata
+
+00:33:36.400 --> 00:33:38.400
+bardzo często, że ludzie, którzy teoretycznie
+
+00:33:38.400 --> 00:33:40.400
+przeżywają tragedię, potrafią żartować
+
+00:33:40.400 --> 00:33:42.400
+z rzeczy, jakby zupełnie
+
+00:33:42.400 --> 00:33:44.400
+nie przystaje to do nastroju tego
+
+00:33:44.400 --> 00:33:46.400
+wszystkiego, więc żarty same
+
+00:33:46.400 --> 00:33:48.400
+w sobie nie są takie złe. A dzisiaj
+
+00:33:48.400 --> 00:33:50.400
+na gry online gdzieś
+
+00:33:50.400 --> 00:33:52.400
+po południu pojawił się artykuł, dlaczego
+
+00:33:52.400 --> 00:33:54.400
+Ubisoft ma wszystkich nas za kretynów,
+
+00:33:54.400 --> 00:33:56.400
+to jest artykuł Piotra
+
+00:33:56.400 --> 00:33:58.400
+Weltrowskiego i tam
+
+00:33:58.400 --> 00:34:00.400
+bardzo przyjemnie jest to
+
+00:34:00.400 --> 00:34:02.400
+zupełnie opisane, że z jednej strony mamy
+
+00:34:02.400 --> 00:34:04.400
+taki ciekawy, wiarygodny świat, a z drugiej strony
+
+00:34:04.400 --> 00:34:06.400
+dostajemy jakieś takie idiotyczne zadania,
+
+00:34:06.400 --> 00:34:08.400
+kompletnie wybijające
+
+00:34:08.400 --> 00:34:10.400
+z tempa i z wiarygodności
+
+00:34:10.400 --> 00:34:12.400
+ten świat, więc to
+
+00:34:12.400 --> 00:34:14.400
+akurat zgodnie chyba z naszymi opiniami
+
+00:34:14.400 --> 00:34:16.400
+w tym tekście przynajmniej. Ja powiem ci na przykład, nie jestem
+
+00:34:16.400 --> 00:34:18.400
+w stanie, znaczy
+
+00:34:18.400 --> 00:34:20.400
+mogę się nad tym zastanawiać, ale
+
+00:34:20.400 --> 00:34:22.400
+nie rozumiem do końca,
+
+00:34:22.400 --> 00:34:24.400
+dlaczego
+
+00:34:24.400 --> 00:34:26.400
+nie zostało to w jakiś
+
+00:34:26.400 --> 00:34:28.400
+sposób
+
+00:34:28.400 --> 00:34:30.400
+po prostu, znaczy
+
+00:34:30.400 --> 00:34:32.400
+pytanie jest takie, na ile by
+
+00:34:32.400 --> 00:34:34.400
+straciła ta gra, gdyby tam była
+
+00:34:34.400 --> 00:34:36.400
+porządna fabuła,
+
+00:34:36.400 --> 00:34:38.400
+ale na 15 godzin?
+
+00:34:38.400 --> 00:34:40.400
+I okej,
+
+00:34:40.400 --> 00:34:42.400
+i potem możemy dalej
+
+00:34:42.400 --> 00:34:44.400
+jeszcze tak skończona ta
+
+00:34:44.400 --> 00:34:46.400
+fabuła, żeby nas trochę zapraszała
+
+00:34:46.400 --> 00:34:48.400
+do tych dalszych rzeczy,
+
+00:34:48.400 --> 00:34:50.400
+no bo wiadomo, że
+
+00:34:50.400 --> 00:34:52.400
+ileś tam znajdziek, masz te
+
+00:34:52.400 --> 00:34:54.400
+odbijanie fortów,
+
+00:34:54.400 --> 00:34:56.400
+masz te
+
+00:34:56.400 --> 00:34:58.400
+wszystkie przystanki, zdobywasz
+
+00:34:58.400 --> 00:35:00.400
+pewne rzeczy.
+
+00:35:00.400 --> 00:35:02.400
+To w ogóle
+
+00:35:02.400 --> 00:35:04.400
+te misje takie poboczne
+
+00:35:04.400 --> 00:35:06.400
+w ogóle nie kolidują
+
+00:35:08.400 --> 00:35:10.400
+z głównym wątkiem.
+
+00:35:10.400 --> 00:35:12.400
+Zresztą,
+
+00:35:12.400 --> 00:35:14.400
+tam pada takie
+
+00:35:14.400 --> 00:35:16.400
+zdanie, które
+
+00:35:18.400 --> 00:35:20.400
+zaskoczyło mnie, bo bardzo
+
+00:35:20.400 --> 00:35:22.400
+głębokie takie zrozumienie
+
+00:35:22.400 --> 00:35:24.400
+tego,
+
+00:35:24.400 --> 00:35:26.400
+że ja poczułem, że
+
+00:35:26.400 --> 00:35:28.400
+to nie jest taka
+
+00:35:28.400 --> 00:35:30.400
+amerykańska,
+
+00:35:30.400 --> 00:35:32.400
+popkulturowa wizja
+
+00:35:32.400 --> 00:35:34.400
+rewolucji, tylko
+
+00:35:34.400 --> 00:35:36.400
+tam w momencie pada takie
+
+00:35:36.400 --> 00:35:38.400
+stwierdzenie, że prawdziwa wojna
+
+00:35:38.400 --> 00:35:40.400
+zacznie się, jak oni
+
+00:35:40.400 --> 00:35:42.400
+obalą tego prezydenta,
+
+00:35:42.400 --> 00:35:44.400
+bo wtedy zaczną się tarcia,
+
+00:35:44.400 --> 00:35:46.400
+zaczną się tarcia między
+
+00:35:46.400 --> 00:35:48.400
+frakcjami i wtedy zobaczymy,
+
+00:35:48.400 --> 00:35:50.400
+wtedy będzie jeszcze gorzej.
+
+00:35:50.400 --> 00:35:52.400
+Tak, tak, tak.
+
+00:35:52.400 --> 00:35:54.400
+Jest kilka takich zdań, które dobrze
+
+00:35:54.400 --> 00:35:56.400
+świadczą o kimś, kto
+
+00:35:56.400 --> 00:35:58.400
+stoi przynajmniej za filozofią
+
+00:35:58.400 --> 00:36:00.400
+tego całego projektu. To chyba nawet
+
+00:36:00.400 --> 00:36:02.400
+w jednym z trailerów ten
+
+00:36:02.400 --> 00:36:04.400
+El Presidente powiedział, że
+
+00:36:04.400 --> 00:36:06.400
+nikogo nie będzie obchodziło,
+
+00:36:06.400 --> 00:36:08.400
+jak wyglądała
+
+00:36:08.400 --> 00:36:10.400
+droga do raju, jak się już w raju znajdziemy.
+
+00:36:10.400 --> 00:36:12.400
+I w tym też jest
+
+00:36:12.400 --> 00:36:14.400
+dużo prawdy. Ja też się
+
+00:36:14.400 --> 00:36:16.400
+zastanawiałem, do jakiego stopnia
+
+00:36:16.400 --> 00:36:18.400
+jego punkt widzenia będzie
+
+00:36:18.400 --> 00:36:20.400
+tam się ścierał z tym, który
+
+00:36:20.400 --> 00:36:22.400
+reprezentujemy, bo jednak
+
+00:36:22.400 --> 00:36:24.400
+to poświęcenie
+
+00:36:24.400 --> 00:36:26.400
+na poczet takiej
+
+00:36:26.400 --> 00:36:28.400
+potencjalnie dobrej sprawy w przyszłości
+
+00:36:28.400 --> 00:36:30.400
+jest zrozumiałe. Jakby ja potrafię
+
+00:36:30.400 --> 00:36:32.400
+zrozumieć tego El Presidente, to nie znaczy, że ja się
+
+00:36:32.400 --> 00:36:34.400
+z nim godzę, czy uważam jego metody
+
+00:36:34.400 --> 00:36:36.400
+za sensowne,
+
+00:36:36.400 --> 00:36:38.400
+ale jakaś logika
+
+00:36:38.400 --> 00:36:40.400
+za tym stoi. To ma
+
+00:36:40.400 --> 00:36:42.400
+trochę sensu. I tam jest faktycznie
+
+00:36:42.400 --> 00:36:44.400
+dużo takich stwierdzeń, które
+
+00:36:44.400 --> 00:36:46.400
+sprawiają wrażenie sensownych
+
+00:36:46.400 --> 00:36:48.400
+i wiarygodnych.
+
+00:36:48.400 --> 00:36:50.400
+Tak, ja wiem,
+
+00:36:50.400 --> 00:36:52.400
+że jak oni pracowali nad
+
+00:36:52.400 --> 00:36:54.400
+nad po prostu taką
+
+00:36:54.400 --> 00:36:56.400
+wizją tego świata,
+
+00:36:56.400 --> 00:36:58.400
+nad jakimś takim
+
+00:36:58.400 --> 00:37:00.400
+kierunkiem, to to
+
+00:37:00.400 --> 00:37:02.400
+rzeczywiście
+
+00:37:02.400 --> 00:37:04.400
+ktoś dobrze to zrobił.
+
+00:37:04.400 --> 00:37:06.400
+Dobrze pokazał to,
+
+00:37:06.400 --> 00:37:08.400
+ten świat
+
+00:37:08.400 --> 00:37:10.400
+jest taki, wiadomo, że tam jest pełno
+
+00:37:10.400 --> 00:37:12.400
+takich dziwności, jakiejś tam walki
+
+00:37:12.400 --> 00:37:14.400
+kogutów, nie? Tam...
+
+00:37:14.400 --> 00:37:16.400
+Chociaż walki kogutów też mają sens w tym świecie.
+
+00:37:16.400 --> 00:37:18.400
+No tak. Natomiast towarzystwo koguta
+
+00:37:18.400 --> 00:37:20.400
+jako peta,
+
+00:37:20.400 --> 00:37:22.400
+czyli takiego
+
+00:37:22.400 --> 00:37:24.400
+pupilka, nie wiem jak to właściwie jest.
+
+00:37:24.400 --> 00:37:26.400
+A jest tam kogut jako pupilek?
+
+00:37:26.400 --> 00:37:28.400
+Tak, tak, jest taki. A to ja nie wiem.
+
+00:37:30.400 --> 00:37:32.400
+Ja miałem
+
+00:37:32.400 --> 00:37:34.400
+tego aligato...
+
+00:37:34.400 --> 00:37:36.400
+No właśnie, tam alikador, czy krokodil,
+
+00:37:36.400 --> 00:37:38.400
+ja przepraszam, nie pamiętam, co to
+
+00:37:38.400 --> 00:37:40.400
+dokładnie jest, w dżinsowej
+
+00:37:40.400 --> 00:37:42.400
+kurce, nie? Jako twój towarzysz.
+
+00:37:42.400 --> 00:37:44.400
+Ale właśnie takie detale,
+
+00:37:44.400 --> 00:37:46.400
+czyli na przykład masz towarzysza, pieska,
+
+00:37:46.400 --> 00:37:48.400
+taki piesek
+
+00:37:48.400 --> 00:37:50.400
+bum-bum, który tam do niczego nie służy
+
+00:37:50.400 --> 00:37:52.400
+za bardzo, ale to,
+
+00:37:52.400 --> 00:37:54.400
+że jak wsiadasz do samochodu, on wskakuje
+
+00:37:54.400 --> 00:37:56.400
+przez okno i siada z tobą,
+
+00:37:56.400 --> 00:37:58.400
+to jest wow! Znaczy...
+
+00:37:58.400 --> 00:38:00.400
+To są takie rzeczy. I nagle
+
+00:38:00.400 --> 00:38:02.400
+wiesz, i wsiada ten piesek,
+
+00:38:02.400 --> 00:38:04.400
+jedziesz tym samochodem,
+
+00:38:04.400 --> 00:38:06.400
+gra Ricky Martin, bohater
+
+00:38:06.400 --> 00:38:08.400
+zaczyna śpiewać i fałszuje.
+
+00:38:08.400 --> 00:38:10.400
+To są takie
+
+00:38:10.400 --> 00:38:12.400
+rzeczy, które
+
+00:38:12.400 --> 00:38:14.400
+kurcze, było mi tak
+
+00:38:14.400 --> 00:38:16.400
+szkoda tej gry.
+
+00:38:16.400 --> 00:38:18.400
+Przez to, że po pierwsze,
+
+00:38:18.400 --> 00:38:20.400
+standardowo nie była za ciepło
+
+00:38:20.400 --> 00:38:22.400
+przyjęta, ani przez krytyków, ani przez
+
+00:38:22.400 --> 00:38:24.400
+widzów.
+
+00:38:24.400 --> 00:38:26.400
+Na Metacriticu to jest
+
+00:38:26.400 --> 00:38:28.400
+jakiś review bombing.
+
+00:38:28.400 --> 00:38:30.400
+Ona ma chyba 7,5 teraz na
+
+00:38:30.400 --> 00:38:32.400
+Metacriticu na pececie.
+
+00:38:32.400 --> 00:38:34.400
+Ale też przez to,
+
+00:38:34.400 --> 00:38:36.400
+że sami twórcy
+
+00:38:36.400 --> 00:38:38.400
+nie pociągnęli tego. Znaczy, że to jest
+
+00:38:38.400 --> 00:38:40.400
+okej,
+
+00:38:40.400 --> 00:38:42.400
+i gameplayowo mi się dobrze gra w tą grę.
+
+00:38:42.400 --> 00:38:44.400
+Ja się dobrze bawię.
+
+00:38:44.400 --> 00:38:46.400
+Ale czuję
+
+00:38:46.400 --> 00:38:48.400
+tak zmarnowany potencjał,
+
+00:38:48.400 --> 00:38:50.400
+tak bardzo zmarnowany potencjał,
+
+00:38:50.400 --> 00:38:52.400
+że
+
+00:38:52.400 --> 00:38:54.400
+ciężko mi...
+
+00:38:54.400 --> 00:38:56.400
+Ja dziwnie się
+
+00:38:56.400 --> 00:38:58.400
+czuję chwaląc tą grę, bo ja chcę ją pochwalić.
+
+00:38:58.400 --> 00:39:00.400
+Zaraz dojdę jeszcze do takich problemów,
+
+00:39:00.400 --> 00:39:02.400
+które miałem, ale wracając jeszcze do
+
+00:39:02.400 --> 00:39:04.400
+muzyki. Mamy
+
+00:39:04.400 --> 00:39:06.400
+sporo hitów takich
+
+00:39:06.400 --> 00:39:08.400
+latinoamerykańskich.
+
+00:39:08.400 --> 00:39:10.400
+Bohater mi
+
+00:39:10.400 --> 00:39:12.400
+chyba do dwóch nucił tylko, nie do wszystkich
+
+00:39:12.400 --> 00:39:14.400
+nuci. Czasami
+
+00:39:14.400 --> 00:39:16.400
+muzyka odpala się w czasie misji,
+
+00:39:16.400 --> 00:39:18.400
+co bardzo dobrze
+
+00:39:18.400 --> 00:39:20.400
+współgra
+
+00:39:20.400 --> 00:39:22.400
+z tym, co się dzieje.
+
+00:39:22.400 --> 00:39:24.400
+Super jest to ogarnięte. Wsiadamy sobie, oczywiście,
+
+00:39:24.400 --> 00:39:26.400
+jak mamy jakąś starą łódkę albo
+
+00:39:26.400 --> 00:39:28.400
+motocykl, to nie mamy tej muzyki,
+
+00:39:28.400 --> 00:39:30.400
+bo tam nie ma radia.
+
+00:39:30.400 --> 00:39:32.400
+Muzyka jest zawsze...
+
+00:39:32.400 --> 00:39:34.400
+To jest też fajne rozwiązanie, że nie mamy takiej
+
+00:39:34.400 --> 00:39:36.400
+muzyki z offu,
+
+00:39:36.400 --> 00:39:38.400
+że tam sobie coś gra, tylko zawsze
+
+00:39:38.400 --> 00:39:40.400
+skądś musi grać ta muzyka. Przejeżdżamy
+
+00:39:40.400 --> 00:39:42.400
+obok samochodów, to słyszymy, że
+
+00:39:42.400 --> 00:39:44.400
+z tego drugiego samochodu też gra jakaś muzyka.
+
+00:39:44.400 --> 00:39:46.400
+Bardzo dobrze
+
+00:39:46.400 --> 00:39:48.400
+to jest zrobione.
+
+00:39:48.400 --> 00:39:50.400
+Jeżeli chodzi jeszcze do
+
+00:39:50.400 --> 00:39:52.400
+grafiki, to robi to
+
+00:39:52.400 --> 00:39:54.400
+bardzo duże wrażenie, ale z drugiej
+
+00:39:54.400 --> 00:39:56.400
+strony widać, że to jest przestarzały
+
+00:39:56.400 --> 00:39:58.400
+silnik. Jeżeli popatrzymy
+
+00:39:58.400 --> 00:40:00.400
+na detale, przede wszystkim
+
+00:40:00.400 --> 00:40:02.400
+na ogień, na postacie,
+
+00:40:02.400 --> 00:40:04.400
+na twarze takich
+
+00:40:04.400 --> 00:40:06.400
+NPC-ów czy tam ludzi, no bo tam wiadomo
+
+00:40:06.400 --> 00:40:08.400
+w cutscenkach to wygląda nieźle,
+
+00:40:08.400 --> 00:40:10.400
+w szczególności ten
+
+00:40:10.400 --> 00:40:12.400
+Espósito,
+
+00:40:12.400 --> 00:40:14.400
+który, no też
+
+00:40:14.400 --> 00:40:16.400
+fajny wątek, że mamy kolejnego
+
+00:40:16.400 --> 00:40:18.400
+znanego aktora, który gra główną,
+
+00:40:18.400 --> 00:40:20.400
+powiedzmy, główną rolę
+
+00:40:20.400 --> 00:40:22.400
+w grze wideo.
+
+00:40:22.400 --> 00:40:24.400
+No to tutaj widać, że ta gra,
+
+00:40:24.400 --> 00:40:26.400
+że ta grafika
+
+00:40:26.400 --> 00:40:28.400
+ma ten rodowód starogeneracyjny.
+
+00:40:28.400 --> 00:40:30.400
+Ja was odsyłam do
+
+00:40:30.400 --> 00:40:32.400
+analizy,
+
+00:40:32.400 --> 00:40:34.400
+no na przykład na Digital
+
+00:40:34.400 --> 00:40:36.400
+Foundry, albo
+
+00:40:36.400 --> 00:40:38.400
+jest taki kanał
+
+00:40:38.400 --> 00:40:40.400
+z Powiedzią Heretyka.
+
+00:40:40.400 --> 00:40:42.400
+Polski, nasz narodowy kanał z analizą
+
+00:40:42.400 --> 00:40:44.400
+grafiki, na przykład na Playaku
+
+00:40:44.400 --> 00:40:46.400
+Piątce, też bardzo ciekawe
+
+00:40:46.400 --> 00:40:48.400
+spostrzeżenia.
+
+00:40:48.400 --> 00:40:50.400
+I ja mam takie problemy
+
+00:40:50.400 --> 00:40:52.400
+z tą grą, że tam jest
+
+00:40:52.400 --> 00:40:54.400
+tyle,
+
+00:40:54.400 --> 00:40:56.400
+tyle rzeczy spieprzonych,
+
+00:40:56.400 --> 00:40:58.400
+na przykład rozmowy
+
+00:40:58.400 --> 00:41:00.400
+podczas chodzenia
+
+00:41:00.400 --> 00:41:02.400
+z NPC-kiem.
+
+00:41:02.400 --> 00:41:04.400
+To już dawno gry rozwiązały.
+
+00:41:04.400 --> 00:41:06.400
+No tutaj
+
+00:41:06.400 --> 00:41:08.400
+NPC chodzą tak,
+
+00:41:08.400 --> 00:41:10.400
+że chodzą szybciej niż ty, jak chodzisz,
+
+00:41:10.400 --> 00:41:12.400
+ale chodzą wolniej niż ty, jak biegasz.
+
+00:41:12.400 --> 00:41:14.400
+Jezu.
+
+00:41:14.400 --> 00:41:16.400
+Wiedźminie trzymają do gry.
+
+00:41:16.400 --> 00:41:18.400
+Ale to kontroler nie rozwiązuje tego problemu?
+
+00:41:18.400 --> 00:41:20.400
+Nie wiem.
+
+00:41:20.400 --> 00:41:22.400
+Bo na PCie to jest faktycznie problem,
+
+00:41:22.400 --> 00:41:24.400
+bo na PCie masz dwie możliwe prędkości, plus jeszcze
+
+00:41:24.400 --> 00:41:26.400
+kucanie ewentualnie, ale
+
+00:41:26.400 --> 00:41:28.400
+myślałem, że kontroler to załatwia.
+
+00:41:28.400 --> 00:41:30.400
+Nie myślałem, że triggerem możesz...
+
+00:41:30.400 --> 00:41:32.400
+Nie, nie, nie.
+
+00:41:32.400 --> 00:41:34.400
+Nie grałem na kontrolerze.
+
+00:41:34.400 --> 00:41:36.400
+Zbieranie przedmiotów
+
+00:41:36.400 --> 00:41:38.400
+i odpalanie rozmów z NPC-ami.
+
+00:41:38.400 --> 00:41:40.400
+Ja miałem jakiś straszny problem,
+
+00:41:40.400 --> 00:41:42.400
+że pojawiała mi się ikonka
+
+00:41:42.400 --> 00:41:44.400
+i po prostu kręcił się ten
+
+00:41:44.400 --> 00:41:46.400
+znaczek, jak X-a naciskasz
+
+00:41:46.400 --> 00:41:48.400
+i nic, i nic, i nic.
+
+00:41:48.400 --> 00:41:50.400
+Ja obchodzę te rzeczy, albo obchodzę NPC-ów,
+
+00:41:50.400 --> 00:41:52.400
+albo podchodzę do rzeczy, która się świeci
+
+00:41:52.400 --> 00:41:54.400
+i nie pojawia mi się żaden
+
+00:41:54.400 --> 00:41:56.400
+znacznik. I mówię o wersji
+
+00:41:56.400 --> 00:41:58.400
+po premierze.
+
+00:41:58.400 --> 00:42:00.400
+Przed premierą miałem dużo problemów,
+
+00:42:00.400 --> 00:42:02.400
+ale ta łatka tam
+
+00:42:02.400 --> 00:42:04.400
+widać, że dużo naprawiła.
+
+00:42:04.400 --> 00:42:06.400
+Już nawet nie wspomnę o tych
+
+00:42:06.400 --> 00:42:08.400
+lusterkach w samochodach.
+
+00:42:08.400 --> 00:42:10.400
+Są całkowicie wyłączone.
+
+00:42:10.400 --> 00:42:12.400
+Pamiętajcie, mówię o wersji
+
+00:42:12.400 --> 00:42:14.400
+na Xboxa.
+
+00:42:14.400 --> 00:42:16.400
+Na PC-cie też są wyłączone.
+
+00:42:16.400 --> 00:42:18.400
+Błędy i glicze.
+
+00:42:18.400 --> 00:42:20.400
+Okej.
+
+00:42:20.400 --> 00:42:22.400
+Nie miałem żadnej misji, która mi się
+
+00:42:22.400 --> 00:42:24.400
+zglitchowała.
+
+00:42:24.400 --> 00:42:26.400
+W Valhalla miałem chyba dwie, albo
+
+00:42:26.400 --> 00:42:28.400
+jedną taką misję. Tutaj nie
+
+00:42:28.400 --> 00:42:30.400
+było, ale mamy kolizję
+
+00:42:30.400 --> 00:42:32.400
+obiektów, wiadomo, to jest Ubisoft
+
+00:42:32.400 --> 00:42:34.400
+The Game i jest to jakiś
+
+00:42:34.400 --> 00:42:36.400
+problem. To na przykład, że
+
+00:42:36.400 --> 00:42:38.400
+pojawiają się samochody znikąd.
+
+00:42:38.400 --> 00:42:40.400
+Dużo jest
+
+00:42:40.400 --> 00:42:42.400
+takich właśnie problemów.
+
+00:42:42.400 --> 00:42:44.400
+AI wrogów. To jest po prostu
+
+00:42:44.400 --> 00:42:46.400
+dramat.
+
+00:42:46.400 --> 00:42:48.400
+To jest jakby
+
+00:42:48.400 --> 00:42:50.400
+klasyczne Ubisoft, że
+
+00:42:50.400 --> 00:42:52.400
+ci
+
+00:42:52.400 --> 00:42:54.400
+wrogowie i NPC
+
+00:42:54.400 --> 00:42:56.400
+to co tam się dzieje?
+
+00:42:56.400 --> 00:42:58.400
+Naprawdę. Absurdalne
+
+00:42:58.400 --> 00:43:00.400
+respienie się wrogów. To jest
+
+00:43:00.400 --> 00:43:02.400
+problem. Zdobywasz bazę,
+
+00:43:02.400 --> 00:43:04.400
+zabijasz wszystkich, idziesz na drugi koniec.
+
+00:43:04.400 --> 00:43:06.400
+Na początku już się zrespiło
+
+00:43:06.400 --> 00:43:08.400
+pięciu. Skąd oni tam się wzięli?
+
+00:43:08.400 --> 00:43:10.400
+Takie rzeczy
+
+00:43:10.400 --> 00:43:12.400
+się zdarzają? Cały czas tak mam.
+
+00:43:12.400 --> 00:43:14.400
+Cały czas mam.
+
+00:43:14.400 --> 00:43:16.400
+Nawet w tych małych
+
+00:43:16.400 --> 00:43:18.400
+takich posterunkach.
+
+00:43:18.400 --> 00:43:20.400
+Zabijam wszystkich,
+
+00:43:20.400 --> 00:43:22.400
+obchodzę, szukam jakichś rzeczy
+
+00:43:22.400 --> 00:43:24.400
+i już jest typ
+
+00:43:24.400 --> 00:43:26.400
+na tym miejscu, gdzie stoisz
+
+00:43:26.400 --> 00:43:28.400
+i strażnikuję.
+
+00:43:28.400 --> 00:43:30.400
+Cały czas to mam.
+
+00:43:30.400 --> 00:43:32.400
+Mi na PC się nie zdarzają takie rzeczy.
+
+00:43:32.400 --> 00:43:34.400
+Jeżeli jest taki posterunek, który można przejąć
+
+00:43:34.400 --> 00:43:36.400
+albo można w nim zniszczyć coś konkretnego,
+
+00:43:36.400 --> 00:43:38.400
+to mi się tak nie zdarza.
+
+00:43:38.400 --> 00:43:40.400
+Natomiast jak jest posterunek, który jest sam w sobie,
+
+00:43:40.400 --> 00:43:42.400
+po prostu tam stoi i tam nic
+
+00:43:42.400 --> 00:43:44.400
+nie możesz odbić, to tam faktycznie się respawnują
+
+00:43:44.400 --> 00:43:46.400
+przeciwnicy. Jakoś nie jest
+
+00:43:46.400 --> 00:43:48.400
+to dla mnie strasznie kłopotliwe.
+
+00:43:48.400 --> 00:43:50.400
+Ja w ogóle mam taki komfort,
+
+00:43:50.400 --> 00:43:52.400
+bo jakby grając,
+
+00:43:52.400 --> 00:43:54.400
+skradając się, to większość
+
+00:43:54.400 --> 00:43:56.400
+przeciwników jestem w stanie wyeliminować,
+
+00:43:56.400 --> 00:43:58.400
+jak oni nawet nie wiedzą o mojej obecności,
+
+00:43:58.400 --> 00:44:00.400
+więc nie muszę patrzeć na ich reakcję.
+
+00:44:00.400 --> 00:44:02.400
+Natomiast zdarzały mi się też takie akcje, że
+
+00:44:02.400 --> 00:44:04.400
+to akurat mi się bardzo spodobało,
+
+00:44:04.400 --> 00:44:06.400
+że nie załatwiłem jakiegoś
+
+00:44:06.400 --> 00:44:08.400
+oficera i on nagle
+
+00:44:08.400 --> 00:44:10.400
+wystrzeliwuje flarę i się zbiega dookoła.
+
+00:44:10.400 --> 00:44:12.400
+I to jest przy takim
+
+00:44:12.400 --> 00:44:14.400
+podejściu skradankowym, to potrafi być
+
+00:44:14.400 --> 00:44:16.400
+zatrważające i masz takie poczucie pełnych
+
+00:44:16.400 --> 00:44:18.400
+spodni i wiejesz stamtąd.
+
+00:44:18.400 --> 00:44:20.400
+I to też po raz
+
+00:44:20.400 --> 00:44:22.400
+kolejny, pewnie dlatego
+
+00:44:22.400 --> 00:44:24.400
+nie doświadczyłem tych idiotycznych zachowań, o których
+
+00:44:24.400 --> 00:44:26.400
+ty mówisz, bo ja albo zabijałem
+
+00:44:26.400 --> 00:44:28.400
+wszystkich bez zauważenia mnie,
+
+00:44:28.400 --> 00:44:30.400
+albo uciekałem jak tylko się zaczął robić
+
+00:44:30.400 --> 00:44:32.400
+jakiś chaos, bo nie miałem innego wyjścia.
+
+00:44:32.400 --> 00:44:34.400
+Mówię o takiej sytuacji,
+
+00:44:34.400 --> 00:44:36.400
+nie mówię o tych miejscach, które
+
+00:44:36.400 --> 00:44:38.400
+przejmujesz, bo przejmiesz, zabijesz
+
+00:44:38.400 --> 00:44:40.400
+wszystkich, przychodzą tam twoi i już
+
+00:44:40.400 --> 00:44:42.400
+wróg się nie respi. Ale
+
+00:44:42.400 --> 00:44:44.400
+mówię o tym, są takie miejsca,
+
+00:44:44.400 --> 00:44:46.400
+których nie możesz przejąć, jakieś tam
+
+00:44:46.400 --> 00:44:48.400
+bazy mniejsze, farmy
+
+00:44:48.400 --> 00:44:50.400
+i tam masz misję,
+
+00:44:50.400 --> 00:44:52.400
+czyścisz wszystkich i tam
+
+00:44:52.400 --> 00:44:54.400
+się nagle pojawiają ludzie. Ja miałem
+
+00:44:54.400 --> 00:44:56.400
+to wielokrotnie, naprawdę to
+
+00:44:56.400 --> 00:44:58.400
+jest bardzo
+
+00:44:58.400 --> 00:45:00.400
+źle zrobione. Albo
+
+00:45:00.400 --> 00:45:02.400
+właśnie wystrzeliwuje ten oficer
+
+00:45:02.400 --> 00:45:04.400
+flarę
+
+00:45:04.400 --> 00:45:06.400
+i ci wrogowie
+
+00:45:06.400 --> 00:45:08.400
+respią się
+
+00:45:08.400 --> 00:45:10.400
+całkowicie bez sensu. Okej,
+
+00:45:10.400 --> 00:45:12.400
+przelatuje helikopter, schodzą z helikoptera,
+
+00:45:12.400 --> 00:45:14.400
+ale także na plaży, nie ma żadnej
+
+00:45:14.400 --> 00:45:16.400
+łódki nic, nagle na plaży pięciu typów
+
+00:45:16.400 --> 00:45:18.400
+się pojawia. No to jest takie, że wiesz,
+
+00:45:18.400 --> 00:45:20.400
+że to jest ciągle, ciągle.
+
+00:45:20.400 --> 00:45:22.400
+Może to jest xboxowy błąd, a może ja go nie zauważyłem,
+
+00:45:22.400 --> 00:45:24.400
+wiesz, u mnie
+
+00:45:24.400 --> 00:45:26.400
+zbyt często. Na pewno nie jest xboxowy,
+
+00:45:26.400 --> 00:45:28.400
+bo wiem, że, znaczy czytałem, pojawiał
+
+00:45:28.400 --> 00:45:30.400
+się w iluś tam recenzjach,
+
+00:45:30.400 --> 00:45:32.400
+w tym na PC-cie. Aha, no dobra, to
+
+00:45:32.400 --> 00:45:34.400
+ja tu nie bronię, po prostu
+
+00:45:34.400 --> 00:45:36.400
+nie doświadczyłem tego może przez specyfikę tego,
+
+00:45:36.400 --> 00:45:38.400
+jak gram. I jeszcze do tej
+
+00:45:38.400 --> 00:45:40.400
+snajperki. Ale wiem, że takie rzeczy się zdarzają.
+
+00:45:40.400 --> 00:45:42.400
+Nieintuicyjny plecak.
+
+00:45:42.400 --> 00:45:44.400
+To jest jakaś masakra.
+
+00:45:44.400 --> 00:45:46.400
+Jak się
+
+00:45:46.400 --> 00:45:48.400
+zmienia granaty w tej grze?
+
+00:45:48.400 --> 00:45:50.400
+Na inne niż koktajl mołotowa.
+
+00:45:50.400 --> 00:45:52.400
+Musisz otworzyć koło broni i tam zmienić
+
+00:45:52.400 --> 00:45:54.400
+granaty.
+
+00:45:54.400 --> 00:45:56.400
+Musisz wejść do ustawień,
+
+00:45:56.400 --> 00:45:58.400
+wejść do tej broni supremo
+
+00:45:58.400 --> 00:46:00.400
+i tam w dodatkach musisz zmienić.
+
+00:46:00.400 --> 00:46:02.400
+Aha, nie, ja na PC-cie mam tak, że
+
+00:46:02.400 --> 00:46:04.400
+wciskam tam i potem
+
+00:46:04.400 --> 00:46:06.400
+kółkiem myszki przełączam
+
+00:46:06.400 --> 00:46:08.400
+typ granatów. To jest dużo bardziej
+
+00:46:08.400 --> 00:46:10.400
+skomplikowane niż w Piątce było.
+
+00:46:10.400 --> 00:46:12.400
+Ja też nie wiem, czemu tak
+
+00:46:12.400 --> 00:46:14.400
+to jest zrobione, ale może też ja nie umiem
+
+00:46:14.400 --> 00:46:16.400
+tego absolutnie zrobić.
+
+00:46:16.400 --> 00:46:18.400
+No i gra bardzo faworyzuje
+
+00:46:18.400 --> 00:46:20.400
+tryb skrankowy.
+
+00:46:20.400 --> 00:46:22.400
+Bardzo. Mimo tego, że
+
+00:46:22.400 --> 00:46:24.400
+plansze są zrobione tak, że naprawdę
+
+00:46:24.400 --> 00:46:26.400
+sprawnie możesz
+
+00:46:26.400 --> 00:46:28.400
+wyjść na Rambo i jest trudno.
+
+00:46:28.400 --> 00:46:30.400
+Możesz właśnie
+
+00:46:30.400 --> 00:46:32.400
+skradać się.
+
+00:46:32.400 --> 00:46:34.400
+Możesz spróbować
+
+00:46:34.400 --> 00:46:36.400
+znaleźć jakieś wejście od tyłu.
+
+00:46:36.400 --> 00:46:38.400
+Wtedy trochę tego parkouru jest.
+
+00:46:38.400 --> 00:46:40.400
+No ale jak masz dobrą snajperkę,
+
+00:46:40.400 --> 00:46:42.400
+to każdy wróg
+
+00:46:42.400 --> 00:46:44.400
+jest praktycznie na jeden strzał.
+
+00:46:44.400 --> 00:46:46.400
+Każdy. Tak to zostało
+
+00:46:46.400 --> 00:46:48.400
+pomyślane, to akurat nie jest przypadek.
+
+00:46:48.400 --> 00:46:50.400
+No ale to wtedy jakby...
+
+00:46:50.400 --> 00:46:52.400
+No nie wiem,
+
+00:46:52.400 --> 00:46:54.400
+ja mam wrażenie, że to jest bardzo...
+
+00:46:54.400 --> 00:46:56.400
+Bardzo gra cię wtedy zachęca,
+
+00:46:56.400 --> 00:46:58.400
+żebyś w ten sposób grał.
+
+00:46:58.400 --> 00:47:00.400
+Przy lepszych
+
+00:47:00.400 --> 00:47:02.400
+broniach nie ma tej równowagi, która na początku
+
+00:47:02.400 --> 00:47:04.400
+była bardzo dobrze pokazana.
+
+00:47:04.400 --> 00:47:06.400
+Okej, okej. To jest też
+
+00:47:06.400 --> 00:47:08.400
+kolejne... Ja w zasadzie gram
+
+00:47:08.400 --> 00:47:10.400
+tymi broniami, które znalazłem
+
+00:47:10.400 --> 00:47:12.400
+na początku. Nie mam takiej skłonności, żeby zmieniać.
+
+00:47:12.400 --> 00:47:14.400
+Najczęściej, kiedy podchodzę,
+
+00:47:14.400 --> 00:47:16.400
+to jest tak, że ja czyszczę obóz na zewnątrz
+
+00:47:16.400 --> 00:47:18.400
+przy użyciu snajperki z tłumikiem,
+
+00:47:18.400 --> 00:47:20.400
+a potem podchodzę na blisko
+
+00:47:20.400 --> 00:47:22.400
+z shotgunem z tłumikiem.
+
+00:47:22.400 --> 00:47:24.400
+Shotgun z tłumikiem to jest...
+
+00:47:24.400 --> 00:47:26.400
+Mam styl snajperek
+
+00:47:26.400 --> 00:47:28.400
+takich bez tłumików, to nie
+
+00:47:28.400 --> 00:47:30.400
+używam praktycznie. I też mam
+
+00:47:30.400 --> 00:47:32.400
+takie etapy, że nie jestem w stanie
+
+00:47:32.400 --> 00:47:34.400
+kogoś strzałem w głowę zdjąć
+
+00:47:34.400 --> 00:47:36.400
+jednorazowo. Muszę czasami
+
+00:47:36.400 --> 00:47:38.400
+strzelić dwa razy, więc może
+
+00:47:38.400 --> 00:47:40.400
+wymiana broni to zmieni.
+
+00:47:40.400 --> 00:47:42.400
+Ale to jest też... Tutaj trudno mi coś powiedzieć,
+
+00:47:42.400 --> 00:47:44.400
+bo ja jednak wybieram taki gameplay,
+
+00:47:44.400 --> 00:47:46.400
+przy którym ani AI słabo nie wypada,
+
+00:47:46.400 --> 00:47:48.400
+ani ja nie mam jakiegoś
+
+00:47:48.400 --> 00:47:50.400
+zagrożenia, jeżeli błędu nie popełnię, więc tu się
+
+00:47:50.400 --> 00:47:52.400
+nie mogę odnieść. Tak czy inaczej, ten styl
+
+00:47:52.400 --> 00:47:54.400
+grania zawsze mnie bawił i w zasadzie
+
+00:47:54.400 --> 00:47:56.400
+jeżeli mam tylko okazję,
+
+00:47:56.400 --> 00:47:58.400
+to tak gram i to jest okej.
+
+00:47:58.400 --> 00:48:00.400
+To się okazuje, że być może to podświadomie jakiś
+
+00:48:00.400 --> 00:48:02.400
+mechanizm, którym się zabezpieczam
+
+00:48:02.400 --> 00:48:04.400
+przed oglądaniem różnych kretynizmów, które
+
+00:48:04.400 --> 00:48:06.400
+się mogą w grach pojawić.
+
+00:48:06.400 --> 00:48:08.400
+Więc dla mnie to jest okej.
+
+00:48:08.400 --> 00:48:10.400
+Ja się osobiście nie mogę przyczepić.
+
+00:48:10.400 --> 00:48:12.400
+Kolejne rzeczy, które nie rozumiem, to jest zmiana
+
+00:48:12.400 --> 00:48:14.400
+kamery w obozach, bo nagle wchodzimy do
+
+00:48:14.400 --> 00:48:16.400
+obozów naszych takich i mamy
+
+00:48:16.400 --> 00:48:18.400
+widok z trzeciej osoby. No, ja też
+
+00:48:18.400 --> 00:48:20.400
+byłem w szoku. Myślałem, że coś się zepsuło, jak to pierwszy
+
+00:48:20.400 --> 00:48:22.400
+raz mi się wyświetliło. I tak, co mówię?
+
+00:48:22.400 --> 00:48:24.400
+Zastanawiam się, co to jest? Jakiś wstęp
+
+00:48:24.400 --> 00:48:26.400
+do tego, że w Far Cry
+
+00:48:26.400 --> 00:48:28.400
+kolejny też będzie totalny Assassin's Creed?
+
+00:48:28.400 --> 00:48:30.400
+Może chcieli
+
+00:48:30.400 --> 00:48:32.400
+zobaczyć, jak ludzie zareagują
+
+00:48:32.400 --> 00:48:34.400
+na taką małą zmianę?
+
+00:48:34.400 --> 00:48:36.400
+Ja zastanawiałem się
+
+00:48:36.400 --> 00:48:38.400
+nad tym i doszedłem, że to może być
+
+00:48:38.400 --> 00:48:40.400
+jeden powód, ponieważ
+
+00:48:40.400 --> 00:48:42.400
+grając w grę
+
+00:48:42.400 --> 00:48:44.400
+cały czas z perspektywy pierwszej osoby,
+
+00:48:44.400 --> 00:48:46.400
+my zapominamy, jak wygląda nasz bohater.
+
+00:48:46.400 --> 00:48:48.400
+I może być tak,
+
+00:48:48.400 --> 00:48:50.400
+że w testach wyszło
+
+00:48:50.400 --> 00:48:52.400
+im, że w cutscenkach
+
+00:48:52.400 --> 00:48:54.400
+gracze trochę nie identyfikują
+
+00:48:54.400 --> 00:48:56.400
+się i nie rozpoznają.
+
+00:48:56.400 --> 00:48:58.400
+Więc od czasu do czasu
+
+00:48:58.400 --> 00:49:00.400
+pokazują nam tego
+
+00:49:00.400 --> 00:49:02.400
+bohatera. Takie mam wrażenie,
+
+00:49:02.400 --> 00:49:04.400
+bo dla mnie to jest po prostu niespójne.
+
+00:49:04.400 --> 00:49:06.400
+Gra można
+
+00:49:06.400 --> 00:49:08.400
+zastosować trochę innych
+
+00:49:12.400 --> 00:49:14.400
+rozwiązań,
+
+00:49:16.400 --> 00:49:18.400
+żeby to zrobić.
+
+00:49:18.400 --> 00:49:20.400
+Nie wiem, wykorzystać
+
+00:49:20.400 --> 00:49:22.400
+lustra, których
+
+00:49:22.400 --> 00:49:24.400
+nie ma za bardzo tutaj.
+
+00:49:24.400 --> 00:49:26.400
+Jakoś
+
+00:49:26.400 --> 00:49:28.400
+fabularnie można to zrobić, że w co
+
+00:49:28.400 --> 00:49:30.400
+drugiej misji my tam
+
+00:49:30.400 --> 00:49:32.400
+trochę widzimy siebie, jak wyglądamy.
+
+00:49:32.400 --> 00:49:34.400
+Ja też
+
+00:49:34.400 --> 00:49:36.400
+w cutscenkach tak miałem.
+
+00:49:38.400 --> 00:49:40.400
+Jak ja robię postać w grze,
+
+00:49:40.400 --> 00:49:42.400
+to robię ją na odwalcie.
+
+00:49:42.400 --> 00:49:44.400
+W ogóle mnie to nie interesuje.
+
+00:49:44.400 --> 00:49:46.400
+Random.
+
+00:49:46.400 --> 00:49:48.400
+Serio?
+
+00:49:48.400 --> 00:49:50.400
+Ja nie mogę.
+
+00:49:50.400 --> 00:49:52.400
+Godziny spędzam na edytorach.
+
+00:49:52.400 --> 00:49:54.400
+Okej, to ja go nie widzę.
+
+00:49:54.400 --> 00:49:56.400
+Po drugie, co to za różnica?
+
+00:49:56.400 --> 00:49:58.400
+Dla mnie to nie jest żadna
+
+00:49:58.400 --> 00:50:00.400
+różnica.
+
+00:50:02.400 --> 00:50:04.400
+Tak podsumowując,
+
+00:50:04.400 --> 00:50:06.400
+to bardzo mi się podoba ta gra.
+
+00:50:08.400 --> 00:50:10.400
+Teraz się tłumaczę.
+
+00:50:10.400 --> 00:50:12.400
+Czekaj, muszę się do tego wytłumaczyć.
+
+00:50:14.400 --> 00:50:16.400
+Bardzo satysfakcjonujący
+
+00:50:16.400 --> 00:50:18.400
+gameplay ma ta gra.
+
+00:50:18.400 --> 00:50:20.400
+Dużo
+
+00:50:20.400 --> 00:50:22.400
+radości sprawia mi
+
+00:50:22.400 --> 00:50:24.400
+te wtórne,
+
+00:50:24.400 --> 00:50:26.400
+odgrzewane kotlety. Super mi
+
+00:50:26.400 --> 00:50:28.400
+smakuje.
+
+00:50:28.400 --> 00:50:30.400
+To jak jest zrobiona,
+
+00:50:30.400 --> 00:50:32.400
+jak gameplay,
+
+00:50:32.400 --> 00:50:34.400
+te mechaniki, wszystkie
+
+00:50:34.400 --> 00:50:36.400
+dźwięki broni, dźwięki trafienia.
+
+00:50:36.400 --> 00:50:38.400
+Tak niezwykle satysfakcjonujące
+
+00:50:38.400 --> 00:50:40.400
+są headshoty w tej grze.
+
+00:50:40.400 --> 00:50:42.400
+Tak, tak, tak.
+
+00:50:42.400 --> 00:50:44.400
+To, że naprawdę można tam
+
+00:50:44.400 --> 00:50:46.400
+trochę się pobawić.
+
+00:50:46.400 --> 00:50:48.400
+Widziałem na YouTube
+
+00:50:48.400 --> 00:50:50.400
+jakiś typ,
+
+00:50:50.400 --> 00:50:52.400
+robił tak, że przybijał wrogu
+
+00:50:52.400 --> 00:50:54.400
+w taką, ja też mam taką broń,
+
+00:50:54.400 --> 00:50:56.400
+że taka dzida leci.
+
+00:50:56.400 --> 00:50:58.400
+Tak, leci.
+
+00:50:58.400 --> 00:51:00.400
+I zwabiał tym zwierzęta.
+
+00:51:02.400 --> 00:51:04.400
+Złoto, złoto.
+
+00:51:04.400 --> 00:51:06.400
+Bawię się świetnie.
+
+00:51:06.400 --> 00:51:08.400
+Ja wiem, że nie jest to
+
+00:51:08.400 --> 00:51:10.400
+najlepsza gra na świecie.
+
+00:51:10.400 --> 00:51:12.400
+Ale
+
+00:51:12.400 --> 00:51:14.400
+nie mogę, jakby,
+
+00:51:14.400 --> 00:51:16.400
+chciałbym ją naprawdę zjechać,
+
+00:51:16.400 --> 00:51:18.400
+ale to jest
+
+00:51:18.400 --> 00:51:20.400
+bardzo porządny,
+
+00:51:20.400 --> 00:51:22.400
+rzemieślniczy, nawet wyżej,
+
+00:51:22.400 --> 00:51:24.400
+produkt,
+
+00:51:24.400 --> 00:51:26.400
+który
+
+00:51:26.400 --> 00:51:28.400
+mi się świetnie sprawdza.
+
+00:51:28.400 --> 00:51:30.400
+I ja też,
+
+00:51:30.400 --> 00:51:32.400
+ja zostanę przy tej grze na dłużej.
+
+00:51:32.400 --> 00:51:34.400
+Na pewno.
+
+00:51:34.400 --> 00:51:36.400
+Bo to jest
+
+00:51:36.400 --> 00:51:38.400
+właśnie przez to, że te
+
+00:51:38.400 --> 00:51:40.400
+misje są takie, do pół godziny
+
+00:51:40.400 --> 00:51:42.400
+mniej więcej, nawet mniej,
+
+00:51:42.400 --> 00:51:44.400
+to ona się mi świetnie będzie
+
+00:51:44.400 --> 00:51:46.400
+sprawdzać, jako
+
+00:51:46.400 --> 00:51:48.400
+zastępnik Fify.
+
+00:51:48.400 --> 00:51:50.400
+Kiedy chcę sobie zrobić przerwę
+
+00:51:50.400 --> 00:51:52.400
+w pracy, tam godzinkę, pół godzinki,
+
+00:51:52.400 --> 00:51:54.400
+w coś sobie pograć dla spokoju,
+
+00:51:54.400 --> 00:51:56.400
+to to się świetnie sprawdza, plus
+
+00:51:56.400 --> 00:51:58.400
+bardzo mi się podoba, jak ta gra wygląda,
+
+00:51:58.400 --> 00:52:00.400
+mimo tych narzekań, które tam mam,
+
+00:52:00.400 --> 00:52:02.400
+to jednak ona
+
+00:52:02.400 --> 00:52:04.400
+daje ci dużo satysfakcji
+
+00:52:04.400 --> 00:52:06.400
+przebywanie w tym świecie.
+
+00:52:06.400 --> 00:52:08.400
+To jest fast food gamingu.
+
+00:52:08.400 --> 00:52:10.400
+I porozmawiajmy sobie teraz
+
+00:52:10.400 --> 00:52:12.400
+o tym Remigiuszu. Czy gry
+
+00:52:12.400 --> 00:52:14.400
+zawsze muszą nam
+
+00:52:14.400 --> 00:52:16.400
+dawać
+
+00:52:16.400 --> 00:52:18.400
+jakiś postęp, rewolucję
+
+00:52:18.400 --> 00:52:20.400
+i unikalność?
+
+00:52:20.400 --> 00:52:22.400
+To jest fajne pytanie,
+
+00:52:22.400 --> 00:52:24.400
+ono się zresztą pojawiało
+
+00:52:24.400 --> 00:52:26.400
+w dyskusjach internetowych, jak za każdym
+
+00:52:26.400 --> 00:52:28.400
+razem jakiś artykuł w dowolnym serwisie był
+
+00:52:28.400 --> 00:52:30.400
+na temat Far Cry'a, to bardzo często
+
+00:52:30.400 --> 00:52:32.400
+zdarzają się głosy, że jak możecie być
+
+00:52:32.400 --> 00:52:34.400
+takimi idiotami, jakby dosłownie, bo nikt
+
+00:52:34.400 --> 00:52:36.400
+nie pisze idiotami, ale ma to,
+
+00:52:36.400 --> 00:52:38.400
+to jest nieme,
+
+00:52:38.400 --> 00:52:40.400
+że kupujecie po raz kolejny
+
+00:52:40.400 --> 00:52:42.400
+produkt Ubisoftu, przecież to jest
+
+00:52:42.400 --> 00:52:44.400
+to samo, robią z Was idiotów
+
+00:52:44.400 --> 00:52:46.400
+i tak długo, jak będziecie kupowali te gry,
+
+00:52:46.400 --> 00:52:48.400
+to oni będą robić te gry w ten sposób.
+
+00:52:48.400 --> 00:52:50.400
+Wydaje mi się, że ludzie bardzo często zapominają,
+
+00:52:50.400 --> 00:52:52.400
+że oprócz ich własnego gustu,
+
+00:52:52.400 --> 00:52:54.400
+występują jeszcze gusta innego rodzaju.
+
+00:52:54.400 --> 00:52:56.400
+Ubisoft akurat doskonale
+
+00:52:56.400 --> 00:52:58.400
+te gusty potrafi wykorzystywać.
+
+00:52:58.400 --> 00:53:00.400
+Są ludzie, którzy lubią
+
+00:53:00.400 --> 00:53:02.400
+odwiedzać światy, które już poznali
+
+00:53:02.400 --> 00:53:04.400
+wcześniej, gdzie mechaniki są powtarzalne,
+
+00:53:04.400 --> 00:53:06.400
+gdzie rzeczy się dzieją
+
+00:53:06.400 --> 00:53:08.400
+na podobnej zasadzie, ponieważ czują się tam
+
+00:53:08.400 --> 00:53:10.400
+jak u siebie w domu. Być może to już jest taka
+
+00:53:10.400 --> 00:53:12.400
+gamingowa emerytura, trudno mi powiedzieć.
+
+00:53:12.400 --> 00:53:14.400
+I naprawdę,
+
+00:53:14.400 --> 00:53:16.400
+jeżeli chodzi o rzeczy Ubisoftu,
+
+00:53:16.400 --> 00:53:18.400
+to ta firma ma masę wiernych
+
+00:53:18.400 --> 00:53:20.400
+fanów, którzy niespecjalnie udzielają
+
+00:53:20.400 --> 00:53:22.400
+się na forach, nie zabierają głosu,
+
+00:53:22.400 --> 00:53:24.400
+natomiast po prostu grają sobie w te gry,
+
+00:53:24.400 --> 00:53:26.400
+spędzają w nich po 200 godzin,
+
+00:53:26.400 --> 00:53:28.400
+czasami nawet więcej. I więcej
+
+00:53:28.400 --> 00:53:30.400
+im do szczęścia nie potrzeba, naprawdę.
+
+00:53:30.400 --> 00:53:32.400
+Trzeba sobie z tego zdać sprawę.
+
+00:53:32.400 --> 00:53:34.400
+Oczywiście można na nich zło życzyć.
+
+00:53:34.400 --> 00:53:36.400
+Jeżeli ktoś ma inne ambicje
+
+00:53:36.400 --> 00:53:38.400
+gamingowe i Ubisoft tych ambicji
+
+00:53:38.400 --> 00:53:40.400
+nie spełnia, no to teoretycznie
+
+00:53:40.400 --> 00:53:42.400
+można mieć do tej firmy pretensje, ale
+
+00:53:42.400 --> 00:53:44.400
+to też takich artykuły chyba się
+
+00:53:44.400 --> 00:53:46.400
+pojawiały niedawno, że nie każda
+
+00:53:46.400 --> 00:53:48.400
+gra musi być dla każdego.
+
+00:53:48.400 --> 00:53:50.400
+Ja powiedziałem o tym na początku.
+
+00:53:50.400 --> 00:53:52.400
+Far Cry 6
+
+00:53:52.400 --> 00:53:54.400
+zdecydowanie nie jest gra robiona dla mnie,
+
+00:53:54.400 --> 00:53:56.400
+ale na razie nie mam nic innego
+
+00:53:56.400 --> 00:53:58.400
+do pogrania, więc się w niej nie najgorzej bawię,
+
+00:53:58.400 --> 00:54:00.400
+bo rzemieślniczo jest zrobiona bardzo dobrze.
+
+00:54:00.400 --> 00:54:02.400
+I to jest tyle.
+
+00:54:02.400 --> 00:54:04.400
+Jestem pewny, że jest mnóstwo graczy podobnych do mnie,
+
+00:54:04.400 --> 00:54:06.400
+a jest jeszcze pewnie więcej takich,
+
+00:54:06.400 --> 00:54:08.400
+którzy przyjmują to z całym dobrodziejstwem
+
+00:54:08.400 --> 00:54:10.400
+tego inwentarza i bawią
+
+00:54:10.400 --> 00:54:12.400
+się doskonale, bo to jest znajomy, powtarzalny
+
+00:54:12.400 --> 00:54:14.400
+świat i to jest dla nich zaleta.
+
+00:54:14.400 --> 00:54:16.400
+Więc takie fast-foody gamingowe,
+
+00:54:16.400 --> 00:54:18.400
+co w ogóle jest trafnym pytaniem,
+
+00:54:18.400 --> 00:54:20.400
+jak najbardziej znajdują
+
+00:54:20.400 --> 00:54:22.400
+swojego odbiorcę, tak jak
+
+00:54:22.400 --> 00:54:24.400
+i fast-foody znajdują swojego odbiorcę,
+
+00:54:24.400 --> 00:54:26.400
+tak jak muzyka pop znajduje
+
+00:54:26.400 --> 00:54:28.400
+swoich odbiorców i z reguły
+
+00:54:28.400 --> 00:54:30.400
+tych odbiorców jest bardzo dużo.
+
+00:54:30.400 --> 00:54:32.400
+Ale to pop
+
+00:54:32.400 --> 00:54:34.400
+to jest fast-food, tak?
+
+00:54:34.400 --> 00:54:36.400
+Jak sobie
+
+00:54:36.400 --> 00:54:38.400
+prześledzisz na przykład na Spotify'u
+
+00:54:38.400 --> 00:54:40.400
+listę najpopularniejszych
+
+00:54:40.400 --> 00:54:42.400
+w Polsce kawałków,
+
+00:54:42.400 --> 00:54:44.400
+no to nie jest to muzyka
+
+00:54:44.400 --> 00:54:46.400
+wybitej jakości. Ja byłem
+
+00:54:46.400 --> 00:54:48.400
+rozczarowany. Ja też przez długi czas myślałem,
+
+00:54:48.400 --> 00:54:50.400
+że to będzie jakieś męskie granie,
+
+00:54:50.400 --> 00:54:52.400
+jakiś rap, jakiś hip-hop.
+
+00:54:52.400 --> 00:54:54.400
+Ale nie, to są
+
+00:54:54.400 --> 00:54:56.400
+takie, wiesz... Ja bym tam nie wierzył
+
+00:54:56.400 --> 00:54:58.400
+Spotify'owi, co jest najpopularniejsze.
+
+00:54:58.400 --> 00:55:00.400
+Być może, być może, być może
+
+00:55:00.400 --> 00:55:02.400
+to jest w jakiś sposób
+
+00:55:02.400 --> 00:55:04.400
+zmanipulowana lista, ale mam
+
+00:55:04.400 --> 00:55:06.400
+takie poczucie, że
+
+00:55:06.400 --> 00:55:08.400
+najpopularniejsza muzyka to wcale nie jest
+
+00:55:08.400 --> 00:55:10.400
+najambitniejsza muzyka i w przypadku
+
+00:55:10.400 --> 00:55:12.400
+gier może być dokładnie podobnie.
+
+00:55:12.400 --> 00:55:14.400
+A taki Michael Jackson?
+
+00:55:14.400 --> 00:55:16.400
+Beatlesi?
+
+00:55:16.400 --> 00:55:18.400
+Ty mi podkładasz nogę tutaj.
+
+00:55:18.400 --> 00:55:20.400
+W swoim czasie
+
+00:55:20.400 --> 00:55:22.400
+była to najpopularniejsza muzyka.
+
+00:55:22.400 --> 00:55:24.400
+Okej, okej, ale to...
+
+00:55:24.400 --> 00:55:26.400
+Mówię o tym dlatego,
+
+00:55:26.400 --> 00:55:28.400
+że jeżeli sięgamy po
+
+00:55:28.400 --> 00:55:30.400
+dzieła popkultury, które są popularne,
+
+00:55:30.400 --> 00:55:32.400
+to one wcale nie muszą być jakieś
+
+00:55:32.400 --> 00:55:34.400
+wybitne i nie muszą każdemu pasować.
+
+00:55:34.400 --> 00:55:36.400
+To są rzeczy, które są robione dla
+
+00:55:36.400 --> 00:55:38.400
+jak największej grupy odbiorców i w związku
+
+00:55:38.400 --> 00:55:40.400
+z tym są trochę płytsze niż takie,
+
+00:55:40.400 --> 00:55:42.400
+które są skierowane do jakiejś niszy.
+
+00:55:42.400 --> 00:55:44.400
+I gry Ubisoftu
+
+00:55:44.400 --> 00:55:46.400
+mogą takie być dokładnie. Tak, w grach
+
+00:55:46.400 --> 00:55:48.400
+zresztą jest bardzo dobry cytat
+
+00:55:48.400 --> 00:55:50.400
+z Indie Game The Movie, gdzie
+
+00:55:50.400 --> 00:55:52.400
+jeden z bohaterów mówi,
+
+00:55:52.400 --> 00:55:54.400
+że właśnie te gry od
+
+00:55:54.400 --> 00:55:56.400
+Division, Electronic Arts czy powiedzmy
+
+00:55:56.400 --> 00:55:58.400
+od Ubi są jak
+
+00:55:58.400 --> 00:56:00.400
+taka kula
+
+00:56:00.400 --> 00:56:02.400
+wypolerowana, że ona
+
+00:56:02.400 --> 00:56:04.400
+musi trafić do każdego, nie może
+
+00:56:04.400 --> 00:56:06.400
+tam być
+
+00:56:06.400 --> 00:56:08.400
+żadnego takiego ostrego
+
+00:56:08.400 --> 00:56:10.400
+miejsca, bo jeszcze ktoś się obrazi
+
+00:56:10.400 --> 00:56:12.400
+i skaleczy i będzie
+
+00:56:12.400 --> 00:56:14.400
+afera, że to ma być bezpieczne
+
+00:56:14.400 --> 00:56:16.400
+przede wszystkim. A on mówi,
+
+00:56:16.400 --> 00:56:18.400
+on nie chce takich gier. On właśnie chce
+
+00:56:18.400 --> 00:56:20.400
+gry, które są zadziorne.
+
+00:56:20.400 --> 00:56:22.400
+Ale mamy co roku, mamy CODA, mamy
+
+00:56:22.400 --> 00:56:24.400
+FF, mamy NBA,
+
+00:56:24.400 --> 00:56:26.400
+ileś tam gier mamy takich, które wychodzą
+
+00:56:26.400 --> 00:56:28.400
+co roku i są praktycznie
+
+00:56:28.400 --> 00:56:30.400
+takie same.
+
+00:56:30.400 --> 00:56:32.400
+No teraz Asasyny wychodzą co
+
+00:56:32.400 --> 00:56:34.400
+dwa lata,
+
+00:56:34.400 --> 00:56:36.400
+Far Cry też tak często super
+
+00:56:36.400 --> 00:56:38.400
+nie wychodzi. Też dwa lata temu
+
+00:56:38.400 --> 00:56:40.400
+wyszła. Tak, ale to są
+
+00:56:40.400 --> 00:56:42.400
+gry, które mają
+
+00:56:42.400 --> 00:56:44.400
+cykl wydawniczy.
+
+00:56:44.400 --> 00:56:46.400
+I jest oczywiście
+
+00:56:46.400 --> 00:56:48.400
+problem, no bo to jest jakiś tam
+
+00:56:48.400 --> 00:56:50.400
+sposób odgrzewany kotlet.
+
+00:56:50.400 --> 00:56:52.400
+To jest odgrzewany kotlet.
+
+00:56:52.400 --> 00:56:54.400
+Ale z drugiej strony
+
+00:56:54.400 --> 00:56:56.400
+te zespoły, które tworzą
+
+00:56:56.400 --> 00:56:58.400
+te gry, mogą
+
+00:56:58.400 --> 00:57:00.400
+naprawdę
+
+00:57:00.400 --> 00:57:02.400
+popracować
+
+00:57:02.400 --> 00:57:04.400
+i dopracować nad tymi rzeczami,
+
+00:57:04.400 --> 00:57:06.400
+które, czyli na przykład, no masz
+
+00:57:06.400 --> 00:57:08.400
+coś takie jak Ubi the Game, czyli
+
+00:57:08.400 --> 00:57:10.400
+Asasyn
+
+00:57:10.400 --> 00:57:12.400
+czy Far Cry
+
+00:57:12.400 --> 00:57:14.400
+opierają się na zdobywaniu
+
+00:57:14.400 --> 00:57:16.400
+fortów. Tak w skrócie
+
+00:57:16.400 --> 00:57:18.400
+oczywiście to jest bardzo duże
+
+00:57:18.400 --> 00:57:20.400
+skoszczenie, ale w jednej i w drugiej
+
+00:57:20.400 --> 00:57:22.400
+grze jest to
+
+00:57:22.400 --> 00:57:24.400
+zrobione absolutnie
+
+00:57:24.400 --> 00:57:26.400
+wyśmienicie.
+
+00:57:26.400 --> 00:57:28.400
+Przemyślane to jest.
+
+00:57:28.400 --> 00:57:30.400
+I to jest tak,
+
+00:57:30.400 --> 00:57:32.400
+że jak robisz coś ileś lat,
+
+00:57:32.400 --> 00:57:34.400
+no to możesz sobie,
+
+00:57:34.400 --> 00:57:36.400
+masz dużo większe doświadczenie.
+
+00:57:36.400 --> 00:57:38.400
+Wiesz, co działa, co nie działa. Możesz to
+
+00:57:38.400 --> 00:57:40.400
+dopracować. Już na czymś bazujesz.
+
+00:57:40.400 --> 00:57:42.400
+I tu na przykład
+
+00:57:42.400 --> 00:57:44.400
+była taka zmiana, że
+
+00:57:44.400 --> 00:57:46.400
+wreszcie
+
+00:57:46.400 --> 00:57:48.400
+jakby te ciała wrogów, które zabijesz
+
+00:57:48.400 --> 00:57:50.400
+z dużo dalszej odległości
+
+00:57:50.400 --> 00:57:52.400
+alarmują przeciwnika, no bo oni je
+
+00:57:52.400 --> 00:57:54.400
+widzą. W tych poprzednich grach to tak
+
+00:57:54.400 --> 00:57:56.400
+musieli potknąć się oni, żeby
+
+00:57:58.400 --> 00:58:00.400
+po prostu
+
+00:58:00.400 --> 00:58:02.400
+zwrócić uwagę. I tak,
+
+00:58:02.400 --> 00:58:04.400
+rzeczywiście, fast food, gamingu, ciężko
+
+00:58:04.400 --> 00:58:06.400
+byłoby mi tylko żywić się
+
+00:58:06.400 --> 00:58:08.400
+fast foodem. Myślę, że to jest mało realne.
+
+00:58:10.400 --> 00:58:12.400
+Ale od czasu do czasu lubię
+
+00:58:12.400 --> 00:58:14.400
+sobie zjeść fast food.
+
+00:58:14.400 --> 00:58:16.400
+I w szoku jestem,
+
+00:58:16.400 --> 00:58:18.400
+że Far Cry,
+
+00:58:18.400 --> 00:58:20.400
+ja piątkę kupiłem sobie za własne
+
+00:58:20.400 --> 00:58:22.400
+pieniądze i
+
+00:58:22.400 --> 00:58:24.400
+9 godzin pograłem i już mi się nie chciało.
+
+00:58:24.400 --> 00:58:26.400
+I byłem
+
+00:58:26.400 --> 00:58:28.400
+przekonany,
+
+00:58:28.400 --> 00:58:30.400
+że ta część absolutnie
+
+00:58:30.400 --> 00:58:32.400
+mnie nie wciągnie. A jednak się
+
+00:58:32.400 --> 00:58:34.400
+tak wydarzyło, że gram
+
+00:58:34.400 --> 00:58:36.400
+25 godzin już
+
+00:58:36.400 --> 00:58:38.400
+i będę grał dalej i świetnie się
+
+00:58:38.400 --> 00:58:40.400
+bawię.
+
+00:58:40.400 --> 00:58:42.400
+Czy to jest źle, czy nie?
+
+00:58:42.400 --> 00:58:44.400
+Wiesz co, ja też
+
+00:58:44.400 --> 00:58:46.400
+mam takie wrażenie, że niezależnie od
+
+00:58:46.400 --> 00:58:48.400
+tego, jakby źle oceniać Far Cry'a 6
+
+00:58:48.400 --> 00:58:50.400
+i nieważne, czy jest to poddyktowane
+
+00:58:50.400 --> 00:58:52.400
+jakimś sensownym argumentem,
+
+00:58:52.400 --> 00:58:54.400
+czy w zasadzie własnymi przemyśleniami
+
+00:58:54.400 --> 00:58:56.400
+i potrzebami, no to Far Cry
+
+00:58:56.400 --> 00:58:58.400
+6 jest lepszą grą od piątki.
+
+00:58:58.400 --> 00:59:00.400
+I to chyba obiektywnie. Tu nie ma co
+
+00:59:00.400 --> 00:59:02.400
+na ten temat dyskutować. Natomiast mam
+
+00:59:02.400 --> 00:59:04.400
+wrażenie, że może być oceniany trochę gorzej
+
+00:59:04.400 --> 00:59:06.400
+od piątki, dlatego że
+
+00:59:06.400 --> 00:59:08.400
+być może z perspektywy dużej
+
+00:59:08.400 --> 00:59:10.400
+ilości graczy gotowych oceniać
+
+00:59:10.400 --> 00:59:12.400
+gry na różnych serwisach nastąpiło
+
+00:59:12.400 --> 00:59:14.400
+jakieś takie przesilenie.
+
+00:59:14.400 --> 00:59:16.400
+I być może Ubisoft to
+
+00:59:16.400 --> 00:59:18.400
+odczuwa dosyć wyraźnie i
+
+00:59:18.400 --> 00:59:20.400
+przewiduje to i dlatego zapowiedzieli
+
+00:59:20.400 --> 00:59:22.400
+już, że ta szóstka będzie zamykała tą
+
+00:59:22.400 --> 00:59:24.400
+dotychczasową serię Far Cry'a, bo widzą,
+
+00:59:24.400 --> 00:59:26.400
+że już jakby przegięła się
+
+00:59:26.400 --> 00:59:28.400
+ta pałka goryczy, tak się mówi?
+
+00:59:28.400 --> 00:59:30.400
+Przegła się pałka goryczy.
+
+00:59:30.400 --> 00:59:32.400
+I ludzie
+
+00:59:32.400 --> 00:59:34.400
+już być może mają inne oczekiwania i chcą
+
+00:59:34.400 --> 00:59:36.400
+też zaspokoić deweloperzy
+
+00:59:36.400 --> 00:59:38.400
+oczekiwania tych ludzi, takich bardziej
+
+00:59:38.400 --> 00:59:40.400
+poszukujących ambitnych treści,
+
+00:59:40.400 --> 00:59:42.400
+więc zaoferują coś nowego, więc
+
+00:59:42.400 --> 00:59:44.400
+ten temat się już może wyczerpał. Ale Far Cry
+
+00:59:44.400 --> 00:59:46.400
+6 chyba z tego cyklu jest
+
+00:59:46.400 --> 00:59:48.400
+grą najlepszą.
+
+00:59:48.400 --> 00:59:50.400
+Oczywiście przez powtarzalne mechaniki może sprawiać
+
+00:59:50.400 --> 00:59:52.400
+wrażenie, że w zasadzie to samo to samo,
+
+00:59:52.400 --> 00:59:54.400
+ale moim zdaniem jest to pewien postęp.
+
+00:59:54.400 --> 00:59:56.400
+Inna sprawa może być
+
+00:59:56.400 --> 00:59:58.400
+tak, że ludzie, którzy mają nie wiem, po 100
+
+00:59:58.400 --> 01:00:00.400
+godzin w piątce i
+
+01:00:00.400 --> 01:00:02.400
+wszystkie części okrywali, to już to
+
+01:00:02.400 --> 01:00:04.400
+może być za dużo dla nich. Znaczy mimo
+
+01:00:04.400 --> 01:00:06.400
+tego, że ten świat jest,
+
+01:00:06.400 --> 01:00:08.400
+ale powiedząc szczerze, no raczej te
+
+01:00:08.400 --> 01:00:10.400
+światy w Ubisoft, Ubisoft potrafi
+
+01:00:10.400 --> 01:00:12.400
+robić, robi to naprawdę dobrze, te otwarte
+
+01:00:12.400 --> 01:00:14.400
+światy. Ale
+
+01:00:14.400 --> 01:00:16.400
+jakby zmieńmy szybko temat,
+
+01:00:16.400 --> 01:00:18.400
+bo już powoli... Ale poczekaj, poczekaj, bo ja wiem, że
+
+01:00:18.400 --> 01:00:20.400
+ty, ale akurat widzę, że już żeśmy
+
+01:00:20.400 --> 01:00:22.400
+godzinę przebili. Państwa przepraszamy
+
+01:00:22.400 --> 01:00:24.400
+za te długie, ale też przygotowałem
+
+01:00:24.400 --> 01:00:26.400
+sobie jeszcze jedną rzecz, chciałbym państwu opowiedzieć, a propos
+
+01:00:26.400 --> 01:00:28.400
+tego fast-fooda.
+
+01:00:28.400 --> 01:00:30.400
+Jak sobie, prześladzimy sobie
+
+01:00:30.400 --> 01:00:32.400
+listę gier z otwartymi światami, to nie jest tak
+
+01:00:32.400 --> 01:00:34.400
+częsta produkcja, która by się, jak mogłoby
+
+01:00:34.400 --> 01:00:36.400
+wydawać i w zasadzie od roku 2011,
+
+01:00:36.400 --> 01:00:38.400
+kiedy to wyszedł Skyrim od Bethesdy,
+
+01:00:38.400 --> 01:00:40.400
+to takich poważnych gier z
+
+01:00:40.400 --> 01:00:42.400
+otwartym światem, to naliczyłem sobie
+
+01:00:42.400 --> 01:00:44.400
+dziewięć. Wśród nich jest GTA V,
+
+01:00:44.400 --> 01:00:46.400
+jest Red Dead Redemption, jest Spider-Man,
+
+01:00:46.400 --> 01:00:48.400
+jest Fallout 4, jest Ghost of Tsushima,
+
+01:00:48.400 --> 01:00:50.400
+Wiedźmin 3, Horizon Zero Dawn
+
+01:00:50.400 --> 01:00:52.400
+i niewiele
+
+01:00:52.400 --> 01:00:54.400
+jest firm, które produkuje tego typu...
+
+01:00:54.400 --> 01:00:56.400
+Just Cause? Just Cause, to
+
+01:00:56.400 --> 01:00:58.400
+to też, to też, ale... W Far Cry nawet tak trochę
+
+01:00:58.400 --> 01:01:00.400
+idzie w tą stronę.
+
+01:01:00.400 --> 01:01:02.400
+Tak, tak, ten szósty, ale to,
+
+01:01:02.400 --> 01:01:04.400
+co chciałem powiedzieć, że nawet jeżeli
+
+01:01:04.400 --> 01:01:06.400
+dodamy sobie to Just Cause, to od tego
+
+01:01:06.400 --> 01:01:08.400
+2011 roku świat wyprodukował
+
+01:01:08.400 --> 01:01:10.400
+dziesięć gier takich znanych
+
+01:01:10.400 --> 01:01:12.400
+z otwartym światem,
+
+01:01:12.400 --> 01:01:14.400
+a tyle samo, czyli dziesięć gier
+
+01:01:14.400 --> 01:01:16.400
+Ubisoft zrobił od roku
+
+01:01:16.400 --> 01:01:18.400
+2018, więc
+
+01:01:18.400 --> 01:01:20.400
+jakby, zważywszy na tempo
+
+01:01:20.400 --> 01:01:22.400
+i ilość tych gier, to one siłą rzeczy
+
+01:01:22.400 --> 01:01:24.400
+muszą się stać fast-foodem i powiedziałbym
+
+01:01:24.400 --> 01:01:26.400
+nawet, że jeżeli weźmie się
+
+01:01:26.400 --> 01:01:28.400
+pod uwagę te proste cyferki,
+
+01:01:28.400 --> 01:01:30.400
+to te gry
+
+01:01:30.400 --> 01:01:32.400
+i tak są dużo lepsze niż mogłyby być,
+
+01:01:32.400 --> 01:01:34.400
+przy takiej częstotliwości wydawania gier z otwartym
+
+01:01:34.400 --> 01:01:36.400
+światem. Oczywiście Ubisoft jest ogromną
+
+01:01:36.400 --> 01:01:38.400
+firmą zrzeszającą wielu
+
+01:01:38.400 --> 01:01:40.400
+deweloperów, więc być może należałoby to
+
+01:01:40.400 --> 01:01:42.400
+rozmienić na drobne trochę, ale jednak
+
+01:01:42.400 --> 01:01:44.400
+jest to dziesięć gier przez ostatnie dwa lata
+
+01:01:44.400 --> 01:01:46.400
+z otwartym światem. Nie będę ich wszystkich wymieniał,
+
+01:01:46.400 --> 01:01:48.400
+mam nadzieję, że się nie pomyliłem w rachunkach.
+
+01:01:48.400 --> 01:01:50.400
+I Ubisoft ma dziesięć gier? Tak? Nie, no czekaj,
+
+01:01:50.400 --> 01:01:52.400
+bo też... Zaraz, zaraz, zaraz
+
+01:01:52.400 --> 01:01:54.400
+ci powiem. Gdzie ja widziałem tę listę?
+
+01:01:54.400 --> 01:01:56.400
+Gdzieś musiałbym w historii. Przecież...
+
+01:01:56.400 --> 01:01:58.400
+Ale począwszy od Far Cry'a...
+
+01:01:58.400 --> 01:02:00.400
+Zaraz... Gdzie ja to miałem?
+
+01:02:00.400 --> 01:02:02.400
+Holender, żałuję strasznie, że
+
+01:02:02.400 --> 01:02:04.400
+zamknąłem tę listę.
+
+01:02:04.400 --> 01:02:06.400
+Tutaj.
+
+01:02:06.400 --> 01:02:08.400
+O dobra, już ci podaję.
+
+01:02:08.400 --> 01:02:10.400
+Far Cry 6 2021,
+
+01:02:10.400 --> 01:02:12.400
+Immortal Sanic Rising
+
+01:02:12.400 --> 01:02:14.400
+2020, Assassin's Creed
+
+01:02:14.400 --> 01:02:16.400
+2020 Valhalla,
+
+01:02:16.400 --> 01:02:18.400
+Watch Dogs Legion
+
+01:02:18.400 --> 01:02:20.400
+2020,
+
+01:02:20.400 --> 01:02:22.400
+Ghost Recon
+
+01:02:22.400 --> 01:02:24.400
+Breakpoint 2019,
+
+01:02:24.400 --> 01:02:26.400
+Division 2
+
+01:02:26.400 --> 01:02:28.400
+2019, Far Cry
+
+01:02:28.400 --> 01:02:30.400
+New Dawn 2019,
+
+01:02:30.400 --> 01:02:32.400
+Odyssey 2018,
+
+01:02:32.400 --> 01:02:34.400
+The Crew 2018,
+
+01:02:34.400 --> 01:02:36.400
+może to już za dużo, ale Far Cry
+
+01:02:36.400 --> 01:02:38.400
+5 2018. I to
+
+01:02:38.400 --> 01:02:40.400
+jest tylko te ostatnie
+
+01:02:40.400 --> 01:02:42.400
+dwa lata. Więc produkują w zastraszającym
+
+01:02:42.400 --> 01:02:44.400
+tempie. Nie liczę, bo to przecież jakiś był.
+
+01:02:44.400 --> 01:02:46.400
+Ale to rzeczywiście masz rację.
+
+01:02:46.400 --> 01:02:48.400
+Więc
+
+01:02:48.400 --> 01:02:50.400
+trochę musi być. Trochę tak robię. I zmierzając
+
+01:02:50.400 --> 01:02:52.400
+już ku zakończeniu.
+
+01:02:52.400 --> 01:02:54.400
+Dlaczego nie lubimy Ubisoftu?
+
+01:02:54.400 --> 01:02:56.400
+To jest ciekawa historia.
+
+01:02:56.400 --> 01:02:58.400
+Rave Reviews przeprowadziło
+
+01:02:58.400 --> 01:03:00.400
+szczegółowe badania dotyczące
+
+01:03:00.400 --> 01:03:02.400
+analizy nienawiści wobec różnych
+
+01:03:02.400 --> 01:03:04.400
+marek na całym świecie.
+
+01:03:04.400 --> 01:03:06.400
+I w segmencie gaming w Polsce
+
+01:03:06.400 --> 01:03:08.400
+wygrywa Ubisoft i
+
+01:03:08.400 --> 01:03:10.400
+na całym świecie praktycznie wygrywa.
+
+01:03:10.400 --> 01:03:12.400
+Podstawą do tych wyników
+
+01:03:12.400 --> 01:03:14.400
+jest dokładna analiza wpisów
+
+01:03:14.400 --> 01:03:16.400
+z Twittera.
+
+01:03:16.400 --> 01:03:18.400
+Przeanalizowano
+
+01:03:18.400 --> 01:03:20.400
+ponad milion tweetów,
+
+01:03:20.400 --> 01:03:22.400
+więc wydaje się, że ma trochę
+
+01:03:22.400 --> 01:03:24.400
+sens. Ale jako, że to jest
+
+01:03:24.400 --> 01:03:26.400
+liczone przez Twittera,
+
+01:03:26.400 --> 01:03:28.400
+to ja też trochę...
+
+01:03:28.400 --> 01:03:30.400
+Nie rozumiem, że w ogóle w tym zestawieniu nie ma
+
+01:03:30.400 --> 01:03:32.400
+Electronic Arts.
+
+01:03:32.400 --> 01:03:34.400
+Activision to tam się mało co
+
+01:03:34.400 --> 01:03:36.400
+pojawia.
+
+01:03:36.400 --> 01:03:38.400
+Rozumiem, że na Twitterze
+
+01:03:38.400 --> 01:03:40.400
+dużo mocniej wybrzmiał problem
+
+01:03:40.400 --> 01:03:42.400
+molestowania i mobbingu w Ubisofcie.
+
+01:03:42.400 --> 01:03:44.400
+I bardzo złych warunków pracy również.
+
+01:03:44.400 --> 01:03:46.400
+No, ale
+
+01:03:46.400 --> 01:03:48.400
+czy to jest fakt?
+
+01:03:48.400 --> 01:03:50.400
+Bo często
+
+01:03:50.400 --> 01:03:52.400
+Ubisoft jest porównywany
+
+01:03:52.400 --> 01:03:54.400
+do Activision i do Ubi,
+
+01:03:54.400 --> 01:03:56.400
+do Electronic Arts,
+
+01:03:56.400 --> 01:03:58.400
+bo nie są to
+
+01:03:58.400 --> 01:04:00.400
+lubiane specjalnie gry,
+
+01:04:00.400 --> 01:04:02.400
+firmy, w szczególności
+
+01:04:02.400 --> 01:04:04.400
+Activision. Znaczy, Activision to teraz
+
+01:04:04.400 --> 01:04:06.400
+to tak na maksa, nie? Activision Blizzard
+
+01:04:06.400 --> 01:04:08.400
+to afera codziennie.
+
+01:04:08.400 --> 01:04:10.400
+Electronic Arts to...
+
+01:04:10.400 --> 01:04:12.400
+No nie wiem, tam trochę ucichło.
+
+01:04:12.400 --> 01:04:14.400
+Ja mam takie wrażenie,
+
+01:04:14.400 --> 01:04:16.400
+bo nic tam nie wydałem za dużo.
+
+01:04:16.400 --> 01:04:18.400
+No ale dlaczego Ubi?
+
+01:04:18.400 --> 01:04:20.400
+Też się
+
+01:04:20.400 --> 01:04:22.400
+zastanawiałem. Przy tym artykule, o którym
+
+01:04:22.400 --> 01:04:24.400
+mówiłem, dzisiaj też była ankieta
+
+01:04:24.400 --> 01:04:26.400
+dotycząca najmniej
+
+01:04:26.400 --> 01:04:28.400
+lubianych wydawców.
+
+01:04:28.400 --> 01:04:30.400
+I tutaj wygrał Electronic Arts,
+
+01:04:30.400 --> 01:04:32.400
+poprzedzając Activision Blizzard. Na końcu był Ubisoft.
+
+01:04:32.400 --> 01:04:34.400
+Ja nie wiem, gdybym miał
+
+01:04:34.400 --> 01:04:36.400
+zrobić listę trzech najmniej lubianych
+
+01:04:36.400 --> 01:04:38.400
+przeze mnie deweloperów, czy wydawców, to nie wiem,
+
+01:04:38.400 --> 01:04:40.400
+czy Ubisoft by się w tej pierwszej trójce
+
+01:04:40.400 --> 01:04:42.400
+znalazł. Pewnie dlatego,
+
+01:04:42.400 --> 01:04:44.400
+że ja nigdy się nie czuję przez Ubisoft
+
+01:04:44.400 --> 01:04:46.400
+oszukany. W tym sensie, że ja doskonale
+
+01:04:46.400 --> 01:04:48.400
+rozumiem, co oni robią i jak robią
+
+01:04:48.400 --> 01:04:50.400
+i czego należy się spodziewać po
+
+01:04:50.400 --> 01:04:52.400
+kolejnej grze. Natomiast jest sporo
+
+01:04:52.400 --> 01:04:54.400
+deweloperów, którzy ściemę oferują nam
+
+01:04:54.400 --> 01:04:56.400
+na co dzień i być może to się
+
+01:04:56.400 --> 01:04:58.400
+takie stało powszechne, że już nie mamy im
+
+01:04:58.400 --> 01:05:00.400
+tego za złe. Trudno powiedzieć.
+
+01:05:00.400 --> 01:05:02.400
+Chociaż może Ubisoft też trochę nas naciąga
+
+01:05:02.400 --> 01:05:04.400
+tymi informacjami o ambitnych dziełach
+
+01:05:04.400 --> 01:05:06.400
+z trudnymi wyborami moralnymi,
+
+01:05:06.400 --> 01:05:08.400
+a potem nam oferuje jakieś kretyńskie
+
+01:05:08.400 --> 01:05:10.400
+żarciki, które totalnie wywalają z imersji.
+
+01:05:10.400 --> 01:05:12.400
+Ale to jest jedyna rzecz, do której mógłbym się przyczepić.
+
+01:05:12.400 --> 01:05:14.400
+Może druga jest taka, że
+
+01:05:14.400 --> 01:05:16.400
+oferują w grach single player
+
+01:05:16.400 --> 01:05:18.400
+te sklepiki, gdzie możesz sobie trochę expa dokupić
+
+01:05:18.400 --> 01:05:20.400
+albo jakiś ekwipunek dodatkowy.
+
+01:05:20.400 --> 01:05:22.400
+To może być irytujące. No i na koniec
+
+01:05:22.400 --> 01:05:24.400
+chyba ostatnia rzecz, jaką mógłbym
+
+01:05:24.400 --> 01:05:26.400
+wziąć pod uwagę, to to, że oni są trochę
+
+01:05:26.400 --> 01:05:28.400
+przez tą częstotliwość tej produkcji,
+
+01:05:28.400 --> 01:05:30.400
+przez tą fast foodowość, to oni są
+
+01:05:30.400 --> 01:05:32.400
+trochę jak Justin Bieber w muzyce pop.
+
+01:05:32.400 --> 01:05:34.400
+Że ludziom już zbrzydło i to,
+
+01:05:34.400 --> 01:05:36.400
+że oni odnoszą takie sukcesy, dla wielu
+
+01:05:36.400 --> 01:05:38.400
+osób jest czymś nieprzyjemnym
+
+01:05:38.400 --> 01:05:40.400
+i bolesnym. Wiesz, bo to
+
+01:05:40.400 --> 01:05:42.400
+jak masz takie poczucie, że oni jadą...
+
+01:05:42.400 --> 01:05:44.400
+Absolutnie nie wiem, o czym ty teraz mówisz.
+
+01:05:44.400 --> 01:05:46.400
+Jaki to... Co Justin Bieber ma do...
+
+01:05:46.400 --> 01:05:48.400
+Co? No wiesz, Justin Bieber
+
+01:05:48.400 --> 01:05:50.400
+jest... Już muszę rozpocząć. Myślałem,
+
+01:05:50.400 --> 01:05:52.400
+że tego nie będę musiał państwu opowiadać,
+
+01:05:52.400 --> 01:05:54.400
+a tobie zwłaszcza.
+
+01:05:54.400 --> 01:05:56.400
+Justin Bieber bardzo
+
+01:05:56.400 --> 01:05:58.400
+często jest nielubiany dlatego, że
+
+01:05:58.400 --> 01:06:00.400
+odniósł ogromny sukces i że ma
+
+01:06:00.400 --> 01:06:02.400
+rzeszę fanów, którzy totalnie
+
+01:06:02.400 --> 01:06:04.400
+świata poza nim nie widzą.
+
+01:06:04.400 --> 01:06:06.400
+Ubisoft
+
+01:06:06.400 --> 01:06:08.400
+z drugiej strony produkuje
+
+01:06:08.400 --> 01:06:10.400
+gry, które dla wielu bardziej
+
+01:06:10.400 --> 01:06:12.400
+ambitnych graczy są odgrzewanym kotletem
+
+01:06:12.400 --> 01:06:14.400
+i oni mają niechęć ogromną wobec Ubisoftu
+
+01:06:14.400 --> 01:06:16.400
+i wobec tych pozostałych graczy,
+
+01:06:16.400 --> 01:06:18.400
+którzy tego nie widzą. To, o czym mówiłem
+
+01:06:18.400 --> 01:06:20.400
+wcześniej, że w komentarzach pojawiają się, że
+
+01:06:20.400 --> 01:06:22.400
+to przez nas, tych graczy, którzy akceptują
+
+01:06:22.400 --> 01:06:24.400
+gry Ubisoftu, Ubisoft może je
+
+01:06:24.400 --> 01:06:26.400
+dalej robić. Ale ty mówisz o Justinie Bieberze
+
+01:06:26.400 --> 01:06:28.400
+sprzed piętnastu lat, czy tam
+
+01:06:28.400 --> 01:06:30.400
+dziesięciu? Wiesz co, ja nie znam
+
+01:06:30.400 --> 01:06:32.400
+tych takich popularnych...
+
+01:06:32.400 --> 01:06:34.400
+Nie, nie, mówię o tym. To jakby też
+
+01:06:34.400 --> 01:06:36.400
+bardzo ciekawy i złożony artysta.
+
+01:06:36.400 --> 01:06:38.400
+Okej, okej. Wiesz co, ja
+
+01:06:38.400 --> 01:06:40.400
+trochę słabo się orientuję w muzyce pop,
+
+01:06:40.400 --> 01:06:42.400
+więc sięgam być może po te nazwiska, które
+
+01:06:42.400 --> 01:06:44.400
+lata temu były superpopularne. Ja już jestem
+
+01:06:44.400 --> 01:06:46.400
+boomerem, no to proszę ode mnie nie oczekiwać
+
+01:06:46.400 --> 01:06:48.400
+tutaj jakiejś wiedzy.
+
+01:06:48.400 --> 01:06:50.400
+Ale chodzi mi o to, że czasami
+
+01:06:50.400 --> 01:06:52.400
+niechęć do
+
+01:06:52.400 --> 01:06:54.400
+artysty, albo w tym przypadku
+
+01:06:54.400 --> 01:06:56.400
+do wydawcy, nie do końca jest uzasadniona
+
+01:06:56.400 --> 01:06:58.400
+tym, co robi,
+
+01:06:58.400 --> 01:07:00.400
+ale często tym, jaki sukces odniósł
+
+01:07:00.400 --> 01:07:02.400
+i mamy wrażenie, że być może ten sukces jest niezasłużony.
+
+01:07:02.400 --> 01:07:04.400
+I być może Ubisoft
+
+01:07:04.400 --> 01:07:06.400
+tak jest traktowany, że to jest
+
+01:07:06.400 --> 01:07:08.400
+zdziwiające, że oni robią takie gry
+
+01:07:08.400 --> 01:07:10.400
+i mimo tego sprzedają
+
+01:07:10.400 --> 01:07:12.400
+je w gigantycznych ilościach i wychodzą na tym bardzo
+
+01:07:12.400 --> 01:07:14.400
+do przodu. Więc może to jest takie powiązanie,
+
+01:07:14.400 --> 01:07:16.400
+być może to jest takie powiązanie, które
+
+01:07:16.400 --> 01:07:18.400
+dzisiaj się nie broni, bo... Ale w moim
+
+01:07:18.400 --> 01:07:20.400
+boomerskim mniemaniu jest całkiem trafne.
+
+01:07:20.400 --> 01:07:22.400
+No to powiem ci, że
+
+01:07:22.400 --> 01:07:24.400
+czytając ten artykuł chyba na gry
+
+01:07:24.400 --> 01:07:26.400
+online, chyba na pewno,
+
+01:07:26.400 --> 01:07:28.400
+tam zagłębiłem
+
+01:07:28.400 --> 01:07:30.400
+się w komentarze i jeden komentarz
+
+01:07:30.400 --> 01:07:32.400
+był taki, który punktował praktycznie
+
+01:07:32.400 --> 01:07:34.400
+wszystko.
+
+01:07:34.400 --> 01:07:36.400
+I ja nawet już zapomniałem
+
+01:07:36.400 --> 01:07:38.400
+o takich rzeczach, ponieważ
+
+01:07:38.400 --> 01:07:40.400
+bardzo podobała mi się Odyssey'a, bardzo podobała
+
+01:07:40.400 --> 01:07:42.400
+mi się Valhalla, ten Far Cry
+
+01:07:42.400 --> 01:07:44.400
+mi się też podobał. Ja nie mam negatywnych
+
+01:07:44.400 --> 01:07:46.400
+uczuć w stosunku do Ubisoftu.
+
+01:07:46.400 --> 01:07:48.400
+Wiadomo,
+
+01:07:48.400 --> 01:07:50.400
+że te wszystkie problemy,
+
+01:07:50.400 --> 01:07:52.400
+które są, czy to
+
+01:07:52.400 --> 01:07:54.400
+molestowanie, mobbing i złe warunki
+
+01:07:54.400 --> 01:07:56.400
+pracy, to jest bardzo duży
+
+01:07:56.400 --> 01:07:58.400
+problem. Przecież powiem sobie
+
+01:07:58.400 --> 01:08:00.400
+szczerze, gracze się tym nie przejmują.
+
+01:08:00.400 --> 01:08:02.400
+Jakby to nie jest rzecz, która
+
+01:08:02.400 --> 01:08:04.400
+nagle niszczy
+
+01:08:04.400 --> 01:08:06.400
+PR firmy.
+
+01:08:06.400 --> 01:08:08.400
+Ta lista wygląda bardzo sensownie. Przede wszystkim
+
+01:08:08.400 --> 01:08:10.400
+zarobienie co rok podobnych
+
+01:08:10.400 --> 01:08:12.400
+gier i recykling, czyli właśnie
+
+01:08:12.400 --> 01:08:14.400
+mamy Ubisoft
+
+01:08:14.400 --> 01:08:16.400
+The Game.
+
+01:08:16.400 --> 01:08:18.400
+Zapowiadanie gier na wiele lat
+
+01:08:18.400 --> 01:08:20.400
+przed premierą i nic z tym nie robienie.
+
+01:08:20.400 --> 01:08:22.400
+Beyond Good and Evil 2
+
+01:08:22.400 --> 01:08:24.400
+Skulls and Bones.
+
+01:08:24.400 --> 01:08:26.400
+Obiecywanie poważnego podejścia
+
+01:08:26.400 --> 01:08:28.400
+do tematów w grach, a potem
+
+01:08:28.400 --> 01:08:30.400
+robienie Ubisoft The Game.
+
+01:08:30.400 --> 01:08:32.400
+Watch Dogs uczy,
+
+01:08:32.400 --> 01:08:34.400
+czyli downgrade'y
+
+01:08:34.400 --> 01:08:36.400
+gier bez
+
+01:08:36.400 --> 01:08:38.400
+takiego...
+
+01:08:38.400 --> 01:08:40.400
+bez poinformowania o tym graczy.
+
+01:08:40.400 --> 01:08:42.400
+Dość nieuczciwa polityka
+
+01:08:42.400 --> 01:08:44.400
+DLC.
+
+01:08:44.400 --> 01:08:46.400
+Teraz już chyba jest trochę mniej.
+
+01:08:46.400 --> 01:08:48.400
+Obcinanie, to tak jak
+
+01:08:48.400 --> 01:08:50.400
+czujesz, że pewne rzeczy należą
+
+01:08:50.400 --> 01:08:52.400
+do gry, ale zostały obcięte
+
+01:08:52.400 --> 01:08:54.400
+i zrobione z tego DLC.
+
+01:08:54.400 --> 01:08:56.400
+Drogie wersje Ultimate.
+
+01:08:56.400 --> 01:08:58.400
+Ja nie wiem, to jest chyba teraz standard
+
+01:08:58.400 --> 01:09:00.400
+raczej taki
+
+01:09:00.400 --> 01:09:02.400
+normalny, że masz te wersje Ultimate z jakimiś
+
+01:09:02.400 --> 01:09:04.400
+dodatkami, one 400 wykosztują.
+
+01:09:04.400 --> 01:09:06.400
+Inwazyjne DRM'y
+
+01:09:06.400 --> 01:09:08.400
+i zmuszanie graczy PC
+
+01:09:08.400 --> 01:09:10.400
+do ich platformy,
+
+01:09:10.400 --> 01:09:12.400
+która jest raczej
+
+01:09:12.400 --> 01:09:14.400
+średnia. W szczególności
+
+01:09:14.400 --> 01:09:16.400
+najgorsze dla mnie to jest, że jak kupujesz na Steamie
+
+01:09:16.400 --> 01:09:18.400
+grę od Ubi,
+
+01:09:18.400 --> 01:09:20.400
+to kiedyś tak było, że musisz
+
+01:09:20.400 --> 01:09:22.400
+i tak, ja chyba w Far Cry'u tak mam, że mam
+
+01:09:22.400 --> 01:09:24.400
+Far Cry'a na Steama,
+
+01:09:24.400 --> 01:09:26.400
+ale ten Steam uruchamia mi Ubisoft,
+
+01:09:26.400 --> 01:09:28.400
+ten Ubisoft Connect
+
+01:09:28.400 --> 01:09:30.400
+i ja
+
+01:09:30.400 --> 01:09:32.400
+dopiero stąd odpalam
+
+01:09:32.400 --> 01:09:34.400
+gry. Ale
+
+01:09:34.400 --> 01:09:36.400
+żeby tak,
+
+01:09:36.400 --> 01:09:38.400
+i to ma oczywiście sens,
+
+01:09:38.400 --> 01:09:40.400
+ale są też plusy i
+
+01:09:40.400 --> 01:09:42.400
+uważam, że Ubisoft ma jeden
+
+01:09:42.400 --> 01:09:44.400
+z największych plusów, czyli
+
+01:09:44.400 --> 01:09:46.400
+Ubisoft Plus,
+
+01:09:46.400 --> 01:09:48.400
+czyli ich usługę subskrypcyjną,
+
+01:09:48.400 --> 01:09:50.400
+gdzie za 60 zł
+
+01:09:50.400 --> 01:09:52.400
+mamy miesiąc grania
+
+01:09:52.400 --> 01:09:54.400
+we wszystkie gry. Czyli
+
+01:09:54.400 --> 01:09:56.400
+to jest też, jak chcecie,
+
+01:09:56.400 --> 01:09:58.400
+boicie się tego Far Cry'a,
+
+01:09:58.400 --> 01:10:00.400
+to ja zdecydowanie polecam,
+
+01:10:00.400 --> 01:10:02.400
+jeszcze nie macie PeCety,
+
+01:10:02.400 --> 01:10:04.400
+wypróbowanie tego Ubisoft Plus
+
+01:10:04.400 --> 01:10:06.400
+i wydacie raz 60 zł
+
+01:10:06.400 --> 01:10:08.400
+i macie miesiąc grania
+
+01:10:08.400 --> 01:10:10.400
+we wszystkie najnowsze gry. Może
+
+01:10:10.400 --> 01:10:12.400
+spróbujecie Valhalla, może Watch Dogs'y,
+
+01:10:12.400 --> 01:10:14.400
+wątpię.
+
+01:10:14.400 --> 01:10:16.400
+No to są jednak
+
+01:10:16.400 --> 01:10:18.400
+mitości, ja tak Valhalla
+
+01:10:18.400 --> 01:10:20.400
+grałem. Nie kupiłem, nie dostałem
+
+01:10:20.400 --> 01:10:22.400
+klucza, nie kupiłem
+
+01:10:22.400 --> 01:10:24.400
+pełnej wersji. Po prostu
+
+01:10:24.400 --> 01:10:26.400
+ustaliliśmy, że sobie robimy odcinek,
+
+01:10:26.400 --> 01:10:28.400
+ja wykupiłem sobie Ubisoft Plus
+
+01:10:28.400 --> 01:10:30.400
+i ograłem sobie
+
+01:10:30.400 --> 01:10:32.400
+za 60 zł i byłem bardzo
+
+01:10:32.400 --> 01:10:34.400
+bardzo
+
+01:10:34.400 --> 01:10:36.400
+bardzo zadowolony. Po drugie
+
+01:10:36.400 --> 01:10:38.400
+oni mają,
+
+01:10:38.400 --> 01:10:40.400
+mimo tego, że te gry są
+
+01:10:42.400 --> 01:10:44.400
+mają swoje wady na premierę,
+
+01:10:44.400 --> 01:10:46.400
+to i tak patrząc na to, co się dzieje
+
+01:10:46.400 --> 01:10:48.400
+na rynku, to te gry są
+
+01:10:48.400 --> 01:10:50.400
+w miarę dopracowane. Znaczy w dniu
+
+01:10:50.400 --> 01:10:52.400
+premiery Far Cry 6
+
+01:10:52.400 --> 01:10:54.400
+miał chyba dużo mniej problemów niż Valhalla.
+
+01:10:54.400 --> 01:10:56.400
+Tak, zdecydowanie.
+
+01:10:56.400 --> 01:10:58.400
+A Valhalla szybko
+
+01:10:58.400 --> 01:11:00.400
+została załatana. Oczywiście
+
+01:11:02.400 --> 01:11:04.400
+nie wiem, czy wszystkie rzeczy,
+
+01:11:04.400 --> 01:11:06.400
+to raczej jest taka wiedza teoretyczna,
+
+01:11:06.400 --> 01:11:08.400
+no ale ludzie raczej chwalą,
+
+01:11:08.400 --> 01:11:10.400
+że te aktualizacje
+
+01:11:10.400 --> 01:11:12.400
+i usprawnienie tej gry
+
+01:11:12.400 --> 01:11:14.400
+postępuje, więc
+
+01:11:14.400 --> 01:11:16.400
+spoko. Rozumiem, że tam
+
+01:11:16.400 --> 01:11:18.400
+Ubisoft sobie latami
+
+01:11:18.400 --> 01:11:20.400
+tak
+
+01:11:20.400 --> 01:11:22.400
+sobie na
+
+01:11:22.400 --> 01:11:24.400
+ważu. Zapracował
+
+01:11:24.400 --> 01:11:26.400
+sobie na to. Być może jest w tym trochę
+
+01:11:26.400 --> 01:11:28.400
+racji. To nie jest opinia, którą ja bym
+
+01:11:28.400 --> 01:11:30.400
+podzielał. To nie wynika z jakiejś tam
+
+01:11:30.400 --> 01:11:32.400
+sympatii. Jak patrzę na te gry,
+
+01:11:32.400 --> 01:11:34.400
+tak jak zresztą opowiadałem, przez to wszystko
+
+01:11:34.400 --> 01:11:36.400
+wiem czego się spodziewać i tu
+
+01:11:36.400 --> 01:11:38.400
+aż tak bardzo nie czuję się oszukany
+
+01:11:38.400 --> 01:11:40.400
+i ostatecznie
+
+01:11:40.400 --> 01:11:42.400
+dostając tę grę, którą dostaję.
+
+01:11:42.400 --> 01:11:44.400
+Może też potrafię czytać między
+
+01:11:44.400 --> 01:11:46.400
+wersami, jak już tam Ubisoft coś zapowiada.
+
+01:11:46.400 --> 01:11:48.400
+Trudno mi powiedzieć. Jestem
+
+01:11:48.400 --> 01:11:50.400
+dosyć neutralny wobec Ubisoftu, a tym
+
+01:11:50.400 --> 01:11:52.400
+czasem są deweloperzy, których darzę
+
+01:11:52.400 --> 01:11:54.400
+ogromną niechęcią i nie będę się teraz
+
+01:11:54.400 --> 01:11:56.400
+dzielił, bo nie ma sensu.
+
+01:11:56.400 --> 01:11:58.400
+I Ubisoft macie
+
+01:11:58.400 --> 01:12:00.400
+deweloperzy wydawcy.
+
+01:12:00.400 --> 01:12:02.400
+Jeszcze się obrażą tym
+
+01:12:02.400 --> 01:12:04.400
+i mi nie pozwolą grać w swoje gry albo coś.
+
+01:12:04.400 --> 01:12:06.400
+Nie mam pojęcia. Dobrze, proszę
+
+01:12:06.400 --> 01:12:08.400
+państwa. Będziemy zabiegać ten podcast
+
+01:12:08.400 --> 01:12:10.400
+ostatnio coraz dłuższy, ale to może w sumie...
+
+01:12:10.400 --> 01:12:12.400
+Mam nadzieję, że
+
+01:12:12.400 --> 01:12:14.400
+miło spędzicie ten czas w korkach.
+
+01:12:14.400 --> 01:12:16.400
+A tak właśnie, że jesteśmy państwu tutaj.
+
+01:12:16.400 --> 01:12:18.400
+Ktoś napisał, że robimy
+
+01:12:18.400 --> 01:12:20.400
+za długie podcasty
+
+01:12:20.400 --> 01:12:22.400
+i on dłużej wraca z pracy
+
+01:12:22.400 --> 01:12:24.400
+i żona go podejrzewa o zdradę.
+
+01:12:24.400 --> 01:12:26.400
+Tak, chciałem właśnie to powiedzieć.
+
+01:12:26.400 --> 01:12:28.400
+Przepraszamy bardzo.
+
+01:12:28.400 --> 01:12:30.400
+Benzyna droga, to pamiętajcie.
+
+01:12:30.400 --> 01:12:32.400
+Na wyłączonym silniku, słuchajcie.
+
+01:12:32.400 --> 01:12:34.400
+Tak, możecie w korku stać na piechotę teraz,
+
+01:12:34.400 --> 01:12:36.400
+idąc z nami na spacer, to
+
+01:12:36.400 --> 01:12:38.400
+zoszczędzicie na paliwie. O, na spacerze.
+
+01:12:38.400 --> 01:12:40.400
+Idealnie, idealnie. Pytanie do was.
+
+01:12:40.400 --> 01:12:42.400
+Czy graliście już w Far Cry'a szóstkę?
+
+01:12:42.400 --> 01:12:44.400
+Podzielcie się wrażeniami.
+
+01:12:46.400 --> 01:12:48.400
+I jaka, według was, firma
+
+01:12:48.400 --> 01:12:50.400
+z branży
+
+01:12:50.400 --> 01:12:52.400
+gamedevowej jest najgorsza
+
+01:12:52.400 --> 01:12:54.400
+obecnie?
+
+01:12:54.400 --> 01:12:56.400
+Jak najbardziej. Pozdrawiamy państwa bardzo serdecznie.
+
+01:12:56.400 --> 01:12:58.400
+Piszcie w komentarzu.
+
+01:12:58.400 --> 01:13:00.400
+I łapka w górę.
+
+01:13:00.400 --> 01:13:02.400
+Tak jest. O, tak, trochę za późno, ale niech będzie.
+
+01:13:02.400 --> 01:13:04.400
+Komentarz, łapka w górę.
+
+01:13:04.400 --> 01:13:06.400
+Trzymajcie się, pa, pa. To tylko dla tych wyjątkowych,
+
+01:13:06.400 --> 01:13:12.400
+którzy zostali na koniec. Trzymajcie się, pa. Tak jest.
+
